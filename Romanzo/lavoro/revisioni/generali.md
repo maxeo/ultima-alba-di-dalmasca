@@ -19,7 +19,7 @@ Correggi le descrizioni difformi nei tuoi capitoli.
 - **Raminas**: occhi azzurri, gli stessi di Ashe.
 - **Basch e Gabranth**: biondi, occhi chiari.
 - **Vaan**: capelli biondo cenere. **Reks**: stessa famiglia, chiaro di capelli.
-- **Penelo**: capelli rossi.
+- **Penelo**: bionda. Mai rossa.
 - **Balthier**: capelli castani. **Fran**: capelli bianchi, pelle scura, orecchie lunghe.
 
 ## Dalla revisione delle Parti VI e IX
