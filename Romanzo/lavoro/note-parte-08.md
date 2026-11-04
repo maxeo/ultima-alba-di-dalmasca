@@ -37,3 +37,9 @@
 - Regola dell'elmo (VIA-LIBERA): Gabranth fa per togliersi l'elmo davanti a Drace condannata e Vayne glielo vieta. Drace: "Non mi serve la tua faccia. Conosco la tua voce... troppo buona per quell'elmo" (filo delle voci).
 - "Perdonami" riferito dalla guardia della porta, unico accenno ai testimoni. Morte di Drace senza commento del narratore.
 - Chiude su Vayne che ricompone la mano del padre e "La casa Solidor continua".
+
+## Cap. 69
+- Anastasis rivela la Spada dei Re (lasciata al Gran Kiltias, "in un tempio dove nessun re andasse a pregare"); domanda di Basch sul perché; immagine "del muro alto e della scala in giardino". "Svegliati".
+- Addio a Larsa sulla terrazza: Ashe lo ringrazia, "non siete il fratello di vostro fratello", "Restate vivo" (eco involontaria della richiesta di Drace nel cap. 68). Penelo: "Mangia... ci vediamo".
+- Paramina in quattro giorni; rifugio dei pellegrini con la regola della legna lasciata doppia (inventato). Vaan: Raithwall "non si fidava dei figli o delle pietre"; Ashe: "o di se stesso".
+- Miriam: colosso con l'incavo per il frammento; tre statue in poche righe; Vinuskar tagliato ("qualcosa che non voleva essere voltato"); Mateus in un paragrafo. Relj non citato: il cenno era facoltativo e qui non trovava posto.
