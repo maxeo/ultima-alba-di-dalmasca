@@ -22,3 +22,10 @@
 - Uball-ka nominato (fix 3). Racconto del dono degli dèi in discorso diretto; frase finale "chi vuole di più le pietre... è quello che le pietre vogliono di più".
 - Pietre appese ai pali della Collina degli Antichi che tintinnano e tacciono: invenzione ambientale.
 - Penelo tocca la pietra di Larsa all'arrivo del principe: semina per il cap. 62.
+
+## Cap. 54
+- Offerta di Larsa in scena piena (fix 3): Ashe rifiuta di fidarsi, Larsa si scusa e si offre come ostaggio. La paura che Vayne usi una pietra su Rabanastre è detta da Larsa con "gli voglio bene, per questo lo conosco".
+- Larsa arriva solo, con un chocobo comprato da un nomade che morde: la scorta lo raggiungerà "sulla strada per il nord".
+- Inventato: Basch ricorda un'udienza a Nalbina con Vayne sedicenne che gli chiedeva delle sentinelle. Togliere se contraddice la Parte I.
+- Vaan dice di aver visto Rasler nella Tomba e che la mano di Ashe gli passò attraverso (fix 2, `file13`). Dettagli della Tomba tenuti vaghi per non contraddire il cap. 47.
+- Chiusura su "Reks": la confessione è il cap. 55.
