@@ -30,3 +30,11 @@
 - Lista di Balthier "per il registro", con "il protagonista"; Fran: Raithwall non aveva senso dell'umorismo, "ho letto la porta".
 - Basch ad Ashe: Dalmasca è gente che aspetta il pane, "non per lui" (Rasler).
 - Chiusura: Ashe estrae la Spada del Patto; il cap. 95 parte da lì.
+
+## Cap. 95
+- Circa 3.200 parole. Rasler visibile a tutti; Vaan lo riconosce dalla Tomba. Rasler "giusto e dentro nessuno": prepara l'illusione del cap. 96 senza svelarla.
+- Ashe dice ad alta voce "Non posso fare di te un ordine".
+- Gabranth confessa con l'elmo chiuso (regola dell'elmo). Dettagli inventati: Raminas alla finestra, "gli ha sorriso". Vaan chiede di Reks; Gabranth "Mi ricordo".
+- Voci uguali: Penelo sente un uomo solo che parla da due punti della piazza. Basch riconosce il passo (difetto ereditato dalla madre). Basch dice "Noah" due volte.
+- Gabranth "porge la gola": vuole essere punito. Serve per i cap. 105 e 108.
+- Chiusura: Reddas para e annuncia il racconto; il cap. 96 parte da lì.
