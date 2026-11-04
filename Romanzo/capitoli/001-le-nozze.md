@@ -8,7 +8,7 @@
 
 ## 1. Le nozze dell'ultima primavera
 
-A Rabanastre il prezzo dei petali salì all'alba e non scese più fino a sera. Le venditrici della Città Bassa lo sapevano da settimane, e avevano passato le notti a staccare corolle di bouganvillea dai muri dei cortili, a riempire ceste di gelsomino e di quel fiore di cardo rosso che cresce sull'orlo dell'Estersand e non profuma di niente, ma tinge le dita. Una manciata costava due gil il giorno prima. La mattina delle nozze ne costava cinque, e nessuno protestava, perché la principessa si sposava una volta sola e un popolo che lesina sui petali al matrimonio della sua erede non merita di averne una.
+A Rabanastre il prezzo dei petali salì all'alba e non scese più fino a sera. Le venditrici della Città Bassa lo sapevano da settimane, e avevano passato le notti a staccare corolle di bouganvillea dai muri dei cortili, a riempire ceste di gelsomino e di quel fiore di cardo rosso che cresce sull'orlo del deserto orientale e non profuma di niente, ma tinge le dita. Una manciata costava due gil il giorno prima. La mattina delle nozze ne costava cinque, e nessuno protestava, perché la principessa si sposava una volta sola e un popolo che lesina sui petali al matrimonio della sua erede non merita di averne una.
 
 La città si era lavata come si lava una casa prima di una visita importante, cioè nei punti dove la visita avrebbe guardato. Le facciate lungo la via del corteo erano state imbiancate di fresco e la calce, che sotto quel sole asciuga in un'ora, aveva ancora l'odore di cantina bagnata. Dai balconi pendevano drappi azzurri e bianchi di Dalmasca, alternati ai verdi di Nabradia, che i tintori della città avevano dovuto imparare in fretta e che erano usciti di tre sfumature diverse, a seconda della bottega.
 

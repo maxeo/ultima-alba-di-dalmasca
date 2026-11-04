@@ -21,3 +21,7 @@ Vedi `aspetto.md`, in questa cartella: è vincolante.
 - **Gilgamesh**: al cap. 78 riconosce la spada di Basch; lascia quattordici spade rubate con lo stemma del Ministero della Legge. Il cap. 41 deve essere coerente: armatura, elmo, collezione, corda. Ha sei braccia (`aspetto.md`): tenerle nascoste al cap. 41 e rivelarle al cap. 78 o al cap. 104.
 - **Anello**: dopo il cap. 52 Balthier lo tiene nella tasca interna della giacca, sul petto. Ashe lo sa e non ne parla. Non restituirlo prima del cap. 112.
 - **I compagni si conoscono**: evita domande su cose note da mesi, come il nome di Fran chiesto da Ashe.
+
+## Nomi di luogo
+
+- **Mai "Estersand".** Scrivi "il deserto a est di Dalmasca", "il deserto orientale" o "a oriente", in minuscolo. Decisione dell'autore. Correggi i tuoi capitoli.

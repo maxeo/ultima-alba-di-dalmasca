@@ -34,7 +34,7 @@ Il tesoriere aprì la bocca, la richiuse, e guardò Rasler, che fino a quel punt
 
 Le porte si aprirono senza che nessuno avesse bussato.
 
-Basch fon Ronsenburg entrò senza farsi annunciare, cosa che non aveva mai fatto e che nessuno, nella sala, gli aveva mai visto fare. Era sporco fino alla cintura. Aveva la barba di due giorni e la polvere dell'Estersand nelle pieghe del mantello, e portava in mano un cilindro di cuoio come quello delle nozze, ma con il sigillo intatto, perché non aveva voluto aprirlo prima di arrivare. Si inginocchiò davanti al re. Poi si rialzò, perché il re gli fece segno, e lo disse.
+Basch fon Ronsenburg entrò senza farsi annunciare, cosa che non aveva mai fatto e che nessuno, nella sala, gli aveva mai visto fare. Era sporco fino alla cintura. Aveva la barba di due giorni e la polvere del deserto orientale nelle pieghe del mantello, e portava in mano un cilindro di cuoio come quello delle nozze, ma con il sigillo intatto, perché non aveva voluto aprirlo prima di arrivare. Si inginocchiò davanti al re. Poi si rialzò, perché il re gli fece segno, e lo disse.
 
 «Nabudis è caduta, maestà.»
 
@@ -212,4 +212,4 @@ Il principe aprì gli occhi una volta, a mezza lega dalla fortezza, quando il ch
 
 Basch non capì. Non chiese. Disse «Sì, altezza», perché era la risposta giusta a qualunque cosa il principe volesse dire, e Rasler parve contento della risposta, e chiuse gli occhi.
 
-Morì poco dopo, mentre il sole calava sull'Estersand, senza dire altro. Basch se ne accorse perché il corpo contro il suo braccio smise di fare fatica. Non fermò il chocobo. Cavalcò tutta la notte verso ovest, con gli altri cavalieri dietro che non osavano avvicinarsi, tenendo il principe di Nabradia dritto sulla sella davanti a sé come se fosse soltanto addormentato, perché non voleva che le sentinelle di Rabanastre, all'alba, lo vedessero arrivare disteso.
+Morì poco dopo, mentre il sole calava sul deserto orientale, senza dire altro. Basch se ne accorse perché il corpo contro il suo braccio smise di fare fatica. Non fermò il chocobo. Cavalcò tutta la notte verso ovest, con gli altri cavalieri dietro che non osavano avvicinarsi, tenendo il principe di Nabradia dritto sulla sella davanti a sé come se fosse soltanto addormentato, perché non voleva che le sentinelle di Rabanastre, all'alba, lo vedessero arrivare disteso.
