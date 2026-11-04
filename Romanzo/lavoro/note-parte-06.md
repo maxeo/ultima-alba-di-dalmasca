@@ -29,3 +29,11 @@
 - Inventato: Basch ricorda un'udienza a Nalbina con Vayne sedicenne che gli chiedeva delle sentinelle. Togliere se contraddice la Parte I.
 - Vaan dice di aver visto Rasler nella Tomba e che la mano di Ashe gli passò attraverso (fix 2, `file13`). Dettagli della Tomba tenuti vaghi per non contraddire il cap. 47.
 - Chiusura su "Reks": la confessione è il cap. 55.
+
+## Cap. 55
+- Confessione sul ponte, con mezza focaccia divisa. Vendetta mai agita resa con un fatto: Vaan segue per tre strade un vecchio soldato con un coltello da cuoio e torna a casa (fix 6, `file17:10`).
+- Il cielo come fuga dai luoghi di Reks; Vaan resta con Ashe per capire "a cosa è servito".
+- Ashe risponde con la propria colpa: i morti dei canali, "avevo un elenco anche io". Numero dei morti lasciato vago per non contraddire il cap. 16-17.
+- Segno chiaro sulla pelle dove stava l'anello: da riprendere nei cap. 70 e 112.
+- "Allora le troviamo": come Migelo per le chiavi. Vaan chiede di non dire del coltello a Penelo.
+- Chiude sulle scarpe di Larsa pulite e allineate davanti alle braci.
