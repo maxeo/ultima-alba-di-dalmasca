@@ -13,3 +13,5 @@
 | Giornale di bordo di Bahamut con l'ordine di fuoco firmato col nome di Vayne, tenuto da Zargabaath | 102 | 110 (Zargabaath), 113 (fonte dello studioso, facoltativo) | aperto |
 | Basch ride per la prima volta: "Con la mia vita"; "Non dirlo mai a Larsa" | 103 | 109 o 111 (Larsa lo viene a sapere) | aperto |
 | Ashe con una spada comune da soldato, pomo consumato | 104 | 106-107 | aperto |
+| Pietra di Larsa nera e incrinata dopo le Sephira | 106 | 111 (lettera di Penelo) | aperto |
+| Spada da cerimonia di Larsa, elsa d'argento, piantata e poi buttata da Vayne | 106 | 108 (Gabranth) o 109 | aperto |
