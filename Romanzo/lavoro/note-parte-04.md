@@ -33,3 +33,10 @@
 - Gag piena: Vaan "secondo capitano Basch" per una sera e una mattina; battute di Basch ("Io non urlo", "Non mi muovo così") e di Fran ("Adesso sì", "Peccato").
 - Vaan ha un attimo di vertigine gridando il nome dell'uomo che ha insultato a Nalbina: piccolo passo verso il cap. 33-37, senza perdono esplicito.
 - Havharo umano, barba grigia, veste da mercante; il covo è dietro la cucina della "taverna delle Nuvole". Le guide cittadine sono agenti.
+
+## Cap. 33
+- Circa 3.950 parole. Fratelli di Penelo: Kel (il più alto, la teneva sulle spalle alle nozze) e Doran (le insegnò il bastone), come nelle note della Parte II. Nastri: azzurro e rosso, colori inventati qui. Penelo aveva quindici anni nel 704. La moneta d'oro mandata con la lettera del re, mai spesa: oggetto possibile per il cap. 26 o la Parte XIII.
+- Larsa: "Il maggiore tra i vivi" (semina dei fratelli uccisi, `fix` sez. 4), Vayne che legge le battaglie navali "facendo la voce dei pesci", la regola della casa Solidor, l'inginocchiarsi. Non ha mai visto la città vecchia di Archades: annota "città vecchia".
+- Accenno alle fonti: le lettere di Penelo, scritte "anni dopo". Lega al cap. 111. Prossimo accenno non prima del cap. 36-37.
+- Ondore chiede a Penelo di Raminas: tono di memorialista cauto.
+- Chiusura comica: il maggiordomo riferisce di Vaan che grida in sei piazze. Il Leviatano parte "alla seconda campana": Larsa e Penelo saliranno a bordo.

@@ -56,7 +56,7 @@ Penelo aprì la bocca e la richiuse.
 
 La porta si chiuse. Penelo sentì la sbarra cadere nei ganci, poi i passi, poi più niente.
 
-Rimase seduta. Aspettò di contare fino a cento, perché era quello che faceva suo fratello maggiore quando giocavano a nascondino nei cortili della Città Bassa, prima dell'epidemia: contava fino a cento e intanto ascoltava, e diceva che metà di quello che serve sapere su un posto lo si sente prima di vederlo. Sentì l'acqua che gocciolava da qualche parte, un argano lontano, il vento che passava sulla finestra con un fischio sottile. Non sentì nessuno davanti alla porta.
+Rimase seduta. Aspettò di contare fino a cento, perché era quello che faceva Kel, il suo fratello più grande, quando giocavano a nascondino nei cortili della Città Bassa, prima dell'epidemia: contava fino a cento e intanto ascoltava, e diceva che metà di quello che serve sapere su un posto lo si sente prima di vederlo. Sentì l'acqua che gocciolava da qualche parte, un argano lontano, il vento che passava sulla finestra con un fischio sottile. Non sentì nessuno davanti alla porta.
 
 Poi guardò la corda ai polsi. Poi guardò il piccone più vicino, che aveva una lama di ferro scheggiata proprio sul bordo.
 
