@@ -62,3 +62,9 @@
 - Schiaffo con il dorso della destra, mani legate; la sinistra resta a pugno sull'anello largo. Ashe dice "ti prego" a Vaan.
 - Ashe a Vaan: "Taci", con la stessa immagine del mantello usata per Ghis al cap. 31: eco voluta.
 - "Niente esecuzioni" in cambio del Frammento, parola di Giudice. Chiusura: due lampade di bordo impallidiscono vicino alla pietra (Negalite).
+
+## Cap. 37
+- `09 V` (sicurezza e due giudici) ridotta a un paragrafo: fili di luce, chiavi prese a due ufficiali "su cui non si dilungarono".
+- Vossler: travestito da tre giorni per conto di Ondore. Semina del tradimento (`fix` sez. 4): sul Frammento in mano a Ghis tace un respiro di troppo e Fran gli punta un orecchio addosso. Da riprendere ai cap. 43-46.
+- Ashe rifiuta la spada di Basch ("preferisco quella di chiunque altro. Anche la sua", cioè di Vaan). Vossler: Ashe si allenava di notte contro un palo.
+- Vossler a Basch: "Non ti aspetti niente. È questo che mi preoccupa di te."
