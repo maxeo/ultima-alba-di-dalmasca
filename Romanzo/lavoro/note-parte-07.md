@@ -14,3 +14,16 @@
 - Jote: ricordo di Fran giovane sul ramo che "ascoltava le storie del Bosco"; "le tue orecchie si sono abituate alle voci degli Huma"; "libertà" detta "morte".
 - Parola Verde: occidente, gallerie, "ferro freddo". Fran ripete le parole di cinquant'anni prima; Jote: "non hai trovato parole nuove".
 - Chiude su Fran che dice "Bugiardo" a Balthier.
+
+## Cap. 60
+- Gag "Quanti anni hai?" con le reazioni di tutti, Penelo: "Cresci un po'". Fran non risponde, ma la sera gli passa la parte più grande.
+- Larsa riconosce Henne in Bancour. Riga sulla magilite come base dell'Impero affidata al precettore di Larsa (materiale salvato da `20 VII`).
+- Soldati feriti: è Ashe a dare l'unguento al soldato lentigginoso di leva. Il soldato parla di "signori con le vesti lunghe" e non sa chi li ha attaccati. Indica il passaggio dei chocobo (la compagnia ha già il suo chocobo: niente prestito).
+- Sei corpi all'ingresso, quattro ricercatori di Draklor senza ferite. Balthier: "Ricerca", e non legge il quaderno.
+
+## Cap. 61
+- Miniera con macchine che vanno da sole e nessun uomo vivo; Larsa ragiona su Lhusu e sulle miniere di Bhujerba a rischio.
+- Mjrn posseduta: "la puzza del potere", accusa Ashe con una voce non sua, "divertita". La furia di Fran è ricordata sulla Shiva (fix 2), senza dettagli per non contraddire il cap. 49.
+- Tiamat ridotto a un paragrafo senza nome; Larsa "non si sposta" davanti alla bestia per coprire Penelo (legame Penelo-Larsa, fix 3).
+- Presenza (fix 4, semina): volto lungo d'ombra, senza occhi, bocca che "sorride", visto da tutti; Vaan pelle d'oca, Larsa indietreggia, orecchie di Fran schiacciate. Da tenere identico quando torna Venat (Parte X-XI).
+- "Sorella?"; Mjrn stringe il vestito di Fran.

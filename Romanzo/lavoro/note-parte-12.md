@@ -24,7 +24,7 @@
 - Basch e Reddas combattono "come usciti dalla stessa scuola": traccia per il cap. 96.
 
 ## Cap. 94
-- Circa 3.150 parole. Pianerottolo: Penelo ("li vedo meglio adesso"), Vaan (non si è accorto di aver smesso di odiare Basch, come non si accorse della morte di Reks), Reddas sui fantasmi e sul "cambiare nome". Sguardo Basch-Reddas.
+- Circa 2.450 parole. Pianerottolo: Penelo ("li vedo meglio adesso"), Vaan (non si è accorto di aver smesso di odiare Basch, come non si accorse della morte di Reks), Reddas sui fantasmi e sul "cambiare nome". Sguardo Basch-Reddas.
 - Inventato il nome del fratello maggiore di Penelo, Dorran, con il dente storto. Se i blocchi precedenti hanno già dato nomi, va allineato.
 - Vaan ricorda Reks con un fiore bianco schiacciato in mano (gigli, cap. 8). Il richiamo vero ai gigli resta per la Parte XIII.
 - Lista di Balthier "per il registro", con "il protagonista"; Fran: Raithwall non aveva senso dell'umorismo, "ho letto la porta".
@@ -32,7 +32,7 @@
 - Chiusura: Ashe estrae la Spada del Patto; il cap. 95 parte da lì.
 
 ## Cap. 95
-- Circa 3.200 parole. Rasler visibile a tutti; Vaan lo riconosce dalla Tomba. Rasler "giusto e dentro nessuno": prepara l'illusione del cap. 96 senza svelarla.
+- Circa 2.600 parole. Rasler visibile a tutti; Vaan lo riconosce dalla Tomba. Rasler "giusto e dentro nessuno": prepara l'illusione del cap. 96 senza svelarla.
 - Ashe dice ad alta voce "Non posso fare di te un ordine".
 - Gabranth confessa con l'elmo chiuso (regola dell'elmo). Dettagli inventati: Raminas alla finestra, "gli ha sorriso". Vaan chiede di Reks; Gabranth "Mi ricordo".
 - Voci uguali: Penelo sente un uomo solo che parla da due punti della piazza. Basch riconosce il passo (difetto ereditato dalla madre). Basch dice "Noah" due volte.
@@ -51,7 +51,7 @@
 - Aggiunti: Basch vide la luce di Nabudis dalle mura di Nalbina con Rasler (controllare col cap. 2 del blocco-a); il padre di Rasler era nel palazzo di Nabudis; Balthier cadetto a quindici anni vide Zecht col chocobo grigio "Ferro" sulla Via dei Trionfi; Gabranth ricorda l'ordine di Vayne per Raminas ("una fortuna che il Giudice avesse un fratello").
 
 ## Cap. 97
-- Circa 3.500 parole. Motivo dell'odio (fix `file10:932-942`): Basch fuggì la notte di Landis; Noah restò con la madre malata (catino azzurro scheggiato), andò a est coi profughi, prese a una porta il nome da ragazza della madre, Gabranth. Lei morì ad Archades l'inverno dopo chiedendo di Basch. Verificare col racconto del gemello al cap. 23 del blocco-a.
+- Circa 2.850 parole. Motivo dell'odio (fix `file10:932-942`): Basch fuggì la notte di Landis; Noah restò con la madre malata (catino azzurro scheggiato), andò a est coi profughi, prese a una porta il nome da ragazza della madre, Gabranth. Lei morì ad Archades l'inverno dopo chiedendo di Basch. Verificare col racconto del gemello al cap. 23 del blocco-a.
 - Basch: "la vergogna è una ragione per non smettere"; speranza. Vinto Gabranth con l'elsa, senza ucciderlo.
 - I gemelli combattono uguali: "mancini di guardia e destri di colpo", stesso sergente di frontiera.
 - Cid: "cane" per Gabranth e per Raithwall ("padrone e cane"). Venat respinge Gabranth. Larsa gli aveva chiesto della madre: è l'unica cosa che Cid gli toglie.
@@ -64,3 +64,11 @@
 - Famfrit senza nome, poche righe. Balthier spara alla gamba del padre.
 - Inventati: scrivania sotto la finestra tenuta per Ffamran due anni, poi "le provette"; madre di Balthier morta quando lui aveva sei anni; le lenti col vetro incrinato che Balthier mette nella tasca interna accanto all'anello di Ashe; fazzoletto della madre con l'iniziale azzurra, lasciato cadere quando corre da Fran.
 - Ultime parole di Cid secondo la fonte: tieniti la pietà, scappa, "almeno quello fallo bene".
+
+## Cap. 99
+- Circa 2.450 parole. Fran: "Vola" ripete senza saperlo il "scappa" di Cid; Balthier: "Non discutere con il protagonista", la gag spezzata dalla voce; Fran: "Stupido".
+- Reddas prende la Spada dei Re (fonte) e si raddrizza da Giudice; sentenza "ti condanno all'oblio". Nessun rumore, come a Nabudis.
+- Spada dei Re e Spada del Patto perdute nell'esplosione: Ashe esce a mani vuote e aperte. Verificare se il regista vuole far tornare la Spada dei Re.
+- Fix `file32:680, 1366`: Basch cerca Gabranth al pilastro: impronta, trascinamento verso una terrazza, una goccia di sangue. Lo dirà "a uno solo" (a Larsa o ad Ashe, cap. 105 o 109).
+- Penelo raccoglie il fazzoletto della madre di Balthier.
+- Luce vista a Eruyt (Jote, senza nome), Jahara, Balfonheim (Elza sui gradini).
