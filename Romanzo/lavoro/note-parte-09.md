@@ -36,3 +36,17 @@
 - Vecchia Archades come Città Bassa dell'Impero: Ashe se ne vergogna un poco.
 - **Gilgamesh, secondo incontro**: riconosce Basch ("una spada che io non ho"). Il cap. 41 non è ancora scritto: non nomino che cosa lasciò di rubato allora. Basch lo atterra con la sua stessa corda; lui fugge e lascia quattordici spade con lo stemma del Ministero della Legge. Jules non compra più da lui: le spade aprono la porta al cap. 79.
 - Gilgamesh descritto solo per armatura, elmo e collezione: nessun dettaglio fisico che vincoli il cap. 41 (numero di braccia ecc.).
+
+## Cap. 79
+- Jules: i millecinquecento gil diventano le quattordici spade di Gilgamesh, che Jules restituirà al Ministero della Legge per averne un debito. Così Gilgamesh "apre una porta verso Archades" come da `lavoro-generale.md`.
+- La voce del barile viene dal cortile di Aurel (via del Pozzo Vecchio 9), dove Vaan restituisce la chiave alla sorella. Beasley è conciatore, il sacchetto è suo, risparmi nascosti alla moglie.
+- Jules a Balthier: "il figlio perduto della famiglia Bunansa". "Ffamran" resta per il cap. 81.
+- **Rete del Clan**: moguri postino di Montblanc al primo arco, con biglietto. Ba'Gamnan ha un contratto pagato da Archades. Il favore si paga: "il conto te lo fa quando torni". Risposta di Vaan per Migelo e Kytes.
+- Ba'Gamnan annunciato qui, ultima caccia al cap. 80.
+
+## Cap. 80
+- Apertura sulla fontana che "dà acqua per niente", in contrasto con il pozzo del cap. 74.
+- Penelo e Vaan: "sembri un pesce", "sei cambiato", Larsa al palazzo. Penelo tocca il punto vuoto dove teneva la pietra, ripresa da Larsa al cap. 62. Basch e la battuta sul "servizio presso le case reali".
+- Chop resi come "attestati di merito civico" in tavolette di pino, quercia ed ebano: il nome di gioco non compare. Satira in poche commissioni, senza elenco.
+- **Ultima caccia di Ba'Gamnan**: fermato dall'"Ispettorato dell'armonia civica" per mancanza di attestati e contratto non registrato; undici moduli in triplice copia. Rinuncia a voce alta: "Ba'Gamnan smette". Con lui Bwagi, Gijuk, Rinok.
+- Jules fa credito per i 2.500 gil: "essere in debito è già una posizione sociale".
