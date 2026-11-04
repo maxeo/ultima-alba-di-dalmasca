@@ -26,3 +26,8 @@
 | Da Dalan: tazza ancora calda, sedia tiepida, odore di cuoio e di spada; qualcosa di lungo avvolto in un panno sotto il materasso | 10 | 13 (Vossler e la Resistenza), 25 (Dalan e Basch) | aperto |
 | Dalan suggerisce la scusa "vado a Giza per Migelo" | 10 | 13 | aperto |
 | Pietra della Luna Crescente: falce piatta grigio-violetta, in una scatola nera; "le pietre tengono la luce come le brocche l'acqua" | 10 | 12-13 | aperto |
+| Bastone di Penelo con le punte di ferro: era di uno dei fratelli, appeso sopra il suo letto da due anni | 11 | 16-17 (canali), 26, Parte V (`file10:1334`) | aperto |
+| "Non metterti davanti a me. Mettiti accanto." (Penelo a Vaan) | 11 | 12, 26, possibile richiamo nella Parte XIII | aperto |
+| Penelo segna sul registro di Migelo le boccette prese: "le paghi tu" | 11 | 12 | aperto |
+| Contare le onde del vento a Giza: centoquattordici fino al guado | 11 | 12 o 26 (ricordo) | aperto |
+| Jinn, Masyua, Brunoa e la cockatrice "offesa" | 11 | facoltativo, Parte V (`file15`: Giza nella stagione delle piogge) | aperto |
