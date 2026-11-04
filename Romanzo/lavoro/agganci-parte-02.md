@@ -21,3 +21,8 @@
 | Ufficiale di Vayne "si segna" Vaan sul muro | 9 | 17-18 (arresto: Vaan riconosciuto?) | aperto |
 | Targhe doppie delle vie, pietra dalmasca e metallo archadiano | 9 | 25, 101 | aperto |
 | Vaan conta le finestre del palazzo: sei finestre buie sotto le cupole | 9 | 13-14 (tesoreria) | aperto |
+| Feste del console su tre sere; la terza è la grande cena con la vecchia nobiltà: notte del furto | 10 | 12-14 | aperto |
+| "Sterminatore di topi": il soprannome del quaderno di Montblanc gira per la Città Bassa (gag della Parte II) | 10 | 11, 13, 16 (Balthier lo sente?) | aperto |
+| Da Dalan: tazza ancora calda, sedia tiepida, odore di cuoio e di spada; qualcosa di lungo avvolto in un panno sotto il materasso | 10 | 13 (Vossler e la Resistenza), 25 (Dalan e Basch) | aperto |
+| Dalan suggerisce la scusa "vado a Giza per Migelo" | 10 | 13 | aperto |
+| Pietra della Luna Crescente: falce piatta grigio-violetta, in una scatola nera; "le pietre tengono la luce come le brocche l'acqua" | 10 | 12-13 | aperto |

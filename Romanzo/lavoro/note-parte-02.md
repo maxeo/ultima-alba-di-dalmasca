@@ -18,3 +18,8 @@
 - Accenno alle fonti: chi applaudì per primo (unica volta nei cap. 7-9).
 - Vayne nota Vaan sul muro e un ufficiale "se lo segna": non deve avere seguito esplicito, solo inquietudine. Se il regista lo trova troppo, si toglie la frase bassa all'ufficiale.
 - Migelo paga l'affitto all'impero: dettaglio inventato, coerente con la bottega occupata.
+
+## Cap. 10
+- Circa 2.500 parole. Le feste del console durano tre sere (uso di Archades): così il furto cade la sera della grande cena e il giro a Giza ci sta in mezzo. Il cap. 9 racconta la prima sera.
+- Dalan ha appena ricevuto un ospite (Vossler, non nominato) e nasconde una spada sotto il materasso: semi per il cap. 13 e il cap. 25.
+- Giza è breve, ferma sul crinale. La cockatrice chiude in comico.
