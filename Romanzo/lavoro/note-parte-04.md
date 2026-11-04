@@ -40,3 +40,10 @@
 - Accenno alle fonti: le lettere di Penelo, scritte "anni dopo". Lega al cap. 111. Prossimo accenno non prima del cap. 36-37.
 - Ondore chiede a Penelo di Raminas: tono di memorialista cauto.
 - Chiusura comica: il maggiordomo riferisce di Vaan che grida in sei piazze. Il Leviatano salpa nella notte; Larsa e Penelo salgono a bordo prima del tramonto del secondo giorno, prima dell'udienza di Basch.
+
+## Cap. 34
+- Quadro della firma della resa nella galleria di Ondore: Raminas curvo sul foglio e un uomo in grigio che sorride (l'ambasciatore del cap. 1?). Solo immagine, nessuna spiegazione.
+- Ondore: "Il mio necrologio era la sua corda". Basch tace su chi sia Amalia, Ondore non chiede: si capiscono senza dirlo.
+- Ottava Flotta: ventidue navi (numero inventato).
+- Il segnale di Ondore resta nelle parole sulle catene; Basch: "Mi dispiace" a Balthier. Balthier: "È un biglietto... per il Leviatano".
+- Ondore detta la lettera di consegna "tre complici" e sussurra a Basch del "carrello che respirava": chiude il "Ti ha visto" del cap. 29. Firma tremata: niente accenno alle fonti qui (i cap. 29, 31, 33 ne hanno già).
