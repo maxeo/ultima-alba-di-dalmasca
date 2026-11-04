@@ -22,7 +22,7 @@ Reks rimase a guardarlo per un tempo che non avrebbe saputo misurare. Poi slacci
 
 Reks annuì. Si rialzò. Gli lasciò la fiaschetta in grembo, perché a lui, pensò, sarebbe servita di più. Poi si accorse di avere le guance bagnate, e non avrebbe saputo dire da quando, e se le asciugò con il dorso della mano sporca.
 
-Reks abbassò la spada. Il braccio destro gli tremava fino alla spalla. Guardò il corridoio vuoto, poi guardò la scala alle sue spalle, quella che il capitano aveva salito con gli altri sette, stretta, con i gradini consumati al centro. Il capitano aveva detto le cisterne. Non verso di noi. Verso le cisterne. È un ordine.
+Il braccio destro gli tremava fino alla spalla. Guardò il corridoio vuoto, poi guardò la scala alle sue spalle, quella che il capitano aveva salito con gli altri sette, stretta, con i gradini consumati al centro. Il capitano aveva detto le cisterne. Non verso di noi. Verso le cisterne. È un ordine.
 
 Un'altra strada, pensò Reks. Sono andati a cercare un'altra strada per arrivare su.
 
@@ -56,7 +56,7 @@ Il cavaliere non rispose.
 
 «Mi hanno chiesto di venire con una scorta piccola, e sono venuto con una scorta piccola. Mi hanno chiesto di venire senza mia figlia, e mia figlia è a Rabanastre.» Il re fece una pausa. «Questo lo avevo deciso da solo, a dire il vero. Ma ho lasciato che credessero di averlo chiesto loro. Agli archadiani piace pensare di aver chiesto le cose.»
 
-«Ma non credo che ti preoccupi questo.» Il re lo guardò a lungo. Reks, dalla porta, vedeva la sua faccia illuminata dalle candele, e la faccia era stanca, stanchissima, ma non c'era paura dentro, e c'era invece qualcosa che somigliava alla pazienza. «Ho governato per trent'anni sapendo che un giorno qualcuno sarebbe entrato da quella porta con una spada. Non sapevo chi. Ho sempre sperato che avesse almeno la decenza di dirmi perché.»
+Il cavaliere tacque. «Ma non credo che ti preoccupi questo.» Il re lo guardò a lungo. Reks, dalla porta, vedeva la sua faccia illuminata dalle candele, e la faccia era stanca, stanchissima, ma non c'era paura dentro, e c'era invece qualcosa che somigliava alla pazienza. «Ho governato per trent'anni sapendo che un giorno qualcuno sarebbe entrato da quella porta con una spada. Non sapevo chi. Ho sempre sperato che avesse almeno la decenza di dirmi perché.»
 
 «Avete venduto Dalmasca» disse il cavaliere.
 
