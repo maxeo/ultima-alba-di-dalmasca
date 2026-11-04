@@ -42,7 +42,7 @@ Balthier si fermò. Chiuse gli occhi un istante. Li riaprì.
 
 ---
 
-Jules aveva un cappello a tesa stretta, una giacca a righe che era stata elegante cinque o sei padroni prima e scarpe pulitissime, l'unica cosa pulitissima di tutta Vecchia Archades. Era un hume di età indefinibile, magro, con le dita lunghe e sempre in movimento, e un modo di stare fermo che sembrava sempre il momento prima di andarsene. Si staccò dal lampione e venne avanti a braccia aperte.
+Jules aveva un cappello a tesa stretta, una giacca a righe che era stata elegante cinque o sei padroni prima e scarpe pulitissime, l'unica cosa pulitissima di tutta Vecchia Archades. Era un huma di età indefinibile, magro, con le dita lunghe e sempre in movimento, e un modo di stare fermo che sembrava sempre il momento prima di andarsene. Si staccò dal lampione e venne avanti a braccia aperte.
 
 «Ma guarda» disse. «Ma guarda chi c'è. Ho detto a me stesso: Jules, quello là in fondo al vicolo, con il fascio di spade sulla spalla del suo amico biondo, non può essere lui. E invece.» Si tolse il cappello. «Che piacere.»
 

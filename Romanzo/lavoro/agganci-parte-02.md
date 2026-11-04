@@ -36,3 +36,10 @@
 | I fratelli di Penelo hanno un nome: Kel (il più alto) e Doran; alle nozze lei era sulle spalle di Kel in via delle Fontane | 12 | 26 | aperto |
 | Pattuglia nella notte di Giza: la Resistenza "vuole fare qualcosa" alla cena grande; Vayne ordina di "lasciarli arrivare" | 12 | 13 (Vossler), 17 (trappola, cattura davanti a Vayne) | aperto |
 | Tazza vuota sul tavolino accanto al letto di Reks | 12 | 19, 26 | aperto |
+| Dalan ricarica la Luna Crescente a mani a coppa, togliendosi lo zucchetto; la pietra diventa azzurra e fredda | 13 | 14 (porta della tesoreria) | aperto |
+| Dalan manda Kytes ad aprire la porta del magazzino cinque prima di sapere se Vaan torna con la pietra | 13 | 25 (Vaan capisce il ruolo di Dalan) | aperto |
+| Kytes apre serrature con un filo di ferro, gliel'ha insegnato Ammar; "la cosa con dieci braccia" dei canali | 13 | 16 (canali), 25 | aperto |
+| Vossler china la testa verso la donna in rosso, "più piccolo di un inchino"; lei tiene la sinistra chiusa a pugno | 13 | 17 (Amalia), 36 (Ashe rivelata) | aperto |
+| Pezzo di mantello azzurro sbiadito su un soldato della Resistenza | 13 | 16 (morti della Resistenza) | aperto |
+| Ludda, serva Seeq del palazzo, pestata da uno stivale archadiano: "se ti prendono, non mi conosci" | 13 | facoltativo, 25 o 101 | aperto |
+| Leone sul pavimento con il cerchio vuoto nella zampa: "il leone vuole la luna" | 13 | 14 | aperto |

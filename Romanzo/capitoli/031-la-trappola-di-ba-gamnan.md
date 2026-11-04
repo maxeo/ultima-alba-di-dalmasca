@@ -132,7 +132,7 @@ Vaan non lo aveva visto andare. Nessuno lo aveva visto. Doveva essere uscito dal
 
 Vaan non capì. Poi la vide.
 
-Stava fra due soldati, un poco discosta, con le mani davanti al corpo. Non erano legate, ma uno dei due soldati le teneva una mano sulla spalla, non forte, nel modo in cui si tiene un oggetto che non deve scappare. Aveva i vestiti di sempre, quelli della bottega, con il gilet rosso stinto e la gonna corta per correre, e i capelli sciolti dal nastro, e una fasciatura fatta alla meglio sul palmo di una mano. Aveva la faccia sporca di polvere grigia. Non piangeva. Guardava il Giudice con un'aria che Vaan conosceva molto bene, perché era la stessa che riservava a lui quando tornava a casa all'alba con un occhio nero: un'aria che non aveva nessuna intenzione di farsi impressionare.
+Stava fra due soldati, un poco discosta, con le mani davanti al corpo. Non erano legate, ma uno dei due soldati le teneva una mano sulla spalla, non forte, nel modo in cui si tiene un oggetto che non deve scappare. Aveva i vestiti di sempre, quelli della bottega, con il gilet rosso stinto e la gonna corta per correre, e le trecce mezze disfatte, con i due nastri ancora al loro posto, e una fasciatura fatta alla meglio sul palmo di una mano. Aveva la faccia sporca di polvere grigia. Non piangeva. Guardava il Giudice con un'aria che Vaan conosceva molto bene, perché era la stessa che riservava a lui quando tornava a casa all'alba con un occhio nero: un'aria che non aveva nessuna intenzione di farsi impressionare.
 
 Penelo.
 

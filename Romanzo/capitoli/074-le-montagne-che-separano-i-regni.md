@@ -16,7 +16,7 @@ Penelo comprò quattro otri e ne pagò tre. Il quarto glielo regalò il bangaa c
 
 Ashe soppesò l'otre. In due anni aveva imparato a dormire per terra, a mangiare quello che c'era e a camminare con le vesciche, ma la questione del prezzo delle cose le restava estranea come una lingua straniera, e lo sapeva. Al palazzo di Rabanastre nessuno le aveva mai detto quanto costasse un bicchiere d'acqua. Il bicchiere arrivava. Anche questo, pensò, era stato un modo di regnare.
 
-Il borgo era cresciuto addosso alla fortezza come l'edera cresce addosso a un muro che nessuno pensa più di abbattere. Le tende dei mercanti si appoggiavano ai bastioni, i fabbri lavoravano nelle nicchie dove una volta stavano le catapulte, e sul tratto di mura crollato nel 704 qualcuno aveva costruito una locanda a due piani usando le pietre crollate. Si chiamava La Breccia. Aveva l'insegna dipinta di fresco. Vi entravano soldati archadiani a fine turno e mercanti di Rozarria che non dicevano di esserlo, e il padrone, un hume di Dalmasca con un braccio solo, serviva tutti con la stessa faccia.
+Il borgo era cresciuto addosso alla fortezza come l'edera cresce addosso a un muro che nessuno pensa più di abbattere. Le tende dei mercanti si appoggiavano ai bastioni, i fabbri lavoravano nelle nicchie dove una volta stavano le catapulte, e sul tratto di mura crollato nel 704 qualcuno aveva costruito una locanda a due piani usando le pietre crollate. Si chiamava La Breccia. Aveva l'insegna dipinta di fresco. Vi entravano soldati archadiani a fine turno e mercanti di Rozarria che non dicevano di esserlo, e il padrone, un huma di Dalmasca con un braccio solo, serviva tutti con la stessa faccia.
 
 Nessuno guardava la compagnia. Erano sei viaggiatori impolverati in un posto pieno di viaggiatori impolverati, e il borgo aveva l'occhio lungo per i soldi e cortissimo per le facce. Balthier lo aveva previsto. Lo disse due volte, la seconda con una certa soddisfazione.
 
@@ -126,7 +126,7 @@ Ashe si fermò davanti al più grande e passò le dita sulla pietra raschiata.
 
 «Nessuno lo sa» disse una voce dalle canne.
 
-Era un vecchio. Stava seduto su una pietra accanto a una delle sorgenti calde, con i piedi nell'acqua e un fagotto aperto accanto, e sul fagotto c'erano dei rotoli. Era un hume, magrissimo, con una barba rada e un cappello di paglia che aveva visto molte estati, e quando si alzò per salutare si vide che gli mancavano due dita della mano sinistra.
+Era un vecchio. Stava seduto su una pietra accanto a una delle sorgenti calde, con i piedi nell'acqua e un fagotto aperto accanto, e sul fagotto c'erano dei rotoli. Era un huma, magrissimo, con una barba rada e un cappello di paglia che aveva visto molte estati, e quando si alzò per salutare si vide che gli mancavano due dita della mano sinistra.
 
 Si chiamava Oskar e vendeva carte. Lo disse subito, con l'onestà di chi non ha molto tempo da perdere, e aprì il primo rotolo sul bordo del santuario. Era una mappa a inchiostro, disegnata con una cura che metteva soggezione: i Monti Mosfora, il valico di Halny, il Bosco di Salika, e oltre il bosco, a nord-est, una pianura percorsa da fiumi, con villaggi, ponti, mulini, strade segnate in rosso e una grande città sul lago, con il palazzo al centro disegnato in piccolo, torre per torre.
 
