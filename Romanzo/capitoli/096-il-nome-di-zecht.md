@@ -12,11 +12,11 @@ Gabranth affondò. Reddas deviò la lama con quella bassa e girò su sé stesso.
 
 «Taci» disse Gabranth.
 
-«Nel tesoro dei re di Nabradia c'era una pietra. Uno dei tre Frammenti, quello che chiamano di Mezzaluce. Lo avevano tenuto per secoli in una cassa d'argento, sotto la cappella, e non lo avevano mai usato.» Reddas parò un fendente che gli fece piegare il ginocchio; si rialzò. «A Draklor volevano sapere che cosa sapesse fare. Non bastava guardarla. Bisognava vederla lavorare. Il Giudice ricevette l'ordine con il sigillo del laboratorio e la firma di un uomo che oggi tutti voi conoscete. Diceva: attivate, osservate, riferite.»
+«Nel tesoro dei re di Nabradia c'era una pietra. Uno dei tre Frammenti, quello che chiamano di Mezzaluce. Lo avevano tenuto per secoli in una cassa d'argento, sotto la cappella, e non lo avevano mai usato.» Reddas parò un fendente che gli fece piegare il ginocchio; si rialzò. «A Draklor volevano sapere che cosa sapesse fare. Non bastava guardarla. Bisognava vederla lavorare. Il Giudice ricevette l'ordine dal principe in persona, e sotto l'ordine, in un foglio a parte, le istruzioni del laboratorio, con la firma di un uomo che oggi tutti voi conoscete. Dicevano: attivate, osservate, riferite.»
 
 Ashe aveva abbassato le spade. Guardava Reddas, e la figura di Rasler era rimasta lì, a lato, con la mano tesa, e lei per la prima volta da quando era apparsa non la guardava.
 
-«Il Giudice non sapeva che cosa stava per fare» disse Reddas. «Questo lo dico perché è vero, non perché lo scusi. Non lo sapeva nessuno. Nessuno lo aveva mai fatto, da settecento anni. Gli dissero che era una prova. Lui obbedì. Era stato addestrato per obbedire, e lo faceva bene. Era molto, molto bravo a obbedire.» Le lame si incrociarono di nuovo, alte, e Reddas tenne. «Era mattina presto. Si mise nella cappella, con la pietra nella cassa aperta e due tecnici di Draklor che prendevano appunti. Fece quello che gli avevano detto di fare. Poi...»
+«Il Giudice non sapeva che cosa stava per fare» disse Reddas. «Questo lo dico perché è vero, non perché lo scusi. Non lo sapeva nessuno. Nessuno lo aveva mai fatto, da settecento anni. Gli dissero che era una prova. Lui obbedì. Era stato addestrato per obbedire, e lo faceva bene. Era molto, molto bravo a obbedire.» Le lame si incrociarono di nuovo, alte, e Reddas tenne. «Era notte, l'ultima ora prima dell'alba. Si mise nella cappella, con la pietra nella cassa aperta e due tecnici di Draklor che prendevano appunti. Fece quello che gli avevano detto di fare. Poi...»
 
 Si fermò. Non per un colpo: Gabranth, adesso, non lo stava colpendo. Si fermò e basta, con le due spade alzate, e per un istante il signore dei pirati di Balfonheim restò con la bocca aperta su una parola che non usciva.
 
@@ -24,7 +24,7 @@ Si fermò. Non per un colpo: Gabranth, adesso, non lo stava colpendo. Si fermò 
 
 Nessuno nella piazza si mosse.
 
-«Non ci fu un rumore. Questo non lo crede nessuno, ma è così. C'era una luce, e il Giudice la vide partire dalla pietra e allargarsi, e la vide passare attraverso i muri della cappella come se i muri non ci fossero, e attraverso i tecnici, e attraverso di lui. Poi passò attraverso la città. Le strade. Le case. Il mercato che stava aprendo, le donne ai pozzi, i bambini. I soldati nostri, i reggimenti che erano già dentro le porte. Tutto.» Reddas abbassò le spade di un dito. «Lui restò in piedi. Non so perché. Lo hanno trovato due giorni dopo in mezzo al nulla, seduto su un gradino che non portava a niente, con la cassa d'argento vuota fra le ginocchia. Non sapeva dire il proprio nome. Lo ha ritrovato dopo un mese. L'ha perso di nuovo, apposta, dopo un anno.»
+«Non ci fu un rumore. Questo non lo crede nessuno, ma è così. C'era una luce, e il Giudice la vide partire dalla pietra e allargarsi, e la vide passare attraverso i muri della cappella come se i muri non ci fossero, e attraverso i tecnici, e attraverso di lui. Poi passò attraverso la città. Le strade. Le case. I forni che si accendevano per il pane, le donne che andavano ai pozzi, i bambini ancora a letto. I soldati nostri, i reggimenti che erano già dentro le porte. Tutto.» Reddas abbassò le spade di un dito. «Lui restò in piedi. Non so perché. Lo hanno trovato due giorni dopo in mezzo al nulla, seduto su un gradino che non portava a niente, con la cassa d'argento vuota fra le ginocchia. Non sapeva dire il proprio nome. Lo ha ritrovato dopo un mese. L'ha perso di nuovo, apposta, dopo un anno.»
 
 Gabranth non attaccava più. Stava fermo, con le spade basse, e l'elmo era girato verso Reddas.
 
@@ -46,15 +46,15 @@ Reddas non lo negò. Non disse niente per un momento. Poi fece una cosa che ness
 
 Basch parlò per primo. Non a Reddas, non a Gabranth. Parlò guardando un punto della piazza dove non c'era niente, con la voce di chi fa un rapporto a un ufficiale che non è più vivo.
 
-«La vedemmo da Nalbina.»
+«Non la vedemmo» disse. «Da Nalbina.»
 
 Reddas girò la testa verso di lui.
 
-«Eravamo sulle mura. Era l'alba, il secondo giorno dell'assedio. Io avevo il turno sul bastione di nord-est con una ventina di uomini, e c'era un ragazzo che non riusciva a stare fermo e guardava sempre verso Nabradia, perché aveva una zia lassù.» Basch si fermò un istante; nessuno chiese il nome del ragazzo, e lui non lo disse. «Si accese il cielo. Laggiù, oltre le colline, molto lontano. Una luce bianca, poi nient'altro. Nessun tuono. Pensammo a un incendio, poi a un segnale, poi non pensammo più niente, perché gli archadiani attaccarono la porta sud un'ora dopo e non ci fu più tempo di guardare verso nord. Due giorni dopo arrivò un cavaliere di Nabradia con il cavallo morto sotto di lui, e disse che non c'era più una città dove portare il messaggio. Non gli credemmo. Lo mettemmo a dormire.»
+«Eravamo dentro le mura da tre giorni quando arrivò da nord una colonna di carri, feriti dei villaggi di confine. Nessuno era stato in città. C'era un fabbro con la mano fasciata.» Basch si fermò un istante; nessuno chiese niente, e lui riprese. «Disse che dalle colline Nabudis non si vedeva più. Non che bruciava. Non si vedeva. Lo disse così, come si dice che è piovuto. Non gli credemmo. Pensammo alla febbre, alla paura, al fumo. Lo mettemmo a dormire.»
 
 «Ha detto il vero» disse Reddas.
 
-«Lo so. Adesso lo so.» Basch abbassò gli occhi. «Il principe Rasler era con noi, quel giorno. Era salito sulle mura per vedere la luce. Mi chiese cosa fosse, e io gli dissi che non lo sapevo. Morì il giorno dopo senza saperlo.»
+«Lo so. Adesso lo so.» Basch abbassò gli occhi. «Il principe Rasler lo ascoltò fino in fondo. Poi salì sulle mura a guardare verso nord, e ci rimase fino a notte. Suo padre era là dentro. Io restai ai piedi della scala. Il giorno dopo morì senza aver saputo cosa c'era da guardare.»
 
 Ashe, a quelle parole, chiuse la mano sinistra.
 
