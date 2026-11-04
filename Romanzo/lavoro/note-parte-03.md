@@ -11,3 +11,8 @@
 - Mamma morta da cinque anni (tre anni prima del 704).
 - Rissa a mani nude in una pagina. Accenno alle fonti: "le cronache dei prigionieri liberati nel 706".
 - Amalia separata alla Porta Est, raccontato da Balthier.
+
+## Cap. 20
+- Circa 2.800 parole. Il Giudice resta senza nome e senza volto; scende con due soldati, come al cap. 21. L'ufficiale grasso (Tullian, inventato) torna su prima della scala.
+- Il cambio d'aria fra caldo e freddo resta al cap. 21, oltre la porta.
+- "Licenza" del Bangaa resa sempre con "permesso", per evitare il lessico di gioco.

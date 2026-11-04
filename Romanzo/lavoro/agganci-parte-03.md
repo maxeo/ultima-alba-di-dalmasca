@@ -16,3 +16,9 @@
 | Secondo colpo sopra l'orecchio sinistro, "di nuovo lì" | 19 | facoltativo | aperto |
 | Balthier: "Nessuno ascolta mai il protagonista"; "porcile"; "questo è ciò che io chiamo un'entrata in scena" | 19 | con misura | aperto |
 | Bangaa con la coda spezzata salvato nella conca | 19 | facoltativo, 101 | aperto |
+| Tullian, ufficiale grasso di Nalbina | 20 | facoltativo, 74 (sosta a Nalbina) | aperto |
+| Ba'Gamnan piegato dal Giudice: china il muso, poi sputa dove il Giudice ha posato il piede | 20 | 28, 31 | aperto |
+| Balthier sui Giudici: "boia con un ottimo sarto"; legge con delizia la targa del deposito ("bottino") | 20 | 21, 30 | aperto |
+| Deposito dei beni sequestrati: bambola di pezza con un cartellino di due anni prima | 20 | facoltativo | aperto |
+| Porta a sesto acuto con cerchi e lettere azzurrine; le parole antiche del Giudice; la pietra sotto la camicia si scalda | 20 | 21, 22 | aperto |
+| "Laggiù c'è qualcuno che respira piano" (Fran) | 20 | 21 | aperto |
