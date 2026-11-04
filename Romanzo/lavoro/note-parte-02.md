@@ -69,5 +69,6 @@
 - Ridotti "senza pensarci" e "non pensò", che tendevano a diventare il tic di Vaan.
 - Lunghezze: cap. 12 e 14 sotto la soglia di "Espanso" (circa 3.400 e 3.500), cap. 8 sopra la media. Nessun riempitivo aggiunto per arrivarci.
 - Revisioni generali applicate: gigli nel vaso verde, ciocca di Vaan, colori di capelli e occhi.
+- Scheda `aspetto.md` applicata: Penelo bionda con codini e diciassette anni, Tomaj giovane con la sciarpa arancione, Migelo blu, Dalan scalzo con la bestiola, Vossler con barba e collare, Vayne con guanti bianchi e mantello blu, Balthier poco più che ventenne, Ashe con i capelli corti color sabbia.
 
 FINE PARTE

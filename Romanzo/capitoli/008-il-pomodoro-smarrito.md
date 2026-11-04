@@ -72,7 +72,7 @@ Vaan guardò. Il foglio era scritto a mano, con un inchiostro che sbavava, e ave
 
 «Smarrito.» Vaan si girò verso Kytes. «È uno scherzo?»
 
-«Non è uno scherzo» disse una voce dal bancone. Tomaj veniva verso di loro asciugandosi le mani su uno straccio. Era un uomo grosso, rasato, con un orecchino d'oro e il naso rotto da giovane in una rissa che raccontava in tre versioni diverse a seconda dei clienti. «Ha già rovesciato due carri questa settimana. Un mercante di Nalbina ci ha perso un carico di uova, e me lo ha raccontato per un'ora, e io ho dovuto ascoltarlo, e questa per me è la parte peggiore.»
+«Non è uno scherzo» disse una voce dal bancone. Tomaj veniva verso di loro asciugandosi le mani su uno straccio. Era giovane per essere un taverniere, con i capelli castani corti, una sciarpa arancione al collo anche col caldo e l'aria di chi ha ereditato la taverna troppo presto e si è messo d'impegno a sembrare più vecchio. «Ha già rovesciato due carri questa settimana. Un mercante di Nalbina ci ha perso un carico di uova, e me lo ha raccontato per un'ora, e io ho dovuto ascoltarlo, e questa per me è la parte peggiore.»
 
 «Ma che cos'è?»
 
