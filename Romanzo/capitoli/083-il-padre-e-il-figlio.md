@@ -104,7 +104,7 @@ Lo disse piano, e nel fracasso della camera era impossibile che Cid lo sentisse,
 
 «Questo.» Balthier indicò la scheggia nera sulla mano del padre, la pelle tesa, le sfere spezzate. «Tutto questo. Ti sei messo quella cosa addosso. Dentro. Tu, che mi spiegavi tre volte perché un motore si scalda. Tu.»
 
-Cid lo guardò. Per un momento sembrò che stesse per dire qualcosa di diverso, qualcosa che non c'entrava con il taccuino. Poi la scheggia pulsò, e lui sorrise.
+Cid lo guardò. Sembrò sul punto di dire qualcosa di diverso, qualcosa che non c'entrava con il taccuino. Poi la scheggia pulsò, e lui sorrise.
 
 «Tu raccoglievi le matite» disse. «Sotto il tavolo. Te lo ricordi? Le raccoglievi e me le ridavi, e io non te l'ho mai detto, ma le raccoglievi nell'ordine sbagliato. Sempre. Io avevo bisogno della dura e tu mi davi la morbida.» Si strinse nelle spalle. «Non sei mai stato un buon assistente, figlio mio. Questo è il punto.»
 
@@ -174,7 +174,7 @@ L'uomo con le due spade si era rialzato. Aveva raccolto la seconda lama da sotto
 
 Basch lo guardava. «Perché lo volevi morto?»
 
-Reddas sostenne lo sguardo di Basch, e di nuovo, come nel corridoio, per un momento sembrò che quella faccia gli ricordasse qualcosa.
+Reddas sostenne lo sguardo di Basch, e di nuovo, come nel corridoio, parve che quella faccia gli ricordasse qualcosa.
 
 «Perché qualcuno doveva volerlo» disse. «E perché io ho più ragioni di altri.»
 
