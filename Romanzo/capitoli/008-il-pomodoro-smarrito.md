@@ -14,7 +14,7 @@ La bottega di Migelo stava sulla piazza bassa, all'incrocio fra la via dei Calde
 
 Quel giorno, sul bancone, c'era una lista. Era lunga quanto un braccio, scritta in archadiano da una mano di cancelleria, con un timbro in fondo. Migelo la toccava ogni tanto, come si tocca una ferita per vedere se fa ancora male.
 
-«Stasera» disse «al palazzo c'è il banchetto per il console nuovo. Lo sai, no? Tutta la città lo sa. Arriva da Archades, arriva da Nalbina, non si sa bene da dove arriva, ma arriva, e il banchetto è stasera, e una parte di quello che si mangia stasera lo porto io.» Batté la lista con un artiglio. «Io. Migelo. Ci sono quattro mercanti in tutta Rabanastre che hanno avuto la lista, e uno sono io.»
+«Stasera» disse «al palazzo c'è il banchetto per il console nuovo. Lo sai, no? Tutta la città lo sa. Arriva dad Archades, arriva da Nalbina, non si sa bene da dove arriva, ma arriva, e il banchetto è stasera, e una parte di quello che si mangia stasera lo porto io.» Batté la lista con un artiglio. «Io. Migelo. Ci sono quattro mercanti in tutta Rabanastre che hanno avuto la lista, e uno sono io.»
 
 «Congratulazioni.»
 
@@ -72,7 +72,7 @@ Vaan guardò. Il foglio era scritto a mano, con un inchiostro che sbavava, e ave
 
 «Smarrito.» Vaan si girò verso Kytes. «È uno scherzo?»
 
-«Non è uno scherzo» disse una voce dal bancone. Tomaj veniva verso di loro asciugandosi le mani su uno straccio. Era un uomo grosso, rasato, con un orecchino d'oro e il naso rotto da giovane in una rissa che raccontava in tre versioni diverse a seconda dei clienti. «Ha già rovesciato due carri questa settimana. Un mercante di Nalbina ci ha perso un carico di uova, e me lo ha raccontato per un'ora, e io ho dovuto ascoltarlo, e questa per me è la parte peggiore.»
+«Non è uno scherzo» disse una voce dal bancone. Tomaj veniva verso di loro asciugandosi le mani su uno straccio. Era giovane per essere un taverniere, con i capelli castani corti, una sciarpa arancione al collo anche col caldo e l'aria di chi ha ereditato la taverna troppo presto e si è messo d'impegno a sembrare più vecchio. «Ha già rovesciato due carri questa settimana. Un mercante di Nalbina ci ha perso un carico di uova, e me lo ha raccontato per un'ora, e io ho dovuto ascoltarlo, e questa per me è la parte peggiore.»
 
 «Ma che cos'è?»
 
@@ -248,7 +248,7 @@ Vaan li guardò. Tre fiori bianchi schiacciati nella polvere della Porta Est, co
 
 La voce arrivava da dietro la barriera, dall'interno della città, ed era una voce che Vaan avrebbe riconosciuto fra mille: la voce di Migelo quando vendeva qualcosa. Il vecchio Bangaa stava passando sotto l'arco della porta con un carretto a mano, carico di casse, e guardava il chocobo con l'aria di un uomo che ha appena visto una visione celeste.
 
-«Ma che splendore. Ma che portamento. Allevamento di Archades, vero? No, non me lo dica, l'ho capito dal collo. Solo a Archades fanno colli così.» Lasciò il carretto e si avvicinò al palafreniere con le braccia aperte. «Sergente! Sergente, lei è responsabile di questo tesoro? Che onore. Che responsabilità. Con questo caldo, poi. Sono ore che siete qui, immagino. Ore. Al sole. Per il console.»
+«Ma che splendore. Ma che portamento. Allevamento di Archades, vero? No, non me lo dica, l'ho capito dal collo. Solo ad Archades fanno colli così.» Lasciò il carretto e si avvicinò al palafreniere con le braccia aperte. «Sergente! Sergente, lei è responsabile di questo tesoro? Che onore. Che responsabilità. Con questo caldo, poi. Sono ore che siete qui, immagino. Ore. Al sole. Per il console.»
 
 Il sergente, preso alla sprovvista, ammise che sì, erano ore.
 

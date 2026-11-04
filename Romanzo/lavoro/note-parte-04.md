@@ -55,3 +55,23 @@
 - Cid parla al vuoto (Venat), "le redini della storia", Nabudis come "copia". Traccia sottile: si sistema i polsini con due piccoli gesti precisi, come Balthier al cap. 21.
 - Il Frammento non è ancora nelle mani di Ghis: Vayne sa solo che un ladro ragazzo lo ha preso dal tesoro.
 - Rete del Clan: Pukko, moguri lampista del palazzo da undici anni, riferisce al nipote (garzone da Migelo e corriere del Clan); Montblanc manda la notizia con un meccanico sulla nave corriera che raggiunge la flotta all'alba. Favore da pagare dopo. Consegna al cap. 36.
+
+## Cap. 36
+- Circa 4.800 parole. Il Frammento: Balthier lo aveva come pagamento (cap. 27); avvertito dal Clan lo "presta" a Vaan, che lo nasconde nello stivale. Davanti ad Ashe si accende attraverso il cuoio: gag e rivelazione insieme. Così vale la fonte (luce nelle mani di Vaan, consegna a Ghis).
+- Clan: Gurdy, meccanico della nave corriera, consegna da una griglia i due messaggi di Pukko (Gabranth vuole uccidere Basch; il console cerca la pietra). Favore segnato da Montblanc: "Non si dice qualunque cosa a Montblanc. Poi lui la chiede." Da riscuotere in una Parte successiva (cap. 57 o 79).
+- Schiaffo con il dorso della destra, mani legate; la sinistra resta a pugno sull'anello largo. Ashe dice "ti prego" a Vaan.
+- Ashe a Vaan: "Taci", con la stessa immagine del mantello usata per Ghis al cap. 31: eco voluta.
+- "Niente esecuzioni" in cambio del Frammento, parola di Giudice. Chiusura: due lampade di bordo impallidiscono vicino alla pietra (Negalite).
+
+## Cap. 37
+- `09 V` (sicurezza e due giudici) ridotta a un paragrafo: fili di luce, chiavi prese a due ufficiali "su cui non si dilungarono".
+- Vossler: travestito da tre giorni per conto di Ondore. Semina del tradimento (`fix` sez. 4): sul Frammento in mano a Ghis tace un respiro di troppo e Fran gli punta un orecchio addosso. Da riprendere ai cap. 43-46.
+- Ashe rifiuta la spada di Basch ("preferisco quella di chiunque altro. Anche la sua", cioè di Vaan). Vossler: Ashe si allenava di notte contro un palo.
+- Vossler a Basch: "Non ti aspetti niente. È questo che mi preoccupa di te."
+
+## Cap. 38
+- Pietra di Larsa: è la scheggia di Negalite di Lhusu (lotto quarantasei), donata a Penelo "per scusarmi", con la bugia del "vecchio con dieci anelli". Penelo la tiene nella tasca della gonna accanto al fazzoletto. Ripresa da Larsa al cap. 62.
+- Traccia di Balthier: inchino di corte archadiano (mano piatta, tre dita sopra il cuore, pausa a metà) davanti a Larsa; "a teatro". Legge l'archadiano del pannello d'allarme.
+- Larsa: vuole la verità sulle due morti false "per evitare la prossima guerra"; flotte rozarriane sul confine (semina `fix` sez. 4, `file11:114`). Ashe: "Allora sia".
+- Invenzione: Gabranth arriva sul Leviatano all'alba con la nave corriera per riprendersi Larsa (come ordina Vayne al cap. 35). Penelo lo ha visto dalla finestra: Basch lo sente nominare e non si volta. Gabranth non compare in scena: niente incontro fra i gemelli qui.
+- Penelo tenta di restituire il fazzoletto e non fa in tempo: resta per il cap. 40.
