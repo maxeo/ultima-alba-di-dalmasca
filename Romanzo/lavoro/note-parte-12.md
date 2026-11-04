@@ -3,7 +3,7 @@
 ## Cap. 91
 - Circa 3.500 parole. Apre la Parte XII senza memorie di Ondore (non previste per la XII).
 - Skystone reso "pietra celeste", con etichetta di Draklor "prova sesta". Nome da verificare col glossario.
-- Elza dà il primo indizio: Reddas "non è di qui", arrivato cinque o sei anni fa, parla "come i preti o i vecchi libri", non ha paura del Faro.
+- Elza dà il primo indizio: Reddas "non è di qui", arrivato da meno di due anni, parla "come i preti o i vecchi libri", non ha paura del Faro.
 - Inventati: barche da pesca con un occhio solo sulla prua; punta di Garif da cui si vede il Faro "come una lisca"; nave "Sorella Lunga".
 - Rikken e Balthier: la gara del cap. 84 resta in sospeso, ognuno ne dà una versione. Il blocco-d deve solo non chiuderla in modo che escluda la disputa.
 - Ashe chiude il pugno sul dito senza anello (l'anello è a Balthier dal cap. 52).
@@ -38,3 +38,13 @@
 - Voci uguali: Penelo sente un uomo solo che parla da due punti della piazza. Basch riconosce il passo (difetto ereditato dalla madre). Basch dice "Noah" due volte.
 - Gabranth "porge la gola": vuole essere punito. Serve per i cap. 105 e 108.
 - Chiusura: Reddas para e annuncia il racconto; il cap. 96 parte da lì.
+
+## Cap. 96
+- Espanso, circa 4.400 parole. Rivelazione di Zecht. Basch riconosce la scherma dei cadetti del Ministero. Reddas racconta Nabudis senza rumore: luce, gradino che non porta a niente, cassa d'argento vuota. Ordine col sigillo di Draklor e la firma di Cid (non nominato).
+- Gabranth ricorda Zecht alla parata col pennacchio grigio; Bergan lo difendeva a corte (fix `file10:842-866`).
+- Inchino di Reddas: l'inchino fra Giudici pari. Ripreso dal cap. 91 ("non di pirata, non di cortigiano").
+- Fix `file32:372`: Reddas perde una spada, scivola fino a Vaan che la raccoglie; sguardo Ashe-Vaan con unico accenno alle fonti della Parte ("i testimoni non concordano"). Vaan: "Reks non torna".
+- Ashe colpisce l'illusione con la Spada del Patto: un uomo vero chiude la mano. Voce degli Occuria, "falsa santa" resa come "non sono la vostra santa".
+- Fix `file32:~458`: il Frammento d'Aurora cade e rotola fino allo stivale di Gabranth; lui lo calcia via a fine capitolo.
+- Corretta nel cap. 91 la data d'arrivo di Reddas a Balfonheim: meno di due anni fa, coerente con Nabudis nel 704.
+- La spada corta di Reddas resta in mano a Vaan: torna al cap. 99 e al cap. 106 ("Vaan con la spada").
