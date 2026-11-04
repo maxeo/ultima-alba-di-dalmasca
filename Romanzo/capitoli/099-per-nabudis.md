@@ -1,6 +1,6 @@
 ## 99. Per Nabudis
 
-Fran aveva gli occhi aperti. Fu la prima cosa che Balthier vide quando le si buttò accanto, scivolando in ginocchio sulla pietra liscia, e fu la cosa che lo spaventò di più: gli occhi aperti, rossi come quelli delle viere quando hanno la febbre, e fissi su un punto in alto, dentro il vortice, dove nessun altro poteva guardare senza farsi male. Penelo le teneva la testa in grembo. Aveva le mani bagnate. Fran sudava, una cosa che nessuno le aveva mai visto fare, e il sudore aveva un odore di erba tagliata.
+Fran aveva gli occhi aperti. Fu la prima cosa che Balthier vide quando le si buttò accanto, scivolando in ginocchio sulle lastre, e fu la cosa che lo spaventò di più: gli occhi aperti, rossi come quelli delle viere quando hanno la febbre, e fissi su un punto in alto, dentro il vortice, dove nessun altro poteva guardare senza farsi male. Penelo le teneva la testa in grembo. Aveva le mani bagnate. Fran sudava, una cosa che nessuno le aveva mai visto fare, e il sudore aveva un odore di erba tagliata.
 
 «Fran.»
 
@@ -18,7 +18,7 @@ Fran alzò una mano. Fu un gesto lento, difficile, che le costò; la portò fino
 
 «Vai» disse. «Sei un pirata. Quando le cose si mettono male, i pirati volano via. Vola.»
 
-Balthier rimase fermo. Erano le stesse parole. Pochi minuti prima, a dieci passi da lì, un vecchio che si scioglieva in luce gliele aveva dette con disprezzo, e adesso gliele diceva Fran, con tutt'altro, e la frase era identica, e per un istante gli parve che il mondo intero gli dicesse di scappare.
+Balthier rimase fermo. Erano le stesse parole. Pochi minuti prima, a dieci passi da lì, un vecchio che si scioglieva in luce gliele aveva dette con disprezzo, e adesso gliele diceva Fran, con tutt'altro, e la frase era identica, e gli parve che il mondo intero gli dicesse di scappare.
 
 Prese la mano di Fran nella sua. La tenne contro la guancia.
 
@@ -78,7 +78,7 @@ Chi lo guardava allora, e Vaan lo guardava, vide una cosa che non seppe spiegare
 
 Lo disse piano. Nessuno avrebbe dovuto sentirlo, con il sibilo della pietra; lo sentirono tutti.
 
-«Per Nabudis. Per la cappella e per la cassa d'argento. Per i due di Draklor che prendevano appunti. Per i nostri, che erano già dentro le porte. Per le donne ai pozzi.» La voce gli si alzò. «Per i bambini del mercato. Per il vecchio re nel palazzo. Per tutti quelli di cui non ho mai saputo il nome.»
+«Per Nabudis. Per la cappella e per la cassa d'argento. Per i due di Draklor che prendevano appunti. Per i nostri, che erano già dentro le porte. Per i fornai e per le donne ai pozzi.» La voce gli si alzò. «Per i bambini nei letti. Per il vecchio re nel palazzo. Per tutti quelli di cui non ho mai saputo il nome.»
 
 «Reddas!» Era Vaan. Aveva fatto un passo verso di lui, e la corrente lo aveva ributtato indietro. «Reddas, no! Aspetta!»
 

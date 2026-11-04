@@ -47,3 +47,18 @@
 - Ottava Flotta: ventidue navi (numero inventato).
 - Il segnale di Ondore resta nelle parole sulle catene; Basch: "Mi dispiace" a Balthier. Balthier: "È un biglietto... per il Leviatano".
 - Ondore detta la lettera di consegna "tre complici" e sussurra a Basch del "carrello che respirava": chiude il "Ti ha visto" del cap. 29. Firma tremata: niente accenno alle fonti qui (i cap. 29, 31, 33 ne hanno già).
+
+## Cap. 35
+- Titolo cambiato: "Le stanze del console". La fonte (`08` IX-X) è a Rabanastre, non ad Archades: Archades entra con il ricordo di Gabranth nei giardini alti (lago dei cigni con le ali tarpate, ripreso dal cap. 33).
+- Drace (difende Larsa, "ne abbiamo seppelliti due, di Solidor") e Bergan (difende Vayne, ricorda "uno dei nostri non è tornato" da Nabudis, piega un candeliere di ferro: semina della forza non umana) presenti dal console, come chiede `fix` sez. 3. Gregoroth nominato come presidente del Senato.
+- Scena Larsa-Gabranth: Larsa gli chiede il nome "con cui ti chiamava tua madre"; nessuna risposta. Pastiglia di miele e menta mai mangiata, nella tasca dell'armatura: "anni più tardi, in quella stessa tasca, qualcuno la trovò". Da riprendere al cap. 108 (morte di Gabranth) o 109.
+- Cid parla al vuoto (Venat), "le redini della storia", Nabudis come "copia". Traccia sottile: si sistema i polsini con due piccoli gesti precisi, come Balthier al cap. 21.
+- Il Frammento non è ancora nelle mani di Ghis: Vayne sa solo che un ladro ragazzo lo ha preso dal tesoro.
+- Rete del Clan: Pukko, moguri lampista del palazzo da undici anni, riferisce al nipote (garzone da Migelo e corriere del Clan); Montblanc manda la notizia con un meccanico sulla nave corriera che raggiunge la flotta all'alba. Favore da pagare dopo. Consegna al cap. 36.
+
+## Cap. 36
+- Circa 4.800 parole. Il Frammento: Balthier lo aveva come pagamento (cap. 27); avvertito dal Clan lo "presta" a Vaan, che lo nasconde nello stivale. Davanti ad Ashe si accende attraverso il cuoio: gag e rivelazione insieme. Così vale la fonte (luce nelle mani di Vaan, consegna a Ghis).
+- Clan: Gurdy, meccanico della nave corriera, consegna da una griglia i due messaggi di Pukko (Gabranth vuole uccidere Basch; il console cerca la pietra). Favore segnato da Montblanc: "Non si dice qualunque cosa a Montblanc. Poi lui la chiede." Da riscuotere in una Parte successiva (cap. 57 o 79).
+- Schiaffo con il dorso della destra, mani legate; la sinistra resta a pugno sull'anello largo. Ashe dice "ti prego" a Vaan.
+- Ashe a Vaan: "Taci", con la stessa immagine del mantello usata per Ghis al cap. 31: eco voluta.
+- "Niente esecuzioni" in cambio del Frammento, parola di Giudice. Chiusura: due lampade di bordo impallidiscono vicino alla pietra (Negalite).
