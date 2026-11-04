@@ -37,3 +37,9 @@
 - Segno chiaro sulla pelle dove stava l'anello: da riprendere nei cap. 70 e 112.
 - "Allora le troviamo": come Migelo per le chiavi. Vaan chiede di non dire del coltello a Penelo.
 - Chiude sulle scarpe di Larsa pulite e allineate davanti alle braci.
+
+## Cap. 56
+- Ashe accetta con condizioni; "non come ostaggio... come compagno di strada; il carceriere lo farà Fran" (materiale salvato da `17:70-72`). `16 X-XII` e `file17` non scritti.
+- Basch-Balthier: Jagd Ramooda; ipotesi di Balthier sulla pietra che "beve il Mystes" e permette di sorvolare il Jagd. Giuramento offerto "sulla tua spada"; gag del protagonista smontata da Fran con i viveri dimenticati.
+- Dono di Supinelu a Vaan: un arco corto Garif (la fonte dice "arma con munizioni"). Chocobo gratis dalla moguri Hurrin, inventata, legata alla rete del Clan: "chiedere costa", "vengono sempre quando costa di più". Paga al cap. 57.
+- Ordine di marcia: Basch e Ashe, Balthier e Fran con il chocobo, i tre ragazzi in fondo.

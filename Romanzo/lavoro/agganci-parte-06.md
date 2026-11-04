@@ -14,3 +14,6 @@
 | Coltello da cuoio della bottega; Vaan segue un vecchio soldato e non colpisce; segreto tenuto con Penelo | 55 | Facoltativo: Penelo lo scopre (Parte XIII), oppure resta chiuso | aperto |
 | Segno chiaro sull'anulare di Ashe | 55 | 70, 112 | aperto |
 | Scarpe di Larsa pulite davanti al fuoco | 55 | 56 (Ashe accetta) | tornato in 56 |
+| Arco corto Garif con frecce a piume grigie, dono di Supinelu a Vaan | 56 | 58-61 (Vaan impara a usarlo), facoltativo oltre | aperto |
+| Hurrin, moguri delle stalle di Jahara, della rete di Montblanc: "chiedere costa" | 56 | 57 (messaggero del Clan) | tornato in 57 |
+| Chocobo giallo che sceglie Fran | 56 | 58 (Golmore), 64 (lasciato prima della neve) | aperto |
