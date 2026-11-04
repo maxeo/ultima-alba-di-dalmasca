@@ -14,3 +14,6 @@
 | Tredicesimo seggio vuoto degli Occuria | 88 | 90 (Venat), 107 | aperto |
 | Rasler non ha mai parlato nelle apparizioni | 88 | 95 (Rasler visibile a tutti; l'illusione) | aperto |
 | "Gli dèi avevano qualcuno che teneva gli scalpelli per loro" | 88 | 89, 113 | aperto |
+| Spada del Patto avvolta nel mantello di Ashe, "più leggera di quanto avrebbe dovuto" | 89 | 91 (inizio), 96 | aperto |
+| Riquadro vuoto subito dopo l'ultimo re: "lo scultore non si aspettava sorprese" | 89 | 96 (Ashe non colpisce la Crisalide), 113 | aperto |
+| Balthier: "almeno adesso so a chi devo chiedere il conto" | 89 | 97-98 | aperto |
