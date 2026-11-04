@@ -28,3 +28,12 @@
 - Flotte dal foglio di Al-Cid: Dodicesima, Prima in attesa dell'Odin, seconda forza da Kerwon. "Quaranta giorni" dal Leviatano: controllare la cronologia della Parte VI-VII.
 - Rinuncia di Ashe: "Dalmasca non dimentica... ma non dimenticare non vuol dire avere fretta" (aggancio del cap. 51 tornato). Chiede "una forza che rompa il potere delle pietre".
 - Anastasis apre gli occhi, bianchi: è cieco, come in bibbia. La Spada dei Re arriva nel cap. 69.
+
+## Cap. 68
+- Apre sul bollettino di undici righe del Ministero della Legge (ironia gelida; eco delle "undici ore" del Senato). Gregoroth con fiala e lettera; Drace smonta la versione (fix 3, `file23:276, 332`).
+- Inventato: Gregoroth si faceva assaggiare il tè per paura delle vespe; il vecchio senatore che ride seduto per terra.
+- Bergan (fix 4): prende al volo la lama di Drace con la mano sinistra; dalle giunture del guanto esce una luce viola torbida e un odore di metallo bruciato. Prepara la "negalite nelle ossa" del cap. 72.
+- "Il cane dell'imperatore" detto a Gabranth; Zargabaath supplica e poi stringe il pugno (gesto di misura, fix 4).
+- Regola dell'elmo (VIA-LIBERA): Gabranth fa per togliersi l'elmo davanti a Drace condannata e Vayne glielo vieta. Drace: "Non mi serve la tua faccia. Conosco la tua voce... troppo buona per quell'elmo" (filo delle voci).
+- "Perdonami" riferito dalla guardia della porta, unico accenno ai testimoni. Morte di Drace senza commento del narratore.
+- Chiude su Vayne che ricompone la mano del padre e "La casa Solidor continua".
