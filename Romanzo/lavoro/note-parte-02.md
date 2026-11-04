@@ -10,8 +10,8 @@
 ## Cap. 8
 - Circa 4.600 parole, oltre la media: la caccia è comica e Montblanc nasce qui. Si può stringere il viaggio nell'Estersand.
 - Montblanc compare alla Sandsea come capo di "un circolo" di cacciatori e informatori; niente meccanica, solo il patto notizia per lasciapassare.
-- Gigli: Reks li comprava per la brocca di casa. Il cap. 4 (altra sessione) deve essere coerente, o il regista adatta questo dettaglio.
-- Inventata "Mirka", vicina dell'infanzia: solo un nome.
+- Gigli allineati alla revisione: vaso verde crepato della madre, promessa di Reks al cap. 4.
+- Tolta la vicina "Mirka".
 
 ## Cap. 9
 - Circa 3.200 parole. Vayne ha 27 anni; "figlio terzo" dell'imperatore, come seme dei fratelli uccisi.
@@ -36,3 +36,39 @@
 - Seminata la cena di `file05:140`, come chiede il fix: è la cena dell'agnello avanzato dal console, per la sera dopo.
 - Fratelli di Penelo: Kel e Doran. Nomi inventati, da confermare per il cap. 26.
 - Il narratore entra una volta in prima persona ("il narratore di questa storia deve dire") per la stanza piccola: controllare che non sia troppo.
+
+## Cap. 13
+- Circa 4.000 parole: tiene sei fonti (`03 VIII-XII`, `04 I-II`). Canali compressi in un paragrafo.
+- Il servitore che spiega le guardie è una serva Seeq, come chiede il fix (`file04:58-62`): l'ho chiamata Ludda.
+- La donna in rosso non mostra il volto; tiene la sinistra chiusa a pugno. È un indizio per il lettore attento (anello largo), senza nominare l'anello.
+- Dalan sa della Resistenza e manda Vaan per la stessa strada: resta implicito, per il cap. 25.
+
+## Cap. 14
+- Circa 3.500 parole, sotto la soglia "Espanso". La scena regge così; la fuga sulla terrazza è al cap. 15.
+- La pietra resta "magilite" per Vaan; non la chiamo ancora Frammento del Crepuscolo. Balthier la riconosce senza nominarla.
+- Nasce la gag del protagonista. Fran la smonta con due battute. Il nome di Balthier non viene detto: arriva al cap. 16, come nella fonte.
+- Inventate le tacche "A." sullo stipite: è il passaggio che Raminas usava con la figlia. Non va spiegato prima della rivelazione di Ashe.
+
+## Cap. 15
+- Circa 2.100 parole, capitolo di passaggio. Il guasto è attribuito alla pietra da Fran ("Beve"), come chiede il fix `file04:600-606`: è una sua intuizione, non una spiegazione.
+- La barca volante resta senza nome tecnico.
+
+## Cap. 16
+- Circa 2.700 parole. Niente Gambit: la sola cosa "tecnica" è Fran che tira con l'arco. La riflessione sulla trappola la fa Balthier davanti ai morti, in dialogo.
+- Il morto riconoscibile è il soldato del rapporto a Vossler del cap. 13.
+
+## Cap. 17
+- Circa 3.100 parole. Firemane tagliato come da scaletta; le "acque infestate" sono un paragrafo di cammino.
+- Amalia ha occhi azzurri e capelli biondo cenere (revisione generale). La pietra la riconosce; Vaan non capisce, Balthier sì.
+- La cattura avviene all'alba sotto il quartiere delle cisterne: il cap. 18 parte dalla salita in strada, con la folla e Penelo.
+
+## Rilettura della Parte
+- Controllate le formule vietate in tutti i capitoli 7-17; tolti tre "in quel momento" e due "Fu allora che".
+- Gag della Parte: lo "sterminatore di topi" (cap. 8, 10, 13, 16), Migelo e la coda, Vaan che arrossisce (contato fino a tre al cap. 16), il protagonista (nasce al 14). Pancia e i guanti non ritornano; "quello che guarda i tetti" torna solo nel ricordo del cap. 12, che il regista può togliere se vuole tenere il ritorno per il cap. 26.
+- Accenni alle fonti: cap. 9 (chi applaudì), cap. 11 (Penelo racconta anni dopo), cap. 13 (chi ha visto i canali). Ritmo di uno ogni tre o quattro capitoli rispettato a stento: il cap. 13 si può asciugare.
+- Ridotti "senza pensarci" e "non pensò", che tendevano a diventare il tic di Vaan.
+- Lunghezze: cap. 12 e 14 sotto la soglia di "Espanso" (circa 3.400 e 3.500), cap. 8 sopra la media. Nessun riempitivo aggiunto per arrivarci.
+- Revisioni generali applicate: gigli nel vaso verde, ciocca di Vaan, colori di capelli e occhi.
+- Scheda `aspetto.md` applicata: Penelo bionda con codini e diciassette anni, Tomaj giovane con la sciarpa arancione, Migelo blu, Dalan scalzo con la bestiola, Vossler con barba e collare, Vayne con guanti bianchi e mantello blu, Balthier poco più che ventenne, Ashe con i capelli corti color sabbia.
+
+FINE PARTE

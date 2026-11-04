@@ -24,7 +24,7 @@
 - Basch e Reddas combattono "come usciti dalla stessa scuola": traccia per il cap. 96.
 
 ## Cap. 94
-- Circa 3.150 parole. Pianerottolo: Penelo ("li vedo meglio adesso"), Vaan (non si è accorto di aver smesso di odiare Basch, come non si accorse della morte di Reks), Reddas sui fantasmi e sul "cambiare nome". Sguardo Basch-Reddas.
+- Circa 2.450 parole. Pianerottolo: Penelo ("li vedo meglio adesso"), Vaan (non si è accorto di aver smesso di odiare Basch, come non si accorse della morte di Reks), Reddas sui fantasmi e sul "cambiare nome". Sguardo Basch-Reddas.
 - Inventato il nome del fratello maggiore di Penelo, Dorran, con il dente storto. Se i blocchi precedenti hanno già dato nomi, va allineato.
 - Vaan ricorda Reks con un fiore bianco schiacciato in mano (gigli, cap. 8). Il richiamo vero ai gigli resta per la Parte XIII.
 - Lista di Balthier "per il registro", con "il protagonista"; Fran: Raithwall non aveva senso dell'umorismo, "ho letto la porta".
@@ -32,7 +32,7 @@
 - Chiusura: Ashe estrae la Spada del Patto; il cap. 95 parte da lì.
 
 ## Cap. 95
-- Circa 3.200 parole. Rasler visibile a tutti; Vaan lo riconosce dalla Tomba. Rasler "giusto e dentro nessuno": prepara l'illusione del cap. 96 senza svelarla.
+- Circa 2.600 parole. Rasler visibile a tutti; Vaan lo riconosce dalla Tomba. Rasler "giusto e dentro nessuno": prepara l'illusione del cap. 96 senza svelarla.
 - Ashe dice ad alta voce "Non posso fare di te un ordine".
 - Gabranth confessa con l'elmo chiuso (regola dell'elmo). Dettagli inventati: Raminas alla finestra, "gli ha sorriso". Vaan chiede di Reks; Gabranth "Mi ricordo".
 - Voci uguali: Penelo sente un uomo solo che parla da due punti della piazza. Basch riconosce il passo (difetto ereditato dalla madre). Basch dice "Noah" due volte.
@@ -48,4 +48,42 @@
 - Fix `file32:~458`: il Frammento d'Aurora cade e rotola fino allo stivale di Gabranth; lui lo calcia via a fine capitolo.
 - Corretta nel cap. 91 la data d'arrivo di Reddas a Balfonheim: meno di due anni fa, coerente con Nabudis nel 704.
 - La spada corta di Reddas resta in mano a Vaan: torna al cap. 99 e al cap. 106 ("Vaan con la spada").
-- Aggiunti: Basch vide la luce di Nabudis dalle mura di Nalbina con Rasler (controllare col cap. 2 del blocco-a); il padre di Rasler era nel palazzo di Nabudis; Balthier cadetto a quindici anni vide Zecht col chocobo grigio "Ferro" sulla Via dei Trionfi; Gabranth ricorda l'ordine di Vayne per Raminas ("una fortuna che il Giudice avesse un fratello").
+- Aggiunti: Basch ricorda il fabbro con la mano fasciata del cap. 2 ("non si vedeva più") e Rasler sulle mura; ordine a Zecht dato da Vayne con istruzioni di Draklor, di notte, come al cap. 57; il padre di Rasler era nel palazzo di Nabudis; Balthier cadetto a quindici anni vide Zecht col chocobo grigio "Ferro" sulla Via dei Trionfi; Gabranth ricorda l'ordine di Vayne per Raminas ("una fortuna che il Giudice avesse un fratello").
+
+## Cap. 97
+- Circa 2.850 parole. Motivo dell'odio (fix `file10:932-942`): Basch fuggì la notte di Landis; Noah restò con la madre malata (catino azzurro scheggiato), andò a est coi profughi, prese a una porta il nome da ragazza della madre, Gabranth. Lei morì ad Archades l'inverno dopo chiedendo di Basch. Verificare col racconto del gemello al cap. 23 del blocco-a.
+- Basch: "la vergogna è una ragione per non smettere"; speranza. Vinto Gabranth con l'elsa, senza ucciderlo.
+- I gemelli combattono uguali: "mancini di guardia e destri di colpo", stesso sergente di frontiera.
+- Cid: "cane" per Gabranth e per Raithwall ("padrone e cane"). Venat respinge Gabranth. Larsa gli aveva chiesto della madre: è l'unica cosa che Cid gli toglie.
+- Fix `file32:622, 750, 772`: Cid alza il Frammento del Crepuscolo; Venat lo accoglie e il Frammento d'Aurora si solleva verso di lui. Il Mezzaluce, consumato a Nabudis, non compare.
+- Vaan riconosce il Crepuscolo che aveva rubato. Ashe lo aveva visto da bambina con Raminas.
+- Accenno alla madre di Balthier, morta, mai nominata: eventuale ritorno al cap. 98.
+
+## Cap. 98
+- Circa 2.300 parole. Cid dice solo che Bahamut "berrà" (fix `file32:832-842`), senza spiegarlo.
+- Famfrit senza nome, poche righe. Balthier spara alla gamba del padre.
+- Inventati: scrivania sotto la finestra tenuta per Ffamran due anni, poi "le provette"; madre di Balthier morta quando lui aveva sei anni; le lenti col vetro incrinato che Balthier mette nella tasca interna accanto all'anello di Ashe; fazzoletto della madre con l'iniziale azzurra, lasciato cadere quando corre da Fran.
+- Ultime parole di Cid secondo la fonte: tieniti la pietà, scappa, "almeno quello fallo bene".
+
+## Cap. 99
+- Circa 2.450 parole. Fran: "Vola" ripete senza saperlo il "scappa" di Cid; Balthier: "Non discutere con il protagonista", la gag spezzata dalla voce; Fran: "Stupido".
+- Reddas prende la Spada dei Re (fonte) e si raddrizza da Giudice; sentenza "ti condanno all'oblio". Nessun rumore, come a Nabudis.
+- Spada dei Re e Spada del Patto perdute nell'esplosione: Ashe esce a mani vuote e aperte. Verificare se il regista vuole far tornare la Spada dei Re.
+- Fix `file32:680, 1366`: Basch cerca Gabranth al pilastro: impronta, trascinamento verso una terrazza, una goccia di sangue. Lo dirà "a uno solo" (a Larsa o ad Ashe, cap. 105 o 109).
+- Penelo raccoglie il fazzoletto della madre di Balthier.
+- Luce vista a Eruyt (Jote, senza nome), Jahara, Balfonheim (Elza sui gradini).
+
+## Cap. 100
+- Circa 2.700 parole. Panno nero sull'occhio delle barche per tre giorni (usanza inventata). Nono riconsegna il mantello: "Tienilo finché non torno a riprenderlo" (ritorno al cap. 112).
+- Elza: Reddas cercava un posto (versione breve dell'invenzione `file32:1430-1508`). Lascia a Vaan la spada di Reddas: "non usarla per cose stupide".
+- Al-Cid galante anche qui (fix `file32:1522`): bacia la mano sul taglio. Volontari rozarriani a Bhujerba, scontro sopra Nabradia, flotta di Ondore costretta a uscire. Bahamut nominato come "nome da favola" visto salire dalle nuvole: niente spiegazione tecnica.
+- Penelo cita il vecchio dei datteri del mercato di Muthru (cap. 1): da riprendere ai cap. 101-103 fra la gente comune.
+- `32 XV-XVI` e tutto il resto di `33`-`35 I-XV` restano fuori, secondo scaletta.
+
+## Rilettura della Parte
+- Ridotti i "per un istante" e le "pietre lisce" ripetuti fra i cap. 93 e 99.
+- Il filo del protagonista ricorre nei cap. 92 (promessa), 94 (lista), 99 (Fran); nessun altro uso nella Parte.
+- Voci uguali dei gemelli seminate nei cap. 94, 95, 97.
+- Accenni alle fonti: uno solo, cap. 96 (sguardo Ashe-Vaan).
+
+FINE PARTE

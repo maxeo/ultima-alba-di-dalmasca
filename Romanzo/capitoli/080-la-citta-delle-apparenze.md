@@ -16,7 +16,7 @@ Vaan girò su se stesso. Poi girò di nuovo, dall'altra parte, perché la prima 
 
 «È chiusa.»
 
-«È aperta. Sembri un pesce tirato fuori dal secchio. Uno di quelli della Costa, che ci guardavano dal tavolo dei bangaa.»
+«È aperta. Sembri un pesce tirato fuori dal secchio. Uno di quelli della Costa, che ci guardavano dal tavolo dei Bangaa.»
 
 «Sto solo guardando.» Vaan chiuse la bocca, e la riaprì subito. «È dell'Impero. Lo so. Ma guarda quel ponte. Guarda quella torre là, con il giardino in cima. Ci sono degli alberi, in cima a una torre. Come li innaffiano?»
 
@@ -164,7 +164,7 @@ Stavano ancora contando i pini quando, dalla parte opposta della piazza, arrivò
 
 ---
 
-Era lui, senza dubbio. Era impossibile confondere quella mole di bangaa con il muso pieno di cicatrici, il mantello logoro e la spada lunga di traverso sulla schiena, e dietro di lui c'erano i suoi, Bwagi, Gijuk e Rinok, in fila, con l'aria stravolta di chi ha appena attraversato mezzo continente su un carro merci nascosto fra le casse di vino. Si erano fermati all'ingresso della piazza. Ba'Gamnan annusava l'aria. Poi girò la testa, lentamente, verso la fontana, e vide Vaan.
+Era lui, senza dubbio. Era impossibile confondere quella mole di Bangaa con il muso pieno di cicatrici, il mantello logoro e la spada lunga di traverso sulla schiena, e dietro di lui c'erano i suoi, Bwagi, Gijuk e Rinok, in fila, con l'aria stravolta di chi ha appena attraversato mezzo continente su un carro merci nascosto fra le casse di vino. Si erano fermati all'ingresso della piazza. Ba'Gamnan annusava l'aria. Poi girò la testa, lentamente, verso la fontana, e vide Vaan.
 
 Il sorriso che gli si aprì sul muso fece arretrare la signora con il cagnolino.
 

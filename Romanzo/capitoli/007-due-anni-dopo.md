@@ -16,7 +16,7 @@ Quella mattina, nel tratto di fogna sotto la via dei Calderai, le code ancora at
 
 «Chi vuoi che arrivi? Qui sotto non ci viene nessuno. Per questo i topi sono così grossi.»
 
-Erano grossi davvero. I topi delle fogne di Rabanastre mangiano quello che la città butta via, e una città che ha perso una guerra butta via meno di prima ma butta via cose più strane, e i topi si erano adattati. Quei tre arrivavano al ginocchio. Giravano attorno a Vaan sull'orlo dello scolo, a distanza di una spada e mezzo, perché avevano capito qualcosa sulla lunghezza della spada; erano topi che avevano già incontrato altri ragazzi. Vaan teneva la lama bassa. Era una spada corta, da soldato, con l'impugnatura fasciata di cuoio nuovo sopra il cuoio vecchio, e lui la usava con una sicurezza che non veniva da nessun maestro: due anni di topi, di cani randagi, di bastoni contro un palo nel cortile di Migelo, quando Migelo non guardava.
+Erano grossi davvero. I topi delle fogne di Rabanastre mangiano quello che la città butta via, e una città che ha perso una guerra butta via meno di prima ma butta via cose più strane, e i topi si erano adattati. Quei tre arrivavano al ginocchio. Giravano attorno a Vaan sull'orlo dello scolo, a distanza di una spada e mezzo, perché avevano capito qualcosa sulla lunghezza della spada; erano topi che avevano già incontrato altri ragazzi. Vaan teneva la lama bassa e la testa un poco di lato, per abitudine, perché sopra l'orecchio sinistro gli cresceva una ciocca bionda più lunga delle altre che gli cadeva sugli occhi; era lì da due anni, da quando suo fratello aveva provato a tagliargli i capelli con le forbici delle corde e aveva promesso, ridendo, di farla sistemare dal barbiere al ritorno. Vaan non l'aveva mai fatta tagliare. Era una spada corta, da soldato, con l'impugnatura fasciata di cuoio nuovo sopra il cuoio vecchio, e lui la usava con una sicurezza che non veniva da nessun maestro: due anni di topi, di cani randagi, di bastoni contro un palo nel cortile di Migelo, quando Migelo non guardava.
 
 Il primo topo si lanciò. Vaan si spostò di mezzo passo, gli lasciò il vuoto dove un attimo prima c'era la sua gamba, e colpì di piatto, poi di taglio. Il secondo arrivò mentre lui era ancora girato e gli prese la caviglia con i denti; Vaan disse una parola che Kytes, a nove anni, conosceva già ma non aveva il permesso di ripetere, e se lo scrollò di dosso contro il muro. Il terzo, che era il più vecchio e il più furbo, aspettò di vedere come finivano gli altri due. Poi decise che il rame non valeva il rischio e si buttò nello scolo, nuotando controcorrente nel buio.
 
@@ -120,7 +120,7 @@ Una mano gli passò sopra la spalla e gli tolse la borsa dalle dita.
 
 ---
 
-Penelo aveva sedici anni, le trecce legate con due nastri di stoffa diversa e un modo di stare in piedi che faceva pensare a una che si è appena tolta un grembiule e potrebbe rimetterselo da un momento all'altro. Aveva le mani infarinate fino ai polsi. Teneva la borsa del soldato fra due dita, lontano da sé, come si tiene una cosa che puzza.
+Penelo aveva diciassette anni, i capelli biondi raccolti in due codini legati con due nastri di stoffa diversa e un modo di stare in piedi che faceva pensare a una che si è appena tolta un grembiule e potrebbe rimetterselo da un momento all'altro. Aveva le mani infarinate fino ai polsi. Teneva la borsa del soldato fra due dita, lontano da sé, come si tiene una cosa che puzza.
 
 «Ti ho visto» disse.
 
@@ -142,7 +142,7 @@ Penelo aveva sedici anni, le trecce legate con due nastri di stoffa diversa e un
 
 «No.» Vaan allungò la mano verso la borsa. Lei la spostò. «Siamo orfani, Penelo. Tutti e due. Gli orfani si arrangiano. Non è che uno deve fare da balia all'altro.»
 
-Penelo lo guardò in un modo che lui conosceva e che detestava, perché non era arrabbiato, era paziente, e una pazienza così, a sedici anni, voleva dire che qualcuno gliel'aveva insegnata a caro prezzo. Lei aveva avuto due fratelli, più grandi di lei e di Vaan, due ragazzi alti e chiassosi che le avevano messo in mano un bastone a sette anni e le avevano insegnato a usarlo «perché Rabanastre è piena di gente come Vaan», e che erano partiti con l'esercito il mese delle nozze della principessa. Nessuno dei due era tornato. Penelo non ne parlava. Teneva i loro due nastri nelle trecce, uno per parte, e a chi le chiedeva perché fossero di colore diverso rispondeva che i nastri uguali li vendevano troppo cari.
+Penelo lo guardò in un modo che lui conosceva e che detestava, perché non era arrabbiato, era paziente, e una pazienza così, a diciassette anni, voleva dire che qualcuno gliel'aveva insegnata a caro prezzo. Lei aveva avuto due fratelli, più grandi di lei e di Vaan, due ragazzi alti e chiassosi che le avevano messo in mano un bastone a sette anni e le avevano insegnato a usarlo «perché Rabanastre è piena di gente come Vaan», e che erano partiti con l'esercito il mese delle nozze della principessa. Nessuno dei due era tornato. Penelo non ne parlava. Teneva i loro due nastri nei codini, uno per parte, e a chi le chiedeva perché fossero di colore diverso rispondeva che i nastri uguali li vendevano troppo cari.
 
 «Senti» disse lei. «Tu dici sempre che gli imperiali hanno rubato a Dalmasca. Lo dici a Migelo, lo dici a Kytes, lo dici ai topi. Hanno rubato le botteghe, il palazzo, i soldi del re, tutto. È così o no?»
 
@@ -182,7 +182,7 @@ Vaan la seguì con gli occhi finché fu un punto, e poi anche dopo.
 
 «Lo so, Vaan.»
 
-«Non devo chiedere il permesso a nessuno. Né a Migelo, né agli imperiali, né alle guardie della Porta Est. Prendo e vado. Su, sopra le nuvole. Giù a Bhujerba, su a Archades se mi va, e se non mi va non ci vado. Nessuno sa dove sono. Nessuno mi cerca.» Si accorse di aver detto l'ultima frase e se ne pentì subito, perché non era quella che voleva dire. «Un pirata dei cieli. Ecco cosa faccio.»
+«Non devo chiedere il permesso a nessuno. Né a Migelo, né agli imperiali, né alle guardie della Porta Est. Prendo e vado. Su, sopra le nuvole. Giù a Bhujerba, su ad Archades se mi va, e se non mi va non ci vado. Nessuno sa dove sono. Nessuno mi cerca.» Si accorse di aver detto l'ultima frase e se ne pentì subito, perché non era quella che voleva dire. «Un pirata dei cieli. Ecco cosa faccio.»
 
 Penelo aveva sentito quel discorso tante volte che avrebbe potuto recitarlo al posto suo, con le pause giuste. Lo lasciò finire. Poi guardò il punto dove l'aeronave era sparita, e per un momento, un momento solo, sembrò che ci pensasse anche lei.
 
@@ -200,7 +200,7 @@ Penelo aveva sentito quel discorso tante volte che avrebbe potuto recitarlo al p
 
 «Vai da lui, Vaan. Non dirglielo, quello che stai pensando. Vai e basta.»
 
-Se ne andò verso il mercato con le sue quattro monete nel grembiule, le trecce che le battevano sulla schiena, un nastro rosso e uno azzurro. Vaan la guardò allontanarsi. Poi guardò di nuovo il cielo, che era vuoto e bianco, e poi le sue mani, che erano sporche di fogna, e poi la borsa del soldato.
+Se ne andò verso il mercato con le sue quattro monete nel grembiule, i codini che le ballavano sulle spalle, un nastro rosso e uno azzurro. Vaan la guardò allontanarsi. Poi guardò di nuovo il cielo, che era vuoto e bianco, e poi le sue mani, che erano sporche di fogna, e poi la borsa del soldato.
 
 Prima di andare da Migelo fece un giro largo, per il mercato. Passò davanti al banco di Sahra, sotto l'ombrellone verde, e mentre lei era girata a rivoltare le focacce nell'olio lasciò cadere sul suo vassoio sei coppe di rame, una alla volta, perché facessero rumore. Sahra si voltò al tintinnio e vide solo la sua schiena che spariva fra la gente.
 

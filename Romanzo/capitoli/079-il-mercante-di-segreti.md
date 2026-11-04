@@ -42,7 +42,7 @@ Balthier si fermò. Chiuse gli occhi un istante. Li riaprì.
 
 ---
 
-Jules aveva un cappello a tesa stretta, una giacca a righe che era stata elegante cinque o sei padroni prima e scarpe pulitissime, l'unica cosa pulitissima di tutta Vecchia Archades. Era un hume di età indefinibile, magro, con le dita lunghe e sempre in movimento, e un modo di stare fermo che sembrava sempre il momento prima di andarsene. Si staccò dal lampione e venne avanti a braccia aperte.
+Jules aveva un cappello a tesa stretta, una giacca a righe che era stata elegante cinque o sei padroni prima e scarpe pulitissime, l'unica cosa pulitissima di tutta Vecchia Archades. Era un Huma di età indefinibile, magro, con le dita lunghe e sempre in movimento, e un modo di stare fermo che sembrava sempre il momento prima di andarsene. Si staccò dal lampione e venne avanti a braccia aperte.
 
 «Ma guarda» disse. «Ma guarda chi c'è. Ho detto a me stesso: Jules, quello là in fondo al vicolo, con il fascio di spade sulla spalla del suo amico biondo, non può essere lui. E invece.» Si tolse il cappello. «Che piacere.»
 
@@ -50,7 +50,7 @@ Jules aveva un cappello a tesa stretta, una giacca a righe che era stata elegant
 
 «Lo conosci?» chiese Vaan.
 
-«Lo conosco abbastanza da sconsigliarti di dirgli il tuo nome, la tua età, da dove vieni, dove vai e che cosa hai mangiato stamattina.» Balthier si sistemò un polsino. «Jules vende notizie. Le compra da chi le ha e le vende a chi le vuole, e se non trova nessuno che le voglia, le vende a chi gliele ha date, insieme alla notizia di averle comprate. È l'uomo più informato di Archades e il meno affidabile di Ivalice.»
+«Lo conosco abbastanza da sconsigliarti di dirgli il tuo nome, la tua età, da dove vieni, dove vai e che cosa hai mangiato stamattina.» Balthier sospirò. «Jules vende notizie. Le compra da chi le ha e le vende a chi le vuole, e se non trova nessuno che le voglia, le vende a chi gliele ha date, insieme alla notizia di averle comprate. È l'uomo più informato di Archades e il meno affidabile di Ivalice.»
 
 «Troppo buono» disse Jules, rimettendosi il cappello. «Detto da lui, poi.» Guardò Vaan, poi gli altri, uno per uno, con una rapidità che non sembrava curiosità ma inventario, e i suoi occhi si fermarono un attimo più a lungo sulla coperta da sella sulla schiena di Ashe, e poi scivolarono via, educatamente, come se non avessero visto niente. «Volete salire. Lo capisco. Lassù è tutto più bello. Più pulito. Più caro.»
 

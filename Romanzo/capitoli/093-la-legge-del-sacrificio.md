@@ -52,7 +52,7 @@ Entrarono, e il Faro sparì.
 
 Per un istante non capirono. Avevano oltrepassato la soglia di una torre e si aspettavano una sala, colonne, scale; si trovarono all'aperto, su un sentiero di roccia rossa fra due pareti di pietra friabile, sotto un cielo bianco di calore. C'era odore di polvere. C'era un vento secco che sollevava sabbia. Vaan si girò di scatto per guardare la porta da cui erano entrati, e la porta non c'era: dietro di lui il sentiero continuava, uguale, e piegava a sinistra fra le rocce.
 
-«Estersand» disse. Lo disse con un tono strano, fra la paura e la nostalgia. «Sembra l'Estersand. Quella è la gola sopra il pozzo di Dalan... no. No, non è.»
+«deserto orientale» disse. Lo disse con un tono strano, fra la paura e la nostalgia. «Sembra il deserto orientale. Quella è la gola sopra il pozzo di Dalan... no. No, non è.»
 
 «Non è niente» disse Balthier. «Non c'è nessun sole. Guarda le ombre.»
 
@@ -74,7 +74,7 @@ La seguirono così, a occhi semichiusi, con la mano sulla spalla di quello davan
 
 Alla fine del sentiero c'era una roccia. Era una roccia tonda e bassa, grande come una casa, coperta di scaglie di pietra; la guardarono, la toccarono, e Reddas, che aveva fretta, ci appoggiò un piede per salirci sopra e vedere oltre. La roccia aprì un occhio.
 
-Il guardiano dell'illusione, quello che la porta di Raithwall annunciava per primo, era una bestia con il guscio di pietra e una testa piatta e lenta, e combatterlo fu come litigare con una montagna. Aveva uno sguardo che faceva diventare le gambe pesanti come colonne e una luce che accecava. Quando cominciò a cedere si chiuse in una specie di bolla d'aria dura, contro la quale le spade rimbalzavano, e per un poco non ci fu niente da fare se non aspettare a distanza, curarsi i lividi e guardarlo ansimare. Balthier ne approfittò per sedersi. Poi la bolla si spense, e Basch e Reddas lo presero dai due lati, insieme, uno con la spada lunga e l'altro con le sue due corte, e lo fecero in un modo così coordinato che Ashe, che li guardava, pensò che dovevano aver imparato nello stesso genere di scuola. Il guardiano sprofondò nella sabbia, la sabbia sprofondò nel nulla, e si ritrovarono in una sala di pietra grigia con un soffitto altissimo, in piedi, ammaccati, con le spade in mano e la polvere dell'Estersand ancora sulle scarpe.
+Il guardiano dell'illusione, quello che la porta di Raithwall annunciava per primo, era una bestia con il guscio di pietra e una testa piatta e lenta, e combatterlo fu come litigare con una montagna. Aveva uno sguardo che faceva diventare le gambe pesanti come colonne e una luce che accecava. Quando cominciò a cedere si chiuse in una specie di bolla d'aria dura, contro la quale le spade rimbalzavano, e per un poco non ci fu niente da fare se non aspettare a distanza, curarsi i lividi e guardarlo ansimare. Balthier ne approfittò per sedersi. Poi la bolla si spense, e Basch e Reddas lo presero dai due lati, insieme, uno con la spada lunga e l'altro con le sue due corte, e lo fecero in un modo così coordinato che Ashe, che li guardava, pensò che dovevano aver imparato nello stesso genere di scuola. Il guardiano sprofondò nella sabbia, la sabbia sprofondò nel nulla, e si ritrovarono in una sala di pietra grigia con un soffitto altissimo, in piedi, ammaccati, con le spade in mano e la polvere del deserto orientale ancora sulle scarpe.
 
 Vaan si guardò le scarpe a lungo. La polvere era vera. La toccò con un dito.
 
@@ -116,7 +116,7 @@ Si fermarono davanti al quarto. Reddas lo indicò.
 
 Ashe guardò il quarto altare a lungo, più di quanto la scelta richiedesse. Le pareva che la sala intera, con quella lastra al centro e quelle quattro pietre in croce, dicesse la stessa cosa che aveva detto la porta, con parole più semplici, per chi non avesse capito la prima volta. La Negalite prometteva a chi la teneva di non dover rinunciare più a niente: non alla vendetta, non al regno, non ai morti. Raithwall, che di quella promessa era stato il primo creditore, aveva costruito una torre dove per salire bisognava lasciare qualcosa.
 
-Mise la mano nell'incavo. La pietra era tiepida, come se qualcuno l'avesse appena lasciata. Una luce passò sotto il palmo e salì fino al soffitto, e Ashe sentì, per un istante, una cosa molto strana e molto precisa: che non avrebbe più saputo ritrovare la porta da cui erano entrati. Ce l'aveva in testa un momento prima, la scalinata, il portale, la piazza con la Strahl. Adesso no. Restava il ricordo di esserci stata, ma non la strada.
+Mise la mano nell'incavo. La pietra era tiepida, come se qualcuno l'avesse appena lasciata. Una luce passò sotto il palmo e salì fino al soffitto, e Ashe sentì una cosa molto strana e molto precisa: che non avrebbe più saputo ritrovare la porta da cui erano entrati. Ce l'aveva in testa un momento prima, la scalinata, il portale, la piazza con la Strahl. Adesso no. Restava il ricordo di esserci stata, ma non la strada.
 
 Dal fondo della sala si aprì un passaggio. Ripresero a salire.
 

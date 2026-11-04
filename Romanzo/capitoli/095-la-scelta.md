@@ -8,7 +8,7 @@ Stava in piedi sotto la Crisalide con una spada per mano, e le due spade, alla l
 
 «Ashe.»
 
-Era Vaan. Si era staccato dagli altri senza chiedere e aveva fatto metà della strada verso di lei sulla pietra liscia della piazza. Si fermò lì, a metà, quando lei voltò la testa.
+Era Vaan. Si era staccato dagli altri senza chiedere e aveva fatto metà della strada verso di lei sulle lastre della piazza. Si fermò lì, a metà, quando lei voltò la testa.
 
 «La spacchi?» disse. «Con quella. Con quella dei Re.»
 

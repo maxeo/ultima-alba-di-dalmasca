@@ -14,7 +14,7 @@ La bottega di Migelo stava sulla piazza bassa, all'incrocio fra la via dei Calde
 
 Quel giorno, sul bancone, c'era una lista. Era lunga quanto un braccio, scritta in archadiano da una mano di cancelleria, con un timbro in fondo. Migelo la toccava ogni tanto, come si tocca una ferita per vedere se fa ancora male.
 
-«Stasera» disse «al palazzo c'è il banchetto per il console nuovo. Lo sai, no? Tutta la città lo sa. Arriva da Archades, arriva da Nalbina, non si sa bene da dove arriva, ma arriva, e il banchetto è stasera, e una parte di quello che si mangia stasera lo porto io.» Batté la lista con un artiglio. «Io. Migelo. Ci sono quattro mercanti in tutta Rabanastre che hanno avuto la lista, e uno sono io.»
+«Stasera» disse «al palazzo c'è il banchetto per il console nuovo. Lo sai, no? Tutta la città lo sa. Arriva dad Archades, arriva da Nalbina, non si sa bene da dove arriva, ma arriva, e il banchetto è stasera, e una parte di quello che si mangia stasera lo porto io.» Batté la lista con un artiglio. «Io. Migelo. Ci sono quattro mercanti in tutta Rabanastre che hanno avuto la lista, e uno sono io.»
 
 «Congratulazioni.»
 
@@ -22,7 +22,7 @@ Quel giorno, sul bancone, c'era una lista. Era lunga quanto un braccio, scritta 
 
 Vaan non rispose. Era un discorso che aveva già sentito, e la cosa che lo irritava di più era che non sapeva come smontarlo.
 
-«Il problema» continuò Migelo «è la carovana. Doveva arrivare stamattina dall'Estersand. Sale, datteri, il vino di palma di quelli di Dalan... no, non di Dalan, degli altri. Due carri. Niente. Non è arrivata. Il caravaniere è uno serio, non beve, non gioca. Se non è arrivato vuol dire che c'è qualcosa sulla strada.»
+«Il problema» continuò Migelo «è la carovana. Doveva arrivare stamattina dal deserto orientale. Sale, datteri, il vino di palma di quelli di Dalan... no, non di Dalan, degli altri. Due carri. Niente. Non è arrivata. Il caravaniere è uno serio, non beve, non gioca. Se non è arrivato vuol dire che c'è qualcosa sulla strada.»
 
 «Vado io a vedere.»
 
@@ -72,7 +72,7 @@ Vaan guardò. Il foglio era scritto a mano, con un inchiostro che sbavava, e ave
 
 «Smarrito.» Vaan si girò verso Kytes. «È uno scherzo?»
 
-«Non è uno scherzo» disse una voce dal bancone. Tomaj veniva verso di loro asciugandosi le mani su uno straccio. Era un uomo grosso, rasato, con un orecchino d'oro e il naso rotto da giovane in una rissa che raccontava in tre versioni diverse a seconda dei clienti. «Ha già rovesciato due carri questa settimana. Un mercante di Nalbina ci ha perso un carico di uova, e me lo ha raccontato per un'ora, e io ho dovuto ascoltarlo, e questa per me è la parte peggiore.»
+«Non è uno scherzo» disse una voce dal bancone. Tomaj veniva verso di loro asciugandosi le mani su uno straccio. Era giovane per essere un taverniere, con i capelli castani corti, una sciarpa arancione al collo anche col caldo e l'aria di chi ha ereditato la taverna troppo presto e si è messo d'impegno a sembrare più vecchio. «Ha già rovesciato due carri questa settimana. Un mercante di Nalbina ci ha perso un carico di uova, e me lo ha raccontato per un'ora, e io ho dovuto ascoltarlo, e questa per me è la parte peggiore.»
 
 «Ma che cos'è?»
 
@@ -170,7 +170,7 @@ Vaan se la mise da parte, per Montblanc. Poi uscì nel deserto.
 
 ---
 
-Dell'Estersand si sa quello che sanno tutti quelli che ci sono passati: che è bello solo a guardarlo da lontano, e che chi lo attraversa non lo guarda, perché ha gli occhi pieni di sabbia. Il vento lo modella in dune basse e lunghe come le onde di un mare stanco, e fra le dune affiorano rocce rosse, consumate in forme che i bambini di Rabanastre chiamano col nome di animali: il cane, la vecchia, il dente. La strada per il primo pozzo passa fra il cane e il dente. Vaan la conosceva fino al cane, per averla fatta una volta con Reks, da bambino, a vedere una carovana di Bhujerba che portava gli elefanti di pietra per il tempio. Oltre il cane non era mai andato.
+Del deserto orientale si sa quello che sanno tutti quelli che ci sono passati: che è bello solo a guardarlo da lontano, e che chi lo attraversa non lo guarda, perché ha gli occhi pieni di sabbia. Il vento lo modella in dune basse e lunghe come le onde di un mare stanco, e fra le dune affiorano rocce rosse, consumate in forme che i bambini di Rabanastre chiamano col nome di animali: il cane, la vecchia, il dente. La strada per il primo pozzo passa fra il cane e il dente. Vaan la conosceva fino al cane, per averla fatta una volta con Reks, da bambino, a vedere una carovana di Bhujerba che portava gli elefanti di pietra per il tempio. Oltre il cane non era mai andato.
 
 Ci andò quel giorno, con la spada in mano e il sole sulla nuca, attento a ogni ombra. Vide un lupo del deserto in lontananza, magro come un attaccapanni, che lo studiò e decise di no. Vide le tracce di un carro uscire dalla strada e finire in un avvallamento, e in fondo all'avvallamento il carro rovesciato, con le ruote all'aria e una scia di gusci d'uovo intorno, che il sole stava cuocendo. Vide le impronte. Erano tonde, profonde, e saltellavano.
 
@@ -186,7 +186,7 @@ Fu una carica bassa, rotolante, con una velocità che una cosa di quella forma n
 
 Il Pomodoro decise che la cosa non gli piaceva. Si girò e scappò.
 
-Scappava saltellando, giù per il pendio della duna, con il ciuffo che sbatteva da una parte e dall'altra, e Vaan, che non aveva mai inseguito una pianta in vita sua, gli corse dietro gridando cose che non avevano senso, e scivolò nella sabbia, e rotolò, e si rialzò con la bocca piena di deserto, e corse ancora. Lo raggiunse in fondo al pendio, dove la bestia si era fermata a riprendere fiato, o quello che le piante del deserto riprendono quando si fermano. Si guardarono. Il Pomodoro ansimava. Vaan ansimava. Erano soli nel mezzo dell'Estersand, un ragazzo e un ortaggio, coperti di sabbia tutti e due.
+Scappava saltellando, giù per il pendio della duna, con il ciuffo che sbatteva da una parte e dall'altra, e Vaan, che non aveva mai inseguito una pianta in vita sua, gli corse dietro gridando cose che non avevano senso, e scivolò nella sabbia, e rotolò, e si rialzò con la bocca piena di deserto, e corse ancora. Lo raggiunse in fondo al pendio, dove la bestia si era fermata a riprendere fiato, o quello che le piante del deserto riprendono quando si fermano. Si guardarono. Il Pomodoro ansimava. Vaan ansimava. Erano soli nel mezzo del deserto orientale, un ragazzo e un ortaggio, coperti di sabbia tutti e due.
 
 Questa volta fu Vaan a caricare.
 
@@ -198,9 +198,9 @@ I gigli li vide mentre si alzava.
 
 Crescevano in una fessura della roccia, all'ombra del dente, dove forse un tempo c'era stata acqua e adesso c'era solo un'umidità che la pietra tratteneva come un ricordo. Erano tre. Avevano il gambo sottile, quasi grigio, e il fiore bianco con il cuore giallo, chiuso a metà per il caldo. Non avevano niente a che fare con quel posto. Erano gigli di Galbana, che di solito si trovano lungo i canali delle oasi, e a Rabanastre si vendevano a mazzetti alla Porta Sud nella stagione delle piogge, per due coppe, alle ragazze.
 
-Reks li comprava. Non alle ragazze: per casa. Ne prendeva un mazzetto e lo metteva nella brocca d'acqua sul tavolo, e la madre di Mirka, la vicina, diceva che era un ragazzo strano, e Reks rispondeva che avevano un buon odore e che la casa, senza, sapeva di chiuso. Lo diceva con la faccia seria. Vaan, che aveva dieci anni, lo prendeva in giro per giorni. Poi la casa non c'era più e la brocca nemmeno, e i gigli Vaan non li aveva più comprati, e non ci aveva più pensato, fino a quel momento, in mezzo al deserto, con il succo di una pianta morta sulle mani.
+La madre li teneva nel vaso verde, quello di terracotta smaltata con la crepa, sulla finestra. Vaan se lo ricordava appena, il profumo; Reks se lo ricordava benissimo, e la sera prima di partire per Nalbina, steso sulla branda con le mani dietro la testa, aveva detto che si aprivano di sera e la stanza si riempiva tutta, e che al ritorno sarebbero andati a prenderne insieme, sull'orlo del deserto orientale, dalla parte delle Pianure. Si va e si torna in un giorno, aveva detto. Il vaso era ancora sulla finestra sopra la bottega, con la crepa riparata col filo di ferro e lo stelo nero di una pianta morta dentro, e nessuno dei due fratelli l'aveva mai tolto di lì; poi i fratelli erano rimasti uno, e il vaso era rimasto lo stesso. Vaan non ci aveva più pensato, fino ad allora, in mezzo al deserto, con il succo di una pianta morta sulle mani.
 
-Li colse con attenzione, uno alla volta, tagliando il gambo vicino alla roccia con la lama della spada, perché non si spezzassero. Li avvolse in un lembo della camicia. Pensò alla stanza sopra la bottega, al letto che c'era ancora, al tavolino accanto al letto dove per tanti mesi c'era stata una tazza con un cucchiaio dentro. Ci avrebbe messo una tazza d'acqua e i gigli. Non sapeva perché. Non avrebbe saputo spiegarlo a nessuno, e infatti non lo spiegò mai.
+Li colse con attenzione, uno alla volta, tagliando il gambo vicino alla roccia con la lama della spada, perché non si spezzassero. Li avvolse in un lembo della camicia. Pensò alla stanza sopra la bottega, alla branda che c'era ancora, al vaso verde sulla finestra con la sua terra secca. Avrebbe tolto lo stelo nero e ci avrebbe messo l'acqua e i gigli. Non sapeva perché. Non avrebbe saputo spiegarlo a nessuno, e infatti non lo spiegò mai.
 
 ---
 
@@ -248,7 +248,7 @@ Vaan li guardò. Tre fiori bianchi schiacciati nella polvere della Porta Est, co
 
 La voce arrivava da dietro la barriera, dall'interno della città, ed era una voce che Vaan avrebbe riconosciuto fra mille: la voce di Migelo quando vendeva qualcosa. Il vecchio Bangaa stava passando sotto l'arco della porta con un carretto a mano, carico di casse, e guardava il chocobo con l'aria di un uomo che ha appena visto una visione celeste.
 
-«Ma che splendore. Ma che portamento. Allevamento di Archades, vero? No, non me lo dica, l'ho capito dal collo. Solo a Archades fanno colli così.» Lasciò il carretto e si avvicinò al palafreniere con le braccia aperte. «Sergente! Sergente, lei è responsabile di questo tesoro? Che onore. Che responsabilità. Con questo caldo, poi. Sono ore che siete qui, immagino. Ore. Al sole. Per il console.»
+«Ma che splendore. Ma che portamento. Allevamento di Archades, vero? No, non me lo dica, l'ho capito dal collo. Solo ad Archades fanno colli così.» Lasciò il carretto e si avvicinò al palafreniere con le braccia aperte. «Sergente! Sergente, lei è responsabile di questo tesoro? Che onore. Che responsabilità. Con questo caldo, poi. Sono ore che siete qui, immagino. Ore. Al sole. Per il console.»
 
 Il sergente, preso alla sprovvista, ammise che sì, erano ore.
 
