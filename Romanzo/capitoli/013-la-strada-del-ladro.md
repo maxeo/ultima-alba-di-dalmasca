@@ -1,0 +1,229 @@
+## 13. La strada del ladro
+
+Dalan prese la Pietra del Sole con due dita e la tenne alla luce del pozzo d'aerazione, e per la prima volta da quando Vaan lo conosceva il vecchio non disse niente di spiritoso. La guardò a lungo. La pietra era gialla e calda e pulsava appena, come un cuore piccolo, e la luce che saliva dal fondo dei suoi riflessi era la stessa che Vaan aveva visto nei cristalli di Giza, raccolta e chiusa dentro una noce.
+
+«L'hai caricata tu» disse Dalan.
+
+«Con un bambino che si chiama Jinn. Lui mi ha detto come.»
+
+«Tre cristalli?»
+
+«Tre.»
+
+Il vecchio annuì. Aprì la scatola di legno nero, prese la Pietra della Luna Crescente e posò l'una accanto all'altra sul tavolo, sopra un panno di lana, con le punte della falce rivolte verso la noce gialla. Poi fece una cosa che Vaan non si aspettava: si sfilò lo zucchetto di feltro, come in chiesa, e mise le due mani a coppa sopra le pietre, senza toccarle.
+
+Non successe niente di spettacolare. Vaan, che aveva sentito troppe storie al mercato, si aspettava lampi. Ci fu invece un calore che si poteva sentire sulla faccia, come davanti a un forno aperto, e un odore leggero di metallo bruciato, e la Pietra del Sole che si spegneva piano, dal giallo all'arancio al grigio, mentre la falce accanto a lei cambiava colore nella direzione opposta: dal grigio violetto a un bianco latteo, e dal bianco a un azzurro chiaro, freddo, che si accese nelle punte e poi si raccolse nel centro. Quando Dalan tolse le mani, la Pietra del Sole era un sasso nero qualunque e la Luna Crescente brillava come la luna dopo la pioggia.
+
+«Ecco» disse il vecchio. Si rimise lo zucchetto. Aveva la fronte sudata. «La brocca è piena.»
+
+Vaan la prese. Era fredda come i cristalli di Giza.
+
+«E adesso? La porta. Dov'è la porta?»
+
+«Calma. Siediti. Bevi il tè.»
+
+«Non voglio il tè.»
+
+«Lo bevi lo stesso, perché quello che ti dico adesso te lo devi ricordare, e la gente si ricorda meglio le cose dette davanti a una tazza.» Dalan versò. Vaan bevve. Era cattivo come l'altra volta. «Nel quartiere nord della Città Bassa, dietro la cisterna vecchia, c'è un magazzino. Il numero cinque. Una volta ci tenevano il grano della corona, adesso ci tengono le casse vuote, e non ci va più nessuno. Dentro ci sono due porte. Quella di destra porta alle fogne. Le tue fogne, quelle dei topi. Il regno dello sterminatore.»
+
+«Non ricominciare.»
+
+«Quella di sinistra è chiusa da vent'anni, e porta ai Canali di Garamsythe. Sai cosa sono?»
+
+Vaan lo sapeva come lo sanno tutti i ragazzi di Rabanastre: per sentito dire, e con un brivido. I Canali erano più vecchi della città. Li avevano scavati i primi re, quando Rabanastre era un pozzo con un muro intorno, per portare l'acqua del fiume dentro le cisterne, e poi la città ci era cresciuta sopra e se n'era dimenticata. Si diceva che fossero grandi come un'altra città. Si diceva che ci vivessero cose che non erano mai salite alla luce. Si diceva, a voce più bassa, che due anni prima, quando l'esercito di Archadia era entrato dalla Porta Est, qualcuno dei soldati del re fosse sceso là sotto e non fosse più tornato su.
+
+«Li conosco» disse.
+
+«No. Ma ci vai lo stesso.» Dalan si sporse sul tavolo. «Segui il canale grande verso nord-ovest, sempre controcorrente. Quando l'acqua diventa ferma e i muri diventano dritti, sei sotto il palazzo. Lì c'è una scala. La scala sale nelle cantine, dove stasera ci sarà più gente che in piazza, perché c'è la cena grande e i cuochi corrono come galline. Nessuno farà caso a un ragazzo in più, se il ragazzo cammina come se sapesse dove va.»
+
+«E poi?»
+
+«Poi cerchi il leone.» Il vecchio disse la frase in un altro tono, più lento, come si recita una cosa imparata da bambini. «Al piano delle sale, nel corridoio grande, c'è un leone sul pavimento. Inciso nella pietra, grande quanto questa stanza. Gli archadiani ci camminano sopra tutti i giorni e non lo vedono, perché è vecchio e consumato e loro guardano avanti. Il leone vuole la luna. Mettiti in piedi sul leone e dagli la pietra, e lui ti farà vedere dove andare. Ripeti.»
+
+«Il leone vuole la luna.»
+
+«Bene. Non dimenticarlo. Il palazzo è grande e i tesori non stanno nelle stanze con la scritta tesoro.»
+
+Vaan si alzò. Dalan non si alzò. Lo guardò dal basso, con le mani intorno alla tazza, e Vaan vide sulla sua faccia una cosa che non gli aveva mai visto, e che non era divertimento.
+
+«Ragazzo. Se ti prendono, non è una bravata. Non ti danno due scapaccioni e ti rimandano da Migelo. Stanotte gli archadiani cercano gente nei canali, e chi trovano nei canali, stanotte, finisce a Nalbina. E da Nalbina, di solito, non si torna.»
+
+«Non mi prendono.»
+
+«Lo so che lo pensi.» Dalan bevve. «Vai, allora. E se incontri qualcuno, là sotto, qualcuno che non è un topo e non è un soldato, fai finta di non averlo visto. Abbassa la testa e vai avanti. Me lo prometti?»
+
+Era la seconda promessa che gli chiedevano quel giorno. Vaan disse sì anche a questa, e la tenne meglio della prima.
+
+---
+
+Il magazzino numero cinque era come aveva detto Dalan: una scatola di mattoni crudi con il tetto sfondato, dietro la cisterna vecchia, in una parte della Città Bassa dove anche i poveri andavano poco. Dentro c'erano casse vuote impilate fino alle travi e un odore di grano marcito che era rimasto attaccato ai muri dopo che il grano se n'era andato. Le due porte erano in fondo, una accanto all'altra. Quella di destra era socchiusa. Quella di sinistra aveva un catenaccio arrugginito e una serratura grande quanto una mano.
+
+Davanti alla porta di sinistra, in ginocchio, c'era Kytes.
+
+«Ce l'ho quasi fatta» disse, senza voltarsi. Aveva un filo di ferro piegato in due infilato nella serratura e la lingua fra i denti, e girava il ferro con la concentrazione di un orafo. «Aspetta. Non parlare. Se parli perdo il dente.»
+
+«Che dente?»
+
+«Della serratura. Ha i denti. Me l'ha spiegato Ammar.» Il ferro fece uno scatto. Kytes si irrigidì, girò ancora, e il catenaccio arrugginito, dopo vent'anni, si aprì con un gemito lungo. Il ragazzino si girò con una faccia che splendeva. «Visto?»
+
+«Chi ti ha detto che venivo qui?»
+
+«Dalan. Stamattina. È passato dalla bottega a comprare l'olio, e ha detto a me, non a Penelo, a me, che se volevo rendermi utile dovevo andare al magazzino cinque e aprire la porta di sinistra prima di mezzogiorno. E di non dirlo a nessuno.» Kytes si alzò, spolverandosi le ginocchia. «Non l'ho detto a nessuno. Penelo non me l'ha chiesto, quindi non ho dovuto dire bugie.»
+
+Vaan guardò la porta aperta. Dietro c'era una scala di pietra che scendeva nel buio e un respiro d'aria fredda che sapeva di acqua ferma. Pensò al vecchio che passava dalla bottega a comprare l'olio, la mattina, mentre lui era ancora negli orti con i piedi nel canale. Pensò che Dalan aveva mandato Kytes ad aprire quella porta prima di sapere se Vaan sarebbe tornato con la pietra. Era un pensiero strano. Non ebbe il tempo di finirlo.
+
+«Ci vai davvero?» chiese Kytes.
+
+«Ci vado.»
+
+«Là sotto non è come il condotto dei Calderai. Ammar dice che nei canali c'è una cosa con dieci braccia.»
+
+«Ammar dice tante cose.»
+
+«Ha detto anche come si apre la serratura, ed era vero.» Kytes frugò nelle tasche e tirò fuori due boccette verdi, uguali a quelle di Penelo, e una terza più piccola, azzurra, per gli occhi. «Tieni. Le ho prese dallo scaffale. Le ho segnate sul registro come ha fatto Penelo. Le paghi tu.»
+
+Vaan le prese. Erano calde delle tasche di Kytes.
+
+«Kytes.»
+
+«Sì?»
+
+«Se Penelo ti chiede dove sono...»
+
+Il ragazzino lo guardò con una faccia così seria che Vaan non riuscì a finire. Kytes non sapeva dire le bugie a Penelo. Lo sapevano tutti e due. Era una delle poche cose certe della Città Bassa.
+
+«Dille che sono andato a fare una cosa» disse Vaan. «E che torno per la cena. Quella di domani. Dille così.»
+
+«È vero?»
+
+«È vero.»
+
+Kytes ci pensò e decise di crederci, perché a nove anni si crede a quelli di diciassette che hanno appena ammazzato un pomodoro. Si fece da parte. Vaan scese il primo gradino, e il secondo, e al terzo si voltò. Kytes era in piedi sulla soglia con il filo di ferro ancora in mano, piccolo contro la luce del magazzino.
+
+«Chiudi dietro di me» disse Vaan. «Se passa qualcuno, che non veda la porta aperta.»
+
+«E come esci?»
+
+«Dal palazzo. Dalla porta principale. Con il tesoro sotto il braccio.» Vaan sorrise. «Ciao, Kytes.»
+
+«Ciao.»
+
+La porta si chiuse. Il catenaccio fece il suo gemito, al contrario. Vaan restò nel buio, su una scala che non vedeva, con una mano sul muro bagnato e nell'altra la Luna Crescente, che faceva una luce azzurrina, poca, abbastanza per i suoi piedi.
+
+---
+
+Chi ha visto i Canali di Garamsythe li descrive in due modi, a seconda di quanto ci è rimasto. Chi ci è passato in fretta parla di gallerie, di acqua, di topi. Chi ci è rimasto a lungo parla di una cattedrale. Sotto la città di Rabanastre corre un fiume chiuso in un letto di pietra, largo come una strada, e sopra il fiume si alzano volte a botte così alte che la luce delle torce non arriva a toccarle; passerelle di ferro e di legno corrono lungo i muri, a diverse altezze, collegate da scale e da ponti, e dalle pareti escono condotti più piccoli, a decine, ciascuno con il suo filo d'acqua che cade nel fiume con un rumore diverso. Tutto è verde. Le pietre sono coperte di un muschio scuro, viscido, che luccica alla luce. L'aria sa di ferro e di stagno, e fa freddo; un freddo che a Rabanastre non si conosce, e che entra nelle ossa da sotto, dai piedi.
+
+Vaan ci camminò per ore. Seguì il canale grande controcorrente, come aveva detto Dalan, e quando il canale si divideva prendeva sempre il ramo di sinistra, perché il nord-ovest era a sinistra, o almeno lui credeva. Incontrò topi, che lo guardarono e si fecero da parte. Incontrò pipistrelli grandi come gatti, appesi a testa in giù sotto un ponte, che non si svegliarono. Non incontrò la cosa con dieci braccia, e ne fu grato ad Ammar per averla inventata, se l'aveva inventata, perché pensarci gli aveva tenuto gli occhi aperti. Contò i ponti. Erano diciannove.
+
+Al ventesimo sentì le voci.
+
+Si buttò dietro una pila di assi marce, contro il muro, prima di decidere di farlo; i due anni di soldati agli angoli gli avevano insegnato quello, se non altro. Le voci venivano da una piattaforma più sotto, una specie di balcone di pietra che sporgeva sul fiume dove il canale si allargava in una vasca. C'era una luce. Una lanterna coperta per metà con un panno.
+
+Erano uomini. Cinque o sei, in piedi, con le spade alla cintura e corazze di cuoio e di maglia che non appartenevano a nessun esercito, o che appartenevano a un esercito che non c'era più: Vaan vide su una spalla un pezzo di mantello azzurro, sbiadito, e gli si strinse lo stomaco. Uno stava facendo rapporto a un altro, sottovoce.
+
+«Le squadre del nord e del pozzo vecchio sono in posizione, capitano. Quella delle cucine aspetta il segnale. Nessuna pattuglia sotto il terzo ponte. Abbiamo visto solo topi.»
+
+«Topi» disse l'uomo che ascoltava. «Gli archadiani raddoppiano le ronde in città e lasciano vuoti i canali. Non ti sembra strano?»
+
+«Forse non sanno.»
+
+«Forse.» L'uomo si voltò verso la luce, e Vaan lo vide in faccia. Era alto, con le spalle larghe e i capelli scuri, lunghi, legati dietro la nuca. Aveva un volto duro, con le guance scavate e le sopracciglia folte, e una cicatrice sottile sul mento. Portava un'armatura che era stata buona e che era stata riparata molte volte, da mani diverse. Teneva la mano sinistra appoggiata al pomo della spada, non stretta, appoggiata, come si tiene la mano sulla spalla di un amico. «Va' dagli altri. Al tramonto voglio tutti dove devono essere. Nessuno si muove prima del segnale. Nessuno, anche se vede il console in persona che passa da solo con le chiavi in mano.»
+
+«Sì, capitano Vossler.»
+
+Il soldato salutò, con un saluto che Vaan aveva visto fare ai soldati del re quando era bambino, il pugno sul cuore e poi giù, e se ne andò lungo una passerella che girava dietro la vasca. Gli altri lo seguirono. L'uomo che chiamavano Vossler rimase solo, con la lanterna mezza coperta, a guardare l'acqua ferma.
+
+Non rimase solo a lungo.
+
+Dall'ombra della passerella, dall'altra parte della piattaforma, venne avanti qualcuno. Vaan vide prima la gonna, perché era l'unica cosa colorata in tutto quel verde: rossa, di un rosso cupo, da viaggio, che arrivava sotto il ginocchio, sopra un paio di stivali alti. Poi vide una casacca chiara e due braccia nude, e una spada corta al fianco. La faccia no. La donna si fermò proprio nel cono d'ombra fra la lanterna e il muro, e la sua faccia restò al buio, e Vaan vide soltanto il profilo della testa e un riflesso di capelli chiari.
+
+«Sono tutti?» chiese lei.
+
+La voce lo sorprese. Era giovane, e non era la voce di qualcuno che chiede. Era la voce di qualcuno abituato a ricevere le risposte prima di aver finito la domanda.
+
+«Tutti quelli che abbiamo» disse Vossler. «Non sono abbastanza.»
+
+«Lo erano ieri, quando ne abbiamo parlato.»
+
+«Ieri non avevo visto i canali vuoti.» L'uomo si voltò verso di lei, e Vaan sentì nella sua voce una cosa che non riusciva a mettere insieme con la faccia dura: una specie di pazienza, e sotto la pazienza la paura. «Non mi piace. Una ronda raddoppiata sopra e niente sotto. Sembra una porta lasciata aperta.»
+
+«Allora entriamo, prima che la chiudano.»
+
+«Non è questo che...»
+
+«Capitano.» Lei non alzò la voce. Non ce n'era bisogno. «Sono due anni che aspettiamo una porta aperta. Stanotte il console è nel palazzo, con la nobiltà che gli ha leccato le mani per cinque giorni, e tutti i suoi ufficiali sono ubriachi del nostro vino. Se non è stanotte, quando? Quando avrà finito di farsi amare?»
+
+Vossler non rispose subito. Guardò l'acqua. Poi fece una cosa che Vaan, dalla pila di assi, non avrebbe dimenticato: chinò la testa, appena, verso la donna in rosso. Non fu un inchino. Fu più piccolo di un inchino e pesò di più.
+
+«Stanotte» disse.
+
+«Stanotte.» La donna si voltò. Per un istante la luce della lanterna le passò sul collo e su una mano, la sinistra, che teneva stretta a pugno contro il fianco. Poi sparì nell'ombra da dove era venuta, e Vossler, dopo un momento, prese la lanterna e la seguì, e la piattaforma restò buia.
+
+Vaan restò dietro le assi finché non sentì più niente. Gli batteva il cuore forte, e gli batteva per due ragioni che non riusciva a separare: perché quegli uomini erano la Resistenza, la Resistenza vera, quella di cui si parlava sottovoce al mercato e che lui aveva sempre pensato fosse una storia per far stare zitti i bambini; e perché la Resistenza, stanotte, saliva al palazzo dalla stessa parte da cui saliva lui. Dalan gli aveva detto: fai finta di non averlo visto. Vaan abbassò la testa e andò avanti. Ma adesso sapeva che il vecchio, quando gliel'aveva detto, sapeva benissimo chi ci sarebbe stato da non vedere.
+
+---
+
+La scala era dove Dalan aveva detto: dopo che l'acqua si faceva ferma e i muri si facevano dritti, in un'ansa del canale dove la pietra grezza lasciava il posto a blocchi squadrati e puliti, con le giunture fini come capelli. Saliva ripida, dentro il muro. Vaan la salì contando i gradini, che erano centoventi, e in cima trovò una grata che si apriva spingendo e, oltre la grata, le cantine del palazzo reale di Rabanastre.
+
+Dalan aveva ragione anche su questo. C'era più gente che in piazza. Le cantine erano una serie di sale basse a volta, illuminate a giorno da lampade di magilite appese alle catene, piene di botti, di casse, di sacchi, di cesti di frutta, di carcasse d'agnello appese ai ganci, e in mezzo a tutto questo correvano cuochi, sguatteri, garzoni, servitori in livrea, portatori con le braccia cariche e la faccia rossa, e tutti gridavano. Era la quinta sera. Erano cinque giorni che correvano così. Nessuno guardò Vaan, che uscì da dietro una botte di olio con la camicia bagnata e le scarpe piene di muschio; un garzone gli mise in mano una cesta di limoni e gli disse di portarla su, e Vaan la portò, camminando come se sapesse dove andava.
+
+La scala che portava dalle cantine alle sale era una scala larga, di marmo, e in cima c'era un soldato.
+
+Era un soldato archadiano di guardia, con l'elmo chiuso e la lancia, e ogni volta che un servitore arrivava in cima con un vassoio lui controllava che portasse la livrea del palazzo, e lo lasciava passare con un cenno. Vaan non aveva la livrea. Aveva una cesta di limoni. Ci provò lo stesso. Il soldato lo fermò con la lancia di traverso a due gradini dalla cima.
+
+«Tu chi sei?»
+
+«I limoni.»
+
+«Vedo i limoni. Chi sei tu?»
+
+«Quello che porta i limoni.»
+
+«Solo il personale con la livrea passa. Gli altri lasciano la roba al primo pianerottolo e tornano giù.» La lancia non si spostò. «Giù.»
+
+Vaan tornò giù. Posò i limoni sul primo pianerottolo, accanto a una montagna di altre ceste, e si appoggiò al muro con le braccia incrociate, a guardare la scala come si guarda un nemico personale. Aveva attraversato una notte di pianura, una notte di canali, un'imboscata di iene e una cospirazione armata, e adesso un uomo con una lancia gli diceva giù.
+
+«Non così» disse una voce vicino al suo gomito. «Così non passi mai.»
+
+Era una serva Seeq. Era larga quanto due Vaan, con il grugno roseo e le zanne corte limate con cura, e portava la livrea del palazzo tirata sulla pancia fino a far gemere le cuciture. Teneva in mano un vassoio di bicchieri vuoti. Lo guardava con gli occhietti piccoli e rossi, e con una specie di compassione professionale.
+
+«Lui guarda quelli che salgono» disse la Seeq, abbassando la voce, che era rauca e nasale. «Tutta la sera guarda quelli che salgono. È stanco. Non ne può più di guardare quelli che salgono. Se qualcuno lo chiama da giù, lui scende a vedere chi è, perché è annoiato e perché è archadiano e gli archadiani odiano essere chiamati. Lo fa ogni volta. Gli ho fatto lo scherzo tre volte da stamattina.»
+
+«Che scherzo?»
+
+«Lo chiami. Lui scende. Tu sei già dall'altra parte.» La Seeq fece un gesto col vassoio, ad indicare la curva della scala, dove una seconda rampa più stretta saliva dietro una colonna. «Lì. Quella è la scala dei camerieri. Lui da là non la vede, quando scende.»
+
+«Perché me lo dici?»
+
+La serva Seeq ci pensò, con il vassoio in mano. Poi alzò le spalle, che erano molte.
+
+«Mi ha pestato un piede stamattina. Con lo stivale. E non ha chiesto scusa.» Si avviò verso le cantine con i suoi bicchieri. «Mi chiamo Ludda. Se ti prendono, non mi conosci.»
+
+Vaan aspettò che il soldato fosse di nuovo girato verso la cima. Poi si mise in fondo alla scala, si portò le mani alla bocca, e lo chiamò, forte, con il nome con cui la Città Bassa chiamava tutti i soldati archadiani, che non era un nome gentile.
+
+Il soldato si girò. Si irrigidì. Scese.
+
+Scese i gradini due alla volta, con la lancia in mano e l'elmo che rimbombava di parole archadiane, verso il punto dove un attimo prima c'era un ragazzo della Città Bassa e adesso c'era una montagna di limoni. Quando ci arrivò, il ragazzo era già sulla scala dei camerieri, dietro la colonna, e la stava salendo a quattro gradini alla volta. Il soldato guardò i limoni. Ne prese a calci uno. Poi si accorse che la cima della scala era rimasta senza guardia, e risalì di corsa, e quando ci arrivò non vide nessuno.
+
+---
+
+Il piano delle sale era un altro mondo, e Vaan ci camminò dentro come in un sogno di qualcun altro. I pavimenti erano di marmo bianco e verde, a scacchi, lucidi come acqua; le pareti erano coperte di arazzi che raccontavano battaglie, cacce, matrimoni, re con la barba che porgevano spade ad altri re con la barba; il soffitto era così alto che le lampade appese sembravano stelle. Dalla sala grande, a destra, arrivava il rumore della cena: musica, voci, il tintinnio di centinaia di posate e di bicchieri, e ogni tanto una risata che si alzava sopra le altre e ricadeva. Qualcuno, là dentro, stava facendo un brindisi. Vaan sentì il nome del console, e un applauso. Poi andò a sinistra.
+
+C'erano guardie anche lì. Meno che in piazza, più che nelle cantine, e tutte rivolte verso la sala grande, verso le scale, verso le porte che davano sul cortile, come se si aspettassero qualcosa da fuori e non da dentro. Vaan usò il trucco di Ludda due volte, e la seconda volta gli venne così bene che si vergognò un poco per il soldato. Contò gli incroci. Contò gli arazzi. E al settimo arazzo, in fondo a un corridoio lungo e vuoto, illuminato a metà, si fermò.
+
+Il leone era sul pavimento.
+
+Era grande quanto la stanza di Dalan, come aveva detto il vecchio, e consumato da secoli di piedi, così che le linee del muso e della criniera si vedevano solo a guardarle di traverso, contro la luce delle lampade. Era un leone in piedi sulle zampe posteriori, con una zampa alzata, e la zampa alzata reggeva un cerchio vuoto. Gli archadiani ci camminavano sopra tutti i giorni, aveva detto Dalan. Vaan ci salì sopra in punta di piedi, come se il leone potesse svegliarsi.
+
+Il leone vuole la luna. Tirò fuori la pietra.
+
+Nel momento in cui la Luna Crescente uscì dalla sua tasca, il pavimento si accese. Fu una linea di luce azzurra, sottile, che partì dal punto dove lui stava in piedi e corse lungo le incisioni consumate, una dopo l'altra, disegnando il leone come lo aveva disegnato lo scultore il primo giorno: la criniera, il muso, la coda, le zampe, e infine il cerchio vuoto nella zampa alzata, che si riempì di luce come un piatto si riempie d'acqua. Poi la luce lasciò il leone. Corse sul pavimento del corridoio, oltre i suoi piedi, in un filo dritto e veloce, e arrivò in fondo, dove il corridoio finiva contro una parete di pietra nuda senza arazzi né porte, e risalì la parete, e si fermò a metà.
+
+Lì, dove si era fermata, la parete aveva una forma. Una mezzaluna, incisa nella pietra, che prima non c'era.
+
+Vaan rimase immobile sul leone con la pietra alzata in mano. Dalla sala grande, lontana, arrivò un altro applauso. Lui non lo sentì nemmeno. Dalan aveva detto la verità. Dalan diceva sempre la verità, solo che ne diceva metà, e adesso Vaan aveva davanti la metà che il vecchio non gli aveva detto: una porta nel muro del palazzo dei re, che si apriva per lui.
+
+Andò alla parete. Mise la Luna Crescente nella mezzaluna di pietra, e la pietra ci entrò come una chiave nella sua serratura.
+
+La parete si aprì senza rumore, verso l'interno, su un buio fresco che odorava di polvere e di qualcosa di più antico della polvere. Vaan entrò. Dietro di lui, il leone sul pavimento si spense, linea per linea, e tornò a essere un vecchio disegno consumato su cui gli archadiani avrebbero camminato senza vederlo.
