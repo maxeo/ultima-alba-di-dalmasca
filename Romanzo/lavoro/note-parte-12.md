@@ -15,3 +15,10 @@
 - Balthier lascia il suo mantello corto a Nono addormentato: il mantello resta a Balfonheim (possibile ritorno nell'Epilogo).
 - Nebbia del Jagd verdina, vetri che si accendono; Fran soffre il Mystes ("come stare in un fiume con la bocca aperta").
 - Reddas-Ashe: "dovreste portarlo da sola", secondo la fonte.
+
+## Cap. 93
+- Circa 2.850 parole. Iscrizione letta da Fran; firma di Raithwall. Ashe ripensa a Rasler (Tomba, Foresta, Giruvegan) e al fatto che solo Vaan forse l'ha visto.
+- Illusione: deserto senza ombre che Vaan scambia per l'Estersand; Fran guida "a occhi chiusi". Pandemonium e Hashmal in poche righe, senza nomi. Slyt e Fenrir (sez. IX, XI) ridotti a una frase di passaggio, come tagli.
+- Altari: scelta della "conoscenza della strada" voluta da Reddas; la strada torna ad Ashe dopo il terzo guardiano.
+- Penelo dice a Reddas dei due fratelli maggiori (fix `file02:136`): "uno a Nalbina e uno non si sa". Controllare coerenza con i blocchi precedenti.
+- Basch e Reddas combattono "come usciti dalla stessa scuola": traccia per il cap. 96.
