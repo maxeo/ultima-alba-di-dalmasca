@@ -17,3 +17,6 @@
 | Lenti di Cid col vetro incrinato, nella tasca interna di Balthier accanto all'anello | 98 | 110 (Balthier su Bahamut), 112 (anello restituito: le lenti restano) | aperto |
 | Fazzoletto della madre di Balthier lasciato sulla Sommità | 98 | 99 (Penelo lo raccoglie) | aperto |
 | Anello di Ashe nella tasca interna di Balthier | 52 (blocco-c), 98 | 112 | aperto |
+| Basch non trova il corpo di Gabranth; segno di trascinamento; lo dirà "a uno solo" | 99 | 105 (Gabranth vivo su Bahamut) | aperto |
+| Penelo ha il fazzoletto della madre di Balthier | 99 | 112 (lo rende, o lo tiene) | aperto |
+| Ashe senza Spada dei Re né Spada del Patto, "mani vuote e aperte" | 99 | 102-106 (combatte con un'arma comune) | aperto |
