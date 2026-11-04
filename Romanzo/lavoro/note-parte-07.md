@@ -14,3 +14,9 @@
 - Jote: ricordo di Fran giovane sul ramo che "ascoltava le storie del Bosco"; "le tue orecchie si sono abituate alle voci degli Huma"; "libertà" detta "morte".
 - Parola Verde: occidente, gallerie, "ferro freddo". Fran ripete le parole di cinquant'anni prima; Jote: "non hai trovato parole nuove".
 - Chiude su Fran che dice "Bugiardo" a Balthier.
+
+## Cap. 60
+- Gag "Quanti anni hai?" con le reazioni di tutti, Penelo: "Cresci un po'". Fran non risponde, ma la sera gli passa la parte più grande.
+- Larsa riconosce Henne in Bancour. Riga sulla magilite come base dell'Impero affidata al precettore di Larsa (materiale salvato da `20 VII`).
+- Soldati feriti: è Ashe a dare l'unguento al soldato lentigginoso di leva. Il soldato parla di "signori con le vesti lunghe" e non sa chi li ha attaccati. Indica il passaggio dei chocobo (la compagnia ha già il suo chocobo: niente prestito).
+- Sei corpi all'ingresso, quattro ricercatori di Draklor senza ferite. Balthier: "Ricerca", e non legge il quaderno.
