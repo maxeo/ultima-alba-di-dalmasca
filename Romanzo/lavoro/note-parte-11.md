@@ -31,3 +31,11 @@
 - Venat e la Negalite "fatta come il pane": l'unico momento in cui Gerun lascia intravedere qualcosa, un disgusto.
 - **Rasler non ha mai detto una parola**: Ashe se ne accorge qui. Il Rasler vero "non sarebbe stato zitto per mezza Ivalice". Prima crepa esplicita dell'illusione, senza dire che è un'illusione (`file32 IV`).
 - Mano di Ashe e mano di Rasler sull'elsa, "una mano sola"; arriva la voce di Vaan "che sapeva di pesche rubate" (cap. 1).
+
+## Cap. 89
+- I compagni sentono la voce degli Occuria e non li vedono (`file30 V`). Vaan: "E a loro chi gliel'ha chiesto?"; l'esattore archadiano che "non diceva mai chi aveva fatto la legge".
+- Fran: "Lo farai, per vendetta?", la sua domanda più lunga. Basch: Raminas non ordinava mai senza dire perché; "vi chiedono di essere un'arma, non una regina"; "un'altra Nabudis, con la firma di qualcun altro".
+- Ashe ricorda la richiesta di Rasler a Basch (cap. 75) e la confronta con il Rasler che le chiede di prendere la spada: seconda crepa dell'illusione.
+- **Balthier capisce**: Cid non è mai venuto; voleva Ashe scelta e armata. "Tu sei l'esperimento"; "è la prima volta che gli dèi e mio padre sono d'accordo". Poi, da solo con Ashe: Cid non era pazzo, quindi ha scelto tutto da sano, "è peggio".
+- Ashe prende la Spada del Patto ma non promette niente: deciderà davanti alla Crisalide. La avvolge nel mantello accanto alla Spada dei Re, coerente con l'inizio del cap. 91; la spada "più leggera di quanto avrebbe dovuto".
+- Fran: "Non se ne vanno mai. Smettono di farsi sentire".
