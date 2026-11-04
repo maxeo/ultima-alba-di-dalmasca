@@ -36,3 +36,9 @@
 - Seminata la cena di `file05:140`, come chiede il fix: è la cena dell'agnello avanzato dal console, per la sera dopo.
 - Fratelli di Penelo: Kel e Doran. Nomi inventati, da confermare per il cap. 26.
 - Il narratore entra una volta in prima persona ("il narratore di questa storia deve dire") per la stanza piccola: controllare che non sia troppo.
+
+## Cap. 13
+- Circa 4.000 parole: tiene sei fonti (`03 VIII-XII`, `04 I-II`). Canali compressi in un paragrafo.
+- Il servitore che spiega le guardie è una serva Seeq, come chiede il fix (`file04:58-62`): l'ho chiamata Ludda.
+- La donna in rosso non mostra il volto; tiene la sinistra chiusa a pugno. È un indizio per il lettore attento (anello largo), senza nominare l'anello.
+- Dalan sa della Resistenza e manda Vaan per la stessa strada: resta implicito, per il cap. 25.
