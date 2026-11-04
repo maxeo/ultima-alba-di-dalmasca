@@ -1,19 +1,21 @@
 # Scaletta del romanzo
 
-Prima versione, da approvare. Ogni capitolo indica le sezioni di origine (`01 I` = `file01` sez. I). Correzioni di trama: `Original/fix-e-mancanze.md`. Idee nuove: `idee-inedite.md`.
+Versione approvata. Ogni capitolo indica le sezioni di origine (`01 I` = `file01` sez. I). Correzioni di trama: `Original/fix-e-mancanze.md`. Idee nuove: `idee-inedite.md`.
 
 **Stima**: 113 capitoli, circa 300.000-350.000 parole, sotto il tetto di circa 520.000. I capitoli hanno lunghezza variabile.
 
 **Origine dell'inventario**: `file01`-`file35` da letture integrali e classificazione per sezione; `file36`-`file38` da lettura diretta. La divisione in capitoli è una proposta e può cambiare in stesura.
 
-## Decisioni aperte
+## Decisioni di regia
 
-1. **Nome del Midlight Shard**: Mezzaluce è provvisorio.
-2. **Narratore studioso** (`idee-inedite.md`, voce 2): sì o no.
-3. **Memorie di Ondore come aperture** (voce 1): sì o no.
-4. **Gilgamesh ricorrente** (voce 6): sì, ridotto o tagliato.
-5. **Montblanc e il maestro** (`35 XII`): tagliato qui, salvo diversa scelta. Tema della vendetta già coperto. Alternativa: una scena che lo rende specchio di Ashe.
-6. **Nabudis nella Parte IX** (cap. 75): nel gioco è facoltativa e Reddas la lega a Zecht solo dopo. Qui non cita Zecht apertamente.
+Prese dal regista su delega. Dettagli in `regia.md`.
+
+1. **Midlight Shard**: Frammento di Mezzaluce.
+2. **Narratore studioso**: sì, a basso dosaggio; si svela nell'Appendice.
+3. **Memorie di Ondore**: sì, circa in metà delle Parti.
+4. **Gilgamesh**: ridotto a due incontri e un cenno finale. Collocazione da fissare prima della Parte IV.
+5. **Montblanc e il maestro**: sottotrama tagliata; Montblanc resta capo del Clan.
+6. **Nabudis nella Parte IX** (cap. 75): resta, senza menzione aperta di Zecht.
 
 ---
 

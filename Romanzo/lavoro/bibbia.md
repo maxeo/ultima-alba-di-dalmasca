@@ -8,7 +8,7 @@ Riferimento stabile per la stesura. Fatti, errori e dubbi sulla trama: vedi `Ori
 - Non rivela i colpi di scena prima del momento giusto.
 - Sa essere serio: nelle morti e nei lutti l'ironia si ritira del tutto.
 - Dice le cose con scene e fatti. Niente riepiloghi di fine capitolo e niente morali esplicite.
-- Provvisorio: lo studioso del monastero come narratore (`idee-inedite.md`, voce 2).
+- Il narratore è lo studioso del monastero (`idee-inedite.md`, voce 2): solo accenni alle fonti, si svela nell'Appendice.
 
 ## Regole di stile
 
@@ -102,7 +102,7 @@ Kytes, Migelo, Dalan, Tomaj, Montblanc, Masyua, Brunoa, Jinn, Burrogh, Havharo, 
 | Negalite, Negalite divina | magilite in `file28:1058`, `file38:134` | Pietra che assorbe il Mystes |
 | Frammento d'Aurora | dell'Aurora, Alba | |
 | Frammento del Crepuscolo | | |
-| Frammento di Mezzaluce (provvisorio) | Mezzanotte, della Mezzaluce, Mezzogiorno | Midlight Shard. Ufficiale italiano da verificare |
+| Frammento di Mezzaluce | Mezzanotte, della Mezzaluce, Mezzogiorno | Midlight Shard. Ufficiale italiano da verificare |
 | Mystes | | |
 | Crisalide Solare | | Sun-Cryst |
 | Spada dei Re, Spada del Patto | | |
