@@ -15,3 +15,8 @@
 - Rasler non appare: Ashe lo aspetta e non viene. Il pugno si chiude su un anello che non c'è più (l'ha Balthier dal cap. 52).
 - Inventata la richiesta di Rasler a Basch prima di Nalbina: "tenervi lontana dal campo". Controllare con i cap. 2-3.
 - Balthier resta al ponte con Fran e non entra: sospetto su Draklor, senza spiegazione fino al cap. 77.
+
+## Cap. 76
+- Breve e comico come da scaletta. I nove apprendisti diventano nove piccole scene, ciascuna risolta da un personaggio diverso: Vaan sale, Penelo aspetta il pane, Fran guarda, Basch consola, Balthier vince a dadi.
+- Il nono apprendista e Ashe sul ramo davanti al mare: unico momento serio, che prepara il cap. 77.
+- Tre aeronavi imperiali sulla costa: motivano di nuovo la scelta di andare a piedi.
