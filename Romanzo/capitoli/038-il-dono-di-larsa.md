@@ -122,7 +122,7 @@ Larsa lo guardò, e per un istante la sua faccia, che non si muoveva mai, si mos
 
 Fran, accanto a lui, non disse niente. Lo guardò di sbieco, a lungo, e lui accolse lo sguardo senza girarsi.
 
-Vaan, che non si era accorto di niente perché in quel momento Penelo gli stava stringendo il braccio, si girò verso Larsa e sorrise, il suo sorriso largo e sfrontato di sempre.
+Vaan, che non si era accorto di niente perché Penelo gli stava stringendo il braccio, si girò verso Larsa e sorrise, il suo sorriso largo e sfrontato di sempre.
 
 «Grazie, Lamont.»
 
