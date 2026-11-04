@@ -144,7 +144,7 @@ Balthier, che si stava versando dell'acqua, alzò un sopracciglio.
 
 «Mi conosci da poco.»
 
-Fran, dal suo angolo, disse una sola parola, «Balthier», con un tono che nessuno degli altri riuscì a interpretare e che lui evidentemente interpretò benissimo, perché posò il bicchiere e smise di sorridere. Ma fu un attimo. Poi si chinò verso Vaan, con i gomiti sulle ginocchia, e lo guardò dal basso, come si guarda un ragazzo per fargli una domanda seria e lasciargli il tempo di sentirsene lusingato.
+Fran, dal suo angolo, disse una sola parola, «Balthier», con un tono che nessuno degli altri riuscì a interpretare e che lui evidentemente interpretò benissimo, perché posò il bicchiere e smise di sorridere. Ma fu un attimo. Poi si chinò verso Vaan, con i gomiti sulle ginocchia, e lo guardò dal basso, per fargli una domanda seria e lasciargli il tempo di sentirsene lusingato.
 
 «E tu?» chiese.
 
