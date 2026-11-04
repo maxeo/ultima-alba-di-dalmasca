@@ -16,7 +16,7 @@ Prima di cena era passato il marchese. Non era entrato. Si era fermato sulla sog
 
 «Anch'io l'ho visto alle nozze.» Il marchese aveva fatto una pausa. «Da più lontano di voi, credo. Le spalle di un fratello sono un buon posto da cui guardare un re.» Poi aveva augurato la buona sera, con la formula della sua città, e se n'era andato con il suo passo lento, e Penelo era rimasta a chiedersi per un pezzo perché un marchese avesse voluto sapere una cosa del genere da lei, e se la sua risposta fosse stata quella giusta.
 
-Stava guardando quella quando bussarono.
+Larsa non si fece vedere quella sera, né la mattina dopo. Tahla disse che era chiuso con il marchese e con i registri, e lo disse nel tono con cui si parla di una malattia. Penelo dormì in un letto così morbido che si svegliò tre volte credendo di cadere, fece colazione da sola, contò di nuovo i cucchiai, e il pomeriggio era seduta alla stessa finestra, a guardare la nave più grande, quando bussarono.
 
 «Avanti» disse, e si accorse di averlo detto con il tono di Migelo quando i clienti bussavano a bottega chiusa.
 
@@ -157,7 +157,7 @@ Larsa non disse niente. Ascoltava.
 
 «Il mese stesso delle nozze si sono arruolati tutti e due. Insieme. Il giorno stesso. Io avevo quindici anni e ho detto che erano scemi e loro hanno riso.» Penelo si accorse di avere usato le stesse parole che Vaan usava parlando di Reks, e non seppe se fosse un caso. «Sono andati a Nalbina. Con il re. Con il principe Rasler, quello che aveva sposato la principessa. Sono partiti con la banda e i fiori e io ero sul muro della Porta Est a salutare e mi ero messa il vestito buono. Non sono tornati. Nessuno dei due. Non ci hanno riportato niente, neanche un pezzo di uniforme. Ci hanno mandato una lettera con il sigillo del re e una moneta d'oro per ciascuno.» Fece una pausa. «La moneta l'ho ancora. Non l'ho mai spesa.»
 
-Fuori, sulla terrazza, qualcuno stava accendendo le lanterne. Una dopo l'altra, piano, e la luce arancione saliva sui vetri della saletta.
+Fuori, sulla terrazza, il sole del pomeriggio si era spostato, e la luce saliva obliqua sui vetri della saletta e ci accendeva la polvere.
 
 «Io lo so che non è stato lui» disse Penelo. «Tuo fratello, dico. Non era lui che tirava le frecce, e forse non era neanche lì. Lo so. Ma quando parla in piazza e dice che ci rispetta, io penso ai miei fratelli sul muro della Porta Est con i fiori in mano, e penso che lui ha preso il palazzo dove abitava il re per cui sono morti, e ci dorme. E quando dice *pace*...» Si fermò di nuovo. «Lo dice benissimo. È quello che mi fa paura. Che lo dice benissimo.»
 
@@ -205,7 +205,7 @@ Penelo ci pensò. «Sì. Forse.»
 
 Bussarono di nuovo. Questa volta era un uomo anziano con la livrea della casa, il maggiordomo o qualcosa del genere, con un viso lungo e un'espressione di sofferenza composta che doveva essergli costata anni di esercizio. Si inchinò a Larsa, poi, dopo una minuscola esitazione, anche a Penelo, il che la fece arrossire fino alle orecchie.
 
-«Altezza. Il giudice Ghis manda a dire che la flotta salperà questa notte, alla seconda campana. Il vostro seguito è atteso a bordo del Leviatano.» Una pausa. «Il marchese vi prega anche di sapere che la città, oggi, è in una certa agitazione.»
+«Altezza. Il giudice Ghis manda a dire che la flotta salperà questa notte. Il vostro seguito è atteso a bordo del Leviatano prima del tramonto.» Una pausa. «Il marchese vi prega anche di sapere che la città, oggi, è in una certa agitazione.»
 
 «Agitazione?» Larsa si voltò. «Di che genere?»
 

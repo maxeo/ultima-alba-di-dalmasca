@@ -39,4 +39,4 @@
 - Larsa: "Il maggiore tra i vivi" (semina dei fratelli uccisi, `fix` sez. 4), Vayne che legge le battaglie navali "facendo la voce dei pesci", la regola della casa Solidor, l'inginocchiarsi. Non ha mai visto la città vecchia di Archades: annota "città vecchia".
 - Accenno alle fonti: le lettere di Penelo, scritte "anni dopo". Lega al cap. 111. Prossimo accenno non prima del cap. 36-37.
 - Ondore chiede a Penelo di Raminas: tono di memorialista cauto.
-- Chiusura comica: il maggiordomo riferisce di Vaan che grida in sei piazze. Il Leviatano parte "alla seconda campana": Larsa e Penelo saliranno a bordo.
+- Chiusura comica: il maggiordomo riferisce di Vaan che grida in sei piazze. Il Leviatano salpa nella notte; Larsa e Penelo salgono a bordo prima del tramonto del secondo giorno, prima dell'udienza di Basch.
