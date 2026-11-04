@@ -52,3 +52,7 @@
 ## Cap. 15
 - Circa 2.100 parole, capitolo di passaggio. Il guasto è attribuito alla pietra da Fran ("Beve"), come chiede il fix `file04:600-606`: è una sua intuizione, non una spiegazione.
 - La barca volante resta senza nome tecnico.
+
+## Cap. 16
+- Circa 2.700 parole. Niente Gambit: la sola cosa "tecnica" è Fran che tira con l'arco. La riflessione sulla trappola la fa Balthier davanti ai morti, in dialogo.
+- Il morto riconoscibile è il soldato del rapporto a Vossler del cap. 13.

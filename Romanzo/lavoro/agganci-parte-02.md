@@ -55,3 +55,9 @@
 | Balthier, voce più vecchia di lui: "Non guardare. Non serve a niente. Lo dico per esperienza" | 15 | 77, 83 (Draklor, padre) | aperto |
 | La pietra "beve" il motore della barca volante: lo nota Fran | 15 | 16, 30 (Negalite artificiale) | aperto |
 | Primo grido di paura di Vaan, "non di rabbia" | 15 | facoltativo | aperto |
+| Vaan si presenta a Balthier come "lo sterminatore di topi"; "nome da secondo atto" | 16 | 17, 22 (Balthier lo chiama "sterminatore" con misura) | aperto |
+| Balthier: "Sono un uomo nuovo. L'acqua mi ha purificato" / la pietra resta a Vaan | 16 | 17-18 | aperto |
+| Città nominate da Balthier: Bhujerba senza fogne, Balfonheim con le fogne più pulite del porto | 16 | 28, 84 | aperto |
+| Il messaggero di Vossler morto nella camera rotonda, col mantello azzurro: "abbiamo visto solo topi" | 16 | 17 (Amalia chiede dei suoi), 25 (Vossler) | aperto |
+| Balthier: "Ci sono cose che non servono a niente e si fanno lo stesso. Ma bisogna essere vivi" | 16 | 104, 110 | aperto |
+| Fran spezza un dardo di balestra e lo lascia cadere nell'acqua dei morti | 16 | facoltativo | aperto |
