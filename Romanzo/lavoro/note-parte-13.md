@@ -43,3 +43,10 @@
 - Gabranth torna senza spade, raccoglie quella di Larsa e la pianta nel petto di Vayne. L'elmo si spacca per un colpo, non per scelta: la regola dell'elmo regge. Volto di Basch con la bocca stretta. "Non sono il tuo cane. Mai più" (eco del cap. 97).
 - Pietra di Larsa decisiva (filo approvato): beve le spade, diventa nera e si incrina. "Scusa. Credo di averla rotta" a Penelo. Torna al cap. 111.
 - Vaan colpisce Vayne con la spada di Reddas; chiude con la frase di Elza del cap. 100.
+
+## Cap. 107
+- Circa 2.700 parole. Vayne e Venat sulla cima della torre: "abbiamo vinto lo stesso", fine dell'era delle pietre; fusione. L'Immortale fatto di pezzi di Bahamut che Balthier riconosce dai disegni. Fran: "Uno che non vuole morire".
+- Battaglia ridotta; accenno alle fonti (molti racconti falsi visti dalle navi; Vaan da vecchio: il freddo, la scarpa persa).
+- Ognuno combatte per ciò che ha scelto: Ashe per la cuoca e i petali, Basch per Ashe e per Noah, Vaan per la Città Bassa e Reks, Penelo per i fratelli, Fran per la sua scelta, Balthier sui punti deboli dei disegni del padre.
+- Ashe dà il colpo finale con un pezzo di trave, guardando Vayne negli occhi. Chiusura sugli anelli che girano più piano.
+- Larsa resta nella sala con Gabranth: lo si ritrova al cap. 108.
