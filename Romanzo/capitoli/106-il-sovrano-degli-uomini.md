@@ -56,7 +56,7 @@ Fu lungo. Vayne non sembrava stancarsi. Si muoveva fra loro come un ballerino fr
 
 Rimase lì. Ansimava. La camicia bianca gli si stava macchiando di rosso.
 
-Larsa gli corse incontro. Non ci pensò: lasciò cadere la spada da cerimonia e corse, perché era suo fratello e perdeva sangue, ed era tutto quello che Larsa sapeva in quel momento. Si chinò su di lui con le mani tese.
+Larsa gli corse incontro. Non ci pensò: lasciò cadere la spada da cerimonia e corse, perché era suo fratello e perdeva sangue, ed era tutto quello che Larsa sapeva, lì, in mezzo alla sala. Si chinò su di lui con le mani tese.
 
 Qualcosa lo respinse.
 
