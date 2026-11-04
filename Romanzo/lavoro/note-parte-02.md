@@ -42,3 +42,9 @@
 - Il servitore che spiega le guardie è una serva Seeq, come chiede il fix (`file04:58-62`): l'ho chiamata Ludda.
 - La donna in rosso non mostra il volto; tiene la sinistra chiusa a pugno. È un indizio per il lettore attento (anello largo), senza nominare l'anello.
 - Dalan sa della Resistenza e manda Vaan per la stessa strada: resta implicito, per il cap. 25.
+
+## Cap. 14
+- Circa 3.500 parole, sotto la soglia "Espanso". La scena regge così; la fuga sulla terrazza è al cap. 15.
+- La pietra resta "magilite" per Vaan; non la chiamo ancora Frammento del Crepuscolo. Balthier la riconosce senza nominarla.
+- Nasce la gag del protagonista. Fran la smonta con due battute. Il nome di Balthier non viene detto: arriva al cap. 16, come nella fonte.
+- Inventate le tacche "A." sullo stipite: è il passaggio che Raminas usava con la figlia. Non va spiegato prima della rivelazione di Ashe.

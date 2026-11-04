@@ -43,3 +43,9 @@
 | Pezzo di mantello azzurro sbiadito su un soldato della Resistenza | 13 | 16 (morti della Resistenza) | aperto |
 | Ludda, serva Seeq del palazzo, pestata da uno stivale archadiano: "se ti prendono, non mi conosci" | 13 | facoltativo, 25 o 101 | aperto |
 | Leone sul pavimento con il cerchio vuoto nella zampa: "il leone vuole la luna" | 13 | 14 | aperto |
+| Tacche sullo stipite del passaggio segreto: "A. 4" fino a "A. 14", altezze di una bambina; pantofole ricamate nelle nicchie | 14 | 36 o 40 (Ashe rivelata ricorda il passaggio del padre); facoltativo 103 | aperto |
+| Altezze dei ragazzi sul muro del cortile di Migelo; quella di Reks finisce a quindici anni | 14 | 26 | aperto |
+| "Il protagonista": nasce qui; Fran lo smonta ("Al protagonista è appena sfuggito un ragazzo"; "Si fa l'idea giusta") | 14 | ricorre con misura; 110, Appendice | aperto |
+| Balthier: "Leggo. È un vizio. Me l'hanno attaccato da bambino" e il riconoscimento di Raithwall | 14 | 21, 30, 77 (protocolli imperiali, Draklor) | aperto |
+| Balthier: la pietra "non si vende, si cerca; e chi la cerca non paga" | 14 | 15-17 (pietra che brilla per Amalia), 36 (Frammento del Crepuscolo) | aperto |
+| Profumo di Balthier "di un posto lontano" (Archades) | 14 | facoltativo, 80 | aperto |
