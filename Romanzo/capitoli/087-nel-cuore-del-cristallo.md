@@ -38,7 +38,7 @@ Si fermò.
 
 «Potrebbe distruggere Ivalice» disse Fran.
 
-Lo disse con la sua voce di sempre, senza enfasi, come si dice che sta per piovere. Ashe non si voltò.
+Lo disse con la sua voce di sempre, senza enfasi. Ashe non si voltò.
 
 «Se lo volesse» aggiunse Fran.
 
@@ -78,7 +78,7 @@ Fu abbastanza. Vaan si riscosse, e Basch, e gli altri, e quello che seguì fu br
 
 Fu Vaan, alla fine. Le arrivò sotto, dove la maschera senza occhi non guardava, e la colpì con tutte e due le mani.
 
-La donna si piegò. I veli si spensero, uno dopo l'altro. Il sussurro si allontanò, come una folla che esce da una piazza, e l'ultima cosa che dissero le pareti, a tutti insieme, nella sala ormai vuota, fu una parola che nessuno capì e che Fran, più tardi, tradusse come *colei che sussurra*, e disse che nel Bosco quel nome lo si dava a una sola cosa, e non la volle nominare. Poi la luce tornò nelle pareti, e la donna non c'era più.
+La donna si piegò. I veli si spensero, uno dopo l'altro. Il sussurro si allontanò, e l'ultima cosa che dissero le pareti, a tutti insieme, nella sala ormai vuota, fu una parola che nessuno capì e che Fran, più tardi, tradusse come *colei che sussurra*, e disse che nel Bosco quel nome lo si dava a una sola cosa, e non la volle nominare. Poi la luce tornò nelle pareti, e la donna non c'era più.
 
 ---
 
@@ -98,7 +98,7 @@ Basch non rispose subito. Poi scosse la testa, una volta.
 
 «Niente che non sapessi già» disse.
 
-Ashe non insistette. Si voltò verso la grande pietra nera dall'altra parte della lastra, quella con il segno che brillava. Era l'unica uscita. La luce del segno pulsava piano, come un respiro, e da quando la donna era scomparsa pulsava più forte.
+Ashe non insistette. Si voltò verso la grande pietra nera dall'altra parte della lastra, quella con il segno che brillava. Era l'unica uscita. La luce del segno pulsava piano, e da quando la donna era scomparsa pulsava più forte.
 
 Ashe si alzò. Gli altri si alzarono con lei, uno alla volta, senza fretta.
 
