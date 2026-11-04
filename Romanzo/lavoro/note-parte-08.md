@@ -14,3 +14,9 @@
 - "Necessità" come paravento; "la casa Solidor ha una spada... chi l'ha temprata?"; "È vendetta?" con i fratelli giustiziati.
 - Mani (fix 2): Gramis dice "le sue, quelle pulite, di chi verrà dopo" senza nome; il narratore lascia aperto se intenda se stesso o Larsa. Unico accenno alle fonti della zona ("le cronache di palazzo... si dividono").
 - Chiusa: Gramis beve il decotto freddo. Nessuna indicazione su chi lo avveleni: il cap. 68 tiene la versione ufficiale e il dubbio di Drace.
+
+## Cap. 66
+- Isole sospese: tre spiegazioni di tre pellegrini; il sacerdote giovane dice che "si bevono la forza delle pietre del cielo" e fanno cadere le aeronavi (fix 4, `file23:52`). Rottami sotto le nuvole.
+- Tende dei profughi in ogni cortile; torna la donna con la tenda dei Fratelli Haddur. Ashe conta le persone: "troppi, e sono quelli che sono arrivati".
+- Anastasis: "dorme?" di Vaan; "il sogno è uno specchio"; "di solito mi chiedono se sono morto". Riconosce Ashe e descrive il suo sogno (città bianca, porta azzurra, balcone).
+- Al-Cid entra dall'ombra; chiusa su Balthier: "uno come me, ma con più soldi". La notizia di Gramis è nel cap. 67.
