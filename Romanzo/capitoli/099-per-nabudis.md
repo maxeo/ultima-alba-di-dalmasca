@@ -72,7 +72,7 @@ Reddas non le lasciò il tempo. Si voltò.
 
 Per un istante restò fermo, di spalle, a guardare la Crisalide. Il vento di luce gli gonfiava la camicia e gli scompigliava i capelli, e la Spada dei Re, nelle sue mani, aveva cominciato a brillare di una luce bianca e fredda, diversa da quella della pietra, che non si mescolava con essa.
 
-Chi lo guardava in quel momento, Vaan lo guardava, vide una cosa che non seppe spiegare finché non fu molto più vecchio. Reddas si raddrizzò. Non di molto: di un palmo, forse. Raddrizzò le spalle, alzò il mento, mise i piedi in un modo diverso sulla pietra, uno avanti e uno indietro, come si mettono i piedi sulle lastre di un'aula di tribunale. E per quell'istante non fu più l'uomo che Vaan aveva conosciuto. Fu un altro, più rigido, più vecchio, più solo, con un'armatura nera che non portava più e un elmo che non aveva in testa. Fu il Giudice Magister Zecht, per l'ultima volta, in piedi davanti all'imputato.
+Chi lo guardava allora, e Vaan lo guardava, vide una cosa che non seppe spiegare finché non fu molto più vecchio. Reddas si raddrizzò. Non di molto: di un palmo, forse. Raddrizzò le spalle, alzò il mento, mise i piedi in un modo diverso sulla pietra, uno avanti e uno indietro, come si mettono i piedi sulle lastre di un'aula di tribunale. E per quell'istante non fu più l'uomo che Vaan aveva conosciuto. Fu un altro, più rigido, più vecchio, più solo, con un'armatura nera che non portava più e un elmo che non aveva in testa. Fu il Giudice Magister Zecht, per l'ultima volta, in piedi davanti all'imputato.
 
 «Nabudis» disse.
 
