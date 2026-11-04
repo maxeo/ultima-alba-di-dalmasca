@@ -182,7 +182,7 @@ Vaan la seguì con gli occhi finché fu un punto, e poi anche dopo.
 
 «Lo so, Vaan.»
 
-«Non devo chiedere il permesso a nessuno. Né a Migelo, né agli imperiali, né alle guardie della Porta Est. Prendo e vado. Su, sopra le nuvole. Giù a Bhujerba, su a Archades se mi va, e se non mi va non ci vado. Nessuno sa dove sono. Nessuno mi cerca.» Si accorse di aver detto l'ultima frase e se ne pentì subito, perché non era quella che voleva dire. «Un pirata dei cieli. Ecco cosa faccio.»
+«Non devo chiedere il permesso a nessuno. Né a Migelo, né agli imperiali, né alle guardie della Porta Est. Prendo e vado. Su, sopra le nuvole. Giù a Bhujerba, su ad Archades se mi va, e se non mi va non ci vado. Nessuno sa dove sono. Nessuno mi cerca.» Si accorse di aver detto l'ultima frase e se ne pentì subito, perché non era quella che voleva dire. «Un pirata dei cieli. Ecco cosa faccio.»
 
 Penelo aveva sentito quel discorso tante volte che avrebbe potuto recitarlo al posto suo, con le pause giuste. Lo lasciò finire. Poi guardò il punto dove l'aeronave era sparita, e per un momento, un momento solo, sembrò che ci pensasse anche lei.
 
