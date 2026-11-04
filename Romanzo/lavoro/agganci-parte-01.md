@@ -28,3 +28,9 @@ Stessa tabella di `agganci.md`. Le voci dei capitoli 1 e 21 sono già in `agganc
 | "Il furiere te la farà pagare. Due gil. Pagali volentieri" | 4 | Facoltativo: Basch lo ricorda a Vaan (cap. 26) | aperto |
 | Orren, cavaliere anziano che si ripara dietro il torrione | 4 | 5 (morto negli appartamenti del re) | aperto |
 | Ordine di Basch: "verso le cisterne, non verso di noi" | 4 | 5 (Reks disobbedisce e sale) | aperto |
+| La mano sinistra dell'uomo con la faccia di Basch: nuda, intatta, senza fasciatura. Reks pensa alle casse di Migelo senza capire | 5 | 23 (Basch racconta il gemello); possibile verifica di Vaan o Basch sulla cicatrice della mano | aperto |
+| Ragazzo archadiano ferito (capelli rossicci, lentiggine) a cui Reks lascia la fiaschetta di Migelo | 5 | Facoltativo: un veterano archadiano a Rabanastre con la fiaschetta (idea 7, gente comune) | aperto |
+| Bastone di olivo di Raminas con il pomo d'argento; l'inchiostro rovesciato sul trattato prima del sangue | 5 | 6 (il trattato "firmato" negli atti ufficiali) | aperto |
+| Raminas muore dicendo un nome che Reks non capisce | 5 | Nessun ritorno obbligato; lasciato aperto | aperto |
+| Il trattato non firmato: "mi mancava ancora una riga" | 5 | 6 (la resa annunciata comunque come firmata) | aperto |
+| Reks spera di aver spiegato a Vaan che "qualcuno deve restare a casa" | 5 | 112 | aperto |

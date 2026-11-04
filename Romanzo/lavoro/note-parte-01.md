@@ -25,3 +25,12 @@
 - Il gesto di Reks: fascia la mano sinistra ferita di Basch con la propria manica. È il dettaglio che non torna nel cap. 5.
 - Il Remora è chiamato "tagliavento": dieci righe, con il colpo di Basch descritto da fuori. La scelta di Reks è restare in piedi accanto al capitano.
 - Inventati Orren, il cavaliere anziano scettico, e il passato di Basch di guarnigione a Nalbina.
+
+## Capitolo 5
+
+- Circa 3.500 parole. Punto di vista stretto su Reks; nessuna ironia del narratore.
+- Reks vede il colpo a Raminas, come chiesto nel lavoro, mentre la fonte lo trova già morto. Raminas si alza in piedi per morire.
+- Dettaglio che non torna: la mano sinistra nuda e intatta del finto Basch, contro la fasciatura del cap. 4. Nessuna spiegazione.
+- Reks disobbedisce all'ordine delle cisterne. Il trattato resta non firmato, con l'inchiostro rovesciato: nel cap. 6 la resa diventa ufficiale lo stesso.
+- Le battute dell'autorità imperiale sono ridotte a due, senza la spiegazione sull'autonomia (`fix-e-mancanze`, `file01:754-762`). Nessun nome per la voce che arresta.
+- Inventati il soldato archadiano giovane e il gesto della fiaschetta: rischiano di ammorbidire troppo. Si possono togliere senza danno.
