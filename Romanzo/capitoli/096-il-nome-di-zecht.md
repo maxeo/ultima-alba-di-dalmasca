@@ -184,7 +184,7 @@ Portò la mano destra alla cintura. Lì, in una piccola borsa di cuoio legata ac
 
 La tenne sul palmo un momento e la guardò. Poi aprì la mano.
 
-La pietra cadde sulla pietra della piazza con un suono piccolo, che dopo il fragore delle spade parve ridicolo. Rimbalzò una volta. Poi rotolò. Rotolò sulla pietra liscia, lentamente, in linea quasi retta, sempre più piano, passò fra i piedi di Basch e quelli di Reddas, e andò a fermarsi contro la punta dello stivale di metallo di Gabranth.
+La pietra cadde sulla pietra della piazza con un suono piccolo, che dopo il fragore delle spade parve ridicolo. Rimbalzò una volta. Poi rotolò. Rotolò sulle lastre, lentamente, in linea quasi retta, sempre più piano, passò fra i piedi di Basch e quelli di Reddas, e andò a fermarsi contro la punta dello stivale di metallo di Gabranth.
 
 Il Giudice la guardò. Non si chinò a raccoglierla.
 

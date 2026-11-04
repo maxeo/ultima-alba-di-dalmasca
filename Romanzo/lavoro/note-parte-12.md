@@ -72,3 +72,18 @@
 - Fix `file32:680, 1366`: Basch cerca Gabranth al pilastro: impronta, trascinamento verso una terrazza, una goccia di sangue. Lo dirà "a uno solo" (a Larsa o ad Ashe, cap. 105 o 109).
 - Penelo raccoglie il fazzoletto della madre di Balthier.
 - Luce vista a Eruyt (Jote, senza nome), Jahara, Balfonheim (Elza sui gradini).
+
+## Cap. 100
+- Circa 2.700 parole. Panno nero sull'occhio delle barche per tre giorni (usanza inventata). Nono riconsegna il mantello: "Tienilo finché non torno a riprenderlo" (ritorno al cap. 112).
+- Elza: Reddas cercava un posto (versione breve dell'invenzione `file32:1430-1508`). Lascia a Vaan la spada di Reddas: "non usarla per cose stupide".
+- Al-Cid galante anche qui (fix `file32:1522`): bacia la mano sul taglio. Volontari rozarriani a Bhujerba, scontro sopra Nabradia, flotta di Ondore costretta a uscire. Bahamut nominato come "nome da favola" visto salire dalle nuvole: niente spiegazione tecnica.
+- Penelo cita il vecchio dei datteri del mercato di Muthru (cap. 1): da riprendere ai cap. 101-103 fra la gente comune.
+- `32 XV-XVI` e tutto il resto di `33`-`35 I-XV` restano fuori, secondo scaletta.
+
+## Rilettura della Parte
+- Ridotti i "per un istante" e le "pietre lisce" ripetuti fra i cap. 93 e 99.
+- Il filo del protagonista ricorre nei cap. 92 (promessa), 94 (lista), 99 (Fran); nessun altro uso nella Parte.
+- Voci uguali dei gemelli seminate nei cap. 94, 95, 97.
+- Accenni alle fonti: uno solo, cap. 96 (sguardo Ashe-Vaan).
+
+FINE PARTE
