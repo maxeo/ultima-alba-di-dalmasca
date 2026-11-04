@@ -43,3 +43,12 @@
 - Addio a Larsa sulla terrazza: Ashe lo ringrazia, "non siete il fratello di vostro fratello", "Restate vivo" (eco involontaria della richiesta di Drace nel cap. 68). Penelo: "Mangia... ci vediamo".
 - Paramina in quattro giorni; rifugio dei pellegrini con la regola della legna lasciata doppia (inventato). Vaan: Raithwall "non si fidava dei figli o delle pietre"; Ashe: "o di se stesso".
 - Miriam: colosso con l'incavo per il frammento; tre statue in poche righe; Vinuskar tagliato ("qualcosa che non voleva essere voltato"); Mateus in un paragrafo. Relj non citato: il cenno era facoltativo e qui non trovava posto.
+
+## Cap. 70
+- Espanso, circa 3.900 parole: sotto i 4.000 di poco. Il regista può chiedere di allargare la scena del bivacco.
+- Camera del campione piccola, spada descritta (metallo color acqua di pozzo, cuoio indurito); Basch corregge la presa, richiamo al maestro di spada del cap. 1.
+- Vaan propone la prova, Balthier lo appoggia; Ashe cede. Il frammento "sanguina" Mystes; Fran: "ha paura".
+- Rasler senza elmo, perché "l'elmo ti sta male" (cap. 2). Scuote la testa; Ashe ricorda il cortile delle nozze e l'anello che parte. Colpo nel pavimento, crepa. Rasler annuisce "come un precettore" (fix 2, `file24:518`): indizio sulla sua natura, con la riflessione di Ashe "in vita, quando era d'accordo, rideva".
+- "Purché uno colpisca il bersaglio" di Balthier; Ashe non ride. Vaan non vede niente, "neanche lui": confida a Penelo che pensava fosse Reks.
+- Bivacco: Balthier "non hai sbagliato mira", tocca la tasca con l'anello, "stasera, per un momento, ho creduto di averlo visto" (ciò che vale di più). Prepara il cap. 77.
+- Chiusa sul rombo delle navi: apre il cap. 71.
