@@ -160,7 +160,7 @@ A ogni attestato Vaan diventava più cupo.
 
 «Qui costa. Ci danno un pino.»
 
-Fu in quel momento, mentre contavano i pini, che dalla parte opposta della piazza arrivò Ba'Gamnan.
+Stavano ancora contando i pini quando, dalla parte opposta della piazza, arrivò Ba'Gamnan.
 
 ---
 
