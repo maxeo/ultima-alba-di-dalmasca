@@ -10,7 +10,7 @@
 
 La notte prima della guerra, a Rabanastre, l'acqua costava il doppio. Non era mancata: le cisterne erano piene, le fontane della via delle Fontane buttavano come sempre dai loro musi di leone consumati, e nessun ufficiale imperiale aveva emanato un'ordinanza. Ma da tre giorni le notizie arrivavano dal nord una peggiore dell'altra, e la gente aveva cominciato a riempire tutto quello che poteva contenere un liquido, le giare, le pentole, gli otri, le scodelle, le bottiglie vuote del vino delle feste, e chi aveva un carretto per portare l'acqua alle case alte se la faceva pagare come vino. Era il modo in cui la Città Bassa prevedeva il futuro. Non leggeva le stelle e non ascoltava i proclami. Guardava il prezzo dell'acqua.
 
-La Strahl si posò un'ora dopo il tramonto nell'Estersand, in una conca dietro le dune a nord della Porta Est, dove una volta, due anni e una vita prima, Vaan aveva cacciato un pomodoro con le gambe. Fran aveva scelto il punto. Da lì le mura della città si vedevano bene, scure contro il cielo ancora verde, senza un lume sui bastioni; e sopra le mura, alte nel cielo di nord, le luci di una dozzina di navi imperiali, ferme, che non si muovevano da due giorni.
+La Strahl si posò un'ora dopo il tramonto nel deserto orientale, in una conca dietro le dune a nord della Porta Est, dove una volta, due anni e una vita prima, Vaan aveva cacciato un pomodoro con le gambe. Fran aveva scelto il punto. Da lì le mura della città si vedevano bene, scure contro il cielo ancora verde, senza un lume sui bastioni; e sopra le mura, alte nel cielo di nord, le luci di una dozzina di navi imperiali, ferme, che non si muovevano da due giorni.
 
 «Aspettano» disse Basch.
 

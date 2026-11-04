@@ -70,7 +70,7 @@ Stava in piedi davanti alla scrivania, dritto, con l'elmo in testa. Era l'unico 
 
 Il Giudice parlò. Dentro l'elmo, la voce era quella che Vaan aveva sentito rimbombare nelle scale di Nalbina: larga, vuota, una voce d'istituzione. Ma a sentirla da vicino, in una stanza chiusa, si capiva che c'era un uomo dentro, e che l'uomo era stanco.
 
-«La Resistenza di Rabanastre è a pezzi. Dopo la notte dei canali non hanno più capi né depositi. Restano gruppi di tre o quattro, che rubano e scrivono sui muri. Non sono un pericolo.» Una pausa. «Ma ricevono denaro. Molto. Più di quanto un gruppo di tre o quattro possa mettere insieme rubando. Il denaro arriva per le carovane del nord, in casse di datteri e di lana. Le casse partono da Bhujerba.»
+«La Resistenza di Rabanastre è a pezzi. Dopo la notte dei canali non hanno più capi né depositi. Restano gruppi di tre o quattro, che rubano e scrivono sui muri. Non sono un pericolo.» Poi: «Ma ricevono denaro. Molto. Più di quanto un gruppo di tre o quattro possa mettere insieme rubando. Il denaro arriva per le carovane del nord, in casse di datteri e di lana. Le casse partono da Bhujerba.»
 
 «Dal marchese.»
 
@@ -168,7 +168,7 @@ Fu Pukko il primo a sentire la voce. Il Giudice la sentì un istante dopo, e si 
 
 Veniva dal fondo del corridoio, dalla scala di servizio che saliva dal cortile, e cresceva gradino per gradino. Era una voce d'uomo, vivace, nervosa, piena di energia, e parlava molto in fretta, e per un istante Pukko pensò che chi la usava avesse un compagno, perché le frasi si interrompevano e riprendevano come in una conversazione. Ma i passi erano di uno solo.
 
-«...no, no, no, te l'ho detto e te lo ripeto, Nabudis ci ha insegnato moltissimo, moltissimo, non lo nego, anzi, ma è una copia, capisci? Una copia, un riflesso, un'eco. Abbiamo imparato a leggere l'eco. Benissimo. Bravi. Applausi. Adesso voglio la voce. Voglio vedere l'originale. Non basta sapere che esiste, voglio toccarlo, voglio pesarlo, voglio...» Una pausa. Un piccolo suono, come di chi ascolta. «Sì. Sì, lo so. Lo so che loro inseguono le ombre. Lasciali inseguire. Si stancheranno. Le ombre non si stancano mai, è il loro vantaggio, ma chi le insegue sì.» Una risata breve. «Non sapranno dove cercare. Non sanno mai dove cercare. È per questo che serviamo noi.»
+«...no, no, no, te l'ho detto e te lo ripeto, Nabudis ci ha insegnato moltissimo, moltissimo, non lo nego, anzi, ma è una copia, capisci? Una copia, un riflesso, un'eco. Abbiamo imparato a leggere l'eco. Benissimo. Bravi. Applausi. Adesso voglio la voce. Voglio vedere l'originale. Non basta sapere che esiste, voglio toccarlo, voglio pesarlo, voglio...» Un piccolo suono, come di chi ascolta. «Sì. Sì, lo so. Lo so che loro inseguono le ombre. Lasciali inseguire. Si stancheranno. Le ombre non si stancano mai, è il loro vantaggio, ma chi le insegue sì.» Una risata breve. «Non sapranno dove cercare. Non sanno mai dove cercare. È per questo che serviamo noi.»
 
 L'uomo sbucò in cima alla scala.
 
@@ -212,7 +212,7 @@ Cid si irrigidì. Fu un cambiamento rapidissimo, come quello di un cane da cacci
 
 «Non ancora? Sono due anni che dici non ancora.»
 
-«Sono due anni che è sparito.» Vayne si voltò, finalmente, verso il dottore. «La notte del banchetto qualcuno è entrato nel tesoro di questo palazzo. Ha aperto la porta col sigillo, che i miei uomini non erano riusciti ad aprire in due anni con tutti gli strumenti del tuo laboratorio, Cid. E dal tesoro ha preso una cosa sola.» Una pausa. «Le guardie dicono che era un ladro della Città Bassa. Un ragazzo.»
+«Sono due anni che è sparito.» Vayne si voltò, finalmente, verso il dottore. «La notte del banchetto qualcuno è entrato nel tesoro di questo palazzo. Ha aperto la porta col sigillo, che i miei uomini non erano riusciti ad aprire in due anni con tutti gli strumenti del tuo laboratorio, Cid. E dal tesoro ha preso una cosa sola.» Esitò. «Le guardie dicono che era un ladro della Città Bassa. Un ragazzo.»
 
 Il dottor Cid rimase immobile per un istante. Poi scoppiò a ridere, una risata alta, piena, quasi felice, e si batté una mano sul ginocchio.
 

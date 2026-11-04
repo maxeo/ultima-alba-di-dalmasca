@@ -118,7 +118,7 @@ Poi l'uomo con le due spade guardò Basch. Guardò Ashe dietro di lui. Guardò g
 
 «Non siete suoi» disse.
 
-Era un hume alto, sulla quarantina, scuro di pelle, con la barba corta e il viso cotto dal sole e dal vento come quello di chi vive sul mare. Portava una giacca da capitano di mare, consunta, con i polsini di velluto rosso, e due spade lunghe e sottili che rimise nei foderi con un solo movimento, fatto diecimila volte. Si inchinò appena, verso Basch.
+Era un Huma robusto, con il cranio rasato e una barba bianca che gli scendeva dalle basette, e la barba lo faceva sembrare più vecchio di quanto la voce e le mani lasciassero credere. Portava una camicia color cammello dalle maniche larghe, un pendente d'argento sul petto, e due spade lunghe e sottili che rimise nei foderi con un solo movimento, fatto diecimila volte. Si inchinò appena, verso Basch.
 
 «Perdonatemi. Vi ho scambiati per uomini del dottore. Questo luogo ne è pieno, e nessuno di loro merita il beneficio del dubbio.» Aveva una voce profonda, lenta, e un modo di costruire le frasi che non apparteneva a nessuna delle città che Vaan conosceva. Parlava come parlano certi libri, quelli che si leggono a voce alta nei templi. «La lama non chiede chi sei, prima di cadere. È un suo difetto. Ne chiedo scusa io per lei.»
 

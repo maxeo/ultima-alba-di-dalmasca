@@ -62,3 +62,32 @@
 - Schiaffo con il dorso della destra, mani legate; la sinistra resta a pugno sull'anello largo. Ashe dice "ti prego" a Vaan.
 - Ashe a Vaan: "Taci", con la stessa immagine del mantello usata per Ghis al cap. 31: eco voluta.
 - "Niente esecuzioni" in cambio del Frammento, parola di Giudice. Chiusura: due lampade di bordo impallidiscono vicino alla pietra (Negalite).
+
+## Cap. 37
+- `09 V` (sicurezza e due giudici) ridotta a un paragrafo: fili di luce, chiavi prese a due ufficiali "su cui non si dilungarono".
+- Vossler: travestito da tre giorni per conto di Ondore. Semina del tradimento (`fix` sez. 4): sul Frammento in mano a Ghis tace un respiro di troppo e Fran gli punta un orecchio addosso. Da riprendere ai cap. 43-46.
+- Ashe rifiuta la spada di Basch ("preferisco quella di chiunque altro. Anche la sua", cioè di Vaan). Vossler: Ashe si allenava di notte contro un palo.
+- Vossler a Basch: "Non ti aspetti niente. È questo che mi preoccupa di te."
+
+## Cap. 38
+- Pietra di Larsa: è la scheggia di Negalite di Lhusu (lotto quarantasei), donata a Penelo "per scusarmi", con la bugia del "vecchio con dieci anelli". Penelo la tiene nella tasca della gonna accanto al fazzoletto. Ripresa da Larsa al cap. 62.
+- Traccia di Balthier: inchino di corte archadiano (mano piatta, tre dita sopra il cuore, pausa a metà) davanti a Larsa; "a teatro". Legge l'archadiano del pannello d'allarme.
+- Larsa: vuole la verità sulle due morti false "per evitare la prossima guerra"; flotte rozarriane sul confine (semina `fix` sez. 4, `file11:114`). Ashe: "Allora sia".
+- Invenzione: Gabranth arriva sul Leviatano all'alba con la nave corriera per riprendersi Larsa (come ordina Vayne al cap. 35). Penelo lo ha visto dalla finestra: Basch lo sente nominare e non si volta. Gabranth non compare in scena: niente incontro fra i gemelli qui.
+- Penelo tenta di restituire il fazzoletto e non fa in tempo: resta per il cap. 40.
+
+## Cap. 39
+- Circa 3.550 parole, sotto i 4.000 dell'espanso: lo scontro è tenuto corto per regola. Aggiungere solo se il regista lo chiede.
+- Ghis non muore: in ginocchio, senza elmo (calvo, occhi grigi stanchi, cicatrice alla bocca). Ashe tiene la spada alzata e non colpisce. Muore sullo Shiva al cap. 49.
+- Penelo combatte con un'asta da catene (eco del bastone di Doran) e dice "scusa" al soldato.
+- Gag del protagonista: "Non è il genere di uscita di scena che si addice al protagonista" / Fran: "Di quale storia?... Allora la storia è povera." Unica ricorrenza nella Parte IV.
+- Traccia di Balthier: risponde alla pattuglia nel tubo in archadiano da caserma con codice e formula finale giusti; "teatro". Si somma al volo lento di Fran.
+- Chiusura: Ashe apre la mano sinistra sull'anello largo e la richiude.
+
+## Rilettura della Parte IV
+- Tolte ripetizioni di "Una pausa", "non disse niente", "Lasciò passare un respiro"; ridotti i paragoni in "come" nei cap. 30 e 39; tolti "in quel momento" (30, 33, 35, 38) e "Fu allora" (31, 39).
+- Accenni alle fonti nella Parte: cap. 29 (Memorie di Ondore), cap. 33 (lettere di Penelo). Nei cap. 31 e 39 solo "chi c'era lo raccontava": testimoni, non documenti.
+- Tracce di Balthier: cap. 30 (lotti di Draklor), 32 (bottoni Solidor), 38 (inchino, archadiano), 39 (codice radio). Mai spiegate. Cid si sistema i polsini come lui (cap. 35).
+- Possibile debolezza: la rivelazione di Larsa (cap. 32) arriva da Balthier e non da una scena; la fonte fa lo stesso.
+
+FINE PARTE

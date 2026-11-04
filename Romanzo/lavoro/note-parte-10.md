@@ -23,12 +23,13 @@
 - **Rikken**: gara di tiro sulle bottiglie, cinque a cinque. Balthier: "Il protagonista non manca mai"; Fran: "Il protagonista ha mancato la quarta", e poi porta via la bottiglia intatta con una freccia. Nome di Fran sul muretto dei campioni.
 - **Reddas**: "un'altra pista", nessun nome di Ridorana né del Faro (correzione `file29:840-848`). In chiusura guarda da solo un disegno di torre su una costa, senza nome.
 - "Uomini senza patria": "un uomo che non ha più nessuno a cui chiedere perdono". Ashe dice di essere stata a Nabudis; Reddas, controluce, tace. Spada nera sopra il camino che Reddas non guarda mai: traccia di Zecht.
-- Elza resa hume per prudenza: verificare la razza canonica con chi scrive il cap. 91.
+- Elza: donna alta "con le spalle di chi ha tirato funi", allineata al cap. 91; Raz Seeq dalle mani piccolissime come nel cap. 91.
 - Canto di Fran inventato in sei versi; "chi la trova è stato chiamato" prepara gli Occuria.
 
 ## Rilettura della Parte X
 - Parte breve, tre capitoli. Ridotti i "per un momento" e i paragoni a "come si...".
 - Fili toccati: protocolli imperiali e "Ffamran" (83); Nabudis e il giudice scomparso (82, 84: spada nera, sguardo su Basch, Mezzaluce); "il protagonista" (84); Ondore apre la Parte ed è smentito nella stessa Parte.
 - Da verificare: età di Balthier (16 anni sei anni fa); razza di Elza; aspetto di Reddas e Cid compatibile con gli altri blocchi.
+- Dopo la revisione `aspetto.md`: Reddas (82), Cid (83) e Rikken (84) allineati alla scheda. Elza e Raz allineati al cap. 91.
 
 FINE PARTE

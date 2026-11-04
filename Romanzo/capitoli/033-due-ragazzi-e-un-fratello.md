@@ -205,7 +205,7 @@ Penelo ci pensò. «Sì. Forse.»
 
 Bussarono di nuovo. Questa volta era un uomo anziano con la livrea della casa, il maggiordomo o qualcosa del genere, con un viso lungo e un'espressione di sofferenza composta che doveva essergli costata anni di esercizio. Si inchinò a Larsa, poi, dopo una minuscola esitazione, anche a Penelo, il che la fece arrossire fino alle orecchie.
 
-«Altezza. Il giudice Ghis manda a dire che la flotta salperà questa notte. Il vostro seguito è atteso a bordo del Leviatano prima del tramonto.» Una pausa. «Il marchese vi prega anche di sapere che la città, oggi, è in una certa agitazione.»
+«Altezza. Il giudice Ghis manda a dire che la flotta salperà questa notte. Il vostro seguito è atteso a bordo del Leviatano prima del tramonto.» Lasciò passare un respiro. «Il marchese vi prega anche di sapere che la città, oggi, è in una certa agitazione.»
 
 «Agitazione?» Larsa si voltò. «Di che genere?»
 

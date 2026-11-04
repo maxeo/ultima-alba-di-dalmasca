@@ -6,7 +6,7 @@ L'uomo con le due spade era fermo a dieci passi dalla macchina, con le lame sgua
 
 Davanti a lui, in piedi accanto alla poltrona, c'era il dottor Cid.
 
-Era più basso di quanto Vaan si aspettasse. Più vecchio, anche: un uomo sulla sessantina, con i capelli grigi tirati indietro e una barba corta e appuntita, la pelle segnata, gli occhi chiari dietro un paio di lenti dalla montatura sottile che portava sulla punta del naso. Indossava un camice da laboratorio sopra un panciotto di broccato, con una catena d'orologio d'oro che gli attraversava lo stomaco, e alle mani aveva guanti di cuoio nero, lisci come pelle. Stava ridendo. Rideva con tutto il corpo, piegandosi un poco in avanti, come se l'uomo con le spade gli avesse appena raccontato una barzelletta eccellente.
+Era più basso di quanto Vaan si aspettasse. Più vecchio, anche, benché non arrivasse ai sessant'anni: capelli, barba e baffi d'argento, la pelle segnata, gli occhi dietro un paio di occhiali ovali dalla montatura d'argento. Portava un soprabito lungo, rosso cupo e viola, con ricami d'oro ai polsi e al bavero, e guanti bianchi. Vaan, guardandolo, pensò senza volerlo che da giovane doveva aver avuto la faccia di Balthier, e la cosa gli diede fastidio. Stava ridendo. Rideva con tutto il corpo, piegandosi un poco in avanti, come se l'uomo con le spade gli avesse appena raccontato una barzelletta eccellente.
 
 «Il Leviatano!» stava dicendo. «Mi vieni a parlare del Leviatano! Come se io non lo sapessi! Come se non avessi i rapporti! Le misurazioni! Ho le letture del Mystes di quella notte, amico mio, le ho incorniciate. Sono bellissime.»
 
@@ -24,7 +24,7 @@ Per un momento la faccia di Cid non fece niente. Nessuna sorpresa, nessuna commo
 
 Balthier non si mosse.
 
-«Ffamran! Ma guardalo.» Cid allargò le braccia, e il camice si aprì sul panciotto di broccato. «Il pirata dei cieli. Il ladro. Il famoso, l'unico, il terribile...» Si interruppe, e si voltò di lato, verso un angolo vuoto della camera, accanto a una delle lavagne. «Come si chiama adesso? Balthier, sì. Balthier. Un nome da cantastorie di fiera. Lo sapevo che ti sarebbe piaciuto.» Tornò a guardare il figlio. «Sei vestito malissimo.»
+«Ffamran! Ma guardalo.» Cid allargò le braccia, e il soprabito si aprì sul petto. «Il pirata dei cieli. Il ladro. Il famoso, l'unico, il terribile...» Si interruppe, e si voltò di lato, verso un angolo vuoto della camera, accanto a una delle lavagne. «Come si chiama adesso? Balthier, sì. Balthier. Un nome da cantastorie di fiera. Lo sapevo che ti sarebbe piaciuto.» Tornò a guardare il figlio. «Sei vestito malissimo.»
 
 «E tu sei invecchiato» disse Balthier. «Ma la voce è la stessa. Ti si sente dal sessantasettesimo piano.»
 
@@ -54,7 +54,7 @@ Vaan guardò l'angolo. Non c'era niente. C'era una lavagna con dei numeri e un p
 
 Cid si girò verso Ashe. Gli si erano illuminati gli occhi.
 
-«Altezza» disse, e fece un inchino profondo, perfetto, da corte, che sul suo camice da laboratorio aveva qualcosa di osceno. «Ashelia B'nargin Dalmasca. Erede di Raithwall. Portatrice, se non sbaglio, di una certa spada che Anastasis teneva nascosta sotto le sue preghiere. Che onore. Che magnifica coincidenza.» Si raddrizzò. «Sapete che vi ho seguita? Da lontano, con affetto. Il Frammento d'Aurora nella Tomba. Il Leviatano. Miriam. Siete il mio esperimento preferito, e non lo sapevate.»
+«Altezza» disse, e fece un inchino profondo, perfetto, da corte, che in quella stanza piena di bobine aveva qualcosa di osceno. «Ashelia B'nargin Dalmasca. Erede di Raithwall. Portatrice, se non sbaglio, di una certa spada che Anastasis teneva nascosta sotto le sue preghiere. Che onore. Che magnifica coincidenza.» Si raddrizzò. «Sapete che vi ho seguita? Da lontano, con affetto. Il Frammento d'Aurora nella Tomba. Il Leviatano. Miriam. Siete il mio esperimento preferito, e non lo sapevate.»
 
 «Io non sono il vostro esperimento» disse Ashe.
 
@@ -70,7 +70,7 @@ Cid lo guardò con un'espressione di pazienza affettuosa.
 
 «Come sei noioso. Sei sempre stato noioso.» Poi tornò ad Ashe. «Ma ha ragione su una cosa, altezza. Io guardo. Guardare è il mio mestiere. E adesso vorrei guardare voi.»
 
-Si tolse i guanti di cuoio, un dito alla volta.
+Si tolse i guanti bianchi, un dito alla volta.
 
 Sotto, le mani erano normali: mani da vecchio, con le nocche grosse e le vene in rilievo. Ma sul dorso della destra, incastonata nella carne come una gemma nell'anello, c'era una scheggia di pietra nera, e attorno alla scheggia la pelle era tesa e lucida, come una cicatrice di ustione.
 
@@ -90,7 +90,7 @@ Cid batté le mani, contento.
 
 «Bravo il ragazzo!» gridò. «Chi è? Lo voglio!»
 
-Le altre tre caddero una alla volta. Cid non sembrava preoccupato. Ogni volta che una sfera cadeva, si illuminava di più, rideva di più, e prendeva appunti su un taccuino che teneva nel taschino del camice, senza smettere di muoversi, di sparare con una pistola dalla canna lunga e sottile, di parlare.
+Le altre tre caddero una alla volta. Cid non sembrava preoccupato. Ogni volta che una sfera cadeva, si illuminava di più, rideva di più, e prendeva appunti su un taccuino che teneva nella tasca del soprabito, senza smettere di muoversi, di sparare con una pistola dalla canna lunga e sottile, di parlare.
 
 «Velocità di reazione eccellente! La viera è più lenta del previsto, ma più precisa. Il cavaliere para con il bracciale: che abitudine antica, che abitudine dalmasca. Ffamran, tieni il gomito più alto, te l'ho sempre detto.»
 

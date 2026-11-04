@@ -14,3 +14,32 @@
 - "Necessità" come paravento; "la casa Solidor ha una spada... chi l'ha temprata?"; "È vendetta?" con i fratelli giustiziati.
 - Mani (fix 2): Gramis dice "le sue, quelle pulite, di chi verrà dopo" senza nome; il narratore lascia aperto se intenda se stesso o Larsa. Unico accenno alle fonti della zona ("le cronache di palazzo... si dividono").
 - Chiusa: Gramis beve il decotto freddo. Nessuna indicazione su chi lo avveleni: il cap. 68 tiene la versione ufficiale e il dubbio di Drace.
+
+## Cap. 66
+- Isole sospese: tre spiegazioni di tre pellegrini; il sacerdote giovane dice che "si bevono la forza delle pietre del cielo" e fanno cadere le aeronavi (fix 4, `file23:52`). Rottami sotto le nuvole.
+- Tende dei profughi in ogni cortile; torna la donna con la tenda dei Fratelli Haddur. Ashe conta le persone: "troppi, e sono quelli che sono arrivati".
+- Anastasis: "dorme?" di Vaan; "il sogno è uno specchio"; "di solito mi chiedono se sono morto". Riconosce Ashe e descrive il suo sogno (città bianca, porta azzurra, balcone).
+- Al-Cid entra dall'ombra; chiusa su Balthier: "uno come me, ma con più soldi". La notizia di Gramis è nel cap. 67.
+
+## Cap. 67
+- Al-Cid: baciamano e complimento sul deserto e i fiori; Ashe "molto gentile e molto inopportuno"; Larsa arrossisce. Penelo: "è sempre così?".
+- Anastasis presenta i due "ragazzi" che si sono scritti di nascosto per mesi (inventato il carteggio segreto).
+- Morte di Gramis detta da Al-Cid; "Padre" di Larsa senza eco nella sala; Penelo gli prende la mano. Versione ufficiale: Gregoroth (coerente con le memorie di Ondore del cap. 64).
+- Flotte dal foglio di Al-Cid: Dodicesima, Prima in attesa dell'Odin, seconda forza da Kerwon. "Quaranta giorni" dal Leviatano: controllare la cronologia della Parte VI-VII.
+- Rinuncia di Ashe: "Dalmasca non dimentica... ma non dimenticare non vuol dire avere fretta" (aggancio del cap. 51 tornato). Chiede "una forza che rompa il potere delle pietre".
+- Anastasis apre gli occhi, bianchi: è cieco, come in bibbia. La Spada dei Re arriva nel cap. 69.
+
+## Cap. 68
+- Apre sul bollettino di undici righe del Ministero della Legge (ironia gelida; eco delle "undici ore" del Senato). Gregoroth con fiala e lettera; Drace smonta la versione (fix 3, `file23:276, 332`).
+- Inventato: Gregoroth si faceva assaggiare il tè per paura delle vespe; il vecchio senatore che ride seduto per terra.
+- Bergan (fix 4): prende al volo la lama di Drace con la mano sinistra; dalle giunture del guanto esce una luce viola torbida e un odore di metallo bruciato. Prepara la "negalite nelle ossa" del cap. 72.
+- "Il cane dell'imperatore" detto a Gabranth; Zargabaath supplica e poi stringe il pugno (gesto di misura, fix 4).
+- Regola dell'elmo (VIA-LIBERA): Gabranth fa per togliersi l'elmo davanti a Drace condannata e Vayne glielo vieta. Drace: "Non mi serve la tua faccia. Conosco la tua voce... troppo buona per quell'elmo" (filo delle voci).
+- "Perdonami" riferito dalla guardia della porta, unico accenno ai testimoni. Morte di Drace senza commento del narratore.
+- Chiude su Vayne che ricompone la mano del padre e "La casa Solidor continua".
+
+## Cap. 69
+- Anastasis rivela la Spada dei Re (lasciata al Gran Kiltias, "in un tempio dove nessun re andasse a pregare"); domanda di Basch sul perché; immagine "del muro alto e della scala in giardino". "Svegliati".
+- Addio a Larsa sulla terrazza: Ashe lo ringrazia, "non siete il fratello di vostro fratello", "Restate vivo" (eco involontaria della richiesta di Drace nel cap. 68). Penelo: "Mangia... ci vediamo".
+- Paramina in quattro giorni; rifugio dei pellegrini con la regola della legna lasciata doppia (inventato). Vaan: Raithwall "non si fidava dei figli o delle pietre"; Ashe: "o di se stesso".
+- Miriam: colosso con l'incavo per il frammento; tre statue in poche righe; Vinuskar tagliato ("qualcosa che non voleva essere voltato"); Mateus in un paragrafo. Relj non citato: il cenno era facoltativo e qui non trovava posto.

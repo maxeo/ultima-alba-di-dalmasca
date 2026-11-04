@@ -186,7 +186,7 @@ A metà dello spiazzo, girò la testa.
 
 Non poteva vederli. L'arco era in ombra e loro stavano nell'ombra dell'arco. Ma Penelo girò la testa proprio da quella parte, verso la bocca della miniera, come se sapesse, e i suoi occhi passarono sull'arco e ci si fermarono. Si allargarono. Vaan sentì che lo stava guardando, lui, in mezzo al buio, e alzò una mano senza pensare.
 
-Lamont, accanto a lei, le strinse le dita. Lei non disse niente. Chiuse la bocca che aveva aperto e guardò avanti, e salì la scalinata al fianco del ragazzo con la giacca verde, e sparì dietro la prima curva.
+Lamont, accanto a lei, le strinse le dita. Lei non rispose. Chiuse la bocca che aveva aperto e guardò avanti, e salì la scalinata al fianco del ragazzo con la giacca verde, e sparì dietro la prima curva.
 
 Ghis rimase fermo sullo spiazzo a guardarli andare. Poi fece un gesto ai soldati, secco, e i soldati si mossero, metà verso la scalinata dietro al ragazzo, a distanza, e metà verso il molo. Passò accanto al marchese senza guardarlo.
 
