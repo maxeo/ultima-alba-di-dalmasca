@@ -15,7 +15,7 @@ Più sessioni scrivono blocchi diversi nello stesso momento. Il regista integra 
 
 ## Procedura
 
-1. **Attendi il via libera.** Il file `Romanzo/lavoro/VIA-LIBERA.md` compare su `origin/main` quando il regista ha approvato la voce dei pilota. Controlla con `git fetch -q origin main && git cat-file -e origin/main:Romanzo/lavoro/VIA-LIBERA.md`. Se manca, aspetta con `sleep` e ricontrolla ogni 2 minuti, senza fare altro.
+1. **Attendi il via libera.** Il file `Romanzo/lavoro/VIA-LIBERA.md` compare su `origin/main` quando il regista ha approvato la voce dei pilota. Controlla con `git fetch -q origin main && git cat-file -e origin/main:Romanzo/lavoro/VIA-LIBERA.md`. Se manca, aspetta con `sleep` e ricontrolla ogni 2 minuti, senza fare altro. Dopo 45 minuti di attesa parti comunque: il PC del regista può essere spento. In quel caso cerca i pilota anche sui branch remoti (`git branch -r`) e, se non ci sono, segui `regia.md`.
 2. **Prima di iniziare**, fai `git merge origin/main`, poi leggi `regia.md`, `VIA-LIBERA.md`, `bibbia.md`, questo file, le righe di scaletta del tuo blocco e i capitoli pilota in `Romanzo/capitoli/`, che sono il modello di voce.
 3. **Prima di ogni capitolo**: `git fetch origin main && git merge origin/main`. Leggi le correzioni in `Romanzo/lavoro/revisioni/`, se ci sono. Valgono subito, anche per i capitoli già scritti del tuo blocco.
 4. **Per ogni capitolo**: leggi per intero le sezioni di origine e le voci di `Original/fix-e-mancanze.md` che le riguardano. Leggi i capitoli precedenti esistenti, almeno gli ultimi due. Scrivi. Rileggi cercando formule vietate e voci piatte. Fai commit e push sul branch di questa sessione dopo ogni capitolo.
