@@ -61,3 +61,8 @@
 | Il messaggero di Vossler morto nella camera rotonda, col mantello azzurro: "abbiamo visto solo topi" | 16 | 17 (Amalia chiede dei suoi), 25 (Vossler) | aperto |
 | Balthier: "Ci sono cose che non servono a niente e si fanno lo stesso. Ma bisogna essere vivi" | 16 | 104, 110 | aperto |
 | Fran spezza un dardo di balestra e lo lascia cadere nell'acqua dei morti | 16 | facoltativo | aperto |
+| Amalia stringe la sinistra a pugno alla notizia dei sette morti (anello, mai nominato) | 17 | 21, 36, 52 | aperto |
+| La pietra si accende piena vicino ad Amalia; Balthier: "le pietre non fanno così in presenza di chiunque" | 17 | 36 (Ashe, Frammento del Crepuscolo) | aperto |
+| "Resistenza, non insurrezione": "Per chi muore, sì" | 17 | 25, 50 | aperto |
+| Vayne riconosce "il ragazzo del muro" e ordina di essere "cortesi" davanti alla città | 17 | 18 (arresto davanti alla folla) | aperto |
+| Uscita dai canali all'alba dalla grata del quartiere delle cisterne | 17 | 18 | aperto |

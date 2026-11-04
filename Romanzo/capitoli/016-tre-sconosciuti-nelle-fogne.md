@@ -34,7 +34,7 @@ Ci volle un po' prima che Vaan riuscisse a smettere di guardare la viera. Lei se
 
 «Non ne avevi mai vista una.»
 
-Vaan arrossì. Era la quarta volta in una settimana, e cominciava a pensare che fosse una malattia.
+Vaan arrossì. Era la terza volta in una settimana, e cominciava a pensare che fosse una malattia.
 
 «No. Scusa. Non volevo...»
 
