@@ -10,7 +10,7 @@ I Garif diedero agli stranieri una casa vuota sul fianco della collina, con il p
 
 Vaan rise. Penelo gli diede una gomitata e poi rise anche lei.
 
-Ashe no. Era rimasta in piedi vicino alla porta, con il frammento avvolto nel panno sotto il braccio, e guardava il principe di Archadia come si guarda un serpente che si è messo a dormire nel proprio letto, cioè con molta attenzione e senza nessuna fretta di toccarlo.
+Ashe no. Era rimasta in piedi vicino alla porta, con il frammento avvolto nel panno sotto il braccio, e guardava il principe di Archadia con l'attenzione che si riserva a un serpente addormentato nel proprio letto: molta, e senza nessuna fretta di toccarlo.
 
 «Perché siete qui?» chiese.
 
