@@ -11,3 +11,6 @@
 | Mano sinistra di Ashe aperta dopo la cessione dell'anello | 52 | 63, 70 (Ashe manca il colpo), 112 (anello restituito) | aperto |
 | Stivali di Archades di Balthier nel fango | 52 | 58 (Golmore), 64 (neve) | aperto |
 | Domanda di Balthier a Vaan "cosa cerchi?", risposta "non lo so" | 52 | 55 (confessione), 112 ("scegliere dove andare") | aperto |
+| Coltello da cuoio della bottega; Vaan segue un vecchio soldato e non colpisce; segreto tenuto con Penelo | 55 | Facoltativo: Penelo lo scopre (Parte XIII), oppure resta chiuso | aperto |
+| Segno chiaro sull'anulare di Ashe | 55 | 70, 112 | aperto |
+| Scarpe di Larsa pulite davanti al fuoco | 55 | 56 (Ashe accetta) | tornato in 56 |
