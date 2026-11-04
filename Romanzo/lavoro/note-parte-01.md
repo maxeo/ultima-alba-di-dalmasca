@@ -34,3 +34,21 @@
 - Reks disobbedisce all'ordine delle cisterne. Il trattato resta non firmato, con l'inchiostro rovesciato: nel cap. 6 la resa diventa ufficiale lo stesso.
 - Le battute dell'autorità imperiale sono ridotte a due, senza la spiegazione sull'autonomia (`fix-e-mancanze`, `file01:754-762`). Nessun nome per la voce che arresta.
 - Inventati il soldato archadiano giovane e il gesto della fiaschetta: rischiano di ammorbidire troppo. Si possono togliere senza danno.
+
+## Capitolo 6
+
+- Circa 2.000 parole, costruito su tre documenti (comunicato imperiale, proclama di Ondore, sentenza) più l'inventario e la resa.
+- L'autorità imperiale ha tre battute (il tribuno con i guanti bianchi); niente spiegazione su autonomia e nome maledetto.
+- Inventato: la resa firmata dal cancelliere Halvor senza leggerla e il trattato di Raminas mai ritrovato.
+- Vaan compare una volta in piazza, di passaggio; il capitolo chiude sulla cuoca anziana del cap. 1, che non crede al suicidio.
+- "Alle nozze non c'era" presuppone che Ondore non fosse alle nozze: il cap. 1 non lo nomina, quindi regge.
+
+## Rilettura della Parte
+
+- Corretti "in quel momento" (cap. 2 e 5), "Fu ... che" (cap. 2 e 4) e "Fu allora che" nell'estratto di Ondore (cap. 3).
+- I paragoni "come si..." sono ridotti a uno o due per scena; resta qualche catena di "e" nei momenti di lutto, di proposito.
+- Accenni alle fonti: cap. 1 (venditore di datteri) e cap. 3 (commento a Ondore). Il cap. 6 non ne ha.
+- Da controllare col blocco A: nel cap. 8 Reks tiene i gigli sul tavolo e c'è una vicina, la madre di Mirka; nel cap. 4 i gigli stavano nel vaso verde della madre, morto da tre anni. Va armonizzato.
+- Fili lasciati al blocco A: ciocca di Vaan, vaso verde, tacche sulla trave, manifesto del pirata col nome macchiato.
+
+FINE PARTE

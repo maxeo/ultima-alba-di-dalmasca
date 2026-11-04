@@ -12,7 +12,7 @@ Reks rimase con la schiena al muro e la spada alzata, aspettando. Davanti a lui,
 
 Si erano ritirati. O erano andati a cercare un'altra strada.
 
-L'archadiano che si muoveva era il primo, quello basso con la faccia rasata male. Si era trascinato fino al muro di fronte e ci si era appoggiato con la schiena, tenendosi la coscia con tutte e due le mani, e guardava Reks con gli occhi di un cane che non sa se verrà bastonato. Aveva perso l'elmo. Senza l'elmo dimostrava sedici anni, forse meno. Aveva i capelli rossicci tagliati cortissimi, alla maniera delle reclute, e una lentiggine grande sulla guancia sinistra, e le labbra bianche.
+L'archadiano che si muoveva era il primo, quello basso con la faccia rasata male. Si era trascinato fino al muro di fronte e ci si era appoggiato con la schiena, tenendosi la coscia con le mani, e guardava Reks con gli occhi di un cane che non sa se verrà bastonato. Aveva perso l'elmo. Senza l'elmo dimostrava sedici anni, forse meno. Aveva i capelli rossicci tagliati cortissimi, alla maniera delle reclute, e una lentiggine grande sulla guancia sinistra, e le labbra bianche.
 
 Disse qualcosa in archadiano. Reks non capì. Lo ripeté, più piano, e questa volta fece con la mano il gesto di bere.
 
@@ -102,7 +102,7 @@ Lo disse con calma. Con la stessa calma con cui sui cammini di ronda aveva solle
 
 Reks guardò la mano.
 
-Era una mano nuda, senza guanto, che stringeva il lembo del mantello e lo passava sul ferro. Una mano grande e pulita, con le nocche lisce e il dorso intatto, la pelle chiara, senza un graffio. Reks la guardò e qualcosa dentro di lui si fermò, come si ferma un passo davanti a un gradino che non c'era. Non capì che cosa. C'era qualcosa che non andava in quella mano, qualcosa che avrebbe dovuto esserci e non c'era, o che c'era e non avrebbe dovuto esserci, e Reks lo sapeva, e non riusciva a dirsi che cosa fosse. Pensò alle casse di Migelo. Non seppe perché ci pensò.
+Era una mano nuda, senza guanto, che stringeva il lembo del mantello e lo passava sul ferro. Una mano grande e pulita, con le nocche lisce e il dorso intatto, la pelle chiara, senza un graffio. Reks la guardò e si fermò, come ci si ferma davanti a un gradino che non c'era. Non capì che cosa. C'era qualcosa che non andava in quella mano, qualcosa che avrebbe dovuto esserci e non c'era, o che c'era e non avrebbe dovuto esserci, e Reks lo sapeva, e non riusciva a dirsi che cosa fosse. Pensò alle casse di Migelo. Non seppe perché ci pensò.
 
 «Capitano» disse ancora. «La vostra mano...»
 
