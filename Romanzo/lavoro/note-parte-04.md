@@ -1,7 +1,7 @@
 # Note di stesura, Parte IV
 
 ## Cap. 28
-- Penelo si libera da sola tagliando la corda con un piccone scheggiato. Nel cap. 31 Ba'Gamnan dirà di averla "lasciata andare, piangeva": è una bugia per salvare la faccia, che Penelo smentirà nel cap. 33.
+- Penelo si libera da sola tagliando la corda con un piccone scheggiato. Nel cap. 31 Ba'Gamnan dice di averla "lasciata andare, piangeva": bugia per salvare la faccia, smentita da Penelo davanti a Ghis nello stesso capitolo (ha tolto i cardini con un piccone).
 - Il fazzoletto di Balthier resta nella tasca di Penelo per tutta la Parte; restituito al cap. 40.
 - Nono: moguri meccanico, berretto con pompon, "kupò", brontola sul motore di babordo. Da tenere coerente con il cap. 27 (blocco-a), che lo presenta.
 - Bhujerba: saluto rituale "che il cielo vi sia lieve"; cristalli appesi sopra le porte; barcaioli che remano nell'aria; minatori con le dita grigie. Lamont cita "l'articolo quarto" del trattato.
@@ -21,3 +21,9 @@
 - Fran: anche la pietra del palazzo nella tasca di Balthier "beve". Lega il guasto della Strahl (cap. 15) e prepara il cap. 36.
 - Basch conta i blocchi di Negalite: Lamont dice che può "spegnere una nave". Semina il cap. 39 (magia di Ghis assorbita) e il cap. 49.
 - Lamont cura con una formula "della governante" e si corregge su "medico di corte".
+
+## Cap. 31
+- Fuga compressa. Hadu riavuta la lampada ("Il primo dell'anno") rovescia il tè sul pavimento e fa cadere i Bangaa: chiusura del filo di Hadu.
+- Lamont esce da solo verso Ghis per coprire il gruppo (Fran: "Ci copre"). Penelo intravede Vaan nell'ombra e tace su un segno di Lamont.
+- Accenno ai testimoni che raccontano il lancio in cinque modi: vale come accenno alle fonti leggero, non come citazione di documenti.
+- Il capitolo chiude su Balthier che sta per dire chi è Lamont: la rivelazione apre il cap. 32.

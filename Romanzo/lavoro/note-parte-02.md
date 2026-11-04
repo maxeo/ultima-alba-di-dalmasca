@@ -23,3 +23,9 @@
 - Circa 2.500 parole. Le feste del console durano tre sere (uso di Archades): così il furto cade la sera della grande cena e il giro a Giza ci sta in mezzo. Il cap. 9 racconta la prima sera.
 - Dalan ha appena ricevuto un ospite (Vossler, non nominato) e nasconde una spada sotto il materasso: semi per il cap. 13 e il cap. 25.
 - Giza è breve, ferma sul crinale. La cockatrice chiude in comico.
+
+## Cap. 11
+- Circa 2.700 parole. La raccolta dell'energia (`03 V`) è ridotta a un paragrafo, come chiede la scaletta.
+- Penelo arriva prima di Vaan con una carovana di Nalbina: gag. Lascia la bottega a Kytes.
+- Penelo combatte con il bastone di un fratello: prepara `file10:1334`.
+- Unico accenno a una fonte: "Penelo raccontò, molti anni dopo". Tolte le pietre di teletrasporto della fonte: sanno di oggetto da gioco.

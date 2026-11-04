@@ -10,3 +10,7 @@
 | Promessa della Strahl a Vaan, "dimenticala" | 92 | 110 (affidata), 112 (ripresa da Balthier) | aperto |
 | Mantello corto di Balthier lasciato su Nono | 92 | 112 (facoltativo: Nono lo porta ancora) | aperto |
 | Toppa "la cicatrice" sul fianco sinistro della Strahl | 92 | 104 o 112 | aperto |
+| Spada corta di Reddas (guardia a ricciolo, cuoio nero) raccolta da Vaan | 96 | 99 (Reddas non la riprende), 106 (Vaan con la spada) | aperto |
+| Frammento d'Aurora calciato contro un pilastro della Sommità | 96 | 97 (Cid lo nota o no), resta al Faro | aperto |
+| "Un uomo vero chiude la mano": prova dell'illusione | 96 | 112 (Ashe e l'anello, mano chiusa) | aperto |
+| Rasler: cicatrice sul mento, caduta da chocobo da ragazzo | 96 | aperto | aperto |

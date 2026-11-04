@@ -184,7 +184,7 @@ Elza non diceva niente. Stava appoggiata alla balaustra, con le braccia incrocia
 
 Vaan aspettò che continuasse. Lei guardò ancora la porta.
 
-«È arrivato da fuori, non so quanti anni fa. Cinque, forse sei. Con una spada e niente altro, e un modo di parlare che a Balfonheim non usa nessuno, come i preti, o come i vecchi libri. In un anno comandava sulle banchine. In due comandava sul porto.» Si strinse nelle spalle. «Nessuno gli ha mai chiesto da dove veniva. Non qui. Qui non si chiede. Ma i bambini di Balfonheim hanno paura del Faro, e lui no. Uno che non ha avuto paura del Faro da bambino non è di qui.»
+«È arrivato da fuori, saranno due anni, forse meno. Con una spada e niente altro, e un modo di parlare che a Balfonheim non usa nessuno, come i preti, o come i vecchi libri. In sei mesi comandava sulle banchine. In un anno comandava sul porto.» Si strinse nelle spalle. «Nessuno gli ha mai chiesto da dove veniva. Non qui. Qui non si chiede. Ma i bambini di Balfonheim hanno paura del Faro, e lui no. Uno che non ha avuto paura del Faro da bambino non è di qui.»
 
 Lo disse senza malizia, constatando una cosa che sapevano tutti e che nessuno diceva, come si dice che un pozzo ha l'acqua salata. Vaan lo mise da parte, senza sapere dove, insieme ad altre cose che in quei mesi aveva messo da parte senza sapere dove.
 
