@@ -18,7 +18,13 @@
 - Larsa: "Ti sbagli"; Vayne: "correggimi" con i fatti. Unico accenno alle fonti: i cronisti di Archades e la frase di Larsa.
 
 ## Cap. 103
-- Circa 3.400 parole. Ondore sulla Garland in prima persona narrativa: cristallo sopra la porta (usanza di Bhujerba, cap. 28) che cade e si rompe al passaggio del colpo. Galuf-Val perduta, con il figlio balbuziente del tesoriere. Ondore ha perso la moglie (inventato).
+- Circa 2.800 parole. Ondore sulla Garland in prima persona narrativa: cristallo sopra la porta (usanza di Bhujerba, cap. 28) che cade e si rompe al passaggio del colpo. Galuf-Val perduta, con il figlio balbuziente del tesoriere. Ondore ha perso la moglie (inventato).
 - Il congegno della voce è quello di Balthier visto a Bhujerba (`file10:600-616`): scatola d'ottone e cuoio con due rotelle, nella giacca di Balthier. Ashe ricorda quando Balthier lo usò contro di lei.
 - Gag: "Me ne occupo io personalmente... con la mia vita"; Penelo: "Larsa direbbe una cosa intelligente". Basch ride per la prima volta. Il comico sta dentro il massacro (Galuf-Val un attimo prima).
 - Vaan vede dall'alto le vele degli Urutan coi profughi.
+
+## Cap. 104
+- Circa 2.900 parole. Danza fra i caccia con Fran che guida a occhi chiusi nel fumo della Galuf-Val. Balthier "contento": Vaan capisce cosa vuole (essere dove nessuno ti raggiunge, e da lì fare la cosa giusta). Base per il cap. 112.
+- Balthier: "Qualcuno scriverà tutto questo. Voglio che scriva giusto": strizzata d'occhio al narratore, unica.
+- Gilgamesh, cenno finale: otto braccia rivelate qui (revisione generale), cerca l'armeria dei Giudici di Bahamut, riprende "ci rivediamo quando meno te lo aspetti" e "il tempo è un'invenzione dei vigliacchi", rubata da Basch. Battuta sul protagonista: "Quante braccia hai?" "Due" (Fran). Conseguenza concreta: sgombera la piattaforma, le guardie si arrendono.
+- Ashe prende una spada comune da una guardia.

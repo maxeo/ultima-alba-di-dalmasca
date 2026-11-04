@@ -134,7 +134,7 @@ Vaan girò l'ultima rotella di un niente. Si avvicinò al tubo d'ottone. Si schi
 
 «Marchese Ondore.»
 
-La voce che uscì dalla scatola era chiara, giovane, educatissima, di un ragazzo che a dodici anni parlava come un ambasciatore di quaranta. Era la voce di Larsa Ferrinas Solidor. Era così somigliante che Penelo si voltò di scatto verso il portello, come se il principe fosse entrato in quel momento.
+La voce che uscì dalla scatola era chiara, giovane, educatissima, di un ragazzo che a dodici anni parlava come un ambasciatore di quaranta. Era la voce di Larsa Ferrinas Solidor. Era così somigliante che Penelo si voltò di scatto verso il portello, come se il principe fosse appena entrato.
 
 Dall'altra parte del canale ci fu un silenzio assoluto.
 
