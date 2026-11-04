@@ -68,7 +68,7 @@ Il marchese non rispose subito. Quando parlò, lo fece con la stessa voce di pri
 
 «Il vostro ospite» disse. «Lo avete trovato?»
 
-Il passo di Ghis si spezzò. Durò meno di un respiro: un piede che si posa più corto dell'altro, un'esitazione nel metallo. Poi il Giudice riprese a camminare con la stessa andatura ballata.
+Il passo di Ghis perse il ritmo. Durò meno di un respiro: un piede che si posa più corto dell'altro, un'esitazione nel metallo. Poi il Giudice riprese a camminare con la stessa andatura ballata.
 
 «Lo troveremo» disse. «È un giovane signore di grande intelligenza, e i giovani di grande intelligenza si annoiano quando li si accompagna. Ha voluto fare due passi da solo nella vostra bella città. Lo comprendo. Ma Bhujerba è piena di gente di ogni tipo, marchese. Pirati. Ribelli. Forse peggio. E se a lui dovesse succedere qualcosa, anche solo un graffio, anche solo un raffreddore» e qui la voce tornò calda, quasi affettuosa «credo che a quel punto nessuno di noi due avrebbe più tempo per i proverbi.»
 
