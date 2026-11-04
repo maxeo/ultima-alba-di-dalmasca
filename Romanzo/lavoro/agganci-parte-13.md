@@ -11,3 +11,4 @@
 | Dalan con un fagotto lungo sulle ginocchia | 10, 101 | 111 (facoltativo) | aperto |
 | Stelle dei fornai | 101 | 112 o 113 | aperto |
 | Giornale di bordo di Bahamut con l'ordine di fuoco firmato col nome di Vayne, tenuto da Zargabaath | 102 | 110 (Zargabaath), 113 (fonte dello studioso, facoltativo) | aperto |
+| Basch ride per la prima volta: "Con la mia vita"; "Non dirlo mai a Larsa" | 103 | 109 o 111 (Larsa lo viene a sapere) | aperto |

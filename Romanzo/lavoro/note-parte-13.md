@@ -16,3 +16,9 @@
 - Ponte di comando: Larsa, dodici anni, giubba abbottonata storta; il posto di Gabranth vuoto da tre giorni, "sollevato per ordine di Draklor". Vayne ricorda i fratelli maggiori morti (fix `file10:1002`), caso chiuso.
 - Zargabaath (fix `file24:632`, ritorno `file37:1732`): fa registrare l'ordine di fuoco sulla nave arresa nel giornale di bordo, col nome di Vayne. Gesto di misura dentro il regolamento. Il giornale torna al cap. 110.
 - Larsa: "Ti sbagli"; Vayne: "correggimi" con i fatti. Unico accenno alle fonti: i cronisti di Archades e la frase di Larsa.
+
+## Cap. 103
+- Circa 3.400 parole. Ondore sulla Garland in prima persona narrativa: cristallo sopra la porta (usanza di Bhujerba, cap. 28) che cade e si rompe al passaggio del colpo. Galuf-Val perduta, con il figlio balbuziente del tesoriere. Ondore ha perso la moglie (inventato).
+- Il congegno della voce è quello di Balthier visto a Bhujerba (`file10:600-616`): scatola d'ottone e cuoio con due rotelle, nella giacca di Balthier. Ashe ricorda quando Balthier lo usò contro di lei.
+- Gag: "Me ne occupo io personalmente... con la mia vita"; Penelo: "Larsa direbbe una cosa intelligente". Basch ride per la prima volta. Il comico sta dentro il massacro (Galuf-Val un attimo prima).
+- Vaan vede dall'alto le vele degli Urutan coi profughi.
