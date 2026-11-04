@@ -15,3 +15,26 @@
 - Balthier lascia il suo mantello corto a Nono addormentato: il mantello resta a Balfonheim (possibile ritorno nell'Epilogo).
 - Nebbia del Jagd verdina, vetri che si accendono; Fran soffre il Mystes ("come stare in un fiume con la bocca aperta").
 - Reddas-Ashe: "dovreste portarlo da sola", secondo la fonte.
+
+## Cap. 93
+- Circa 2.850 parole. Iscrizione letta da Fran; firma di Raithwall. Ashe ripensa a Rasler (Tomba, Foresta, Giruvegan) e al fatto che solo Vaan forse l'ha visto.
+- Illusione: deserto senza ombre che Vaan scambia per l'Estersand; Fran guida "a occhi chiusi". Pandemonium e Hashmal in poche righe, senza nomi. Slyt e Fenrir (sez. IX, XI) ridotti a una frase di passaggio, come tagli.
+- Altari: scelta della "conoscenza della strada" voluta da Reddas; la strada torna ad Ashe dopo il terzo guardiano.
+- Penelo dice a Reddas dei due fratelli maggiori (fix `file02:136`): "uno a Nalbina e uno non si sa". Controllare coerenza con i blocchi precedenti.
+- Basch e Reddas combattono "come usciti dalla stessa scuola": traccia per il cap. 96.
+
+## Cap. 94
+- Circa 3.150 parole. Pianerottolo: Penelo ("li vedo meglio adesso"), Vaan (non si è accorto di aver smesso di odiare Basch, come non si accorse della morte di Reks), Reddas sui fantasmi e sul "cambiare nome". Sguardo Basch-Reddas.
+- Inventato il nome del fratello maggiore di Penelo, Dorran, con il dente storto. Se i blocchi precedenti hanno già dato nomi, va allineato.
+- Vaan ricorda Reks con un fiore bianco schiacciato in mano (gigli, cap. 8). Il richiamo vero ai gigli resta per la Parte XIII.
+- Lista di Balthier "per il registro", con "il protagonista"; Fran: Raithwall non aveva senso dell'umorismo, "ho letto la porta".
+- Basch ad Ashe: Dalmasca è gente che aspetta il pane, "non per lui" (Rasler).
+- Chiusura: Ashe estrae la Spada del Patto; il cap. 95 parte da lì.
+
+## Cap. 95
+- Circa 3.200 parole. Rasler visibile a tutti; Vaan lo riconosce dalla Tomba. Rasler "giusto e dentro nessuno": prepara l'illusione del cap. 96 senza svelarla.
+- Ashe dice ad alta voce "Non posso fare di te un ordine".
+- Gabranth confessa con l'elmo chiuso (regola dell'elmo). Dettagli inventati: Raminas alla finestra, "gli ha sorriso". Vaan chiede di Reks; Gabranth "Mi ricordo".
+- Voci uguali: Penelo sente un uomo solo che parla da due punti della piazza. Basch riconosce il passo (difetto ereditato dalla madre). Basch dice "Noah" due volte.
+- Gabranth "porge la gola": vuole essere punito. Serve per i cap. 105 e 108.
+- Chiusura: Reddas para e annuncia il racconto; il cap. 96 parte da lì.

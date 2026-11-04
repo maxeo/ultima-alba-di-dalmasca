@@ -78,7 +78,7 @@ Ci fu un silenzio. Vaan guardò Penelo, Penelo guardò Basch, Basch guardò le n
 
 Ashe aveva ascoltato con le braccia incrociate. «Quanti giorni?»
 
-«Dipende da quanto camminano i principi.»
+«Dipende da quanto camminano le principesse.»
 
 «Più di quanto camminano i pirati, temo.»
 
