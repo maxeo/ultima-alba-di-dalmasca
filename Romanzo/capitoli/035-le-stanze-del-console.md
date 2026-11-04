@@ -20,7 +20,7 @@ Il console era alto e magro, con i capelli neri lunghi fino alle spalle e una fa
 
 «Si vede che ha paura» disse una donna.
 
-Era seduta, sola fra quelli che erano nella stanza, su una sedia dallo schienale dritto accanto alla scrivania, e sedeva come stanno sedute le persone che preferirebbero essere in piedi. Indossava l'armatura dei Giudici Magister, chiara, quasi bianca, con le linee dell'elmo più sobrie di quelle degli altri, e l'elmo l'aveva posato sulle ginocchia. Aveva i capelli corti, color sabbia, tagliati senza vanità, e una faccia larga con le rughe agli angoli degli occhi di chi ha passato molto tempo all'aperto e ha riso spesso, prima. Si chiamava Drace. A palazzo era l'unica dei Giudici di cui Pukko conoscesse la faccia, perché era l'unica che ringraziava quando lui accendeva le lampade.
+Era seduta, sola fra quelli che erano nella stanza, su una sedia dallo schienale dritto accanto alla scrivania, e sedeva come stanno sedute le persone che preferirebbero essere in piedi. Indossava l'armatura dei Giudici Magister, chiara, quasi bianca, con le linee dell'elmo più sobrie di quelle degli altri, e l'elmo l'aveva posato sulle ginocchia. Aveva i capelli castani lunghi fino alle spalle, gli occhi bruni e una faccia larga con le rughe agli angoli degli occhi di chi ha passato molto tempo all'aperto e ha riso spesso, prima. Si chiamava Drace. A palazzo era l'unica dei Giudici di cui Pukko conoscesse la faccia, perché era l'unica che ringraziava quando lui accendeva le lampade.
 
 «Paura di cosa?» Vayne non si girò. «Il Senato non ha mai paura. Il Senato ha preoccupazioni. È diverso. La paura fa agire. Le preoccupazioni fanno scrivere lettere.»
 
@@ -36,7 +36,7 @@ Drace non riprese la lettera. «Vuole sapere perché la guarnigione di Rabanastr
 
 «Ghis lo ha ritrovato.»
 
-«Ghis lo ha ritrovato oggi, davanti a una miniera, dopo che il ragazzo era sceso da solo, con un nome falso, in mezzo a dei pirati, fino al settimo livello di Lhusu.» Drace si alzò. Non lo fece in fretta, ma tutto il suo corpo si alzò insieme, come se non avesse aspettato altro. «Ha tredici anni. Gli ho insegnato io a tenere una spada. Lo so di che cosa è capace. È capace di tutto, ed è proprio per questo che non deve andare in giro da solo in un paese che non è il suo, con il nome dei Solidor cucito sui bottoni.»
+«Ghis lo ha ritrovato oggi, davanti a una miniera, dopo che il ragazzo era sceso da solo, con un nome falso, in mezzo a dei pirati, fino al settimo livello di Lhusu.» Drace si alzò. Non lo fece in fretta, ma tutto il suo corpo si alzò insieme, come se non avesse aspettato altro. «Ha dodici anni. Gli ho insegnato io a tenere una spada. Lo so di che cosa è capace. È capace di tutto, ed è proprio per questo che non deve andare in giro da solo in un paese che non è il suo, con il nome dei Solidor cucito sui bottoni.»
 
 «Il nome dei Solidor lo protegge.»
 
@@ -52,7 +52,7 @@ Drace non rispose. Si rimise a sedere, ma non come prima. Adesso sedeva come chi
 
 «Il presidente Gregoroth» disse una terza voce, una voce larga e grossa che sembrava venire da un barile «farebbe meglio a occuparsi della sua digestione. Ha sessantotto anni e mangia come un ventenne. Lo vedrei volentieri occuparsene a lungo. Molto a lungo.»
 
-Il Giudice Bergan stava appoggiato al muro accanto a una delle carte geografiche, con le braccia incrociate. Era il più grosso di tutti, e la sua armatura era la più scura, nera con riflessi rossi, e il suo elmo, che teneva sotto il braccio, aveva corna larghe come quelle di un toro. Aveva una testa rasata e una barba corta, e due occhi piccoli, molto chiari, quasi trasparenti, che si muovevano poco. Mentre parlava, giocherellava con un candeliere di ferro che aveva preso dalla mensola: un oggetto massiccio, a tre bracci, che due servi portavano insieme quando c'era da spostarlo. Bergan lo teneva in una mano sola. Lo girava fra le dita.
+Il Giudice Bergan stava appoggiato al muro accanto a una delle carte geografiche, con le braccia incrociate. Era il più grosso di tutti, e la sua armatura era la più scura, nera con riflessi rossi, e il suo elmo, che teneva sotto il braccio, aveva una visiera larga e piatta, che lo faceva somigliare a una bocca di rana. Era biondo, con le basette lunghe, più giovane di quanto la voce facesse credere, e aveva due occhi piccoli, molto chiari, che si muovevano poco. Mentre parlava, giocherellava con un candeliere di ferro che aveva preso dalla mensola: un oggetto massiccio, a tre bracci, che due servi portavano insieme quando c'era da spostarlo. Bergan lo teneva in una mano sola. Lo girava fra le dita.
 
 «Il Senato è una sala piena di vecchi» continuò «che si siedono su poltrone fatte con le ossa di chi ha conquistato l'impero per loro e si lamentano che le poltrone sono scomode. Il console ha fatto in due anni quello che il Senato non ha avuto il coraggio di fare in venti. Ha preso Dalmasca. Ha preso Nabradia.» Si interruppe. Gli occhi chiari si fermarono per un istante su qualcosa che non era nella stanza. «Nabudis l'abbiamo pagata cara. Uno dei nostri non è tornato. Il migliore, forse. E il Senato ha mandato una lettera di condoglianze.» Strinse il candeliere. «Una lettera.»
 
@@ -110,7 +110,7 @@ Il Giudice non si tolse l'elmo. Appoggiò una mano al davanzale e guardò fuori,
 
 A che cosa pensasse, non lo sappiamo. Possiamo immaginare che pensasse a una gabbia sospesa sul vuoto e a un uomo con la barba di mesi che faceva lo spirito quando non aveva niente in mano. Possiamo immaginare che pensasse a quello che aveva detto, *lo uccido io*, e che lo pensasse con la stessa voce con cui lo aveva detto. Ma è più probabile, e su questo il seguito della storia ci dà qualche ragione, che pensasse al compito che il console gli aveva dato, e a un altro giorno, molto lontano da Rabanastre.
 
-Era stato ad Archades, alla fine dell'inverno. Nei giardini alti del palazzo imperiale, quelli con gli alberi portati da ogni parte di Ivalice e il lago dei cigni. Gabranth era di guardia al principe Larsa, che aveva allora dodici anni e un raffreddore e che avrebbe dovuto essere a letto, e che invece era sceso nei giardini con un libro sotto il braccio e si era seduto sul bordo del lago a guardare i cigni, avvolto in un mantello troppo grande. Gabranth era rimasto in piedi a dieci passi, come voleva il regolamento. Per un'ora. Il principe aveva letto. Ogni tanto alzava la testa a guardare i cigni.
+Era stato ad Archades, alla fine dell'inverno. Nei giardini alti del palazzo imperiale, quelli con gli alberi portati da ogni parte di Ivalice e il lago dei cigni. Gabranth era di guardia al principe Larsa, che aveva allora undici anni e un raffreddore e che avrebbe dovuto essere a letto, e che invece era sceso nei giardini con un libro sotto il braccio e si era seduto sul bordo del lago a guardare i cigni, avvolto in un mantello troppo grande. Gabranth era rimasto in piedi a dieci passi, come voleva il regolamento. Per un'ora. Il principe aveva letto. Ogni tanto alzava la testa a guardare i cigni.
 
 Poi, senza voltarsi, aveva parlato.
 
@@ -172,13 +172,13 @@ Veniva dal fondo del corridoio, dalla scala di servizio che saliva dal cortile, 
 
 L'uomo sbucò in cima alla scala.
 
-Era un uomo di mezza età, di statura media, con i capelli grigi pettinati all'indietro e una barba corta e appuntita, e portava un cappotto lungo da viaggio di un rosso scuro, aperto su un panciotto pieno di tasche, e da ogni tasca spuntava qualcosa: una lente, un compasso, un mazzo di fogli arrotolati, un cristallo con un filo di rame attorno. Aveva gli occhiali sulla fronte. Camminava in fretta, con le mani che si muovevano mentre parlava, e mentre parlava guardava di lato, in un punto preciso accanto alla sua spalla sinistra, dove non c'era niente.
+Era un uomo vicino ai sessant'anni, di statura media, con i capelli d'argento pettinati all'indietro, barba e baffi d'argento, e portava un lungo soprabito rosso cupo e viola con ornamenti d'oro, aperto su un panciotto pieno di tasche, e da ogni tasca spuntava qualcosa: una lente, un compasso, un mazzo di fogli arrotolati, un cristallo con un filo di rame attorno. Aveva un paio di occhiali ovali d'argento sulla fronte e guanti bianchi. Camminava in fretta, con le mani che si muovevano mentre parlava, e mentre parlava guardava di lato, in un punto preciso accanto alla sua spalla sinistra, dove non c'era niente.
 
 Vide il Giudice e non si fermò. Lo superò parlando.
 
 «...le redini, ecco, le redini, è la parola giusta, l'ho detto anch'io stamattina e non me ne ricordavo. Le redini della storia tornano in mano agli uomini. Agli uomini! Non a...» Si interruppe, perché aveva visto Pukko, e guardò il moguri dall'alto in basso con un interesse sincero e del tutto scientifico, come si guarda un esemplare raro su un banco di laboratorio. «Che bel pompon. Funziona?»
 
-Pukko non seppe cosa rispondere. L'uomo non aspettò. Arrivò alla porta degli appartamenti, si fermò, si tirò giù gli occhiali dalla fronte sul naso, e si sistemò i polsini del cappotto con due piccoli gesti precisi, prima uno e poi l'altro.
+Pukko non seppe cosa rispondere. L'uomo non aspettò. Arrivò alla porta degli appartamenti, si fermò, si tirò giù gli occhiali dalla fronte sul naso, e si sistemò i polsini del soprabito con due piccoli gesti precisi, prima uno e poi l'altro.
 
 Poi entrò senza bussare.
 
