@@ -38,7 +38,7 @@ Vaan non se ne accorse. Aveva sentito *lasciata andare* e *stamattina* e qualcos
 
 «Dove?» disse. «Dove l'avete lasciata? Quale strada?»
 
-«Non lo so. Non mi interessa.» Ba'Gamnan fece un passo avanti, e i suoi tre fecero un passo avanti con lui, insieme. «Adesso mi interessa il pirata. E mi interessa» e qui girò gli occhi gialli oltre Vaan, oltre Basch, fino al ragazzo con la giacca verde che era rimasto contro la parete con una mano nella tasca interna «anche il piccolo signore. Bel vestito. Belle mani. Uno con quelle mani, se lo porti a casa sua, qualcuno ti dà più di ventimila.» Sorrise. «Oggi è una giornata fortunata.»
+«Non lo so. Non mi interessa.» Ba'Gamnan fece un passo avanti, e i suoi tre fecero un passo avanti con lui, insieme. «Adesso mi interessa il pirata. E mi interessa» e qui girò gli occhi gialli oltre Vaan, oltre Basch, fino al ragazzo con la casacca scura che era rimasto contro la parete con una mano nella tasca interna «anche il piccolo signore. Bel vestito. Belle mani. Uno con quelle mani, se lo porti a casa sua, qualcuno ti dà più di ventimila.» Sorrise. «Oggi è una giornata fortunata.»
 
 Balthier sospirò. «Ba'Gamnan, sei di una volgarità commovente.»
 
@@ -90,7 +90,7 @@ Hadu si alzò, prese il bollitore dal gancio e, con grande calma, ne vuotò il c
 
 Si fermarono soltanto al primo livello, sotto le prime lampade a olio, dove la luce era di nuovo gialla e calda e la roccia di nuovo roccia. Le grida dietro di loro erano finite. Fran ascoltò a lungo, con le orecchie tese verso il basso, e alla fine fece un piccolo cenno con la testa.
 
-Balthier si appoggiò alla parete e si lasciò scivolare fino a sedersi per terra, con le gambe allungate, il cappello di traverso.
+Balthier si appoggiò alla parete e si lasciò scivolare fino a sedersi per terra, con le gambe allungate, il gilet ricamato sbottonato e i capelli in disordine.
 
 «Se dovessi farlo ancora una volta» disse al soffitto «potrei seriamente prendere in considerazione l'idea di cambiare mestiere.»
 
@@ -120,11 +120,11 @@ L'uscita della miniera dava su un largo spiazzo di pietra, con le baracche dei t
 
 «Fermo.»
 
-Sullo spiazzo c'erano dei soldati. Una dozzina, in armatura, e in mezzo a loro un'armatura più alta, con l'elmo a cresta e il mantello verde. Il Giudice Ghis stava parlando con qualcuno. Accanto a lui, con le mani nelle maniche, c'era il vecchio marchese, e i due servitori carichi di registri, che avevano l'aria di chi aspetta da ore.
+Sullo spiazzo c'erano dei soldati. Una dozzina, in armatura, e in mezzo a loro un'armatura più alta, con l'elmo a corna e l'armatura d'oro, bianco e rosso. Il Giudice Ghis stava parlando con qualcuno. Accanto a lui, con le mani nelle maniche, c'era il vecchio marchese, e i due servitori carichi di registri, che avevano l'aria di chi aspetta da ore.
 
 E c'era Lamont.
 
-Vaan non lo aveva visto andare. Nessuno lo aveva visto. Doveva essere uscito dall'arco per primo mentre loro si fermavano, senza una parola, ed era già a metà dello spiazzo, con la giacca verde rimessa in ordine e il passo tranquillo, e i soldati si erano girati tutti verso di lui, e uno aveva fatto un passo avanti e poi si era fermato come se non sapesse cosa fare delle proprie braccia.
+Vaan non lo aveva visto andare. Nessuno lo aveva visto. Doveva essere uscito dall'arco per primo mentre loro si fermavano, senza una parola, ed era già a metà dello spiazzo, con la casacca rimessa in ordine e il passo tranquillo, e i soldati si erano girati tutti verso di lui, e uno aveva fatto un passo avanti e poi si era fermato come se non sapesse cosa fare delle proprie braccia.
 
 «Ma che fa?» sussurrò Vaan.
 
@@ -132,7 +132,7 @@ Vaan non lo aveva visto andare. Nessuno lo aveva visto. Doveva essere uscito dal
 
 Vaan non capì. Poi la vide.
 
-Stava fra due soldati, un poco discosta, con le mani davanti al corpo. Non erano legate, ma uno dei due soldati le teneva una mano sulla spalla, non forte, nel modo in cui si tiene un oggetto che non deve scappare. Aveva i vestiti di sempre, quelli della bottega, con il gilet rosso stinto e la gonna corta per correre, e le trecce mezze disfatte, con i due nastri ancora al loro posto, e una fasciatura fatta alla meglio sul palmo di una mano. Aveva la faccia sporca di polvere grigia. Non piangeva. Guardava il Giudice con un'aria che Vaan conosceva molto bene, perché era la stessa che riservava a lui quando tornava a casa all'alba con un occhio nero: un'aria che non aveva nessuna intenzione di farsi impressionare.
+Stava fra due soldati, un poco discosta, con le mani davanti al corpo. Non erano legate, ma uno dei due soldati le teneva una mano sulla spalla, non forte, nel modo in cui si tiene un oggetto che non deve scappare. Aveva i vestiti di sempre, quelli della bottega, con il vestito azzurro stinto e gli stivali alti, e i codini mezzi disfatti, con i due nastri ancora al loro posto, e una fasciatura fatta alla meglio sul palmo di una mano. Aveva la faccia sporca di polvere grigia. Non piangeva. Guardava il Giudice con un'aria che Vaan conosceva molto bene, perché era la stessa che riservava a lui quando tornava a casa all'alba con un occhio nero: un'aria che non aveva nessuna intenzione di farsi impressionare.
 
 Penelo.
 
@@ -170,7 +170,7 @@ Era la stessa voce. Ma era stata tirata fuori da un'altra parte, da un posto pi�
 
 Ghis non rispose.
 
-Fu un silenzio di tre o quattro respiri, e Vaan lo sentì passare sullo spiazzo, sopra le armature dei soldati, sopra i registri dei servitori, sopra la testa bassa del marchese, che però non era abbassata del tutto, e sotto il turbante aveva gli occhi che si muovevano dall'uno all'altro con un interesse molto vivo.
+Fu un silenzio di tre o quattro respiri, e Vaan lo sentì passare sullo spiazzo, sopra le armature dei soldati, sopra i registri dei servitori, sopra la testa bassa del marchese, che però non era abbassata del tutto, e sotto le sopracciglia bianche aveva gli occhi che si muovevano dall'uno all'altro con un interesse molto vivo.
 
 Lamont si voltò verso il vecchio.
 
@@ -186,7 +186,7 @@ A metà dello spiazzo, girò la testa.
 
 Non poteva vederli. L'arco era in ombra e loro stavano nell'ombra dell'arco. Ma Penelo girò la testa proprio da quella parte, verso la bocca della miniera, come se sapesse, e i suoi occhi passarono sull'arco e ci si fermarono. Si allargarono. Vaan sentì che lo stava guardando, lui, in mezzo al buio, e alzò una mano senza pensare.
 
-Lamont, accanto a lei, le strinse le dita. Lei non rispose. Chiuse la bocca che aveva aperto e guardò avanti, e salì la scalinata al fianco del ragazzo con la giacca verde, e sparì dietro la prima curva.
+Lamont, accanto a lei, le strinse le dita. Lei non rispose. Chiuse la bocca che aveva aperto e guardò avanti, e salì la scalinata al fianco del ragazzo con la casacca scura, e sparì dietro la prima curva.
 
 Ghis rimase fermo sullo spiazzo a guardarli andare. Poi fece un gesto ai soldati, secco, e i soldati si mossero, metà verso la scalinata dietro al ragazzo, a distanza, e metà verso il molo. Passò accanto al marchese senza guardarlo.
 
@@ -206,6 +206,6 @@ Quando lo spiazzo fu vuoto, Vaan uscì dall'arco così in fretta che Basch non r
 
 Guardò Basch, che non rispose. Guardò Fran, che guardava Balthier.
 
-E Balthier, che si era fermato sotto l'arco con le braccia conserte e il cappello finalmente dritto, sospirò come chi si toglie un sasso dalla scarpa dopo averlo portato per tutta la giornata.
+E Balthier, che si era fermato sotto l'arco con le braccia conserte e i capelli finalmente rimessi in ordine, sospirò come chi si toglie un sasso dalla scarpa dopo averlo portato per tutta la giornata.
 
 «Va bene» disse. «Te lo dico.»

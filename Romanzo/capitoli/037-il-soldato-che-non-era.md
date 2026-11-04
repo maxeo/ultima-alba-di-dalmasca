@@ -42,7 +42,7 @@ Il soldato cadde. Il sesto rimase in piedi.
 
 Nel corridoio ci fu un silenzio rotto soltanto dal respiro di Vaan e da un gemito che veniva dal soldato con il ginocchio storto. Tutti guardarono il sesto. Il sesto si guardò attorno, rapidamente, verso le due estremità del corridoio. Poi rinfoderò la spada, portò le mani all'elmo e se lo tolse.
 
-Era un uomo sulla quarantina, con la testa rasata e una barba scura e corta, una faccia larga e dura, con una cicatrice che gli scendeva dalla tempia alla mascella. Aveva gli occhi infossati e attenti, e li puntò su Basch.
+Era un uomo alto e massiccio, abbronzato, con i capelli scuri, una barba di qualche giorno e un collare di cuoio che gli spuntava dal colletto, e una faccia larga e dura, con una cicatrice che gli scendeva dalla tempia alla mascella. Aveva gli occhi infossati e attenti, e li puntò su Basch.
 
 «Vossler» disse Basch.
 

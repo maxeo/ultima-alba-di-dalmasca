@@ -30,7 +30,7 @@ Basch girò appena la testa.
 
 «Il muro di Nalbina era più interessante» disse Basch. «Aveva le crepe.»
 
-Vaan aprì la bocca per rispondere, e non trovò niente, e la richiuse. Balthier, sdraiato sulla panca dall'altra parte con il cappello sulla faccia, emise un suono che poteva essere un russare o una risata.
+Vaan aprì la bocca per rispondere, e non trovò niente, e la richiuse. Balthier, sdraiato sulla panca dall'altra parte con un braccio sugli occhi, emise un suono che poteva essere un russare o una risata.
 
 Fu verso l'alba che la griglia parlò.
 
@@ -44,7 +44,7 @@ Vaan si avvicinò. «Io.»
 
 «Ti credevo più alto.» Il moguri si guardò alle spalle, nel condotto, e abbassò ancora la voce. «Mi chiamo Hurdy... no, aspetta, Hurdy è mio cugino. Io sono Gurdy. Meccanico di terza sulla nave corriera, che è attraccata da un'ora al ponte basso. Ho un messaggio. Me lo ha dato il cugino del cugino di Montblanc, che lo ha avuto da Montblanc, che lo ha avuto da un garzone, che lo ha avuto da suo zio che accende le lampade dal console.» Prese fiato. «È tutto vero, kupò. Lo zio non mente mai, perché non parla quasi mai.»
 
-«Dal console» ripeté Balthier. Si era tolto il cappello dalla faccia e si era messo a sedere.
+«Dal console» ripeté Balthier. Si era tolto il braccio dagli occhi e si era messo a sedere.
 
 «Due cose, kupò. La prima è per lui.» Il moguri indicò Basch con una zampa che spuntò fra le sbarre. «Il Giudice con l'armatura scura, quello di Nalbina, ha saputo che sei qui. Ha detto che ti vuole uccidere lui. Con le sue mani. Il console gli ha detto di no, per adesso. Per adesso, kupò.»
 
@@ -84,7 +84,7 @@ La sala di comando del Leviatano stava in cima a una torre, e ci si arrivava per
 
 La sala era grande e semicircolare, e la parete curva era tutta di vetro, e di là dal vetro c'era il cielo dell'alba sopra il mare di nuvole, rosa e oro, con le altre navi della flotta ferme in formazione come pesci in un acquario. Ufficiali in grigio lavoravano a banchi pieni di cristalli che si accendevano e si spegnevano. Nessuno di loro alzò la testa quando entrarono.
 
-Il Giudice Ghis stava in piedi davanti al vetro, con le mani dietro la schiena, il mantello verde e l'elmo a cresta. Si voltò al rumore delle catene.
+Il Giudice Ghis stava in piedi davanti al vetro, con le mani dietro la schiena, l'armatura d'oro, bianco e rosso, e l'elmo a corna. Si voltò al rumore delle catene.
 
 «Ah» disse. «I miei ospiti.»
 
@@ -92,7 +92,7 @@ Ma Vaan non lo guardava. Nessuno di loro lo guardava.
 
 Accanto al Giudice, a tre passi da lui, fra due soldati, c'era una donna.
 
-La riconobbe subito. L'aveva vista per l'ultima volta nei canali sotto il palazzo, in mezzo all'acqua nera e ai fanali, con la spada in mano e la faccia sporca, che gli diceva di stare zitto e di camminare. Adesso non aveva la spada. Indossava ancora i vestiti dei canali, il corpetto rosso e bianco, strappato su una spalla e macchiato di fango secco; aveva i capelli chiari raccolti male e un livido violaceo sullo zigomo destro. Le avevano legato i polsi davanti. Stava dritta. Guardava Ghis con un disprezzo così puro, così privo di paura, che i due soldati ai suoi fianchi stavano un poco discosti, come se temessero di bruciarsi.
+La riconobbe subito. L'aveva vista per l'ultima volta nei canali sotto il palazzo, in mezzo all'acqua nera e ai fanali, con la spada in mano e la faccia sporca, che gli diceva di stare zitto e di camminare. Adesso non aveva la spada. Indossava ancora i vestiti dei canali, il corpetto rosso e bianco, strappato su una spalla e macchiato di fango secco; aveva i capelli biondo sabbia, corti sopra le spalle e spettinati, e un livido violaceo sullo zigomo destro. Le avevano legato i polsi davanti. Stava dritta. Guardava Ghis con un disprezzo così puro, così privo di paura, che i due soldati ai suoi fianchi stavano un poco discosti, come se temessero di bruciarsi.
 
 Amalia.
 
@@ -106,7 +106,7 @@ Basch fece un passo avanti. I soldati lo lasciarono fare. Poi si fermò, a cinqu
 
 La donna si voltò.
 
-Per un lungo momento non fece niente. Lo guardò. I suoi occhi andarono dalla barba tagliata male al taglio sotto lo zigomo, alla cicatrice sul sopracciglio, ai capelli, e Vaan vide il momento esatto in cui lo riconobbe, perché le si aprì la bocca, appena, e la mano sinistra, legata all'altra, si chiuse a pugno così forte che le nocche diventarono bianche.
+Per un lungo momento non fece niente. Lo guardò. I suoi occhi andarono dalla barba accorciata al taglio sotto lo zigomo, alla cicatrice sul sopracciglio, ai capelli, e Vaan vide il momento esatto in cui lo riconobbe, perché le si aprì la bocca, appena, e la mano sinistra, legata all'altra, si chiuse a pugno così forte che le nocche diventarono bianche.
 
 Poi attraversò la sala.
 
