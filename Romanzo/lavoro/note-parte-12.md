@@ -22,3 +22,11 @@
 - Altari: scelta della "conoscenza della strada" voluta da Reddas; la strada torna ad Ashe dopo il terzo guardiano.
 - Penelo dice a Reddas dei due fratelli maggiori (fix `file02:136`): "uno a Nalbina e uno non si sa". Controllare coerenza con i blocchi precedenti.
 - Basch e Reddas combattono "come usciti dalla stessa scuola": traccia per il cap. 96.
+
+## Cap. 94
+- Circa 3.150 parole. Pianerottolo: Penelo ("li vedo meglio adesso"), Vaan (non si è accorto di aver smesso di odiare Basch, come non si accorse della morte di Reks), Reddas sui fantasmi e sul "cambiare nome". Sguardo Basch-Reddas.
+- Inventato il nome del fratello maggiore di Penelo, Dorran, con il dente storto. Se i blocchi precedenti hanno già dato nomi, va allineato.
+- Vaan ricorda Reks con un fiore bianco schiacciato in mano (gigli, cap. 8). Il richiamo vero ai gigli resta per la Parte XIII.
+- Lista di Balthier "per il registro", con "il protagonista"; Fran: Raithwall non aveva senso dell'umorismo, "ho letto la porta".
+- Basch ad Ashe: Dalmasca è gente che aspetta il pane, "non per lui" (Rasler).
+- Chiusura: Ashe estrae la Spada del Patto; il cap. 95 parte da lì.
