@@ -8,7 +8,7 @@
 - La Strahl passa sopra Rabanastre senza nome: lasciata ambigua.
 
 ## Cap. 8
-- Circa 4.600 parole, oltre la media: la caccia è comica e Montblanc nasce qui. Si può stringere il viaggio nell'Estersand.
+- Circa 4.600 parole, oltre la media: la caccia è comica e Montblanc nasce qui. Si può stringere il viaggio nel deserto orientale.
 - Montblanc compare alla Sandsea come capo di "un circolo" di cacciatori e informatori; niente meccanica, solo il patto notizia per lasciapassare.
 - Gigli allineati alla revisione: vaso verde crepato della madre, promessa di Reks al cap. 4.
 - Tolta la vicina "Mirka".

@@ -22,3 +22,11 @@
 | Deposito dei beni sequestrati: bambola di pezza con un cartellino di due anni prima | 20 | facoltativo | aperto |
 | Porta a sesto acuto con cerchi e lettere azzurrine; le parole antiche del Giudice; la pietra sotto la camicia si scalda | 20 | 21, 22 | aperto |
 | "Laggiù c'è qualcuno che respira piano" (Fran) | 20 | 21 | aperto |
+| Basch prende Vaan per il polso attraverso le sbarre durante la caduta | 22 | 26 | aperto |
+| Bottone di madreperla di Bhujerba perso dal polsino di Balthier | 22 | facoltativo, 28 (Bhujerba) | aperto |
+| "Nessuno si fida di nessuno: la base più solida per un'alleanza" | 22 | 25, 50 | aperto |
+| Spada arrugginita raccolta da Basch fra i detriti del pozzo | 22 | 24-25 (spada nuova a Rabanastre) | aperto |
+| Burrogh, Bangaa dei rottami con il cappello di feltro; fusibile di rame | 22 | facoltativo | aperto |
+| Al buio la voce di Basch fa a Vaan lo stesso fastidio della voce del Giudice senza elmo (gemelli) | 22 | 23, 24, ogni scena con i due | aperto |
+| Cicatrice bianca sul dorso della mano sinistra di Basch, vista da Vaan senza spiegazione | 22 | 23 (Reks e la manica), 26 | aperto |
+| Vaan ricomincia a contare (diciassette pioli) | 22 | con misura | aperto |

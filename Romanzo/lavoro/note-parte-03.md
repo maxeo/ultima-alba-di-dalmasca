@@ -16,3 +16,8 @@
 - Circa 2.800 parole. Il Giudice resta senza nome e senza volto; scende con due soldati, come al cap. 21. L'ufficiale grasso (Tullian, inventato) torna su prima della scala.
 - Il cambio d'aria fra caldo e freddo resta al cap. 21, oltre la porta.
 - "Licenza" del Bangaa resa sempre con "permesso", per evitare il lessico di gioco.
+
+## Cap. 22
+- Circa 3.000 parole. Parte da Vaan sul ponte di assi aggrappato alla gabbia, come chiede il via libera: il ponte, agganciato alla gabbia, lo trascina giù; Basch lo tiene per il polso.
+- Mimic ridotti a "mimi" e "mangiatori" in un paragrafo. Il mostro grande (Regina dei Mimic) resta annunciato da Fran: entra al cap. 24, compresso.
+- La cicatrice della mano sinistra di Basch si vede, senza spiegazione. Se il regista preferisce tenerla tutta per il cap. 26, si toglie il paragrafo.
