@@ -18,3 +18,13 @@ Stessa tabella di `agganci.md`. Le voci dei capitoli 1 e 21 sono già in `agganc
 | Raminas: "qualcuno deve restare fuori dal foglio", Ashe che non si è mai inginocchiata | 3 | 6 (la menzogna del suicidio); Parte VI (la spada di una regina) | aperto |
 | Spada di Raminas: Ashe la rimanda al padre, che la porta a Nalbina | 3 | 5 (la spada accanto a Raminas morente) | aperto |
 | Lista dei volontari: Basch lascia il nome del diciassettenne "con un fratello più piccolo, sopra la bottega di un bangaa" | 3 | 4 | aperto |
+| Stanza sopra la bottega di Migelo: odore di cumino, vaso verde crepato con lo stelo morto, tacche dell'altezza sulla trave | 4 | 21 (il letto di Reks); 26 (le ferite); Parte XIII (Vaan torna nella stanza) | aperto |
+| Ciocca sopra l'orecchio sinistro di Vaan tagliata male: "quando torno la sistemo" | 4 | 5 (ultimo pensiero di Reks); possibile ritorno al cap. 26 o nel finale | aperto |
+| Gigli di Galbana nel vaso della madre; promessa di andarli a prendere insieme | 4 | 8 (Vaan li raccoglie), 19 (il sogno), Parte XIII | aperto |
+| "Qualcuno deve restare a casa, altrimenti non si torna da nessuna parte" | 4 | 112 (Vaan parte con la Strahl); ciò che manca a Vaan per tutto il romanzo | aperto |
+| "Se Basch non ti riporta a casa vado a Nalbina e lo ammazzo" | 4 | 21 (Vaan davanti alla gabbia) | aperto |
+| Manifesto del pirata con il nome macchiato e il naso "ad ascia" | 4 | 14 (Balthier: possibile battuta sul ritratto) | aperto |
+| Fasciatura azzurra sulla mano sinistra di Basch, dalla manica di Reks, nodo doppio "delle casse" | 4 | 5 (l'uomo con la faccia di Basch ha la mano sinistra nuda e intatta); 23 (Basch racconta, se serve) | aperto |
+| "Il furiere te la farà pagare. Due gil. Pagali volentieri" | 4 | Facoltativo: Basch lo ricorda a Vaan (cap. 26) | aperto |
+| Orren, cavaliere anziano che si ripara dietro il torrione | 4 | 5 (morto negli appartamenti del re) | aperto |
+| Ordine di Basch: "verso le cisterne, non verso di noi" | 4 | 5 (Reks disobbedisce e sale) | aperto |

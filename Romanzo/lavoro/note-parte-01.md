@@ -16,3 +16,12 @@
 - La spada di Raminas passa da Basch ad Ashe, che la rimanda al padre: Raminas la porta a Nalbina e la ritroviamo nel cap. 5.
 - Inventato: la sagrestia, il pianto senza testimoni, il paramento bagnato. Il "pugno" di Rasler viene chiarito ad Ashe, non a Basch.
 - I cavalieri che tornano con l'allarme sono undici su sessanta. Basch sceglie venti uomini; Reks è nella lista ma non viene nominato, il nome arriva al cap. 4.
+
+## Capitolo 4
+
+- Circa 3.100 parole. La scena in casa è la sera prima della partenza; il furiere del cap. 3 è lo stesso.
+- Penelo ha quindici anni, come Vaan nel 704, e due fratelli maggiori che le insegnano il bastone (`fix-e-mancanze`).
+- Il pirata del manifesto non ha nome (macchia d'inchiostro): non voglio un Vaan che conosce Balthier prima del cap. 14. Il blocco A può riprendere il naso "ad ascia".
+- Il gesto di Reks: fascia la mano sinistra ferita di Basch con la propria manica. È il dettaglio che non torna nel cap. 5.
+- Il Remora è chiamato "tagliavento": dieci righe, con il colpo di Basch descritto da fuori. La scelta di Reks è restare in piedi accanto al capitano.
+- Inventati Orren, il cavaliere anziano scettico, e il passato di Basch di guarnigione a Nalbina.
