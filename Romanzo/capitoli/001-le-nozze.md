@@ -2,7 +2,7 @@
 
 *Le nozze della principessa Ashelia con il principe Rasler di Nabradia furono, prima di ogni altra cosa, un atto di prudenza. Due case antiche e due regni piccoli, stretti fra potenze che non conoscevano misura, scelsero di presentarsi al mondo come una cosa sola. Re Raminas, mio amico di lunga data, me ne scrisse con la sobrietà che gli era propria: un confine in comune, scriveva, si difende meglio se lo si chiama famiglia.*
 
-*Ho letto in seguito molte pagine sull'amore dei due sposi. Le perdono ai poeti, che ne hanno bisogno per vivere. Lo storico deve limitarsi a osservare che il trattato di parentela fu negoziato per undici mesi, che la dote fu stimata in grano e non in oro, e che nessuno dei due principi era nella condizione di rifiutare. Se poi si vollero bene, e mi dicono di sì, fu una grazia aggiunta, che non mutò il corso degli eventi.*
+*Ho letto in seguito molte pagine sull'amore dei due sposi. Le perdono ai poeti, che ne hanno bisogno per vivere. Lo storico deve limitarsi a osservare che il trattato di parentela fu negoziato per undici mesi, che la dote fu stimata in grano e non in oro, e che nessuno dei due sposi era nella condizione di rifiutare. Se poi si vollero bene, e mi dicono di sì, fu una grazia aggiunta, che non mutò il corso degli eventi.*
 
 *Halim Ondore IV, marchese di Bhujerba, Memorie, libro primo*
 
@@ -40,7 +40,7 @@ Dietro i cavalieri venivano i chocobo.
 
 Le cronache di palazzo giurano che erano dodici, tutti dorati, tutti appaiati per altezza e per tono di piuma. Un venditore di datteri della Città Bassa, molti anni dopo, ne contava otto e ricordava i nomi di ciascuno, perché li aveva nutriti lui nelle stalle reali durante la settimana delle prove. Sulla questione dei numeri lascio che litighino fra loro; sui nomi il venditore di datteri è più credibile, perché nessuna cronaca di palazzo avrebbe chiamato Pancia un uccello della casa reale. I chocobo avevano finimenti di cuoio rosso e campanelli d'argento sotto il becco, e camminavano con quel passo un po' offeso che i chocobo assumono quando li si costringe ad andare piano. La carrozza che tiravano era aperta, bianca e oro, con le ruote alte e un baldacchino di garza che non riparava dal sole ma serviva a farsi guardare attraverso.
 
-Ai petali i chocobo non erano preparati. La prima manciata arrivò da un balcone sopra la via dei Tessitori, e Pancia, che stava in seconda fila a sinistra, si fermò di colpo per beccarla. Il chocobo dietro gli finì addosso. Per un lungo istante la carrozza reale di Dalmasca, con i due principi a bordo, restò immobile in mezzo alla folla, mentre un uccello grande come un cavallo mangiava gelsomino con la gravità di un prelato.
+Ai petali i chocobo non erano preparati. La prima manciata arrivò da un balcone sopra la via dei Tessitori, e Pancia, che stava in seconda fila a sinistra, si fermò di colpo per beccarla. Il chocobo dietro gli finì addosso. Per un lungo istante la carrozza reale di Dalmasca, con gli sposi a bordo, restò immobile in mezzo alla folla, mentre un uccello grande come un cavallo mangiava gelsomino con la gravità di un prelato.
 
 La folla rise. La principessa, sotto il velo, no.
 
@@ -146,7 +146,7 @@ Lei sapeva che il re di Nabradia non era venuto. Lo sapeva tutta la corte, ed er
 
 «Gli piacerai. Ti troverà insopportabile, e gli piacerai moltissimo.»
 
-La carrozza uscì dall'arco nella luce della piazza, e la cattedrale si alzò davanti a loro con le sue cupole chiare, e le campane cominciarono a suonare tutte insieme, così forte che per un po' nessuno, né i principi né il popolo, poté più dire una parola.
+La carrozza uscì dall'arco nella luce della piazza, e la cattedrale si alzò davanti a loro con le sue cupole chiare, e le campane cominciarono a suonare tutte insieme, così forte che per un po' nessuno, né gli sposi né il popolo, poté più dire una parola.
 
 ---
 
@@ -186,7 +186,7 @@ Raminas li guardò uscire per primi, lungo la navata, nel rumore delle campane c
 
 Il banchetto si tenne nel cortile grande del palazzo, sotto tende di lino tirate fra le colonne, e durò fino al tramonto, perché a Rabanastre di giorno nessuno mangia volentieri e tutti mangiano molto appena il sole cala. C'erano agnelli arrostiti con il cumino e i datteri, focacce dei forni della Città Bassa, che il re aveva voluto al posto dei pani di corte per una questione di principio e di sapore, formaggi di capra delle Pianure di Giza in forme grandi come scudi. Il vino veniva da Nabradia, era scuro e un po' aspro, e i nobili dalmaschi lo bevevano facendo complimenti che non pensavano, e i nobili nabradiani lo bevevano ascoltando i complimenti con soddisfazione, e alla terza coppa le due nobiltà avevano smesso di distinguersi.
 
-L'ambasciatore di Archadia si avvicinò agli sposi a metà banchetto, con il segretario un passo indietro e un dono fra le mani. Era una coppia di calici di cristallo, così sottili che la luce delle lanterne ci passava attraverso senza quasi piegarsi, e sul piede di ciascuno era inciso lo stemma della casa imperiale. L'ambasciatore li presentò con un discorso breve e perfetto, in un dalmasco senza accento. Disse che l'imperatore Gramis inviava ai giovani principi l'augurio di un'unione lunga e serena, e che il cristallo era stato scelto perché è la materia che più somiglia alla pace: trasparente, preziosa e, purtroppo, fragile. Sorrise dicendolo. Poi si inchinò, e prima di ritirarsi si complimentò con Rasler per il coraggio di suo padre, che restava a Nabudis in tempi così inquieti. Rasler lo ringraziò con la stessa cortesia. Solo Ashe, che gli teneva la mano sotto la tavola, sentì le sue dita diventare di pietra.
+L'ambasciatore di Archadia si avvicinò agli sposi a metà banchetto, con il segretario un passo indietro e un dono fra le mani. Era una coppia di calici di cristallo, così sottili che la luce delle lanterne ci passava attraverso senza quasi piegarsi, e sul piede di ciascuno era inciso lo stemma della casa imperiale. L'ambasciatore li presentò con un discorso breve e perfetto, in un dalmasco senza accento. Disse che l'imperatore Gramis inviava ai giovani sposi l'augurio di un'unione lunga e serena, e che il cristallo era stato scelto perché è la materia che più somiglia alla pace: trasparente, preziosa e, purtroppo, fragile. Sorrise dicendolo. Poi si inchinò, e prima di ritirarsi si complimentò con Rasler per il coraggio di suo padre, che restava a Nabudis in tempi così inquieti. Rasler lo ringraziò con la stessa cortesia. Solo Ashe, che gli teneva la mano sotto la tavola, sentì le sue dita diventare di pietra.
 
 «Ha detto fragile» disse lei, quando l'ambasciatore se ne fu andato.
 
