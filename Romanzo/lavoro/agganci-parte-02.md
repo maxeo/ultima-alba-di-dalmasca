@@ -21,7 +21,7 @@
 | Ufficiale di Vayne "si segna" Vaan sul muro | 9 | 17-18 (arresto: Vaan riconosciuto?) | aperto |
 | Targhe doppie delle vie, pietra dalmasca e metallo archadiano | 9 | 25, 101 | aperto |
 | Vaan conta le finestre del palazzo: sei finestre buie sotto le cupole | 9 | 13-14 (tesoreria) | aperto |
-| Feste del console su tre sere; la terza è la grande cena con la vecchia nobiltà: notte del furto | 10 | 12-14 | aperto |
+| Feste del console su cinque sere; la quinta è la grande cena con la vecchia nobiltà: notte del furto | 10 | 12-14 | aperto |
 | "Sterminatore di topi": il soprannome del quaderno di Montblanc gira per la Città Bassa (gag della Parte II) | 10 | 11, 13, 16 (Balthier lo sente?) | aperto |
 | Da Dalan: tazza ancora calda, sedia tiepida, odore di cuoio e di spada; qualcosa di lungo avvolto in un panno sotto il materasso | 10 | 13 (Vossler e la Resistenza), 25 (Dalan e Basch) | aperto |
 | Dalan suggerisce la scusa "vado a Giza per Migelo" | 10 | 13 | aperto |
@@ -31,3 +31,8 @@
 | Penelo segna sul registro di Migelo le boccette prese: "le paghi tu" | 11 | 12 | aperto |
 | Contare le onde del vento a Giza: centoquattordici fino al guado | 11 | 12 o 26 (ricordo) | aperto |
 | Jinn, Masyua, Brunoa e la cockatrice "offesa" | 11 | facoltativo, Parte V (`file15`: Giza nella stagione delle piogge) | aperto |
+| Cena promessa da Penelo per la sera dopo il quinto giorno: agnello del console, datteri con la mandorla, bottiglia buona di Migelo | 12 | 18 (all'arresto Vaan dice che non ce la farà per la cena, `file05:140`) | aperto |
+| "Non vado da nessuna parte" / "Te lo dico prima, quando me ne vado": promessa a Penelo, subito tradita | 12 | 18, 26-27 (Vaan parte sulla Strahl: questa volta glielo dice?) | aperto |
+| I fratelli di Penelo hanno un nome: Kel (il più alto) e Doran; alle nozze lei era sulle spalle di Kel in via delle Fontane | 12 | 26 | aperto |
+| Pattuglia nella notte di Giza: la Resistenza "vuole fare qualcosa" alla cena grande; Vayne ordina di "lasciarli arrivare" | 12 | 13 (Vossler), 17 (trappola, cattura davanti a Vayne) | aperto |
+| Tazza vuota sul tavolino accanto al letto di Reks | 12 | 19, 26 | aperto |

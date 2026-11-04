@@ -20,7 +20,7 @@
 - Migelo paga l'affitto all'impero: dettaglio inventato, coerente con la bottega occupata.
 
 ## Cap. 10
-- Circa 2.500 parole. Le feste del console durano tre sere (uso di Archades): così il furto cade la sera della grande cena e il giro a Giza ci sta in mezzo. Il cap. 9 racconta la prima sera.
+- Circa 2.500 parole. Le feste del console durano cinque sere (uso di Archades): il cap. 9 è la prima sera, Dalan la terza, Giza il quarto giorno, ritorno all'alba del quinto, furto la quinta sera, durante la grande cena.
 - Dalan ha appena ricevuto un ospite (Vossler, non nominato) e nasconde una spada sotto il materasso: semi per il cap. 13 e il cap. 25.
 - Giza è breve, ferma sul crinale. La cockatrice chiude in comico.
 
@@ -29,3 +29,10 @@
 - Penelo arriva prima di Vaan con una carovana di Nalbina: gag. Lascia la bottega a Kytes.
 - Penelo combatte con il bastone di un fratello: prepara `file10:1334`.
 - Unico accenno a una fonte: "Penelo raccontò, molti anni dopo". Tolte le pietre di teletrasporto della fonte: sanno di oggetto da gioco.
+
+## Cap. 12
+- Circa 3.400 parole, sotto la soglia "Espanso": non ho trovato altro materiale che non fosse riempitivo. Il regista può chiedere una scena in più.
+- Aggiunta la pattuglia notturna: semina la trappola di Vayne (cap. 17) e dà a Vaan un motivo per scegliere proprio stasera.
+- Seminata la cena di `file05:140`, come chiede il fix: è la cena dell'agnello avanzato dal console, per la sera dopo.
+- Fratelli di Penelo: Kel e Doran. Nomi inventati, da confermare per il cap. 26.
+- Il narratore entra una volta in prima persona ("il narratore di questa storia deve dire") per la stanza piccola: controllare che non sia troppo.
