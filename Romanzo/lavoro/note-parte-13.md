@@ -24,7 +24,14 @@
 - Vaan vede dall'alto le vele degli Urutan coi profughi.
 
 ## Cap. 104
-- Circa 2.900 parole. Danza fra i caccia con Fran che guida a occhi chiusi nel fumo della Galuf-Val. Balthier "contento": Vaan capisce cosa vuole (essere dove nessuno ti raggiunge, e da lì fare la cosa giusta). Base per il cap. 112.
+- Circa 2.100 parole. Danza fra i caccia con Fran che guida a occhi chiusi nel fumo della Galuf-Val. Balthier "contento": Vaan capisce cosa vuole (essere dove nessuno ti raggiunge, e da lì fare la cosa giusta). Base per il cap. 112.
 - Balthier: "Qualcuno scriverà tutto questo. Voglio che scriva giusto": strizzata d'occhio al narratore, unica.
 - Gilgamesh, cenno finale: otto braccia rivelate qui (revisione generale), cerca l'armeria dei Giudici di Bahamut, riprende "ci rivediamo quando meno te lo aspetti" e "il tempo è un'invenzione dei vigliacchi", rubata da Basch. Battuta sul protagonista: "Quante braccia hai?" "Due" (Fran). Conseguenza concreta: sgombera la piattaforma, le guardie si arrendono.
 - Ashe prende una spada comune da una guardia.
+
+## Cap. 105
+- Circa 3.200 parole. Odore di vernice fresca e segni di gesso degli operai dentro Bahamut. Battuta di Basch "una regina può sempre scappare con un pirata" e risposta di Balthier secondo la fonte; Vaan: "non sei da sola".
+- Gabranth vivo: lo hanno trascinato via i soldati di Zargabaath (spiega il segno del cap. 99). Elmo sempre chiuso (regola dell'elmo).
+- Basch "maggiore di un'ora": inventato, da verificare con i capitoli di Landis.
+- Gabranth devia all'ultimo le lame davanti a Basch a guardia aperta; Basch lo prende fra le braccia. "Noah": il nome che la madre chiamava dalla finestra. Basch: "Vivi", e cita lo sfogo di Vaan del cap. 21.
+- Gabranth posa le spade: lo vede solo Basch. Basch chiude la mano sinistra con la cicatrice (revisione generale, cap. 4 e 26).
