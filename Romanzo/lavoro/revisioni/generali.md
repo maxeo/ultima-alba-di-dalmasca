@@ -24,4 +24,4 @@ Vedi `aspetto.md`, in questa cartella: è vincolante.
 
 ## Nomi di luogo
 
-- **Mai "Estersand".** Scrivi "il deserto a est di Dalmasca", "il deserto orientale" o "a oriente", in minuscolo. Decisione dell'autore. Correggi i tuoi capitoli.
+- **Mai "Estersand".** Decisione dell'autore. Usa più termini, variandoli: "il Deserto Orientale" come nome geografico, con la maiuscola; "il deserto a est di Dalmasca", "il deserto orientale" e "a oriente" nel parlato e nel racconto. Scegli in base al contesto. Correggi i tuoi capitoli.

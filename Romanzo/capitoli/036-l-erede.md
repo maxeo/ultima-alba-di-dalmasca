@@ -114,7 +114,7 @@ Lo fece a passi lunghi, rapidi, e i due soldati non fecero in tempo a trattenerl
 
 Il suono riempì la sala. Uno degli ufficiali ai banchi alzò la testa, finalmente.
 
-Basch non si mosse. La testa gli era andata di lato con il colpo e ci rimase un istante, e poi tornò dritta, e lui la guardò, e non disse niente, e non alzò le mani ammanettate per pararsi, e non fece un passo indietro. Sulla guancia, sopra il taglio di Bhujerba, gli si stava allargando una macchia rossa con la forma di quattro nocche.
+Basch non si mosse. La testa gli era andata di lato con il colpo e ci rimase un istante, e poi tornò dritta, e lui la guardò, e non rispose, e non alzò le mani ammanettate per pararsi, e non fece un passo indietro. Sulla guancia, sopra il taglio di Bhujerba, gli si stava allargando una macchia rossa con la forma di quattro nocche.
 
 «Tu.» La voce della donna era bassa e piena di qualcosa che non si poteva chiamare soltanto odio. «Tu osi. Tu osi presentarti davanti a me. Tu, con quella faccia, con quella voce, tu mi chiami maestà.» Le tremavano le mani legate. Non le abbassò. «Dovevi essere morto. Me lo avevano scritto. Me lo avevano scritto e io avevo pregato perché fosse vero, l'unica preghiera esaudita in due anni, e adesso sei qui. Dopo quello che hai fatto. Dopo mio padre.»
 
