@@ -102,7 +102,7 @@ Larsa non distolse lo sguardo. Si era ripromesso di non farlo, all'alba, vestend
 
 «Era una lezione.» Vayne si voltò finalmente verso di lui. «Ascoltami bene, Larsa, perché un giorno ti servirà. La Resistenza guarda. Ondore guarda. Rozarria guarda. E soprattutto quelli guardano.» Indicò con il mento, oltre il vetro, la città. «Adesso sanno che arrendersi non serve. Non c'è un drappo bianco abbastanza grande. Quindi verranno tutti, con tutto quello che hanno, perché non hanno altra scelta. E io li distruggerò tutti insieme, qui, una volta sola, davanti alla capitale di Dalmasca. Il popolo di Rabanastre vedrà morire i suoi difensori nel suo cielo.» Vayne lo disse con dolcezza. «E non si ribellerà mai più. Non lui, non i suoi figli, non i figli dei figli. Avrà visto. Questa è la pace, Larsa. È l'unica pace che dura. Le altre sono tregue fra due guerre.»
 
-Larsa lo guardò. Per molti anni, dopo, i cronisti di Archades avrebbero cercato di ricostruire quello che il principe disse in quel momento, e ne avrebbero date versioni diverse, tutte più belle di quella vera. Quella vera era più breve.
+Larsa lo guardò. Per molti anni, dopo, i cronisti di Archades avrebbero cercato di ricostruire quello che il principe disse sul ponte di Bahamut, e ne avrebbero date versioni diverse, tutte più belle di quella vera. Quella vera era più breve.
 
 «Ti sbagli.»
 
@@ -120,7 +120,7 @@ Larsa aprì la bocca, e non ne uscì niente.
 
 Si voltò di nuovo verso il vetro.
 
-Larsa rimase dov'era. Aveva capito, in quel momento, una cosa che a dodici anni non si dovrebbe capire, e la capì tutta intera, senza sconti: che nessuna frase, nemmeno la più giusta, avrebbe mai fatto cambiare strada a suo fratello. Che Vayne lo amava, forse, a modo suo. E che questo non cambiava niente.
+Larsa rimase dov'era. Aveva capito, lì, una cosa che a dodici anni non si dovrebbe capire, e la capì tutta intera, senza sconti: che nessuna frase, nemmeno la più giusta, avrebbe mai fatto cambiare strada a suo fratello. Che Vayne lo amava, forse, a modo suo. E che questo non cambiava niente.
 
 «Maestà.» L'ufficiale al banco di sinistra aveva di nuovo il tubo d'ottone all'orecchio. «Nuove unità a nord, maestà. Molte. È la flotta principale della Resistenza. L'ammiraglia di Bhujerba in testa. La Garland.»
 
