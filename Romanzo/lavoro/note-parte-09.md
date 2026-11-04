@@ -66,3 +66,5 @@
 - Da verificare dal regista: Reks alla porta di fondo (74), richiesta di Rasler a Basch (75), Gilgamesh compatibile con il cap. 41.
 
 FINE PARTE
+
+Aggiunta dopo la chiusura: al cap. 78 Gilgamesh ha la pelle grigia e rivela le sei braccia nel balzo (revisione `aspetto.md`).

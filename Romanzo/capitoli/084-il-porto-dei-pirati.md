@@ -40,7 +40,7 @@ La nave di Reddas li aveva portati fin lì in due giorni, da una baia segreta so
 
 Al molo li aspettavano tre persone.
 
-La prima era un hume giovane, alto, magro, con i capelli castani legati in una coda e un fazzoletto rosso al collo, e un modo di stare in piedi con il peso tutto su una gamba che sembrava studiato davanti allo specchio. La seconda era una donna minuta, con i capelli tagliati sopra le spalle e un coltello infilato nello stivale, che teneva le braccia conserte e la faccia di chi è stata svegliata troppo presto per un motivo che non approva. Il terzo era un seeq enorme, con un anello d'oro al naso e un grembiule da cuoco sopra la camicia, che sorrideva a tutti senza nessuna ragione evidente.
+La prima era un huma giovane, con i capelli scuri lunghi e arruffati, il pizzetto, una benda sull'occhio destro e un pezzo di catena spezzata che gli pendeva dal polso sinistro, e un modo di stare in piedi con il peso tutto su una gamba che sembrava studiato davanti allo specchio. La seconda era una donna minuta, con i capelli tagliati sopra le spalle e un coltello infilato nello stivale, che teneva le braccia conserte e la faccia di chi è stata svegliata troppo presto per un motivo che non approva. Il terzo era un seeq enorme, con un anello d'oro al naso e un grembiule da cuoco sopra la camicia, che sorrideva a tutti senza nessuna ragione evidente.
 
 «Il capo è tornato!» disse il seeq. «Il capo ha portato ospiti! Ho fatto la zuppa!»
 
@@ -68,7 +68,7 @@ La chiamavano la gara del molo, a Balfonheim, e la si faceva da quando esistevan
 
 Balthier non aveva voglia di giocare. Si vedeva. Aveva la faccia grigia di chi non dorme da due notti, e il fascicolo del Jagd Difohr gli gonfiava ancora la giacca. Ma Rikken gli aveva fatto una domanda davanti a una principessa, a un cavaliere e a due ragazzi di Rabanastre che lo guardavano, e Balthier era Balthier.
 
-Rikken tirò per primo. Cinque bottiglie, una dopo l'altra, con un ritmo pulito, senza fretta, il braccio teso e il fazzoletto rosso che si muoveva nel vento. La sesta la mancò di un soffio, e il colpo alzò uno schizzo d'acqua dietro la boa. Rikken imprecò con eleganza. Raz andò a rimettere le bottiglie, nuotando, con il grembiule da cuoco.
+Rikken tirò per primo. Cinque bottiglie, una dopo l'altra, con un ritmo pulito, senza fretta, il braccio teso e la catena spezzata che gli tintinnava al polso. La sesta la mancò di un soffio, e il colpo alzò uno schizzo d'acqua dietro la boa. Rikken imprecò con eleganza. Raz andò a rimettere le bottiglie, nuotando, con il grembiule da cuoco.
 
 Balthier tirò. Prima bottiglia. Seconda. Terza. Fra un colpo e l'altro faceva una pausa un po' troppo lunga, e si sistemava il colletto, e alla quarta disse ad alta voce, senza voltarsi:
 
@@ -207,7 +207,7 @@ Balthier chiuse gli occhi.
 
 «Verrai con noi?» chiese Ashe a Reddas.
 
-Reddas scosse la testa. «No, altezza. Io ho un'altra pista.» Toccò la tasca della giacca, dove qualcosa di rigido, carta piegata, faceva un rilievo. «A Draklor non ho trovato il dottore in tempo, ma ho trovato qualche foglio sulla sua scrivania prima che arrivaste. Parlano di un posto. Non so ancora quale, e non so ancora che cosa ci sia. Ma il dottore ci teneva abbastanza da nasconderlo sotto il resto.» Si strinse nelle spalle. «Voi seguite il padre. Io seguo le sue carte. Quando avrò capito qualcosa, ve lo farò sapere.»
+Reddas scosse la testa. «No, altezza. Io ho un'altra pista.» Toccò la camicia sul petto, dove qualcosa di rigido, carta piegata, faceva un rilievo. «A Draklor non ho trovato il dottore in tempo, ma ho trovato qualche foglio sulla sua scrivania prima che arrivaste. Parlano di un posto. Non so ancora quale, e non so ancora che cosa ci sia. Ma il dottore ci teneva abbastanza da nasconderlo sotto il resto.» Si strinse nelle spalle. «Voi seguite il padre. Io seguo le sue carte. Quando avrò capito qualcosa, ve lo farò sapere.»
 
 ---
 
@@ -269,7 +269,7 @@ Elza non era contenta. Lo disse a Rikken in un sussurro che arrivò a tutti, men
 
 «Il capo dice tante cose.»
 
-«Il capo ha detto di aiutarli» ripeté Rikken, e c'era nella sua voce, sotto il fazzoletto rosso e la posa davanti allo specchio, qualcosa di molto serio. «E quando il capo dice una cosa così, Elza, la dice perché ha un motivo. Non ce lo dice, il motivo. Non ce l'ha mai detto. Ma ce l'ha.»
+«Il capo ha detto di aiutarli» ripeté Rikken, e c'era nella sua voce, sotto la benda e la posa davanti allo specchio, qualcosa di molto serio. «E quando il capo dice una cosa così, Elza, la dice perché ha un motivo. Non ce lo dice, il motivo. Non ce l'ha mai detto. Ma ce l'ha.»
 
 Elza tacque. Raz, che non aveva sentito niente perché stava sistemando nella barca un pentolone di zuppa avvolto in tre coperte, si raddrizzò e fece il saluto a tutti.
 
@@ -291,4 +291,4 @@ Balthier guardò. Vaan stava esattamente come stava lui sul ponte della *Strahl*
 
 «Così... entusiasta.» Balthier salì sulla barca e si sedette a poppa, il più lontano possibile dalla prua. «È volgare.»
 
-Dalla finestra della casa sotto il faro, sulla collina, Reddas guardò la barca uscire dalla baia fra i due promontori. Quando la vela fu un punto bianco sul mare grigio dell'alba, chiuse la finestra, tornò al tavolo, e tirò fuori dalla tasca della giacca i fogli piegati presi sulla scrivania di Cid. Li spiegò sotto la lampada. In cima al primo c'era un disegno a penna: una torre, molto alta, su una costa. Sotto, nessun nome.
+Dalla finestra della casa sotto il faro, sulla collina, Reddas guardò la barca uscire dalla baia fra i due promontori. Quando la vela fu un punto bianco sul mare grigio dell'alba, chiuse la finestra, tornò al tavolo, e tirò fuori da sotto la camicia i fogli piegati presi sulla scrivania di Cid. Li spiegò sotto la lampada. In cima al primo c'era un disegno a penna: una torre, molto alta, su una costa. Sotto, nessun nome.
