@@ -20,3 +20,12 @@
 - Breve e comico come da scaletta. I nove apprendisti diventano nove piccole scene, ciascuna risolta da un personaggio diverso: Vaan sale, Penelo aspetta il pane, Fran guarda, Basch consola, Balthier vince a dadi.
 - Il nono apprendista e Ashe sul ramo davanti al mare: unico momento serio, che prepara il cap. 77.
 - Tre aeronavi imperiali sulla costa: motivano di nuovo la scelta di andare a piedi.
+
+## Cap. 77
+- Balthier rivela: Giudice, Cid padre, Venat. Il nome Ffamran resta per il cap. 81. "Sei anni" di fuga, come in bibbia (da verificare).
+- Ripreso l'elmo del cap. 21: Ashe lo sa da un racconto di Vaan; Balthier smonta la sua stessa battuta "Si legge di tutto, nelle lunghe sere a bordo".
+- Anello: Balthier lo tiene in una tasca interna, mette la mano sulla tasca e non lo tira fuori. Ashe capisce e non chiede. Nessuna restituzione.
+- Ricordo di Rasler sulla terrazza prima delle nozze: "nota a piè di pagina di una mappa"; Ashe "lo farò fino in fondo"; Rasler "non vorrei niente di diverso da te". Il ricordo non è un'apparizione.
+- Balthier su Nabudis: "Non so chi l'abbia fatto. So chi è capace di volerlo". Nessuna menzione di Zecht.
+- Chiusura su Fran: "Gliel'hai detto", non una domanda.
+- Nessuna battuta sul "protagonista": la scena resta seria; il filo riprende più avanti.
