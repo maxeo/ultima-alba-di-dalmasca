@@ -12,3 +12,9 @@
 - Montblanc compare alla Sandsea come capo di "un circolo" di cacciatori e informatori; niente meccanica, solo il patto notizia per lasciapassare.
 - Gigli: Reks li comprava per la brocca di casa. Il cap. 4 (altra sessione) deve essere coerente, o il regista adatta questo dettaglio.
 - Inventata "Mirka", vicina dell'infanzia: solo un nome.
+
+## Cap. 9
+- Circa 3.200 parole. Vayne ha 27 anni; "figlio terzo" dell'imperatore, come seme dei fratelli uccisi.
+- Accenno alle fonti: chi applaudì per primo (unica volta nei cap. 7-9).
+- Vayne nota Vaan sul muro e un ufficiale "se lo segna": non deve avere seguito esplicito, solo inquietudine. Se il regista lo trova troppo, si toglie la frase bassa all'ufficiale.
+- Migelo paga l'affitto all'impero: dettaglio inventato, coerente con la bottega occupata.

@@ -16,3 +16,8 @@
 | Migelo e la coda che batte (tac; tac doppio quando va storto); occhiali inutili alla catenella | 8 | 9, 25, 101-103 | aperto |
 | Ultimo rosso delle vigne della Porta Ovest, sacrificato da Migelo alle guardie | 8 | facoltativo, 26 | aperto |
 | Kytes non sa dire bugie a Penelo | 8 | 13, 25 | aperto |
+| Primo applauso a Vayne: un uomo con la barba corta vicino al cordone, sconosciuto al quartiere (claque?) | 9 | facoltativo, 102 (Bahamut su Rabanastre) | aperto |
+| Sahra: "Parla meglio di Raminas", poi si copre la bocca | 9 | 101-103 | aperto |
+| Ufficiale di Vayne "si segna" Vaan sul muro | 9 | 17-18 (arresto: Vaan riconosciuto?) | aperto |
+| Targhe doppie delle vie, pietra dalmasca e metallo archadiano | 9 | 25, 101 | aperto |
+| Vaan conta le finestre del palazzo: sei finestre buie sotto le cupole | 9 | 13-14 (tesoreria) | aperto |
