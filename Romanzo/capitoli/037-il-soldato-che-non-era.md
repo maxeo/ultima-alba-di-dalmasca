@@ -66,7 +66,7 @@ Basch gli tese i polsi. Vossler aprì le manette, poi le catene. Le sue mani era
 
 «Mi conosci.»
 
-«Ti conoscevo.» Vossler aprì le manette di Fran, che non disse grazie e non sembrò aspettarsi di doverlo dire. Poi si girò di nuovo verso Basch, e per la prima volta la faccia gli cambiò. «Due anni, Basch. Per due anni l'ho tenuta nascosta. Da tutti. Dagli imperiali, dai nostri, da quelli che dicevano di essere dei nostri e il giorno dopo vendevano un nome per un sacco di grano. Ho dubitato di chiunque. Di chiunque. Ho dormito con la spada sotto il cuscino e una mano sulla spada. Ho imparato che in guerra la fiducia è il modo più rapido di farsi ammazzare, e di far ammazzare lei.» Una pausa. «Quando sei venuto da me a Rabanastre, ti ho guardato e ho visto il nome sui muri. Non sei tu che ho visto. Ho visto il nome.»
+«Ti conoscevo.» Vossler aprì le manette di Fran, che non disse grazie e non sembrò aspettarsi di doverlo dire. Poi si girò di nuovo verso Basch, e per la prima volta la faccia gli cambiò. «Due anni, Basch. Per due anni l'ho tenuta nascosta. Da tutti. Dagli imperiali, dai nostri, da quelli che dicevano di essere dei nostri e il giorno dopo vendevano un nome per un sacco di grano. Ho dubitato di chiunque. Di chiunque. Ho dormito con la spada sotto il cuscino e una mano sulla spada. Ho imparato che in guerra la fiducia è il modo più rapido di farsi ammazzare, e di far ammazzare lei. Quando sei venuto da me a Rabanastre, ti ho guardato e ho visto il nome sui muri. Non sei tu che ho visto. Ho visto il nome.»
 
 Basch non disse niente.
 
@@ -152,15 +152,15 @@ Lo disse senza alzare la voce. Non lo guardava.
 
 Vaan non seppe se offendersi o no.
 
-«Altezza.» Era Vossler. Si era avvicinato e parlava piano, svelto, con la voce di chi ha passato due anni a convincere una donna testarda in luoghi dove non si poteva alzare la voce. «Non vi chiedo di perdonarlo. Non vi chiedo neanche di guardarlo. Ma in questo momento abbiamo bisogno della sua spada. Traditore o no, è il miglior spadaccino che Dalmasca abbia avuto in vent'anni. Io l'ho visto combattere. Voi no.» Una pausa. «È l'unico modo di arrivare vivi a una nave.»
+«Altezza.» Era Vossler. Si era avvicinato e parlava piano, svelto, con la voce di chi ha passato due anni a convincere una donna testarda in luoghi dove non si poteva alzare la voce. «Non vi chiedo di perdonarlo. Non vi chiedo neanche di guardarlo. Ma in questo momento abbiamo bisogno della sua spada. Traditore o no, è il miglior spadaccino che Dalmasca abbia avuto in vent'anni. Io l'ho visto combattere. Voi no. È l'unico modo di arrivare vivi a una nave.»
 
 Ashe lo fissò. Poi, senza rispondere, si voltò e riprese a camminare.
 
-Basch le andò davanti. Lei non disse niente.
+Basch le andò davanti. Lei non rispose.
 
 Vossler restò un passo indietro, e Basch rallentò quanto bastava per trovarsi al suo fianco per un tratto, nel rosso intermittente delle lampade. Davanti a loro la principessa camminava dritta, con le spalle tese e il pugno sinistro chiuso, e i suoi passi sul metallo erano più rapidi del necessario.
 
-«Non sopporta di sembrare debole» disse Vossler, a bassa voce, guardandola. «Davanti a nessuno. Davanti a se stessa ancora meno. Ha perso il padre e il marito e il trono in un mese, e poi per due anni ha dovuto fingere di non esistere. Ha dormito in cantine. Ha mangiato con i contadini di Giza. Ha imparato a usare la spada di notte, da sola, contro un palo, perché non voleva che io la vedessi sbagliare.» Una pausa. «E adesso deve accettare di essere salvata dall'uomo che crede le abbia tolto tutto. Non farà finta che non le costi niente. Non sa farlo.»
+«Non sopporta di sembrare debole» disse Vossler, a bassa voce, guardandola. «Davanti a nessuno. Davanti a se stessa ancora meno. Ha perso il padre e il marito e il trono in un mese, e poi per due anni ha dovuto fingere di non esistere. Ha dormito in cantine. Ha mangiato con i contadini di Giza. Ha imparato a usare la spada di notte, da sola, contro un palo, perché non voleva che io la vedessi sbagliare.» Esitò. «E adesso deve accettare di essere salvata dall'uomo che crede le abbia tolto tutto. Non farà finta che non le costi niente. Non sa farlo.»
 
 «Lo so» disse Basch.
 
