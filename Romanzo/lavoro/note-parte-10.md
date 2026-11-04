@@ -18,7 +18,7 @@
 - Il Frammento del Crepuscolo resta a Cid. Cid annuncia Giruvegan; nessun luogo della Crisalide.
 
 ## Cap. 84
-- Espanso, circa 4.400 parole. Ordine: Ondore sulla *Garland* (scrive sul retro dei dispacci archadiani, spilli bianchi, neri e rossi), arrivo a Balfonheim, gara del molo con Rikken, consiglio da Reddas, flashback Reddas-Ondore, canto di Fran, dialogo Ashe-Reddas, partenza.
+- Espanso, circa 4.100 parole. Ordine: Ondore sulla *Garland* (scrive sul retro dei dispacci archadiani, spilli bianchi, neri e rossi), arrivo a Balfonheim, gara del molo con Rikken, consiglio da Reddas, flashback Reddas-Ondore, canto di Fran, dialogo Ashe-Reddas, partenza.
 - **Flashback** (mancanza `file29:768`): Ondore chiede la Negalite; Reddas nomina il Frammento di Mezzaluce "perduto con Nabudis", rifiuta di dare pietre a qualunque esercito e annuncia la trappola di Rozarria. Il narratore smentisce con garbo le memorie del cap. 82 (unico accenno alle fonti della Parte).
 - **Rikken**: gara di tiro sulle bottiglie, cinque a cinque. Balthier: "Il protagonista non manca mai"; Fran: "Il protagonista ha mancato la quarta", e poi porta via la bottiglia intatta con una freccia. Nome di Fran sul muretto dei campioni.
 - **Reddas**: "un'altra pista", nessun nome di Ridorana né del Faro (correzione `file29:840-848`). In chiusura guarda da solo un disegno di torre su una costa, senza nome.
