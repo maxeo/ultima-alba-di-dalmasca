@@ -35,3 +35,11 @@
 - Basch "maggiore di un'ora": inventato, da verificare con i capitoli di Landis.
 - Gabranth devia all'ultimo le lame davanti a Basch a guardia aperta; Basch lo prende fra le braccia. "Noah": il nome che la madre chiamava dalla finestra. Basch: "Vivi", e cita lo sfogo di Vaan del cap. 21.
 - Gabranth posa le spade: lo vede solo Basch. Basch chiude la mano sinistra con la cicatrice (revisione generale, cap. 4 e 26).
+
+## Cap. 106
+- Circa 3.600 parole. Ashe: "Sono Ashe. E voglio essere libera". Vayne cita Raminas che non usò il Crepuscolo.
+- Larsa alza contro Vayne la spada da cerimonia con l'elsa d'argento: "se aspetto di avere la forza, intanto bruciano tutti". Ricordi inventati: regali di Vayne dalle città conquistate (uccello che parla).
+- Vayne Novus compresso: Negalite rossa "come sangue nell'acqua", spade di vetro (le Sephira, senza nome), "albero di lame". Accenno alle fonti: il cronista rinuncia a mettere d'accordo le versioni.
+- Gabranth torna senza spade, raccoglie quella di Larsa e la pianta nel petto di Vayne. L'elmo si spacca per un colpo, non per scelta: la regola dell'elmo regge. Volto di Basch con la bocca stretta. "Non sono il tuo cane. Mai più" (eco del cap. 97).
+- Pietra di Larsa decisiva (filo approvato): beve le spade, diventa nera e si incrina. "Scusa. Credo di averla rotta" a Penelo. Torna al cap. 111.
+- Vaan colpisce Vayne con la spada di Reddas; chiude con la frase di Elza del cap. 100.
