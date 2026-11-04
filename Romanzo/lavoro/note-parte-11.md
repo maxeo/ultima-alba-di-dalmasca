@@ -23,3 +23,11 @@
 - Scontro in un paragrafo: veli che cambiano colore, voci tolte, Balthier conta i colori, Basch tiene ferma la figura, Vaan colpisce.
 - Basch ad Ashe: "Niente che non sapessi già".
 - Chiusura sul nome intero di Ashe "come si legge un nome su un registro": aggancio al muro dei re (86) e al cap. 88.
+
+## Cap. 88
+- Gerun "parla per tutti", voce che informa, senza calore. Tredici seggi, uno vuoto (Venat): numero inventato, da verificare.
+- Racconto di Raithwall come ricevuta, non conquista; Ashe collega il muro dei re (86) e lo scalpello di Oskar (74): "gli dèi non avevano bisogno di scalpelli, avevano qualcuno che li teneva in mano per loro". **Filo del dubbio sulla storia scritta dai prescelti**, ripreso al cap. 89 e al 113.
+- Crisalide "nella torre sulla costa lontana", "chi è scelto la troverà": nessuno sa dove (correzione `file30:1044-1060`). Eco del canto di Fran (84).
+- Venat e la Negalite "fatta come il pane": l'unico momento in cui Gerun lascia intravedere qualcosa, un disgusto.
+- **Rasler non ha mai detto una parola**: Ashe se ne accorge qui. Il Rasler vero "non sarebbe stato zitto per mezza Ivalice". Prima crepa esplicita dell'illusione, senza dire che è un'illusione (`file32 IV`).
+- Mano di Ashe e mano di Rasler sull'elsa, "una mano sola"; arriva la voce di Vaan "che sapeva di pesche rubate" (cap. 1).
