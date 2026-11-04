@@ -10,3 +10,14 @@ Valgono per tutti i capitoli, anche per quelli già scritti: correggi i tuoi.
 - **Reks alla morte**: ferito al ventre a Nalbina e riportato vivo su un carro; non parla più. Vaan lo veglia. Fatti di cui Vaan non sa nulla: la mano nuda del finto Basch, le ultime parole.
 - **Mano sinistra di Basch**: Reks gliela fascia con la propria manica al cap. 4. Basch può ricordarla al cap. 23, quando racconta il gemello, e può mostrare la cicatrice al cap. 26. Non spiegare il dettaglio prima del cap. 23.
 - **Ciocca di Vaan**, sopra l'orecchio sinistro, che Reks prometteva di far tagliare dal barbiere: da riprendere al cap. 7 e con un solo altro richiamo, al cap. 26 o nel finale.
+
+## Aspetto dei personaggi
+
+Correggi le descrizioni difformi nei tuoi capitoli.
+
+- **Ashe**: occhi azzurri, come il padre. Capelli biondo cenere.
+- **Raminas**: occhi azzurri, gli stessi di Ashe.
+- **Basch e Gabranth**: biondi, occhi chiari.
+- **Vaan**: capelli biondo cenere. **Reks**: stessa famiglia, chiaro di capelli.
+- **Penelo**: capelli rossi.
+- **Balthier**: capelli castani. **Fran**: capelli bianchi, pelle scura, orecchie lunghe.
