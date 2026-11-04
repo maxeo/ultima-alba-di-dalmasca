@@ -128,7 +128,7 @@ Lei fece due passi verso di lui e si fermò. Di solito, quando parlavano, lei av
 
 «L'orafo di via dei Calderai chiude per la stagione delle piogge.»
 
-«Allora lo apriremo noi. Gli sfonderemo la porta. Verrà la guardia reale, ci arresteranno tutti e due, e saremo i primi principi della storia di Dalmasca finiti in cella per un anello.» Le prese la mano sinistra, quella chiusa, e non cercò di aprirla. La tenne fra le sue. «Le cronache ne parleranno per secoli.»
+«Allora lo apriremo noi. Gli sfonderemo la porta. Verrà la guardia reale, ci arresteranno tutti e due, e saremo la prima coppia reale nella storia di Dalmasca finita in cella per un anello.» Le prese la mano sinistra, quella chiusa, e non cercò di aprirla. La tenne fra le sue. «Le cronache ne parleranno per secoli.»
 
 «Le cronache ne parleranno malissimo.»
 

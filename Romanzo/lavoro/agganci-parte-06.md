@@ -7,3 +7,7 @@
 | "Dalmasca non dimentica il bene ricevuto né l'offesa", incisa sulla porta della sala del trono | 51 | 57 o 67 (rinuncia di Ashe); facoltativo finale | aperto |
 | Vossler porta Ashe in spalla per la via dei Calderai la notte della caduta | 51 | Facoltativo: ricordo di Ashe a Rabanastre, Parte XIII | aperto |
 | Sedia vuota in casa di Dalan | 51 | Nessuno: immagine chiusa | chiuso |
+| Anello nella tasca interna sul petto della giacca di Balthier; ci dorme con la mano sopra | 52 | 77 (spiaggia), 112 | aperto |
+| Mano sinistra di Ashe aperta dopo la cessione dell'anello | 52 | 63, 70 (Ashe manca il colpo), 112 (anello restituito) | aperto |
+| Stivali di Archades di Balthier nel fango | 52 | 58 (Golmore), 64 (neve) | aperto |
+| Domanda di Balthier a Vaan "cosa cerchi?", risposta "non lo so" | 52 | 55 (confessione), 112 ("scegliere dove andare") | aperto |
