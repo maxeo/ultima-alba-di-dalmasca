@@ -105,3 +105,13 @@ Sono la prova della voce. Valgono più di qualsiasi altro capitolo: se suonano c
 - Fare commit e push. Messaggio in italiano, prima riga al passato di massimo 60 caratteri, poi trattini. Nessuna riga `Co-Authored-By` e nessuna riga "Generated with".
 
 ## Note di stesura
+
+- Modello usato per la stesura dei pilota: Claude Opus 5.5.
+- Cap. 1: circa 4.400 parole più 170 di Ondore. La scena privata è in carrozza, sotto gli occhi della folla, a labbra quasi ferme: controllare che regga come "privata".
+- Cap. 1: l'anello è largo perché misurato su un guanto e non viene mai stretto ("fra una settimana"). Propongo di farlo tornare largo al funerale e fino al cap. 112: decidere.
+- Cap. 1: inventati il chocobo Pancia e il venditore di datteri (unico accenno alle fonti), l'ambasciatore archadiano con i calici, la lettera del re di Nabradia assente. Tutto in `agganci.md`.
+- Cap. 1: Raminas ha "sessant'anni" e regna da trenta; Ashe è "unica erede". Età e anni di regno da verificare.
+- Cap. 21: circa 3.400 parole. Le voci simili sono affidate al fastidio di Vaan e all'eco del pozzo; Gabranth dice "a tutto quello che ci avevi lasciato dentro", allusione alla madre: controllare che non anticipi troppo.
+- Cap. 21: Basch nega solo il regicidio; nessuna spiegazione. Il dettaglio di Balthier è il divieto per i Giudici di togliersi l'elmo davanti a un prigioniero, con un "Ufficio di Corte" inventato.
+- Cap. 21: Vaan è sul ponte di assi, aggrappato alla gabbia, quando Fran tira la leva. Il cap. 22 deve partire da lì.
+- Cap. 21: Vaan ricorda il corteo del cap. 1 ("quello che guarda i tetti"): richiamo fra i due pilota, da tenere nel cap. 4.
