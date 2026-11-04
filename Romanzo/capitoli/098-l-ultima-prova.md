@@ -26,6 +26,14 @@ Cid lo guardò. Per un istante, uno solo, la sua faccia cambiò. Le rughe attorn
 
 Balthier non rispose. Rialzò la pistola. Questa volta il braccio gli tremava.
 
+«Chi è Bahamut?» chiese Vaan. Lo chiese a Balthier, a bassa voce, come si chiede l'ora a un vicino in chiesa.
+
+«Un nome da favola.» Balthier non distolse gli occhi dal padre. «Ad Archades lo raccontano ai bambini. Il re dei draghi, quello che dorme sopra le nuvole e si sveglia una volta ogni mille anni per vedere se gli uomini si comportano bene. Se si comportano male, apre la bocca.» Fece una pausa. «Mio padre me la raccontava, quella. È l'unica favola che mi abbia mai raccontato.»
+
+«E come finisce?»
+
+«Non lo so. Si addormentava prima lui.»
+
 ---
 
 Lo scontro con Cid lo raccontarono poco, e male, perché non c'era niente in esso che valesse la pena di ricordare se non la fine.
@@ -37,6 +45,12 @@ Lo scienziato combatteva come nessun uomo della sua età avrebbe dovuto. Aveva u
 Dalla pietra si levò una figura enorme, armata, con un grande vaso fra le mani. Quando il vaso si inclinò, ne uscì un'acqua scura e pesante che si rovesciò sulla piazza in un'onda alta come una casa. Travolse Penelo. Travolse Vaan, che si aggrappò alla spada di Reddas piantata in una giuntura del pavimento. Basch resse, e Ashe resse dietro di lui. Fran, già in ginocchio, la lasciò passare sopra di sé.
 
 Non durò. Il fuoco di Penelo, che aveva imparato a chiamare dalle dita in una stagione di fughe, e le spade degli altri, e la freccia di Fran che trovò la giuntura fra l'elmo e il collo del gigante, lo fecero tornare nella pietra da cui era venuto. La pietra, nella mano di Cid, si incrinò e andò in polvere. Cid la guardò con un'aria offesa, quella di un artigiano a cui si rompe un attrezzo nuovo.
+
+Ogni tanto, fra un colpo e l'altro, Cid parlava al figlio. Non lo insultava. Lo correggeva.
+
+«Il gomito, Ffamran! Tiri ancora col gomito alto. Quante volte te l'ho detto, nel cortile? Il gomito basso, la spalla morbida, e respiri dopo.» Schivò un colpo e rise. «Vedi? Alto. Sempre alto.»
+
+Balthier abbassò il gomito. Non se ne accorse nessuno, tranne Fran, che dal pavimento lo vide e chiuse gli occhi.
 
 Poi fu di nuovo solo, contro sei, e non bastò più. Ashe lo colpì al braccio e l'arma gli cadde. Basch gli fu addosso dal fianco. L'ultimo colpo fu di Balthier, e fu un colpo di pistola, a dieci passi, alla gamba; Balthier mirò alla gamba, e chi lo vide sostenne poi che lo fece apposta, e che non ci fu un tiro in vita sua in cui mirasse meglio.
 
@@ -93,6 +107,8 @@ Non pianse. Gli altri, a distanza, lo guardavano e non si avvicinavano. Basch av
 Balthier prese il fazzoletto ricamato dal pavimento. C'era una lettera sopra, in un angolo, ricamata in filo azzurro, mezza scucita. Non era la lettera di suo padre. Era la lettera di sua madre.
 
 Lo tenne in mano. Non riusciva a metterlo via. Non riusciva a lasciarlo.
+
+Contro il pilastro, in fondo alla piazza, Gabranth aveva visto tutto. Non si era mosso, perché non poteva; l'elmo era girato verso il punto dove Cid si era disfatto e dove adesso un uomo giovane stava inginocchiato con un fazzoletto in mano. Anche lui aveva visto morire un genitore in una stanza dove non c'era niente da dire. Anche lui aveva cercato le frasi per anni e ne aveva trovata una sola. Basch, dall'altra parte, guardò il fratello e vide l'elmo girato da quella parte, e per un istante pensò di andare da lui. Non ci andò. Più tardi, molto più tardi, si sarebbe chiesto se quel passo non fatto avesse cambiato qualcosa, e non avrebbe trovato risposta.
 
 ---
 
