@@ -8,4 +8,3 @@
 - **Rasler apre la nebbia**: lo vede solo Ashe; per la prima volta non annuisce, la guarda con un'espressione che lei non sa leggere. Vaan vede soltanto la nebbia che si apre e ricorda la Tomba (cap. 47, detto al cap. 54).
 - **Belias apre il portale**: iscrizione nella lingua di Raithwall, "la porta riconosce chi è stato scelto". Nessun lessico di gioco: Belias è "un nome che lei poteva chiamare". Ashe: "O qualcuno l'ha lasciato a lui, perché la aprissi io".
 - Balthier: "Mi piacerebbe proprio sapere chi gli ha aperto" (Cid sei anni prima).
-- Applicata `revisioni/aspetto.md` ai capitoli 78, 82, 83, 84: Gilgamesh con pelle grigia e sei braccia rivelate al cap. 78; Reddas rasato, barba bianca, camicia color cammello; Cid argento, occhiali ovali, soprabito rosso cupo e viola, guanti bianchi, somiglianza con Balthier; Rikken con benda e catena spezzata. "Huma" ovunque.
