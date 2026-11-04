@@ -36,3 +36,10 @@
 - Vecchia Archades come Città Bassa dell'Impero: Ashe se ne vergogna un poco.
 - **Gilgamesh, secondo incontro**: riconosce Basch ("una spada che io non ho"). Il cap. 41 non è ancora scritto: non nomino che cosa lasciò di rubato allora. Basch lo atterra con la sua stessa corda; lui fugge e lascia quattordici spade con lo stemma del Ministero della Legge. Jules non compra più da lui: le spade aprono la porta al cap. 79.
 - Gilgamesh descritto solo per armatura, elmo e collezione: nessun dettaglio fisico che vincoli il cap. 41 (numero di braccia ecc.).
+
+## Cap. 79
+- Jules: i millecinquecento gil diventano le quattordici spade di Gilgamesh, che Jules restituirà al Ministero della Legge per averne un debito. Così Gilgamesh "apre una porta verso Archades" come da `lavoro-generale.md`.
+- La voce del barile viene dal cortile di Aurel (via del Pozzo Vecchio 9), dove Vaan restituisce la chiave alla sorella. Beasley è conciatore, il sacchetto è suo, risparmi nascosti alla moglie.
+- Jules a Balthier: "il figlio perduto della famiglia Bunansa". "Ffamran" resta per il cap. 81.
+- **Rete del Clan**: moguri postino di Montblanc al primo arco, con biglietto. Ba'Gamnan ha un contratto pagato da Archades. Il favore si paga: "il conto te lo fa quando torni". Risposta di Vaan per Migelo e Kytes.
+- Ba'Gamnan annunciato qui, ultima caccia al cap. 80.

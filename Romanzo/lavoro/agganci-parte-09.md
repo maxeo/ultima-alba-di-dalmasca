@@ -20,3 +20,7 @@
 | Aurel e la chiave a forma di mano da restituire in via del Pozzo Vecchio 9 | 78 | 79 o 80 (restituita); facoltativo 101 | aperto |
 | Gilgamesh: "Ci rivedremo quando meno te lo aspetti"; quattordici spade dell'armeria dei Giudici | 78 | 79 (pagamento a Jules); 104 (cenno finale) | aperto |
 | Balthier: "Lassù la puzza è diversa. Profuma. È questo il problema" | 78 | 80-81 | aperto |
+| Jules restituisce le spade al Ministero della Legge e se ne fa un debito | 79 | 81 (Jules e i Giudici a Draklor) | aperto |
+| Montblanc: "le consegne fuori Dalmasca costano, il conto te lo fa quando torni" | 79 | 101 (Vaan salda il favore) | aperto |
+| Biglietto di Vaan: "Di' a Kytes che il mare è salato" | 79 | 101-103 (Kytes) | aperto |
+| Ba'Gamnan con contratto pagato da Archades | 79 | 80 | aperto |
