@@ -43,3 +43,10 @@
 - Jules a Balthier: "il figlio perduto della famiglia Bunansa". "Ffamran" resta per il cap. 81.
 - **Rete del Clan**: moguri postino di Montblanc al primo arco, con biglietto. Ba'Gamnan ha un contratto pagato da Archades. Il favore si paga: "il conto te lo fa quando torni". Risposta di Vaan per Migelo e Kytes.
 - Ba'Gamnan annunciato qui, ultima caccia al cap. 80.
+
+## Cap. 80
+- Apertura sulla fontana che "dà acqua per niente", in contrasto con il pozzo del cap. 74.
+- Penelo e Vaan: "sembri un pesce", "sei cambiato", Larsa al palazzo. Penelo tocca il punto vuoto dove teneva la pietra, ripresa da Larsa al cap. 62. Basch e la battuta sul "servizio presso le case reali".
+- Chop resi come "attestati di merito civico" in tavolette di pino, quercia ed ebano: il nome di gioco non compare. Satira in poche commissioni, senza elenco.
+- **Ultima caccia di Ba'Gamnan**: fermato dall'"Ispettorato dell'armonia civica" per mancanza di attestati e contratto non registrato; undici moduli in triplice copia. Rinuncia a voce alta: "Ba'Gamnan smette". Con lui Bwagi, Gijuk, Rinok.
+- Jules fa credito per i 2.500 gil: "essere in debito è già una posizione sociale".
