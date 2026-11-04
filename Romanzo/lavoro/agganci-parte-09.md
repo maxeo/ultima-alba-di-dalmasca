@@ -11,3 +11,4 @@
 | Candela di Penelo accanto a quella dello sconosciuto | 75 | 96 o 99 (Reddas può averla trovata) | aperto |
 | Rasler chiese a Basch di tenere Ashe lontana dal campo, non di vendicarlo | 75 | 89 (volontà degli uomini), 95 | aperto |
 | Pugno di Ashe che si chiude su un anello che non c'è | 75 | 77 (Balthier ha l'anello), 112 | aperto |
+| Lanterna di Basch tenuta dall'apprendista moguri che ha paura del buio | 76 | chiuso (Basch resta senza lanterna nella grotta di Sochen, cap. 78) | aperto |
