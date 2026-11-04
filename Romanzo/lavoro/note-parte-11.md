@@ -16,3 +16,10 @@
 - **Muro dei re** (mancanza `file38:672`): riquadri di sovrani che ricevono dall'alto e guardano in alto; a metà il muro prosegue con riquadri lisci, già incorniciati. Balthier: "Non è un libro di storia. È un registro". Prepara i cap. 88-89 e il 113.
 - Daedalus e Tyrant tagliati come da scaletta: nessun guardiano in scena. Al loro posto il tempo che non passa (la caviglia di Vaan guarisce da sola).
 - Fran sente "molti, più vecchi" della presenza di Draklor.
+
+## Cap. 87
+- "Potresti distruggere Ivalice": Ashe comincia la frase, Fran la completa, "se lo volesse". Penelo e la "madre" delle pietre.
+- **Shemhazai breve**, secondo la correzione (`file30:144`): figura femminile, "colei che sussurra", non "il Traditore". Il nome Shemhazai non compare: lo dà al lettore solo la nota. Sussurra a ciascuno un nome: Reks a Vaan, i fratelli a Penelo, "Ffamran" a Balthier, una parola viera a Fran, **"fratello" a Basch con la voce stessa di Basch** (filo delle voci uguali). Ad Ashe niente: per questo è lei a colpire per prima.
+- Scontro in un paragrafo: veli che cambiano colore, voci tolte, Balthier conta i colori, Basch tiene ferma la figura, Vaan colpisce.
+- Basch ad Ashe: "Niente che non sapessi già".
+- Chiusura sul nome intero di Ashe "come si legge un nome su un registro": aggancio al muro dei re (86) e al cap. 88.
