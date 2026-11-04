@@ -44,7 +44,7 @@ Gabranth lo guardò a lungo. Poi gridò, un grido senza parole che l'elmo trasfo
 
 Questa volta non combatterono da soli. Reddas fu il primo a entrare, dalla sinistra, con la spada che gli restava. Poi Vaan, dalla destra, con quella di Reddas tenuta male e menata con tutta la forza dei suoi diciassette anni. Balthier tirò e il colpo prese lo spallaccio di Gabranth e lo fece girare. Fran tirò una freccia che passò fra il braccio e il fianco del Giudice senza toccarlo, per pura scelta, e lo costrinse ad aprire la guardia. Ashe non attaccò. Restò dov'era, sotto la Crisalide, con le due spade abbassate.
 
-Fu Basch a chiudere. Non con la punta. Lo colpì con l'elsa, al centro del pettorale, quando il fratello si sbilanciò per parare Vaan, e il colpo risuonò sul metallo come un martello sull'incudine. Gabranth volò indietro, cadde di schiena sulla pietra liscia, scivolò, si fermò. Una delle due spade gli era sfuggita di mano. Cercò di rialzarsi sui gomiti e non ci riuscì.
+Fu Basch a chiudere. Non con la punta. Lo colpì con l'elsa, al centro del pettorale, quando il fratello si sbilanciò per parare Vaan, e il colpo risuonò sul metallo come un martello sull'incudine. Gabranth volò indietro, cadde di schiena sulle lastre, scivolò, si fermò. Una delle due spade gli era sfuggita di mano. Cercò di rialzarsi sui gomiti e non ci riuscì.
 
 Basch rimase in piedi sopra di lui, ansimando. Non alzò la spada.
 
@@ -120,7 +120,7 @@ Reddas non disse niente. Ma la mano sulla spada gli divenne bianca.
 
 ---
 
-Cid si voltò verso la Crisalide. La guardò a lungo, con la testa piegata di lato, e per un istante la sua faccia perse tutto: l'ironia, l'impazienza, la teatralità. Restò soltanto l'espressione di un uomo davanti a una cosa che ha cercato per tutta la vita.
+Cid si voltò verso la Crisalide. La guardò a lungo, con la testa piegata di lato, e la sua faccia, d'un tratto, perse tutto: l'ironia, l'impazienza, la teatralità. Restò soltanto l'espressione di un uomo davanti a una cosa che ha cercato per tutta la vita.
 
 «La distruggerete» disse, piano. «Lo so. Avete detto così. Ed è giusto. È giusto che finisca.» Si sfilò le lenti dalla fronte e le pulì su un lembo del camice, senza guardarle. «Ma sarebbe un peccato, non trovate? Distruggerla e basta. Sette secoli di Mystes, accumulato goccia a goccia, tutto lì dentro. Lasciarlo andare in fumo come una candela.»
 

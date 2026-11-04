@@ -10,8 +10,8 @@
 ## Cap. 8
 - Circa 4.600 parole, oltre la media: la caccia è comica e Montblanc nasce qui. Si può stringere il viaggio nell'Estersand.
 - Montblanc compare alla Sandsea come capo di "un circolo" di cacciatori e informatori; niente meccanica, solo il patto notizia per lasciapassare.
-- Gigli: Reks li comprava per la brocca di casa. Il cap. 4 (altra sessione) deve essere coerente, o il regista adatta questo dettaglio.
-- Inventata "Mirka", vicina dell'infanzia: solo un nome.
+- Gigli allineati alla revisione: vaso verde crepato della madre, promessa di Reks al cap. 4.
+- Tolta la vicina "Mirka".
 
 ## Cap. 9
 - Circa 3.200 parole. Vayne ha 27 anni; "figlio terzo" dell'imperatore, come seme dei fratelli uccisi.
@@ -42,3 +42,9 @@
 - Il servitore che spiega le guardie è una serva Seeq, come chiede il fix (`file04:58-62`): l'ho chiamata Ludda.
 - La donna in rosso non mostra il volto; tiene la sinistra chiusa a pugno. È un indizio per il lettore attento (anello largo), senza nominare l'anello.
 - Dalan sa della Resistenza e manda Vaan per la stessa strada: resta implicito, per il cap. 25.
+
+## Cap. 14
+- Circa 3.500 parole, sotto la soglia "Espanso". La scena regge così; la fuga sulla terrazza è al cap. 15.
+- La pietra resta "magilite" per Vaan; non la chiamo ancora Frammento del Crepuscolo. Balthier la riconosce senza nominarla.
+- Nasce la gag del protagonista. Fran la smonta con due battute. Il nome di Balthier non viene detto: arriva al cap. 16, come nella fonte.
+- Inventate le tacche "A." sullo stipite: è il passaggio che Raminas usava con la figlia. Non va spiegato prima della rivelazione di Ashe.

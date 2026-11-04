@@ -54,7 +54,7 @@ Balthier abbassò il gomito. Non se ne accorse nessuno, tranne Fran, che dal pav
 
 Poi fu di nuovo solo, contro sei, e non bastò più. Ashe lo colpì al braccio e l'arma gli cadde. Basch gli fu addosso dal fianco. L'ultimo colpo fu di Balthier, e fu un colpo di pistola, a dieci passi, alla gamba; Balthier mirò alla gamba, e chi lo vide sostenne poi che lo fece apposta, e che non ci fu un tiro in vita sua in cui mirasse meglio.
 
-Cid cadde in ginocchio. Poi cadde di lato, sulla pietra liscia, con un rumore molle di stoffa e di ottone. Gli strumenti appesi alla catena tintinnarono un'ultima volta e si fermarono.
+Cid cadde in ginocchio. Poi cadde di lato, sulle lastre, con un rumore molle di stoffa e di ottone. Gli strumenti appesi alla catena tintinnarono un'ultima volta e si fermarono.
 
 ---
 
@@ -108,7 +108,7 @@ Balthier prese il fazzoletto ricamato dal pavimento. C'era una lettera sopra, in
 
 Lo tenne in mano. Non riusciva a metterlo via. Non riusciva a lasciarlo.
 
-Contro il pilastro, in fondo alla piazza, Gabranth aveva visto tutto. Non si era mosso, perché non poteva; l'elmo era girato verso il punto dove Cid si era disfatto e dove adesso un uomo giovane stava inginocchiato con un fazzoletto in mano. Anche lui aveva visto morire un genitore in una stanza dove non c'era niente da dire. Anche lui aveva cercato le frasi per anni e ne aveva trovata una sola. Basch, dall'altra parte, guardò il fratello e vide l'elmo girato da quella parte, e per un istante pensò di andare da lui. Non ci andò. Più tardi, molto più tardi, si sarebbe chiesto se quel passo non fatto avesse cambiato qualcosa, e non avrebbe trovato risposta.
+Contro il pilastro, in fondo alla piazza, Gabranth aveva visto tutto. Non si era mosso, perché non poteva; l'elmo era girato verso il punto dove Cid si era disfatto e dove adesso un uomo giovane stava inginocchiato con un fazzoletto in mano. Anche lui aveva visto morire un genitore in una stanza dove non c'era niente da dire. Anche lui aveva cercato le frasi per anni e ne aveva trovata una sola. Basch, dall'altra parte, guardò il fratello e vide l'elmo girato da quella parte, e pensò di andare da lui. Non ci andò. Più tardi, molto più tardi, si sarebbe chiesto se quel passo non fatto avesse cambiato qualcosa, e non avrebbe trovato risposta.
 
 ---
 
