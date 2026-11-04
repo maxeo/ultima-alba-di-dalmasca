@@ -14,3 +14,6 @@
 | Frammento d'Aurora calciato contro un pilastro della Sommità | 96 | 97 (Cid lo nota o no), resta al Faro | aperto |
 | "Un uomo vero chiude la mano": prova dell'illusione | 96 | 112 (Ashe e l'anello, mano chiusa) | aperto |
 | Rasler: cicatrice sul mento, caduta da chocobo da ragazzo | 96 | aperto | aperto |
+| Lenti di Cid col vetro incrinato, nella tasca interna di Balthier accanto all'anello | 98 | 110 (Balthier su Bahamut), 112 (anello restituito: le lenti restano) | aperto |
+| Fazzoletto della madre di Balthier lasciato sulla Sommità | 98 | 99 (Penelo lo raccoglie) | aperto |
+| Anello di Ashe nella tasca interna di Balthier | 52 (blocco-c), 98 | 112 | aperto |

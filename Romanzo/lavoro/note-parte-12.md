@@ -58,3 +58,9 @@
 - Fix `file32:622, 750, 772`: Cid alza il Frammento del Crepuscolo; Venat lo accoglie e il Frammento d'Aurora si solleva verso di lui. Il Mezzaluce, consumato a Nabudis, non compare.
 - Vaan riconosce il Crepuscolo che aveva rubato. Ashe lo aveva visto da bambina con Raminas.
 - Accenno alla madre di Balthier, morta, mai nominata: eventuale ritorno al cap. 98.
+
+## Cap. 98
+- Circa 2.900 parole. Cid dice solo che Bahamut "berrà" (fix `file32:832-842`), senza spiegarlo.
+- Famfrit senza nome, poche righe. Balthier spara alla gamba del padre.
+- Inventati: scrivania sotto la finestra tenuta per Ffamran due anni, poi "le provette"; madre di Balthier morta quando lui aveva sei anni; le lenti col vetro incrinato che Balthier mette nella tasca interna accanto all'anello di Ashe; fazzoletto della madre con l'iniziale azzurra, lasciato cadere quando corre da Fran.
+- Ultime parole di Cid secondo la fonte: tieniti la pietà, scappa, "almeno quello fallo bene".
