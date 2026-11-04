@@ -9,3 +9,10 @@
 - Il soldato archadiano con la lentiggine e la fiaschetta di Migelo (cap. 5) apre il cancello dei pedoni.
 - Debito Urutan-Yensa saldato: portano i profughi oltre l'Ogir-Yensa. Il cap. 44 non è ancora sul main: aspetto degli Urutan e dettagli del debito ("la bestia del mare di sabbia") da allineare.
 - Inventate: "stelle dei fornai".
+
+## Cap. 102
+- Circa 3.300 parole. Bahamut visto da Rabanastre (vento, insegne, targhe doppie velate di sabbia) e dalla duna; Balthier riconosce le curve dei disegni del padre.
+- Anelli di glossaria resi "anelli di luce": il termine resta provvisorio nel glossario.
+- Ponte di comando: Larsa, dodici anni, giubba abbottonata storta; il posto di Gabranth vuoto da tre giorni, "sollevato per ordine di Draklor". Vayne ricorda i fratelli maggiori morti (fix `file10:1002`), caso chiuso.
+- Zargabaath (fix `file24:632`, ritorno `file37:1732`): fa registrare l'ordine di fuoco sulla nave arresa nel giornale di bordo, col nome di Vayne. Gesto di misura dentro il regolamento. Il giornale torna al cap. 110.
+- Larsa: "Ti sbagli"; Vayne: "correggimi" con i fatti. Unico accenno alle fonti: i cronisti di Archades e la frase di Larsa.
