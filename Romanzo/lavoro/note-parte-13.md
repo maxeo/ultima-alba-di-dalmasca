@@ -50,3 +50,12 @@
 - Ognuno combatte per ciò che ha scelto: Ashe per la cuoca e i petali, Basch per Ashe e per Noah, Vaan per la Città Bassa e Reks, Penelo per i fratelli, Fran per la sua scelta, Balthier sui punti deboli dei disegni del padre.
 - Ashe dà il colpo finale con un pezzo di trave, guardando Vayne negli occhi. Chiusura sugli anelli che girano più piano.
 - Larsa resta nella sala con Gabranth: lo si ritrova al cap. 108.
+
+## Cap. 108
+- Circa 3.300 parole. Scena nuova della morte di Gabranth, sulla Strahl appena staccata da Bahamut (luogo scelto: la cabina, con Basch e Larsa), senza ironia.
+- La Strahl è "attaccata" ai condotti della piattaforma che bevono dalla pietra celeste: Balthier e Fran restano al quadro del pilone per tenere chiuso il flusso. Balthier dà a Vaan il congegno della voce ("restituiscimela, poi"): serve a Basch al cap. 109 e torna al cap. 112.
+- Vaan pilota con la lezione del cap. 92 ("non tirare, chiedi", la metà della metà). "Non grattarla atterrando".
+- Promessa di Basch: "Per Archadia. E per Dalmasca". Basch dice a Noah che lo ha cercato sul Faro: è "l'uno solo" del cap. 99. Ultime parole: "La mamma ti chiamava sempre per primo... Adesso no."
+- Basch toglie a Noah ciò che resta dell'elmo dopo la morte: la regola dell'elmo non è violata da vivo. Cicatrice sopra l'orecchio che Basch non conosceva.
+- Larsa pulisce il sangue col fazzoletto; Basch lo chiama "Altezza" per la prima volta.
+- Ritorno di Balthier e Fran: nel cap. 110 lavorano dentro Bahamut, poi sopravvivono (cap. 112).
