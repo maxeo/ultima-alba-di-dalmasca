@@ -51,3 +51,7 @@
 | Profumo di Balthier "di un posto lontano" (Archades) | 14 | facoltativo, 80 | aperto |
 | Ciocca di Vaan sopra l'orecchio sinistro, mai tagliata (dal cap. 4) | 7 | 26 o finale, una volta sola | aperto |
 | Naso di Balthier "che i disegnatori di manifesti sbagliano sempre" (manifesto del cap. 4) | 14 | facoltativo | aperto |
+| Ifrit già pronta con i cannoni caldi; Balthier: "il console ha fatto da formaggio" | 15 | 17 (cattura davanti a Vayne) | aperto |
+| Balthier, voce più vecchia di lui: "Non guardare. Non serve a niente. Lo dico per esperienza" | 15 | 77, 83 (Draklor, padre) | aperto |
+| La pietra "beve" il motore della barca volante: lo nota Fran | 15 | 16, 30 (Negalite artificiale) | aperto |
+| Primo grido di paura di Vaan, "non di rabbia" | 15 | facoltativo | aperto |

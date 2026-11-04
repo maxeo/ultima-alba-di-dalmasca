@@ -48,3 +48,7 @@
 - La pietra resta "magilite" per Vaan; non la chiamo ancora Frammento del Crepuscolo. Balthier la riconosce senza nominarla.
 - Nasce la gag del protagonista. Fran la smonta con due battute. Il nome di Balthier non viene detto: arriva al cap. 16, come nella fonte.
 - Inventate le tacche "A." sullo stipite: è il passaggio che Raminas usava con la figlia. Non va spiegato prima della rivelazione di Ashe.
+
+## Cap. 15
+- Circa 2.100 parole, capitolo di passaggio. Il guasto è attribuito alla pietra da Fran ("Beve"), come chiede il fix `file04:600-606`: è una sua intuizione, non una spiegazione.
+- La barca volante resta senza nome tecnico.
