@@ -11,3 +11,6 @@
 | Vaan risponde a Balthier "senza voglia di piacergli" | 86 | 92, 110 | aperto |
 | Sussurro a Basch: "fratello", nella voce di Basch | 87 | 97 (Basch e Gabranth), 105, 109 (Basch parla con la voce del fratello) | aperto |
 | Balthier piega in quadrati il foglio strappato della mappa | 87 | facoltativo 89 | aperto |
+| Tredicesimo seggio vuoto degli Occuria | 88 | 90 (Venat), 107 | aperto |
+| Rasler non ha mai parlato nelle apparizioni | 88 | 95 (Rasler visibile a tutti; l'illusione) | aperto |
+| "Gli dèi avevano qualcuno che teneva gli scalpelli per loro" | 88 | 89, 113 | aperto |
