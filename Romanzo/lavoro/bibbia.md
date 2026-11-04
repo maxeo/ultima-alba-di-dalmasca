@@ -111,7 +111,7 @@ Kytes, Migelo, Dalan, Tomaj, Montblanc, Masyua, Brunoa, Jinn, Burrogh, Havharo, 
 | Giudice Magister | giudice, in minuscolo, solo in discorso generico | |
 | Huma, Bangaa, Seeq, viera, moguri | | |
 | Rabanastre, Città Bassa | Lowtown | |
-| deserto orientale, deserto a est di Dalmasca | Estersand, Deserto Est | Minuscolo |
+| Deserto Orientale, deserto orientale, deserto a est di Dalmasca, a oriente | Estersand, Deserto Est | Varianti libere; maiuscola per il nome geografico |
 | Giungla di Golmore | Foresta di Golmore | |
 | Pianure di Ozmone | Pianura di Ozmone | |
 | Foresta Stregata | Bosco di Feywood | |
