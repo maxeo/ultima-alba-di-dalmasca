@@ -52,7 +52,7 @@ Entrarono, e il Faro sparì.
 
 Per un istante non capirono. Avevano oltrepassato la soglia di una torre e si aspettavano una sala, colonne, scale; si trovarono all'aperto, su un sentiero di roccia rossa fra due pareti di pietra friabile, sotto un cielo bianco di calore. C'era odore di polvere. C'era un vento secco che sollevava sabbia. Vaan si girò di scatto per guardare la porta da cui erano entrati, e la porta non c'era: dietro di lui il sentiero continuava, uguale, e piegava a sinistra fra le rocce.
 
-«deserto orientale» disse. Lo disse con un tono strano, fra la paura e la nostalgia. «Sembra il deserto orientale. Quella è la gola sopra il pozzo di Dalan... no. No, non è.»
+«Il deserto» disse. Lo disse con un tono strano, fra la paura e la nostalgia. «Sembra il deserto a est di casa. Quella è la gola sopra il pozzo di Dalan... no. No, non è.»
 
 «Non è niente» disse Balthier. «Non c'è nessun sole. Guarda le ombre.»
 
