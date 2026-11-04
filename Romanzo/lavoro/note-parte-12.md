@@ -64,3 +64,11 @@
 - Famfrit senza nome, poche righe. Balthier spara alla gamba del padre.
 - Inventati: scrivania sotto la finestra tenuta per Ffamran due anni, poi "le provette"; madre di Balthier morta quando lui aveva sei anni; le lenti col vetro incrinato che Balthier mette nella tasca interna accanto all'anello di Ashe; fazzoletto della madre con l'iniziale azzurra, lasciato cadere quando corre da Fran.
 - Ultime parole di Cid secondo la fonte: tieniti la pietà, scappa, "almeno quello fallo bene".
+
+## Cap. 99
+- Circa 3.200 parole. Fran: "Vola" ripete senza saperlo il "scappa" di Cid; Balthier: "Non discutere con il protagonista", la gag spezzata dalla voce; Fran: "Stupido".
+- Reddas prende la Spada dei Re (fonte) e si raddrizza da Giudice; sentenza "ti condanno all'oblio". Nessun rumore, come a Nabudis.
+- Spada dei Re e Spada del Patto perdute nell'esplosione: Ashe esce a mani vuote e aperte. Verificare se il regista vuole far tornare la Spada dei Re.
+- Fix `file32:680, 1366`: Basch cerca Gabranth al pilastro: impronta, trascinamento verso una terrazza, una goccia di sangue. Lo dirà "a uno solo" (a Larsa o ad Ashe, cap. 105 o 109).
+- Penelo raccoglie il fazzoletto della madre di Balthier.
+- Luce vista a Eruyt (Jote, senza nome), Jahara, Balfonheim (Elza sui gradini).
