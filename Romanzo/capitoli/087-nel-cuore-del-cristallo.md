@@ -28,7 +28,7 @@ Su una lastra più larga delle altre, sospesa davanti a una parete dove la luce 
 
 La parete, lì, era quasi bianca. La luce ci si muoveva dentro in correnti così dense che sembrava di guardare il fondo di un fiume dal ponte, a mezzogiorno, quando il sole entra nell'acqua. Ashe la guardò a lungo. Si era tolta la Spada dei Re dalla schiena e la teneva per l'elsa, con la punta appoggiata alla lastra, e le nocche le si erano fatte bianche.
 
-Gli altri la raggiunsero e si fermarono dietro di lei. Nessuno parlò.
+Gli altri la raggiunsero e si fermarono dietro di lei.
 
 Pensava alle pietre. Al Frammento d'Aurora che aveva tenuto in mano nella Tomba, e che le era sembrato il peso stesso di Dalmasca; al Leviatano, a una flotta intera che si accendeva e spariva in un respiro; a Nabudis, alla pedana vuota, al libro dei nomi di Ma'kleou. Tre schegge. Settecento anni di storia, tre regni, un'alleanza, una guerra: tutto da tre schegge grandi come un pugno. E davanti a lei c'era una parete di quella luce alta come il cielo, e dietro quella parete un'altra, e un'altra ancora.
 
