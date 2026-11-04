@@ -116,7 +116,7 @@ Si fermarono davanti al quarto. Reddas lo indicò.
 
 Ashe guardò il quarto altare a lungo, più di quanto la scelta richiedesse. Le pareva che la sala intera, con quella lastra al centro e quelle quattro pietre in croce, dicesse la stessa cosa che aveva detto la porta, con parole più semplici, per chi non avesse capito la prima volta. La Negalite prometteva a chi la teneva di non dover rinunciare più a niente: non alla vendetta, non al regno, non ai morti. Raithwall, che di quella promessa era stato il primo creditore, aveva costruito una torre dove per salire bisognava lasciare qualcosa.
 
-Mise la mano nell'incavo. La pietra era tiepida, come se qualcuno l'avesse appena lasciata. Una luce passò sotto il palmo e salì fino al soffitto, e Ashe sentì, per un istante, una cosa molto strana e molto precisa: che non avrebbe più saputo ritrovare la porta da cui erano entrati. Ce l'aveva in testa un momento prima, la scalinata, il portale, la piazza con la Strahl. Adesso no. Restava il ricordo di esserci stata, ma non la strada.
+Mise la mano nell'incavo. La pietra era tiepida, come se qualcuno l'avesse appena lasciata. Una luce passò sotto il palmo e salì fino al soffitto, e Ashe sentì una cosa molto strana e molto precisa: che non avrebbe più saputo ritrovare la porta da cui erano entrati. Ce l'aveva in testa un momento prima, la scalinata, il portale, la piazza con la Strahl. Adesso no. Restava il ricordo di esserci stata, ma non la strada.
 
 Dal fondo della sala si aprì un passaggio. Ripresero a salire.
 

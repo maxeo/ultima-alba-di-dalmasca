@@ -124,7 +124,7 @@ Ashe chiuse gli occhi. Quando li riaprì aveva la faccia di prima, asciutta e du
 
 «Io non sono sicuro di niente» disse Vaan.
 
-Lei si voltò verso di lui per la prima volta da quando erano partiti dall'ultimo guardiano. Lo guardò, e Vaan sostenne lo sguardo, e per un istante la principessa sembrò sul punto di sorridere. Non lo fece.
+Lei si voltò verso di lui per la prima volta da quando erano partiti dall'ultimo guardiano. Lo guardò, e Vaan sostenne lo sguardo, e la principessa sembrò sul punto di sorridere. Non lo fece.
 
 «Lo so» disse. «Per questo sei l'unico a cui credo.»
 
@@ -144,7 +144,7 @@ Nessuno parlò. Fran si era portata le mani al viso. Penelo aveva afferrato il b
 
 Reddas si era fermato un passo avanti agli altri. Guardava la Crisalide Solare con una faccia che nessuno di loro gli aveva mai visto e che nessuno di loro dimenticò. Non era meraviglia. Era la faccia di un uomo che, dopo molti anni e molte leghe, si trova di nuovo davanti alla cosa da cui era scappato, e la riconosce, e la trova più grande di come la ricordava.
 
-Ashe avanzò. Lo fece da sola, senza voltarsi, e gli altri capirono che non dovevano seguirla. Camminò sulla pietra liscia della piazza fino a trovarsi sotto la Crisalide, nel punto dove la luce cadeva più forte. Si fermò. Portò la mano destra all'elsa della Spada dei Re e la sinistra, dietro la spalla, alla cinghia dell'altra.
+Ashe avanzò. Lo fece da sola, senza voltarsi, e gli altri capirono che non dovevano seguirla. Camminò sulle lastre della piazza fino a trovarsi sotto la Crisalide, nel punto dove la luce cadeva più forte. Si fermò. Portò la mano destra all'elsa della Spada dei Re e la sinistra, dietro la spalla, alla cinghia dell'altra.
 
 Settecento anni prima un uomo si era fermato esattamente in quel punto, con una spada in mano e un mondo da prendere. Ashe se lo immaginò per un attimo, giovane, con la barba nera dei ritratti della sala del trono, la faccia piena di quella sicurezza che hanno soltanto i fondatori e i pazzi.
 
