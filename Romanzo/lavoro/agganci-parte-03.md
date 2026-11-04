@@ -10,3 +10,9 @@
 | "Le mie promesse sono rare, e per questo valgono molto"; "nessuno mi ruba niente" | 18 | 27 (Strahl), 28-31 (Penelo salvata) | aperto |
 | Kytes mette le scarpe a Penelo, inginocchiato | 18 | facoltativo, 25 | aperto |
 | Ba'Gamnan con il labbro tirato dalla cicatrice, Bwagi che parla troppo; "permesso di caccia dell'impero" firmato a Nalbina; la nave strana nell'hangar della Porta Sud, notizia del moguri | 18 | 20 (Nalbina), 27 (Strahl nell'hangar), 28 | aperto |
+| Sogno: Reks seduto dritto, giubba azzurra senza una manica (la manica data a Basch al cap. 4, Vaan non sa perché); gigli sani nel vaso verde; il fiato senza parole | 19 | 23, 26 (Basch e la cicatrice della mano), richiamo nella Parte XIII | aperto |
+| Cucchiaio di stagno col manico piegato dato da Migelo il primo giorno | 19 | 26 | aperto |
+| Vaan nella fossa smette di contare: "la cosa lo spaventò più di tutto il resto" | 19 | 22 (ricomincia a contare) | aperto |
+| Secondo colpo sopra l'orecchio sinistro, "di nuovo lì" | 19 | facoltativo | aperto |
+| Balthier: "Nessuno ascolta mai il protagonista"; "porcile"; "questo è ciò che io chiamo un'entrata in scena" | 19 | con misura | aperto |
+| Bangaa con la coda spezzata salvato nella conca | 19 | facoltativo, 101 | aperto |
