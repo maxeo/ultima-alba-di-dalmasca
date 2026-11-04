@@ -21,3 +21,10 @@ Correggi le descrizioni difformi nei tuoi capitoli.
 - **Vaan**: capelli biondo cenere. **Reks**: stessa famiglia, chiaro di capelli.
 - **Penelo**: capelli rossi.
 - **Balthier**: capelli castani. **Fran**: capelli bianchi, pelle scura, orecchie lunghe.
+
+## Dalla revisione delle Parti VI e IX
+
+- **Huma**, mai "hume".
+- **Gilgamesh**: al cap. 78 riconosce la spada di Basch; lascia quattordici spade rubate con lo stemma del Ministero della Legge. Il cap. 41 deve essere coerente: armatura, elmo, collezione, corda. Niente dettagli sul numero di braccia prima del cap. 104.
+- **Anello**: dopo il cap. 52 Balthier lo tiene nella tasca interna della giacca, sul petto. Ashe lo sa e non ne parla. Non restituirlo prima del cap. 112.
+- **I compagni si conoscono**: evita domande su cose note da mesi, come il nome di Fran chiesto da Ashe.

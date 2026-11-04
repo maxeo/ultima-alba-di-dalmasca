@@ -180,11 +180,7 @@ Più giù, sulla riva, Vaan stava correndo dietro a Penelo con un'alga in mano, 
 
 Ashe si alzò. Si sistemò la spada sulla schiena. Guardò Balthier, e poi la tasca della giacca di lui, e poi di nuovo Balthier.
 
-«Si chiama Fran?» chiese. «La viera che non aveva nessuna intenzione di seguirti.»
-
-«Si chiama Fran.»
-
-«Lei lo sa? Tutto?»
+«La viera che non aveva nessuna intenzione di seguirti» disse. «Lei lo sa? Tutto?»
 
 Balthier ci pensò, come se fosse una domanda che non si era mai fatto. «Fran sa sempre tutto» disse. «È la cosa più irritante di lei. Io le racconto le cose solo per vedere se fa finta di non saperle.»
 
