@@ -22,7 +22,7 @@ Stavano per aprirla quando la porta si aprì da sola.
 
 ---
 
-Erano in due. Un ragazzo con una giacca da viaggio verde e i bottoni d'argento, e una ragazza bionda con le trecce mezze disfatte, due nastri, uno azzurro e uno rosso, un gilet stinto e una mano fasciata.
+Erano in due. Un ragazzo con una casacca scura e i bottoni d'argento, e una ragazza bionda con i codini mezzi disfatti, due nastri, uno azzurro e uno rosso, un vestito azzurro stinto e una mano fasciata.
 
 Si fermarono tutti, da una parte e dall'altra della soglia.
 
@@ -82,13 +82,13 @@ Larsa si voltò verso Ashe.
 
 La guardò con quella sua attenzione quieta, la stessa con cui sulla terrazza dell'aerodromo aveva guardato Basch, la stessa con cui nella saletta di cedro aveva ascoltato Penelo. Ashe gli restituì lo sguardo. Era più alta di lui di due teste e aveva il livido sullo zigomo, e lo guardava come si guarda un nemico che ha la cortesia di presentarsi da solo.
 
-«Due anni fa» disse Larsa «il marchese Ondore annunciò al mondo che la principessa di Dalmasca si era tolta la vita e che il capitano Basch fon Ronsenburg era stato giustiziato per avere ucciso il re. Io avevo undici anni e lo lessi in un dispaccio, a cena, e mi ricordo che mio padre lo lesse dopo di me e non disse niente. Adesso tutti e due sono qui, davanti a me. Vivi. La principessa era nascosta, e lo capisco. Ma il capitano era in una prigione dell'impero. Qualcuno lo sapeva. Qualcuno lo ha tenuto lì due anni e ha lasciato che il mondo lo credesse morto.» Guardò Basch. «Se l'impero ha mentito su questo, ha mentito anche su altro. Io voglio sapere su cosa. E da quando. E chi ha deciso.»
+«Due anni fa» disse Larsa «il marchese Ondore annunciò al mondo che la principessa di Dalmasca si era tolta la vita e che il capitano Basch fon Ronsenburg era stato giustiziato per avere ucciso il re. Io avevo dieci anni e lo lessi in un dispaccio, a cena, e mi ricordo che mio padre lo lesse dopo di me e non disse niente. Adesso tutti e due sono qui, davanti a me. Vivi. La principessa era nascosta, e lo capisco. Ma il capitano era in una prigione dell'impero. Qualcuno lo sapeva. Qualcuno lo ha tenuto lì due anni e ha lasciato che il mondo lo credesse morto.» Guardò Basch. «Se l'impero ha mentito su questo, ha mentito anche su altro. Io voglio sapere su cosa. E da quando. E chi ha deciso.»
 
 «Per farne cosa?» chiese Ashe.
 
 Era la prima cosa che gli diceva, e la disse con durezza.
 
-«Per evitare la prossima guerra.» Larsa non abbassò gli occhi. «Ce ne sarà una. Lo sanno tutti ad Archades, anche se nessuno lo dice a tavola. Rozarria ammassa flotte sul confine occidentale. Il Senato e mio fratello non si parlano. E in mezzo ci sono regni come il vostro, altezza, che erano già stati schiacciati una volta. Io non voglio vedere la prossima guerra come ho visto l'ultima, in un dispaccio, a cena. Voglio sapere com'è cominciata, per capire come la si ferma.» Si fermò, e per un istante sembrò di nuovo un ragazzo di tredici anni, e non fu chiaro se lo volesse. «Voi siete la prova vivente che qualcosa non torna. Non posso lasciarvi morire su questa nave. Sarebbe come bruciare un documento.»
+«Per evitare la prossima guerra.» Larsa non abbassò gli occhi. «Ce ne sarà una. Lo sanno tutti ad Archades, anche se nessuno lo dice a tavola. Rozarria ammassa flotte sul confine occidentale. Il Senato e mio fratello non si parlano. E in mezzo ci sono regni come il vostro, altezza, che erano già stati schiacciati una volta. Io non voglio vedere la prossima guerra come ho visto l'ultima, in un dispaccio, a cena. Voglio sapere com'è cominciata, per capire come la si ferma.» Si fermò, e per un istante sembrò di nuovo un ragazzo di dodici anni, e non fu chiaro se lo volesse. «Voi siete la prova vivente che qualcosa non torna. Non posso lasciarvi morire su questa nave. Sarebbe come bruciare un documento.»
 
 Ashe rimase immobile. Vaan la guardava, e vide che la mano sinistra le si era chiusa e riaperta, e chiusa di nuovo.
 
@@ -156,7 +156,7 @@ Non capiva niente di negalite. Non sapeva che quel sasso grigio beveva la luce d
 
 Se la mise nella tasca della gonna, accanto al fazzoletto di seta color crema.
 
-Poi si girò di colpo verso Balthier, perché il fazzoletto, toccandolo, le aveva ricordato il fazzoletto, e il pirata era lì, a cinque passi, quello vero, con il cappello e la giacca e l'aria di uno che aspetta un carro in ritardo. Mise la mano in tasca. Aprì la bocca.
+Poi si girò di colpo verso Balthier, perché il fazzoletto, toccandolo, le aveva ricordato il fazzoletto, e il pirata era lì, a cinque passi, quello vero, con il gilet ricamato e gli anelli e l'aria di uno che aspetta un carro in ritardo. Mise la mano in tasca. Aprì la bocca.
 
 «Dobbiamo andare» disse Vossler.
 
@@ -178,7 +178,7 @@ Si erano rimessi a camminare verso la galleria degli hangar quando Penelo, di co
 
 Lei guardava indietro, verso il corridoio da cui era sparito Larsa. Aveva una faccia strana.
 
-«Sulla nave c'è un altro Giudice» disse. «Non quello con la cresta. Un altro. L'ho visto stamattina, dalla finestra della cabina di Larsa, mentre attraccava una nave corriera. Uno con l'armatura scura.» Esitò. «Larsa l'ha visto anche lui. Ha detto *è venuto a prendermi*, e non sembrava contento. E nemmeno scontento. Ha detto soltanto che era venuto a prendermi.»
+«Sulla nave c'è un altro Giudice» disse. «Non quello con le corna d'oro. Un altro. L'ho visto stamattina, dalla finestra della cabina di Larsa, mentre attraccava una nave corriera. Uno con l'armatura scura.» Esitò. «Larsa l'ha visto anche lui. Ha detto *è venuto a prendermi*, e non sembrava contento. E nemmeno scontento. Ha detto soltanto che era venuto a prendermi.»
 
 Basch, tre passi davanti, si era fermato. Non si voltò.
 
@@ -186,7 +186,7 @@ Basch, tre passi davanti, si era fermato. Non si voltò.
 
 «Con le corna che salgono. Così.» Penelo fece un gesto con le dita sopra la testa. «Non l'ho visto in faccia. Aveva l'elmo.»
 
-Nessuno disse niente. Fran girò le orecchie verso l'alto, verso i ponti sopra di loro, e ce le tenne. Balthier si aggiustò il cappello.
+Nessuno disse niente. Fran girò le orecchie verso l'alto, verso i ponti sopra di loro, e ce le tenne. Balthier si aggiustò il colletto alto della camicia.
 
 Poi, in fondo alla galleria, si aprì una porta, e la luce del giorno, la luce vera, bianca e azzurra, entrò nel corridoio, e insieme alla luce entrò il vento del cielo, freddo e pulito, e l'odore dei motori.
 

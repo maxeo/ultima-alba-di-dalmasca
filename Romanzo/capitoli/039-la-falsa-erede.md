@@ -8,7 +8,7 @@ Il Giudice Ghis aspettava con le mani dietro la schiena.
 
 Dietro di lui, a semicerchio, c'erano soldati. Venti, forse di più. Altri ne uscirono dalle porte laterali appena il gruppo fu entrato, e le porte si chiusero alle loro spalle, e Vaan sentì il rumore dei chiavistelli.
 
-«Avete preso la strada lunga» disse Ghis. «Ma l'avete presa bene. Le mie congratulazioni al pirata per il pannello delle sirene. Il mio tecnico di bordo è ancora lì che cerca di capire come avete fatto. Gli ho detto di non preoccuparsi: alla fine si arriva sempre qui.» Allargò le braccia, e il mantello verde gli si gonfiò nel vento. «Qui non c'è niente da spegnere.»
+«Avete preso la strada lunga» disse Ghis. «Ma l'avete presa bene. Le mie congratulazioni al pirata per il pannello delle sirene. Il mio tecnico di bordo è ancora lì che cerca di capire come avete fatto. Gli ho detto di non preoccuparsi: alla fine si arriva sempre qui.» Allargò le braccia, e la luce gli corse sull'armatura d'oro e bianca. «Qui non c'è niente da spegnere.»
 
 Nessuno rispose. Basch si era messo davanti, e la principessa, questa volta, era rimasta dietro di lui senza dire niente. Balthier aveva la pistola in mano. Fran l'arco. Vaan aveva la spada e Penelo, che di armi non ne aveva, si era guardata attorno e aveva staccato dal muro, da una rastrelliera di attrezzi, un'asta di ferro per agganciare le catene delle navette, lunga quanto lei, e la teneva con tutte e due le mani, un poco sbilanciata, ma la teneva.
 
@@ -116,17 +116,17 @@ Non lo aveva deciso. Si era trovato lì perché la mischia lo aveva spinto lì, 
 
 Mezzo passo bastò a Basch.
 
-Il colpo prese Ghis sull'elmo, di piatto, dall'alto, e il suono riempì l'hangar e tornò indietro dalle pareti. Il Giudice barcollò. Fece due passi indietro. Al terzo, l'elmo a cresta gli scivolò dalla testa, perché la cinghia sotto il mento si era rotta, e cadde sul pavimento di metallo con un rumore di campana sfondata, e rotolò, e si fermò ai piedi di Penelo.
+Il colpo prese Ghis sull'elmo, di piatto, dall'alto, e il suono riempì l'hangar e tornò indietro dalle pareti. Il Giudice barcollò. Fece due passi indietro. Al terzo, l'elmo a corna gli scivolò dalla testa, perché la cinghia sotto il mento si era rotta, e cadde sul pavimento di metallo con un rumore di campana sfondata, e rotolò, e si fermò ai piedi di Penelo.
 
 Ghis cadde su un ginocchio.
 
-Vaan lo guardò. Era la prima volta che vedeva la faccia di un Giudice Magister, e restò deluso, poi spaventato di esserlo. Era la faccia di un uomo sulla cinquantina, calvo, con le guance scavate e una piccola cicatrice bianca all'angolo della bocca, e due occhi grigi, chiari, molto stanchi. Non era terribile. Era la faccia di un funzionario a fine giornata. Guardava il pavimento davanti a sé con un'espressione di sorpresa infinita, come se non riuscisse a mettere insieme le cose: il comandante dell'Ottava Flotta, il signore del Leviatano, in ginocchio nel suo hangar davanti a una principessa morta, un regicida morto, due pirati, una ladra con un'asta da catene e un ragazzo che gli era venuto addosso come in una rissa.
+Vaan lo guardò. Era la prima volta che vedeva la faccia di un Giudice Magister, e restò deluso, poi spaventato di esserlo. Era la faccia di un uomo sulla quarantina, con i capelli grigio acciaio ricci schiacciati dall'elmo, un pizzetto, le guance scavate e una piccola cicatrice bianca all'angolo della bocca, e due occhi grigi, chiari, molto stanchi. Non era terribile. Era la faccia di un funzionario a fine giornata. Guardava il pavimento davanti a sé con un'espressione di sorpresa infinita, come se non riuscisse a mettere insieme le cose: il comandante dell'Ottava Flotta, il signore del Leviatano, in ginocchio nel suo hangar davanti a una principessa morta, un regicida morto, due pirati, una ladra con un'asta da catene e un ragazzo che gli era venuto addosso come in una rissa.
 
 Ashe gli era sopra con la spada alzata.
 
 Il Giudice alzò gli occhi verso di lei. Non disse niente. Non chiese niente.
 
-La principessa tenne la spada alzata per un respiro. Due. Vaan vide che il braccio le tremava. Vide la punta della lama, sopra la testa calva dell'uomo in ginocchio, tremare, e vide che non era stanchezza.
+La principessa tenne la spada alzata per un respiro. Due. Vaan vide che il braccio le tremava. Vide la punta della lama, sopra i capelli grigi dell'uomo in ginocchio, tremare, e vide che non era stanchezza.
 
 Poi una voce gridò dall'alto.
 
@@ -188,7 +188,7 @@ Penelo guardava dall'oblò le navi della flotta. Erano tutte attorno a loro: le 
 
 «Non ancora» disse Fran.
 
-Penelo guardò Vaan. Vaan guardò Balthier. Balthier si era seduto sulla panca di fronte con le gambe accavallate e il cappello sul ginocchio, e sembrava che stesse aspettando l'ora del tè.
+Penelo guardò Vaan. Vaan guardò Balthier. Balthier si era seduto sulla panca di fronte con le gambe accavallate e le mani intrecciate sul ginocchio, e sembrava che stesse aspettando l'ora del tè.
 
 Due navette imperiali sbucarono da sotto una nave di scorta e si misero sulla loro rotta. Si avvicinarono. Dalla stiva dell'Atomos si vedevano le loro cabine, i piloti con gli elmi. Una delle due si affiancò, così vicina che Vaan avrebbe potuto contare i rivetti, e accanto alla sedia di Fran un tubo di ottone si mise a gracchiare con una voce metallica e stanca.
 
@@ -204,7 +204,7 @@ Il tubo gracchiò. *Ricevuto. Procedete.*
 
 La navetta imperiale si staccò, e virò, e se ne andò con la sua gemella verso un'altra nave della flotta, senza fretta.
 
-Balthier rimise il tubo al suo posto. Tornò in stiva. Si sedette sulla panca, riprese il cappello dal ginocchio e se lo rimise in testa.
+Balthier rimise il tubo al suo posto. Tornò in stiva. Si sedette sulla panca, accavallò di nuovo le gambe e si sistemò un bracciale.
 
 Tutti lo guardavano.
 

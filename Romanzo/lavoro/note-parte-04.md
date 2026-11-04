@@ -91,3 +91,8 @@
 - Possibile debolezza: la rivelazione di Larsa (cap. 32) arriva da Balthier e non da una scena; la fonte fa lo stesso.
 
 FINE PARTE
+
+## Dopo le revisioni `aspetto.md` e `generali.md`
+- Corretti nei cap. 28-39: Larsa ha dodici anni (dieci all'annuncio delle morti, undici nel ricordo di Gabranth), capelli scuri lunghi, casacca scura e stivali verdi; Ghis con armatura d'oro, bianco e rosso, elmo a corna, capelli grigio acciaio ricci e pizzetto; Ondore alto e magro, capelli bianchi, soprabito zafferano, senza turbante; Drace con capelli castani alle spalle; Bergan biondo con basette, elmo "a bocca di rana"; Cid con capelli e barba d'argento, occhiali ovali, soprabito rosso cupo e viola, guanti bianchi; Vossler con capelli scuri, barba di qualche giorno, collare di cuoio; Basch con capelli lunghi legati e barba e pizzetto; Ashe con capelli biondo sabbia corti; Penelo con codini e vestito azzurro. Tolto il cappello di Balthier, che non ne ha.
+- Nessun "Estersand", "hume" o "i principi" per coppie nei cap. 28-39.
+- I bottoni d'argento con il sigillo Solidor rovesciato (cap. 32) restano come invenzione; lo stemma azzurro al collo non è nominato.

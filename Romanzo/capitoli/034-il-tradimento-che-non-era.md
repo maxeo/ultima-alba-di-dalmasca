@@ -26,7 +26,7 @@ Il segretario aprì una porta a due battenti e si fece da parte.
 
 Il marchese li aspettava in piedi.
 
-Era la stessa persona delle miniere, ma vestita diversamente: una veste lunga blu notte, il turbante bianco con la pietra azzurra, e in mano un bastone d'ebano con il pomo d'argento, su cui appoggiava il peso senza averne bisogno. La sala era grande e quasi vuota. Un tavolo coperto di carte, due poltrone, un camino acceso con un fuoco piccolo, e una parete tutta di finestre da cui si vedevano, sospese nel cielo viola, le navi della flotta.
+Era la stessa persona delle miniere, ma vestita diversamente: il lungo soprabito giallo zafferano, i capelli bianchi pettinati all'indietro, e in mano un bastone d'ebano con il pomo d'argento, su cui appoggiava il peso senza averne bisogno. La sala era grande e quasi vuota. Un tavolo coperto di carte, due poltrone, un camino acceso con un fuoco piccolo, e una parete tutta di finestre da cui si vedevano, sospese nel cielo viola, le navi della flotta.
 
 Halim Ondore IV guardò entrare il suo seguito, uno per uno. Guardò Vaan senza curiosità, Fran con un'occhiata breve, Balthier con un'attenzione un po' più lunga, quella che si riserva a un nome che si è letto in un rapporto. Poi guardò Basch, e non disse niente per un tempo che parve a tutti molto lungo e che forse non lo era.
 
