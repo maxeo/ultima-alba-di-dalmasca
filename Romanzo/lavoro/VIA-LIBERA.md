@@ -24,5 +24,5 @@ I pilota, capitoli 1 e 21, sono approvati e sono il modello di voce. Leggili pri
 - **Vaan a Rabanastre**: dorme sopra la bottega di Migelo; ha vegliato Reks in quella stanza, gli dava l'acqua col cucchiaio e non si è accorto della morte. Cap. 5, 19 e 26 devono essere coerenti con il cap. 21.
 - **Regola dell'elmo dei Giudici**: un Giudice non si scopre davanti a un prigioniero. Vale in tutto il romanzo, in particolare per Gabranth davanti a Basch e al cap. 105.
 - **Cap. 22**: parte da Vaan sul ponte di assi, aggrappato alla gabbia, mentre Fran tira la leva.
-- **Raminas**: sessant'anni, trenta di regno. Ashe è unica erede.
+- **Raminas**: sessantasei anni, trenta di regno. Ashe è unica erede.
 - **Mercato di Rabanastre**: Muthru. Via dei Tessitori, via delle Fontane, via dei Calderai. Stessi nomi ovunque.
