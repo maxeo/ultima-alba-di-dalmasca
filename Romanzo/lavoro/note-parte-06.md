@@ -15,3 +15,10 @@
 - Anello: Balthier vede il nodo di cotone, nota che è largo, chiede "su che dito lo hanno misurato?", risposta "su un guanto". Non chiede altro. Lo tiene nella tasca interna sul petto: posizione da mantenere fino al cap. 77 e al 112.
 - Gag della Parte avviata: gli stivali di Archades di Balthier nel fango ("hai bisogno di piedi diversi").
 - Penelo nota che Ashe "non sa dove mettere la mano" sinistra, ora aperta.
+
+## Cap. 53
+- Circa 3.300 parole. Il bastone di java è dato da Zayalu a Vaan "perché ha le mani libere"; Vaan lo consegna a Supinelu (fix 2). Gag del bastone portato nei modi sbagliati sui ponti.
+- Supinelu crede ad Ashe perché "nella piana stava davanti": la prova della sincerità passa da un fatto, non dagli occhi.
+- Uball-ka nominato (fix 3). Racconto del dono degli dèi in discorso diretto; frase finale "chi vuole di più le pietre... è quello che le pietre vogliono di più".
+- Pietre appese ai pali della Collina degli Antichi che tintinnano e tacciono: invenzione ambientale.
+- Penelo tocca la pietra di Larsa all'arrivo del principe: semina per il cap. 62.
