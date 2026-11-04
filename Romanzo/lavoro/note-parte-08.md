@@ -20,3 +20,11 @@
 - Tende dei profughi in ogni cortile; torna la donna con la tenda dei Fratelli Haddur. Ashe conta le persone: "troppi, e sono quelli che sono arrivati".
 - Anastasis: "dorme?" di Vaan; "il sogno è uno specchio"; "di solito mi chiedono se sono morto". Riconosce Ashe e descrive il suo sogno (città bianca, porta azzurra, balcone).
 - Al-Cid entra dall'ombra; chiusa su Balthier: "uno come me, ma con più soldi". La notizia di Gramis è nel cap. 67.
+
+## Cap. 67
+- Al-Cid: baciamano e complimento sul deserto e i fiori; Ashe "molto gentile e molto inopportuno"; Larsa arrossisce. Penelo: "è sempre così?".
+- Anastasis presenta i due "ragazzi" che si sono scritti di nascosto per mesi (inventato il carteggio segreto).
+- Morte di Gramis detta da Al-Cid; "Padre" di Larsa senza eco nella sala; Penelo gli prende la mano. Versione ufficiale: Gregoroth (coerente con le memorie di Ondore del cap. 64).
+- Flotte dal foglio di Al-Cid: Dodicesima, Prima in attesa dell'Odin, seconda forza da Kerwon. "Quaranta giorni" dal Leviatano: controllare la cronologia della Parte VI-VII.
+- Rinuncia di Ashe: "Dalmasca non dimentica... ma non dimenticare non vuol dire avere fretta" (aggancio del cap. 51 tornato). Chiede "una forza che rompa il potere delle pietre".
+- Anastasis apre gli occhi, bianchi: è cieco, come in bibbia. La Spada dei Re arriva nel cap. 69.
