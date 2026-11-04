@@ -29,3 +29,10 @@
 - Balthier su Nabudis: "Non so chi l'abbia fatto. So chi è capace di volerlo". Nessuna menzione di Zecht.
 - Chiusura su Fran: "Gliel'hai detto", non una domanda.
 - Nessuna battuta sul "protagonista": la scena resta seria; il filo riprende più avanti.
+
+## Cap. 78
+- Inventati: colonnine miliari dei Solidor tutte dello stesso anno; Aurel, ex ispettore delle strade di Tchita che fa il giro a sue spese, via del Pozzo Vecchio 9. Ha dato la chiave a forma di mano.
+- Sochen: le cinque piante della "corte" in poche righe comiche, `27 VIII-IX` tagliate. Battute di Penelo, Ashe e Vaan sull'essere riconosciuti tenute.
+- Vecchia Archades come Città Bassa dell'Impero: Ashe se ne vergogna un poco.
+- **Gilgamesh, secondo incontro**: riconosce Basch ("una spada che io non ho"). Il cap. 41 non è ancora scritto: non nomino che cosa lasciò di rubato allora. Basch lo atterra con la sua stessa corda; lui fugge e lascia quattordici spade con lo stemma del Ministero della Legge. Jules non compra più da lui: le spade aprono la porta al cap. 79.
+- Gilgamesh descritto solo per armatura, elmo e collezione: nessun dettaglio fisico che vincoli il cap. 41 (numero di braccia ecc.).

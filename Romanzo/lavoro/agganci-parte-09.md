@@ -17,3 +17,6 @@
 | Anello nella tasca interna della giacca di Balthier: mano sulla tasca, mai tirato fuori | 77 | 112 | aperto |
 | Rasler: "noi due saremo una nota a piè di pagina di una mappa" | 77 | 88-89 (chi scrive la storia); 113 | aperto |
 | Oro rosso del tramonto sulla Costa Phon, colore delle miniere di Dalmasca (fede nuziale) | 77 | 112 | aperto |
+| Aurel e la chiave a forma di mano da restituire in via del Pozzo Vecchio 9 | 78 | 79 o 80 (restituita); facoltativo 101 | aperto |
+| Gilgamesh: "Ci rivedremo quando meno te lo aspetti"; quattordici spade dell'armeria dei Giudici | 78 | 79 (pagamento a Jules); 104 (cenno finale) | aperto |
+| Balthier: "Lassù la puzza è diversa. Profuma. È questo il problema" | 78 | 80-81 | aperto |
