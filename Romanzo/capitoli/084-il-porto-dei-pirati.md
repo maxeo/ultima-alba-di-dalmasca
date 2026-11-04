@@ -40,7 +40,7 @@ La nave di Reddas li aveva portati fin lì in due giorni, da una baia segreta so
 
 Al molo li aspettavano tre persone.
 
-La prima era un huma giovane, con i capelli scuri lunghi e arruffati, il pizzetto, una benda sull'occhio destro e un pezzo di catena spezzata che gli pendeva dal polso sinistro, e un modo di stare in piedi con il peso tutto su una gamba che sembrava studiato davanti allo specchio. La seconda era una donna minuta, con i capelli tagliati sopra le spalle e un coltello infilato nello stivale, che teneva le braccia conserte e la faccia di chi è stata svegliata troppo presto per un motivo che non approva. Il terzo era un seeq enorme, con un anello d'oro al naso e un grembiule da cuoco sopra la camicia, che sorrideva a tutti senza nessuna ragione evidente.
+La prima era un huma giovane, con i capelli scuri lunghi e arruffati, il pizzetto, una benda sull'occhio destro e un pezzo di catena spezzata che gli pendeva dal polso sinistro, e un modo di stare in piedi con il peso tutto su una gamba che sembrava studiato davanti allo specchio. La seconda era una donna alta, con le spalle di chi ha tirato funi per molti anni e un coltello infilato nello stivale, che teneva le braccia conserte e la faccia di chi è stata svegliata troppo presto per un motivo che non approva. Il terzo era un Seeq dal collo largo e dalle mani piccolissime, con un anello d'oro al naso e un grembiule da cuoco sopra la camicia, che sorrideva a tutti senza nessuna ragione evidente.
 
 «Il capo è tornato!» disse il seeq. «Il capo ha portato ospiti! Ho fatto la zuppa!»
 
