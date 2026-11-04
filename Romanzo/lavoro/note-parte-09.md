@@ -50,3 +50,19 @@
 - Chop resi come "attestati di merito civico" in tavolette di pino, quercia ed ebano: il nome di gioco non compare. Satira in poche commissioni, senza elenco.
 - **Ultima caccia di Ba'Gamnan**: fermato dall'"Ispettorato dell'armonia civica" per mancanza di attestati e contratto non registrato; undici moduli in triplice copia. Rinuncia a voce alta: "Ba'Gamnan smette". Con lui Bwagi, Gijuk, Rinok.
 - Jules fa credito per i 2.500 gil: "essere in debito è già una posizione sociale".
+
+## Cap. 81
+- Tsenoble senza numeri civici, portieri sui tappeti. Balthier aveva procurato gli attestati "da una persona che mi doveva un favore da sei anni" e li aveva dati a Jules: Vaan ha lavorato per niente. Jules salda così i 2.500 gil.
+- Repressione del Senato vista da una strada laterale: Giudice Magister senza nome, carro con il presidente sotto il telo. Coorte a Draklor "per ordine del palazzo".
+- Jules non ha venduto Balthier ai Giudici: ha venduto ai Giudici la notizia di amici del Senato dentro Draklor, e venderà Balthier ai compratori di Rozarria e agli armatori.
+- "Ffamran": Balthier si ferma per un passo, non si volta. Penelo chiede, nessuno risponde. Fran posa la mano accanto alla sua senza toccarla.
+- Il capitolo finisce in volo; l'arrivo a Draklor (`28 IX`) apre il cap. 82.
+
+## Rilettura della Parte IX
+- Ridotti i tic di Balthier ("si sistemò la giacca", polsini): restano il gesto del cap. 77, che richiama il cap. 21, e uno al cap. 78.
+- Controllate le formule vietate su tutta la Parte; corrette una al cap. 80 e una al cap. 81 ("ci fermiamo").
+- Gag della Parte: stivali da ponte (74-76, 78), vita civile e attestati (80-81), cartelli e scatole degli impiegati (79-80). Nessun riuso di Pancia, guanti o "guarda i tetti".
+- Fili toccati: Nabudis e il visitatore senza nome (75); protocolli imperiali e rivelazione (77); fede di Ashe e anello in tasca a Balthier (75, 77); "Ffamran" (81); Clan (79); Gilgamesh (78-79); Ba'Gamnan (80).
+- Da verificare dal regista: Reks alla porta di fondo (74), richiesta di Rasler a Basch (75), Gilgamesh compatibile con il cap. 41.
+
+FINE PARTE
