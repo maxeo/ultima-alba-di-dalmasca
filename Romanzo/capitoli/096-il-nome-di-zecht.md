@@ -18,7 +18,7 @@ Ashe aveva abbassato le spade. Guardava Reddas, e la figura di Rasler era rimast
 
 «Il Giudice non sapeva che cosa stava per fare» disse Reddas. «Questo lo dico perché è vero, non perché lo scusi. Non lo sapeva nessuno. Nessuno lo aveva mai fatto, da settecento anni. Gli dissero che era una prova. Lui obbedì. Era stato addestrato per obbedire, e lo faceva bene. Era molto, molto bravo a obbedire.» Le lame si incrociarono di nuovo, alte, e Reddas tenne. «Era mattina presto. Si mise nella cappella, con la pietra nella cassa aperta e due tecnici di Draklor che prendevano appunti. Fece quello che gli avevano detto di fare. Poi...»
 
-Si fermò. Non per un colpo: Gabranth, in quel momento, non lo stava colpendo. Si fermò e basta, con le due spade alzate, e per un istante il signore dei pirati di Balfonheim restò con la bocca aperta su una parola che non usciva.
+Si fermò. Non per un colpo: Gabranth, adesso, non lo stava colpendo. Si fermò e basta, con le due spade alzate, e per un istante il signore dei pirati di Balfonheim restò con la bocca aperta su una parola che non usciva.
 
 «Poi non c'era più Nabudis» disse.
 
@@ -44,6 +44,32 @@ Reddas non lo negò. Non disse niente per un momento. Poi fece una cosa che ness
 
 «Era il mio nome» disse. «Ne ho un altro, adesso. Mi sta meglio.»
 
+Basch parlò per primo. Non a Reddas, non a Gabranth. Parlò guardando un punto della piazza dove non c'era niente, con la voce di chi fa un rapporto a un ufficiale che non è più vivo.
+
+«La vedemmo da Nalbina.»
+
+Reddas girò la testa verso di lui.
+
+«Eravamo sulle mura. Era l'alba, il secondo giorno dell'assedio. Io avevo il turno sul bastione di nord-est con una ventina di uomini, e c'era un ragazzo che non riusciva a stare fermo e guardava sempre verso Nabradia, perché aveva una zia lassù.» Basch si fermò un istante; nessuno chiese il nome del ragazzo, e lui non lo disse. «Si accese il cielo. Laggiù, oltre le colline, molto lontano. Una luce bianca, poi nient'altro. Nessun tuono. Pensammo a un incendio, poi a un segnale, poi non pensammo più niente, perché gli archadiani attaccarono la porta sud un'ora dopo e non ci fu più tempo di guardare verso nord. Due giorni dopo arrivò un cavaliere di Nabradia con il cavallo morto sotto di lui, e disse che non c'era più una città dove portare il messaggio. Non gli credemmo. Lo mettemmo a dormire.»
+
+«Ha detto il vero» disse Reddas.
+
+«Lo so. Adesso lo so.» Basch abbassò gli occhi. «Il principe Rasler era con noi, quel giorno. Era salito sulle mura per vedere la luce. Mi chiese cosa fosse, e io gli dissi che non lo sapevo. Morì il giorno dopo senza saperlo.»
+
+Ashe, a quelle parole, chiuse la mano sinistra.
+
+Anche Balthier si era mosso. Teneva ancora la pistola, ma l'aveva abbassata, e guardava Reddas con un'espressione che non gli si vedeva spesso: senza difese, quasi infantile, come davanti a un ritratto in una casa dove si è stati bambini.
+
+«Il pennacchio grigio» disse. «Ma certo. Sulla Via dei Trionfi, a cavallo, davanti al Ministero. Il Giudice Zecht aveva un chocobo grigio ferro che non sopportava le trombe e faceva un mezzo passo di lato a ogni squillo. Tutta Archades rideva di quel chocobo e nessuno osava ridere del Giudice.» Si interruppe. Si accorse di quello che aveva appena detto davanti a tutti, e di come lo aveva detto, e non fece nulla per riprenderselo. «Avevo quindici anni. Ero sul palco dei cadetti. Ti ho guardato passare e ho pensato che non avrei mai voluto essere uno come te.»
+
+«E invece?» chiese Reddas.
+
+«E invece me ne sono andato prima.» Balthier fece un sorriso storto. «È la sola cosa in cui ti ho battuto.»
+
+Fran gli mise una mano sul braccio, brevemente, e la tolse. Reddas guardò Balthier a lungo, e qualcosa si sciolse un poco nella sua faccia, come si scioglie la faccia di un uomo che in terra straniera sente un'altra persona dire il nome di una strada di casa.
+
+«Il chocobo si chiamava Ferro» disse. «Morì l'anno prima di Nabudis. Fu l'ultima cosa di Archades che ho pianto.»
+
 ---
 
 Ashe lo guardava.
@@ -54,6 +80,12 @@ Tutte le cose che non tornavano, in quell'uomo, tornarono in un solo istante, e 
 
 «Perché sareste stati gentili con me» disse Reddas. «E io non lo merito.»
 
+«Lo saremmo stati lo stesso» disse Penelo.
+
+«Lo so, ragazza. Per questo.»
+
+Penelo aprì la bocca, la richiuse. Aveva sentito di uomini che nascondevano un delitto per paura della forca, e di uomini che lo nascondevano per vergogna; non aveva mai sentito di uno che lo nascondesse per paura di essere perdonato troppo presto. Lo guardò come si guarda una persona nuova, e in un certo senso lo era.
+
 «Ti credi meglio di me?» Gabranth aveva rialzato le spade. «Hai cambiato nome, ti sei messo un cappello e ti sei comprato una casa sul mare. E adesso vieni a fare la predica a una principessa. Il tuo nome è scritto nella stessa lista del mio, Zecht. Più in alto. Io ho ucciso un re; tu hai ucciso una città. Non c'è un porto abbastanza lontano.»
 
 «Lo so.»
@@ -61,6 +93,10 @@ Tutte le cose che non tornavano, in quell'uomo, tornarono in un solo istante, e 
 «E allora?»
 
 «E allora niente.» Reddas ripeté la stessa frase che Gabranth aveva detto a Vaan poco prima, con la stessa voce, quasi le stesse pause, e Gabranth lo sentì, e l'elmo si irrigidì. «Il passato non si toglie. Hai ragione tu. L'ho detto io stesso, salendo. Non sono venuto qui per togliermelo. Sono venuto qui perché nessuno lo faccia di nuovo.»
+
+Gabranth non rispose. Dentro l'elmo, dove nessuno poteva vederlo, chiuse gli occhi un istante. Anche lui, una notte, aveva ricevuto un ordine. Non c'era un sigillo, quella volta: c'era stata la voce di un uomo giovane ed elegante in una stanza di Archades, che gli parlava con gentilezza di quanto sarebbe stato utile alla pace se il re di Dalmasca non avesse firmato niente, e di quanto fosse una fortuna che il Giudice avesse un fratello. Gabranth aveva detto sì prima che la frase fosse finita. Ricordava di aver provato, nel dirlo, una cosa che somigliava alla gioia. Era la cosa che ricordava peggio, e la ricordava ogni notte.
+
+Davanti a lui c'era un uomo che aveva obbedito come lui e che adesso non obbediva più. Gabranth lo detestò per questo con una forza che lo sorprese, più di quanto detestasse Basch, e non seppe perché.
 
 Si girò verso Ashe. Gabranth non lo attaccò alle spalle, e nessuno capì perché, e forse non lo capì nemmeno lui.
 
@@ -106,7 +142,7 @@ Ed era quello che non tornava.
 
 Rasler non le avrebbe teso la mano per indicarle una spada. Rasler, se fosse stato lì, le avrebbe detto qualcosa di stupido sui chocobo. Avrebbe chiesto chi erano quegli uomini con le spade e perché litigavano in un posto così bello. Avrebbe preso in giro Balthier per i polsini. Si sarebbe inginocchiato davanti a Penelo per chiederle il nome, perché era il genere di principe che si inginocchiava davanti alle ragazze della Città Bassa per chiedere il nome. Avrebbe avuto paura della pietra, perché non era stupido, e l'avrebbe detto.
 
-Non le avrebbe mai chiesto Nabudis. Nabudis era la sua città. Era morto per difenderla da quelli che l'avevano distrutta.
+Non le avrebbe mai chiesto Nabudis. Nabudis era la sua città. Suo padre, il vecchio re che non era venuto alle nozze per la gotta e per i reggimenti al confine, era lì dentro quella mattina, nel palazzo sopra la cappella, quando la luce era partita; Rasler lo aveva chiesto a tutti, a Nalbina, per un giorno intero, e nessuno aveva saputo rispondergli, e poi era morto anche lui con la domanda ancora in bocca. Ashe lo seppe adesso, nella piazza del Faro, guardando le mani di Reddas: dov'era finito suo suocero, e chi aveva acceso quella luce.
 
 Quello che stava lì le chiedeva di fare a un'altra città quello che avevano fatto alla sua.
 

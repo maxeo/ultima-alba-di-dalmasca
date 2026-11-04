@@ -34,3 +34,11 @@ Stessa tabella di `agganci.md`. Le voci dei capitoli 1 e 21 sono già in `agganc
 | Raminas muore dicendo un nome che Reks non capisce | 5 | Nessun ritorno obbligato; lasciato aperto | aperto |
 | Il trattato non firmato: "mi mancava ancora una riga" | 5 | 6 (la resa annunciata comunque come firmata) | aperto |
 | Reks spera di aver spiegato a Vaan che "qualcuno deve restare a casa" | 5 | 112 | aperto |
+| Tavolette del re ridipinte sopra un altro re | 6 | Facoltativo: mercato di Rabanastre nella Parte II | aperto |
+| Armi dell'Ordine "deposte nelle cisterne" | 6 | Resistenza di Dalan e canali (Parte II, cap. 13-16) | aperto |
+| Proclama di Ondore: nessun dettaglio su corpo, funerale, chi l'ha trovata | 6 | `file09` sez. I (Amalia è Ashe); memorie di Ondore nelle Parti successive | aperto |
+| Una donna dice "bene" alla sentenza di Basch; Vaan in piazza | 6 | 21 (lo ricorda) | tornato |
+| Trattato di Raminas scomparso; resa firmata dal cancelliere Halvor senza leggerla | 6 | Facoltativo: Ondore o Larsa ne parlano nella Parte IV | aperto |
+| Il tribuno archadiano toglie dalla mappa i pesi di Dalmasca e Nabradia; restano gli undici | 6 | Parte XIII (i pesi o la mappa ritrovati nel palazzo) | aperto |
+| Calici di cristallo mai usati, inventariati "da restituire" | 6 | Chiude la gag del cap. 1 | chiuso |
+| La cuoca anziana non crede al suicidio e mette da parte un piatto | 6 | Facoltativo: Rabanastre nella Parte VI, quando Ashe si rivela; Parte XIII | aperto |

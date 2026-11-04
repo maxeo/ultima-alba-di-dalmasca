@@ -1,6 +1,6 @@
 ## 10. Il vecchio che sapeva
 
-Le feste per l'insediamento del console durarono tre giorni, secondo l'uso di Archades, che misura l'importanza di un uomo dal numero di sere in cui lo si festeggia. La prima sera mangiarono gli ufficiali, la seconda i mercanti e i notabili che avevano chiesto di essere invitati, la terza, la più grande, la vecchia nobiltà di Dalmasca, quella che era rimasta, convocata con biglietti scritti a mano su carta color avorio e un sigillo che nessuno poteva permettersi di rifiutare. Migelo aveva la lista per tutte e tre. Dormiva quattro ore per notte e batteva la coda anche nel sonno.
+Le feste per l'insediamento del console durarono cinque giorni, secondo l'uso di Archades, che misura l'importanza di un uomo dal numero di sere in cui lo si festeggia. La prima sera mangiarono gli ufficiali, la seconda e la terza i mercanti e i notabili che avevano chiesto di essere invitati, la quarta i comandanti della guarnigione di Nalbina, venuti apposta, e la quinta, la più grande, la vecchia nobiltà di Dalmasca, quella che era rimasta, convocata con biglietti scritti a mano su carta color avorio e un sigillo che nessuno poteva permettersi di rifiutare. Migelo aveva la lista per tutte e cinque. Dormiva quattro ore per notte e batteva la coda anche nel sonno.
 
 Vaan, per due giorni, guardò il palazzo.
 

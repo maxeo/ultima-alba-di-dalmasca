@@ -27,3 +27,9 @@
 - Lamont esce da solo verso Ghis per coprire il gruppo (Fran: "Ci copre"). Penelo intravede Vaan nell'ombra e tace su un segno di Lamont.
 - Accenno ai testimoni che raccontano il lancio in cinque modi: vale come accenno alle fonti leggero, non come citazione di documenti.
 - Il capitolo chiude su Balthier che sta per dire chi è Lamont: la rivelazione apre il cap. 32.
+
+## Cap. 32
+- Traccia di Balthier: riconosce Larsa dai bottoni, con il sigillo della casa Solidor (fiore a cinque petali, inventato) portato rovesciato dai figli cadetti. Fran blocca la battuta "romanzi": "romanzi di araldica". Il sigillo è un'invenzione da tenere coerente o da sostituire con quello ufficiale.
+- Gag piena: Vaan "secondo capitano Basch" per una sera e una mattina; battute di Basch ("Io non urlo", "Non mi muovo così") e di Fran ("Adesso sì", "Peccato").
+- Vaan ha un attimo di vertigine gridando il nome dell'uomo che ha insultato a Nalbina: piccolo passo verso il cap. 33-37, senza perdono esplicito.
+- Havharo umano, barba grigia, veste da mercante; il covo è dietro la cucina della "taverna delle Nuvole". Le guide cittadine sono agenti.
