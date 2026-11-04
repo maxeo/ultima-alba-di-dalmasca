@@ -11,7 +11,7 @@
 | Aeronave piccola e scura che vola bassa verso sud: non nominata (la Strahl) | 7 | 14 (Vaan la riconosce?) | aperto |
 | Montblanc alla Sandsea: tavolo solo, quaderno, segno della "piccola spiga" accanto ai nomi del Clan; prezzo delle notizie in notizie | 8 | 10-13 (piccoli favori), 35-36, 57, 79 | aperto |
 | Soldati di Nalbina chiamano Vayne "macellaio" con ammirazione | 8 | 9 (discorso), 35 | aperto |
-| Gigli di Galbana: Reks li comprava per la brocca di casa "perché la casa senza sa di chiuso"; Vaan ne coglie tre per il tavolino accanto al letto di Reks; schiacciati dal chocobo del console | 8 | 19 (sogno), richiamo nella Parte XIII | aperto |
+| Gigli di Galbana: la madre li teneva nel vaso verde crepato; Reks aveva promesso di andarli a prendere insieme; Vaan ne coglie tre per il vaso sulla finestra sopra la bottega; schiacciati dal chocobo del console | 8 | 19 (sogno), richiamo nella Parte XIII | aperto |
 | Ciuffo del Pomodoro Smarrito come prova della caccia | 8 | 9-10 (Tomaj, Dalan) | aperto |
 | Migelo e la coda che batte (tac; tac doppio quando va storto); occhiali inutili alla catenella | 8 | 9, 25, 101-103 | aperto |
 | Ultimo rosso delle vigne della Porta Ovest, sacrificato da Migelo alle guardie | 8 | facoltativo, 26 | aperto |
@@ -35,7 +35,7 @@
 | "Non vado da nessuna parte" / "Te lo dico prima, quando me ne vado": promessa a Penelo, subito tradita | 12 | 18, 26-27 (Vaan parte sulla Strahl: questa volta glielo dice?) | aperto |
 | I fratelli di Penelo hanno un nome: Kel (il più alto) e Doran; alle nozze lei era sulle spalle di Kel in via delle Fontane | 12 | 26 | aperto |
 | Pattuglia nella notte di Giza: la Resistenza "vuole fare qualcosa" alla cena grande; Vayne ordina di "lasciarli arrivare" | 12 | 13 (Vossler), 17 (trappola, cattura davanti a Vayne) | aperto |
-| Tazza vuota sul tavolino accanto al letto di Reks | 12 | 19, 26 | aperto |
+| Vaso verde vuoto sulla finestra sopra la bottega (la branda di Reks ancora lì) | 12 | 19, 26 | aperto |
 | Dalan ricarica la Luna Crescente a mani a coppa, togliendosi lo zucchetto; la pietra diventa azzurra e fredda | 13 | 14 (porta della tesoreria) | aperto |
 | Dalan manda Kytes ad aprire la porta del magazzino cinque prima di sapere se Vaan torna con la pietra | 13 | 25 (Vaan capisce il ruolo di Dalan) | aperto |
 | Kytes apre serrature con un filo di ferro, gliel'ha insegnato Ammar; "la cosa con dieci braccia" dei canali | 13 | 16 (canali), 25 | aperto |
@@ -44,8 +44,10 @@
 | Ludda, serva Seeq del palazzo, pestata da uno stivale archadiano: "se ti prendono, non mi conosci" | 13 | facoltativo, 25 o 101 | aperto |
 | Leone sul pavimento con il cerchio vuoto nella zampa: "il leone vuole la luna" | 13 | 14 | aperto |
 | Tacche sullo stipite del passaggio segreto: "A. 4" fino a "A. 14", altezze di una bambina; pantofole ricamate nelle nicchie | 14 | 36 o 40 (Ashe rivelata ricorda il passaggio del padre); facoltativo 103 | aperto |
-| Altezze dei ragazzi sul muro del cortile di Migelo; quella di Reks finisce a quindici anni | 14 | 26 | aperto |
+| Tacche sulla trave sopra la porta della stanza: nessuno le ha più incise dopo la partenza di Reks | 14 | 26 | aperto |
 | "Il protagonista": nasce qui; Fran lo smonta ("Al protagonista è appena sfuggito un ragazzo"; "Si fa l'idea giusta") | 14 | ricorre con misura; 110, Appendice | aperto |
 | Balthier: "Leggo. È un vizio. Me l'hanno attaccato da bambino" e il riconoscimento di Raithwall | 14 | 21, 30, 77 (protocolli imperiali, Draklor) | aperto |
 | Balthier: la pietra "non si vende, si cerca; e chi la cerca non paga" | 14 | 15-17 (pietra che brilla per Amalia), 36 (Frammento del Crepuscolo) | aperto |
 | Profumo di Balthier "di un posto lontano" (Archades) | 14 | facoltativo, 80 | aperto |
+| Ciocca di Vaan sopra l'orecchio sinistro, mai tagliata (dal cap. 4) | 7 | 26 o finale, una volta sola | aperto |
+| Naso di Balthier "che i disegnatori di manifesti sbagliano sempre" (manifesto del cap. 4) | 14 | facoltativo | aperto |

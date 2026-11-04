@@ -10,8 +10,8 @@
 ## Cap. 8
 - Circa 4.600 parole, oltre la media: la caccia è comica e Montblanc nasce qui. Si può stringere il viaggio nell'Estersand.
 - Montblanc compare alla Sandsea come capo di "un circolo" di cacciatori e informatori; niente meccanica, solo il patto notizia per lasciapassare.
-- Gigli: Reks li comprava per la brocca di casa. Il cap. 4 (altra sessione) deve essere coerente, o il regista adatta questo dettaglio.
-- Inventata "Mirka", vicina dell'infanzia: solo un nome.
+- Gigli allineati alla revisione: vaso verde crepato della madre, promessa di Reks al cap. 4.
+- Tolta la vicina "Mirka".
 
 ## Cap. 9
 - Circa 3.200 parole. Vayne ha 27 anni; "figlio terzo" dell'imperatore, come seme dei fratelli uccisi.
