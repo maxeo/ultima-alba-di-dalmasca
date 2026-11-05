@@ -92,7 +92,7 @@ Parlava piano, con quella sua voce roca di chi la usa poco, e metteva ogni parol
 
 Vaan guardava il pavimento.
 
-«Poi siamo entrati. Nella fortezza. Ai piedi della scala che portava agli appartamenti del re, abbiamo sentito arrivare i soldati da dietro. Molti. Qualcuno doveva tenerli lì, alla base della scala, mentre gli altri salivano. Io ho lasciato due uomini. Uno era lui.» Basch disse la frase senza fermarsi, e poi si fermò. «Gli ho detto di tenere la schiena al muro. Gli ho detto: quando non ce la fai più, scendi verso le cisterne. Non verso di noi. Verso le cisterne. Era un ordine. È l'ultima cosa che gli ho detto.»
+«Poi siamo entrati. Nella fortezza. Ai piedi della scala che portava agli appartamenti del re, abbiamo sentito arrivare i soldati da dietro. Molti. Qualcuno doveva tenerli lì, alla base della scala, mentre gli altri salivano. Si è offerto lui. Da solo. Ha detto che il corridoio era stretto, che ne passavano due alla volta, che il re era più importante di un ragazzo.» Basch disse la frase senza fermarsi, e poi si fermò. «E io l'ho lasciato fare. «Gli ho detto di tenere la schiena al muro. Gli ho detto: quando non ce la fai più, scendi verso le cisterne. Non verso di noi. Verso le cisterne. Era un ordine. È l'ultima cosa che gli ho detto.»
 
 «Non è andato alle cisterne» disse Vaan. Non era una domanda.
 

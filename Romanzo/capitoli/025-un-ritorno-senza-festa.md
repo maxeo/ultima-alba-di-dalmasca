@@ -50,6 +50,14 @@ Vaan la rimise subito al sicuro. «Non ve la stavo dando.»
 
 Fran gli rivolse un cenno, e i due si avviarono. Vaan aspettò di non vederli più prima di toccare di nuovo la pietra. Provò a immaginare la faccia di Penelo. Gli avrebbe detto che non poteva andare in giro con una cosa rubata al collo, che si vedeva lontano un miglio, che per venderla doveva almeno smettere di mostrarla a tutti. Poi l'avrebbe voluta guardare da vicino. Ne era certo. Si affrettò verso la bottega.
 
+Il mercato di Muthru, quel pomeriggio, aveva un argomento solo, e l'argomento era lui. Vaan se ne accorse a metà della via delle Fontane, quando due donne davanti a un banco di cipolle smisero di parlare al suo passaggio e ricominciarono, più piano, appena fu oltre. Le città vivono di notizie e muoiono di fame quando non ne hanno; Rabanastre, da cinque giorni, ne aveva avute troppe tutte insieme, e le aveva masticate e ingoiate e adesso le restituiva in una forma che i protagonisti non avrebbero riconosciuto. Nella versione che Vaan sentì all'angolo dei calderai, i ladri del palazzo erano dodici, armati di balestre archadiane, e avevano rubato la corona. In quella del vicolo del tintore erano tre, uno era una viera alta come una porta, e avevano rubato il console stesso, che però era stato restituito perché nessuno sapeva che farsene. In tutte e due, il ragazzo della Città Bassa con la camicia aperta era morto a Nalbina.
+
+Sotto l'ombrellone verde, Sahra rivoltava le focacce nell'olio. Alzò la testa quando lui passò. Lo guardò, e la mestola le rimase a mezz'aria, e una goccia d'olio cadde sul vassoio e sfrigolò. Non disse niente. Ma quando lui fu a due passi, prese una focaccia intera, non rotta, dal mucchio di quelle buone, la avvolse nella carta oleata e gliela mise in mano senza guardarlo, come si fa con un bambino che è tornato a casa troppo tardi e che non si sgrida perché è tornato.
+
+«Sei coppe» disse. «Me le hai date tu, l'altra volta. Le hai buttate sul vassoio come un signore.» Tornò all'olio. «Mangia, che sei verde.»
+
+Vaan mangiò camminando. Era la cosa più buona che avesse mangiato in vita sua, e lo pensò con la precisione di chi viene dalla fossa di Nalbina, dove la cosa più buona era l'acqua.
+
 ---
 
 Kytes aveva spostato lo sgabello dietro il banco e lo aveva messo sopra una cassa. Da lassù riusciva a vedere la porta. Teneva davanti un registro aperto, una matita e una ciotola con tre monete, e all'ingresso di Vaan alzò la testa con l'espressione importante di chi è stato lasciato a dirigere un commercio. L'espressione durò poco. Scese dalla cassa così in fretta che lo sgabello cadde.
@@ -139,6 +147,14 @@ L'involto conteneva una spada. Il cuoio del fodero era stato ingrassato di recen
 «Se la tieni qui diventa un arredamento.»
 
 Vaan non sorrise. Dalan gli mise la spada fra le mani. Pesava molto più di quanto l'involto facesse pensare. «La persona che cerchi non la troverai correndo per tutte le strade nello stesso momento» disse il vecchio. «Io posso far cercare più di una strada.»
+
+«Chi?»
+
+«Il moguri della Sandsea, per esempio. Ha già mandato due dei suoi alla Porta Sud e uno all'aerodromo, prima ancora che tu bussassi.» Dalan riprese la pipa. «Non per bontà, intendiamoci. Montblanc non fa niente per bontà. Ma ha scritto il tuo nome nel suo quaderno, con la sua spiga accanto, e quelli con la spiga, quando si perdono, li cerca. Poi ti presenterà il conto. Lo presenta sempre, e sempre in una moneta che non ti aspetti.»
+
+«Quale moneta?»
+
+«Lo saprai quando te lo chiederà. Di solito, quando sei meno in grado di dire di no.» Il vecchio soffiò il fumo verso il pozzo d'aerazione. «È un ottimo sistema. Io lo uso da quarant'anni.»
 
 Il ragazzo guardò il fodero. Tirò fuori la pietra, quasi per ricordare a entrambi perché era venuto da Dalan la prima volta. Il vecchio la osservò, e nella sua faccia passò una soddisfazione che non era sorpresa.
 
@@ -245,3 +261,23 @@ Nessuno sorrise. Vossler prese la spada dalla parte del fodero e la tese. Basch 
 «È meno di due anni.»
 
 Vossler si fece da parte. Basch raggiunse la porta, e Vaan lo seguì perché la commissione era finita e perché là dentro non voleva restare. Fuori, la guardia aveva ripreso a strofinare la stessa macchia. Guardò la spada al fianco del capitano, poi si spostò per lasciargli il gradino libero.
+
+Vaan stava per seguirlo giù per la strada, quando l'uomo con il secchio parlò.
+
+«Tu sei il fratello.»
+
+Vaan si fermò. L'uomo non lo guardava. Strofinava la macchia, che non veniva via, con un movimento lento e regolare, da mano che ha bisogno di fare qualcosa.
+
+«Di Reks» disse. «Il ragazzo della caserma. Quello che legava le casse.»
+
+«Sì.»
+
+«Il carro l'ho guidato io.» L'uomo posò il panno sul bordo del secchio. «Da Nalbina a Rabanastre. Quattro giorni. C'erano lui e altri tre, sotto il telo, e un medico che scendeva a ogni pozzo per vedere chi era ancora vivo. Gli altri tre, a ogni pozzo, erano meno. Lui no.» Fece una pausa. «Non ha mai detto niente. Non ha mai aperto bocca. Ma alla sera, quando ci fermavamo e gli davo l'acqua, girava la testa verso ovest. Verso Rabanastre. Tutte le sere. Io lo giravo dall'altra parte, per il sole, e lui la mattina era di nuovo girato.»
+
+Vaan non disse niente. Aveva in mano ancora la carta oleata della focaccia di Sahra, e la stringeva.
+
+«In caserma dicevano che era stato lui» continuò l'uomo. «A mettere in mezzo il capitano. Che aveva parlato. Che aveva giurato. Io ho guidato quel carro per quattro giorni e non l'ho mai sentito parlare, ragazzo. Non poteva giurare niente.» Riprese il panno. «Lo volevo dire a qualcuno. Sono due anni. Adesso l'ho detto.»
+
+Tornò a strofinare. La macchia rimase dov'era.
+
+Vaan restò sul gradino un momento ancora. Poi scese in strada, dove Basch lo aspettava all'ombra del muro senza chiedere niente, e per la prima volta da Barheim non si mise a camminare davanti a lui.
