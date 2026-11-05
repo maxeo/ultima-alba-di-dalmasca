@@ -22,7 +22,7 @@ La presenza sul seggio più alto, davanti a lei, non si mosse. Ma Ashe capì che
 
 ---
 
-Ashe aveva diciannove anni. Aveva visto morire suo marito e suo padre a distanza di pochi giorni, aveva vissuto due anni sotto un nome falso, aveva guidato uomini nei canali di Rabanastre e li aveva visti cadere. Aveva parlato con un Gran Kiltias che vedeva in sogno, con un principe di Rozarria che le baciava la mano fra le macerie, con un dottore di Draklor che parlava con il vuoto. Credeva di non avere più paura di niente che potesse esserle detto.
+Ashe aveva diciannove anni, e da due li passava a sentirsi dire cose terribili da gente che le stava davanti: ministri, Giudici, un dottore di Draklor che parlava con il vuoto. Credeva di non avere più paura di niente che potesse esserle detto.
 
 Si accorse di avere paura. Non di loro. Del fatto che sapessero il suo nome intero, e che lo dicessero come lo si dice in un registro.
 
@@ -108,7 +108,7 @@ Poi pensò a Nalbina, alla finestra sola dietro la torre. A suo padre. A Rasler 
 
 Gerun non aveva finito di dirlo, che accanto a lei comparve Rasler.
 
-Non lo vide arrivare. Era lì, alla sua destra, a mezzo passo, come se ci fosse sempre stato. Il mantello verde, i capelli chiarissimi, gli occhi grigi. Ashe si voltò, e lui non guardava lei. Guardava la spada.
+Non lo vide arrivare. Era lì, alla sua destra, a mezzo passo, come se ci fosse sempre stato. L'armatura bianca, il drappo blu, i capelli chiarissimi, gli occhi grigi. Ashe si voltò, e lui non guardava lei. Guardava la spada.
 
 Fece un passo avanti, fino al bordo della piattaforma. Alzò la mano destra. E chiuse le dita sull'elsa della Spada del Patto, e la tenne, sospesa nel violetto, senza tirarla a sé. Poi si voltò verso di lei, finalmente, e aspettò.
 
