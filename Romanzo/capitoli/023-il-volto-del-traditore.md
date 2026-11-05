@@ -194,7 +194,7 @@ Lo disse piano. Lo disse a se stesso più che a Basch.
 
 Vaan si alzò. Era bianco.
 
-«Non parlare di lui» disse. «Non lo conoscevi. Lo hai conosciuto una notte. Una. Io l'ho conosciuto diciassette anni. Tu non sai niente di lui. Non sai come si arrabbiava quando gli prendevo le cose. Non sai che cantava male. Non sai che aveva promesso di portarmi dal barbiere, e che non l'ha fatto, e che io...» Si fermò. Si portò una mano alla testa, sopra l'orecchio sinistro, dove c'era la ciocca, e dove due colpi di lancia e di bastone gli avevano lasciato un livido. La tenne lì. «Non parlare di lui.»
+«Non parlare di lui» disse. «Non lo conoscevi. Lo hai conosciuto una notte. Una. Io l'ho conosciuto diciassette anni. Tu non sai niente di lui. Non sai come si arrabbiava quando gli prendevo le cose. Non sai che cantava male. Non sai che aveva promesso di portarmi dal barbiere, e che non l'ha fatto, e che io...» Si fermò. Si portò una mano alla testa, sopra l'orecchio sinistro, dove due colpi di lancia e di bastone gli avevano lasciato un livido. La tenne lì. «Non parlare di lui.»
 
 Basch non parlò più.
 

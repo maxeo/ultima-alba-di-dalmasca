@@ -120,7 +120,7 @@ Era Basch. Vaan lo sapeva che era Basch, perché non poteva essere nessun altro.
 
 ---
 
-Si fermarono a riposare dopo la stazione grande, in un tratto di galleria dove la volta era più alta e da una crepa scendeva un filo d'acqua pulita. Bevvero tutti, a turno, con le mani a coppa. Balthier si sedette su una traversina e si mise a esaminare di nuovo il polsino senza bottone. Fran si sedette in disparte, con la schiena contro un pilastro e le orecchie girate verso il fondo della galleria, dove il ronzio delle lampade diventava, a tratti, un'altra cosa: un ribollire basso, come di acqua sul fuoco, che soltanto lei sentiva e che non le piaceva.
+Si fermarono a riposare dopo la stazione grande, in un tratto di galleria dove la volta era più alta e da una crepa scendeva un filo d'acqua pulita. Bevvero tutti, a turno, con le mani a coppa. Balthier si sedette su una traversina e si tolse uno stivale per vuotarlo della ghiaia, con l'aria di chi compie un sacrificio. Fran si sedette in disparte, con la schiena contro un pilastro e le orecchie girate verso il fondo della galleria, dove il ronzio delle lampade diventava, a tratti, un'altra cosa: un ribollire basso, come di acqua sul fuoco, che soltanto lei sentiva e che non le piaceva.
 
 «C'è qualcosa, più avanti» disse.
 
