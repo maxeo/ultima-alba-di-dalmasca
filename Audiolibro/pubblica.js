@@ -36,7 +36,7 @@ function sincronizza(f, cue) {
     .filter(r => r && !/^-{3,}$/.test(r));
   const letti = fs.readFileSync(path.join(TESTO, f + '.txt'), 'utf8').split(/\n\n+/).map(r => r.trim())
     .filter(r => r && !r.startsWith('[pause'));
-  const piano = () => ({ par: [{ c: cue.filter(c => c.testo).map(c => [+c.t.toFixed(2), c.testo]) }], esatto: false });
+  const piano = () => ({ par: [{ c: cue.filter(c => c.testo).map(c => [+c.t.toFixed(2), c.testo]) }], esatto: false, ripiego: true });
   if (righe.length !== letti.length) return piano();
   const par = righe.map((r, i) => /^#/.test(r)
     ? { h: 1, s: nomi(letti[i]) }
@@ -65,7 +65,14 @@ function sincronizza(f, cue) {
     if (!n) continue;
     const pezzi = avanza(n);
     if (lettere(pezzi.map(x => x.s).join('')) !== lettere(c.testo)) return piano();
-    for (const x of pezzi) par[x.p].c.push([+c.t.toFixed(2), x.s]);
+    // Un blocco letto puo' coprire piu' frasi e paragrafi: i tempi si dividono in base alle lettere.
+    let fatte = 0;
+    for (const x of pezzi) {
+      for (const frase of x.s.split(/(?<=[.!?…]+[»"”')]*)(?=\s)/u)) {
+        par[x.p].c.push([+(c.t + (c.fine - c.t) * fatte / n).toFixed(2), frase]);
+        fatte += lettere(frase).length;
+      }
+    }
   }
   return { par: par.map(q => (q.h ? { h: 1, c: q.c } : { c: q.c })), esatto: p >= par.length };
 }
@@ -96,8 +103,10 @@ for (const file of fs.readdirSync(CAP).filter(x => x.endsWith('.md')).sort()) {
       nuovi.push(n);
     }
     const cue = leggiVtt(vtt);
-    const { par, esatto } = sincronizza(f, cue);
-    fs.writeFileSync(js, JSON.stringify(par));
+    const { par, esatto, ripiego } = sincronizza(f, cue);
+    // Se il testo e' stato corretto dopo l'audio non combaciano piu': fino alla rigenerazione resta il file con i paragrafi.
+    if (ripiego && fs.existsSync(js)) console.log(`${id} testo diverso dall'audio: da rigenerare, tengo il file esistente`);
+    else fs.writeFileSync(js, JSON.stringify(par));
     voce.durata = Math.round(cue[cue.length - 1].fine);
     voce.byte = fs.statSync(out).size;
     console.log(`${id} ${voce.durata}s ${(voce.byte / 1048576).toFixed(1)} MiB testo ${esatto ? 'esatto' : 'come letto'}`);
