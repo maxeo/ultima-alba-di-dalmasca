@@ -4,25 +4,25 @@
 
 ## 113. L'ultima pagina non scritta
 
-Il caposquadra di Lhusu provò la lampada con una pietra nuova e poi con quella che aveva in tasca. La seconda si accese. Rimise la prima nel sostegno, premette il contatto e aspettò. Non successe niente. Era un frammento intero, estratto da meno di un'ora, con il colore che gli uomini del turno avrebbero scelto fra dieci altri. Il caposquadra lo posò sul banco e gli fece un segno sopra, per non ritrovarselo nella cassa delle pietre buone.
+Nelle miniere di Lhusu, a Bhujerba, c'è un'usanza che i minatori seguono da trecento anni e che nessun regolamento ha mai previsto: la prima pietra di ogni turno la si prova sulla lampada del caposquadra, e se si accende si dice *buongiorno*, e se non si accende non si dice niente e la si butta nel pozzo vecchio. In trecento anni il pozzo vecchio si era riempito di poco. La mattina in cui questa storia ricomincia, quindici anni dopo la caduta di Bahamut, il caposquadra del settimo livello provò la prima pietra del turno, e non disse niente. Ne provò un'altra. Poi quella che aveva in tasca da una settimana, per scrupolo, e quella si accese. Rimise la nuova nel sostegno, premette il contatto e aspettò. Era un frammento intero, estratto da meno di un'ora, del colore che gli uomini del turno avrebbero scelto fra dieci. Non successe niente.
 
-Tre settimane dopo i frammenti segnati riempivano una cassa da soli. L'uomo incaricato dei conti chiese se fosse cambiato il filone. Il caposquadra gli fece portare una lampada e gli lasciò il banco. Non era il genere di risposta che si metteva volentieri in un rapporto, ma era la più precisa che avesse.
+Il caposquadra non la buttò nel pozzo vecchio. La posò sul banco e ci fece sopra un segno col gesso, perché non finisse nella cassa delle buone. Tre settimane dopo le pietre segnate riempivano una cassa da sole, e il pozzo vecchio, se le avessero buttate, sarebbe stato pieno. L'uomo dei conti chiese al caposquadra se fosse cambiato il filone. Il caposquadra gli fece portare una lampada e gli lasciò il banco. Non era una risposta da mettere in un rapporto. Era la più precisa che avesse.
 
-La notizia arrivò ad Archades insieme a una richiesta di riduzione dei tributi. Questo rese più facile respingerla per due giorni. Al terzo Larsa fece portare nel proprio studio la cassa con i frammenti, spostò il calamaio e li provò con la lampada del tavolo. Il ministro che gli stava di fronte dovette aspettare finché non ebbero finito. L'ultima pietra rimase spenta come la prima.
+La notizia arrivò ad Archades insieme a una richiesta di riduzione dei tributi, cosa che permise ai ministri di respingerla per due giorni. Al terzo l'imperatore si fece portare la cassa nello studio, spostò il calamaio e provò le pietre una per una sulla lampada del tavolo, mentre un ministro in piedi davanti a lui aspettava di parlare di frontiere e cambiava piede ogni tre pietre. L'ultima rimase spenta come la prima.
 
-Il dottore di Draklor non si presentò con una risposta. Portò misure, confronti e una teoria su cui i colleghi avevano scritto obiezioni nei margini. La Crisalide Solare, sosteneva, poteva aver fatto più che fornire Negalite divina: forse aveva partecipato al movimento del Mystes nel mondo. La sua distruzione poteva avere alterato quell'equilibrio. Gli altri studiosi non riuscivano né a confermarlo né a escluderlo.
+Il dottore di Draklor non portò una risposta. Draklor, dopo Cid, non portava mai risposte: portava misure, confronti, e una teoria sui cui margini i colleghi avevano scritto obiezioni con tre inchiostri diversi. La Crisalide Solare, sosteneva il dottore, forse non si era limitata a dare Negalite agli uomini; forse aveva partecipato al movimento del Mystes nel mondo intero, come un cuore partecipa al sangue anche di chi non lo sa. Spezzarla poteva aver cambiato quel movimento. I colleghi non riuscivano né a confermarlo né a escluderlo, e lo dicevano nei margini.
 
-«Allora scrivete forse» disse Larsa.
+«Allora scrivete *forse*» disse Larsa.
 
-L'uomo guardò il rapporto. «C'è scritto.»
+«C'è scritto, maestà.»
 
-«Anche nella copia che andrà ai comandanti.»
+«Anche nella copia che va ai comandanti.»
 
-L'imperatore aveva ventisette anni e conosceva ormai la velocità con cui un dubbio scientifico diventava una necessità militare. Aveva ridotto poteri, restituito province, aperto archivi che molti nobili avrebbero preferito bruciare; bastavano tre parole tolte da una copia per rimettergli un esercito in movimento. Fece aggiungere alla spedizione i documenti su Nabudis, senza omettere i nomi dei Solidor che li avevano autorizzati.
+L'imperatore aveva ventisette anni, adesso, e sapeva con quale velocità un dubbio di studiosi diventa una necessità militare: bastava togliere tre parole da una copia, e un esercito si rimetteva in marcia per andare a prendersi le miniere degli altri. Aveva passato quindici anni a ridurre poteri, restituire province, aprire archivi che metà della nobiltà di Archades avrebbe preferito bruciare. Non aveva intenzione di perdere tutto per un *forse* caduto lungo la strada. Fece aggiungere alla spedizione i documenti su Nabudis, interi, senza togliere i nomi dei Solidor che li avevano firmati.
 
-Basch portò la cassa fino alla porta. L'armatura gli pesava come quindici anni prima, ma i capelli corti sotto l'elmo avevano preso il grigio delle tempie. Larsa gli chiese se avesse letto la parte su Giruvegan. Il Giudice annuì.
+Basch portò la cassa fino alla porta. L'armatura nera gli pesava come quindici anni prima, ma i capelli corti sotto l'elmo erano diventati grigi alle tempie, e la pastiglia di miele e menta era ancora nella tasca interna, contro il petto, con la carta ingiallita. Larsa gli chiese se avesse letto la parte su Giruvegan. Il Giudice annuì.
 
-«Mandiamola ad Ashe» disse. «Con tutte le obiezioni.»
+«Mandiamola ad Ashe» disse Larsa. «Con tutte le obiezioni.»
 
 ---
 
@@ -248,14 +248,20 @@ Fran gli indicò il comando che stava trascurando. Lui lo sistemò e cambiò rot
 
 ---
 
-Il libro che ho sul tavolo non ha pagine di metallo. È di carta, cucita due volte e mangiata dall'umidità lungo il margine inferiore. Qualcuno lo ha portato al monastero dentro una cassa di registri commerciali; un fratello addetto al magazzino lo aveva classificato fra i conti indecifrabili, non senza ragione. I nomi dei porti si leggevano meglio di quelli dei sovrani.
+Il libro che ho sul tavolo non ha pagine di metallo. È di carta, cucito due volte da mani diverse, e l'umidità se ne è mangiata il margine inferiore come un topo paziente. È arrivato al monastero dentro una cassa di registri commerciali di un porto che oggi non esiste più, e il fratello che tiene il magazzino lo aveva messo fra i conti indecifrabili, non senza ragione: in quelle pagine i nomi dei porti si leggono meglio dei nomi dei re, e i prezzi meglio di tutto.
 
-Sono passati secoli. Dalla finestra del mio studio vedo la strada dei carri, la ruota del mulino e il muro dove il sole arriva prima di entrare nella stanza. Non ho mai visto un'aeronave. I frammenti che si trovano nei campi non accendono una lampada, e chi sostiene il contrario vende lampade. Questo non mi autorizza a dire che nessuna nave abbia volato prima di me.
+Sono passati secoli. Dalla finestra della mia cella vedo la strada dei carri, la ruota del mulino, il muro dove il sole arriva prima di entrare. Non ho mai visto un'aeronave. I frammenti di pietra che i contadini trovano arando non accendono nessuna lampada, e chi giura il contrario, al mercato, vende lampade. Questo non mi autorizza a dire che nessuna nave abbia mai volato prima di me. Mi autorizza soltanto a dire che non l'ho vista.
 
-Le Memorie di Ondore sono giunte in copie discordi. Una conserva il numero dei petali, un'altra gli ordini di flotta, una terza perde una pagina proprio dove il marchese avrebbe dovuto spiegare perché avesse annunciato una morte. Ho trovato anche lettere, conti di bottega, il resoconto di un medico che non salvò il proprio malato. Non tutto dice la stessa cosa. Ho cercato di non far dire a un morto ciò che mi serviva per chiudere un capitolo.
+Ho passato una vita a rimettere insieme questa storia, e devo ammettere al lettore, che mi ha sopportato fin qui, che non me l'ha raccontata nessuno per intero. Le Memorie del marchese Ondore mi sono arrivate in tre copie che non vanno d'accordo: una conserva il numero dei petali sui gradini della cattedrale, una gli ordini di flotta di quella mattina sopra Rabanastre, una terza perde una pagina proprio dove il marchese avrebbe dovuto spiegare perché avesse annunciato la morte di una principessa viva. Ho avuto lettere di una ragazza della Città Bassa a un imperatore, con le cancellature. Ho avuto il giornale di bordo di una fortezza caduta, con un ordine di fuoco su una nave arresa e, sotto, il nome intero di chi lo diede, scritto da una mano che non tremava. Ho avuto il racconto di un venditore di datteri che contava i chocobo meglio delle cronache di palazzo, e i sacchi di datteri peggio di chiunque. Ho avuto il conto di un hangar.
 
-Su questa appendice i documenti sono meno sicuri. L'udienza di un imperatore può essere stata rinviata per un soffitto rotto; da questo alla visita di un immortale la strada è lunga. La copia che tengo davanti contiene entrambi i fatti con la stessa grafia. Li ho lasciati vicini, senza promettere che il secondo spieghi il primo.
+Non tutto dice la stessa cosa. Ho cercato, per quanto potevo, di non far dire ai morti quello che mi serviva per chiudere un capitolo.
 
-Nell'ultima carta ho trovato la frase di un giovane pilota. Il nome era quasi cancellato, ma il conto dell'hangar, conservato poche pagine prima, mi ha aiutato a restituirglielo. «Adesso voglio scegliere dove andare.» La mano che la trascrisse non usò lettere più grandi per quella riga. Subito sotto cominciava un elenco di provviste.
+Su quest'ultima parte i documenti sono i meno sicuri di tutti, e per questo l'ho messa in fondo e l'ho chiamata apocrifa. Un'udienza imperiale può essere stata spostata per un soffitto rotto; da qui alla visita di un immortale la strada è lunga, e chi la percorre di corsa di solito vuole vendere qualcosa. La copia che ho davanti riporta i due fatti con la stessa calligrafia, uno sotto l'altro. Li ho lasciati vicini, senza promettere che il secondo spieghi il primo.
 
-L'ho copiata nella mia pagina, accanto al nome di Vaan. Poi ho asciugato l'inchiostro e sono andato alla porta, perché il fratello del magazzino mi chiamava: era arrivata un'altra cassa di carte e gli serviva qualcuno che tenesse aperto il battente.
+C'è una cosa, però, che ho imparato da questi fogli, e la dico qui perché altrove non saprei dove metterla. Le storie dei re le hanno scritte quasi sempre quelli che i re li avevano scelti, o quelli che volevano essere scelti dopo. Il libro di metallo di Nabudis, se è mai esistito, raccontava la caduta di un imperatore senza il ragazzo che aveva alzato la spada contro il fratello, senza il ladro di Rabanastre, senza la vecchia delle frittelle. Raccontava una Regina Dinasta e basta, perché a chi lo scriveva bastava una persona sola. Ho passato la vita a cercare tutte le altre. Ne avrò perse molte.
+
+Nell'ultima carta della cassa c'era la frase di un giovane pilota. Il nome era quasi cancellato dall'umidità, ma il conto dell'hangar, qualche pagina prima, mi ha aiutato a restituirglielo, e il conto era ancora da pagare. La mano che la trascrisse non usò lettere più grandi per quella riga. Subito sotto cominciava un elenco di provviste: pane, datteri, una pentola di lenticchie con il coperchio legato.
+
+*Adesso voglio scegliere dove andare.*
+
+L'ho copiata nella mia pagina, accanto al nome di Vaan, e ho lasciato asciugare l'inchiostro. Poi il fratello del magazzino mi ha chiamato dalla porta: era arrivata un'altra cassa di carte, piena di nomi che nessuno ha mai scritto su una statua, e gli serviva qualcuno che tenesse aperto il battente. Sono andato.

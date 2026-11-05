@@ -78,7 +78,7 @@ Vaan fece un rumore con la gola che non era ancora una risata.
 
 *Fran sta bene. Ha la gamba un po' più rigida di prima e un carattere esattamente come prima. Ritiene che il resto di questa lettera potrebbe essere più breve. Dissento, ma ho smesso di offrirle occasioni per avere ragione: le prende tutte.*
 
-Penelo si portò la mano alla bocca. Si accorse soltanto in quel momento di avere creduto, per un anno, che quella lettera non sarebbe arrivata mai; di averlo creduto e di non averlo detto, nemmeno a se stessa, per non togliere a Vaan la sua promessa. Le mani le tremavano. Tenne il foglio più basso.
+Penelo si portò la mano alla bocca. Si accorse soltanto allora di avere creduto, per un anno, che quella lettera non sarebbe arrivata mai; di averlo creduto e di non averlo detto, nemmeno a se stessa, per non togliere a Vaan la sua promessa. Le mani le tremavano. Tenne il foglio più basso.
 
 *Ci sono notizie del Tesoro di Glabados, a Bervenia. Ho deciso che questa volta un tesoro deve almeno avere la decenza di farsi trovare. Se nel frattempo hai imparato a scegliere una rotta senza seguire chi grida più forte, puoi venire. Con una nave tua. Non sono disposto a rinegoziare il numero dei miei passeggeri.*
 
