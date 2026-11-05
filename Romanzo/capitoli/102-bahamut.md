@@ -34,7 +34,7 @@ Si girò verso la nave. Per un attimo, mentre si girava, sembrò sul punto di di
 
 Il ponte di comando di Bahamut era una sala larga e alta come la navata di una chiesa, con le pareti di vetro su tre lati e il pavimento di metallo lucido, su cui i passi degli ufficiali suonavano come nelle aule del Ministero. Lungo le pareti correvano banchi di strumenti, e dietro ai banchi stavano seduti decine di uomini in uniforme che guardavano piccoli schermi luminosi, regolavano manopole, parlavano a bassa voce in tubi di ottone. Al centro, su una pedana rialzata, c'era un trono. Nessuno ci stava seduto.
 
-Vayne Carudas Solidor stava in piedi davanti al vetro, con le mani dietro la schiena. Non portava armatura. Portava una giubba scura, senza decorazioni, di un taglio così semplice che solo chi ne conosceva il prezzo capiva quanto fosse costosa, e la portava come se fosse l'unica cosa al mondo che non lo interessava. Guardava il deserto, la città, il cielo a nord dove, ancora lontane, si vedevano le prime navi della Resistenza.
+Vayne Carudas Solidor stava in piedi davanti al vetro, con le mani dietro la schiena. Non portava armatura. Portava un mantello blu scuro su una giubba senza decorazioni, e guanti bianchi, di un taglio così semplice che solo chi ne conosceva il prezzo capiva quanto fosse costosa, e la portava come se fosse l'unica cosa al mondo che non lo interessava. Guardava il deserto, la città, il cielo a nord dove, ancora lontane, si vedevano le prime navi della Resistenza.
 
 Suo fratello gli stava accanto.
 

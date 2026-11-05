@@ -34,7 +34,7 @@ La bottega era aperta. A quell'ora, la sera prima della guerra, tutte le bottegh
 
 Ashe abbassò il cappuccio di un dito, non di più.
 
-Migelo fece una cosa che nessuno gli aveva mai visto fare. Uscì da dietro il banco, lento, sulle sue gambe corte di Bangaa, e si inchinò. Non lo fece bene: non era una cosa che si impara in una bottega. Si piegò in avanti con la mano sul petto, e la coda dritta dietro di lui, rigida, e restò così.
+Migelo fece una cosa che nessuno gli aveva mai visto fare. Uscì da dietro il banco, lento, sulle sue gambe corte di Bangaa, con le scaglie blu che alla luce delle candele sembravano di ardesia, e si inchinò. Non lo fece bene: non era una cosa che si impara in una bottega. Si piegò in avanti con la mano sul petto, e la coda dritta dietro di lui, rigida, e restò così.
 
 «Non fatelo» disse Ashe.
 
@@ -100,7 +100,7 @@ Montblanc chiuse il quaderno. Non lo faceva mai.
 
 «E poi? Fuori dalla Porta Est c'è il deserto.»
 
-«Poi c'è chi li porta via.» Montblanc riaprì il quaderno e girò tre pagine. «Mi è arrivata una notizia due giorni fa, da una mia conoscenza a Nalbina, che l'aveva da un mercante che l'aveva da un cammelliere che l'aveva dal vento, kupò. Dice che al di là dell'Ogir-Yensa c'è un popolo che si muove. Barche sulla sabbia. Tante. Vengono verso di qua.» Il dito si fermò su una riga. «Dice anche che il loro capo ha chiesto, a ogni pozzo dove si è fermato, di un ragazzo biondo che fa troppe domande e di una ragazza con i capelli rossi. Dice che hanno un conto aperto con loro.»
+«Poi c'è chi li porta via.» Montblanc riaprì il quaderno e girò tre pagine. «Mi è arrivata una notizia due giorni fa, da una mia conoscenza a Nalbina, che l'aveva da un mercante che l'aveva da un cammelliere che l'aveva dal vento, kupò. Dice che al di là dell'Ogir-Yensa c'è un popolo che si muove. Barche sulla sabbia. Tante. Vengono verso di qua.» Il dito si fermò su una riga. «Dice anche che il loro capo ha chiesto, a ogni pozzo dove si è fermato, di un ragazzo biondo che fa troppe domande e di una ragazza bionda con i codini. Dice che hanno un conto aperto con loro.»
 
 Vaan lo guardò.
 

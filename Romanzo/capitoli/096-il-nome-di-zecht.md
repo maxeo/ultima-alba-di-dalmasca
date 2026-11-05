@@ -86,7 +86,7 @@ Tutte le cose che non tornavano, in quell'uomo, tornarono in un solo istante, e 
 
 Penelo aprì la bocca, la richiuse. Aveva sentito di uomini che nascondevano un delitto per paura della forca, e di uomini che lo nascondevano per vergogna; non aveva mai sentito di uno che lo nascondesse per paura di essere perdonato troppo presto. Lo guardò come si guarda una persona nuova, e in un certo senso lo era.
 
-«Ti credi meglio di me?» Gabranth aveva rialzato le spade. «Hai cambiato nome, ti sei messo un cappello e ti sei comprato una casa sul mare. E adesso vieni a fare la predica a una principessa. Il tuo nome è scritto nella stessa lista del mio, Zecht. Più in alto. Io ho ucciso un re; tu hai ucciso una città. Non c'è un porto abbastanza lontano.»
+«Ti credi meglio di me?» Gabranth aveva rialzato le spade. «Hai cambiato nome, ti sei rasato la testa e ti sei comprato una casa sul mare. E adesso vieni a fare la predica a una principessa. Il tuo nome è scritto nella stessa lista del mio, Zecht. Più in alto. Io ho ucciso un re; tu hai ucciso una città. Non c'è un porto abbastanza lontano.»
 
 «Lo so.»
 

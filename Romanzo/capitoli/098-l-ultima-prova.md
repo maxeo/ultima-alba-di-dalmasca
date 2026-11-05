@@ -6,7 +6,7 @@ La Crisalide girava al contrario. Le correnti di Mystes, che fino a quel momento
 
 Cid aveva alzato le braccia. Rideva. Non era la risata di prima, sarcastica e da teatro: era una risata di bambino, alta, senza fiato, che gli usciva a singhiozzi.
 
-«Sei anni!» Gridava verso l'alto, verso il vortice. «Sei anni, amico mio! Te lo ricordi? La prima notte, nella serra, quando mi hai parlato e io ho pensato di avere la febbre? Sei anni di calcoli sbagliati e di forni esplosi e di senatori imbecilli che volevano sapere a cosa servivano i soldi! E adesso guardala. Guardala!» Si voltò di scatto verso gli altri, con le lenti storte sulla fronte. «Lo sentite? Sta bevendo.»
+«Sei anni!» Gridava verso l'alto, verso il vortice. «Sei anni, amico mio! Te lo ricordi? La prima notte, nella serra, quando mi hai parlato e io ho pensato di avere la febbre? Sei anni di calcoli sbagliati e di forni esplosi e di senatori imbecilli che volevano sapere a cosa servivano i soldi! E adesso guardala. Guardala!» Si voltò di scatto verso gli altri, con gli occhiali storti sul naso. «Lo sentite? Sta bevendo.»
 
 «Chi?» disse Ashe. «Cosa sta bevendo?»
 
@@ -22,7 +22,7 @@ Cid lo guardò. Per un istante, uno solo, la sua faccia cambiò. Le rughe attorn
 
 «Non volevo vedere questo.»
 
-«Lo so. Per questo sei scappato.» Cid si rimise le lenti al loro posto. «E adesso sei tornato. Troppo tardi, ragazzo mio. Troppo tardi per tutto. Hai sempre avuto un pessimo senso del tempo, sin da piccolo. Arrivavi a tavola quando io me ne andavo.»
+«Lo so. Per questo sei scappato.» Cid si rimise a posto gli occhiali. «E adesso sei tornato. Troppo tardi, ragazzo mio. Troppo tardi per tutto. Hai sempre avuto un pessimo senso del tempo, sin da piccolo. Arrivavi a tavola quando io me ne andavo.»
 
 Balthier non rispose. Rialzò la pistola. Questa volta il braccio gli tremava.
 
@@ -98,7 +98,7 @@ Cid aprì gli occhi. Lo guardò, e lo vide, forse per la prima volta da molti an
 
 Balthier non disse niente.
 
-Il corpo di suo padre cominciò a sciogliersi. Fu una cosa lenta e quasi silenziosa. Prima le mani, che diventarono trasparenti sulla pietra, poi le braccia, poi il viso. Non c'era sangue e non c'era dolore; c'era una luce minuta, a granelli, che si staccava dalla carne come la polvere si stacca da un tappeto battuto, e saliva. Saliva verso la Crisalide, e la Crisalide la prendeva, e la luce dentro la grande pietra ebbe per un attimo un lampo un po' più caldo degli altri. Poi Cid non c'era più. Sulla pietra della piazza restò la forma vuota del camice, e la catena d'ottone con i suoi strumenti, e un fazzoletto ricamato che doveva essere stato nella tasca della giubba.
+Il corpo di suo padre cominciò a sciogliersi. Fu una cosa lenta e quasi silenziosa. Prima le mani, che diventarono trasparenti sulla pietra, poi le braccia, poi il viso. Non c'era sangue e non c'era dolore; c'era una luce minuta, a granelli, che si staccava dalla carne come la polvere si stacca da un tappeto battuto, e saliva. Saliva verso la Crisalide, e la Crisalide la prendeva, e la luce dentro la grande pietra ebbe per un attimo un lampo un po' più caldo degli altri. Poi Cid non c'era più. Sulla pietra della piazza restò la forma vuota del soprabito, e la catena d'ottone con i suoi strumenti, e un fazzoletto ricamato che doveva essere stato nella tasca della giubba.
 
 Balthier rimase inginocchiato. Aveva in mano le lenti di suo padre, quelle con il vetro incrinato. Le guardò. Le chiuse con cura, piegando le due stanghette una sull'altra come si chiude un libro, e le mise nella tasca interna della giacca, dalla parte del cuore, dove da mesi teneva un'altra cosa che non era sua: un anello largo, di due fili ritorti, oro rosso e argento bianco.
 

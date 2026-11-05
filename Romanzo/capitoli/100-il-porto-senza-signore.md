@@ -76,7 +76,7 @@ Elza restò. Guardò Vaan, e poi la spada che Vaan portava alla cintura, corta, 
 
 Nel salone qualcuno li aspettava.
 
-Era seduto sulla sedia dallo schienale scolpito che Vaan detestava, con le gambe accavallate, un bicchiere del vino scuro di Reddas in mano e l'aria di chi in quella casa è stato invitato molte volte e sa dove si tiene la bottiglia buona. Portava una giubba rossa ricamata d'oro, una camicia aperta sul petto, un orecchino; aveva gli occhiali da sole di una lega di Rozarria che costava più della Strahl, e quando vide entrare Ashe se li tolse con un gesto lungo e si alzò.
+Era seduto sulla sedia dallo schienale scolpito che Vaan detestava, con le gambe accavallate, un bicchiere del vino scuro di Reddas in mano e l'aria di chi in quella casa è stato invitato molte volte e sa dove si tiene la bottiglia buona. Aveva i capelli neri ondulati fino alle spalle, il pizzetto curato, una camicia blu a righe aperta sul petto e pantaloni bianchi che nessuno, in un porto di pirati, avrebbe osato indossare; aveva gli occhiali da sole di una lega di Rozarria che costava più della Strahl, e quando vide entrare Ashe se li tolse con un gesto lungo e si alzò.
 
 «Altezza.»
 
