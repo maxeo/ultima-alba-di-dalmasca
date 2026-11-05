@@ -22,7 +22,7 @@ Poi si voltò. «Da questa parte.»
 
 ---
 
-La finestra di carico era esattamente dove il cugino del conducente aveva detto che sarebbe stata: una saracinesca di ferro alta quanto un uomo, sollevata di una spanna, con una cassa di traverso a impedirle di richiudersi. Qualcuno l'aveva lasciata così. Basch la guardò e non disse niente. Poi si chinò, la sollevò con le due mani fino al petto, e la tenne mentre gli altri passavano sotto.
+La finestra di carico era esattamente dove il cugino del conducente aveva detto che sarebbe stata: una saracinesca di ferro alta quanto un uomo, sollevata di una spanna, con una cassa di traverso a impedirle di richiudersi. Qualcuno l'aveva lasciata così. Basch la guardò. Poi si chinò, la sollevò con le due mani fino al petto, e la tenne mentre gli altri passavano sotto.
 
 Dentro c'era un corridoio lungo e bianco, illuminato da lampade a magilite incassate nel soffitto ogni dieci passi, e il corridoio era vuoto.
 
