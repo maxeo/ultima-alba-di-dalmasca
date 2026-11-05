@@ -30,7 +30,7 @@ Aurel ci pensò. «Perché un giorno qualcuno tornerà a fare questa strada a pi
 
 ---
 
-L'ingresso del Palazzo di Sochen era una facciata scolpita nella collina, con sei colonne e un frontone in cui qualcuno aveva rappresentato una processione di figure che portavano doni a un trono vuoto. Le facce delle figure erano state scalpellate via. Ashe le guardò a lungo e non disse niente, e Penelo, che le stava accanto, capì perché e non disse niente nemmeno lei.
+L'ingresso del Palazzo di Sochen era una facciata scolpita nella collina, con sei colonne e un frontone in cui qualcuno aveva rappresentato una processione di figure che portavano doni a un trono vuoto. Le facce delle figure erano state scalpellate via. Ashe le guardò a lungo. Penelo, che le stava accanto, pensò ai santuari dei Mosfora e tacque anche lei.
 
 Davanti all'ingresso, Vaan si fermò a scrutare il buio.
 
