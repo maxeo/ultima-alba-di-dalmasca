@@ -48,11 +48,11 @@ Il sussurro, nella Sala della Luce, arrivò fino al soffitto e tornò giù raddo
 
 «Sta' zitto» disse Ashe, senza voce.
 
-«Non dorme.»
+«Non dormo.»
 
 La voce veniva dalla sedia. Era una voce sottile e chiara, senza età, la voce di un bambino o di un uomo molto vecchio, e il vecchio non aveva aperto gli occhi per parlare.
 
-«Sogna» disse Anastasis. «È diverso. Chi dorme non vede niente. Chi sogna vede le cose come sono, e anche come potrebbero essere, e a volte, se è fortunato, come sono state. Il sonno è una porta chiusa. Il sogno è uno specchio.» Le labbra gli si mossero in qualcosa che poteva essere un sorriso. «Il ragazzo ha fatto bene a chiederlo. È la domanda più sensata che mi abbiano fatto da mesi. Di solito mi chiedono se sono morto.»
+«Sogno» disse Anastasis. «È diverso. Chi dorme non vede niente. Chi sogna vede le cose come sono, e anche come potrebbero essere, e a volte, se è fortunato, come sono state. Il sonno è una porta chiusa. Il sogno è uno specchio.» Le labbra gli si mossero in qualcosa che poteva essere un sorriso. «Il ragazzo ha fatto bene a chiederlo. È la domanda più sensata che mi abbiano fatto da mesi. Di solito mi chiedono se sono morto.»
 
 Vaan non sapeva se scusarsi. Decise di no.
 

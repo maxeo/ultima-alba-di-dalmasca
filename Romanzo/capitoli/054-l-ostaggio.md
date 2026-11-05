@@ -38,7 +38,7 @@ Lo disse a voce normale, la stessa con cui avrebbe nominato il tempo. Gli altri 
 
 Ashe non rispose.
 
-«In mezzo» disse Larsa. «Si scontreranno in mezzo. Sopra Giza, sopra Nalbina, sopra l'Estersand. Sopra Rabanastre. Dalmasca è la strada più corta fra Archades e il mare d'occidente. È sempre stata la strada. È per questo che…» Esitò, solo un istante. «È per questo che è stata presa.»
+«In mezzo» disse Larsa. «Si scontreranno in mezzo. Sopra Giza, sopra Nalbina, sopra il deserto orientale. Sopra Rabanastre. Dalmasca è la strada più corta fra Archades e il mare d'occidente. È sempre stata la strada. È per questo che…» Esitò, solo un istante. «È per questo che è stata presa.»
 
 «Lo so perché è stata presa» disse Ashe.
 

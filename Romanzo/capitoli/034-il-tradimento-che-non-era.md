@@ -26,7 +26,7 @@ Il segretario aprì una porta a due battenti e si fece da parte.
 
 Il marchese li aspettava in piedi.
 
-Era la stessa persona delle miniere, ma vestita diversamente: una veste lunga blu notte, il turbante bianco con la pietra azzurra, e in mano un bastone d'ebano con il pomo d'argento, su cui appoggiava il peso senza averne bisogno. La sala era grande e quasi vuota. Un tavolo coperto di carte, due poltrone, un camino acceso con un fuoco piccolo, e una parete tutta di finestre da cui si vedevano, sospese nel cielo viola, le navi della flotta.
+Era la stessa persona delle miniere, ma vestita diversamente: il lungo soprabito giallo zafferano, i capelli bianchi pettinati all'indietro, e in mano un bastone d'ebano con il pomo d'argento, su cui appoggiava il peso senza averne bisogno. La sala era grande e quasi vuota. Un tavolo coperto di carte, due poltrone, un camino acceso con un fuoco piccolo, e una parete tutta di finestre da cui si vedevano, sospese nel cielo viola, le navi della flotta.
 
 Halim Ondore IV guardò entrare il suo seguito, uno per uno. Guardò Vaan senza curiosità, Fran con un'occhiata breve, Balthier con un'attenzione un po' più lunga, quella che si riserva a un nome che si è letto in un rapporto. Poi guardò Basch, e non disse niente per un tempo che parve a tutti molto lungo e che forse non lo era.
 
@@ -106,7 +106,7 @@ Vaan strinse i pugni. Sapeva che Balthier aveva ragione, e il saperlo non serviv
 
 Ondore, intanto, non aveva staccato gli occhi da Basch.
 
-«Capitano» disse, e il tono era cambiato. Era tornato quello cortese e piano delle miniere, la voce di un uomo che parla del tempo. «Voi avete conosciuto le catene. Due anni, mi dite. È una cosa che lascia il segno, immagino. Un uomo che le ha portate così a lungo sa meglio di chiunque quanto possano pesare.» Una pausa. «E sa forse anche, meglio di chiunque, dove possano portare. Le catene, dopotutto, portano sempre da qualche parte. Raramente dove si vorrebbe. Ma a volte sì.»
+«Capitano» disse, e il tono era cambiato. Era tornato quello cortese e piano delle miniere, la voce di un uomo che parla del tempo. «Voi avete conosciuto le catene. Due anni, mi dite. È una cosa che lascia il segno, immagino. Un uomo che le ha portate così a lungo sa meglio di chiunque quanto possano pesare. E sa forse anche, meglio di chiunque, dove possano portare. Le catene, dopotutto, portano sempre da qualche parte. Raramente dove si vorrebbe. Ma a volte sì.»
 
 Ci fu un silenzio.
 
@@ -176,13 +176,13 @@ Il segretario dalle dita macchiate era apparso dal nulla con una tavoletta. Ondo
 
 «No, signore» disse il segretario.
 
-«Allora tre complici. I prigionieri vengono consegnati alla custodia del giudice Ghis, a bordo del Leviatano, perché ne disponga secondo la legge imperiale.» Una pausa. «Aggiungete che il marchese si rallegra di aver potuto rendere all'impero questo piccolo servizio, e che conta sul fatto che l'impero se ne ricordi.»
+«Allora tre complici. I prigionieri vengono consegnati alla custodia del giudice Ghis, a bordo del Leviatano, perché ne disponga secondo la legge imperiale. Aggiungete che il marchese si rallegra di aver potuto rendere all'impero questo piccolo servizio, e che conta sul fatto che l'impero se ne ricordi.»
 
 Il segretario scriveva. Vaan guardava il marchese, e il marchese non guardava nessuno. Dettava con la voce che i vecchi signori usano per le lettere che verranno lette da molti, e che non è la loro voce vera ma quella che resterà.
 
 Poi, quando le guardie si mossero per portarli via, Ondore fece un passo, uno solo, e si trovò accanto a Basch. Non lo toccò. Parlò senza girare la testa, così piano che lo sentirono soltanto Basch, e Vaan che gli era incatenato al fianco.
 
-«Stamattina, nelle miniere» disse il marchese «un carrello vuoto respirava. Ho pensato che fosse la montagna.» Una pausa. «La montagna, a volte, ha ragione di respirare.»
+«Stamattina, nelle miniere» disse il marchese «un carrello vuoto respirava. Ho pensato che fosse la montagna.» Esitò. «La montagna, a volte, ha ragione di respirare.»
 
 Basch non rispose.
 

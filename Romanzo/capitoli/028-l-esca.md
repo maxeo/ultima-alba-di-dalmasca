@@ -80,7 +80,7 @@ Avevano lasciato Dalmasca al mattino. Il deserto, visto dall'alto, non era giall
 
 Fran, ai comandi, mosse un orecchio. Non disse niente.
 
-Basch stava in fondo, contro la paratia. Si era lavato, a Rabanastre, e Migelo gli aveva trovato dei vestiti che non erano suoi e gli stavano larghi sulle spalle e corti alle caviglie. Si era tagliato la barba con un coltello, male, e aveva un taglio fresco sotto lo zigomo. Guardava fuori anche lui, ma non le isole: guardava il mare di nuvole sotto di loro, e ogni tanto la direzione da cui venivano, verso Dalmasca, come si controlla di non aver lasciato aperta una porta.
+Basch stava in fondo, contro la paratia. Si era lavato, a Rabanastre, e Migelo gli aveva trovato dei vestiti che non erano suoi e gli stavano larghi sulle spalle e corti alle caviglie. Si era legato i capelli lunghi sulla nuca e si era accorciato la barba con un coltello, fino a ridurla a barba e pizzetto, e aveva un taglio fresco sotto lo zigomo. Guardava fuori anche lui, ma non le isole: guardava il mare di nuvole sotto di loro, e ogni tanto la direzione da cui venivano, verso Dalmasca, come si controlla di non aver lasciato aperta una porta.
 
 Vaan si voltò verso di lui. «Tu ci eri mai stato, a Bhujerba?»
 
@@ -118,7 +118,7 @@ Sulla terrazza si muovevano anche soldati archadiani, in armatura completa, in c
 
 «Cercano qualcuno» disse Vaan.
 
-«Che acume.» Balthier aveva tirato giù di un dito il bordo del cappello. «Non noi, mi pare. Se cercassero noi sarebbero molto più contenti.» Si voltò verso Basch, e il tono gli cambiò. Restò leggero, ma diventò preciso. «Capitano. Una piccola formalità, prima di entrare in città. Qui tu sei morto. Ufficialmente, solennemente, con tanto di proclama del marchese in persona. È una condizione che ti invidio, per molti versi, e ti chiedo di rispettarla. Tieni il mento basso, non guardare i soldati negli occhi e, soprattutto, nessuno pronunci il tuo nome. Nessuno.» Guardò Vaan. «Soprattutto non qualcuno con la voce alta.»
+«Che acume.» Balthier si era voltato di tre quarti, verso il vuoto, come chi ammira il panorama. «Non noi, mi pare. Se cercassero noi sarebbero molto più contenti.» Si voltò verso Basch, e il tono gli cambiò. Restò leggero, ma diventò preciso. «Capitano. Una piccola formalità, prima di entrare in città. Qui tu sei morto. Ufficialmente, solennemente, con tanto di proclama del marchese in persona. È una condizione che ti invidio, per molti versi, e ti chiedo di rispettarla. Tieni il mento basso, non guardare i soldati negli occhi e, soprattutto, nessuno pronunci il tuo nome. Nessuno.» Guardò Vaan. «Soprattutto non qualcuno con la voce alta.»
 
 «Perché guardi me?»
 
@@ -136,7 +136,7 @@ Fu lì che il ragazzo li raggiunse.
 
 «Perdonate.»
 
-Era più giovane di Vaan. Dodici anni, forse tredici, ma portati in un modo che li faceva sembrare un'età diversa, né più grande né più piccola: un'età a parte. Aveva i capelli scuri tagliati con cura e un vestito da viaggio di panno verde, semplice a prima vista e a seconda vista no, perché le cuciture erano invisibili e i bottoni d'argento erano tutti uguali, e Vaan, che di vestiti rubati se ne intendeva, capì subito che quella giacca costava più della bottega di Migelo. Stava dritto senza rigidezza. Guardava le persone in faccia, una alla volta, con un'attenzione cortese e senza fretta, e quando guardò Basch si fermò mezzo istante in più.
+Era più giovane di Vaan. Dodici anni, forse meno, ma portati in un modo che li faceva sembrare un'età diversa, né più grande né più piccola: un'età a parte. Aveva i capelli scuri, lunghi e pettinati con cura, e una casacca da viaggio scura sopra una blusa chiara, con stivali verdi alti, semplice a prima vista e a seconda vista no, perché le cuciture erano invisibili e i bottoni d'argento erano tutti uguali, e Vaan, che di vestiti rubati se ne intendeva, capì subito che quella casacca costava più della bottega di Migelo. Stava dritto senza rigidezza. Guardava le persone in faccia, una alla volta, con un'attenzione cortese e senza fretta, e quando guardò Basch si fermò mezzo istante in più.
 
 «Ho sentito che siete diretti alle miniere di Lhusu» disse. «Anch'io devo andarci. Una piccola commissione. Mi chiedevo se potessi unirmi a voi per un tratto. Dicono che le gallerie non siano sicure per chi viaggia solo.»
 
@@ -218,6 +218,6 @@ Lamont gli tenne dietro, a due passi, e lo guardava camminare con un interesse q
 
 «Quel ragazzo è un problema.»
 
-Fran guardò la schiena di Lamont, la giacca verde, i bottoni tutti uguali.
+Fran guardò la schiena di Lamont, la casacca scura, i bottoni tutti uguali.
 
 «Quale dei due?» disse.

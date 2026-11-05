@@ -2,13 +2,13 @@
 
 Nella casa del marchese c'erano sette tipi di cucchiaio. Penelo li contò la sera stessa, sulla tavola apparecchiata per lei sola in una saletta con le pareti di legno di cedro, e il fatto di contarli la rimise in piedi più del pane, più della zuppa di lenticchie gialle e più del bagno caldo che una cameriera di nome Tahla le aveva preparato appena arrivata, in una vasca di rame grande come la bottega di Migelo, con dell'acqua che sapeva di fiori secchi. Contare è un modo di tenere le cose al loro posto. Sette cucchiai. Uno era così piccolo che non riusciva a immaginare cosa ci si potesse mangiare; forse le lenticchie, una per volta.
 
-Tahla le aveva anche portato dei vestiti. Erano belli, di lana leggera color pervinca, con un ricamo d'argento sul collo, e Penelo li aveva guardati a lungo distesi sul letto prima di chiedere, con tutta la gentilezza di cui era capace, se per favore poteva riavere i suoi, lavati. La cameriera aveva fatto una faccia che era insieme offesa e sollevata, perché i vestiti color pervinca erano di una nipote del marchese e la nipote del marchese ci teneva, e aveva portato via il gilet rosso stinto e la gonna da corsa fra due dita, come si porta un gatto bagnato. Glieli aveva restituiti asciutti dopo un'ora, stirati, con un rammendo nuovo sul gomito che Penelo non aveva chiesto. Le aveva rifatto anche la fasciatura della mano, con una benda pulita e un unguento che bruciava e poi smetteva.
+Tahla le aveva anche portato dei vestiti. Erano belli, di lana leggera color pervinca, con un ricamo d'argento sul collo, e Penelo li aveva guardati a lungo distesi sul letto prima di chiedere, con tutta la gentilezza di cui era capace, se per favore poteva riavere i suoi, lavati. La cameriera aveva fatto una faccia che era insieme offesa e sollevata, perché i vestiti color pervinca erano di una nipote del marchese e la nipote del marchese ci teneva, e aveva portato via il vestito azzurro stinto fra due dita, come si porta un gatto bagnato. Glieli aveva restituiti asciutti dopo un'ora, stirati, con un rammendo nuovo sul gomito che Penelo non aveva chiesto. Le aveva rifatto anche la fasciatura della mano, con una benda pulita e un unguento che bruciava e poi smetteva.
 
 Nella tasca della gonna, al suo posto, c'era il fazzoletto. Tahla lo aveva lavato a parte e lo aveva ripiegato in quattro, con l'iniziale ricamata in vista.
 
 Fuori dalla finestra della saletta c'era il vuoto. Penelo ci aveva messo un po' ad abituarsi. La casa del marchese stava sul bordo della montagna, e le sue terrazze scendevano a gradoni verso il mare di nuvole, e dalla finestra si vedeva soltanto cielo, cielo e ancora cielo, con le isole lontane che galleggiavano nel tramonto e, sopra di esse, le navi. Erano tante. Erano tutte grigie e ferme e grandi. Una era così grande che sembrava un pezzo di città staccato e appeso lassù per sbaglio.
 
-Prima di cena era passato il marchese. Non era entrato. Si era fermato sulla soglia della saletta con le mani nelle maniche, un vecchio basso con la barba bianca e un turbante con una pietra azzurra, e Penelo aveva capito chi fosse soltanto perché Tahla, dietro di lui, si era fatta piccola piccola contro il muro. Le aveva chiesto il nome. Le aveva chiesto da dove venisse, e quando lei aveva detto Rabanastre, la Città Bassa, dietro il mercato di Muthru, il vecchio aveva annuito come chi riconosce una via su una mappa.
+Prima di cena era passato il marchese. Non era entrato. Si era fermato sulla soglia della saletta con le mani nelle maniche, un vecchio alto e magro, con i capelli bianchi e un soprabito giallo zafferano, e Penelo aveva capito chi fosse soltanto perché Tahla, dietro di lui, si era fatta piccola piccola contro il muro. Le aveva chiesto il nome. Le aveva chiesto da dove venisse, e quando lei aveva detto Rabanastre, la Città Bassa, dietro il mercato di Muthru, il vecchio aveva annuito come chi riconosce una via su una mappa.
 
 «Avete conosciuto re Raminas?» aveva chiesto.
 
@@ -24,7 +24,7 @@ Era Larsa.
 
 ---
 
-Si era cambiato. Non portava più la giacca verde con i bottoni d'argento, ma una tunica di casa, blu scuro, semplice, con le maniche arrotolate fino al gomito, e aveva sotto il braccio una cartella di cuoio piena di fogli e in mano una penna che si era dimenticato di posare. Si fermò sulla soglia. Penelo si alzò di scatto, e la sedia grattò sul pavimento, e il cucchiaio più piccolo cadde per terra.
+Si era cambiato. Non portava più la casacca da viaggio con i bottoni d'argento, ma una tunica di casa, blu scuro, semplice, con le maniche arrotolate fino al gomito, e aveva sotto il braccio una cartella di cuoio piena di fogli e in mano una penna che si era dimenticato di posare. Si fermò sulla soglia. Penelo si alzò di scatto, e la sedia grattò sul pavimento, e il cucchiaio più piccolo cadde per terra.
 
 Rimasero tutti e due a guardarlo.
 
@@ -151,7 +151,7 @@ Avrebbe potuto cominciare dal discorso in piazza, quando tutta Rabanastre era st
 
 Cominciò dai fratelli.
 
-«Ne avevo due» disse. Senza accorgersene si toccò le trecce, i due nastri che le tenevano, uno azzurro e uno rosso. «Kel e Doran. Più grandi di me. Dopo la febbre siamo rimasti noi tre e loro due mi hanno tirata su, e mi facevano da padre e da madre e da fratelli, e da tutto. Kel era il più alto. Alle nozze della principessa mi ha tenuta sulle spalle per tutto il corteo, in via delle Fontane, e io gli tiravo i capelli per vedere meglio.» Si fermò. Respirò. «Mi hanno insegnato a usare il bastone. Doran diceva che una ragazza della Città Bassa deve sapere dove colpire, perché nessuno arriva in tempo. Mi ha insegnato a mirare agli stinchi e a non chiudere gli occhi quando arriva il colpo. Ero bravissima. Vaan non lo sa, ma una volta l'ho fatto piangere.»
+«Ne avevo due» disse. Senza accorgersene si toccò i codini, i due nastri che le tenevano, uno azzurro e uno rosso. «Kel e Doran. Più grandi di me. Dopo la febbre siamo rimasti noi tre e loro due mi hanno tirata su, e mi facevano da padre e da madre e da fratelli, e da tutto. Kel era il più alto. Alle nozze della principessa mi ha tenuta sulle spalle per tutto il corteo, in via delle Fontane, e io gli tiravo i capelli per vedere meglio.» Si fermò. Respirò. «Mi hanno insegnato a usare il bastone. Doran diceva che una ragazza della Città Bassa deve sapere dove colpire, perché nessuno arriva in tempo. Mi ha insegnato a mirare agli stinchi e a non chiudere gli occhi quando arriva il colpo. Ero bravissima. Vaan non lo sa, ma una volta l'ho fatto piangere.»
 
 Larsa non disse niente. Ascoltava.
 
@@ -161,7 +161,7 @@ Fuori, sulla terrazza, il sole del pomeriggio si era spostato, e la luce saliva 
 
 «Io lo so che non è stato lui» disse Penelo. «Tuo fratello, dico. Non era lui che tirava le frecce, e forse non era neanche lì. Lo so. Ma quando parla in piazza e dice che ci rispetta, io penso ai miei fratelli sul muro della Porta Est con i fiori in mano, e penso che lui ha preso il palazzo dove abitava il re per cui sono morti, e ci dorme. E quando dice *pace*...» Si fermò di nuovo. «Lo dice benissimo. È quello che mi fa paura. Che lo dice benissimo.»
 
-Larsa rimase in silenzio a lungo. Guardava la cartella di cuoio davanti a sé, i fogli con la sua calligrafia minuta, le cose che Penelo gli aveva detto e che lui aveva scritto per non dimenticarle. Aveva tredici anni, e fino a quella sera, per tutta la vita, la guerra gli era arrivata sotto forma di rapporti. Era arrivata nei dispacci letti a cena, nei numeri, nelle mappe con le bandierine spostate da un'ansa di fiume a un'altra, nei nomi di città che non avrebbe mai visto. Non era mai arrivata seduta di fronte a lui, con una benda su una mano e una moneta d'oro mai spesa.
+Larsa rimase in silenzio a lungo. Guardava la cartella di cuoio davanti a sé, i fogli con la sua calligrafia minuta, le cose che Penelo gli aveva detto e che lui aveva scritto per non dimenticarle. Aveva dodici anni, e fino a quella sera, per tutta la vita, la guerra gli era arrivata sotto forma di rapporti. Era arrivata nei dispacci letti a cena, nei numeri, nelle mappe con le bandierine spostate da un'ansa di fiume a un'altra, nei nomi di città che non avrebbe mai visto. Non era mai arrivata seduta di fronte a lui, con una benda su una mano e una moneta d'oro mai spesa.
 
 Poi si alzò.
 
@@ -205,7 +205,7 @@ Penelo ci pensò. «Sì. Forse.»
 
 Bussarono di nuovo. Questa volta era un uomo anziano con la livrea della casa, il maggiordomo o qualcosa del genere, con un viso lungo e un'espressione di sofferenza composta che doveva essergli costata anni di esercizio. Si inchinò a Larsa, poi, dopo una minuscola esitazione, anche a Penelo, il che la fece arrossire fino alle orecchie.
 
-«Altezza. Il giudice Ghis manda a dire che la flotta salperà questa notte. Il vostro seguito è atteso a bordo del Leviatano prima del tramonto.» Una pausa. «Il marchese vi prega anche di sapere che la città, oggi, è in una certa agitazione.»
+«Altezza. Il giudice Ghis manda a dire che la flotta salperà questa notte. Il vostro seguito è atteso a bordo del Leviatano prima del tramonto.» Lasciò passare un respiro. «Il marchese vi prega anche di sapere che la città, oggi, è in una certa agitazione.»
 
 «Agitazione?» Larsa si voltò. «Di che genere?»
 

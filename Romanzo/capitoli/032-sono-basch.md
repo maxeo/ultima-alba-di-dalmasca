@@ -14,7 +14,7 @@ Poi disse: «Vayne.»
 
 «Il console. Quello del discorso in piazza a Rabanastre. Credo che tu lo conosca.»
 
-Vaan lo conosceva. Lo aveva visto da lontano, sul balcone del palazzo, il giorno in cui aveva parlato alla folla, e ricordava una voce che arrivava fino in fondo alla piazza senza bisogno di gridare e un mantello che il vento non riusciva a scompigliare. Ricordava che la gente intorno a lui, alla fine, aveva applaudito, e che lui aveva odiato la gente per averlo fatto, e se stesso per averci quasi pensato. Quel ragazzo con la giacca verde e il tè di Hadu e la governante che gli insegnava a curarsi i graffi. Il ragazzo che gli aveva chiesto com'era Rabanastre e lo aveva ringraziato della risposta.
+Vaan lo conosceva. Lo aveva visto da lontano, sul balcone del palazzo, il giorno in cui aveva parlato alla folla, e ricordava una voce che arrivava fino in fondo alla piazza senza bisogno di gridare e un mantello che il vento non riusciva a scompigliare. Ricordava che la gente intorno a lui, alla fine, aveva applaudito, e che lui aveva odiato la gente per averlo fatto, e se stesso per averci quasi pensato. Quel ragazzo con la casacca scura e il tè di Hadu e la governante che gli insegnava a curarsi i graffi. Il ragazzo che gli aveva chiesto com'era Rabanastre e lo aveva ringraziato della risposta.
 
 «E adesso Penelo è con lui» disse.
 
@@ -48,7 +48,7 @@ Balthier aprì la bocca.
 
 «Stavi per dire romanzi.»
 
-«Stavo per dire romanzi di araldica. È un genere che esiste.» Il pirata si aggiustò il cappello. «Molto di nicchia. Pochissimi lettori.»
+«Stavo per dire romanzi di araldica. È un genere che esiste.» Il pirata si aggiustò un anello sulla mano sinistra. «Molto di nicchia. Pochissimi lettori.»
 
 ---
 
@@ -184,7 +184,7 @@ Vaan aprì la bocca, e non sapeva bene che cosa avrebbe detto. Non ebbe bisogno 
 
 La voce veniva dal corridoio stretto. Era calda, divertita, impeccabile. Tutti si girarono.
 
-Balthier stava sulla soglia con una spalla appoggiata allo stipite e il cappello in mano, e si guardava attorno con l'aria di un visitatore che trova la pinacoteca più piccola del previsto.
+Balthier stava sulla soglia con una spalla appoggiata allo stipite e le braccia conserte, e si guardava attorno con l'aria di un visitatore che trova la pinacoteca più piccola del previsto.
 
 «Un covo dietro la cucina di una taverna» continuò. «Con l'ingresso dalla dispensa. Signori, è di una tale originalità che quasi mi commuovo. Se il console Vayne sapesse che il marchese di Bhujerba frequenta gente come voi, credo che si arrabbierebbe moltissimo. Non per il tradimento, che si aspetta. Per lo stile.»
 
@@ -194,7 +194,7 @@ L'uomo con la mano nella veste fece un passo verso di lui.
 
 Non lo disse a Balthier. Lo disse al suo uomo, e lo disse con una voce diversa, quasi un respiro, perché dietro Balthier, nel corridoio dove si passava solo di lato, era entrato qualcun altro. Fran venne avanti e si scostò. E dietro Fran c'era un uomo alto, che dovette chinarsi sotto l'architrave, e che una volta dentro si raddrizzò e si tolse il cappuccio.
 
-Aveva i capelli biondi, tagliati male. Aveva un taglio fresco sotto lo zigomo e una cicatrice sul sopracciglio sinistro. Aveva una giacca da mercante che gli stava stretta di spalle. Stava fermo, con le mani lungo i fianchi, e guardava Havharo senza dire niente, perché non aveva niente da dire che la sua faccia non stesse già dicendo.
+Aveva i capelli biondi, lunghi, legati sulla nuca. Aveva un taglio fresco sotto lo zigomo e una cicatrice sul sopracciglio sinistro. Aveva una giacca da mercante che gli stava stretta di spalle. Stava fermo, con le mani lungo i fianchi, e guardava Havharo senza dire niente, perché non aveva niente da dire che la sua faccia non stesse già dicendo.
 
 Havharo si alzò.
 
@@ -212,6 +212,6 @@ Havharo lo guardò ancora per un lungo momento. Poi si girò verso Vaan, che sta
 
 «Te l'avevo detto» disse Vaan. Poi ci pensò. «No, avevo detto che ero io. Ma il senso era quello.»
 
-Balthier rimise il cappello. Si guardò attorno, guardò i volti degli uomini, guardò il più giovane che aveva ancora la bocca aperta e che adesso guardava Basch come si guarda un santo sceso da una vetrata.
+Balthier si staccò dallo stipite. Si guardò attorno, guardò i volti degli uomini, guardò il più giovane che aveva ancora la bocca aperta e che adesso guardava Basch come si guarda un santo sceso da una vetrata.
 
-«Bene» disse. «Adesso che abbiamo fatto le presentazioni, credo che il vostro padrone vorrà vederci. E credo anche che vorrà vederci in fretta, prima che il suo ospite con l'elmo a cresta senta lo stesso pettegolezzo che avete sentito voi.»
+«Bene» disse. «Adesso che abbiamo fatto le presentazioni, credo che il vostro padrone vorrà vederci. E credo anche che vorrà vederci in fretta, prima che il suo ospite con l'elmo a corna senta lo stesso pettegolezzo che avete sentito voi.»

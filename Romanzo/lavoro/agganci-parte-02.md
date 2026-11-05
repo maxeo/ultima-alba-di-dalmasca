@@ -51,3 +51,18 @@
 | Profumo di Balthier "di un posto lontano" (Archades) | 14 | facoltativo, 80 | aperto |
 | Ciocca di Vaan sopra l'orecchio sinistro, mai tagliata (dal cap. 4) | 7 | 26 o finale, una volta sola | aperto |
 | Naso di Balthier "che i disegnatori di manifesti sbagliano sempre" (manifesto del cap. 4) | 14 | facoltativo | aperto |
+| Ifrit già pronta con i cannoni caldi; Balthier: "il console ha fatto da formaggio" | 15 | 17 (cattura davanti a Vayne) | aperto |
+| Balthier, voce più vecchia di lui: "Non guardare. Non serve a niente. Lo dico per esperienza" | 15 | 77, 83 (Draklor, padre) | aperto |
+| La pietra "beve" il motore della barca volante: lo nota Fran | 15 | 16, 30 (Negalite artificiale) | aperto |
+| Primo grido di paura di Vaan, "non di rabbia" | 15 | facoltativo | aperto |
+| Vaan si presenta a Balthier come "lo sterminatore di topi"; "nome da secondo atto" | 16 | 17, 22 (Balthier lo chiama "sterminatore" con misura) | aperto |
+| Balthier: "Sono un uomo nuovo. L'acqua mi ha purificato" / la pietra resta a Vaan | 16 | 17-18 | aperto |
+| Città nominate da Balthier: Bhujerba senza fogne, Balfonheim con le fogne più pulite del porto | 16 | 28, 84 | aperto |
+| Il messaggero di Vossler morto nella camera rotonda, col mantello azzurro: "abbiamo visto solo topi" | 16 | 17 (Amalia chiede dei suoi), 25 (Vossler) | aperto |
+| Balthier: "Ci sono cose che non servono a niente e si fanno lo stesso. Ma bisogna essere vivi" | 16 | 104, 110 | aperto |
+| Fran spezza un dardo di balestra e lo lascia cadere nell'acqua dei morti | 16 | facoltativo | aperto |
+| Amalia stringe la sinistra a pugno alla notizia dei sette morti (anello, mai nominato) | 17 | 21, 36, 52 | aperto |
+| La pietra si accende piena vicino ad Amalia; Balthier: "le pietre non fanno così in presenza di chiunque" | 17 | 36 (Ashe, Frammento del Crepuscolo) | aperto |
+| "Resistenza, non insurrezione": "Per chi muore, sì" | 17 | 25, 50 | aperto |
+| Vayne riconosce "il ragazzo del muro" e ordina di essere "cortesi" davanti alla città | 17 | 18 (arresto davanti alla folla) | aperto |
+| Uscita dai canali all'alba dalla grata del quartiere delle cisterne | 17 | 18 | aperto |

@@ -76,7 +76,7 @@ Vaan lo guardò. Il ragazzo stava fermo sull'ultima trave del ponte, con le mani
 
 «Dicono che il console parla bene» disse Vaan. «Che ha parlato in piazza e ha detto che vuole la pace e che ci rispetta. E poi dicono che i figli dell'imperatore sono tutti uguali, che si ammazzano fra loro per il trono e che quando hanno finito di ammazzarsi fra loro vengono ad ammazzare noi.» Si strinse nelle spalle. «Io non lo so. Io non ne conosco nessuno.»
 
-Lamont scese dal ponte. Per un poco non disse niente.
+Lamont scese dal ponte. Per un poco non rispose.
 
 «Grazie» disse alla fine.
 
