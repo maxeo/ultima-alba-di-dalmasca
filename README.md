@@ -40,7 +40,7 @@ Dal menu trovi anche i traguardi: tempo ascoltato, serie di giorni e medaglie. P
 - **Lettura:** dimensione, carattere, interlinea ed evidenziazione della frase.
 - **Ascolto:** velocità da 0,5× a 3×, uno o più pulsanti di salto e passaggio automatico al capitolo successivo.
 - **Lettore:** barre e pulsanti da mostrare, compreso il download del file, che parte nascosto. Solo play e pausa restano sempre.
-- **Ascolto senza rete:** capitoli salvati e spazio occupato, con salvataggio di una Parte o di tutti.
+- **Ascolto senza rete:** capitoli salvati e spazio occupato, con salvataggio di una Parte o di tutta l'opera.
 
 Le impostazioni e i progressi restano nel browser; i progressi si possono esportare e importare. I caratteri Literata, Lora, EB Garamond e Atkinson Hyperlegible si scaricano da Google Fonts solo se li scegli.
 
