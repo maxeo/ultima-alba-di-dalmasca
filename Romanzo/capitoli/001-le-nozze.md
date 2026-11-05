@@ -160,7 +160,7 @@ Aveva sessantasei anni e li mostrava tutti. Era stato un uomo robusto e lo si ca
 
 Quando sua figlia entrò dalla navata al braccio di Rasler, la sua faccia si aprì. Tutti lo videro. Fu l'unico momento della giornata in cui il re di Dalmasca dimenticò di essere guardato.
 
-La cerimonia fu lunga, come devono essere le cerimonie che si vogliono ricordare. Il vescovo di Rabanastre, un vecchio con la voce più grande del corpo, lesse le genealogie delle due case fino al terzo re di ciascuna, e a metà della seconda genealogia un nobile nabradiano nei primi banchi cominciò a dormire con molta dignità. Ashe recitò la sua parte senza un'esitazione. Rasler sbagliò il nome di lei una volta, ingarbugliandosi sull'apostrofo di B'nargin, e lei lo corresse in un sussurro che arrivò fino al terzo banco, e il terzo banco finse di non aver sentito.
+La cerimonia fu lunga, come devono essere le cerimonie che si vogliono ricordare. Il vescovo di Rabanastre, un vecchio con la voce più grande del corpo, lesse le genealogie delle due case fino al terzo re di ciascuna, e a metà della seconda genealogia un nobile nabradiano nei primi banchi cominciò a dormire con molta dignità. Ashe recitò la sua parte senza un'esitazione. Rasler si perse una volta nella formula del giuramento, quella con il congiuntivo che a Dalmasca nessuno usa più da due secoli, e lei gliela suggerì in un sussurro che arrivò fino al terzo banco, e il terzo banco finse di non aver sentito.
 
 Poi venne il momento degli anelli.
 
@@ -198,7 +198,7 @@ L'ambasciatore di Archadia si avvicinò agli sposi a metà banchetto, con il seg
 
 Raminas, che sedeva alla loro destra e aveva sentito tutto, si chinò verso di loro con una coppa in mano. Parlava piano, come parlava sempre quando diceva cose vere.
 
-«Ad Archades ci considerano un corridoio» disse. «Un buon corridoio, utile, che porta da una stanza importante a un'altra. Nessuno arreda un corridoio. Nessuno ci appende quadri.» Bevve un sorso, guardò la figlia, guardò il genero. «Voi due siete un quadro. Non so se basterà. Ma è la cosa più bella che abbia appeso in trent'anni.»
+«Ad Archades ci considerano un ponte» disse. «Un buon ponte, utile, che porta da una riva importante a un'altra. Su un ponte nessuno si ferma. Nessuno ci pianta un giardino.» Bevve un sorso, guardò la figlia, guardò il genero. «Voi due siete un giardino. Non so se basterà. Ma è la cosa più bella che abbia piantato in trent'anni.»
 
 Ashe aprì la bocca per rispondere qualcosa di pungente, perché era quello che faceva quando qualcosa la toccava troppo, e non le venne niente. Gli prese la mano con quella libera. Lui gliela strinse, e poi tornò a sedersi dritto, a fare il re.
 
