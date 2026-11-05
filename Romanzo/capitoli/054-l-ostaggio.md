@@ -132,7 +132,7 @@ C'era qualcuno in fondo al ponte. Stava fermo all'imbocco opposto, in piedi, nel
 
 Lo disse a voce alta. Lo disse prima di poterlo trattenere.
 
-La figura si mosse. Fece un passo avanti, nella luce, e non era Rasler. Era Vaan. Aveva la camicia fuori dai pantaloni e un pezzo di focaccia in mano, e i capelli chiari, sotto le stelle, avevano ingannato una vedova per il tempo di un battito. Si fermò sull'imbocco del ponte e la guardò. Non con la faccia di chi ha sentito pronunciare un nome che non è il suo, e si imbarazza, e finge di non avere sentito. Con un'altra faccia.
+La figura si mosse. Fece un passo avanti, nella luce, e non era Rasler. Era Vaan. Aveva la giubba aperta, la fascia rossa allentata in vita e un pezzo di focaccia in mano, e i capelli chiari, sotto le stelle, avevano ingannato una vedova per il tempo di un battito. Si fermò sull'imbocco del ponte e la guardò. Non con la faccia di chi ha sentito pronunciare un nome che non è il suo, e si imbarazza, e finge di non avere sentito. Con un'altra faccia.
 
 «Anche tu» disse Vaan.
 

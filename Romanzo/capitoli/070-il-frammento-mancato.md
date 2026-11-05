@@ -180,6 +180,16 @@ Balthier, dalla soglia, la guardava. Aveva un'espressione che Vaan non riuscì a
 
 Penelo gli diede un'occhiata. Vaan fece un mezzo sorriso, e se lo tolse subito. Basch non si mosse.
 
+Fran si era inginocchiata accanto alla crepa. La seguì con un dito, dal punto dove la lama era entrata fino al muro, senza toccarla, a un soffio dalla pietra, come si segue la riga di una lettera scritta in una lingua che si conosce poco. Poi avvicinò la mano al frammento, e la ritrasse prima di sfiorarlo.
+
+«Dorme» disse.
+
+«Di nuovo?» chiese Penelo.
+
+«Fa finta.» La viera si rialzò. Le orecchie le erano tornate dritte, ma non del tutto. «Ha sentito la spada. Adesso sa che esiste.» Guardò Ashe. «Anche lei, adesso, sa della pietra. Sono cose che non si dimenticano.»
+
+Nessuno le chiese chi fosse lei. La spada era nelle mani della principessa, con la punta verso terra, e per un istante, a guardarla, sembrò davvero che ascoltasse.
+
 Ashe non rise. Non si voltò nemmeno verso Balthier. Si chinò, raccolse il frammento dal pavimento, lo avvolse nel panno con due giri rapidi, e se lo rimise alla cintura. Poi si voltò verso Vaan.
 
 Lo guardò. Fu uno sguardo lungo, diretto, che non aveva niente di regale e che Vaan sentì arrivargli fino in fondo alla schiena.
@@ -206,7 +216,7 @@ La principessa rimase a guardarlo ancora un momento. Poi annuì, adagio, e si vo
 
 Uscirono dalla camera del campione, ripercorsero le sale, passarono davanti al colosso, che aveva rimesso la spada di pietra sulle ginocchia e chiuso gli occhi. Era sera quando arrivarono all'ingresso. Fuori, oltre il ponte, la valle chiusa era blu di neve e di crepuscolo. Decisero di passare la notte sotto le colonne del portico, dove il vento non arrivava, e Basch accese un fuoco con la legna che si erano portati dal rifugio dei pellegrini, e Penelo scaldò quello che restava delle provviste.
 
-Ashe non mangiò. Si sedette un po' discosta, contro una colonna, con la Spada dei Re di traverso sulle ginocchia e il frammento alla cintura, e guardava il ponte.
+Ashe non mangiò. Basch le portò una ciotola, la posò sul gradino accanto a lei e se ne andò senza dire niente, e la ciotola restò lì, a raffreddarsi nella neve, finché Penelo non la ritirò e la mise vicino al fuoco, per dopo. Ashe si era seduta un po' discosta, contro una colonna, con la Spada dei Re di traverso sulle ginocchia e il frammento alla cintura, e guardava il ponte.
 
 Vaan si sedette accanto al fuoco con le ginocchia fra le braccia. Non parlava. Penelo gli passò una ciotola, e lui la tenne in mano senza mangiare.
 

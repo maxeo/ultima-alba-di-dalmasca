@@ -8,7 +8,7 @@ Rasler stava sull'acqua a una decina di passi da lei. Non ci camminava sopra: ci
 
 Teneva qualcosa in mano. Glielo porse sul palmo aperto, con un piccolo inchino, e lei riconobbe la pietra prima ancora di vederla: il Frammento d'Aurora, scuro, opaco, con quella sfumatura di viola nel profondo che si vedeva solo inclinandolo. Ashe lo prese. Era freddo come l'acqua. Allungò l'altra mano verso il polso di Rasler, per tenerlo, solo per tenerlo, e le dita si chiusero su niente.
 
-Al suo posto c'era Vaan. Stava nello stesso punto, nella stessa luce, con la camicia sporca di sabbia e i capelli in disordine, e la guardava con l'espressione di chi è entrato in una stanza sbagliata e non sa se scusarsi. Non disse niente. Lei nemmeno.
+Al suo posto c'era Vaan. Stava nello stesso punto, nella stessa luce, con la giubba aperta sporca di sabbia e i capelli in disordine, e la guardava con l'espressione di chi è entrato in una stanza sbagliata e non sa se scusarsi. Non disse niente. Lei nemmeno.
 
 Si svegliò con la mano chiusa a pugno sul petto. Dentro il pugno c'era l'anello, largo come sempre, che di notte le scivolava fino alla nocca, e che lei la sera si legava al dito con un filo di cotone e la mattina slegava prima che qualcuno la vedesse.
 
