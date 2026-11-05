@@ -50,7 +50,7 @@ Vayne guardò Drace a lungo. Non disse niente di quello che avrebbe potuto dire.
 
 Drace non rispose. Si rimise a sedere, ma non come prima. Adesso sedeva come chi ha detto la sua e sa di non essere stata ascoltata.
 
-«Il presidente Gregoroth» disse una terza voce, una voce larga e grossa che sembrava venire da un barile «farebbe meglio a occuparsi della sua digestione. Ha sessantotto anni e mangia come un ventenne. Lo vedrei volentieri occuparsene a lungo. Molto a lungo.»
+«Il presidente Gregoroth» disse una terza voce, una voce larga e grossa che sembrava venire da un barile «farebbe meglio a occuparsi della sua digestione. Ha sessantotto anni e mangia come un ventenne. Lo vedrei volentieri occuparsene a lungo. Molto per un pezzo.»
 
 Il Giudice Bergan stava appoggiato al muro accanto a una delle carte geografiche, con le braccia incrociate. Era il più grosso di tutti, e la sua armatura era la più scura, nera con riflessi rossi, e il suo elmo, che teneva sotto il braccio, aveva una visiera larga e piatta, che lo faceva somigliare a una bocca di rana. Era biondo, con le basette lunghe, più giovane di quanto la voce facesse credere, e aveva due occhi piccoli, molto chiari, che si muovevano poco. Mentre parlava, giocherellava con un candeliere di ferro che aveva preso dalla mensola: un oggetto massiccio, a tre bracci, che due servi portavano insieme quando c'era da spostarlo. Bergan lo teneva in una mano sola. Lo girava fra le dita.
 
@@ -126,7 +126,7 @@ Il principe ci aveva pensato. «Ma se restano nel lago perché non possono volar
 
 Gabranth non aveva risposto. Non spettava a lui.
 
-Il principe lo aveva guardato a lungo. Poi aveva chiuso il libro, si era alzato, era venuto verso di lui fino a mezzo passo, così vicino che Gabranth avrebbe dovuto indietreggiare per rispettare il regolamento, e non lo aveva fatto.
+Il principe lo aveva guardato un bel po'. Poi aveva chiuso il libro, si era alzato, era venuto verso di lui fino a mezzo passo, così vicino che Gabranth avrebbe dovuto indietreggiare per rispettare il regolamento, e non lo aveva fatto.
 
 «L'elmo è pesante?»
 

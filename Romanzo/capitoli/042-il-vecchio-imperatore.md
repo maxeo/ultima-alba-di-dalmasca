@@ -174,7 +174,7 @@ E il figlio che le teneva la mano, il giorno dopo, era andato all'ufficio dei ru
 
 «Ero con mia madre, Maestà» disse Gabranth.
 
-L'imperatore lo guardò a lungo.
+L'imperatore lo guardò per un pezzo.
 
 «E tuo fratello no.»
 

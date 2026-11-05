@@ -78,7 +78,7 @@
 
 ## Cap. 39
 - Circa 3.550 parole, sotto i 4.000 dell'espanso: lo scontro è tenuto corto per regola. Aggiungere solo se il regista lo chiede.
-- Ghis non muore: in ginocchio, senza elmo (calvo, occhi grigi stanchi, cicatrice alla bocca). Ashe tiene la spada alzata e non colpisce. Muore sullo Shiva al cap. 49.
+- Ghis non muore: in ginocchio, senza elmo (calvo, occhi grigi stanchi, cicatrice alla bocca). Ashe tiene la spada alzata e non colpisce. Muore sul Leviatano al cap. 49.
 - Penelo combatte con un'asta da catene (eco del bastone di Doran) e dice "scusa" al soldato.
 - Gag del protagonista: "Non è il genere di uscita di scena che si addice al protagonista" / Fran: "Di quale storia?... Allora la storia è povera." Unica ricorrenza nella Parte IV.
 - Traccia di Balthier: risponde alla pattuglia nel tubo in archadiano da caserma con codice e formula finale giusti; "teatro". Si somma al volo lento di Fran.
