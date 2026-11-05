@@ -68,10 +68,17 @@
 - Penelo chiede di Larsa; voce di Al-Cid in chiusura.
 
 ## Cap. 73
-- Fonti lette integralmente: `file25`, V-VII; doppia numerazione della sezione V riconosciuta, senza ripetere lo scontro già nel 72. Letti 71, 72 e 74, poi riletta la Parte VIII.
-- Al-Cid resta galante anche ferito; conferma Larsa partito con Gabranth prima della violenza di Bergan. Ashe rifiuta Rozarria per cercare il Crepuscolo a Draklor.
-- Non viene anticipata la parentela Balthier-Cid: il disagio del pirata riguarda il ritorno ad Archades, senza spiegarlo.
-- Lutto concreto sui gradini, accoliti e Kiltias; ritrovata viva la donna dei Fratelli Haddur col bambino, cui Vaan restituisce la scarpa del 71.
-- La scelta immediata è scendere a Nalbina e valutare i passaggi terrestri. Il dettaglio completo di Mosfora, Halny, Salika e Costa Phon resta alla scena già presente nel 74.
+- Al-Cid ferito, retto da Tavina (inventata, una delle sue accompagnatrici); galante anche a metà inchino (fix 2, `file32:1522` vale come tratto). Racconto: Zargabaath cortese, Gabranth con i due ordini, Larsa sale sulla nave per non far combattere in un luogo sacro; Bergan scende dopo. Anastasis rifiuta di fuggire.
+- Proposta di Rozarria e rifiuto di Ashe; Balthier indica Draklor e il dottor Cid, nominato da Ghis sul Leviatano. Messaggio di Larsa riferito da Al-Cid.
+- Strada a piedi: si decide solo di scendere a Nalbina; il percorso Mosfora-Halny-Salika-Costa Phon lo spiega Balthier al cap. 74. La Strahl resta a Rabanastre.
+- Esisteva su main un'altra stesura del cap. 73, scritta mentre questa sessione era ferma: tenuta la mia, che ne conserva i fatti (Larsa con Gabranth, rifiuto di Rozarria, lutto, donna Haddur); vedi note di revisione.
+- Lutto sui gradini (fix 3, `file25:610`): accoliti e Kiltias sotto la pioggia, candele spente, ciotola vuota; Ashe fa portare un lenzuolo per Anastasis.
+- Ritrovata la donna della tenda Haddur con il bambino scalzo; Vaan le riporta la scarpa.
+
+## Chiusura della Parte VIII
+- Riletta per intero. Accenni alle fonti limitati ai cap. 65 e 68; tolto un intervento del narratore su se stesso al cap. 68 e uno al cap. 69.
+- Lunghezze: 64: 3.250; 65: 1.850; 66: 1.500; 67: 2.000; 68: 2.600; 69: 2.450; 70: 3.850 (espanso, sotto i 4.000); 71: 1.950; 72: 2.300; 73: 2.700.
+- Gag della Parte: moguri delle pellicce e stivali foderati, le tre spiegazioni delle isole sospese, "dorme?", Al-Cid e "uno come me ma con più soldi", i Giudici che "non sudano".
+- Elder Wyrm, Vinuskar e i corridoi di Miriam tagliati; Mateus in un paragrafo; Relj non citato.
 
 FINE PARTE

@@ -192,7 +192,7 @@ Balthier guardò Vaan. Vaan guardò Fran. Fran guardava la scala, e l'aria che s
 
 «Laggiù» disse la viera «c'è qualcuno che respira piano.»
 
-Balthier si sistemò i polsini, uno e poi l'altro, con due piccoli gesti precisi.
+Balthier controllò che l'arma fosse carica, e la rimise alla cintura.
 
 «Allora andiamo a fargli visita» disse. «Sarebbe scortese non farlo, dopo tutta questa strada.»
 

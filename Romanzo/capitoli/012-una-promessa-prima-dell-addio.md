@@ -104,7 +104,7 @@ Penelo si girò. «Come lo sai che si chiamava Pancia?»
 
 «Ma va'.»
 
-«Reks voleva che la rimettessi a posto. Io l'ho morsa, così non si poteva più.» Vaan mise i piedi più a fondo nell'acqua. «Poi lui mi ha fatto vedere un cavaliere. Diceva che era il capitano Basch. Diceva che era quello che guardava i tetti.»
+«Reks voleva che la rimettessi a posto. Io l'ho morsa, così non si poteva più.» Vaan mise i piedi più a fondo nell'acqua. «Poi lui mi ha fatto vedere un cavaliere. In testa alla scorta. Diceva che era il capitano Basch.»
 
 Lo disse, e se ne pentì, perché la parola gli era venuta fuori da sola, e la parola era un nome, e il nome era quello. Ma Penelo non disse niente. Guardava l'acqua anche lei. Il sole era uscito del tutto, adesso, e la luce scendeva lungo le mura della città, una pietra alla volta.
 

@@ -32,7 +32,7 @@ Dalla curva venne fuori una viera.
 
 ---
 
-Era giovane. Questo si capiva subito, anche a chi non sapeva distinguere l'età delle viere: aveva le membra lunghe e un poco sgraziate di chi ha finito di crescere da poco, e i capelli bianchi tagliati corti, e un viso dai tratti più morbidi di quelli di Fran e di Jote. Ma si somigliava a loro. Si somigliava a loro nel modo di tenere la testa e negli occhi, gli stessi di Fran, che però non guardavano niente. Camminava in mezzo alla galleria a passi lenti e storti, come chi cammina in sogno o su un ponte che oscilla, e muoveva le labbra, e parlava a qualcuno che non c'era.
+Era giovane. Questo si capiva subito, anche a chi non sapeva distinguere l'età delle viere: aveva le membra lunghe e un poco sgraziate di chi ha finito di crescere da poco, i capelli argento tagliati a caschetto, le labbra pallide e un viso dai tratti più morbidi di quelli di Fran e di Jote. Ma si somigliava a loro. Si somigliava a loro nel modo di tenere la testa e negli occhi, scuri, che non guardavano niente. Camminava in mezzo alla galleria a passi lenti e storti, come chi cammina in sogno o su un ponte che oscilla, e muoveva le labbra, e parlava a qualcuno che non c'era.
 
 «Mjrn» disse Fran.
 
@@ -70,7 +70,7 @@ Fran non rispose a lei. Guardava la porta chiusa.
 
 Balthier la guardò, e capì prima degli altri.
 
-Sulla Shiva, quando il Frammento d'Aurora si era svegliato, il Mystes era uscito dalla pietra come l'acqua esce da una diga rotta, e Fran, che lo sentiva più di chiunque altro, ci si era trovata dentro. Nessuno di loro ne parlava. Ma tutti ricordavano la viera che si piegava in due, con le mani sulle orecchie, e poi si raddrizzava con negli occhi una cosa che non era lei.
+Sullo Shiva, quando il Frammento d'Aurora si era svegliato, il Mystes era uscito dalla pietra come l'acqua esce da una diga rotta, e Fran, che lo sentiva più di chiunque altro, ci si era trovata dentro. Nessuno di loro ne parlava. Ma tutti ricordavano la viera che si fermava a metà di un passo, con la testa piegata di lato, e poi spezzava fra le mani l'arma di un soldato, con negli occhi una cosa che non era lei.
 
 «È il Mystes» disse Fran. «Troppo. Dentro di lei. Non è lei che parla.»
 

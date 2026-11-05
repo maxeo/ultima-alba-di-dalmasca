@@ -1,6 +1,6 @@
 ## 24. L'aria di Dalmasca
 
-La lampada rimase a dondolare per tre colpi del cavo contro il muro. Al quarto si spense. Sotto la scala, nel punto in cui la ferrovia entrava nell'ultima sala, le altre luci si abbassarono tutte insieme; una riga verde corse sui binari e sparì fra le zampe di una creatura che occupava quasi tutta l'apertura. Vaan vide prima le zampe. Il corpo venne dopo, sollevandosi dal pavimento con il rumore di una cassa trascinata su cento chiodi.
+La galleria finiva su una scala di ferro, e in cima alla scala una lampada si staccò dal muro con un colpo venuto dal basso e rimase appesa al cavo. Dondolò per tre colpi del cavo contro il muro. Al quarto si spense. Sotto la scala, nel punto in cui la ferrovia entrava nell'ultima sala, le altre luci si abbassarono tutte insieme; una riga verde corse sui binari e sparì fra le zampe di una creatura che occupava quasi tutta l'apertura. Vaan vide prima le zampe. Il corpo venne dopo, sollevandosi dal pavimento con il rumore di una cassa trascinata su cento chiodi.
 
 «Eccola» disse Balthier. «La proprietaria.»
 
@@ -22,7 +22,7 @@ La bestia urtò il sostegno della pensilina. La tettoia si abbassò di un palmo 
 
 «Adesso» disse Basch.
 
-Scese per primo, con la spada bassa, e non cercò il ventre. Colpì la zampa che minacciava di tornare verso la scala. Il ferro arrugginito si piegò e rimase incastrato fra due placche. Il capitano lo lasciò, afferrò il braccio di Vaan e lo spinse verso il pilastro della banchina. Vaan si voltò per recuperare l'arma, poi vide che Basch aveva già raccolto un'asta di ferro dal pavimento.
+Scese per primo, con la spada bassa, e non cercò il ventre. Colpì la zampa che minacciava di tornare verso la scala. La spada del ferroviere si piegò e rimase incastrata fra due placche. Il capitano lo lasciò, afferrò il braccio di Vaan e lo spinse verso il pilastro della banchina. Vaan si voltò per recuperare l'arma, poi vide che Basch aveva già raccolto un'asta di ferro dal pavimento.
 
 L'arco di Fran fece un suono breve. La freccia si conficcò sotto il cartello della banchina, dove uno dei cavi principali spariva nella pietra, e una luce bianca si allargò lungo il metallo. La brina corse sulla trave. Balthier saltò giù dal carrello, atterrò male e imprecò, ma ebbe il tempo di sparare ancora prima che la creatura gli piombasse addosso. Il corpo gelato a metà urtò la colonna, si rovesciò di fianco e spezzò il sostegno della pensilina.
 
@@ -53,6 +53,8 @@ Basch bevve. Si pulì la bocca con il dorso della destra e sollevò il viso.
 Il sole era già alto. Sotto la parete si apriva un declivio di pietra gialla, attraversato da una pista di animali e dalle ombre corte di poche acacie. Più lontano il deserto cambiava colore, da bianco a rosa, fino alle gobbe scure di un altopiano. Una lucertola, disturbata dal crollo, correva a scatti verso una crepa. Nessuno era venuto ad arrestarli. Nessuno sapeva dove fossero.
 
 Basch inspirò e sentì il petto fermarsi prima di essere pieno. Riprovò, più lentamente. L'aria entrò con odore di terra calda e di capperi, e gli fece tossire via gli ultimi due anni di umidità. Chiuse gli occhi. Il sole gli scaldava le palpebre. Restò così, con la borraccia vuota fra le mani.
+
+I documenti dell'epoca non registrano quel respiro. Registrano, mesi dopo e con molta irritazione, che il capitano Basch fon Ronsenburg era «ricomparso» nell'estate del 706, come un debitore rientrato da un viaggio. Chi scrisse quei documenti non era sul pendio sotto la montagna, con l'odore dei capperi e del sole. Il respiro valeva di più.
 
 «Capitano» disse Balthier.
 
@@ -118,7 +120,7 @@ Per un istante Vaan pensò di offrirgli la propria. Poi pensò alla gabbia e str
 
 Rabanastre apparve nel tardo pomeriggio, prima con le torri, poi con una cupola che il sole faceva brillare sopra le mura. Il vento portava un odore di fumo di cucina, debolissimo. Vaan si fermò senza volerlo. Aveva lasciato la città con una scorta imperiale, le mani legate e Penelo in mezzo alla strada; da lontano i tetti non raccontavano niente di tutto questo. Sul bastione, dove un tempo sventolava l'azzurro di Dalmasca, c'era una bandiera scura.
 
-Basch si fermò accanto a lui. Non disse nulla. Si sistemò la giacca senza maniche, tirò il tessuto sui polsi e abbassò il capo per nascondere la cicatrice del sopracciglio.
+Basch si fermò accanto a lui. Non disse nulla. Si sistemò la giacca di tela, tirò il tessuto sui polsi e abbassò il capo per nascondere la cicatrice del sopracciglio.
 
 «Al cancello lasciate parlare me» disse Balthier.
 

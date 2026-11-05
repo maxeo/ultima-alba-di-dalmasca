@@ -86,7 +86,7 @@ Penelo alzò la testa.
 
 «La pietra. Quella che vi ho dato a Bhujerba. Ce l'avete ancora?»
 
-«Sì.» Penelo se la tirò fuori da sotto la camicia, dove la teneva appesa a un laccio di cuoio, e la mostrò sul palmo. Era piccola, scura, più o meno della stessa forma dei due pezzi che Fran teneva in mano. Brillava appena alla luce del fuoco, un riflesso viola, lontano. «Me la porto sempre dietro. Porta fortuna.»
+«Sì.» Penelo se la tirò fuori da sotto il vestito, dove la teneva appesa a un laccio di cuoio, e la mostrò sul palmo. Era piccola, scura, più o meno della stessa forma dei due pezzi che Fran teneva in mano. Brillava appena alla luce del fuoco, un riflesso viola, lontano. «Me la porto sempre dietro. Porta fortuna.»
 
 Larsa si alzò, attraversò il cerchio del fuoco, e gliela prese di mano.
 

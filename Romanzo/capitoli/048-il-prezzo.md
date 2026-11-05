@@ -30,7 +30,7 @@ Ashe rimase ferma. «Che cosa vuoi?»
 
 «La negalite, allora. Mi rallegro che le privazioni non vi abbiano tolto la chiarezza.»
 
-Penelo portò istintivamente la mano al collo, dove teneva il dono di Larsa. Ghis vide il movimento e inclinò appena il capo.
+Penelo portò istintivamente la mano alla tasca della gonna, dove teneva la scheggia scura di Larsa. Ghis vide il movimento e inclinò appena il capo.
 
 «Quella no, ragazza. Le imitazioni hanno il loro impiego, ma non meritano una flotta.» Tornò a guardare la principessa. «La Negalite divina. Quella che il vostro antenato si è preso tanta pena di nascondere.»
 

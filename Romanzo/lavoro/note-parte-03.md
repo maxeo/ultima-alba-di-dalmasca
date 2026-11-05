@@ -41,12 +41,19 @@
 - Fonte: `file06`, X; letti i richiami del 19 e i nomi già fissati nel 12, 28 e 33. Genitori di Vaan morti cinque anni prima; Kel e Doran sono i fratelli di Penelo, morti o dispersi nella guerra.
 - Riprese: cortile della pompa, cucchiaio piegato, stanza sopra Migelo, fascia di Reks sulla sinistra di Basch. Unico ultimo richiamo a «quello che guarda i tetti» e alla ciocca.
 - La fiducia arriva dopo il riconoscimento delle cure date a Reks; Basch non assegna al ragazzo un'assoluzione. Modellino e riparazione del tetto sono ricordi locali, senza ritorni obbligatori.
-- Il letto di Reks resta inutilizzato da Vaan: nel 26 si siede sulla cassapanca, con il pagliericcio ancora a terra. Conservato il primo ritorno sul letto riservato al 101.
+- Il letto di Reks resta inutilizzato da Vaan: nel 26 si siede sulla cassapanca, accanto alle due brande. Conservato il primo ritorno sul letto riservato al 101.
 
 ## Cap. 27
 - Fonti: `file06`, XI-XII. Vaan offre la pietra come prezzo, Balthier accetta il patto ma gliela lascia fino a Bhujerba: il possesso materiale resta coerente con i capitoli 30-36.
 - Nono è nominato e imbarcato, con il motore di babordo già richiesto dal 28. Primo volo, senza anticipare l'arrivo alla città celeste.
 - L'accesso viaggiatori dall'aerodromo occidentale comunica con i magazzini meridionali: raccorda la fonte con la voce sulla nave presso la Porta Sud del 18.
 - Riletta la Parte III completa; aggiunte circoscritte ai capitoli richiesti. Nessun aggiornamento agli agganci condivisi, per il vincolo espresso dell'incarico.
+
+## Cap. 23
+- Sostituita la stesura di `main` (altro modello) con la mia, scritta prima della revisione finale nella voce dei pilota. Circa 3.950 parole.
+- Basch racconta il gemello senza il motivo dell'odio (resta a `file10` sez. VII) e senza dire che è il Giudice. Balthier e Fran capiscono dalle voci e tacciono.
+- La manica di Reks: Basch racconta la fasciatura (revisione), Vaan ricorda la giubba con una manica sola nella cassa. È l'incrinatura, non ancora fiducia.
+- Basch prende la spada del ferroviere; adattati di conseguenza tre dettagli del cap. 24.
+- Revisione finale: allineati i cap. 24-27 ai miei (Penelo scalza all'arresto, due brande, spada di Dalan sotto il materasso, "la Sandsea", laccio di Kytes per la pietra); tolti richiami di troppo alla ciocca nei cap. 18 e 23.
 
 FINE PARTE

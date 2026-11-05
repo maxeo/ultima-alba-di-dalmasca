@@ -70,6 +70,8 @@ La ragazza annuì. Si asciugò gli occhi con il polso prima di tornare al foglio
 
 Sotto, in una grafia più stretta, c'era una riga sola: *Non partire senza Penelo.*
 
+E sotto ancora, di nuovo nella calligrafia larga: *Il congegno riportamelo di persona, a Bervenia. È una scusa come un'altra. Al protagonista non sta bene ammettere che ne cerca una.*
+
 Vaan la lesse ad alta voce. Penelo gli prese l'astuccio dalle mani prima che riuscisse a chiedere se fosse stato necessario aggiungerlo. Il coperchio si aprì con una pressione del pollice. Dentro c'era l'anello.
 
 La ragazza riconobbe i due metalli ritorti. Vaan li aveva visti uscire dalla tasca di Balthier soltanto di rado, un bagliore quando controllava di averli ancora; Penelo ricordava meglio la mano vuota di Ashe dopo Jahara, e il modo in cui le dita cercavano qualcosa senza trovarlo. Richiuse l'astuccio.

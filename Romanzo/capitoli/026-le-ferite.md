@@ -8,7 +8,7 @@ Basch tirò il nodo. «Non te lo avrei chiesto.»
 
 «Lo dico per chiarire.»
 
-Il capitano si raddrizzò. La spada dell'Ordine gli batteva contro il fianco con un suono nuovo, cuoio buono su una fibbia povera. Si era tolto la giacca della ferrovia, ma la camicia ricevuta nel nascondiglio era tanto larga da nascondere le mani quando teneva le braccia basse. Vaan gli guardò i polsini, poi il taglio dello zigomo. Con la barba accorciata somigliava di più all'uomo che aveva odiato sui muri della città e meno al prigioniero che aveva conosciuto.
+Il capitano si raddrizzò. La spada dell'Ordine gli batteva contro il fianco con un suono nuovo, cuoio buono su una fibbia povera. Si era tolto la giacca di tela della ferrovia, ma la camicia ricevuta nel nascondiglio era tanto larga da nascondere le mani quando teneva le braccia basse. Vaan gli guardò i polsini, poi il taglio dello zigomo. Con la barba accorciata somigliava di più all'uomo che aveva odiato sui muri della città e meno al prigioniero che aveva conosciuto.
 
 Camminarono fino all'incrocio senza parlare. Basch guardava le porte: alcune erano state murate, altre avevano insegne imperiali al posto dei nomi. A una finestra era appeso un sacchetto di erbe per tenere lontane le mosche. Davanti a un'altra dormiva un bambino con la guancia sul bordo di una cesta. Aveva in mano una ruota di legno che si era staccata dal proprio carro.
 
@@ -28,7 +28,7 @@ Basch misurò la risposta. «Sì.»
 
 Basch avrebbe voluto chiedere altro. Dove l'avevano presa, chi aveva pronunciato il suo nome, se Vayne l'aveva guardata in faccia. Quasi tutte le risposte potevano essere pericolose in una strada con finestre aperte. Aspettò il passaggio di due uomini con una portantina, poi domandò: «Sai dove trovare Balthier?»
 
-«Al Sandsea, credo.»
+«Alla Sandsea, credo.»
 
 «Puoi accompagnarmi?»
 
@@ -62,7 +62,7 @@ Vaan riprese a camminare. Il capitano lo seguì, e per la prima volta dalla mont
 
 Nel cortile della pompa di bronzo c'erano tre bambini. Avevano teso una corda da un chiodo a una colonna e ci facevano passare sopra una tazza sbeccata, sostenuta da un manico di filo di ferro. La chiamavano nave. Il più piccolo stava nel mezzo e la spingeva finché gli altri due non lo accusavano di toccarla troppo. Ogni volta che la tazza cadeva, i due più grandi ricominciavano il viaggio dal capo della corda; il piccolo andava a raccoglierla e poi veniva cacciato di nuovo.
 
-Vaan si fermò sul bordo del cortile. Qui lo avevano arrestato. La pompa aveva ancora un segno nero sulla base, lasciato dalla lanterna di una guardia. Penelo era corsa fuori senza finire di allacciare le scarpe; lui lo ricordava bene, e Kytes inginocchiato davanti a lei. Ora la corda dei bambini passava attraverso lo stesso spazio. Basch se ne accorse dal modo in cui il ragazzo guardava il terreno.
+Vaan si fermò sul bordo del cortile. Qui lo avevano arrestato. La pompa aveva ancora un segno nero sulla base, lasciato dalla lanterna di una guardia. Penelo era corsa fuori a piedi nudi; lui lo ricordava bene, e Kytes inginocchiato davanti a lei con le scarpe. Ora la corda dei bambini passava attraverso lo stesso spazio. Basch se ne accorse dal modo in cui il ragazzo guardava il terreno.
 
 «Qui?» domandò.
 
@@ -182,7 +182,7 @@ Il baule teneva indumenti ricevuti in cambio di crediti mai saldati. Migelo se n
 
 Vaan sospese la mano sopra una camicia. «Meglio se non glielo dici adesso.»
 
-Trovarono calzoni che al capitano arrivavano corti ma meno di quelli della ferrovia e una giacca larga sulle spalle. Gli stivali erano un problema che il baule non poteva risolvere. Vaan prese un pezzo di cuoio dal cassetto dei lacci, si inginocchiò prima che Basch potesse protestare e lo fece passare intorno al tacco rotto. Lo aveva visto fare da Doran ai sandali di Penelo. Non era un lavoro bello; avrebbe retto fino al Sandsea.
+Trovarono calzoni che al capitano arrivavano corti ma meno di quelli della ferrovia e una giacca larga sulle spalle. Gli stivali erano un problema che il baule non poteva risolvere. Vaan prese un pezzo di cuoio dal cassetto dei lacci, si inginocchiò prima che Basch potesse protestare e lo fece passare intorno al tacco rotto. Lo aveva visto fare da Doran ai sandali di Penelo. Non era un lavoro bello; avrebbe retto fino alla Sandsea.
 
 «Non ti ho chiesto le scarpe» disse Basch.
 
@@ -200,11 +200,11 @@ Vaan salì per fermarla. Il capitano rimase sotto. Il ragazzo aveva la mano già
 
 ---
 
-La stanza era stata spazzata. C'erano un letto e un pagliericcio, una cassapanca e il vaso verde sul davanzale, vuoto. La crepa correva lungo il fianco fino al fondo, trattenuta da un giro di filo. Penelo aveva disposto a un'estremità della cassapanca una camicia pulita; non l'aveva lasciata piegata, ma aperta, con le maniche in fuori, perché si vedesse che era quella buona e non finisse di nuovo sotto le altre. Il ragazzo la guardò e si sedette all'altra estremità.
+La stanza era stata spazzata. C'erano le due brande, una cassapanca e il vaso verde sul davanzale, vuoto. La crepa correva lungo il fianco fino al fondo, trattenuta da un giro di filo. Penelo aveva disposto a un'estremità della cassapanca una camicia pulita; non l'aveva lasciata piegata, ma aperta, con le maniche in fuori, perché si vedesse che era quella buona e non finisse di nuovo sotto le altre. Il ragazzo la guardò e si sedette all'altra estremità.
 
 Basch si fermò appena dentro. Aveva riconosciuto la stanza senza esserci mai stato: la finestra, lo spazio di pavimento accanto al letto, la brocca sul tavolino. Qui Vaan aveva dormito per terra. Qui gli avevano raccontato una morte che aveva dovuto immaginare dalla gabbia. Non fece un passo finché il ragazzo non gli indicò la sedia.
 
-«Lì c'era lui» disse Vaan, guardando il letto. «All'inizio, quando me l'hanno riportato, volevo spostarlo dalla finestra. La luce gli dava negli occhi. Il medico disse che andava bene così.»
+«Lì c'era lui» disse Vaan, guardando la branda accanto alla finestra. «All'inizio, quando me l'hanno riportato, volevo spostarlo dalla finestra. La luce gli dava negli occhi. Il medico disse che andava bene così.»
 
 Basch si sedette. La sedia scricchiolò e lui spostò il peso con attenzione.
 
@@ -242,7 +242,7 @@ Vaan posò il cucchiaio e incrociò le braccia. Il capitano avrebbe voluto torna
 
 Basch rimase vicino alla finestra. Non disse che era naturale; non sapeva come sarebbe suonata quella parola.
 
-«Penelo era qui. Doveva stare poco. Migelo mi aveva mandato a dormire e io invece ero salito.» Il ragazzo guardò il cuscino sul letto. «Poi sono tornato giù e lui era come sempre. Faceva lo stesso rumore quando respirava. Io ero stanco. Avevo guardato una nave.»
+«Penelo era qui. Doveva stare poco. Migelo mi aveva mandato a dormire e io invece ero salito.» Il ragazzo guardò il cuscino sulla branda. «Poi sono tornato giù e lui era come sempre. Faceva lo stesso rumore quando respirava. Io ero stanco. Avevo guardato una nave.»
 
 La frase non chiese una risposta. Vaan la lasciò cadere e rimase a fissare la stoffa. La nave che ricordava non aveva più un nome, neppure un colore sicuro. Un giorno aveva scoperto di non sapere se fosse una nave commerciale o militare, e da allora quell'incertezza lo aveva offeso: aveva tolto tempo a Reks per una cosa che non riusciva più a vedere bene.
 
@@ -330,4 +330,4 @@ Vaan annuì appena. Avrebbe voluto chiedergli per cosa, per il cuoio sullo stiva
 
 Scesero insieme. Kytes alzò il capo dal registro; Vaan gli chiese un'ultima volta se fossero arrivate notizie, pur sapendo che il ragazzo sarebbe corso su a chiamarlo. Kytes scosse la testa. Basch aspettò sulla soglia, poi si fece da parte quando Vaan uscì.
 
-Al cortile della pompa non c'era più nessuno. I bambini avevano lasciato la corda e portato via la tazza. Vaan si fermò a sciogliere il capo dal chiodo: qualcuno, passando al buio, ci avrebbe lasciato un piede. Basch tenne l'altra estremità finché il nodo venne via. Poi ripresero la strada del Sandsea, e il ragazzo gli camminò accanto.
+Al cortile della pompa non c'era più nessuno. I bambini avevano lasciato la corda e portato via la tazza. Vaan si fermò a sciogliere il capo dal chiodo: qualcuno, passando al buio, ci avrebbe lasciato un piede. Basch tenne l'altra estremità finché il nodo venne via. Poi ripresero la strada della Sandsea, e il ragazzo gli camminò accanto.

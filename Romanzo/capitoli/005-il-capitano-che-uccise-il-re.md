@@ -54,9 +54,9 @@ Il re non sembrava spaventato. Aveva una mano posata sul foglio, accanto alla pe
 
 Il cavaliere non rispose.
 
-«Mi hanno chiesto di venire con una scorta piccola, e sono venuto con una scorta piccola. Mi hanno chiesto di venire senza mia figlia, e mia figlia è a Rabanastre.» Il re fece una pausa. «Questo lo avevo deciso da solo, a dire il vero. Ma ho lasciato che credessero di averlo chiesto loro. Agli archadiani piace pensare di aver chiesto le cose.»
+«Mi hanno chiesto di venire con una scorta piccola, e sono venuto con una scorta piccola. Mi hanno chiesto di venire senza mia figlia, e mia figlia è a Rabanastre.» Il re fece una pausa. «Questo lo avevo deciso da solo, a dire il vero. Ma ho lasciato che credessero di averlo chiesto loro. Agli archadiani piace pensare di aver chiesto le cose. Ma non credo che ti preoccupi questo.»
 
-Il cavaliere tacque. «Ma non credo che ti preoccupi questo.» Il re lo guardò a lungo. Reks, dalla porta, vedeva la sua faccia illuminata dalle candele, e la faccia era stanca, stanchissima, ma non c'era paura dentro, e c'era invece qualcosa che somigliava alla pazienza. «Ho governato per trent'anni sapendo che un giorno qualcuno sarebbe entrato da quella porta con una spada. Non sapevo chi. Ho sempre sperato che avesse almeno la decenza di dirmi perché.»
+Il re lo guardò a lungo. Reks, dalla porta, vedeva la sua faccia illuminata dalle candele, e la faccia era stanca, stanchissima, ma non c'era paura dentro, e c'era invece qualcosa che somigliava alla pazienza. «Ho governato per trent'anni sapendo che un giorno qualcuno sarebbe entrato da quella porta con una spada. Non sapevo chi. Ho sempre sperato che avesse almeno la decenza di dirmi perché.»
 
 «Avete venduto Dalmasca» disse il cavaliere.
 

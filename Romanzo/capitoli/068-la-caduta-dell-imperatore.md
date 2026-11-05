@@ -58,7 +58,7 @@ Vayne la guardava, e non diceva niente.
 
 Portò la mano all'elsa. La spada uscì dal fodero con un suono lungo e pulito, che riempì la sala e la fece tacere tutta, soldati, senatori, Giudici, come si fa tacere una stanza battendo un cucchiaio su un bicchiere.
 
-«Vayne Carudas Solidor» disse Drace. «In nome della legge di Archadia, che servo da trent'anni, e dell'autorità che mi è stata conferita come Giudice Magister, ti dichiaro in arresto per l'omicidio dell'imperatore Gramis.»
+«Vayne Carudas Solidor» disse Drace. «In nome della legge di Archadia, che servo da vent'anni, e dell'autorità che mi è stata conferita come Giudice Magister, ti dichiaro in arresto per l'omicidio dell'imperatore Gramis.»
 
 ---
 
@@ -80,7 +80,7 @@ Uscì dalla fila dei Giudici con il suo passo largo, quello che faceva tremare i
 
 Drace attaccò.
 
-Fu un colpo da maestro, e chi lo vide lo ricordò. Trent'anni di scherma, di guerre di confine, di duelli nei cortili delle caserme, tutto dentro un solo movimento, dritto, pulito, che andava a cercare la fessura fra la gorgiera e lo spallaccio di Bergan, l'unico punto dove un'armatura di Giudice Magister si può passare. Avrebbe ucciso qualunque uomo nella sala.
+Fu un colpo da maestro, e chi lo vide lo ricordò. Vent'anni di scherma, di guerre di confine, di duelli nei cortili delle caserme, tutto dentro un solo movimento, dritto, pulito, che andava a cercare la fessura fra la gorgiera e lo spallaccio di Bergan, l'unico punto dove un'armatura di Giudice Magister si può passare. Avrebbe ucciso qualunque uomo nella sala.
 
 Bergan non si spostò. Alzò la mano sinistra, la mano aperta, senza spada, e prese la lama.
 
@@ -102,7 +102,7 @@ Vayne si chinò. Raccolse la spada piegata di Drace dal pavimento, la guardò pe
 
 «Zargabaath» disse.
 
-Il vecchio Giudice fece un passo avanti. Non guardava Vayne. Guardava Drace, a terra.
+Zargabaath fece un passo avanti. Non guardava Vayne. Guardava Drace, a terra.
 
 «Prenderai il comando dell'Alexander. Partirai stanotte. Con te verrà Bergan.» Vayne non alzò la voce. «Andrete al Bur-Omisace. Mio fratello è là, con persone che non sono adatte a un principe dell'Impero in un momento come questo. Lo riporterete a casa. Archades ha bisogno di lui.»
 
@@ -130,7 +130,7 @@ Indicò Drace. Lei si era mossa, sul pavimento. Si era girata su un fianco, e ce
 
 «Altezza» disse Zargabaath. «Vi prego.»
 
-Il vecchio Giudice aveva fatto un passo avanti, e la voce gli era uscita bassa e rotta, come non gli era mai uscita in pubblico. «Vi prego. Drace ha servito l'Impero per trent'anni. Ha combattuto a Nalbina. Ha cresciuto il principe Larsa come una madre, quando non c'era nessuno a farlo. Imprigionatela. Mandatela in esilio. Toglietele il grado, il nome, tutto. Ma non questo. Non qui. Non davanti a lui.» Guardò il seggio. «Non davanti a vostro padre.»
+Zargabaath aveva fatto un passo avanti, e la voce gli era uscita bassa e rotta, come non gli era mai uscita in pubblico. «Vi prego. Drace ha servito l'Impero per vent'anni. Ha combattuto a Nalbina. Ha cresciuto il principe Larsa come una madre, quando non c'era nessuno a farlo. Imprigionatela. Mandatela in esilio. Toglietele il grado, il nome, tutto. Ma non questo. Non qui. Non davanti a lui.» Guardò il seggio. «Non davanti a vostro padre.»
 
 Vayne non si voltò nemmeno.
 

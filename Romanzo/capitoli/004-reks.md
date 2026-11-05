@@ -62,7 +62,7 @@ Ci fu un silenzio. Vaan si portò una mano sotto il lenzuolo, fino alla tempia s
 
 Vaan si guardò nella padella di rame appesa al chiodo, che era l'unico specchio della stanza e deformava tutto, e la ciocca, nella padella, era ancora più lunga. Decise di essere offeso. Andò alla finestra e ci si appoggiò con le braccia incrociate, voltando la schiena al fratello. Era alto per i suoi quindici anni, magro, con le gambe troppo lunghe per il resto del corpo e le braccia piene di graffi di cui non ricordava l'origine. Dal vicolo sotto saliva il rumore della Città Bassa che andava a dormire: qualcuno che litigava, un bambino che piangeva, la musica di un liuto in una taverna e lo sciabordio di qualcuno che svuotava un secchio nella canaletta.
 
-Qualcuno salì le scale di legno con il passo pesante e cauto dei bangaa, che hanno le ginocchia piegate al contrario e diffidano dei gradini. Migelo bussò, cosa che faceva soltanto nelle occasioni importanti, ed entrò con un fagotto di tela cerata in una mano e una lampada nell'altra. Il fagotto conteneva datteri secchi, pane di semola, una fiaschetta di vino delle Pianure e un rotolo di bende pulite. Lo posò sulla branda di Reks senza dire niente. Poi alzò la lampada verso la testa di Vaan, la guardò da vicino per un bel pezzo, con le scaglie della fronte che gli si aggrottavano, e la riabbassò.
+Qualcuno salì le scale di legno con il passo pesante e cauto dei bangaa, che hanno le ginocchia piegate al contrario e diffidano dei gradini. Migelo bussò, cosa che faceva soltanto nelle occasioni importanti, ed entrò con un fagotto di tela cerata in una mano e una lampada nell'altra. Il fagotto conteneva datteri secchi, pane di semola, una fiaschetta di vino delle Pianure e un rotolo di bende pulite. Lo posò sulla branda di Reks senza dire niente. Poi alzò la lampada verso la testa di Vaan, la guardò da vicino per un bel pezzo, con le scaglie azzurre della fronte che gli si aggrottavano e i baffi bianchi che fremevano, e la riabbassò.
 
 «Coraggioso» disse a Reks, con la sua voce di ghiaia. Non era chiaro se parlasse della partenza o del taglio. Se ne andò com'era venuto, e lo sentirono scendere un gradino alla volta, borbottando.
 
@@ -148,7 +148,7 @@ Vaan si addormentò dopo poco, di colpo, come si addormentano i ragazzi di quind
 
 Nalbina, di notte, era un labirinto di pietra che puzzava di fumo freddo.
 
-Erano entrati dai camminamenti delle cisterne, a mezzanotte, in venti, e alla prima ora dopo mezzanotte erano ancora quindici. I corridoi della fortezza erano stretti, illuminati a tratti da torce archadiane fissate in supporti di ferro nuovo, che stonavano contro la pietra vecchia; e in quei corridoi i soldati imperiali erano ovunque, a gruppi di tre e di quattro, svegli e ben armati, in numero molto superiore a quello che serve per scortare un re a una firma. Si combatteva in fretta, al buio, a distanze in cui non c'è tempo di pensare.
+Erano entrati dai camminamenti delle cisterne, a mezzanotte, in venti, e alla prima ora dopo mezzanotte erano ancora quindici. I corridoi della fortezza erano stretti, illuminati a tratti da torce archadiane fissate in supporti di ferro nuovo, che stonavano contro la pietra vecchia; e in quei corridoi i soldati imperiali erano ovunque, a gruppi di tre e di quattro, svegli e ben armati, in numero che nessuna scorta d'onore poteva giustificare. Si combatteva in fretta, al buio, a distanze in cui non c'è tempo di pensare.
 
 Reks cadde al secondo scontro. Un archadiano gli arrivò di fianco da una porta che nessuno aveva visto, e lo colpì con l'elsa della spada alla tempia, e Reks si ritrovò a terra senza sapere come ci fosse arrivato, con la pietra fredda contro la guancia e un suono acuto nell'orecchio destro. Sentì intorno a sé il rumore del ferro e poi il silenzio. Poi una mano sulla spalla.
 
@@ -232,7 +232,7 @@ Orren uscì da dietro il torrione e non guardò nessuno.
 
 ---
 
-Alla fine del cammino di ronda c'era una scala, e in cima alla scala una porta, e dietro la porta un corridoio lungo che portava, Basch lo sapeva, agli appartamenti dove l'Impero aveva alloggiato il re. Lo sapeva perché li aveva abitati lui stesso, anni prima, quando era di guarnigione a Nalbina. Erano rimasti in nove.
+Alla fine del cammino di ronda c'era una scala, e in cima alla scala una porta, e dietro la porta un corridoio lungo che portava, Basch lo sapeva, agli appartamenti dove l'Impero aveva alloggiato il re. Lo sapeva perché li aveva sorvegliati lui stesso, anni prima, quando era di guarnigione a Nalbina. Erano rimasti in nove.
 
 Il corridoio era vuoto. Lo percorsero di corsa. In fondo c'era una seconda scala, più stretta, e quando arrivarono alla base della seconda scala sentirono i passi.
 

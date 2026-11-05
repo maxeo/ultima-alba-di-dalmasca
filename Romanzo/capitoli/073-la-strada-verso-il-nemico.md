@@ -1,197 +1,171 @@
 ## 73. La strada verso il nemico
 
-L'assistente di Al-Cid aveva strappato una manica al proprio abito per fasciargli il fianco. Il nodo era ben fatto, ma sotto la giacca continuava ad allargarsi una macchia scura. Il principe si reggeva a lei con una discrezione che non ingannava nessuno. Quando Penelo lo raggiunse, lui provò a raddrizzarsi e lei gli mise una mano sul braccio.
+Al-Cid Margrace entrò nella Sala della Luce appoggiato a una donna.
 
-«Non per salutarmi. Dov'è Larsa?»
+Era una donna alta, di Rozarria, con i capelli neri raccolti sotto un velo di seta verde e un mantello da viaggio macchiato di fango e di qualcos'altro, e lo reggeva sotto un braccio come si regge un ubriaco illustre all'uscita da un ricevimento, con fermezza e senza nessuna pietà. Al-Cid aveva la camicia a righe strappata su una spalla, e lì il blu era diventato scuro. Aveva perso gli occhiali, e senza gli occhiali la sua faccia sembrava più giovane e più stanca, la faccia di un uomo che ha dormito poco e combattuto molto, e che di solito non fa né l'una né l'altra cosa.
 
-Al-Cid la guardò. La galanteria gli tornò per un istante sul viso, cercando una strada attraverso la stanchezza. «Fra tutte le domande con cui speravo di essere accolto...»
+Vide Ashe e si fermò. Si raddrizzò. Si tolse il braccio dalla spalla della donna, che glielo lasciò togliere con un sopracciglio alzato, e fece un inchino. Fu un inchino perfetto, profondo, elegante, il genere di inchino che si fa nelle sale da ballo di Rozarria davanti alle principesse di sangue. A metà dell'inchino gli cedette un ginocchio, e la donna lo riprese al volo per il colletto.
 
-«Dov'è?»
+«Altezza» disse Al-Cid, da quella posizione. «Perdonate il disordine. Se avessi saputo che sareste tornata così presto, mi sarei cambiato.»
 
-Il principe smise di sorridere. «Con Gabranth. Lo hanno riportato ad Archades.»
+Vaan corse verso di lui. «Stai bene?»
 
-Basch alzò gli occhi. La propria spada era ancora sporca del sangue di Bergan e sembrò pesargli di più alla parola fratello. Al-Cid gli lesse la domanda prima che la facesse.
+«Splendidamente.» Al-Cid guardò il ragazzo, poi la propria spalla. «Questa è solo una piccola divergenza di opinioni con un soldato del Ministero, che sosteneva che i rozarriani non hanno diritto di asilo nei luoghi sacri. Lui ha espresso il suo punto di vista con una lama. Io ho espresso il mio con un'altra. Siamo rimasti in disaccordo, ma io sono ancora qui a parlarne, il che, in diplomazia, si chiama vincere.»
 
-«Sì, capitano. Era qui.»
+La donna dal velo verde disse una parola in rozarriano, breve, che fece ridere Balthier e arrossire Al-Cid.
 
-«Il principe ha opposto resistenza?»
+«Lei è Tavina» disse Al-Cid. «Mi accompagna. Mi accompagnano in quattro, di solito, ma le altre tre le ho mandate giù dalla montagna stamattina, con i feriti. Tavina si è rifiutata. Tavina si rifiuta spesso.» La guardò, e c'era nello sguardo qualcosa che non era galanteria. «Mi ha salvato la vita due volte, stanotte. La terza volta, dice, mi lascerà morire per principio.»
 
-«Ha chiesto che il monte fosse lasciato in pace. Poi ha accettato di partire.»
+Tavina non commentò.
 
-Penelo guardò il corpo di Anastasis dietro le colonne. «Aveva detto che sarebbe tornato.»
+Poi Al-Cid vide il corpo di Bergan. Lo guardò per un lungo momento, il gigante in armatura nera disteso a faccia in su sul pavimento, con il guanto sinistro tolto e le righe violacee lungo le ossa della mano. E vide Anastasis, piccolo, sul fianco, accanto alla ciotola con il pane dentro. E la sua faccia cambiò di nuovo, come era cambiata nella stessa sala quando aveva detto a Larsa che suo padre era morto.
 
-«Larsa non è venuto a cercare questa rovina.»
-
-«Lo so.» La ragazza prese la borsa e fece sedere Al-Cid sul gradino più vicino. La sua accompagnatrice lasciò il sostegno soltanto quando fu sicura che il peso tenesse. «La fascia va rifatta» disse Penelo. «Parlate mentre la cambio.»
-
-Il principe obbedì. Gabranth era arrivato con l'ordine del nuovo imperatore, e Larsa lo aveva seguito senza costringerlo a usare le armi. Le navi avevano ripreso il ragazzo. Bergan era rimasto, e ogni cosa che poteva ancora essere fermata era passata fuori dalla portata di chi aveva provato a fermarla. Al-Cid aveva cercato di trattenere gli uomini all'ingresso delle terrazze; la ferita spiegava quanto fosse durata quella difesa.
-
-Ashe si avvicinò con la Spada dei Re bassa. «Anastasis?»
-
-Al-Cid guardò la sedia rovesciata. «Non ha lasciato la sala.»
-
-La principessa annuì, una volta sola. Nessuno aveva bisogno di raccontarle di nuovo come finiva una storia quando i soldati trovavano un vecchio rimasto al proprio posto. Basch si voltò verso il Giudice minore che si era arreso. L'uomo sedeva ancora vicino alla colonna, con le mani sopra le ginocchia; quando vide il capitano chinò il capo.
-
-«Resti qui» disse Basch. «Finché i Kiltias non avranno deciso dove portarti.»
-
-L'uomo annuì. Non chiese se sarebbe tornato dalla figlia. La domanda gli passò negli occhi, e il capitano non gli offrì una certezza che non poteva mantenere.
+«Ah» disse piano. «Allora lo avete fermato.»
 
 ---
 
-Al-Cid aspettò che Penelo finisse il nodo. Si rimise in piedi aiutandosi con il bordo della colonna e si voltò verso Ashe. Aveva perso gli occhiali da sole; l'assistente li tirò fuori da una custodia ammaccata, ma lui le fece cenno di aspettare.
+Gli dissero di sedersi. Lui si sedette su un gradino, lo stesso dove si era seduto la prima volta con le gambe accavallate, e questa volta non le accavallò. Tavina gli aprì la camicia sulla spalla senza chiedere il permesso e cominciò a fasciarlo con strisce di seta verde che strappava dal proprio velo, e lui la lasciò fare, e parlò.
 
-«Venite con me» disse alla principessa.
+«Sono arrivati due giorni fa» disse. «Tre navi. Hanno atterrato sulla spianata nord, ordinate come una parata. Il capitano della prima, quello con i capelli grigi, Zargabaath, è sceso da solo, senza scorta, ed è venuto fino alle porte del santuario a piedi, e ha chiesto del principe. Con molta cortesia. Si è anche tolto il guanto per salutare un accolito.» Fece una pausa. «Ho pensato che forse sarebbe andata bene.»
 
-Lei lo guardò. «A Rozarria.»
+«E poi?» chiese Ashe.
 
-«Posso offrirvi un viaggio meno sgradevole di questo. E molte persone che farebbero del loro meglio per meritare un vostro sguardo.»
+«Poi è sceso Gabranth.»
 
-«Non è il momento.»
+Basch, che era rimasto in piedi contro una colonna, si irrigidì.
 
-«Lo è purtroppo per le altre persone, quelle che non meritano nulla e hanno già schierato le navi.» Al-Cid guardò la pioggia oltre le porte. «I nostri comandanti chiamano prudenza arrivare prima di Vayne. Ho cercato di spiegare che una guerra preventiva rimane molto simile a una guerra, specialmente per chi la trova davanti a casa. Mi ascoltano con grande rispetto. Poi chiedono quanti giorni servano alla flotta.»
+«Era venuto per Larsa» disse Al-Cid. «Aveva un ordine dell'imperatore, quello nuovo, che lo incaricava di riportarlo ad Archades. Aveva anche un ordine del vecchio imperatore, scritto tre mesi fa, che lo incaricava di proteggerlo. Me li ha mostrati tutti e due. Non so perché. Credo che volesse che qualcuno sapesse che li aveva tutti e due.» Al-Cid strinse i denti mentre Tavina tirava la fasciatura. «Il principe Larsa è uscito dalla sala. Lo ha guardato. E ha detto che sarebbe venuto.»
 
-Balthier si era fermato accanto a Fran. «Il rispetto dei generali è sempre molto ben organizzato.»
+«Così?» chiese Penelo.
 
-«E puntuale. Non posso perderne ancora.» Al-Cid tornò ad Ashe. «Se venite, dovranno ascoltarvi. Una principessa dalmasca che chiede di lasciare Dalmasca in pace toglie loro un pretesto importante.»
+«Così. Ha detto che non voleva che nessuno combattesse per lui in un luogo sacro. Ha detto che se fosse rimasto, quelli là sotto avrebbero preso il santuario pietra per pietra per trovarlo, e che c'erano tremila persone sulla montagna che non avevano nessuna colpa di essere nate nello stesso secolo di suo fratello.» Al-Cid guardò il pavimento. «Aveva ragione. Lo sapeva lui, lo sapevo io, lo sapeva il Giudice. È salito sulla nave con Gabranth, a testa alta, con il suo colletto bianco. Era quasi fatta.»
 
-Ashe guardò il filo della Spada dei Re. Era sporco dove aveva spento il bagliore nelle ossa di Bergan. L'arma che avrebbe dovuto spezzare la Negalite aveva ucciso un uomo, e la pietra alla sua cintura era ancora intera.
+«Quasi» disse Balthier.
 
-«Non ho finito» disse.
+«Bergan.» Al-Cid non guardò il corpo. «Bergan non era venuto per il principe. Bergan era venuto perché glielo avevano chiesto, ed era venuto per altro. Appena la nave del principe ha staccato i piedi da terra, lui è sceso dalla sua con i suoi uomini e ha cominciato. Il vecchio, Zargabaath, gli gridava dalla spianata di fermarsi. Gli ha gridato dietro fino a perdere la voce. Bergan non si è nemmeno voltato.» Fece una pausa. «Il resto lo avete visto, salendo.»
 
-«Nessuno di noi.»
+Ashe guardò Anastasis.
 
-«Vayne ha il Crepuscolo. Ha le pietre che fabbricano nei suoi laboratori. Quelle navi sono arrivate fin qui.»
+«E lui?»
 
-Al-Cid fece un piccolo cenno verso la spada. «Avete trovato quello che cercavate.»
+«Lui è rimasto sulla sua sedia» disse Al-Cid. «Gli ho chiesto di venire via. Due volte. Gli ho detto che Tavina e io lo avremmo portato giù dalla montagna su una barella, che c'era una strada sul versante est che i soldati non conoscevano. Lui ha detto che era vecchio, che non aveva altro da fare, e che se qualcuno veniva a cercarlo era giusto che lo trovasse dove lo aveva lasciato.» Al-Cid sorrise, ma non c'era niente nel sorriso. «Poi mi ha detto di andare a difendere le donne. Gli ho obbedito. È stata l'unica volta in vita mia che ho obbedito a un sacerdote.»
 
-«Non l'ho ancora usato per quello che deve fare.»
+---
 
-Vaan abbassò gli occhi. A Miriam aveva visto la lama colpire il pavimento, il frammento risparmiato. Non disse nulla. Penelo gli toccò il gomito, pensando forse al sangue sulla spada e forse al modo in cui la principessa evitava di guardare la pietra.
+Nessuno parlò per un poco. Fuori, oltre le porte storte del tempio, la pioggia continuava a cadere.
 
-«Se vengo con voi» continuò Ashe «Vayne conserva le sue armi. Se convince i vostri generali a stare fermi per un mese, poi cosa faccio? Vi chiedo un altro mese? Un anno?»
+Fu Al-Cid a riprendere. Si alzò dal gradino, con l'aiuto di Tavina, e si mise in piedi davanti ad Ashe, e la guardò.
 
-«Se rimanete viva, potrete chiederlo.»
+«Venite con me a Rozarria» disse.
 
-«Anastasis era vivo tre giorni fa.»
+Ashe sollevò la testa.
 
-La frase fece arretrare Al-Cid più della ferita. Ashe se ne accorse e strinse l'elsa, vergognandosi senza essere pronta a ritirarla. Il principe guardò il corpo del vecchio, poi lei. Non si difese.
+«Non come ospite» disse Al-Cid. «E non come prigioniera, e non come pretesto. Ascoltatemi, altezza, perché adesso non sto facendo il galante. Alla corte di mio padre ci sono uomini con le barbe bianche e le carte sul tavolo. Hanno saputo della morte di Gramis il giorno stesso in cui l'ho saputa io. Hanno saputo del Senato sciolto, dell'Odin in cantiere, della Dodicesima Flotta. E ne hanno tratto la conclusione più semplice: che Vayne sta per attaccare, e che chi attacca per primo vince.» Fece una pausa. «Vogliono colpire per primi. Una guerra preventiva. È la cosa più stupida che si possa fare, e la più facile da far approvare.»
 
-«Allora ditemi dove volete andare» disse.
+«E io cosa c'entro?»
 
-La principessa aprì la bocca e si fermò. Il suo scopo era chiaro, il luogo no. Avrebbe voluto che la spada portasse con sé la strada per arrivare alla pietra; aveva soltanto una lama pesante e l'impero davanti. Balthier si staccò dalla colonna.
+«Voi siete la principessa di Dalmasca. La terra su cui quella guerra si combatterà. Se voi venite a Rozarria, e vi presentate davanti ai generali di mio padre, e dite loro che Dalmasca non vuole essere il pretesto di nessuno, che Dalmasca non chiede di essere liberata a colpi di cannone, che il vostro popolo ha già pagato abbastanza…» Al-Cid allargò le mani, e la spalla fasciata gli strappò una smorfia. «Non posso promettervi che ascolteranno. Posso promettervi che sarà più difficile non ascoltarvi.»
+
+Ashe lo guardò a lungo.
+
+«Non vi chiedo di combattere per Rozarria» disse Al-Cid, più piano. «Vi chiedo di impedirle di combattere.»
+
+Fu l'unica volta, in tutta la loro conoscenza, che il principe galante chiese qualcosa ad Ashe senza aggiungerci un complimento. Lei se ne accorse. Lo si vide nella sua faccia.
+
+«No» disse.
+
+Al-Cid non si mosse.
+
+«Mi dispiace» disse Ashe, e sembrava che le dispiacesse. «Avete ragione su tutto. Su vostro padre, sui generali, sulla guerra. Ma se vengo a Rozarria e chiedo ai vostri generali di deporre le armi, Vayne tiene le sue. Tiene le sue navi e tiene il Crepuscolo e tiene le pietre che fanno nei suoi laboratori e che mettono nelle ossa dei suoi uomini.» Indicò il corpo di Bergan con un piccolo gesto della testa, senza guardarlo. «E la prossima volta che vorrà prendere qualcosa, lo prenderà. Una montagna. Una città. Rabanastre.» Strinse la mano sull'elsa della Spada dei Re, che teneva appoggiata al fianco. «Ho in mano l'unica cosa al mondo che possa togliergli quelle pietre. Non me la porterò a una corte straniera per fare discorsi.»
+
+«Allora dove ve la porterete?»
+
+Ashe non rispose subito.
+
+«Dove sta il Frammento del Crepuscolo» disse. «Se lo trovo.»
+
+«E sapete dove sta?»
+
+Ashe aprì la bocca, e non trovò niente da metterci.
 
 «Draklor.»
 
-Fran non mosse un orecchio. Lo guardava già da prima che pronunciasse il nome.
+La voce veniva da dietro di lei. Si voltarono tutti.
 
 ---
 
-Il pirata raggiunse Ashe e si fermò abbastanza vicino da non dover parlare a tutta la sala. «Se il Crepuscolo è ancora dell'Impero, è il posto dove cercarlo. Non lo tengono fra gli oggetti di famiglia.»
+Balthier si era staccato dalla colonna. Stava in piedi in mezzo alla navata grigia, con la pelliccia di montone aperta sulla giacca e le mani lungo i fianchi, e non aveva l'aria di chi fa una battuta. Non aveva l'aria di niente di familiare. Penelo, che lo guardava, pensò che sembrava un uomo che ha appena deciso di tornare in una casa dove ha giurato di non rimettere piede.
 
-«Il laboratorio di Cid.»
+«Il Laboratorio Draklor» disse. «Ad Archades. È lì che l'avranno portato. Ghis lo ha preso a Vaan, e Ghis rispondeva a Vayne, e Vayne, quando ha in mano una cosa che non capisce, la dà a chi la può smontare.» Fece una pausa. «A Draklor smontano tutto. Pietre. Navi. Viere.» Non guardò il corpo di Bergan. «Uomini.»
 
-«Ad Archades.»
+«Il dottor Cid» disse Basch.
 
-Al-Cid osservò il pirata. «Conoscete bene la città?»
+«Il dottor Cid.» Balthier ripeté il nome come si ripete l'indirizzo di un posto dove si deve andare per forza. «Ghis lo ha nominato sul Leviatano, ricordi? Quando si è preso la vostra pietra. Ha detto che il dottor Cid avrebbe avuto di che rallegrarsi. È lui che fa le pietre. È lui che le ha messe nelle ossa di quel povero imbecille. Se il Crepuscolo è ancora intero da qualche parte, è sul suo tavolo.» Guardò Ashe. «Vuoi spezzarlo? Allora devi andare ad Archades. Nel cuore. Non c'è un'altra strada.»
 
-Balthier abbassò gli occhi sulla manica macchiata. «Abbastanza per sapere che non mi piace tornarci.»
+Ashe lo fissò a lungo. Poi si voltò verso Al-Cid.
 
-La risposta non era quella che Al-Cid aveva chiesto, ma il principe la lasciò stare. Ashe guardò Fran, poi di nuovo Balthier. C'era una durezza nuova nella sua bocca, qualcosa che non aveva avuto neppure davanti alla lama di Ghis. La riconobbe senza sapere a quale ferita appartenesse.
+«Avete sentito» disse.
 
-«Puoi portarci?» domandò.
+Al-Cid annuì, adagio.
 
-«Posso cercare una strada. È quello che faccio quando il compenso continua a scappare da un posto all'altro.»
+«Non vi accompagnerò a Rozarria» disse Ashe. «Ma vi auguro di riuscire. Davvero. Andate dai vostri generali e fermateli, se potete. Io andrò ad Archades e fermerò quello che posso. Forse, se tutti e due facciamo la nostra parte, a Rabanastre non si accorgeranno di niente.»
 
-Vaan avrebbe voluto chiedere se fosse davvero il momento di parlare di compensi; guardò la faccia del pirata e capì che non era l'argomento. Balthier cercava una frase dietro cui tenere ferme le mani. Aveva appena indicato la capitale del nemico come avrebbe indicato una stanza chiusa della propria casa.
+«È la cosa più gentile che mi abbiano mai detto rifiutandomi» disse Al-Cid. «E me ne hanno dette molte.» Si rimise in piedi più dritto, staccandosi da Tavina. «Spero che non dobbiate pentirvene, altezza. Lo spero per voi, e un poco anche per me.»
 
-«Allora andremo lì» disse Ashe.
+Fece per voltarsi. Poi si fermò, come chi si ricorda all'ultimo di una cosa lasciata sul tavolo.
 
-Al-Cid prese gli occhiali dall'assistente, ma non li indossò. «Vi chiedo di pensarci ancora.»
+«Il principe Larsa» disse. «Prima di salire sulla nave, mi ha preso da parte. Mi ha chiesto di darvi un messaggio, se foste tornata.» Fece una pausa. «Mi ha detto: dite alla principessa che le differenze fra i nostri regni sono una cosa che hanno deciso i nostri padri. La pace, invece, possiamo volerla tutti. Non importa di chi siamo figli.»
 
-«L'ho fatto.»
+Ashe non rispose. Penelo si voltò verso le porte, dove la pioggia cadeva, e restò a guardare fuori con una faccia che non voleva far vedere a nessuno.
 
-«Molto in fretta.»
+Tavina tirò fuori dal mantello un paio di occhiali scuri, perché era lei a portarglieli quando lui li perdeva, e glieli porse senza guardarlo. Al-Cid se li mise. Poi si chinò, prese la mano di Ashe, e ci posò sopra un bacio leggero, come la prima volta.
 
-«Sarebbe diverso se vi avessi detto sì?»
+«E comunque» disse, rialzandosi «se cambiaste idea, Rozarria ha un clima molto migliore.»
 
-Il principe ebbe un sorriso breve, stanco. «Sarei un uomo migliore se potessi rispondervi di sì.»
-
-Ashe abbassò la spada e gliela lasciò vedere per intero. «Voi fermate i vostri generali. Io proverò a togliere a Vayne il motivo per cui dovrebbero averne paura.»
-
-«Avrò bisogno anche della vostra fortuna.»
-
-«Prendetene quanta volete. Finora non mi ha resa prudente.»
-
-Al-Cid chinò il capo. Non era un accordo che lo rassicurasse, ma era la forma di accordo che gli restava. Prima di salutare, guardò Penelo e si ricordò del messaggio.
-
-«Larsa mi ha chiesto di dirvi una cosa.»
-
-La ragazza si raddrizzò. Ashe aspettò, con entrambe le mani sull'elsa.
-
-«Che non dovete farvi separare dal nome dei vostri paesi. Quando vi scriverà, vuole potervi chiedere come stanno le persone, senza dover prima domandare da che parte del confine sono.»
-
-Penelo abbassò gli occhi sulla propria borsa. Il nodo della fascia del principe le aveva lasciato sangue secco fra due dita. «Lo farà» disse.
-
-Al-Cid la guardò. «Credete che scriverà?»
-
-«Sì.»
-
-La sicurezza della ragazza gli fece bene. Si mise gli occhiali, offrì ad Ashe l'inchino che il fianco gli permise e lasciò che l'assistente gli riprendesse il braccio. Sulla soglia si voltò ancora.
-
-«Se vi pentite, altezza, Rozarria resta abbastanza grande da farvi spazio.»
-
-«Fate che non debba allargarlo dentro Dalmasca.»
-
-Il principe annuì e uscì nella pioggia.
+Tavina gli disse un'altra parola in rozarriano. Lui le rispose che lo sapeva. E se ne andarono così, lui appoggiato a lei, giù per la navata grigia, oltre le porte storte, nella pioggia.
 
 ---
 
-Sui gradini della Sala della Luce gli accoliti si erano seduti in due file. Tenevano fra le mani lampade spente e ciotole. Alcuni avevano le tuniche strappate, uno un braccio al collo. Non chiedevano nulla a chi passava. I Kiltias più anziani li attraversavano piano, portando acqua per lavare i morti e coperte per chi non era riuscito a trovare la propria famiglia.
+Restarono soli nella Sala della Luce, in sei, con due morti.
 
-Ashe fermò il piede sul primo gradino. Aveva ucciso Bergan, e fuori c'era lo stesso numero di persone senza casa. Un accolito la riconobbe e si alzò, ma lei gli fece cenno di restare seduto. Non sapeva cosa avrebbe dovuto dirgli se fosse venuto a ringraziarla.
+«Come ci arriviamo?» chiese Vaan. «Ad Archades. Andiamo a prendere la Strahl?»
 
-Basch portò la notizia di Anastasis al più anziano. L'uomo chiuse gli occhi, poi chiamò altri tre con un gesto. Entrarono nella sala senza suonare campane. Il corpo di Bergan venne coperto per primo, per lasciare libero il passaggio. La barella per il Gran Kiltias era di legno comune, la stessa su cui avevano trasportato gli altri.
+«La Strahl è a Rabanastre, nel suo hangar, e lì resta.» Balthier si chiuse la pelliccia. «Le frontiere di Archadia, adesso, sono sorvegliate come la camera da letto di un imperatore. Hanno paura che arrivi Rozarria da un momento all'altro, e con ragione. Qualunque nave che si avvicini da sud, senza i codici giusti, la abbattono prima di chiederle il nome. E dal mare è peggio, perché il mare è loro.» Fece una pausa. «Andremo a piedi.»
 
-Vaan guardò verso il punto in cui avevano trovato la tenda. La tela dei Fratelli Haddur era ancora nel fango, ma vicino al muro c'era una donna seduta sotto un mantello troppo grande. Stringeva un bambino con un piede nudo. Il ragazzo le si avvicinò tanto in fretta da farle sollevare il capo per paura.
+Vaan lo guardò come si guarda un pazzo.
 
-«La scarpa» disse. «Ne abbiamo vista una. Là.»
+«A piedi. Fino ad Archades.»
 
-La donna lo guardò senza riconoscerlo. Vaan indicò il punto, poi tornò a prenderla. Era più bagnata di quando l'aveva trovata, piena di fango dentro. La donna la ricevette con entrambe le mani e scoprì un piede del bambino. Lo pulì sul bordo del mantello prima di rivestirlo.
+«Fino a dove serve.» Balthier si voltò verso Fran, e lei gli restituì uno sguardo che diceva che aveva già capito quale strada avesse in mente e che non le piaceva. «Si comincia da Nalbina. Il resto ve lo spiego là, davanti a un bicchiere. Certe strade si raccontano meglio quando si ha qualcosa da bere, perché chi le sente ha bisogno di coraggio.»
 
-«Pensavo...» cominciò Vaan.
+Ashe annuì.
 
-Non finì. La donna annuì. Aveva capito. Penelo le mise accanto un pane tolto dalla sacca e non chiese che cosa fosse successo alla tenda. La donna aveva ancora la tela cerata sotto i piedi. Il nome dei trasportatori si leggeva in due pezzi separati da uno strappo.
+«Nalbina, allora» disse.
 
-Vaan tornò dagli altri. Balthier era sotto il portico, accanto a Fran, e guardava le navi ormai assenti con la bocca stretta. Il ragazzo gli indicò il cielo.
+---
 
-«Con la Strahl non ci arriviamo?»
+Uscirono dalla Sala della Luce che la pioggia aveva cambiato passo. Cadeva più fitta, più dritta, senza vento, e lavava i gradini del tempio, e il fango e il resto colavano giù dalla scalinata in rivoli scuri.
 
-«Ad Archades? Ci arriviamo fino alla prima pattuglia.»
+Sui gradini c'era gente.
 
-«E poi?»
+Non se n'erano accorti entrando. Forse prima non c'erano. Erano accoliti dei Kiltias, nelle tuniche bianche, inzuppate fino alla pelle, e sacerdoti più vecchi, e qualche pellegrino. Erano decine. Stavano in piedi sui gradini, a capo chino, sotto la pioggia, uno accanto all'altro, in silenzio, e non si riparavano. Guardavano le porte della sala. Aspettavano. Alcuni avevano in mano delle candele spente. Una vecchia con il velo bianco teneva fra le mani una ciotola vuota, e la teneva in avanti, come per offrirla a qualcuno.
 
-«Poi ci offrono una scorta molto numerosa e ci portano dove vogliono loro.»
+Quando la compagnia uscì, nessuno di loro si mosse. Si scostarono soltanto, quanto bastava per lasciarli passare.
 
-Ashe li raggiunse. Aveva rimesso la spada nella coperta e aspettava che Basch le fermasse una cinghia troppo corta sulla schiena. «Via mare?»
+Ashe si fermò in cima alla scalinata. Guardò quella gente. Poi si voltò verso un accolito giovane, il più vicino, e gli disse una cosa a bassa voce, e il ragazzo annuì e corse dentro la sala. Gli altri non chiesero cosa gli avesse detto. Lo capirono dopo, scendendo, quando videro due sacerdoti anziani entrare nella Sala della Luce con un lenzuolo bianco piegato sulle braccia.
 
-«Sorvegliano le coste. Prima scendiamo a Nalbina. Da lì possiamo guardare le strade verso nord.»
+Scesero i gradini uno alla volta, fra le tuniche bianche e le candele spente, sotto la pioggia. Nessuno li fermò. Nessuno chiese chi fossero. Basch, a metà della scalinata, si chinò a raccogliere la candela che un vecchio sacerdote si era lasciato cadere, e gliela rimise in mano, e il vecchio non alzò nemmeno gli occhi.
 
-«Le strade?» chiese Vaan.
+In fondo alla scalinata, contro il muro, sotto un'arcata, c'era una donna seduta con un bambino in braccio.
 
-Balthier si batté una mano sul ginocchio. «Quelle che richiedono questo genere di motore.»
+Penelo la vide e si fermò di colpo.
 
-Fran sollevò lo sguardo verso il margine dei monti. «Oltre Salika ci sono cacciatori. Sapranno i passaggi.»
+Aveva la faccia scura e screpolata dal freddo, e un mantello che non era suo, troppo grande, da soldato, e il bambino dentro il mantello, contro il petto. Il bambino aveva un piede scalzo.
 
-Il pirata annuì. «A Nalbina compriamo quello che manca. Poi vi mostro la carta, se troviamo un tavolo che non sia già occupato da un esercito.»
+Vaan la vide un istante dopo. Si fermò anche lui. La donna alzò la testa, e li riconobbe, o riconobbe soltanto due facce già viste sulla pista, e alzò la mano come aveva fatto la prima volta, davanti alla sua tenda.
 
-Ashe lasciò che il capitano finisse il nodo. «Andiamo.»
+Vaan alzò la sua. Poi, senza dire niente a nessuno, tornò indietro di corsa, su per la salita, fino all'ingresso del santuario, fino al muro dove c'era la tenda dei Fratelli Haddur calpestata nel fango. Gli altri lo aspettarono sotto la pioggia. Quando tornò, aveva in mano una scarpa da bambino, piccola, bagnata, sporca di fango. La diede alla donna.
 
-Non si mossero subito. Dalla sala stavano portando fuori Anastasis. Gli accoliti si alzarono uno dopo l'altro, tenendo strette le lampade spente, e gli lasciarono lo spazio al centro dei gradini. Penelo abbassò il capo. Balthier si tolse dalla soglia e Fran gli rimase accanto senza toccarlo.
+La donna la guardò. La prese. La infilò al piede del bambino, adagio, come si fa una cosa importante.
 
-Ashe guardò le mani del vecchio, finalmente sciolte da chi lo aveva preparato. Sulla barella sembravano ancora più piccole. La ciotola con il pane era stata lasciata nella sala; qualcuno l'avrebbe portata via, qualcun altro avrebbe lavato la pietra. Per un istante la principessa sentì il bisogno di tornare dentro a controllare, poi lasciò che fossero i Kiltias a occuparsene.
-
-Discesero quando il corteo ebbe passato la prima terrazza. La donna dei Fratelli Haddur aveva infilato la scarpa al bambino e gli teneva il piede fra le mani per scaldarlo. Vaan le fece un cenno. Lei ricambiò senza sorridere.
-
-Alla curva sotto il santuario Basch si fermò per sistemare il carico sulla schiena di Ashe. Il nodo teneva; era la coperta a scivolare. Il capitano ne ripiegò il bordo e lo fermò sotto la cinghia. Lei aspettò con il capo basso, finché il peso smise di tirare da un lato.
-
-Poi riprese a camminare. Il primo gradino della discesa era pieno d'acqua, e lo attraversò senza cercare un punto asciutto.
+Poi Vaan raggiunse gli altri, e la compagnia, in sei, scese dal monte sacro verso sud, verso Paramina e Nalbina, e oltre Nalbina verso l'Impero. Nessuno parlò per un lungo tratto. Ma Penelo, che camminava accanto a lui, gli prese la mano dentro il guanto di lana, e questa volta Vaan la strinse per primo.

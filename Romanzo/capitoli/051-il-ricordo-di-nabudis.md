@@ -8,7 +8,7 @@ Rasler stava sull'acqua a una decina di passi da lei. Non ci camminava sopra: ci
 
 Teneva qualcosa in mano. Glielo porse sul palmo aperto, con un piccolo inchino, e lei riconobbe la pietra prima ancora di vederla: il Frammento d'Aurora, scuro, opaco, con quella sfumatura di viola nel profondo che si vedeva solo inclinandolo. Ashe lo prese. Era freddo come l'acqua. Allungò l'altra mano verso il polso di Rasler, per tenerlo, solo per tenerlo, e le dita si chiusero su niente.
 
-Al suo posto c'era Vaan. Stava nello stesso punto, nella stessa luce, con la camicia sporca di sabbia e i capelli in disordine, e la guardava con l'espressione di chi è entrato in una stanza sbagliata e non sa se scusarsi. Non disse niente. Lei nemmeno.
+Al suo posto c'era Vaan. Stava nello stesso punto, nella stessa luce, con la giubba aperta sporca di sabbia e i capelli in disordine, e la guardava con l'espressione di chi è entrato in una stanza sbagliata e non sa se scusarsi. Non disse niente. Lei nemmeno.
 
 Si svegliò con la mano chiusa a pugno sul petto. Dentro il pugno c'era l'anello, largo come sempre, che di notte le scivolava fino alla nocca, e che lei la sera si legava al dito con un filo di cotone e la mattina slegava prima che qualcuno la vedesse.
 
@@ -34,7 +34,7 @@ Ashe non si era ancora seduta. Stava in piedi contro il muro, con le braccia inc
 
 «Basch» disse.
 
-Il cavaliere aveva capito prima che lei aprisse bocca. Lo si vedeva da come teneva le mani sul tavolo, aperte, ferme, con le dita leggermente separate, il gesto di chi tiene giù una carta che il vento vorrebbe portare via. Aveva la barba tagliata da poco, male, con un coltello, e la cicatrice sul sopracciglio gli tirava la pelle quando corrugava la fronte.
+Il cavaliere aveva capito prima che lei aprisse bocca. Lo si vedeva da come teneva le mani sul tavolo, aperte, ferme, con le dita leggermente separate, il gesto di chi tiene giù una carta che il vento vorrebbe portare via. Aveva la barba corta e curata, la prima cosa che si era concesso dopo la fuga, e i capelli biondi tirati indietro e legati sulla nuca; la cicatrice sul sopracciglio gli tirava la pelle quando corrugava la fronte.
 
 «L'ho già visto» disse. «Una volta.»
 
@@ -54,7 +54,7 @@ Penelo si strinse le braccia attorno al corpo.
 
 Ashe chiuse gli occhi per un istante.
 
-«Quattro giorni fa» disse Basch, più piano «la notte in cui la Shiva bruciò e il Leviatano si spezzò, ho rivisto la stessa alba dalla parte sbagliata.»
+«Quattro giorni fa» disse Basch, più piano «la notte in cui lo Shiva bruciò e il Leviatano si spezzò, ho rivisto la stessa alba dalla parte sbagliata.»
 
 Il silenzio che seguì fu lungo. Di là dal muro si sentiva Dalan tossire, e poi spostare qualcosa di pesante, con la discrezione di un sordo che vuole far sapere di esserci.
 
@@ -104,7 +104,7 @@ Basch ci pensò. Era un uomo che ci pensava sempre, prima di rispondere a una do
 
 «E tu lo difendi.»
 
-«No.» Basch alzò gli occhi. «Gliel'ho detto in faccia, sulla Shiva, che era un traditore. Poi abbiamo combattuto. Non lo difendo, altezza. Vi dico chi era, perché nessun altro lo farà. Ad Archades sarà un nome in una lista. A Rabanastre, se si saprà, sarà peggio.»
+«No.» Basch alzò gli occhi. «Gliel'ho detto in faccia, sullo Shiva, che era un traditore. Poi l'ho ucciso. Voi c'eravate. Non lo difendo, altezza. Vi dico chi era, perché nessun altro lo farà. Ad Archades sarà un nome in una lista. A Rabanastre, se si saprà, sarà peggio.»
 
 Ashe tacque a lungo. Penelo aveva smesso di respirare forte. Vaan guardava la sedia vuota con un'espressione strana, e forse pensava a un altro nome, scritto per due anni sui muri della Città Bassa con il carbone.
 

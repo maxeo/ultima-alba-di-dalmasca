@@ -4,7 +4,7 @@ Nella Sala della Luce non c'era più luce. I fasci obliqui che scendevano dal so
 
 In fondo alla sala, dove una volta c'era la sedia di legno scuro, c'era un uomo in piedi.
 
-Era enorme. Nel grigio sembrava ancora più grande di quanto fosse, e chi lo aveva visto ad Archades, nei corridoi del palazzo, sapeva che era già grande abbastanza. L'armatura nera con le lamine d'oro gli copriva il corpo dalla gola ai piedi, e l'elmo aveva due corna ricurve che salivano verso l'alto come quelle di un toro. Teneva una spada nella destra, lunga, larga, con la punta appoggiata al pavimento. Stava fermo. Aspettava. Si capiva che aspettava da un pezzo, e che l'attesa gli era piaciuta.
+Era enorme. Nel grigio sembrava ancora più grande di quanto fosse, e chi lo aveva visto ad Archades, nei corridoi del palazzo, sapeva che era già grande abbastanza. L'armatura nera con le lamine d'oro gli copriva il corpo dalla gola ai piedi, e l'elmo, largo e basso, si apriva sul davanti in una fessura orizzontale che gli dava la faccia di una rana enorme. Teneva una spada nella destra, lunga, larga, con la punta appoggiata al pavimento. Stava fermo. Aspettava. Si capiva che aspettava da un pezzo, e che l'attesa gli era piaciuta.
 
 «Eccola» disse Bergan.
 
@@ -26,7 +26,7 @@ Dietro di lui, sul pavimento, c'era Anastasis.
 
 ---
 
-Era piccolo. Era ancora più piccolo di quanto fosse sulla sua sedia. Stava sdraiato su un fianco, accanto alla sedia rovesciata, con la tunica bianca stretta attorno al corpo magro e le mani ancora intrecciate davanti al petto, come se fosse caduto senza scioglierle. La testa era reclinata sulla spalla, nella stessa posizione in cui l'avevano visto la prima volta, quando Vaan aveva chiesto se dormisse. Gli occhi erano chiusi. Accanto a lui, sul pavimento, c'era la ciotola d'acqua, rovesciata, e il pezzo di pane, che nessuno aveva toccato.
+Era piccolo. Era ancora più piccolo di quanto fosse sulla sua sedia. Stava sdraiato su un fianco, accanto alla sedia rovesciata, con i paramenti bianchi e blu stretti attorno al corpo magro e le mani ancora intrecciate davanti al petto, come se fosse caduto senza scioglierle. La testa era reclinata sulla spalla, nella stessa posizione in cui l'avevano visto la prima volta, quando Vaan aveva chiesto se dormisse. Gli occhi erano chiusi. Accanto a lui, sul pavimento, c'era la ciotola d'acqua, rovesciata, e il pezzo di pane, che nessuno aveva toccato.
 
 Ashe non si mosse. Gli altri nemmeno.
 
@@ -98,7 +98,7 @@ Lo scontro fu breve, per quanto possa essere breve uno scontro contro un uomo ch
 
 Bergan lo presero Ashe, Basch e Balthier.
 
-Era come combattere contro un muro che camminava. Le due spade di Bergan scendevano con una forza che non era quella di un uomo, e dove colpivano la pietra del pavimento la pietra si spaccava. Basch parò un colpo con la sua spada, una volta sola, e il colpo gli fece arretrare le braccia fino alla spalla, e lui non parò più: schivò. Balthier sparò due volte, e la seconda volta il colpo prese l'elmo di Bergan di fianco e gli staccò un corno, e Bergan non se ne accorse. La luce viola nelle giunture del guanto si era allargata. Adesso usciva anche dalle fessure dell'armatura, alle ascelle, alle ginocchia, al collo, e Bergan sembrava illuminato da dentro, come una lanterna.
+Era come combattere contro un muro che camminava. Le due spade di Bergan scendevano con una forza che non era quella di un uomo, e dove colpivano la pietra del pavimento la pietra si spaccava. Basch parò un colpo con la sua spada, una volta sola, e il colpo gli fece arretrare le braccia fino alla spalla, e lui non parò più: schivò. Balthier sparò due volte, e la seconda volta il colpo prese l'elmo di Bergan di fianco e ne staccò una scheggia di metallo, e Bergan non se ne accorse. La luce viola nelle giunture del guanto si era allargata. Adesso usciva anche dalle fessure dell'armatura, alle ascelle, alle ginocchia, al collo, e Bergan sembrava illuminato da dentro, come una lanterna.
 
 E più combatteva, più era forte. E più era forte, meno sembrava un uomo. Gridava. Non parole; suoni. Le spade non cercavano più i bersagli, li colpivano tutti, le colonne, il pavimento, l'aria. Ashe, sotto i suoi colpi, si sentiva come sotto una grandinata.
 

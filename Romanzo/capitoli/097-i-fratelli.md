@@ -54,7 +54,7 @@ Basch rimase in piedi sopra di lui, ansimando. Non alzò la spada.
 
 La voce venne dall'alto, da una delle grandi terrazze che circondavano la piazza della Sommità, e Balthier la riconobbe alla prima sillaba, e tutto il suo corpo si irrigidì come quello di un cane che sente il fischio del padrone dopo molti anni.
 
-Il dottor Cidolfus Demen Bunansa scendeva la scala della terrazza con il passo svelto e saltellante di un uomo che non ha tempo da perdere e lo perde volentieri in chiacchiere. Portava il camice da laboratorio di Draklor, aperto su una giubba di velluto e una catena d'ottone con una dozzina di piccoli strumenti appesi che tintinnavano a ogni gradino. Aveva i capelli bianchi pettinati all'indietro, un paio di lenti sulla fronte e un sorriso da direttore d'orchestra. Teneva in mano qualcosa di scuro, grande come una mela, avvolto in un panno di seta.
+Il dottor Cidolfus Demen Bunansa scendeva la scala della terrazza con il passo svelto e saltellante di un uomo che non ha tempo da perdere e lo perde volentieri in chiacchiere. Portava un lungo soprabito rosso cupo e viola, con gli ornamenti d'oro sfilacciati sui polsi, guanti bianchi e una catena d'ottone con una dozzina di piccoli strumenti appesi che tintinnavano a ogni gradino. Aveva capelli, barba e baffi d'argento, un paio di occhiali ovali d'argento sul naso e un sorriso da direttore d'orchestra. Da giovane, dicevano ad Archades, somigliava al figlio; adesso il figlio cercava di non somigliargli. Teneva in mano qualcosa di scuro, grande come una mela, avvolto in un panno di seta.
 
 «Indegno» ripeté, arrivando in fondo. «Due fratelli che si prendono a sciabolate davanti alla cosa più bella dell'universo. Settecento anni che questa pietra aspetta qualcuno all'altezza, e chi arriva? Una famiglia di Landis che regola i conti di cortile.» Si fermò e si guardò intorno. «Ah, e anche tu. Ffamran. Che piacere. Hai le scarpe sporche.»
 
@@ -122,9 +122,9 @@ Reddas non disse niente. Ma la mano sulla spada gli divenne bianca.
 
 Cid si voltò verso la Crisalide. La guardò a lungo, con la testa piegata di lato, e la sua faccia, d'un tratto, perse tutto: l'ironia, l'impazienza, la teatralità. Restò soltanto l'espressione di un uomo davanti a una cosa che ha cercato per tutta la vita.
 
-«La distruggerete» disse, piano. «Lo so. Avete detto così. Ed è giusto. È giusto che finisca.» Si sfilò le lenti dalla fronte e le pulì su un lembo del camice, senza guardarle. «Ma sarebbe un peccato, non trovate? Distruggerla e basta. Sette secoli di Mystes, accumulato goccia a goccia, tutto lì dentro. Lasciarlo andare in fumo come una candela.»
+«La distruggerete» disse, piano. «Lo so. Avete detto così. Ed è giusto. È giusto che finisca.» Si sfilò gli occhiali e li pulì su un lembo del soprabito, senza guardarli. «Ma sarebbe un peccato, non trovate? Distruggerla e basta. Sette secoli di Mystes, accumulato goccia a goccia, tutto lì dentro. Lasciarlo andare in fumo come una candela.»
 
-Rimise le lenti. Scostò il panno di seta da quello che teneva in mano.
+Rimise gli occhiali. Scostò il panno di seta da quello che teneva in mano.
 
 Era nero e lucido, a facce irregolari, e anche spento aveva una specie di profondità, come un pozzo visto dall'alto. Ashe lo riconobbe, e il cuore le si fermò. Lo aveva visto una sola volta, da bambina, in una stanza del palazzo di Rabanastre dove suo padre l'aveva portata per mano la sera prima della sua presentazione a corte. Le aveva detto: questo è nostro, e non lo useremo mai. Era il Frammento del Crepuscolo.
 

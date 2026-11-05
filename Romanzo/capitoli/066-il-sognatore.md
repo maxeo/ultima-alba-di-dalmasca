@@ -36,7 +36,7 @@ Era una navata lunga, così alta che il soffitto non si vedeva, con le colonne c
 
 In fondo alla sala, su una sedia di legno scuro senza nessun ornamento, sedeva un vecchio.
 
-Era piccolo. Era più piccolo di quanto chiunque si aspettasse dal capo spirituale di mezza Ivalice, e così magro che la tunica bianca gli stava addosso come su un attaccapanni. Aveva la testa reclinata su una spalla, gli occhi chiusi, la bocca un poco aperta. Le mani, posate in grembo, avevano le dita intrecciate. Accanto alla sedia, su un tavolino, c'era una ciotola d'acqua e un pezzo di pane. Nessuno dei due era stato toccato.
+Era piccolo. Era più piccolo di quanto chiunque si aspettasse dal capo spirituale di mezza Ivalice, e così magro che i paramenti bianchi e blu, orlati d'oro, gli stavano addosso come su un attaccapanni. Aveva i capelli bianchi lunghi sulle spalle e sopracciglia così lunghe che gli scendevano sugli zigomi, e dalle orecchie appuntite pendevano due anelli d'oro. Teneva la testa reclinata su una spalla, gli occhi chiusi, la bocca un poco aperta. Le mani, posate in grembo, avevano le dita intrecciate. Accanto alla sedia, su un tavolino, c'era una ciotola d'acqua e un pezzo di pane. Nessuno dei due era stato toccato.
 
 La compagnia si fermò a dieci passi. Larsa davanti, poi Ashe, poi gli altri. Nessuno parlò. Il vecchio non si mosse.
 
@@ -84,7 +84,7 @@ Tutti si voltarono.
 
 La voce veniva dal fondo della sala, dalla parte delle porte, e chi l'aveva pronunciata stava appoggiato a una colonna, nell'ombra fra due fasci di luce, con le braccia incrociate. Nessuno lo aveva sentito entrare. O forse era lì da prima, e nessuno lo aveva visto.
 
-Si staccò dalla colonna e venne avanti. Il primo fascio di luce lo prese ai piedi, e si vide che portava stivali di pelle chiara, alti fino al ginocchio, così puliti che non potevano essere saliti dalla pista. Il secondo lo prese al petto, e si vide una giacca rossa, scura, ricamata d'oro ai polsini, con una sciarpa di seta bianca annodata al collo come per una passeggiata in un giardino. Il terzo lo prese in faccia, e si vide che portava occhiali dalle lenti scure, in una sala dove la luce era poca e il sole non c'era.
+Si staccò dalla colonna e venne avanti. Il primo fascio di luce lo prese ai piedi, e si vide che portava stivali di pelle chiara, alti fino al ginocchio, così puliti che non potevano essere saliti dalla pista. Il secondo lo prese al petto, e si vide una camicia blu a righe sottili, aperta al collo come per una passeggiata in un giardino. Il terzo lo prese in faccia, e si vide una barba corta a punta, capelli neri ondulati fino alle spalle e occhiali dalle lenti scure, in una sala dove la luce era poca e il sole non c'era.
 
 Sorrideva.
 
