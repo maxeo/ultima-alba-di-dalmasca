@@ -65,4 +65,4 @@ bash Audiolibro/genera.sh 1 113
 
 Opera di fan, non ufficiale e non commerciale, senza legami con Square Enix. *Final Fantasy XII*, la sua trama, i suoi personaggi e il suo mondo appartengono a Square Enix.
 
-I contributi originali di questo progetto sono distribuiti con licenza [CC BY-NC-SA 4.0](LICENSE): puoi condividerli e modificarli citando la fonte, senza scopi commerciali e con la stessa licenza. La licenza non copre i marchi, i personaggi, il mondo e gli altri elementi di proprietà di Square Enix, sui quali questo progetto non concede alcun diritto.
+È un'opera di fantasia, gratuita e senza scopo di lucro. Romanzo e audiolibro sono distribuiti con licenza CC BY-NC-SA 4.0: puoi condividerli e modificarli citando la fonte, senza scopi commerciali e con la stessa licenza. L'audio segue anche le condizioni non commerciali del modello vocale, e il codice è distribuito con licenza MIT. Le licenze non coprono gli elementi di proprietà di Square Enix. I dettagli, in italiano e in inglese, sono in [LICENSE](LICENSE).
