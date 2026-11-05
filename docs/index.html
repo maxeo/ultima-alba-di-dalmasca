@@ -427,7 +427,7 @@ function rigaCapitolo(c) {
 }
 
 // Gesti sulla riga: scorrendo a sinistra compare Azzera, tenendo premuto compare il punto di arrivo
-let scorsa = null, nodoSlider = null, saltaClick = false;
+let scorsa = null, nodoSlider = null, saltaClick = false, arrivoInUso = false;
 function apriScorsa(r) {
   if (scorsa && scorsa !== r) chiudiScorsa();
   scorsa = r;
@@ -476,9 +476,11 @@ function apriSlider(c, r) {
   const testo = x => `${hms(x)} di ${hms(d)}`;
   const scritta = el('output', {}, testo(v));
   const cur = el('input', { type: 'range', min: 0, max: d, step: 1, value: v, 'aria-label': `Punto di arrivo del capitolo ${c.n}`,
+    onpointerdown: () => { arrivoInUso = true; },
     oninput: e => { scritta.textContent = testo(+e.target.value); },
     onchange: e => { impostaArrivo(c, +e.target.value); e.target.focus({ preventScroll: true }); } });
   nodoSlider = el('div', { class: 'cap-slider', 'data-n': c.n }, el('div', {}, el('span', {}, 'Punto di arrivo'), scritta), cur);
+  nodoSlider.segui = t => { const x = Math.min(d, Math.round(t)); cur.value = x; scritta.textContent = testo(x); };
   r.append(nodoSlider);
   nodoSlider.scrollIntoView({ block: 'nearest' });
   cur.focus({ preventScroll: true });
@@ -542,6 +544,7 @@ function gestiRiga(c, r, f) {
   f.addEventListener('contextmenu', e => { e.preventDefault(); saltaClick = true; apriSlider(c, r); });
 }
 document.addEventListener('pointerdown', () => { saltaClick = false; }, true);
+['pointerup', 'pointercancel'].forEach(t => document.addEventListener(t, () => { arrivoInUso = false; }, true));
 // Un clic esterno rimette la riga come prima, senza aprire il capitolo su cui cade
 document.addEventListener('click', e => {
   const ferma = () => { e.stopPropagation(); e.preventDefault(); };
@@ -662,6 +665,15 @@ function aggiornaTempo() {
   $('t-resto').textContent = '−' + hms(d - t);
   if (!trascinando) $('cursore').value = d ? t / d * 1000 : 0;
   segnaCue(t);
+  aggiornaRigaInAscolto(c, t);
+}
+function aggiornaRigaInAscolto(c, t) {
+  if (!c || !c.durata || sc(c.n).fatto) return;
+  const r = $('c' + c.n);
+  const barra = r?.querySelector('.barra i'), inf = r?.querySelector('.inf');
+  if (barra) barra.style.width = Math.min(100, t / c.durata * 100) + '%';
+  if (inf) inf.textContent = t > 5 ? `Restano ${durataTesto(c.durata - t)}` : durataTesto(c.durata);
+  if (nodoSlider && +nodoSlider.dataset.n === c.n && !arrivoInUso) nodoSlider.segui(t);
 }
 function aggiornaFatto() {
   const s = corrente != null ? sc(corrente) : null;
@@ -996,8 +1008,8 @@ function corpoOffline() {
     el('p', { id: 'offline-prog' }, testoProgresso()),
     prossimi.length || parte.length || mancanti.length ? el('h3', {}, 'Salva') : null,
     prossimi.length ? voce('i-scarica', `Salva ${prossimi.length === 1 ? 'il prossimo' : `i prossimi ${prossimi.length}`}`, `Dal capitolo ${prossimi[0].n}: ${pesoLista(prossimi)}`, () => salvaLista(prossimi)) : null,
-    parte.length ? voce('i-scarica', 'Salva questa Parte', `${qui.parte}: ${testoCapitoli(parte.length)}, ${pesoLista(parte)}`, () => salvaLista(parte)) : null,
-    mancanti.length ? conConferma('i-scarica', 'Salva tutti i capitoli pronti', `${testoCapitoli(mancanti.length)}, ${pesoLista(mancanti)}`, `Salvare ${testoCapitoli(mancanti.length)}? Occupano ${pesoLista(mancanti)}.`, 'Salva', () => { salvaLista(mancanti); spazio(); }) : null,
+    parte.length ? voce('i-scarica', `Salva ${qui.parte}`, `${testoCapitoli(parte.length)}, ${pesoLista(parte)}`, () => salvaLista(parte)) : null,
+    mancanti.length ? conConferma('i-scarica', "Salva tutta l'opera", `${tutti.length < capitoli.length ? `Audio pronto per ${tutti.length} capitoli su ${capitoli.length}: ` : ''}${testoCapitoli(mancanti.length)} da salvare, ${pesoLista(mancanti)}`, `Salvare ${testoCapitoli(mancanti.length)}? Occupano ${pesoLista(mancanti)}.`, 'Salva', () => { salvaLista(mancanti); spazio(); }) : null,
     presenti.length ? el('h3', {}, 'Libera spazio') : null,
     ascoltati.length ? voce('i-chiudi', 'Togli i capitoli già ascoltati', `${testoCapitoli(ascoltati.length)}, ${pesoLista(ascoltati)}`, () => togliLista(ascoltati)) : null,
     presenti.length ? conConferma('i-chiudi', 'Togli tutti i capitoli', `${testoCapitoli(presenti.length)}, ${pesoLista(presenti)}`, `Togliere dal dispositivo ${testoCapitoli(presenti.length)}? I progressi restano.`, 'Togli', () => togliLista(presenti)) : null,
