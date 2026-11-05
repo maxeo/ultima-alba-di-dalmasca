@@ -42,7 +42,7 @@ Vaan tirò fuori la pietra da sotto la camicia. Alla luce del pomeriggio sembrav
 
 Vaan la rimise subito al sicuro. «Non ve la stavo dando.»
 
-«Me ne ero accorto. Sei generoso con le domande, molto meno con le risposte.» Balthier indicò la salita verso il Sandsea. «Restiamo a Rabanastre ancora un poco. Se dovessero chiederti di due pirati, non li conosci.»
+«Me ne ero accorto. Sei generoso con le domande, molto meno con le risposte.» Balthier indicò la salita verso la Sandsea. «Restiamo a Rabanastre ancora un poco. Se dovessero chiederti di due pirati, non li conosci.»
 
 «E se chiedo io?»
 
@@ -96,7 +96,7 @@ Vaan annuì. Era una spiegazione possibile, tranne che Penelo avrebbe mandato un
 
 Vaan toccò la pietra sotto la camicia. Aveva attraversato la città per mostrare un tesoro e ora non sapeva nemmeno a chi chiedere dove fosse la persona che doveva vederlo. «Se torna, dille di aspettarmi.»
 
-Kytes annuì troppo in fretta. Prima che Vaan uscisse gli afferrò un lembo della giubba. «Se ti vedono...»
+Kytes annuì troppo in fretta. Poi frugò nel cassetto dei lacci e gli tese una striscia di cuoio. «Per quella cosa che tieni sotto la camicia. Così non ti cade.» Vaan non gli chiese come facesse a saperlo; legò la pietra e se la mise al collo. Prima che uscisse, Kytes gli afferrò un lembo della giubba. «Se ti vedono...»
 
 «Non mi vedono.»
 
@@ -106,7 +106,7 @@ Vaan gli tolse con delicatezza le dita dalla stoffa. Questa obiezione era buona.
 
 ---
 
-Dalan fumava con la finestra aperta. L'animaletto dalle orecchie lunghe dormiva in una cesta accanto ai suoi piedi, occupando l'unico punto della stanza in cui entrava ancora un poco di sole. Il vecchio alzò gli occhi su Vaan e li riabbassò sulla pipa. Non sembrò sorpreso. A Vaan venne voglia di dirgli che poteva almeno fingere.
+Dalan fumava sotto il pozzo d'aerazione, dove il fumo trovava la strada da solo. L'animaletto dalle orecchie lunghe dormiva in una cesta accanto ai suoi piedi nudi, occupando l'unico punto della stanza in cui scendeva ancora una lama di sole. Il vecchio alzò gli occhi su Vaan e li riabbassò sulla pipa. Non sembrò sorpreso. A Vaan venne voglia di dirgli che poteva almeno fingere.
 
 «Ti aspettavo più sporco» disse Dalan.
 
@@ -122,7 +122,7 @@ Il vecchio posò la pipa sul bordo del braciere. «Non qui.»
 
 «Allora siediti e dimmi cosa sai.»
 
-Vaan gli raccontò di Kytes, di Migelo uscito a cercarla e della bottega lasciata a un bambino. Dalan lo ascoltò senza interrompere. Quando il ragazzo finì, si alzò e aprì un cassettino vicino alla finestra. Vaan si aspettò una notizia, un indirizzo, una di quelle risposte che il vecchio sembrava tenere già pronte sotto la cenere. Dalan ne trasse invece un involto lungo.
+Vaan gli raccontò di Kytes, di Migelo uscito a cercarla e della bottega lasciata a un bambino. Dalan lo ascoltò senza interrompere. Quando il ragazzo finì, si alzò e andò al letto. Vaan si aspettò una notizia, un indirizzo, una di quelle risposte che il vecchio sembrava tenere già pronte sotto la cenere. Dalan sollevò invece il materasso e ne trasse un involto lungo, avvolto in un panno: la stessa cosa che Vaan, la prima volta, aveva intravisto senza sapere che fosse.
 
 «Non mi hai sentito?» chiese Vaan.
 

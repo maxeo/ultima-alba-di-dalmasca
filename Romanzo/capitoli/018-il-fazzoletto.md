@@ -84,7 +84,7 @@ Penelo lo fissò. Per un momento parve non capire, e poi capì, e la sua faccia 
 
 «Basta» disse un soldato.
 
-Lo disse in archadiano, una parola sola, e poi alzò il calcio della lancia e lo calò sulla testa di Vaan, di traverso, sopra l'orecchio sinistro, dove c'era la ciocca. Non lo fece con rabbia. Lo fece come si chiude una porta che sbatte.
+Lo disse in archadiano, una parola sola, e poi alzò il calcio della lancia e lo calò sulla testa di Vaan, di traverso, sopra l'orecchio sinistro. Non lo fece con rabbia. Lo fece come si chiude una porta che sbatte.
 
 Vaan cadde. Cadde in avanti, sulle ginocchia, e poi di lato, con le mani legate che non potevano fermarlo, e la testa batté sulla pietra del cortile, e lui non sentì più niente.
 

@@ -1,6 +1,6 @@
 ## 27. La promessa del cielo
 
-Migelo teneva un foglio sopra un piatto. La salsa aveva già raggiunto un angolo della carta, ma lui non se ne accorgeva: lo agitava sotto il naso di Balthier, che arretrava con la sedia finché le gambe posteriori non incontravano il muro. Al piano alto del Sandsea la discussione aveva fermato il servizio. Un cameriere attendeva sul penultimo gradino con due coppe; Fran, seduta di lato, gli fece cenno di posarle e andarsene.
+Migelo teneva un foglio sopra un piatto. La salsa aveva già raggiunto un angolo della carta, ma lui non se ne accorgeva: lo agitava sotto il naso di Balthier, che arretrava con la sedia finché le gambe posteriori non incontravano il muro. Al piano alto della Sandsea la discussione aveva fermato il servizio. Un cameriere attendeva sul penultimo gradino con due coppe; Fran, seduta di lato, gli fece cenno di posarle e andarsene.
 
 «Non è una spiegazione» disse Migelo.
 
@@ -102,7 +102,7 @@ Migelo ritirò la borsa. Non sorrise. Vaan si sentì tanto leggero da dover cerc
 
 Partirono all'alba. Le ore della notte furono occupate da lavori così piccoli che a Vaan parve di tradire Penelo con ognuno: mangiare una scodella di riso, dormire per tre ore, trovare un cordino nuovo, arrotolare una coperta. Migelo lo costrinse a rifare la sacca perché aveva messo il pane sotto gli stivali. Non gli disse che Penelo avrebbe avuto qualcosa da ridire. Non ce n'era bisogno.
 
-Nella stanza sopra la bottega il ragazzo lasciò sul cuscino una moneta che apparteneva a lei. L'aveva presa dal tavolo prima del furto al palazzo e poi dimenticata nella fodera. Non bastava a pagare un pane. La posò ugualmente dove Penelo l'avrebbe vista entrando. Dopo un istante la spostò accanto al vaso, perché il cuscino poteva essere rifatto prima del suo ritorno.
+Nella stanza sopra la bottega il ragazzo lasciò sul cuscino una moneta che apparteneva a lei. L'aveva presa dal tavolo prima del furto al palazzo e poi dimenticata nella fodera. Non bastava a pagare un pane. La posò ugualmente dove Penelo l'avrebbe vista entrando. Dopo un istante la spostò accanto al vaso, perché il cuscino poteva essere rifatto prima del suo ritorno. Le aveva promesso, con i piedi nel canale sotto la Porta Sud, che quando fosse partito glielo avrebbe detto prima. Non poteva dirglielo. Era il primo biglietto che lasciava in vita sua, e non c'era scritto niente.
 
 Migelo li raggiunse alla porta. Aveva trovato per Basch una giacca e un cambio più decorosi, che il capitano portava sotto il braccio. Guardò la sua faccia appena rasata e indugiò sulla cicatrice senza pronunciare il nome. Basch chinò il capo. Il mercante gli strinse la mano con una forza che non serviva a presentarsi.
 
