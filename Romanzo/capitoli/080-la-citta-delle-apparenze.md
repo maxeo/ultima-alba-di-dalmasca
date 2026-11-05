@@ -168,7 +168,7 @@ Era lui, senza dubbio. Era impossibile confondere quella mole di Bangaa con il m
 
 Il sorriso che gli si aprì sul muso fece arretrare la signora con il cagnolino.
 
-«Il ragazzo» disse. «Finalmente. Settimane. Settimane di casse, di vino, di gente che non sa parlare. E adesso il ragazzo.» Sguainò la spada. «Ba'Gamnan torna con la taglia, stavolta. Stavolta sì.»
+«Il ragazzo» disse. «Finalmente. Settimane. Settimane di casse, di vino, di gente che non sa parlare. E adesso il ragazzo.» Sguainò la spada. «Stavolta torno con la taglia. Stavolta sì.»
 
 Vaan si alzò, lasciando cadere i pini. Penelo si alzò accanto a lui. Basch e Ashe erano in fondo alla via, a parlare con un vecchio che vendeva mappe della città, e non avevano ancora visto niente. Ba'Gamnan avanzò. I fratelli si sparpagliarono a ventaglio, come sapevano fare.
 
@@ -190,7 +190,7 @@ Ba'Gamnan li guardò dall'alto in basso, il che non era difficile.
 
 Ba'Gamnan non capiva. Si vedeva che non capiva. Guardò Bwagi, che alzò le spalle. Guardò Gijuk, che si guardò le scarpe. Guardò Rinok, che stava già indietreggiando.
 
-«Ba'Gamnan è un cacciatore di taglie» disse, come se bastasse. «Ha un contratto. Pagato da Archades.»
+«Sono un cacciatore di taglie» disse, come se bastasse. «Ho un contratto. Pagato da Archades.»
 
 «Ah, un contratto. Molto bene.» Quello alto sorrise di più. «È registrato?»
 
@@ -206,17 +206,17 @@ Ba'Gamnan guardò la spada che aveva in mano. Si vedeva che stava considerando u
 
 «Undici, per il quarto grado. In triplice copia.»
 
-Fu a quel punto che Ba'Gamnan fece una cosa che nessuno, né Vaan né i suoi fratelli, gli aveva mai visto fare. Rimise la spada nel fodero. La rimise lentamente, con cura, come si rimette a posto un attrezzo alla fine di una giornata di lavoro andata male. Poi guardò Vaan da sopra la testa dei due ispettori.
+Fu a quel punto che Ba'Gamnan fece una cosa che nessuno, né Vaan né i suoi fratelli, gli aveva mai visto fare. Rimise la spada nel fodero. La rimise lentamente, con cura, alla fine di una giornata di lavoro andata male. Poi guardò Vaan da sopra la testa dei due ispettori.
 
 «Ragazzo» disse. «Questa città.»
 
 «Lo so» disse Vaan.
 
-«Ba'Gamnan ha attraversato deserti. Ha attraversato paludi. Ha combattuto bestie grandi come case.» Gli ispettori lo presero per le braccia, delicatamente, uno per parte, e lui non resistette. «Mai moduli.»
+«Ho attraversato deserti. Ho attraversato paludi. Ho combattuto bestie grandi come case.» Gli ispettori lo presero per le braccia, delicatamente, uno per parte, e lui non resistette. «Mai moduli.»
 
 «Mi dispiace» disse Vaan, e un po' era vero.
 
-«Basta.» Ba'Gamnan si lasciò portare via. I fratelli lo seguirono, scortati, con la testa bassa. A metà piazza si voltò ancora una volta, e gridò, e la sua voce rimbalzò fra le torri e fece alzare in volo i piccioni dalle grondaie dorate: «Basta! Ba'Gamnan smette! Si tenga la taglia, Archades! Si tenga i moduli! Ba'Gamnan torna a casa, dove i ragazzi si inseguono con la spada come si deve!»
+«Basta.» Ba'Gamnan si lasciò portare via. I fratelli lo seguirono, scortati, con la testa bassa. A metà piazza si voltò ancora una volta, e gridò, e la sua voce rimbalzò fra le torri e fece alzare in volo i piccioni dalle grondaie dorate: «Basta! Io smetto! Si tenga la taglia, Archades! Si tenga i moduli! Io torno a casa, dove i ragazzi si inseguono con la spada come si deve!»
 
 Lo portarono via in una navetta grigia, insieme ai fratelli. La piazza tornò tranquilla. La signora con il cagnolino riprese a camminare. Uno degli ispettori, quello basso, tornò indietro, raccolse da terra i pini che Vaan aveva lasciato cadere, li contò, e glieli porse con un inchino.
 
