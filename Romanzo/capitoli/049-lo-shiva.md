@@ -20,6 +20,8 @@ Vossler guardò i soldati nel corridoio. Erano troppo vicini per una supplica e 
 
 Ashe riprese a camminare. «Lo sono anche quelli che aspettano di sapere a chi appartengono.»
 
+Gli ingegneri di Archades hanno scritto molti trattati sulla magilite, e alcuni sono ottimi. In nessuno di essi, per quanto è dato sapere, compare il parere di una viera. Non è una dimenticanza: a nessuno, a Draklor, era mai venuto in mente di chiedere a una creatura che vive del Bosco che cosa provi quando qualcuno strappa il Mystes da una pietra e lo costringe a correre dentro un motore. Se lo avessero chiesto, quel giorno, avrebbero avuto una risposta.
+
 Fran si fermò dietro di loro. Il movimento fu improvviso: un piede lasciato a metà del passo, le spalle tese, la testa piegata di lato. Balthier se ne accorse prima della guardia e si girò.
 
 «Fran.»
@@ -68,7 +70,25 @@ Vossler lo guardò come se quella parola, proprio in quella voce, fosse un colpo
 
 «Allora perché le hai tolto anche questo?»
 
+Basch lo guardò, e per un istante non vide il corridoio dello Shiva. Vide un cortile di caserma a Rabanastre, vent'anni prima, con la polvere rossa e il sole a picco e un pozzo nell'angolo. Un ragazzo di Landis appena arrivato, che parlava il dalmasco come si mastica un pane troppo duro e non conosceva nessuno, e che i cadetti chiamavano "il forestiero" perché non sapevano ancora come chiamarlo. E un altro ragazzo, bruno, più largo di spalle, che la prima sera gli aveva lasciato metà della sua razione sulla branda senza dire niente e la mattina dopo, in cortile, lo aveva battuto tre volte di fila con la stessa finta: la spalla che si abbassa, la lama che arriva di lato. Alla quarta Basch l'aveva parata. Vossler aveva riso e gli aveva detto *adesso sei dei nostri*, e aveva sputato nella polvere per suggellare la cosa, perché a quell'età si suggellano così.
+
+Era la stessa finta. Vossler non ne aveva mai imparata un'altra, perché non ne aveva mai avuto bisogno.
+
 Vossler attaccò. Basch conosceva quel colpo, il breve abbassarsi della spalla prima che la lama arrivasse di lato. Lo fermò e indietreggiò nello spazio lasciato dagli altri. Per anni si erano protetti quel fianco. Adesso ognuno sapeva dove avrebbe trovato il corpo dell'altro prima ancora di guardarlo.
+
+«Due anni» disse Vossler, fra un colpo e l'altro. Non gridava. Parlava con il fiato corto di chi combatte e con la voce di chi ha preparato quelle parole per notti intere. «Due anni a contare i morti, Basch. Ogni mese un nome. Il ragazzo dei canali che portava i messaggi. La vedova di Giza che ci nascondeva il grano. Dalan l'avrebbero preso, se non fosse vecchio e pazzo. Ogni volta che lei diceva *ancora un poco*, io andavo a contarne un altro.» Parò un fendente, lo respinse. «Tu eri in fondo a un pozzo. Io ero di sopra, con i conti.»
+
+«Lo so.»
+
+«No, che non lo sai.» Vossler colpì, e Basch dovette fare un passo indietro. «Tu hai avuto la gabbia. La gabbia è semplice. Si sta lì e si aspetta. Io ho avuto lei. Ho dovuto guardarla diventare ogni giorno più simile a suo padre il giorno della resa, e sapere che quel giorno sarebbe tornato, e che la prossima volta non ci sarebbe stato nessun Ondore a firmare per lei.» Il respiro gli si spezzò. «Ho trovato una strada in cui lei vive e Dalmasca ha di nuovo un nome. È una strada brutta. È l'unica.»
+
+«È la strada di Vayne.»
+
+«È una strada.»
+
+«Non è la sua.» Basch abbassò la guardia di un dito, e Vossler non ne approfittò, e in quel dito che nessuno dei due usò c'erano vent'anni. «L'hai scelta tu per lei. Come ho fatto io, quando l'ho lasciata a Nalbina. Siamo uguali, Vossler. Abbiamo deciso tutti e due al posto suo.»
+
+Vossler lo guardò. Per un momento la lama gli tremò. Poi strinse i denti e tornò ad attaccare, più forte di prima, come chi sente avvicinarsi una verità e preferisce correrle contro.
 
 ---
 
@@ -132,6 +152,10 @@ La presa sulla manica si allentò. Basch aspettò il respiro successivo, con la 
 
 Ashe vide il movimento. Il viso le si fece immobile. Basch chiuse gli occhi del compagno e lo adagiò contro la parete, togliendosi piano la mano da sotto il capo. Lasciò la pezza sul fianco. Gli rimise vicino la spada, con l'elsa verso la destra.
 
+Rimase in ginocchio ancora un momento. Il collare di cuoio, al collo del compagno, aveva il bordo consumato dove il mento lo sfregava nel sonno; Basch lo ricordava nuovo, comprato a un banco di via dei Calderai con la prima paga, e ricordava che Vossler aveva detto che un soldato senza collare ha il collo di un condannato. Glielo aggiustò, perché era storto. Non fece altro.
+
+Nessuno nel corridoio disse niente. La nave si inclinò ancora, piano, e una delle spade cadute scivolò sul pavimento fino a fermarsi contro lo stivale di Vossler, e lì rimase.
+
 «È morto?» chiese Vaan, dalla porta.
 
 Il capitano annuì. Si alzò soltanto dopo che Ashe ebbe voltato il viso verso l'hangar.
@@ -140,7 +164,7 @@ Il capitano annuì. Si alzò soltanto dopo che Ashe ebbe voltato il viso verso l
 
 Una navetta era rimasta sul sostegno di lancio. Il pilota era corso al posto di combattimento, gli addetti al carico cercavano di aprire un portello bloccato. Balthier ne spinse uno fuori dalla traiettoria di un carrello che scivolava e salì per primo. Penelo aiutò Fran a entrare. Vaan aspettava sulla passerella mentre Basch raggiungeva Ashe all'ultimo tratto del corridoio.
 
-La principessa guardò indietro. Dalla curva non si vedeva più il corpo di Vossler. Si vedeva soltanto una lunga striscia di sangue dove la nave aveva cominciato a inclinarsi. Il capitano le si mise accanto senza prenderla per il braccio. Lei si voltò da sola e salì.
+La principessa guardò indietro. Dalla curva non si vedeva più il corpo di Vossler. Lo aveva guardato morire senza muoversi, e adesso che non lo vedeva più le venne in mente una cosa piccola e inutile: che in due anni di cantine non gli aveva mai chiesto se avesse una famiglia, da qualche parte, qualcuno a cui scrivere. Non lo sapeva. Non lo avrebbe saputo più. Si vedeva soltanto una lunga striscia di sangue dove la nave aveva cominciato a inclinarsi. Il capitano le si mise accanto senza prenderla per il braccio. Lei si voltò da sola e salì.
 
 Balthier aveva già avviato i motori. Fran, accanto a lui, riuscì a sollevare una mano e a indicargli una leva che non aveva visto. La toccò, e il piccolo velivolo si staccò dal sostegno con uno strappo. La porta esterna dell'hangar era aperta per metà. Passarono nello spazio rimasto con un urto che piegò un bordo dell'ala.
 
