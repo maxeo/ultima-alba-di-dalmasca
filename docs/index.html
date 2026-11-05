@@ -56,7 +56,19 @@ details.parte { border-bottom: 1px solid var(--linea); }
 details.parte summary { list-style: none; cursor: pointer; display: flex; justify-content: space-between; align-items: baseline; gap: 12px; padding: 16px 0; font: 500 20px/1.25 var(--serif); }
 details.parte summary::-webkit-details-marker { display: none; }
 details.parte summary small { font: 13px var(--sans); color: var(--tenue); white-space: nowrap; }
-.cap { display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 4px; border-top: 1px solid var(--linea); }
+.cap { border-top: 1px solid var(--linea); }
+.cap-scorri { position: relative; overflow: hidden; }
+.cap-fronte { position: relative; z-index: 1; display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 4px; background: var(--sfondo); transition: transform .18s; touch-action: pan-y; -webkit-user-select: none; user-select: none; -webkit-touch-callout: none; }
+.cap.scorre .cap-fronte { transition: none; }
+.cap-azione { position: absolute; top: 0; right: 0; bottom: 0; display: flex; align-items: center; gap: 8px; padding: 0 10px; background: var(--rilievo); font-size: 14px; visibility: hidden; transition: visibility .18s; }
+.cap.scorre .cap-azione, .cap.scorsa .cap-azione { visibility: visible; transition: none; }
+.cap-azione button { display: inline-flex; align-items: center; gap: 6px; min-height: 40px; padding: 0 12px; border: 1px solid var(--linea); border-radius: 10px; }
+.cap-azione button.si { background: var(--accento); color: var(--su-accento); border-color: transparent; }
+.cap .apri:focus-visible { outline-offset: -2px; }
+.cap-slider { padding: 2px 10px 12px 40px; scroll-margin-bottom: 190px; font-size: 13px; color: var(--tenue); }
+.cap-slider div { display: flex; justify-content: space-between; gap: 12px; }
+.cap-slider output { font-variant-numeric: tabular-nums; }
+.cap-slider input { width: 100%; height: 32px; margin: 2px 0 0; accent-color: var(--accento); }
 .cap .apri { display: grid; grid-template-columns: 34px 1fr; gap: 6px; text-align: left; padding: 11px 0; min-height: 48px; border-radius: 6px; width: 100%; }
 .cap .num { color: var(--tenue); font-variant-numeric: tabular-nums; font-size: 14px; padding-top: 2px; }
 .cap .tit { font: 17px/1.3 var(--serif); }
@@ -319,8 +331,9 @@ const $ = id => document.getElementById(id);
 const a = $('a');
 const CHIAVE = 'alba-stato-v1', CACHE = 'alba-audio-v1';
 const leggi = () => { try { return JSON.parse(localStorage.getItem(CHIAVE)) || {}; } catch { return {}; } };
-const UI_BASE = { accento: 'ambra', evid: 38, font: 'serif', inter: 1.6, indietro: [15], avanti: [30], continua: true, scambia: false, autoRiga: true, nascosti: [], notteOn: false, notte: 50, noBarra: false, noIcone: false, noAvanz: false };
+const UI_BASE = { accento: 'ambra', evid: 38, font: 'serif', inter: 1.6, indietro: [15], avanti: [30], continua: true, scambia: false, autoRiga: true, nascosti: ['scarica-file'], scaricaNascosto: true, notteOn: false, notte: 50, noBarra: false, noIcone: false, noAvanz: false };
 let stato = Object.assign({ cap: {}, segni: [], ultimo: null, velocita: 1, dim: 19, tema: null }, leggi());
+if (stato.ui && !stato.ui.scaricaNascosto) stato.ui.nascosti = [...(stato.ui.nascosti || []), 'scarica-file'];
 stato.ui = Object.assign({}, UI_BASE, stato.ui);
 if (stato.tema === 'notte') { stato.tema = null; stato.ui.notteOn = true; }
 stato.ui.indietro = [].concat(stato.ui.indietro);
@@ -379,10 +392,149 @@ function rigaCapitolo(c) {
   const apri = el('button', { class: 'apri', onclick: () => c.durata && carica(c.n, true), ...(c.durata ? {} : { disabled: '' }) },
     el('span', { class: 'num' }, String(c.n)),
     el('span', {}, el('span', { class: 'tit' }, c.titolo), inf2, pct > 0 && !s.fatto ? barra(pct) : null));
-  const r = el('div', { class: 'cap' + (corrente === c.n ? ' corrente' : '') + (s.fatto ? ' fatto' : '') + (c.durata ? '' : ' assente'), id: 'c' + c.n }, apri);
-  if (c.durata) r.append(bottoneSalva(c));
+  const fronte = el('div', { class: 'cap-fronte' }, apri);
+  const scorri = el('div', { class: 'cap-scorri' }, fronte);
+  const r = el('div', { class: 'cap' + (corrente === c.n ? ' corrente' : '') + (s.fatto ? ' fatto' : '') + (c.durata ? '' : ' assente'), id: 'c' + c.n }, scorri);
+  if (c.durata) {
+    fronte.append(bottoneSalva(c));
+    scorri.prepend(azioneAzzera(c, r));
+    gestiRiga(c, r, fronte);
+    apri.addEventListener('keydown', e => { if (e.key === 'Delete') apriScorsa(r); });
+    if (nodoSlider && +nodoSlider.dataset.n === c.n) r.append(nodoSlider);
+  }
   return r;
 }
+
+// Gesti sulla riga: scorrendo a sinistra compare Azzera, tenendo premuto compare il punto di arrivo
+let scorsa = null, nodoSlider = null, saltaClick = false;
+function apriScorsa(r) {
+  if (scorsa && scorsa !== r) chiudiScorsa();
+  scorsa = r;
+  r.classList.add('scorsa');
+  r.querySelector('.cap-fronte').style.transform = `translateX(-${r.querySelector('.cap-azione').offsetWidth}px)`;
+}
+function chiudiScorsa() {
+  if (!scorsa) return;
+  scorsa.classList.remove('scorsa');
+  scorsa.querySelector('.cap-fronte').style.transform = '';
+  scorsa.querySelector('.cap-azione').iniziale();
+  scorsa = null;
+}
+function azioneAzzera(c, r) {
+  const box = el('div', { class: 'cap-azione' });
+  box.iniziale = () => box.replaceChildren(el('button', { 'aria-label': `Azzera il capitolo ${c.n}`, onclick: () => {
+    box.replaceChildren(el('span', {}, 'Azzerare?'),
+      el('button', { class: 'si', onclick: () => azzera(c) }, 'Sì'),
+      el('button', { onclick: chiudiScorsa }, 'No'));
+    apriScorsa(r);
+  } }, icona('i-ripristina'), 'Azzera'));
+  box.iniziale();
+  return box;
+}
+function azzera(c) {
+  const s = sc(c.n);
+  s.pos = 0; s.fatto = false;
+  if (corrente === c.n) { a.currentTime = 0; aggiornaFatto(); aggiornaTempo(); }
+  salvaStato();
+  scorsa = null;
+  chiudiSlider();
+  disegna();
+  annuncia(`Capitolo ${c.n} azzerato.`);
+}
+function chiudiSlider() {
+  if (nodoSlider) nodoSlider.remove();
+  nodoSlider = null;
+}
+function apriSlider(c, r) {
+  if (nodoSlider && +nodoSlider.dataset.n === c.n) return;
+  chiudiSlider();
+  chiudiScorsa();
+  const s = stato.cap[c.n] || {}, d = Math.round(c.durata);
+  const ora = corrente === c.n && a.currentTime ? a.currentTime : (s.pos || 0);
+  const v = s.fatto ? d : Math.min(d, Math.round(ora));
+  const testo = x => `${hms(x)} di ${hms(d)}`;
+  const scritta = el('output', {}, testo(v));
+  const cur = el('input', { type: 'range', min: 0, max: d, step: 1, value: v, 'aria-label': `Punto di arrivo del capitolo ${c.n}`,
+    oninput: e => { scritta.textContent = testo(+e.target.value); },
+    onchange: e => { impostaArrivo(c, +e.target.value); e.target.focus({ preventScroll: true }); } });
+  nodoSlider = el('div', { class: 'cap-slider', 'data-n': c.n }, el('div', {}, el('span', {}, 'Punto di arrivo'), scritta), cur);
+  r.append(nodoSlider);
+  nodoSlider.scrollIntoView({ block: 'nearest' });
+  cur.focus({ preventScroll: true });
+}
+function impostaArrivo(c, v) {
+  const s = sc(c.n), attuale = corrente === c.n;
+  if (v >= Math.round(c.durata)) {
+    s.fatto = true; s.pos = 0;
+    if (attuale) { a.pause(); a.currentTime = 0; }
+  } else {
+    if (v > 0) s.fatto = false;
+    s.pos = v;
+    if (attuale) a.currentTime = v;
+  }
+  if (attuale) { aggiornaFatto(); aggiornaTempo(); }
+  salvaStato();
+  disegna();
+}
+function gestiRiga(c, r, f) {
+  let id = null, x0 = 0, y0 = 0, base = 0, dx = 0, oriz = false, timer = null;
+  const ferma = () => { clearTimeout(timer); timer = null; };
+  f.addEventListener('pointerdown', e => {
+    if (e.button !== 0) return;
+    id = e.pointerId; x0 = e.clientX; y0 = e.clientY; dx = 0; oriz = false;
+    base = r.classList.contains('scorsa') ? -r.querySelector('.cap-azione').offsetWidth : 0;
+    ferma();
+    timer = setTimeout(() => {
+      timer = null; id = null; saltaClick = true;
+      if (navigator.vibrate) navigator.vibrate(15);
+      apriSlider(c, r);
+    }, 500);
+  });
+  f.addEventListener('pointermove', e => {
+    if (e.pointerId !== id) return;
+    dx = e.clientX - x0;
+    const dy = e.clientY - y0;
+    if (!oriz) {
+      if (Math.abs(dx) < 10 && Math.abs(dy) < 10) return;
+      ferma();
+      if (Math.abs(dy) > Math.abs(dx)) { id = null; return; }
+      oriz = true; saltaClick = true;
+      if (scorsa && scorsa !== r) chiudiScorsa();
+      f.setPointerCapture(id);
+      r.classList.add('scorre');
+    }
+    f.style.transform = `translateX(${Math.max(-r.querySelector('.cap-azione').offsetWidth, Math.min(0, base + dx))}px)`;
+  });
+  const fine = annulla => e => {
+    if (e.pointerId !== id) return;
+    ferma();
+    id = null;
+    if (!oriz) return;
+    r.classList.remove('scorre');
+    const larga = r.querySelector('.cap-azione').offsetWidth;
+    if (!annulla && base + dx < -larga / 2) apriScorsa(r);
+    else if (scorsa === r) chiudiScorsa();
+    else f.style.transform = '';
+  };
+  f.addEventListener('pointerup', fine(false));
+  f.addEventListener('pointercancel', fine(true));
+  f.addEventListener('contextmenu', e => { e.preventDefault(); saltaClick = true; apriSlider(c, r); });
+}
+document.addEventListener('pointerdown', () => { saltaClick = false; }, true);
+// Un clic esterno rimette la riga come prima, senza aprire il capitolo su cui cade
+document.addEventListener('click', e => {
+  const ferma = () => { e.stopPropagation(); e.preventDefault(); };
+  if (saltaClick) { saltaClick = false; return ferma(); }
+  const suScorsa = scorsa && !scorsa.querySelector('.cap-azione').contains(e.target);
+  const suSlider = nodoSlider && !nodoSlider.contains(e.target);
+  if (!suScorsa && !suSlider) return;
+  if (suScorsa) chiudiScorsa();
+  if (suSlider) chiudiSlider();
+  if ($('elenco').contains(e.target)) ferma();
+}, true);
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape' && (scorsa || nodoSlider)) { chiudiScorsa(); chiudiSlider(); }
+});
 function barra(p) { const i = el('i'); i.style.width = p + '%'; return el('div', { class: 'barra' }, i); }
 function bottoneSalva(c) {
   const sal = salvati.has(c.n), prog = inCorso.get(c.n);
@@ -986,7 +1138,7 @@ function bottoneRipristina() {
       el('p', {}, 'Ripristinare tema, colori, testo e comandi? Progressi, segnalibri e capitoli salvati restano.'),
       el('div', { class: 'scelte' },
         el('button', { class: 'si', 'data-k': 'ripristina-si', onclick: () => cambiaUi(() => {
-          stato.ui = Object.assign({}, UI_BASE, { nascosti: [] }); stato.tema = null; impostaDim(19);
+          stato.ui = Object.assign({}, UI_BASE); stato.tema = null; impostaDim(19);
         }, 'ripristina') }, 'Ripristina'),
         annulla));
     b.replaceWith(box);
