@@ -86,6 +86,29 @@ Vaan la guardò ridere. Aveva i capelli pieni d'erba secca, una striscia di terr
 
 «Anche tu.» Penelo allungò una mano e gliene tolse un filo dalla frangia, e glielo mostrò, e lo lasciò cadere nel canale. Il filo d'erba girò su se stesso e partì verso la città, verso i pozzi, verso le cisterne. «Ecco. Va a Rabanastre prima di noi.»
 
+
+Fu lei, dopo, a notare la luce. Veniva dalla tasca di lui, dalla parte della coscia, una macchia gialla e tiepida che passava attraverso la stoffa dei calzoni e che, con il sole ancora basso, si vedeva benissimo.
+
+«Cos'hai lì?»
+
+«La pietra. Quella di Jinn.»
+
+«Lo so che è quella di Jinn. L'ho caricata anch'io, tenendogli su la gamba.» Penelo inclinò la testa. «Masyua ne aveva bisogno per i suoi mercanti, e te l'ha lasciata lo stesso. Tu l'hai presa senza fare storie, e tu fai storie per tutto. Per cosa ti serve una pietra del sole, Vaan?»
+
+Era la domanda giusta, e arrivò troppo in fretta per scansarla. Avrebbe potuto dirle la verità. Avrebbe potuto dirle di Dalan e della Luna Crescente e delle sei finestre buie sotto le cupole, e lei si sarebbe arrabbiata, e poi forse avrebbe riso, e poi, quasi certamente, gli avrebbe tolto la pietra di tasca e l'avrebbe buttata nel canale.
+
+«Per le lampade» disse. «Di Migelo. Dalan dice che le paga bene, ai nomadi, e io gliene porto una per fargli vedere come si fanno. Se gli piace, ci torno con Kytes e ne carichiamo dieci.»
+
+Penelo lo guardò. Lo guardò abbastanza a lungo perché Vaan sentisse il bisogno di aggiungere qualcosa, e non lo aggiunse, perché aveva imparato da Migelo che chi aggiunge qualcosa a una bugia la fa crollare.
+
+«Le lampade» disse lei.
+
+«Le lampade.»
+
+«Va bene.» Si tolse un filo d'erba dalla gonna. «È una buona idea. Migelo sarà contento.»
+
+Lo disse con la voce di sempre. Molti anni dopo, quando le chiesero se quella mattina avesse capito, Penelo rispose che no, non aveva capito niente, e poi ci pensò e disse che non era vero: che aveva capito benissimo, e aveva deciso di non capire, perché era la mattina più bella da due anni e non voleva sprecarla a litigare. Vaan non lo seppe mai. Seppe soltanto, quella mattina, che la prima bugia gli era riuscita, e che era stato facilissimo, e la cosa non gli fece piacere come si aspettava.
+
 ---
 
 Quando si parla delle nozze della principessa, a Rabanastre, tutti dicono dov'erano. È una di quelle giornate che una città si ricorda in comune, come si ricorda un terremoto o una festa: dov'eri, con chi, cosa avevi in mano. Penelo lo disse senza che Vaan glielo chiedesse, guardando l'acqua.

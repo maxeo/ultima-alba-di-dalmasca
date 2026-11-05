@@ -140,6 +140,22 @@ Il portello si aprì. Oltre c'era la Strahl.
 
 Vaan aveva immaginato la nave tante volte da costruirsene almeno dieci, tutte enormi, tutte piene di casse di monete e di posti da cui guardare il cielo. Quella vera stava su sostegni bassi al centro dell'hangar e aveva uno scafo lucido che faceva pensare a un pesce. Le ali erano raccolte. C'erano pannelli aperti, cavi che arrivavano dal pavimento e un moguri mezzo nascosto dentro il fianco, dal quale spuntavano soltanto gli stivali e un pompon rosso.
 
+Poi la guardò meglio, e smise di immaginare. Il muso affilato, le due ali corte, i motori sotto le ali: l'aveva già vista. L'aveva vista da sotto, una mattina di cinque giorni e cento anni prima, sopra la piazza del mercato, con una borsa archadiana in mano e Penelo davanti che contava le monete del popolo. Volava bassa, più bassa di quanto il regolamento permettesse, e andava verso sud, dove le pareva. Lui aveva detto un giorno. Penelo aveva detto lo so.
+
+«Questa» disse Vaan. «Questa l'ho vista. Sopra Muthru. La settimana scorsa.»
+
+«È probabile» disse Balthier. «Le piace farsi vedere. Ha preso da me.»
+
+«Volava sotto il limite.»
+
+«Il limite» disse Balthier, con il tono di chi nomina un parente lontano e antipatico «è una questione di punti di vista. Da sotto sembra basso. Da sopra, ti assicuro, sembra lontanissimo.»
+
+Fran, passando, gli diede un'occhiata.
+
+«Avevamo un guasto» disse. «Non potevamo salire.»
+
+Balthier aprì la bocca, la richiuse, e salì la passerella senza aggiungere altro, con la dignità di un protagonista al quale hanno appena tolto la battuta migliore.
+
 «Non toccare» disse il moguri.
 
 Vaan fermò la mano a un dito dal metallo. «Non stavo toccando.»

@@ -164,6 +164,30 @@ Per la prima volta l'uomo non rispose subito. Lui e Fran si scambiarono uno sgua
 
 «Ma insomma, che importanza ha? Te l'ho detto chi sono.» Fece un gesto largo con la mano, che abbracciava la stanza, la statua, la notte. «Il resto è nei dettagli. E i dettagli, si sa, li dimentica chiunque.»
 
+Mentre lo diceva, si era avvicinato. Vaan non se n'era accorto: l'uomo aveva parlato, gesticolato, girato attorno alla statua per indicarla, e ogni gesto, ogni giro, ogni pausa a effetto lo aveva portato mezzo passo più vicino, con l'eleganza distratta di un ballerino che attraversa una sala senza che nessuno lo veda muoversi. Adesso era a un braccio. La sua mano destra, quella che non indicava il re, pendeva lungo il fianco con le dita sciolte, a un palmo dalla camicia di Vaan, dalla parte dove la pietra faceva il suo calore.
+
+«La mano» disse Fran.
+
+L'uomo si fermò. Guardò la propria mano come se la vedesse per la prima volta, con un'espressione di cortese sorpresa, e la ritirò, e se la mise dietro la schiena insieme all'altra.
+
+«Un riflesso» disse. «Professionale. Non ci si può fare niente.»
+
+Vaan fece un salto indietro e finì contro il basamento, con le mani sul petto. «Volevi... mentre parlavi...»
+
+«Parlavo, sì. È la parte che mi riesce meglio. La mano faceva il resto da sola.» L'uomo sospirò. «Fran, davvero. Era quasi fatta. Un altro aneddoto su Raithwall e il ragazzo non se ne sarebbe accorto nemmeno a Rabanastre.»
+
+«Il protagonista» disse Fran «ruba ai bambini.»
+
+«Il protagonista recupera. È diverso. Recupera beni che si trovano in mani inadatte.»
+
+«Non sono un bambino» disse Vaan.
+
+La viera lo guardò, dall'alto della sua statura, con gli occhi rossi e la faccia immobile.
+
+«No» disse. «I bambini non si arrampicano sui re.»
+
+Vaan non seppe se era un complimento. Lo prese come tale, nel dubbio, e si strinse la pietra al petto con tutte e due le mani, e da quel momento non perse più di vista le mani dell'uomo, nemmeno per un istante. Fu un errore. Stava così attento alle mani dell'uomo che dei passi nel corridoio si accorse soltanto dopo la viera, e la viera, si capì dopo, li aveva sentiti già da un pezzo, e aveva aspettato a dirlo per vedere quanto ci avrebbe messo il protagonista a farsi scoprire.
+
 Fran alzò la testa.
 
 Fu un movimento brusco, il primo che le avesse visto fare: tutte e due le orecchie si girarono insieme verso il corridoio, tese, e lei rimase così, immobile, ad ascoltare qualcosa che gli altri due non sentivano. Poi lo sentirono anche loro. Passi. Molti. Pesanti. Metallo su pietra, nel corridoio, lontano, oltre la parete che si era richiusa, oltre il vano con le tacche: il rumore di uomini in armatura che correvano. E voci. Gridavano in archadiano.
