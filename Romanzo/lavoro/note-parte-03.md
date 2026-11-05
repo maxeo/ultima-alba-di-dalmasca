@@ -21,3 +21,32 @@
 - Circa 3.000 parole. Parte da Vaan sul ponte di assi aggrappato alla gabbia, come chiede il via libera: il ponte, agganciato alla gabbia, lo trascina giù; Basch lo tiene per il polso.
 - Mimic ridotti a "mimi" e "mangiatori" in un paragrafo. Il mostro grande (Regina dei Mimic) resta annunciato da Fran: entra al cap. 24, compresso.
 - La cicatrice della mano sinistra di Basch si vede, senza spiegazione. Se il regista preferisce tenerla tutta per il cap. 26, si toglie il paragrafo.
+
+## Cap. 23
+- Fonte letta integralmente: `file06`, III-IV; correzioni su Reks e sulla manica applicate. La testimonianza fu attribuita dagli imperiali a un ragazzo che a casa non parlò più.
+- Raccordo col 22: la sosta è in un posto di servizio illuminato, oltre la precedente stazione; Basch rinuncia a rimandare il racconto fino all'aperto. Il gemello è identificato come Gabranth, senza raccontare Landis e la madre, riservati al 42.
+- La voce uguale torna come ricordo del pozzo; Vaan crede all'onestà di Reks, senza ancora concedere fiducia a Basch.
+- Dettagli locali inventati: guardaroba, cote, scrivano e cella precedente alla gabbia; nessun ritorno richiesto fuori dal capitolo.
+
+## Cap. 24
+- Fonti: `file06`, V-VI. Regina dei mangiatori compressa in un solo scontro che causa il crollo; Basch lascia la spada arrugginita, riceverà quella dell'Ordine nel 25.
+- Il soccorso di Vaan fra le traversine è un gesto prima della fiducia, ripreso nel conto dei debiti al 26. Il sole ritrovato passa dal corpo e dall'aria di Dalmasca.
+
+## Cap. 25
+- Fonti: `file06`, VII-IX. Penelo risulta assente, ma il rapimento è confermato soltanto al 27. Kytes resta alla bottega; Dalan affida la spada al ragazzo.
+- Vaan difende Reks nel nascondiglio senza anticipare l'apertura personale del 26. Vossler concede l'arma e la libertà di movimento, conservando il sospetto dopo il fallimento dell'attacco.
+- La rasatura avviene nel rifugio, lasciando il taglio sullo zigomo già richiesto dal 28; al 26 passaggio in bottega per abiti del baule di Migelo.
+
+## Cap. 26
+- Fonte: `file06`, X; letti i richiami del 19 e i nomi già fissati nel 12, 28 e 33. Genitori di Vaan morti cinque anni prima; Kel e Doran sono i fratelli di Penelo, morti o dispersi nella guerra.
+- Riprese: cortile della pompa, cucchiaio piegato, stanza sopra Migelo, fascia di Reks sulla sinistra di Basch. Unico ultimo richiamo a «quello che guarda i tetti» e alla ciocca.
+- La fiducia arriva dopo il riconoscimento delle cure date a Reks; Basch non assegna al ragazzo un'assoluzione. Modellino e riparazione del tetto sono ricordi locali, senza ritorni obbligatori.
+- Il letto di Reks resta inutilizzato da Vaan: nel 26 si siede sulla cassapanca, con il pagliericcio ancora a terra. Conservato il primo ritorno sul letto riservato al 101.
+
+## Cap. 27
+- Fonti: `file06`, XI-XII. Vaan offre la pietra come prezzo, Balthier accetta il patto ma gliela lascia fino a Bhujerba: il possesso materiale resta coerente con i capitoli 30-36.
+- Nono è nominato e imbarcato, con il motore di babordo già richiesto dal 28. Primo volo, senza anticipare l'arrivo alla città celeste.
+- L'accesso viaggiatori dall'aerodromo occidentale comunica con i magazzini meridionali: raccorda la fonte con la voce sulla nave presso la Porta Sud del 18.
+- Riletta la Parte III completa; aggiunte circoscritte ai capitoli richiesti. Nessun aggiornamento agli agganci condivisi, per il vincolo espresso dell'incarico.
+
+FINE PARTE

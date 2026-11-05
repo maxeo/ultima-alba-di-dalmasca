@@ -66,3 +66,13 @@
 - Larsa: "Con il suo nome. Gli sarebbe piaciuto"; poi parla con la sua voce, assume il comando, "servitelo con la pace".
 - Ashe a Ondore "come regina di Dalmasca"; Ondore: "Sì, maestà", prima volta. Pianto con l'elenco dei morti (Vossler compreso, che la portò per la via dei Calderai, cap. 51).
 - Chiusura: Bahamut scende verso Rabanastre.
+
+## Cap. 110
+- Fonti: `file37`, XIV-XVI; letti integralmente 108-109 e riletta la Parte XIII. Zargabaath prepara il sacrificio dell'Alexander, poi sospende l'urto quando parla Balthier.
+- Ritorna il giornale dell'ordine di Vayne, che Zargabaath ha portato via nel 102: la rettifica si aggiunge senza cancellare l'ordine precedente.
+- Balthier e Fran passano dal pilone del 108 al vano di distribuzione interno. Le riparazioni spostano la traiettoria e salvano Rabanastre; non salvano Bahamut.
+- Fran resta ferita e soccorsa, mai dichiarata morta. Il congegno della voce rimane sulla Strahl; la salvezza dei pirati resta senza conferma fino al 112.
+- Per il regista, senza toccare capitoli esistenti: il 104 attribuisce otto braccia a Gilgamesh e il 103 descrive Ondore robusto e barbuto; contrastano con `revisioni/aspetto.md`. I capitoli nuovi non ripetono quei dettagli.
+- I normali capitoli d'azione della consegna sono compressi per conservare una sola conseguenza narrativa per scontro; i quattro Espansi rispettano la soglia prevista. Nessun file di regia o capitolo preesistente modificato.
+
+FINE PARTE

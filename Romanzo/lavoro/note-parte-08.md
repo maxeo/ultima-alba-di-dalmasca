@@ -66,3 +66,12 @@
 - Scontro compresso: tre Giudici minori, uno si arrende ("ha una figlia ad Archades"). Ashe questa volta non manca: la Spada dei Re spegne la luce viola dove affonda.
 - Negalite nelle ossa: righe violacee lungo le ossa della mano. Balthier: "qualcuno che chiama tutto ricerca" (ripresa dal cap. 62).
 - Penelo chiede di Larsa; voce di Al-Cid in chiusura.
+
+## Cap. 73
+- Fonti lette integralmente: `file25`, V-VII; doppia numerazione della sezione V riconosciuta, senza ripetere lo scontro già nel 72. Letti 71, 72 e 74, poi riletta la Parte VIII.
+- Al-Cid resta galante anche ferito; conferma Larsa partito con Gabranth prima della violenza di Bergan. Ashe rifiuta Rozarria per cercare il Crepuscolo a Draklor.
+- Non viene anticipata la parentela Balthier-Cid: il disagio del pirata riguarda il ritorno ad Archades, senza spiegarlo.
+- Lutto concreto sui gradini, accoliti e Kiltias; ritrovata viva la donna dei Fratelli Haddur col bambino, cui Vaan restituisce la scarpa del 71.
+- La scelta immediata è scendere a Nalbina e valutare i passaggi terrestri. Il dettaglio completo di Mosfora, Halny, Salika e Costa Phon resta alla scena già presente nel 74.
+
+FINE PARTE
