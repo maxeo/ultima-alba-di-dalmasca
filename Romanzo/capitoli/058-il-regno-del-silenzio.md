@@ -1,4 +1,4 @@
-# Parte VII. Le figlie del Bosco
+# Parte VI. Le figlie del Bosco
 
 ## 58. Il regno del silenzio
 

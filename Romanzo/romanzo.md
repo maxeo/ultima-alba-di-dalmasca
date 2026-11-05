@@ -2,7 +2,7 @@
 
 *Romanzo di fan tratto da Final Fantasy XII. Opera non ufficiale e non commerciale. Trama, personaggi e mondo appartengono a Square Enix.*
 
-# Parte I. Il crepuscolo di Dalmasca
+# Prologo. Il crepuscolo di Dalmasca
 
 *Le nozze della principessa Ashelia con il principe Rasler di Nabradia furono, prima di ogni altra cosa, un atto di prudenza. Due case antiche e due regni piccoli, stretti fra potenze che non conoscevano misura, scelsero di presentarsi al mondo come una cosa sola. Re Raminas, mio amico di lunga data, me ne scrisse con la sobrietà che gli era propria: un confine in comune, scriveva, si difende meglio se lo si chiama famiglia.*
 
@@ -1086,7 +1086,7 @@ Lei si asciugò le mani nel grembiule e lo guardò dall'alto in basso, benché f
 «Io l'ho vista ballare, quella ragazza» disse. «Ha ballato tutta la notte con un pugno chiuso, per non perdere un anello che le stava largo. Una che tiene stretto così una cosa che le scappa non si ammazza per la prima disgrazia.» Chiuse l'anta della dispensa. «Il marchese scrive bene. Ma alle nozze non c'era.»
 
 
-# Parte II. Il ladro di Rabanastre
+# Parte I. Il ladro di Rabanastre
 
 ## 7. Due anni dopo
 
@@ -3256,7 +3256,7 @@ Vayne la guardò ancora un momento. Poi si raddrizzò, tolse le mani dal parapet
 «Portateli su» disse. «Tutti e quattro. E siate cortesi: la città, stamattina, ha bisogno di vedere che siamo cortesi.»
 
 
-# Parte III. Le segrete e il traditore
+# Parte II. Le segrete e il traditore
 
 *Del capitano Basch fon Ronsenburg ho scritto altrove, e non intendo ripetermi. Basti ricordare che fu processato dal tribunale militare della guarnigione di Nalbina nell'autunno del 704, riconosciuto colpevole dell'assassinio di re Raminas e giustiziato pochi giorni dopo la sentenza. Non assistetti all'esecuzione. Ne ebbi notizia da un dispaccio ufficiale, che conservo, e non ho motivo di dubitare di quanto vi si legge.*
 
@@ -5388,7 +5388,7 @@ Le mura si fecero piccole. Il deserto venne incontro allo scafo e scivolò sotto
 Si tolse la pietra dal collo e la ripose nella sacca, dove non avrebbe urtato il vetro se si fosse sporto. Poi tenne gli occhi sulla rotta che Fran aveva tracciato davanti a sé.
 
 
-# Parte IV. La città celeste e il Leviatano
+# Parte III. La città celeste e il Leviatano
 
 ## 28. L'esca
 
@@ -7949,7 +7949,7 @@ A un certo punto, molto più tardi, quando il sole era già alto, Vaan la vide a
 E Vaan, che non avrebbe saputo dire perché, distolse gli occhi.
 
 
-# Parte V. Il sepolcro del Re Dinasta
+# Parte IV. Il sepolcro del Re Dinasta
 
 *Mia nipote rimase mia ospite a Bhujerba per tutta quella stagione. La ricevetti, dopo le traversie che è inutile qui ricordare, con l'affetto che le dovevo e con la prudenza che dovevo al mio paese, e non ebbi mai ragione di pentirmi di nessuna delle due. Era stanca. Aveva bisogno di riposo, di consiglio e di tempo, e io potevo offrirle tutte e tre le cose. Le offrii.*
 
@@ -10566,7 +10566,7 @@ La Strahl passò sopra le mura al buio. Nella Città Bassa erano ancora accese l
 La principessa gli chiese una stanza. Il vecchio la precedette nel corridoio senza domandare il nome da usare. Dietro di lei Basch si fermò sulla soglia, contò i compagni ed entrò per ultimo.
 
 
-# Parte VI. La spada di una regina
+# Parte V. La spada di una regina
 
 ## 51. Il ricordo di Nabudis
 
@@ -11791,7 +11791,7 @@ Gabranth abbassò la testa. Lo fece adagio, l'elmo scuro con le sue corna di met
 «Te lo prometto» disse.
 
 
-# Parte VII. Le figlie del Bosco
+# Parte VI. Le figlie del Bosco
 
 ## 58. Il regno del silenzio
 
@@ -12827,7 +12827,7 @@ Fran camminò per un tratto senza rispondere. Poi, senza girarsi, gli mise una m
 Vaan non disse più niente fino a sera, e quella sera, accanto al fuoco, fu lui a passare a Fran la parte più grande.
 
 
-# Parte VIII. Il santuario fra le nuvole
+# Parte VII. Il santuario fra le nuvole
 
 *L'imperatore Gramis morì nel suo letto, a palazzo, mentre io armavo le mie navi. Il Senato di Archades ne diede notizia con la sobrietà che gli era abituale: un malore, poi un'indagine, poi una confessione. Il presidente Gregoroth, che per molti anni avevo stimato come uomo di legge, fu riconosciuto colpevole di aver avvelenato il sovrano e si tolse la vita prima del processo. La successione passò al principe Vayne senza disordini.*
 
@@ -14509,7 +14509,7 @@ La donna la guardò. La prese. La infilò al piede del bambino, adagio, come si 
 Poi Vaan raggiunse gli altri, e la compagnia, in sei, scese dal monte sacro verso sud, verso Paramina e Nalbina, e oltre Nalbina verso l'Impero. Nessuno parlò per un lungo tratto. Ma Penelo, che camminava accanto a lui, gli prese la mano dentro il guanto di lana, e questa volta Vaan la strinse per primo.
 
 
-# Parte IX. La strada per Archades
+# Parte VIII. La strada per Archades
 
 ## 74. Le montagne che separano i regni
 
@@ -15945,7 +15945,7 @@ Balthier non distolse gli occhi dal vetro.
 Il conducente accelerò. Fran, dall'altra parte, posò una mano sul bracciolo accanto a quella di Balthier, senza toccarla. Lui guardò la mano, poi di nuovo il vetro. La navetta andò dritta verso Draklor sotto un cielo che cominciava a scurirsi.
 
 
-# Parte X. Draklor e Balfonheim
+# Parte IX. Draklor e Balfonheim
 
 *Mi è stato rimproverato, in anni più quieti, di aver cercato per la Resistenza un'arma pari a quella dell'Impero. Rispondo qui, una volta per tutte, a quel rimprovero. La forza della nostra causa non stava nelle pietre, che lasciavo volentieri ai sapienti di Archades e alle loro superbie, ma nelle navi, negli uomini e nella giustizia di ciò che chiedevamo. Non domandai mai a nessuno di procurarmi la Negalite. Ebbi corrispondenza, è vero, con capitani di ventura e signori di porti che la storia ufficiale preferisce non nominare; con uno di loro, in particolare, mi legò una stima che durò fino alla sua morte. Ma ciò che ci dicemmo riguardava le rotte, il grano e la sorte dei profughi. Il resto appartiene ai pettegolezzi di chi non c'era.*
 
@@ -16577,7 +16577,7 @@ Balthier guardò. Vaan stava esattamente come stava lui sul ponte della *Strahl*
 Dalla finestra della casa sotto il faro, sulla collina, Reddas guardò la barca uscire dalla baia fra i due promontori. Quando la vela fu un punto bianco sul mare grigio dell'alba, chiuse la finestra, tornò al tavolo, e tirò fuori da sotto la camicia i fogli piegati presi sulla scrivania di Cid. Li spiegò sotto la lampada. In cima al primo c'era un disegno a penna: una torre, molto alta, su una costa. Sotto, nessun nome.
 
 
-# Parte XI. Il Grande Cristallo
+# Parte X. Il Grande Cristallo
 
 ## 85. La foresta che inghiotte la verità
 
@@ -17519,7 +17519,7 @@ Dietro di lui Venat non rispose. Si era già dissolto, e il suono di bicchiere s
 Nel corridoio, a tre sale di distanza, un ragazzo di dodici anni camminava accanto a un Giudice Magister, parlando a bassa voce della principessa di Dalmasca e di quanto fosse testarda, e il Giudice lo ascoltava senza dire niente, con l'elmo chiuso, adeguando il suo passo pesante al passo corto del principe.
 
 
-# Parte XII. Il Faro di Ridorana
+# Parte XI. Il Faro di Ridorana
 
 ## 91. Due spade e un destino
 
@@ -19270,7 +19270,7 @@ La Strahl si alzò sul porto di Balfonheim per l'ultima volta prima della fine, 
 
 
 
-# Parte XIII. L'ultima alba di Dalmasca
+# Parte XII. L'ultima alba di Dalmasca
 
 *La battaglia del cielo di Rabanastre è stata narrata molte volte, e quasi sempre da chi non c'era. Io c'ero, sul ponte della Garland, e posso dire almeno questo: che la flotta della Resistenza tenne la posizione con un ordine che nessuno si aspettava da navi raccolte in fretta da tre nazioni, e che il popolo della capitale attese l'esito dietro le proprie mura con una compostezza degna della sua storia.*
 

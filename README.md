@@ -12,19 +12,19 @@ Il testo completo è in [`Romanzo/romanzo.md`](Romanzo/romanzo.md): circa 320.00
 
 | Parte | Titolo | Capitoli |
 |---|---|---|
-| I | Il crepuscolo di Dalmasca | 1-6 |
-| II | Il ladro di Rabanastre | 7-17 |
-| III | Le segrete e il traditore | 18-27 |
-| IV | La città celeste e il Leviatano | 28-39 |
-| V | Il sepolcro del Re Dinasta | 40-50 |
-| VI | La spada di una regina | 51-57 |
-| VII | Le figlie del Bosco | 58-63 |
-| VIII | Il santuario fra le nuvole | 64-73 |
-| IX | La strada per Archades | 74-81 |
-| X | Draklor e Balfonheim | 82-84 |
-| XI | Il Grande Cristallo | 85-90 |
-| XII | Il Faro di Ridorana | 91-100 |
-| XIII | L'ultima alba di Dalmasca | 101-110 |
+| Prologo | Il crepuscolo di Dalmasca | 1-6 |
+| I | Il ladro di Rabanastre | 7-17 |
+| II | Le segrete e il traditore | 18-27 |
+| III | La città celeste e il Leviatano | 28-39 |
+| IV | Il sepolcro del Re Dinasta | 40-50 |
+| V | La spada di una regina | 51-57 |
+| VI | Le figlie del Bosco | 58-63 |
+| VII | Il santuario fra le nuvole | 64-73 |
+| VIII | La strada per Archades | 74-81 |
+| IX | Draklor e Balfonheim | 82-84 |
+| X | Il Grande Cristallo | 85-90 |
+| XI | Il Faro di Ridorana | 91-100 |
+| XII | L'ultima alba di Dalmasca | 101-110 |
 | | Epilogo | 111-112 |
 | | Appendice apocrifa | 113 |
 

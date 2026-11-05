@@ -1,4 +1,4 @@
-# Parte XI. Il Grande Cristallo
+# Parte X. Il Grande Cristallo
 
 ## 85. La foresta che inghiotte la verità
 

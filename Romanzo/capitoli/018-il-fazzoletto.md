@@ -1,4 +1,4 @@
-# Parte III. Le segrete e il traditore
+# Parte II. Le segrete e il traditore
 
 *Del capitano Basch fon Ronsenburg ho scritto altrove, e non intendo ripetermi. Basti ricordare che fu processato dal tribunale militare della guarnigione di Nalbina nell'autunno del 704, riconosciuto colpevole dell'assassinio di re Raminas e giustiziato pochi giorni dopo la sentenza. Non assistetti all'esecuzione. Ne ebbi notizia da un dispaccio ufficiale, che conservo, e non ho motivo di dubitare di quanto vi si legge.*
 

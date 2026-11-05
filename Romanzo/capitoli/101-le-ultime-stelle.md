@@ -1,4 +1,4 @@
-# Parte XIII. L'ultima alba di Dalmasca
+# Parte XII. L'ultima alba di Dalmasca
 
 *La battaglia del cielo di Rabanastre è stata narrata molte volte, e quasi sempre da chi non c'era. Io c'ero, sul ponte della Garland, e posso dire almeno questo: che la flotta della Resistenza tenne la posizione con un ordine che nessuno si aspettava da navi raccolte in fretta da tre nazioni, e che il popolo della capitale attese l'esito dietro le proprie mura con una compostezza degna della sua storia.*
 

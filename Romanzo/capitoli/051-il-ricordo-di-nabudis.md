@@ -1,4 +1,4 @@
-# Parte VI. La spada di una regina
+# Parte V. La spada di una regina
 
 ## 51. Il ricordo di Nabudis
 

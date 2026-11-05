@@ -1,4 +1,4 @@
-# Parte IX. La strada per Archades
+# Parte VIII. La strada per Archades
 
 ## 74. Le montagne che separano i regni
 

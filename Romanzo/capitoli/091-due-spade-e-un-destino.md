@@ -1,4 +1,4 @@
-# Parte XII. Il Faro di Ridorana
+# Parte XI. Il Faro di Ridorana
 
 ## 91. Due spade e un destino
 

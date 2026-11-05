@@ -1,4 +1,4 @@
-# Parte II. Il ladro di Rabanastre
+# Parte I. Il ladro di Rabanastre
 
 ## 7. Due anni dopo
 
