@@ -66,3 +66,18 @@
 - Scontro compresso: tre Giudici minori, uno si arrende ("ha una figlia ad Archades"). Ashe questa volta non manca: la Spada dei Re spegne la luce viola dove affonda.
 - Negalite nelle ossa: righe violacee lungo le ossa della mano. Balthier: "qualcuno che chiama tutto ricerca" (ripresa dal cap. 62).
 - Penelo chiede di Larsa; voce di Al-Cid in chiusura.
+
+## Cap. 73
+- Al-Cid ferito, retto da Tavina (inventata, una delle sue accompagnatrici); galante anche a metà inchino (fix 2, `file32:1522` vale come tratto). Racconto: Zargabaath cortese, Gabranth con i due ordini, Larsa sale sulla nave per non far combattere in un luogo sacro; Bergan scende dopo. Anastasis rifiuta di fuggire.
+- Proposta di Rozarria e rifiuto di Ashe; Balthier indica Draklor e il dottor Cid, nominato da Ghis sul Leviatano. Messaggio di Larsa riferito da Al-Cid.
+- Strada a piedi: Nalbina, Mosfora, Salika, Costa Phon (Fran). La Strahl resta a Rabanastre. Raccorda con l'apertura del cap. 74 (borgo di Nalbina, spada nella coperta).
+- Lutto sui gradini (fix 3, `file25:610`): accoliti e Kiltias sotto la pioggia, candele spente, ciotola vuota; Ashe fa portare un lenzuolo per Anastasis.
+- Ritrovata la donna della tenda Haddur con il bambino scalzo; Vaan le riporta la scarpa.
+
+## Chiusura della Parte VIII
+- Riletta per intero. Accenni alle fonti limitati ai cap. 65 e 68; tolto un intervento del narratore su se stesso al cap. 68 e uno al cap. 69.
+- Lunghezze: 64: 3.250; 65: 1.850; 66: 1.500; 67: 2.000; 68: 2.600; 69: 2.450; 70: 3.850 (espanso, sotto i 4.000); 71: 1.950; 72: 2.300; 73: 2.700.
+- Gag della Parte: moguri delle pellicce e stivali foderati, le tre spiegazioni delle isole sospese, "dorme?", Al-Cid e "uno come me ma con più soldi", i Giudici che "non sudano".
+- Elder Wyrm, Vinuskar e i corridoi di Miriam tagliati; Mateus in un paragrafo; Relj non citato.
+
+FINE PARTE
