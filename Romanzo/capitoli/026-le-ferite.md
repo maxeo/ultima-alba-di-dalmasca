@@ -276,6 +276,26 @@ Il capitano non gli chiese dove fosse il resto. Si rimise seduto. Vaan andò all
 
 Vaan si passò le dita sulla nuca. Era vero: aveva aperto lui la cassapanca. Guardò il modellino ancora un istante, poi lo lasciò sul tavolo. Il capitano non aggiunse nulla, e quel niente gli consentì di tornare alla cassapanca e sedersi senza dover rimettere tutto via.
 
+Ma la cassapanca era rimasta aperta, e sotto la sciarpa, sotto il posto dove era stato il modellino, c'era un'altra cosa. Vaan la guardò per un momento con le mani sulle ginocchia, come si guarda un gradino prima di salirlo con una gamba che fa male. Poi la tirò fuori.
+
+Era la giubba. Di tela azzurra, quella nuova, con le cuciture ancora rigide dove non si erano consumate, piegata in quattro come l'aveva piegata Penelo il giorno che l'avevano lavata nel cortile del pozzo. Vaan la aprì sulle ginocchia. Aveva una manica sola. Dall'altra parte, alla spalla, la cucitura era strappata di netto, con i fili tirati tutti nella stessa direzione: non la sfilacciatura di una cosa che si è consumata, ma lo strappo di una cosa che qualcuno ha tirato, una volta, forte, apposta.
+
+«L'ho lavata io» disse. «Pensavo che si fosse rotta combattendo. Pensavo che gliel'avessero strappata. Non ci ho pensato più.» Passò il pollice sui fili tirati. «Poi tu, a Barheim, hai detto il nodo.»
+
+Basch guardò la giubba. Non allungò la mano. La guardò come aveva guardato la spada del ferroviere, prima di prenderla: a lungo, per capire quanto fosse cambiata, e la giubba non era cambiata affatto, ed era questo che non si poteva guardare a lungo.
+
+«Era nuova» disse il capitano. «Gliel'avevano data il giorno prima. Si vedeva. Teneva le spalle dritte per non stropicciarla.»
+
+«Si era messo la camicia buona sotto. Per partire.» Vaan quasi rise. «Penelo gli aveva detto che con la camicia buona sotto la divisa sembrava un ufficiale. Lui ci ha creduto.»
+
+«Sembrava un ufficiale.»
+
+Vaan alzò gli occhi.
+
+«Sul cammino di ronda» disse Basch. «Quando è rimasto in piedi. Non sembrava un ragazzo, lassù. Sembrava uno che sa perché è lì.» Si fermò. «Te lo dico perché è vero, non per farti piacere.»
+
+Vaan ripiegò la giubba. Lo fece con cura, con i lati della manica mancante dentro, perché non si vedessero, e poi, a metà, cambiò idea: la riaprì e la ripiegò con la spalla strappata in alto, sopra, in vista. La rimise nella cassapanca così. Non chiuse il coperchio.
+
 «Mi parlava di te prima di partire» disse. «Ti ho già detto anche questo, lo so.»
 
 Basch aspettò.
