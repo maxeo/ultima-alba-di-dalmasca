@@ -8,6 +8,8 @@ Balthier guardò oltre il serbatoio. Sul ponte successivo due figure stavano gi�
 
 «Gli Urutan-Yensa» disse. «I padroni di casa.»
 
+I trattati di Archades e di Rozarria, che si spartirono quel mare due volte sulla carta, non nominano gli Urutan-Yensa nemmeno una volta. Gli Urutan-Yensa, che non firmarono nessuno dei due, ricambiarono il disinteresse per quarant'anni con una tenacia ammirevole, e nel frattempo le raffinerie chiusero.
+
 Vossler aveva appena raggiunto Ashe. «Ondore non potrà tenere nascosta la vostra partenza per sempre.»
 
 «Hai trovato un altro modo?» domandò lei.
@@ -165,5 +167,37 @@ Vaan raccolse le bacche in una pezza. Le teneva con la cura che avrebbe avuto pe
 Ripartirono lungo il margine roccioso. Vossler prese la testa della colonna, Basch rimase accanto ad Ashe. Lei aveva la mano chiusa sulla fede e guardava il terreno. Dopo un tratto disse al capitano: «Lo ha fatto per il suo popolo.»
 
 Basch non le chiese di chi parlasse. «Sì.»
+
+Ashe camminò ancora per un tratto. «Mio padre diceva che i re di Dalmasca non hanno mai bruciato nessuno» disse. «Lo diceva come un merito. Adesso mi chiedo se non lo dicesse come una scusa.»
+
+Basch non rispose. Non c'era niente da rispondere che lei non sapesse già.
+
+---
+
+Quella sera si accamparono in una cavità della roccia, dove il vento non arrivava. Penelo contò le bacche Eksir nella pezza di Vaan, dodici, e le rimise a posto contandole di nuovo, undici, e rimase un momento a guardarle con la faccia di una bottegaia che ha sbagliato il resto, finché Vaan non confessò di averne assaggiata una. Era amara. Gli aveva fatto lacrimare gli occhi per un quarto d'ora. Penelo disse che gli stava bene.
+
+Balthier e Fran si erano seduti un poco in disparte, all'imbocco della cavità, dove la luce del fuoco non arrivava e si vedeva il mare di sabbia sotto la luna, grigio e mosso, con le torri delle raffinerie nere contro il cielo.
+
+«Il capitano» disse Fran.
+
+«Quale dei due? Ne abbiamo una collezione.»
+
+«Quello bruno.» Fran non guardava il fuoco, dove Vossler stava affilando la spada con una pietra, piano, colpi lunghi e regolari. «Sulla raffineria. Ha chiesto all'altro quanto vale la pietra della tomba. Per Archades. Per Rozarria. Per chi la tiene quando arriva la guerra.»
+
+Balthier non rispose subito. Prese un sasso, lo soppesò, lo lanciò giù verso il mare, e il mare se lo prese senza un suono.
+
+«Un soldato» disse alla fine «chiede quanto vale una cosa per sapere quanto costerà difenderla. Un mercante, per sapere quanto potrà ricavarne. Me lo insegnò un tale, molto tempo fa, in un posto pieno di gente che faceva tutte e due le cose.» Si strinse nelle spalle. «Il guaio, Fran, è che la domanda è la stessa. Cambia soltanto chi la fa.»
+
+«E lui chi è?»
+
+«Un uomo che ha portato una principessa nelle cantine per due anni senza farsi trovare.» Balthier guardò il fuoco, Vossler, la pietra che andava avanti e indietro sulla lama. «È un uomo molto bravo a fare quello che crede giusto. È la categoria che mi spaventa di più.»
+
+Fran ci pensò. «Lo dico a Basch?»
+
+«Basch lo sa già. Non lo vuole sapere. È diverso.» Il pirata si sdraiò sulla roccia con le mani dietro la testa. «Teniamo gli occhi aperti, e le orecchie, e le tue funzionano meglio delle mie. E speriamo di sbagliarci. Mi succede di rado, ma quando succede è sempre una festa.»
+
+Accanto al fuoco, Vossler finì di affilare la spada. La guardò controluce, la rinfoderò, e si voltò verso l'imbocco della cavità, dove i due pirati stavano zitti nel buio. Li guardò per un momento. Poi si stese con la schiena contro la roccia e chiuse gli occhi, e Fran, che lo stava ascoltando respirare, sentì che non dormiva.
+
+---
 
 Più avanti la carta degli Ondore finiva di segnare passerelle. Le rocce si stringevano, formando una gola che nascondeva il sole. Vaan mise le bacche al sicuro nella sacca e passò per primo fra le pareti.
