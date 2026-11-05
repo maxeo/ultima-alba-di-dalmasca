@@ -1,391 +1,223 @@
 ## 23. Il volto del traditore
 
-Nel guardaroba del capostazione erano rimasti tre chiodi, un paio di calzoni e una giacca senza maniche. Il capostazione, chiunque fosse stato, aveva avuto la prudenza di andarsene prima della ferrovia e la disgrazia di essere più basso di Basch. I calzoni arrivavano sopra gli stivali. La giacca tirava sotto le ascelle. Balthier guardò il risultato dalla porta e disse che, per un uomo ufficialmente morto, il capitano non poteva pretendere un sarto.
+La stazione si chiamava Barheim Bassa, e lo diceva ancora una tavola di legno inchiodata sopra la porta del casotto del capostazione, con le lettere dipinte di bianco che il tempo aveva fatto diventare grigie. Sotto, più piccolo, c'era l'orario dell'ultima corsa. Nessuno l'aveva mai cancellato. Diceva che il convoglio per Nalbina partiva al terzo rintocco, e che i passeggeri erano pregati di non portare a bordo animali vivi. Erano trent'anni che nessun convoglio partiva al terzo rintocco, e trent'anni che nessuno portava animali vivi da nessuna parte, là sotto. Ma l'orario era ancora lì.
 
-Basch stese gli stracci della prigione su una panca. Li ripiegò prima di posarli, un gesto così assurdo in quel posto che Vaan si fermò a guardarlo. Due anni di sporco, il sangue secco ai polsi, il tessuto consumato dalle sbarre: tutto ridotto a un piccolo rettangolo. Poi il capitano si legò i capelli con una striscia ricavata dall'orlo e si bagnò il viso nella vaschetta sotto una conduttura. L'acqua, dopo, era nera.
+Nel casotto c'erano degli armadietti. Li aprì Balthier, uno dopo l'altro, con la cura di chi apre i regali di un parente povero, e dentro trovò quello che si trova negli armadietti di una stazione chiusa in fretta: una giacca di tela con le toppe ai gomiti, un paio di stivali spaiati, una pipa, una scatola di latta con dentro tre bottoni e un dado, un calendario di trent'anni prima con un'attrice di Bhujerba che sorrideva da un'altalena. In quello in fondo, dietro una tenda mangiata dalle tarme, c'era una spada. Era una spada da guardia ferroviaria, lunga e dritta, con l'elsa semplice e il fodero di cuoio indurito, e quando Balthier la sfilò la lama venne fuori pulita, appena opaca, ancora affilata.
 
-Erano arrivati a un posto di servizio sopra i binari. Dalle finestre senza vetri si vedeva la linea scendere verso la grande sala dove Fran aveva sentito il Mystes raccogliersi; una frana aveva ostruito il percorso diretto e li aveva costretti a risalire una scala laterale. Qui le lampade reggevano. La porta aveva un chiavistello. In fondo alla stanza una freccia dipinta indicava l'uscita di manutenzione, ma oltre la soglia c'era soltanto un altro corridoio, e oltre il corridoio ancora montagna. Fran lo aveva percorso fino alla curva e ne era tornata senza fretta.
+Balthier la guardò. Poi la tese a Basch, dall'elsa.
 
-«Bisogna passare dalla sala» disse.
+«Credo che sia più adatta a voi che a me» disse. «Io preferisco le cose che fanno rumore.»
 
-«Naturalmente.» Balthier si tolse da una scarpa un pezzo di ghiaia. «Non sia mai che qualcuno abbia scavato una porta per uscire da una porta.»
+Basch la prese. Lasciò cadere fra i binari la spada arrugginita della gabbia, che fece un suono stonato, e si allontanò di qualche passo verso il filo d'acqua che scendeva dalla volta, dove la luce verde delle lampade era più forte. Si tolse quello che restava della camicia di prigione. Vaan vide la schiena, e distolse gli occhi, e poi non li distolse più: era una schiena magra, con le vertebre che sporgevano come i nodi di una corda, e sopra le vertebre, di traverso, dalle spalle alle reni, c'erano dei segni. Vecchi. Bianchi. Alcuni più vecchi di altri. Basch non li nascose e non li mostrò. Si lavò sotto il filo d'acqua, a lungo, le braccia, la faccia, la nuca, i polsi dove i ferri avevano tolto la pelle, con l'attenzione lenta di chi non lo fa da molto tempo. Poi si infilò la giacca di tela con le toppe ai gomiti, che gli stava larga.
 
-«Possiamo fermarci qui.» Fran guardò Basch. «Poco.»
+Poi prese la spada.
 
-Vaan non si sedette. Era stato lui a prendere il corridoio di servizio, lui a scoprire il guardaroba e il rubinetto, e aveva una rabbia precisa contro quel poco di riposo che si erano guadagnati. Il riposo avrebbe dato spazio alla promessa fatta da Basch presso il filo d'acqua. Aveva contato i passi per allontanarsene; ora la galleria finiva e la promessa era ancora lì.
+La tenne con tutte e due le mani, all'inizio, bassa, e la guardò come si guarda una persona che non si vede da anni per capire quanto è cambiata. La sollevò. La fece girare una volta, lentamente, un cerchio intero sopra la testa e giù, e la lama fischiò nell'aria umida della stazione. La fece girare di nuovo, più svelta. Poi cominciò a muoversi: un passo avanti, un fendente, un passo di lato, una parata alta, un affondo, un ritorno. Non erano i movimenti di un uomo che combatte. Erano i movimenti di un uomo che ricorda. A ogni passo il fiato gli si faceva più corto, e le braccia gli tremavano un poco, e una volta, girandosi, dovette fermarsi e piantare la punta della spada a terra e appoggiarcisi; ma dopo un momento ricominciò, e i movimenti tornarono, uno dopo l'altro, come le parole di una preghiera imparata da bambini che la bocca ritrova da sola.
 
-Il capitano riprese la spada arrugginita. Sulla rastrelliera aveva trovato una cote, una pietra grigia con una scanalatura profonda nel mezzo. Si sedette a cavalcioni della panca e cominciò a passarla lungo il filo. Il rumore era piccolo, regolare. Ogni tanto si fermava per tastare un punto con il pollice. La lama non sarebbe tornata buona, ma un oggetto sciupato si può ancora trattare con riguardo, e Basch conosceva quel lavoro meglio di qualunque altro.
+Fran guardava, con le orecchie dritte. Balthier guardava, appoggiato allo stipite del casotto, con le braccia incrociate. Vaan guardava anche lui, perché non riusciva a non guardare, e la cosa lo faceva arrabbiare più di tutto il resto.
 
-«Tieni il gomito troppo alto» disse Vaan.
+Basch si fermò. Abbassò la spada. Aveva la fronte bagnata, e non era l'acqua.
 
-Basch alzò gli occhi.
-
-«Quando combatti. Te l'ho visto fare, prima.»
-
-Il capitano guardò il proprio braccio destro, poi posò la cote. Si alzò, fece un passo per liberarsi della panca e portò la lama davanti a sé. Provò un affondo corto. Il gomito rimase basso. Nel secondo movimento la gamba gli cedette appena e lui dovette allargare il piede per recuperare l'equilibrio.
-
-«È la spalla» disse. «Mi manca forza per tenerla ferma.»
-
-Vaan avrebbe preferito che si offendesse. Guardò la parete, dove qualcuno aveva scritto con un carboncino il peso massimo di un carrello. Aveva una certa esperienza di uomini grossi che fingono di non essere stanchi, i facchini di Migelo facevano così ogni giorno; Basch aveva risposto con la semplicità con cui uno di loro avrebbe chiesto una mano con un sacco.
-
-«La memoria è buona, capitano» disse Balthier.
+«Notevole» disse Balthier. «Davvero. Due anni in una scatola di ferro appesa sopra un pozzo, e la spada vi ricorda ancora. Non è una cosa che si vede spesso, capitano.»
 
 «Non chiamarlo così.»
 
-Balthier si girò verso Vaan. «Conosci un titolo più breve?»
+Vaan non aveva deciso di dirlo. Era seduto su una panca di pietra della stazione, sotto l'orario dell'ultima corsa, con la sua spada sulle ginocchia, e la frase gli era uscita da sola, a voce bassa, e adesso che era fuori non poteva rimetterla dentro.
 
-«Traditore.»
+Balthier si voltò. «Come, prego?»
 
-La cote smise di raschiare. Basch l'aveva ripresa, e ora la teneva ferma sulla lama. Fran, presso la finestra, voltò un orecchio verso i binari. Nessuno fece segno a Vaan di abbassare la voce.
+«Capitano. Non chiamarlo capitano.» Vaan alzò la testa. «Non è un capitano. Il suo titolo è un altro. Lo sanno tutti, a Rabanastre. È scritto sui muri.» Guardò Basch, che non si era girato. «Traditore. Si chiama traditore.»
 
-«Lo hai già detto» rispose Balthier. «Molte volte, per un uomo che ha ascoltato una sola versione.»
+Balthier lo considerò per un lungo momento, con la testa un poco inclinata.
+
+«È quello che dicono» ammise. «Lo dicono i muri, lo dicono i fogli letti in piazza, lo dicono i bambini quando giocano. Lo dice anche il Giudice nella sua bella armatura, a quanto ho sentito.» Si strinse nelle spalle. «Ma io, sterminatore, a Nalbina non c'ero. Non l'ho visto ammazzare nessuno. Ho visto solo un uomo magro fare un esercizio con una spada trovata in un armadio. Mi permetterai di chiamarlo come mi pare, almeno finché non vedo il resto.»
 
 «Mio fratello c'era.»
 
-«Lo so.»
+Lo disse forte. La stazione glielo restituì dalla volta, dai binari, dal casotto, e il nome arrivò dopo, come un'eco più lenta.
 
-«Allora smettila di parlare come se non contasse.»
-
-Il pirata rimise il piede nella scarpa. Si alzò senza la sua consueta premura per i polsini e si spostò dalla porta, lasciandola libera. Vaan si accorse che avrebbe potuto andarsene. Nessuno lo tratteneva; il corridoio fuori era illuminato e poteva aspettare là, con l'acqua che gocciolava e la freccia sbagliata. Bastava fare tre passi. Restò.
-
-«Contava» disse Basch. «Per questo lo hanno lasciato vivo.»
-
-Vaan lo guardò. «Chi?»
-
-Il capitano depose la spada sulla panca. Prima di rispondere tirò la giacca nuova sul polso, dove il bordo sfregava la pelle mangiata dai ferri. «Gli uomini che mi aspettavano a Nalbina.»
-
-«Non hai detto che avresti parlato fuori di qui?»
-
-«Credevo che fossimo più vicini all'uscita.» Basch guardò la porta. «Posso aspettare ancora.»
-
-Vaan si appoggiò al muro. «Tanto non ci credo.»
-
-«Lo so.»
-
-Basch rimase in piedi. Avrebbe avuto bisogno della panca, ma sedersi davanti a quel ragazzo gli parve una comodità che non gli spettava. Posò soltanto la mano destra sul tavolo del capostazione. Sotto il palmo c'erano piccole bruciature tonde, lasciate forse da una pipa. Le sentì una per una mentre cercava il punto da cui cominciare.
+«Mio fratello c'era» ripeté Vaan. «Mio fratello l'ha visto.»
 
 ---
 
-«Tuo fratello ci raggiunse nell'atrio» disse. «Era ferito a un braccio. Gli chiesi se poteva proseguire e mi disse di sì. Non gli credetti subito.»
+Basch si girò.
 
-«Perché aveva diciassette anni.»
+Fu un movimento semplice, ma Vaan lo ricordò sempre, perché era la prima volta, da quando lo conosceva, che quell'uomo si girava verso di lui per sua scelta. Nella gabbia lo aveva guardato perché Vaan gli stava davanti; nella caverna lo aveva guardato perché Vaan gli era venuto addosso. Adesso si girò, con la spada abbassata e la giacca di un ferroviere morto addosso, e lo guardò, e c'era sulla sua faccia un'espressione che Vaan non aveva mai visto su nessuna faccia: come se qualcuno, dopo due anni, gli avesse detto finalmente una cosa che aspettava, e non fosse la cosa che sperava.
 
-«Perché perdeva sangue.» Basch attese che Vaan tornasse a guardarlo. «Mi disse che aveva un fratello. Quindici anni. Non voleva lasciarlo agli imperiali.»
+«Reks» disse Basch.
 
-Vaan premette la schiena contro la parete. Aveva sentito raccontare quella notte da guardie ubriache, da uomini che erano passati vicino a Nalbina tre mesi prima, perfino da un venditore che sosteneva di aver fornito il vino della resa. In tutti quei racconti Reks arrivava dopo il re, dopo Basch, dopo la guerra. Qui era entrato per primo e perdeva sangue da un braccio. Vaan guardò le mani del capitano per non doverne guardare la faccia.
+Il nome, nella sua bocca, era diverso. Vaan lo sentì e sentì la differenza, e non avrebbe saputo dire in che cosa consistesse. Lo diceva come si dice il nome di qualcuno con cui si è diviso il pane.
 
-«Nel cortile mi tagliarono la sinistra.» Basch girò il dorso della mano verso la luce. «Reks mi fece una fascia con la propria manica. Avevo detto di proseguire. Lui strappò il tessuto con i denti e mi ordinò di stare fermo.»
+«L'hai detto nella gabbia» continuò Basch. «L'ho sentito. Ma non ero sicuro di aver capito. Non ero sicuro che fosse quel Reks.» Fece un passo verso di lui, uno solo, e si fermò. «Un ragazzo alto. Chiaro di capelli. Diciassette anni. Era arrivato alla caserma dell'Ordine con una lettera di un mercante Bangaa che garantiva per lui e diceva che sapeva legare le casse meglio di chiunque. Era nei venti che ho portato a Nalbina.» Un'altra pausa. «Mi aveva parlato di un fratello. Uno più piccolo, rimasto a Rabanastre. Diceva che era insopportabile.»
 
-La giubba azzurra del sogno. La spalla nuda. Vaan avvertì un vuoto nello stomaco e lo riempì con la prima obiezione che trovò.
+Vaan non rispose. Aveva la gola chiusa.
 
-«Potevi averlo visto. La manica mancava quando lo hanno riportato. Lo sapevano tutti.»
-
-«Può darsi.»
-
-«Non è una prova.»
-
-«Non ti sto portando una prova.» Basch riabbassò la mano. «Ti sto dicendo dove ero.»
-
-La fortezza, raccontò, era più quieta di quanto avrebbe dovuto. Avevano attraversato porte lasciate aperte e corridoi da cui le sentinelle si erano ritirate. I feriti lungo le scale portavano colori dalmaschi. Nessuno veniva loro incontro con ordini del re. Basch aveva pensato che la resa fosse già stata imposta, e che la fretta fosse l'unica cosa rimasta da scegliere. Ora ricordava soprattutto le porte aperte. In prigione le aveva ripercorse molte volte, aggiungendone una a ogni notte in cui non riusciva a dormire.
-
-«Reks si fermò sulla scala» disse. «Arrivavano soldati alle nostre spalle. Volevo lasciargli due uomini. Lui disse che non c'era tempo.»
-
-«E tu lo hai ascoltato.»
+«Sei tu» disse Basch.
 
 «Sì.»
 
-«Era un ragazzo.»
+Basch annuì, piano, come chi conferma a se stesso un conto che aveva già fatto. Poi chiese la cosa che Vaan sapeva che avrebbe chiesto, la cosa che nella gabbia non aveva chiesto perché nella gabbia non c'era stato spazio per chiedere niente.
 
-«Era un mio soldato.»
+«Che cosa gli è successo?»
 
-Vaan si staccò dal muro. «È la stessa cosa che dici sempre. Un tuo soldato. Vuol dire che potevi lasciarlo lì?»
+«È morto.»
 
-Basch lo lasciò avvicinare. «Vuol dire che dovevo rispondere anche di lui.»
+Basch chiuse gli occhi. Li tenne chiusi il tempo di un respiro.
 
-«E sei andato avanti.»
+«Mi dispiace» disse.
 
-«Sono andato avanti.»
+«Non voglio che ti dispiaccia.» Vaan si alzò dalla panca. La spada gli scivolò dalle ginocchia e cadde sulla pietra con un rumore che nessuno raccolse. «Non me ne faccio niente del tuo dispiace. Te l'ho già detto, nella gabbia. Te l'ho detto tutto. Non sono venuto qui per sentirti dire che ti dispiace.» La voce gli si alzò. «L'hai ucciso tu. Sei stato tu. Lui ti seguiva perché eri tu, e tu l'hai ucciso.»
 
-Dietro Vaan si mosse Balthier, ma il capitano gli fece un segno minimo con la mano. Non aveva bisogno che qualcuno rendesse il racconto più tollerabile. I piedi gli facevano male, e la vergogna aveva un luogo altrettanto preciso, sotto lo sterno. Reks aveva tenuto la scala. Lui era passato. Tutte le spiegazioni che avrebbero seguito dovevano restare accanto a quel fatto.
+Basch non si mosse. Non distolse lo sguardo. Ma questa volta, diversamente dalla gabbia, parlò.
 
-Nell'anticamera del re gli imperiali li aspettavano dietro le porte laterali. Colpirono il primo uomo alla gola prima che potesse gridare. Basch riuscì a voltarli verso il corridoio, ma ne arrivarono altri, e altri ancora dalla stanza che credevano vuota. Gli presero il braccio ferito. Si ricordava il dolore più delle facce: una mano che torceva dove la fascia era bagnata, il colpo dietro il ginocchio, la pietra contro la guancia. Quando gli sollevarono il capo Raminas era nella sala oltre la soglia.
+«Ti dirò cosa è successo a Nalbina» disse. «Quella notte. Tutto quello che ho visto.»
 
-Il re non aveva l'armatura. Gli avevano lasciato il mantello e tolto la cintura. Basch vide quella mancanza con una chiarezza che lo tormentò più tardi: non gli avevano soltanto preso la spada, avevano provveduto a non lasciargli neppure un fodero vuoto. Provò a chiamarlo e un soldato gli schiacciò la bocca con il palmo.
+«Non mi interessa.»
 
-«Lo hai visto morire?» domandò Vaan.
+«Lo so.» Basch posò la spada contro la panca, accanto a quella di Vaan, e rimase in piedi con le mani vuote. «Non ti chiedo di credermi. Non ti chiederò niente, dopo. Ma tu mi hai detto quello che hai visto tu: un carro, un letto, un cucchiaio. Adesso io ti dico quello che ho visto io. Poi farai quello che vuoi.» Guardò Balthier, poi Fran, poi di nuovo Vaan. «Te lo devo. Lo devo a lui.»
 
-Basch annuì.
-
-«Chi lo ha ucciso?»
-
-«Un uomo con la mia faccia.»
-
-Vaan respirò dal naso. La rabbia gli dava un sollievo immediato, un posto dove mettere le mani. «Ah.»
-
-«Portava i miei colori. Aveva i capelli come li portavo io allora. Il re lo chiamò per nome.»
-
-«Naturalmente.»
-
-«Vaan.» Balthier pronunciò soltanto il nome. Il ragazzo si girò verso di lui con un movimento così violento che il pirata non aggiunse altro.
-
-«Era un incantesimo?» chiese Fran.
-
-«No.» Basch tolse la mano dal tavolo. Gli tremava, e non volle che il legno nascondesse il tremore. «Era mio fratello.»
-
-Nella galleria qualcosa urtò una rotaia. Fran si girò verso la finestra e rimase ad ascoltare. Il rumore non si ripeté. Nella stanza la lampada vibrava dentro la sua gabbia di vetro, e il piccolo filo luminoso proiettava due ombre della mano di Basch sulla parete. Vaan le guardò per un tempo che gli parve indecente.
-
-«Hai un fratello.»
-
-«Gemello.»
-
-Balthier si passò un pollice sul labbro. Il suo sguardo andò al viso del capitano, poi alla porta, come se stesse collocando nella stanza una seconda figura che fino a quel momento non aveva avuto motivo di immaginare.
-
-«Il Giudice» disse.
-
-Basch non gli chiese quale. «Sì.»
-
-Vaan rivide la nuca davanti alla gabbia. L'elmo sotto un braccio. Non aveva mai visto il volto dell'uomo; gli era bastata la voce a fargli male alle orecchie, e aveva dato la colpa al pozzo. Adesso la sentiva uscire da Basch, con meno metallo e lo stesso fondo ruvido. Si era spinto fin lì per gridare a un uomo che aveva ammazzato suo fratello, mentre un altro fratello risaliva le scale.
-
-«È molto comodo» disse.
-
-Basch abbassò il mento. «Lo capisco.»
-
-«No. Non lo capisci. Non basta dire lo capisco ogni volta che uno ti dice qualcosa.» Vaan cercò gli occhi del pirata. «Un gemello. Guarda caso. Uno uguale a lui, vestito come lui, che parla come lui. E lui nascosto dietro una porta dove nessuno poteva vederlo.»
-
-«Dove potevano tenermi fermo» disse Basch.
-
-«Nessuno che possa raccontarlo.»
-
-«Nessuno che io sappia vivo.»
-
-Vaan si voltò di nuovo. «E adesso dovremmo metterci a cercare anche quelli morti.»
-
-Balthier si avvicinò al tavolo e ne spostò una sedia con il piede. Non la offrì a nessuno; la mise semplicemente fra sé e Basch. «C'è un particolare che non è comodo per nessuno» disse. «A Nalbina tuo fratello si è tolto l'elmo. Ha mandato via i soldati e si è scoperto davanti a te. Molta premura per uno sconosciuto.»
-
-«Voleva che lo vedessi.»
-
-«Ti visita spesso?»
-
-«Abbastanza.»
-
-«Per sapere di Amalia?»
-
-Basch guardò Vaan, poi Balthier. «Per sapere quello che Vayne vuole sapere.»
-
-«E il resto?»
-
-Il capitano attese. Balthier non ritirò la domanda; non la ripeté nemmeno. Il filo nella lampada tremolò, si ravvivò. Infine Basch disse: «Il resto riguarda noi due.»
-
-Vaan emise un suono breve. «Certo. Quello non si racconta.»
-
-«Non ti direbbe nulla di Reks.»
-
-«Se tuo fratello lo ha...» La frase gli si fermò. Cercò di riprenderla e dovette cambiare parola. «Se è stato lui, come dici, allora mi riguarda.»
-
-Basch piegò la testa. «Di quella notte ti dirò tutto quello che ho visto.»
-
-Balthier fece scorrere un dito sul bordo della sedia. «Una cosa vorrei capirla prima. Quanto conosceva il ragazzo la tua faccia?»
-
-Vaan si girò. «Abbastanza.»
-
-«Non lo chiedevo a te.»
-
-«L'aveva visto da vicino.»
-
-«Per questo lo chiedevo.» Il pirata lasciò la sedia. «Scusa. Non volevo mettergli una misura addosso. Volevo sapere quante cose avrebbero dovuto copiare.»
-
-Basch si passò la destra sul viso, fermandosi accanto alla cicatrice del sopracciglio. «La notte dell'assalto c'era sangue dappertutto. Non avevamo elmi uguali, e molti non ne avevano più. Io avevo perso il mio nel cortile.»
-
-«Luce?»
-
-«Poca. Bracieri alle pareti.»
-
-«Distanza?»
-
-«Meno di questa.»
-
-Basch e Vaan si guardarono. Erano separati dalla larghezza della porta del guardaroba, tre passi al massimo. Il ragazzo cercò di immaginare lo spazio di una sala, un uomo chiamato per nome, il re a terra. Si era ripetuto per anni che Reks avrebbe riconosciuto il capitano anche al buio. Sentirlo chiedere da uno che aveva una pistola alla cintura e l'abitudine di misurare le stanze gli fece capire che quella certezza poteva essere usata contro chi la possedeva.
-
-«Non era stupido» disse.
-
-Balthier ritirò il dito dal legno. «Non lo sto chiamando così.»
-
-«Continuate a dire che l'hanno ingannato. Tutti e due. Come se non sapesse guardare.»
-
-«Per ingannare uno che guarda» rispose il pirata «devi dargli qualcosa da vedere. Qualcosa di abbastanza vero da fargli credere al resto.»
-
-Vaan guardò di nuovo Basch. Non gli piaceva che il pirata avesse una risposta pronta; gli piaceva ancora meno che quella risposta non fosse indulgente. «Tu avresti capito?»
-
-Balthier non sorrise. «Da dietro una cassa, nel pozzo, non ho capito niente. E avevo tutto il tempo di ascoltare.»
-
-La confessione fece più strada di una spiegazione. Vaan ricordò l'uomo chinato sulle casse, la mano che lo tirava indietro, l'espressione interessata quando il Giudice se ne era andato. Non aveva visto un esperto vicino alla soluzione. Aveva visto soltanto un altro uomo che raccoglieva quello che poteva. Il ragazzo si allontanò di mezzo passo dal tavolo.
-
-«E dopo?» chiese a Basch. «Dopo che l'avevano fatto vedere?»
-
-Il capitano guardò Fran. Lei era ancora alla finestra e ascoltava entrambi i lati della stanza, gli uomini e la montagna. Fece un cenno minimo: c'era tempo.
-
-«Mi portarono sotto» disse. «Non subito nella gabbia. Prima in una cella normale. Mi tolsero gli abiti e la fascia.»
-
-«Quella di Reks.»
-
-«Sì.»
-
-Vaan si morse l'interno della guancia. Non aveva ragione di voler sapere dove fosse finito un pezzo di stoffa, ma scoprì di volerlo. «L'hai rivista?»
-
-«No.»
-
-Basch continuò prima che il ragazzo potesse fare un'altra domanda. Gli avevano chiesto nomi, lettere, ordini che Raminas aveva dato e ordini che non aveva mai dato. Un uomo li scriveva su un tavolino, sollevando ogni tanto il foglio per non macchiare la manica. Il capitano ricordava quella cura con un disgusto che gli tornò in bocca mentre parlava. Lui perdeva sangue e lo scrivano badava al proprio polsino. Quando aveva chiesto di Reks, gli avevano risposto che il giovane testimone era stato messo in salvo.
-
-«In salvo» ripeté Vaan.
-
-«Così dissero.»
-
-«E tu non potevi saperlo.»
-
-Basch scosse la testa. Nella stanza c'era abbastanza luce per vedere che la barba, tagliata male dagli anni, gli cresceva più chiara sui lati. Vaan la guardò senza sapere perché. Aveva bisogno di trovare una parte del viso che non appartenesse al racconto.
-
-«Il marchese sapeva che eri vivo» disse Balthier. «Lo hai detto a tuo fratello.»
-
-«Era quello che mi avevano fatto sapere.»
-
-«Visto? Anche tu potevi ricevere una versione comoda per loro.»
-
-Basch annuì. Il pirata aveva formulato un dubbio di cui la gabbia era stata piena, e sentirlo dire fuori dalla prigione gli fece quasi male. Aveva cercato per due anni un fatto su cui mettere i piedi. Ogni fatto gli era arrivato dalla mano che portava il pane.
-
-«Non posso dirvi cosa sapesse Ondore» disse. «So cosa annunciò. So che dopo quell'annuncio mi lasciarono respirare.»
-
-Vaan abbassò gli occhi. L'uomo vivo e l'uomo morto avevano avuto lo stesso nome, e la città aveva ricevuto quello morto perché era più facile da trasportare in un foglio. Balthier si chinò a raccogliere un frammento di vetro vicino alla sedia e lo posò sul tavolo. Fran mosse l'orecchio sinistro verso il fondo della linea.
-
-«Continua» disse Vaan.
-
-Basch tornò a guardarlo. «Da dove?»
-
-Il ragazzo strinse le mani sotto le braccia. «Da dove arriva mio fratello.»
+Vaan aprì la bocca per dire di no. Non gli uscì niente. Si sedette di nuovo, sulla panca di pietra, sotto l'orario dell'ultima corsa.
 
 ---
 
-Reks era arrivato da solo. Aveva salito la scala e attraversato il corridoio con la spada ancora in mano. Basch lo aveva sentito chiamare prima di vederlo: la voce giovane, senza fiato, il titolo pronunciato come una domanda. Il soldato che teneva il capitano aveva spostato il peso per guardare, e per un istante Basch aveva creduto di potersi liberare. Si era morso il palmo che gli chiudeva la bocca. Gli avevano piegato indietro la testa e urtato la nuca contro lo stipite.
+«Eravamo venuti per il re» disse Basch.
 
-«Ricordo il rumore» disse. «Dopo, per un poco, non sentii più le parole. Vedevo le bocche muoversi.»
+Parlava piano, con quella sua voce roca di chi la usa poco, e metteva ogni parola al suo posto come una pietra in un muro, come aveva fatto davanti al Giudice. Non guardava nessuno. Guardava i binari, dove la luce verde si allungava fino al buio.
 
-Vaan guardò la fascia di capelli che Basch aveva legato sulla nuca. Non gli chiese dove fosse il segno. Non voleva che gli mostrasse altra pelle.
+«Il re era a Nalbina per firmare. Archadia gli aveva promesso la pace in cambio di una firma, e lui ci era andato con una scorta piccola, come gli avevano chiesto. Noi sapevamo che non era una pace. Sapevamo che appena avesse firmato lo avrebbero ucciso, perché un re che firma non serve più a niente, e un re morto serve moltissimo. Così siamo partiti da Rabanastre in venti, per arrivare prima della firma. Di notte. Dalla parte delle mura dove io avevo fatto la guarnigione da ragazzo, perché conoscevo un passaggio.» Si fermò. «Tuo fratello era fra i venti. Era il più giovane.»
 
-«Tuo fratello guardava il re. Poi guardò l'uomo che credeva me. Gli fece una domanda.»
+«Lo so che era fra i venti» disse Vaan.
 
-«Quale domanda?»
+«Lo so che lo sai. Ti dico quello che ho visto.» Basch non alzò la voce. «Sui cammini di ronda ci ha attaccati un'aeronave. Una piccola, da guardia, con una lama sotto la chiglia, che volava bassa sulle mura. Abbiamo perso uomini. Tuo fratello è caduto, una volta, e si è rialzato. Quando l'aeronave è tornata indietro, gli altri si sono buttati a terra. Lui no. È rimasto in piedi accanto a me.» Una pausa. «Non so perché. Non gliel'ho chiesto. Forse aveva paura, e la paura, certe volte, tiene in piedi. Forse no.»
 
-«Non la sentii intera.»
+Vaan guardava il pavimento.
 
-«E lui cosa rispose?»
+«Poi siamo entrati. Nella fortezza. Ai piedi della scala che portava agli appartamenti del re, abbiamo sentito arrivare i soldati da dietro. Molti. Qualcuno doveva tenerli lì, alla base della scala, mentre gli altri salivano. Io ho lasciato due uomini. Uno era lui.» Basch disse la frase senza fermarsi, e poi si fermò. «Gli ho detto di tenere la schiena al muro. Gli ho detto: quando non ce la fai più, scendi verso le cisterne. Non verso di noi. Verso le cisterne. Era un ordine. È l'ultima cosa che gli ho detto.»
 
-«Che il re aveva venduto Dalmasca.»
+«Non è andato alle cisterne» disse Vaan. Non era una domanda.
 
-Vaan ricordava quella frase. Era stata pronunciata in piazza, ripetuta nelle botteghe, tracciata sui muri accanto al nome di Basch. La parola di un morto contro quella di un altro morto: per due anni gli era parso un processo difficile da sbagliare. Si accorse che stringeva il pendente di Reks attraverso la camicia e lasciò andare la stoffa.
+«No.» Basch lo guardò, per la prima volta da quando aveva cominciato a parlare. «L'ho saputo dopo. Non è andato alle cisterne. È salito.»
 
-«Reks non avanzò per attaccarlo» continuò Basch. «Abbassò la spada.»
+La stazione era silenziosa. Il filo d'acqua cadeva dalla volta e faceva un piccolo rumore ostinato sulle pietre. Fran, contro il suo pilastro, aveva le orecchie basse.
 
-«Basta.»
+«Io sono salito con gli altri sette» continuò Basch. «Gli appartamenti del re erano tre stanze, una dietro l'altra. Nella prima ci aspettavano. Non soldati di guardia: soldati messi lì. In silenzio, nel buio, dietro la porta. Ci hanno presi in mezzo. Ho visto cadere i miei uomini, uno dopo l'altro, e non ho potuto fare niente, perché ne avevo quattro addosso, e poi cinque, e poi mi hanno colpito qui» si toccò la nuca «e mi hanno messo in ginocchio, e uno mi teneva la testa per i capelli e un altro mi teneva la bocca con un guanto. Così mi hanno trascinato alla porta della terza stanza. Quella dove c'era il re. Era socchiusa.»
 
-Il capitano si fermò.
+Si fermò.
 
-Vaan sentì gli altri aspettare, senza vederli. Aveva chiesto lui. Voleva sapere; lo voleva da quando il carro era entrato in città e Migelo gli aveva detto di portare via dal letto tutte le coperte buone, lasciarne soltanto una, prendere dell'acqua. Per due anni aveva messo nella stanza del re immagini che nessuno gli aveva dato. Ora una voce che somigliava a quella del colpevole gli stava raccontando l'ultima volta in cui Reks aveva creduto di essere al sicuro.
+«Mi hanno messo lì» disse. «Davanti alla fessura. Volevano che guardassi.»
 
-«Hai visto anche quello?» domandò.
+«Che guardassi cosa?» Era Balthier. Si era staccato dallo stipite del casotto e non sorrideva.
 
-Basch rispose senza muoversi. «Ho visto il colpo.»
+Basch non rispose subito. Quando rispose, la voce era la stessa, ma più bassa, come se ogni parola dovesse passare per una porta stretta.
 
-Vaan annuì una volta, in fretta. Bastava. Tutto quello che seguiva lo conosceva lui, meglio di Basch e meglio di chiunque fosse stato dietro quelle porte. Le coperte, il medico, il cucchiaio piegato che Migelo gli aveva messo in mano. Il peso dell'acqua che tornava fuori dalla bocca. Non avrebbe portato anche quelle cose nel racconto del capitano.
+«Il re era in piedi» disse. «Si era alzato dalla sedia, col bastone. Parlava con qualcuno. Diceva che aveva comprato del tempo, che non aveva venduto niente, che un re che non può più vincere compra le cose piccole. Diceva che non gli andava di farlo seduto.» Una pausa. «L'uomo con cui parlava aveva l'armatura dell'Ordine. Il mantello azzurro. La spada in mano. Era di spalle alla porta, dalla mia parte, e io lo vedevo di spalle, e lo conoscevo. Lo conoscevo dalle spalle, da come teneva la spada, da come stava in piedi. Prima ancora che si girasse.»
 
-«Lo ferirono perché doveva parlare» disse Balthier, molto piano.
+«Chi era?»
 
-Basch guardò il tavolo. «Un soldato dalmasco che riconosce il suo comandante. Non uno dei loro uomini. Non qualcuno pagato per accusarmi.»
+«Poi ho sentito una voce dall'altra porta. Quella da cui si arrivava dalla scala. Una voce di ragazzo.» Basch guardò Vaan. «Ha detto Maestà. Solo quello. Maestà. Era lui. Era salito.»
 
-«Reks non ha parlato» disse Vaan.
+Vaan si era messo le mani sulle ginocchia e le stringeva.
 
-Basch sollevò il capo.
+«L'uomo con l'armatura dell'Ordine ha colpito il re. Un colpo solo. Il re è caduto. Io ho provato a gridare, e il guanto sulla bocca me l'ha impedito, e ho provato ad alzarmi, e quattro mani mi hanno tenuto giù. Poi l'uomo si è girato verso la porta del ragazzo.» Basch non abbassò gli occhi. «E l'ho visto in faccia.»
 
-«Mai. Da quando me lo hanno riportato. Gli facevo domande e lui mi guardava. Hanno raccontato tutti quello che avrebbe detto. I soldati. Il foglio del processo. Quelli che sapevano sempre tutto.» Gli bruciava la gola. «Lui no.»
+Per un momento nella stazione non si sentì nemmeno l'acqua.
 
-Il capitano chiuse le dita sul bordo del tavolo. Era un'informazione che nessuno gli aveva portato in due anni di prigionia. L'Impero gli aveva fatto conoscere le accuse, il valore della testimonianza, il testo della sentenza; della voce di Reks non gli aveva detto nulla. Avrebbe voluto chiedere quando era morto e capì prima di aprire la bocca che Vaan glielo aveva già raccontato nella gabbia. Soltanto adesso riusciva ad ascoltarlo per intero.
+«Era la mia faccia» disse Basch.
 
-«Hanno preso anche quello» disse il ragazzo. «Hanno fatto parlare uno che non poteva.»
+---
 
-Nessuno rispose. Dal fondo della linea arrivò una vibrazione, lunga e bassa. Un poco di polvere scese dalla cornice della porta. Fran si raddrizzò; Balthier la guardò e lei tenne sollevata una mano, chiedendo ancora un istante.
+Vaan rise.
 
-«Tuo fratello» disse Vaan a Basch. «Come si chiama?»
+Non fu una risata vera. Fu un rumore che gli uscì dal naso, corto, cattivo, come quando Kytes gli raccontava che nei canali c'era una cosa con dieci braccia.
 
-Il capitano ebbe un'esitazione che il ragazzo gli vide bene. «Adesso si fa chiamare Gabranth.»
+«La tua faccia» ripeté.
 
-«Adesso.»
+«La mia faccia.»
 
-«È un Giudice Magister al servizio di Archadia.»
+«Un altro te. Che ammazza il re. Con la tua faccia.» Vaan si alzò. «E dov'eri, tu? Dietro la porta? Con un guanto in bocca? E chi era? Uno che ti somigliava? Uno travestito? È questa la storia? È questa la storia che ti sei preparato in due anni di gabbia?»
 
-«Quindi è ancora là. Con la sua armatura, con i suoi soldati.»
+«Era mio fratello.»
 
-«Sì.»
+La frase cadde nella stazione come la spada arrugginita era caduta fra i binari, con un suono stonato, e nessuno, per un momento, seppe cosa farne.
 
-Vaan si guardò le nocche. Aveva sangue secco vicino all'unghia del medio; non ricordava dove si fosse ferito. «E io sono venuto a prendermela con te.»
-
-Basch si staccò dal tavolo. Per poco non urtò la sedia spostata da Balthier. «Tu sei stato portato a Nalbina contro la tua volontà. Non sei venuto a cercare nessuno.»
-
-«Non volevo dire quello.»
-
-«Lo so.» Poi Basch si interruppe, come se avesse sentito anche lui quante volte aveva usato quelle due parole. «Ti ho sentito, nella gabbia. Su una cosa avevi ragione. Ero io il suo capitano. Tuo fratello era là perché gli avevo chiesto di seguirmi.»
-
-Vaan scosse la testa. «Non voglio un pezzo di colpa da tenere per ricordo.»
-
-«Non saprei dartene un altro.»
-
-La risposta rimase fra loro. Balthier raccolse la cote dalla panca e la rimise sulla rastrelliera, accanto a un attrezzo senza manico. Un gesto inutile, fatto con attenzione. Fran abbassò finalmente la mano.
-
-«Dobbiamo andare.»
-
-Basch riprese la spada. Vaan lo vide provare la presa con la sinistra, proteggerla per abitudine anche se il taglio era chiuso da due anni. Si ricordò di Reks che strappava gli orli delle coperte per farne bende ai gatti del cortile. Bastava una zampa ferita e spariva una striscia di lenzuolo. Aveva avuto la stessa cura con quell'uomo, in un cortile pieno di morti. Vaan se ne sentì offeso e orgoglioso insieme, e nessuna delle due cose gli piacque.
-
-«Era bravo?» chiese.
-
-Basch non rispose subito. Capì che una parola comoda sarebbe stata peggio del silenzio.
-
-«Aveva paura» disse. «Mi chiese se pensavo che avremmo rivisto Rabanastre. Poi venne avanti lo stesso.»
-
-Vaan guardò il pavimento. Basch continuò: «Sulla scala ci diede il tempo di passare. Non c'era nulla di falso nel servizio che rese. Qualunque cosa abbiano scritto dopo.»
-
-«Non parlare come se sapessi perché lo faceva.»
-
-«Mi disse di te.»
-
-«Lo so. L'hai detto.»
-
-«Non dirò altro.»
-
-Il capitano passò la porta. Vaan lo lasciò passare, e aspettò che Fran gli tenesse dietro. Nella stanza erano rimasti gli stracci piegati sulla panca e l'odore dell'acqua sporca. Il ragazzo si avvicinò alla vaschetta, aprì il rubinetto per un istante e si lavò le mani. Dovette strofinare a lungo per togliere il sangue vicino all'unghia.
-
-Balthier lo aspettava fuori. «Non sei obbligato a decidere adesso.»
-
-«Non ho deciso niente.»
-
-«Benissimo.»
-
-Vaan si asciugò i palmi sui calzoni. «Tu ci credi?»
-
-Il pirata guardò lungo il corridoio. Basch e Fran avevano raggiunto la scala. «Credo di aver visto un uomo parlare a se stesso dentro un pozzo. Mi era parso un comportamento molto costoso, perfino per un Giudice.»
+«Mio fratello» ripeté Basch, piano. «Siamo nati lo stesso giorno. Dalla stessa madre, nella stessa stanza, a un'ora di distanza. Ha la mia faccia. Ha la mia altezza. Ha la mia voce.» Si fermò, e parve che stesse per dire qualcos'altro, e poi decise di no. «Da bambini, nostra madre ci distingueva dal modo di camminare. Nessun altro ci riusciva.»
 
 Vaan lo fissò.
 
-«Credo anche che avrebbero potuto ammazzarlo» aggiunse Balthier. «Non lo hanno fatto. Finché non so perché, preferisco tenerlo dove posso vederlo.»
+«Un gemello» disse.
 
-«Quindi non lo sai neanche tu.»
+«Sì.»
 
-«No.» Stavolta non sorrise. «Questo lo so con certezza.»
+«Hai un gemello. Che ha ammazzato il re. Con la tua faccia. Mentre tu guardavi da una porta.» Vaan fece un passo verso di lui. «È la storia più stupida che abbia mai sentito. Lo sai? Kytes, che ha nove anni, ne racconta di migliori. Un gemello. E perché? Perché tuo fratello avrebbe dovuto ammazzare il re di Dalmasca? E dov'è adesso, questo gemello? Perché non lo dici a tutti, se è vero?»
 
-Ripresero la scala. Sotto di loro il ronzio della ferrovia calava e risaliva, più lento. Basch si era fermato sul pianerottolo, lasciando libero il passaggio; Vaan gli passò accanto e per un istante furono alla stessa altezza. La cicatrice sulla mano sinistra aveva il colore del sapone che non si riesce a sciacquare via.
+Basch non rispose subito. Il suo sguardo andò, per un istante soltanto, non a Vaan ma oltre di lui, verso l'alto, verso la volta della stazione, come se attraverso la roccia potesse vedere la fortezza sopra di loro, e il pozzo, e la gabbia vuota, e qualcuno che adesso, forse, stava guardando la gabbia vuota.
 
-«Reks non mentiva» disse Vaan.
+«Perché non è una storia che si racconta» disse. «Non ancora. E non a te, non stanotte. Sarebbe troppo, e non servirebbe.» Riportò gli occhi su Vaan. «Ti ho detto quello che ho visto. Questo è quello che ho visto.»
 
-«No.»
+Balthier non aveva detto niente. Stava in piedi accanto al casotto, con le braccia di nuovo incrociate, e guardava Basch con la stessa espressione che aveva avuto davanti al leone di pietra, o davanti alla pietra di Vaan quando si era accesa per la donna in rosso: un'attenzione fredda, divertita solo in superficie, sotto la quale qualcosa stava facendo un conto. Una volta, una volta sola, girò la testa verso l'alto, come aveva fatto Basch, verso la roccia e la fortezza e il pozzo, dove poche ore prima un uomo in armatura si era tolto l'elmo e aveva detto sei dimagrito con una voce che lui aveva sentito benissimo. Poi riportò lo sguardo su Basch. Non disse niente. Fran lo guardò, da dietro il suo pilastro, e non disse niente nemmeno lei.
 
-«Su quello ti credo.»
+«Dopo» continuò Basch, come se nessuno lo avesse interrotto «sono entrati i soldati. Dalla porta principale. C'era un ufficiale che dava ordini in dalmasco, con un accento pulito. Ha detto arrestatelo. E l'uomo con la mia faccia si è messo a gridare. Il re ha tradito Dalmasca. Dalmasca non si inginocchierà mai. Gridava con la mia voce, così forte che lo sentivano fino ai cammini di ronda. Lo hanno portato via. Fuori, dalla porta principale, davanti a tutti i soldati archadiani che c'erano nella fortezza, perché tutti lo vedessero e tutti potessero dire, dopo, di aver visto il capitano Basch arrestato con la spada del re in mano.» Una pausa. «Me, mi hanno portato via dall'altra parte. Con un sacco in testa. Giù. Sempre più giù. Da quella notte il mondo ha creduto che fossi lui. E io ho creduto che il mondo avesse ragione a credermi morto.»
 
-La frase lasciò il ragazzo più stanco di quanto lo avessero lasciato le grida nel pozzo. Aveva rinunciato a una spiegazione facile senza averne ancora una da mettere al suo posto. Guardò il passaggio dietro Basch, aspettandosi di sentirlo riempire quel vuoto con una promessa. Il capitano non lo fece. Raccolse il lembo di giacca rimasto incastrato fra cintura e fodero e liberò la mano con cui avrebbe dovuto reggere la spada. Vaan gli lasciò lo spazio di un passo, abbastanza per scendere senza urtarsi. Fino a poco prima avrebbe voluto averlo sempre davanti agli occhi; adesso gli riuscì di voltargli la schiena per guardare il fondo della scala.
+«E mio fratello?» La voce di Vaan si era rotta. «Mio fratello cosa ha visto?»
 
-Il capitano chinò il capo. Dalla sala in fondo arrivò un colpo così forte che una lampada si staccò dal muro e rimase appesa al cavo. Fran tese l'arco e scese il primo gradino.
+Basch lo guardò.
+
+«Ha visto me» disse. «Ha visto il suo capitano uccidere il suo re. Ha visto la faccia dell'uomo che aveva seguito tutta la notte. E poi quell'uomo gli è andato incontro, e lui non si è mosso, perché era il suo capitano.» La voce, per la prima volta, gli venne meno a metà, e la riprese. «Io ero dietro la porta. Con un guanto in bocca. Ho visto la spada entrare. Non ho potuto fare niente.»
+
+Vaan non disse niente.
+
+«Lui era il testimone» disse Basch. «Il testimone perfetto. Un soldato dell'Ordine, giovane, leale, che aveva seguito il capitano dalla prima ora. Se sopravviveva, avrebbe giurato su tutti gli dèi di aver visto Basch fon Ronsenburg uccidere il re. Se moriva, avrebbe giurato lo stesso, con le ferite.» Una pausa. «Lo hanno lasciato vivo apposta, credo. O forse no. Non lo so. Non so tutto, ragazzo. So quello che ho visto.»
+
+---
+
+Ci fu un silenzio lungo.
+
+Fu Basch a romperlo, e lo ruppe con un gesto, non con una parola. Alzò la mano sinistra, quella che Vaan aveva visto alla luce delle lampade nella galleria, e la girò, con il dorso verso di lui. La cicatrice era lì: lunga, bianca, di traverso, dalla nocca dell'indice al polso.
+
+«Sui cammini di ronda» disse «quando l'aeronave è passata la prima volta, mi ha tagliato. Qui. Non me n'ero accorto. Se n'è accorto tuo fratello.» Guardò la mano, come se la vedesse per la prima volta. «Non mi ha chiesto il permesso. Si è strappato la manica della giubba, quella nuova, alla cucitura della spalla, con uno strattone solo. Ne ha fatto una striscia con i denti e me l'ha girata attorno alla mano, sopra il guanto, tre giri. E l'ha chiusa con un nodo doppio. Gli ho chiesto chi gli aveva insegnato a fare un nodo così. Mi ha detto: le casse di Migelo.»
+
+Vaan smise di respirare.
+
+Non lo decise. Gli successe. Sentì il fiato fermarsi da qualche parte sotto lo sterno e restare lì, come il fiato di Reks sulla sua guancia nel sogno, caldo e senza parole. E vide, senza volerlo, la giubba. La giubba azzurra di Reks, quella nuova, che era tornata da Nalbina sul carro insieme a lui, ripiegata sotto la sua testa come un cuscino. La giubba che Vaan aveva lavato nel cortile del pozzo, un giorno, mentre Reks guardava il soffitto, e aveva steso ad asciugare sulla corda, e aveva guardato lì appesa, al sole, con una manica sola. Aveva pensato che si fosse strappata in battaglia. Non ci aveva pensato più. La giubba era ancora nella cassa, sotto la branda, nella stanza sopra la bottega. Con una manica sola.
+
+Le casse di Migelo. Era il nodo che Reks gli aveva insegnato, quando Vaan aveva dieci anni, per le casse che non si devono aprire nemmeno se le butti dal tetto.
+
+«Non vuol dire niente» disse.
+
+Lo disse piano. Lo disse a se stesso più che a Basch.
+
+«No» disse Basch. «Non vuol dire niente. È una mano.» La abbassò. «Te l'ho detto. Non ti chiedo di credere a me.»
+
+«E allora perché me lo dici?»
+
+«Perché c'è un'altra cosa che ti posso chiedere, e che non riguarda me.» Basch lo guardò, e la sua voce, adesso, era quasi gentile, di una gentilezza scomoda, faticosa, che non sapeva dove mettere le mani. «Non credere a me. Credi a lui. A tuo fratello. Era un buon soldato. È rimasto in piedi accanto a me quando gli altri si buttavano a terra. Mi ha fasciato la mano senza chiedere. È salito per una scala quando gli avevo ordinato di scendere, perché aveva sentito che il re era in pericolo. Questo era tuo fratello. Non quello che hanno letto in piazza. Questo.» Una pausa. «Se vuoi odiarmi, odiami. Ne hai tutte le ragioni. Io l'ho portato là dentro. Ma non odiare me al posto suo. Lui non si è sbagliato su niente, quella notte. Si è sbagliato solo su una faccia. E chiunque si sarebbe sbagliato.»
+
+Vaan si alzò. Era bianco.
+
+«Non parlare di lui» disse. «Non lo conoscevi. Lo hai conosciuto una notte. Una. Io l'ho conosciuto diciassette anni. Tu non sai niente di lui. Non sai come si arrabbiava quando gli prendevo le cose. Non sai che cantava male. Non sai che aveva promesso di portarmi dal barbiere, e che non l'ha fatto, e che io...» Si fermò. Si portò una mano alla testa, sopra l'orecchio sinistro, dove c'era la ciocca, e dove due colpi di lancia e di bastone gli avevano lasciato un livido. La tenne lì. «Non parlare di lui.»
+
+Basch non parlò più.
+
+---
+
+Fu Balthier, alla fine, a muoversi. Si staccò dal casotto, attraversò la stazione, raccolse la spada di Vaan da terra e gliela porse, dall'elsa, come aveva porto quella del ferroviere a Basch.
+
+«Bene» disse. Non lo disse con allegria. «Adesso abbiamo sentito due versioni. Quella del ragazzo, che è vera. Quella del capitano, che forse è vera anche lei. Ognuno è libero di credere a quella che gli pare, o a nessuna delle due, o a tutte e due, che è la scelta più scomoda e quindi, di solito, la più giusta.» Guardò Vaan, poi Basch. «Ma nessuna delle due versioni, per quanto ne parliamo, riporterà in vita il re. O il ragazzo con la manica strappata. Il passato ha questo difetto: sta fermo. Non si sposta a forza di parlarne.»
+
+Indicò il fondo della stazione, dove i binari entravano in una galleria più grande, buia, da cui veniva il ribollire che Fran aveva sentito.
+
+«E noi, invece, dobbiamo spostarci. Là in fondo c'è qualcosa di grande, dice la mia socia, e io ho imparato a credere alla mia socia quando dice grande. Usciamo di qui, prima. Poi, se volete, vi siederete uno davanti all'altro in una taverna di Rabanastre e vi odierete con comodo, davanti a un bicchiere.»
+
+Vaan prese la spada. Non guardò Balthier. Non guardò Basch. Si incamminò per primo, verso la galleria buia, e non contò i passi.
+
+Basch riprese la spada del ferroviere dalla panca. Rimase un momento fermo sotto l'orario dell'ultima corsa, con la mano sinistra aperta lungo il fianco, la cicatrice verso il basso. Poi seguì il ragazzo, a qualche passo di distanza, senza avvicinarsi.
+
+Fran si staccò dal pilastro per ultima. Passando accanto a Balthier, si fermò un istante, e chinò la testa verso di lui, e gli disse qualcosa a voce così bassa che nessun altro poté sentirlo.
+
+«Le voci» disse.
+
+Balthier si sistemò un polsino, quello senza bottone.
+
+«Lo so» rispose. «Lo so, Fran. Non ora.»
+
+E mentre camminavano nel buio, Vaan, senza accorgersene, si toccò la manica sinistra della camicia, all'altezza della spalla, dove la cucitura teneva; e la tenne stretta fra le dita per un lungo tratto di galleria, finché la galleria non finì.

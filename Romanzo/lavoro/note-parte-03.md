@@ -50,3 +50,9 @@
 - Riletta la Parte III completa; aggiunte circoscritte ai capitoli richiesti. Nessun aggiornamento agli agganci condivisi, per il vincolo espresso dell'incarico.
 
 FINE PARTE
+
+## Cap. 23
+- Sostituita la stesura di `main` (altro modello) con la mia, scritta prima della revisione finale nella voce dei pilota. Circa 3.950 parole.
+- Basch racconta il gemello senza il motivo dell'odio (resta a `file10` sez. VII) e senza dire che è il Giudice. Balthier e Fran capiscono dalle voci e tacciono.
+- La manica di Reks: Basch racconta la fasciatura (revisione), Vaan ricorda la giubba con una manica sola nella cassa. È l'incrinatura, non ancora fiducia.
+- Basch prende la spada del ferroviere; adattati di conseguenza tre dettagli del cap. 24.
