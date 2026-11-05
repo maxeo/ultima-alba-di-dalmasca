@@ -30,7 +30,11 @@ Il testo completo è in [`Romanzo/romanzo.md`](Romanzo/romanzo.md): circa 320.00
 
 ## Ascoltare
 
-L'audiolibro è in lavorazione, un file per capitolo. È generato in locale con [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) e il modello XTTS. È una voce sintetica: qualche pronuncia può risultare imprecisa.
+**[Apri il lettore](https://maxeo.github.io/ultima-alba-di-dalmasca/)**
+
+L'audiolibro è in lavorazione, un file per capitolo: il lettore mostra i capitoli pronti e quelli in arrivo. Ricorda dove sei arrivato, segue il testo mentre la voce legge, gestisce i segnalibri e salva i capitoli sul dispositivo per ascoltarli senza rete.
+
+L'audio è generato in locale con [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) e il modello XTTS. È una voce sintetica: qualche pronuncia può risultare imprecisa.
 
 ## Com'è fatto
 
@@ -41,7 +45,8 @@ Il romanzo è stato scritto con modelli di intelligenza artificiale sotto la dir
 | `Original/` | La cronaca di partenza, lasciata intatta, e l'elenco di correzioni e mancanze |
 | `Romanzo/capitoli/` | I capitoli, uno per file |
 | `Romanzo/lavoro/` | Materiali di lavoro: scaletta, personaggi, agganci e note di revisione. Contengono anticipazioni |
-| `Audiolibro/` | Script per generare l'audio e dizionario di pronuncia dei nomi |
+| `Audiolibro/` | Script per generare e pubblicare l'audio, dizionario di pronuncia dei nomi |
+| `docs/` | Il lettore web pubblicato su GitHub Pages, con audio compresso e testi sincronizzati |
 
 Per rigenerare il testo unico:
 
@@ -56,6 +61,8 @@ docker build -t e2a-locale:cu126 Audiolibro
 bash Audiolibro/genera.sh 1 113
 ```
 
-## Avviso
+## Avviso e licenza
 
 Opera di fan, non ufficiale e non commerciale, senza legami con Square Enix. *Final Fantasy XII*, la sua trama, i suoi personaggi e il suo mondo appartengono a Square Enix.
+
+I contributi originali di questo progetto sono distribuiti con licenza [CC BY-NC-SA 4.0](LICENSE): puoi condividerli e modificarli citando la fonte, senza scopi commerciali e con la stessa licenza. La licenza non copre i marchi, i personaggi, il mondo e gli altri elementi di proprietà di Square Enix, sui quali questo progetto non concede alcun diritto.
