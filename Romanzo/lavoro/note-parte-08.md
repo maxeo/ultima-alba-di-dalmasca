@@ -52,3 +52,9 @@
 - "Purché uno colpisca il bersaglio" di Balthier; Ashe non ride. Vaan non vede niente, "neanche lui": confida a Penelo che pensava fosse Reks.
 - Bivacco: Balthier "non hai sbagliato mira", tocca la tasca con l'anello, "stasera, per un momento, ho creduto di averlo visto" (ciò che vale di più). Prepara il cap. 77.
 - Chiusa sul rombo delle navi: apre il cap. 71.
+
+## Cap. 71
+- Navi, versione unica (fix 1, `file24:684` contro `file25:36`): tre navi passano su Miriam dirette a nord, verso il monte; quando la compagnia arriva se ne sono già andate. Volano su terra di Jagd: Balthier richiama la sua ipotesi del cap. 56.
+- Plancia dell'Alexander (fix 2, `file24:632`): Zargabaath al comando ordina batterie fredde e "con cortesia"; la battuta sui debiti è di Bergan ("quel monte ha un debito con l'Impero da settecento anni"). Gabranth presente e muto. Bergan si guarda la mano sinistra. Zargabaath tocca l'elmo come per stropicciarsi la faccia (gesto di misura, torna al cap. 110).
+- Tre giorni di marcia forzata; legna intatta al rifugio. Tenda dei Fratelli Haddur calpestata, una scarpa da bambino: la donna è data per dispersa, ritrovata al cap. 73.
+- Il sacerdote con i geloni (cap. 66) morto sui gradini. Balthier: "non hanno sparato, sono scesi e l'hanno fatto a mano".
