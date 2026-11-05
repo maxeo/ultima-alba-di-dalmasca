@@ -56,25 +56,19 @@ Ashe, la fortezza, non la guardò. Lo notò soltanto Fran, che notava tutto. La 
 
 ---
 
-Il piano di Balthier fu esposto dopo cena, in una stanza al secondo piano della Breccia, sopra un tavolo che zoppicava e che Basch fermò con un tappo di sughero.
+La carta che Balthier aveva promesso sul Bur-Omisace comparve dopo cena, in una stanza al secondo piano della Breccia, sopra un tavolo che zoppicava e che Basch fermò con un tappo di sughero. Era una carta da navigatore, fatta per chi guarda la terra dall'alto, e le strade a piedi c'erano appena, sottili come capelli. Balthier ci dispose sopra tre noci, una per ogni pattuglia imperiale che conosceva fra Nalbina e il nord, poi le tolse e ne mangiò una.
 
-«Via aerea, no» disse Balthier, e dispose sul tavolo tre noci, che erano le aeronavi imperiali. «Ogni rotta verso nord è sorvegliata. Da quando Rozarria si agita, Archadia controlla perfino le chiatte da grano. La Strahl la riconoscerebbero a dieci leghe, e la cosa, lasciatemelo dire, mi lusinga, ma non ci aiuta.» Aggiunse una quarta noce. «Via mare, peggio. La flotta tiene le coste.»
+«Da qui si sale ai Monti Mosfora» disse, seguendo con il dito un capello d'inchiostro. «Si passa il valico di Halny, si scende nel Bosco di Salika. Oltre il bosco c'è la Costa Phon, che è già Archadia, e da lì si va verso la capitale per le colline. Strade vecchie, che non usa più nessuno da quando c'è chi vola. Nessuno sorveglia una strada che non usa nessuno.»
 
-«Allora?» chiese Vaan.
+«E le percorre un pirata dei cieli» disse Vaan. «A piedi.»
 
-«Allora a piedi.»
+«Ho delle gambe. Le uso di rado, ma le ho.»
 
-Ci fu un silenzio. Vaan guardò Penelo, Penelo guardò Basch, Basch guardò le noci.
+«I cacciatori della costa conoscono i passaggi oltre il bosco» disse Fran. «Le pattuglie li lasciano in pace.»
 
-«A piedi» ripeté Vaan. «Tu.»
+«Perché?» chiese Vaan.
 
-«Io, sì. Ho delle gambe. Le uso di rado, ma le ho.» Balthier tolse le noci dal tavolo e ne mangiò una. «Da qui si sale a nord, ai Monti Mosfora. Si passa il valico di Halny, si scende nel Bosco di Salika. Oltre il bosco c'è la Costa Phon, che è già Archadia, e da lì si va verso la capitale per le colline. Strade vecchie, che non usa più nessuno da quando c'è chi vola. Nessuno sorveglia una strada che non usa nessuno.»
-
-«C'è un accampamento di cacciatori, sulla costa» disse Fran. «Le pattuglie lo lasciano in pace.»
-
-«Perché?»
-
-«Perché i cacciatori ammazzano le bestie che le pattuglie non vogliono ammazzare.»
+«Perché ammazzano le bestie che le pattuglie non vogliono ammazzare.»
 
 Ashe aveva ascoltato con le braccia incrociate. «Quanti giorni?»
 
