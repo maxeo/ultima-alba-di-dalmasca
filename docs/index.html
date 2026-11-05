@@ -875,7 +875,7 @@ async function caricaTesto(c) {
   const art = $('articolo');
   art.replaceChildren(el('p', {}, 'Carico il testo…'));
   try {
-    const r = await fetch(percorso(c, 'testi', 'json'));
+    const r = await fetch(percorso(c, 'testi', 'json'), { cache: 'no-cache' });
     if (!r.ok) throw 0;
     const par = await r.json();
     if (corrente !== c.n) return;
