@@ -216,6 +216,12 @@ Noah fon Ronsenburg aveva i capelli biondi come quelli del fratello, corti, appi
 
 Basch gli passò una mano sui capelli. Una volta.
 
+Poi gli slacciò il pettorale, perché non lo stringesse più, e sotto il bordo, nella tasca interna contro il petto, le dita trovarono una cosa piccola e leggera. Era una pastiglia bianca avvolta in una carta sottile, sgualcita dal metallo, intatta. Sapeva di miele e di menta. Basch la tenne sul palmo senza capire.
+
+Larsa la vide e smise di respirare. Era quella che gli aveva dato lui, in un giardino di Archades, davanti a un lago di cigni, perché il Giudice aveva la voce rauca e il medico di corte ne dava a lui per la gola. Gabranth non l'aveva mai mangiata. L'aveva portata addosso per tutto quel tempo, contro il petto, sotto l'armatura nera.
+
+Larsa non disse niente. Basch gliela porse. Il ragazzo scosse la testa, piano, e Basch la rimise dov'era, nella tasca del fratello, e richiuse il pettorale sopra.
+
 Nessuno nella cabina parlò. Penelo, al posto di Fran, teneva gli occhi sullo strumento rotondo e le lacrime le cadevano sulle mani. Vaan teneva la barra e guardava avanti. Ashe, seduta nel sedile di passaggio, si era voltata e guardava il cavaliere inginocchiato e il ragazzo seduto per terra e il Giudice disteso fra loro senza elmo, e teneva la mano sinistra chiusa a pugno in grembo.
 
 Larsa fu il primo a muoversi. Si sfilò dalla giubba un fazzoletto e lo bagnò con l'acqua della borraccia di Basch, e cominciò a pulire il sangue secco dalla guancia di Gabranth, piano, con attenzione, come si fa con un ferito che si può ancora svegliare.

@@ -78,7 +78,7 @@ Chi lo guardava allora, e Vaan lo guardava, vide una cosa che non seppe spiegare
 
 Lo disse piano. Nessuno avrebbe dovuto sentirlo, con il sibilo della pietra; lo sentirono tutti.
 
-«Per Nabudis. Per la cappella e per la cassa d'argento. Per i due di Draklor che prendevano appunti. Per i nostri, che erano già dentro le porte. Per i fornai e per le donne ai pozzi.» La voce gli si alzò. «Per i bambini nei letti. Per il vecchio re nel palazzo. Per tutti quelli di cui non ho mai saputo il nome.»
+«Per Nabudis. Per la cappella e per la cassa d'argento. Per i due di Draklor che prendevano appunti. Per i nostri, che erano già dentro le porte. Per i fornai e per le donne ai pozzi.» La voce gli si alzò. «Per i bambini nei letti. Per il vecchio re nel palazzo. Per tutti quelli di cui non ho mai saputo il nome. Per i fiori gialli che ho portato a Verdpale, troppi da contare, e che non sono mai bastati.»
 
 «Reddas!» Era Vaan. Aveva fatto un passo verso di lui, e la corrente lo aveva ributtato indietro. «Reddas, no! Aspetta!»
 
