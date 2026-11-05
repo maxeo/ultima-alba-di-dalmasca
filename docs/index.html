@@ -582,7 +582,7 @@ async function leggiSalvati() {
 }
 function spazio() {
   const byte = pronti().filter(c => salvati.has(c.n)).reduce((x, c) => x + c.byte, 0);
-  $('spazio').textContent = salvati.size ? `Sul dispositivo: ${salvati.size} capitoli, ${mb(byte)}.` : 'Salva un capitolo con la freccia per ascoltarlo senza rete.';
+  $('spazio').textContent = salvati.size ? `Sul dispositivo: ${salvati.size} ${salvati.size === 1 ? 'capitolo' : 'capitoli'}, ${mb(byte)}.` : 'Salva un capitolo con la freccia per ascoltarlo senza rete.';
 }
 $('salva-prossimi').onclick = async () => {
   const p = pronti(), i = Math.max(0, p.findIndex(c => c.n === (corrente ?? stato.ultimo)));
