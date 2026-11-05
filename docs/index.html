@@ -90,10 +90,8 @@ input[type=range] { width: 100%; accent-color: var(--accento); height: 28px; mar
 @media (max-width: 400px) { .comandi button { min-width: 40px; } .comandi select { width: 64px; } }
 @media (max-width: 340px) { .comandi { gap: 0; } .comandi button { min-width: 36px; } .comandi select { width: 56px; } .comandi .play { width: 48px; height: 48px; } }
 .salti { display: contents; }
-.comandi.con-menu button { min-width: 34px; }
-.comandi.con-menu select { width: 56px; }
-@media (max-width: 340px) { .comandi.con-menu button { min-width: 30px; } }
 .comandi.ridotta { justify-content: center; gap: 4px 12px; }
+.comandi.unita { justify-content: center; gap: 4px 12px; }
 .comandi.fitta { justify-content: space-between; gap: 2px; }
 .comandi.molti { flex-wrap: wrap; justify-content: center; gap: 4px; }
 .comandi.molti::before { content: ''; order: 1; flex-basis: 100%; height: 0; }
@@ -316,7 +314,7 @@ const $ = id => document.getElementById(id);
 const a = $('a');
 const CHIAVE = 'alba-stato-v1', CACHE = 'alba-audio-v1';
 const leggi = () => { try { return JSON.parse(localStorage.getItem(CHIAVE)) || {}; } catch { return {}; } };
-const UI_BASE = { accento: 'ambra', evid: 38, font: 'serif', inter: 1.6, indietro: [15], avanti: [30], continua: true, scambia: false, nascosti: [], notteOn: false, notte: 50, noBarra: false, noIcone: false, noAvanz: false };
+const UI_BASE = { accento: 'ambra', evid: 38, font: 'serif', inter: 1.6, indietro: [15], avanti: [30], continua: true, scambia: false, autoRiga: true, nascosti: [], notteOn: false, notte: 50, noBarra: false, noIcone: false, noAvanz: false };
 let stato = Object.assign({ cap: {}, segni: [], ultimo: null, velocita: 1, dim: 19, tema: null }, leggi());
 stato.ui = Object.assign({}, UI_BASE, stato.ui);
 if (stato.tema === 'notte') { stato.tema = null; stato.ui.notteOn = true; }
@@ -628,16 +626,39 @@ $('articolo').addEventListener('click', e => {
   const i = e.target.dataset?.i;
   if (i != null && !getSelection().toString()) { a.currentTime = cue[+i].t; if (a.paused) a.play(); seguiVoce = true; $('segui').classList.add('nascosto'); }
 });
-// Tutto su una riga se ci sta; altrimenti salti e play sopra, gli altri comandi sotto
+// I comandi principali stanno su una riga se ci entrano; altrimenti salti e play sopra, gli altri sotto.
+// Con la disposizione automatica, le altre icone li seguono finché c'è spazio; le restanti vanno sotto.
 function disponiComandi() {
-  const r = $('riga-principale');
-  r.classList.remove('molti', 'fitta');
+  const u = stato.ui, r = $('riga-principale'), ri = $('riga-icone'), menu = $('personalizza');
+  const icone = [...COMANDI.map(([id]) => $(id)), menu];
+  icone.forEach(e => ri.append(e));
+  ri.classList.remove('nascosto');
+  r.classList.remove('molti', 'fitta', 'unita');
   if (!r.offsetWidth) return;
-  const figli = [...r.querySelectorAll('button,select')].filter(e => e.offsetWidth);
-  const larghi = figli.reduce((s, e) => s + e.offsetWidth, 0), spazi = figli.length - 1;
-  const gap = parseFloat(getComputedStyle(r).columnGap) || 0;
-  if (larghi + 2 * spazi > r.clientWidth + 4) r.classList.add('molti');
-  else if (larghi + gap * spazi > r.clientWidth) r.classList.add('fitta');
+  const visibile = e => !e.classList.contains('nascosto');
+  let resto = icone.filter(visibile);
+  if (u.noIcone) {
+    resto = [];
+    if (visibile(menu)) r.append(menu);
+  }
+  const figli = () => [...r.querySelectorAll('button,select')].filter(e => e.offsetWidth);
+  const totale = () => figli().reduce((s, e) => s + e.offsetWidth, 0);
+  const W = r.clientWidth;
+  let usato = totale() + 2 * (figli().length - 1);
+  if (usato > W + 4) r.classList.add('molti');
+  else {
+    if (u.autoRiga) {
+      while (resto.length && usato + 2 + resto[0].offsetWidth <= W + 4) {
+        const e = resto.shift();
+        usato += 2 + e.offsetWidth;
+        r.append(e);
+        r.classList.add('unita');
+      }
+    }
+    const gap = parseFloat(getComputedStyle(r).columnGap) || 0;
+    if (totale() + gap * (figli().length - 1) > W) r.classList.add('fitta');
+  }
+  ri.classList.toggle('nascosto', !resto.length);
 }
 function altezzaLettore() {
   disponiComandi();
@@ -854,12 +875,6 @@ function applicaUi() {
   $('lettore').classList.toggle('nascosto', u.noBarra);
   $('flotta').classList.toggle('nascosto', !u.noBarra);
   $('riga-tempo').classList.toggle('nascosto', u.noAvanz);
-  const altreIcone = !u.noIcone && COMANDI.some(([id]) => !u.nascosti.includes(id));
-  const menu = $('personalizza');
-  (altreIcone ? $('riga-icone') : $('riga-principale')).append(menu);
-  $('riga-principale').classList.toggle('con-menu', !altreIcone && !u.nascosti.includes('personalizza'));
-  $('riga-icone').classList.toggle('nascosto', !altreIcone);
-  $('riga-icone').classList.toggle('ridotta', [...$('riga-icone').children].filter(e => !e.classList.contains('nascosto')).length <= 4);
   $('menu-pagina').classList.toggle('nascosto', !(u.noBarra || u.noIcone || u.nascosti.includes('personalizza')));
   document.querySelector('.lettore').classList.toggle('scambia', u.scambia);
   const nome = u.continua ? 'Capitolo successivo automatico: attivo' : 'Capitolo successivo automatico: spento';
@@ -1019,6 +1034,7 @@ function disegnaPannello() {
       sotto('Icone della riga'),
       COMANDI.map(voceComando),
       sotto('Disposizione'),
+      spunta("Metti i pulsanti in linea finché c'è spazio", u.autoRiga, on => { u.autoRiga = on; }, 'i-riga'),
       spunta('Velocità a destra, testo a sinistra', u.scambia, on => { u.scambia = on; }, 'i-scambia')),
     sezione('dispositivo', 'i-scarica', 'Capitoli e progressi', 'Salvataggi, esporta, importa', DATI),
     el('div', { class: 'menu-piede' }, bottoneRipristina())
