@@ -76,7 +76,17 @@ Qualcuno salì le scale di legno con il passo pesante e cauto dei bangaa, che ha
 
 «E allora perché parti?»
 
-Reks si sedette sulla branda. Non rispose subito. Prese la giubba della divisa, che stava piegata ai piedi del letto, nuova, di tela azzurra con le cuciture ancora rigide, e se la mise sulle ginocchia.
+Reks si sedette sulla branda. Non rispose subito. Prese la giubba della divisa, che stava piegata ai piedi del letto, nuova, di tela azzurra con le cuciture ancora rigide, e se la mise sulle ginocchia. Dalla tasca dei calzoni tirò fuori la spilla. Era un ovale d'argento grande come un'unghia di pollice, con dentro una goccia di smalto azzurro, il colore del cielo sopra il deserto alle cinque del pomeriggio, e l'aveva portata loro padre per tutta la vita sul bavero della giacca della festa. Era l'unica cosa d'argento che fosse rimasta in famiglia. Reks la appuntò sul petto della giubba, a sinistra, e ci mise tre tentativi, perché lo spillo era storto e la chiusura non teneva.
+
+«Ti cadrà» disse Vaan dalla finestra, senza voltarsi. L'aveva visto riflesso nel vetro.
+
+«Non cade.»
+
+«Lo spillo è storto da quando papà ci si è seduto sopra. Lo dici sempre anche tu.»
+
+«Se cade, la raccogli tu.» Reks diede un colpetto alla spilla con il dito. Tenne. «Ci metti un laccio e te la appendi al collo. Così non la perdi più.»
+
+Vaan non rispose. Alla luce della lampada, la spilla sulla tela azzurra della giubba era quasi dello stesso colore, e i capelli di Reks, biondi così chiari da sembrare bianchi, quelli che la gente della Città Bassa chiamava capelli di sale, gli cadevano sulla fronte mentre guardava in basso.
 
 «Perché si sono presentati in quarantadue e ne hanno presi venti» disse. «E io ero fra i venti.»
 
