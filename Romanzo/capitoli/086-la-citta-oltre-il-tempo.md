@@ -38,7 +38,7 @@ Balthier voleva aspettare. Lì, sul bordo, dove si poteva tornare indietro. Cid 
 
 «O che non è mai venuto.» Balthier fece un passo verso di lei. «Ascoltami. Conosco quell'uomo. Quando mio padre ti indica una porta, la cosa intelligente da fare non è attraversarla. È chiedersi perché ti sta indicando quella porta e non un'altra.»
 
-Ashe non lo guardava. Guardava oltre di lui, oltre il bordo della piattaforma, dove una scala sospesa scendeva nel vuoto verso la piattaforma successiva. Sulla scala, a metà, c'era un uomo con il mantello verde.
+Ashe non lo guardava. Guardava oltre di lui, oltre il bordo della piattaforma, dove una scala sospesa scendeva nel vuoto verso la piattaforma successiva. Sulla scala, a metà, c'era un uomo con il drappo blu.
 
 Si era voltato verso di lei. Poi si voltò di nuovo, e cominciò a scendere.
 
@@ -164,7 +164,7 @@ La pietra si accese sotto la sua mano. Una luce bianca, calda, salì dal segno i
 
 Quando la luce si ritirò, erano altrove.
 
-Erano dentro qualcosa. Le pareti erano trasparenti e alte come il cielo, e si piegavano in angoli e facce e spigoli, enormi, uno dentro l'altro, e dentro le pareti, e attraverso, e dappertutto, scorreva la luce. Non la luce di una lampada, né quella del sole. Una luce che nasceva dalla pietra stessa, viva, che si muoveva in correnti lente lungo le facce come acqua sotto il ghiaccio. Sotto i loro piedi c'era una lastra di cristallo, e sotto il cristallo altra luce, e sotto quella luce altra ancora, giù, fino a dove lo sguardo non arrivava.
+Erano dentro qualcosa. Le pareti erano trasparenti e alte come il cielo, e si piegavano in angoli, facce e spigoli enormi, uno dentro l'altro. Dentro le pareti, attraverso, dappertutto, scorreva la luce. Non la luce di una lampada, né quella del sole. Una luce che nasceva dalla pietra stessa, viva, che si muoveva in correnti lente lungo le facce come acqua sotto il ghiaccio. Sotto i loro piedi c'era una lastra di cristallo, e sotto il cristallo altra luce, e sotto quella luce altra ancora, giù, fino a dove lo sguardo non arrivava.
 
 Nessuno parlò. Balthier, che aveva sempre una battuta per tutto, non ne trovò nessuna. Guardò in alto, guardò in basso, e si mise le mani in tasca, lentamente, come si fa in un tempio quando non si sa che cosa fare delle mani.
 
