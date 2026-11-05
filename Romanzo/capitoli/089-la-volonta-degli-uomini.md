@@ -2,7 +2,7 @@
 
 Vaan non vedeva nessuno.
 
-Vedeva Ashe, in piedi sul bordo della piattaforma, con la mano chiusa sull'elsa di una spada che galleggiava nel vuoto senza niente che la reggesse. Vedeva il violetto tutt'attorno, senza pareti e senza fondo. E basta. Non c'erano seggi, non c'erano statue che respirano, non c'era nessun uomo con il mantello verde. Ma la voce l'aveva sentita. L'avevano sentita tutti, da quando la pietra nera li aveva presi e posati lì uno dopo l'altro, a pochi respiri di distanza da lei: una voce che veniva da dentro la testa e diceva, piana, *distruggi Archadia*, come si dice a un garzone di portare fuori i rifiuti.
+Vedeva Ashe, in piedi sul bordo della piattaforma, con la mano chiusa sull'elsa di una spada che galleggiava nel vuoto senza niente che la reggesse. Vedeva il violetto tutt'attorno, senza pareti e senza fondo. E basta. Non c'erano seggi, non c'erano statue che respirano, non c'era nessun uomo con il drappo blu. Ma la voce l'aveva sentita. L'avevano sentita tutti, da quando la pietra nera li aveva presi e posati lì uno dopo l'altro, a pochi respiri di distanza da lei: una voce che veniva da dentro la testa e diceva, piana, *distruggi Archadia*, come si dice a un garzone di portare fuori i rifiuti.
 
 «Che cosa stai facendo?» ripeté.
 
@@ -112,7 +112,7 @@ Gli altri la lasciarono fare. Nessuno parlò. Nel violetto attorno a loro non si
 
 Lei no.
 
-Pensò al muro dei re, a Giruvegan, ai riquadri lisci già incorniciati che aspettavano una figura con la faccia rivolta in alto. Pensò che quella figura poteva essere lei. Ce n'era uno pronto, il primo dopo l'ultimo re: lo aveva superato senza guardarlo, seguendo il mantello verde. Lo sapeva lo stesso. Lo scultore non si aspettava sorprese.
+Pensò al muro dei re, a Giruvegan, ai riquadri lisci già incorniciati che aspettavano una figura con la faccia rivolta in alto. Pensò che quella figura poteva essere lei. Ce n'era uno pronto, il primo dopo l'ultimo re: lo aveva superato senza guardarlo, seguendo il drappo blu. Lo sapeva lo stesso. Lo scultore non si aspettava sorprese.
 
 Allungò la mano, e prese la Spada del Patto.
 
