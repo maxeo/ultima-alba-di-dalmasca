@@ -140,7 +140,7 @@ Balthier non si voltò. Riprese a camminare, con lo stesso passo, il mento alto,
 
 «Ffamran?» chiese Penelo, piano.
 
-Nessuno le rispose.
+Nessuno le rispose. Penelo pensò a un fazzoletto con una F ricamata in un angolo, che aveva tenuto in tasca per settimane, e tenne per sé quello che aveva appena capito.
 
 ---
 
