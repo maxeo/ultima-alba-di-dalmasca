@@ -12,7 +12,7 @@ Stati: proposta, approvata, scritta, scartata.
 - **Proposta**: pochi paragrafi con la versione ufficiale dei fatti, seguita dalla Parte che la smentisce o la complica.
 - **Collocazione**: apertura di alcune Parti.
 - **Collegamenti**: `file01` sez. V, `file14` sez. VIII. Tema: storia ufficiale contro storia vera.
-- **Stato**: approvata
+- **Stato**: approvata, scritta: cap. 18, 40, 50, 64, 82 e 101 (citazioni anche nei cap. 1, 3 e 113)
 
 ## 2. Il narratore è lo studioso del monastero
 
@@ -20,7 +20,7 @@ Stati: proposta, approvata, scritta, scartata.
 - **Proposta**: qualche commento sulle fonti lungo il romanzo ("su questo punto le cronache litigano"). L'identità si svela solo nell'appendice.
 - **Collocazione**: tutto il romanzo; rivelazione nell'Appendice.
 - **Collegamenti**: frase di Vaan in `file38:1542`, Libro delle Possibilità, memorie di Ondore.
-- **Stato**: approvata
+- **Stato**: approvata, scritta: commenti sulle fonti nei cap. 1, 19, 45, 77, 102, 106, 109; rivelazione al cap. 113
 
 ## 3. Tappa verso il Bur-Omisace
 
@@ -28,7 +28,7 @@ Stati: proposta, approvata, scritta, scartata.
 - **Proposta**: risalita con fiume che ghiaccia, cambio di equipaggiamento e pista dei profughi. Un profugo di Nabradia racconta Nabudis.
 - **Collocazione**: Parte VIII.
 - **Collegamenti**: dubbio di Ashe sul Frammento (`file22`), Landis e Basch, Nabudis e Zecht.
-- **Stato**: approvata
+- **Stato**: approvata, scritta: cap. 64
 
 ## 4. Il debito con gli Urutan-Yensa
 
@@ -36,7 +36,7 @@ Stati: proposta, approvata, scritta, scartata.
 - **Proposta**: gli Urutan-Yensa riscuotono o saldano il debito in un momento successivo.
 - **Collocazione**: nasce nella Parte V; ritorno da decidere in scaletta.
 - **Collegamenti**: `file11` sez. VI-VII, Bacche Eksir.
-- **Stato**: approvata
+- **Stato**: approvata, scritta: nasce ai cap. 43-44; saldato ai cap. 101-103 e 110 (evacuazione sulle barche)
 
 ## 5. Rete di informatori del Clan
 
@@ -44,7 +44,7 @@ Stati: proposta, approvata, scritta, scartata.
 - **Proposta**: Vaan entra con la prima caccia comica. Più avanti la rete porta notizie utili alla trama.
 - **Collocazione**: nasce nella Parte II; ritorni in Parti successive.
 - **Collegamenti**: `file02` sez. IV, `file35` sez. VIII e XII (Montblanc).
-- **Stato**: approvata
+- **Stato**: approvata, scritta: cap. 8, 11, 25, 35-36, 56-57, 79, 101
 
 ## 6. Gilgamesh ricorrente
 
@@ -52,7 +52,7 @@ Stati: proposta, approvata, scritta, scartata.
 - **Proposta**: da due a quattro incontri, ciascuno con una conseguenza concreta, da fissare dopo la lettura di `file35`.
 - **Collocazione**: da decidere in scaletta.
 - **Collegamenti**: `file35` sez. VI-VII, gag del "protagonista".
-- **Stato**: approvata, ridotta a due incontri e un cenno finale
+- **Stato**: approvata, ridotta a due incontri e un cenno finale, scritta: cap. 41 e 78, cenno finale al cap. 104 (spade al cap. 79)
 
 ## 7. Le persone che gli imperi non vedono
 
@@ -60,7 +60,7 @@ Stati: proposta, approvata, scritta, scartata.
 - **Proposta**: brevi interludi o incontri che danno volto all'occupazione e tornano al finale, sotto Bahamut.
 - **Collocazione**: più Parti; ritorno nella Parte XIII.
 - **Collegamenti**: `file35` sez. XVI, `file37:1292-1298`.
-- **Stato**: approvata
+- **Stato**: approvata, scritta: cap. 7, 9, 13, 64, ritorno ai cap. 101-103 e 111
 
 ## 8. Terre di Nabreus nel viaggio verso Archades
 
@@ -68,4 +68,4 @@ Stati: proposta, approvata, scritta, scartata.
 - **Proposta**: passaggio per le Terre Morte e parte di Nabudis, legato a Basch, Rasler e Zecht.
 - **Collocazione**: Parte IX.
 - **Collegamenti**: `file15` sez. II, `file27`, `file32` sez. III, `file36:30`.
-- **Stato**: approvata
+- **Stato**: approvata, scritta: cap. 74-75

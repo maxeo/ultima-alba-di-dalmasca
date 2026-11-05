@@ -36,21 +36,21 @@ Ondore abbassò la mano di colpo.
 
 ---
 
-Sulla Strahl, poco prima di diventare l'uomo più ascoltato di Ivalice, Basch fon Ronsenburg era rimasto seduto per terra, nella cabina, accanto al corpo di suo fratello, con la piccola scatola d'ottone di Balthier in mano.
+Sulla Strahl, poco prima di diventare l'uomo più ascoltato di Ivalice, Basch fon Ronsenburg era rimasto seduto per terra, nella cabina, accanto al corpo di suo fratello, con il piccolo disco d'ottone di Balthier in mano.
 
-Gliel'aveva data Vaan. Senza dire niente: si era voltato dalla barra, aveva tirato fuori la scatola dalla tasca e gliel'aveva tesa, all'indietro, senza staccare l'altra mano dai comandi. Basch l'aveva presa e l'aveva guardata a lungo, senza capire. Poi aveva capito.
+Gliel'aveva dato Vaan. Senza dire niente: si era voltato dalla barra, aveva tirato fuori il disco dalla tasca e gliel'aveva teso, all'indietro, senza staccare l'altra mano dai comandi. Basch l'aveva preso e l'aveva guardato a lungo, senza capire. Poi aveva capito.
 
 Fuori, dal vetro, si vedevano le due flotte. Ferme, adesso, ma per poco. Bahamut era sfasciata, Vayne era morto, ma nessuno lassù lo sapeva ancora, e fra un momento le navi del marchese avrebbero sparato sulle navi imperiali rimaste senza ordini, e le navi imperiali avrebbero risposto, e la guerra che Vayne aveva voluto sarebbe andata avanti anche senza di lui, come vanno avanti le ruote di un carro quando il cocchiere è caduto.
 
 Qualcuno doveva fermarla. Qualcuno a cui gli imperiali avrebbero obbedito.
 
-Basch girò la prima rotella della scatola. Poi si fermò.
+Basch girò la rotella del disco di una tacca. Poi si fermò.
 
 Non ne aveva bisogno. Lo sapeva da sempre, da quando erano bambini a Landis e la madre li chiamava dalla finestra e confondeva le loro voci quando rispondevano da lontano. La sua voce e quella di Noah erano la stessa voce. Lo erano sempre state. Non serviva cambiarla.
 
 Serviva soltanto rimetterle l'elmo.
 
-Girò la seconda rotella, di poco. Si portò la scatola alla bocca, provò, a voce bassissima, e quello che ne uscì fu la sua voce, la stessa, ma larga, rimbombante, vuota, con dentro il suono del metallo. La voce di un uomo che parla dall'interno di un elmo nero. La voce di un'istituzione.
+Girò ancora la rotella, di poco. Si portò il disco alla bocca, provò, a voce bassissima, e quello che ne uscì fu la sua voce, la stessa, ma larga, rimbombante, vuota, con dentro il suono del metallo. La voce di un uomo che parla dall'interno di un elmo nero. La voce di un'istituzione.
 
 Penelo, dal posto di Fran, si voltò di scatto. Ashe, nel sedile di passaggio, chiuse gli occhi.
 

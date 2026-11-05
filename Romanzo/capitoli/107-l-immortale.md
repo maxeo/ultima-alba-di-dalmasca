@@ -76,7 +76,7 @@ Basch le stava accanto, e parava per lei quando lei non poteva parare. Non dicev
 
 Vaan combatteva con la spada di Reddas, ed era migliorato. Lo dicevano tutti, dopo. Era migliorato così tanto in un giorno che Basch, quando ne parlava, scuoteva la testa. Combatteva per la Città Bassa, per Migelo dietro il banco con la porta chiusa, per Kytes, per Sahra che protestava su una barca nel deserto, per un ragazzo che due anni prima era morto su un letto con gli occhi aperti senza che il fratello se ne accorgesse.
 
-Penelo teneva in piedi tutti. Lo faceva con le mani, con le magie, con la voce: chiamava i nomi, uno per uno, quando qualcuno cadeva, e quel nome detto da lei bastava a farlo rialzare. Combatteva per la stessa città, per due nastri di colore diverso nelle trecce, per un fratello con un dente storto.
+Penelo teneva in piedi tutti. Lo faceva con le mani, con le magie, con la voce: chiamava i nomi, uno per uno, quando qualcuno cadeva, e quel nome detto da lei bastava a farlo rialzare. Combatteva per la stessa città, per due nastri di colore diverso nei codini, per un fratello con un dente storto.
 
 Fran tirava frecce che la cosa non sentiva, e le tirava lo stesso, una dopo l'altra, con le orecchie schiacciate dal Mystes che le faceva male come un coltello. Aveva lasciato il Bosco cinquant'anni prima, e da cinquant'anni il Bosco le diceva che il mondo degli uomini non era il suo. Lei aveva scelto di non ascoltarlo, e su quella torre difendeva la sua scelta.
 

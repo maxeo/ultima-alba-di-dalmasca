@@ -1,0 +1,278 @@
+# Esito degli agganci
+
+Una riga per ogni voce di `agganci.md` e `agganci-parte-*.md`, in ordine di registro. Il primo numero è il capitolo di nascita. Controllo fatto con ricerche per parola chiave sui `capitoli/`, senza rilettura integrale: "chiuso" indica l'ultimo ritorno trovato, che per alcuni ritorni di tema è per forza una lettura interpretativa.
+
+- Fede nuziale, due fili ritorti (cap. 1): chiuso al cap. 112
+- Anello largo, mai stretto (cap. 1): chiuso al cap. 112
+- Pugno chiuso di Ashe sull'anello (cap. 1): chiuso al cap. 112
+- Basch raccoglie l'anello, orafo in via dei Calderai (cap. 1): chiuso al cap. 112
+- Vaan e Reks nella folla, pesca, "guarda i tetti" (cap. 1): chiuso al cap. 26
+- Re di Nabradia assente, lettera di gotta (cap. 1): chiuso al cap. 2
+- Calici di cristallo dell'ambasciatore (cap. 1): chiuso al cap. 6
+- Dispaccio della guarnigione orientale (cap. 1): chiuso al cap. 2
+- Pancia e il venditore di datteri (cap. 1): chiuso al cap. 113
+- Gabranth "Menti meglio di quanto ricordassi"; la madre (cap. 21): chiuso al cap. 97
+- Regola dell'elmo dei Giudici (cap. 21): chiuso al cap. 105
+- Reks nel letto: cucchiaio, panno, Vaan non si accorge (cap. 21): chiuso al cap. 26
+- Ponte di assi lasciato giù (cap. 21): chiuso al cap. 22
+- Pesi d'ottone sulla mappa (cap. 2): chiuso al cap. 6
+- Nabudis, uccelli caduti (cap. 2): chiuso al cap. 75
+- Giudice scomparso "parlava come i libri vecchi" (cap. 2): chiuso al cap. 96
+- Spada di Raminas, leone sbiadito (cap. 2): chiuso al cap. 51
+- Ultime parole di Rasler: "Il pugno" (cap. 2): chiuso al cap. 75
+- "Se muori ti faccio esiliare" (cap. 2): chiuso al cap. 55
+- Halvor e Ostram (cap. 2): chiuso al cap. 6
+- Petali secchi sui gradini (41) (cap. 3): chiuso al cap. 113
+- Sedia vuota dell'ambasciatore (cap. 3): chiuso al cap. 3
+- Nobile nabradiano e la genealogia (cap. 3): aperto volutamente
+- "Il pugno" riferito ad Ashe; segno sul palmo (cap. 3): chiuso al cap. 75
+- Raminas "qualcuno deve restare fuori dal foglio" (cap. 3): aperto volutamente
+- Spada di Raminas portata a Nalbina (cap. 3): chiuso al cap. 5
+- Lista dei volontari, nome del diciassettenne (cap. 3): chiuso al cap. 4
+- Stanza sopra la bottega: cumino, vaso, tacche (cap. 4): chiuso al cap. 101
+- Ciocca sopra l'orecchio sinistro (cap. 4): chiuso al cap. 26
+- Gigli di Galbana nel vaso della madre (cap. 4): chiuso al cap. 112
+- "Qualcuno deve restare a casa" (cap. 4): aperto: da decidere
+- "Se Basch non ti riporta a casa... lo ammazzo" (cap. 4): chiuso al cap. 21
+- Manifesto del pirata, naso ad ascia (cap. 4): aperto volutamente
+- Fasciatura azzurra, manica di Reks, nodo delle casse (cap. 4): chiuso al cap. 26
+- "Il furiere... Due gil" (cap. 4): aperto volutamente
+- Orren, cavaliere anziano (cap. 4): chiuso al cap. 5
+- "Verso le cisterne, non verso di noi" (cap. 4): chiuso al cap. 5
+- Mano sinistra nuda del finto Basch (cap. 5): chiuso al cap. 23
+- Ragazzo archadiano con la lentiggine e la fiaschetta (cap. 5): chiuso al cap. 101
+- Bastone d'olivo di Raminas; inchiostro sul trattato (cap. 5): chiuso al cap. 6
+- Raminas muore dicendo un nome (cap. 5): aperto volutamente
+- Trattato non firmato (cap. 5): chiuso al cap. 6
+- Reks spera di aver spiegato "restare a casa" (cap. 5): aperto: da decidere
+- Tavolette del re ridipinte (cap. 6): aperto volutamente
+- Armi dell'Ordine nelle cisterne (cap. 6): aperto volutamente
+- Proclama di Ondore (cap. 6): chiuso al cap. 50
+- "Bene" alla sentenza di Basch (cap. 6): chiuso al cap. 21
+- Trattato scomparso, resa di Halvor (cap. 6): aperto volutamente
+- Pesi di Dalmasca e Nabradia tolti dalla mappa (cap. 6): aperto volutamente
+- Calici inventariati (cap. 6): chiuso al cap. 6
+- Cuoca anziana e il piatto (cap. 6): chiuso al cap. 111
+- Sahra, focacce di ceci (cap. 7): chiuso al cap. 111
+- Ammar, vecchio col bastone (cap. 7): chiuso al cap. 101
+- Vedova Hanna, conto delle pesche (cap. 7): chiuso al cap. 18
+- Code di topo (cap. 7): chiuso al cap. 101
+- Nastri di Penelo per i fratelli (cap. 7): chiuso al cap. 107
+- Vaan conta tutto fra sé (cap. 7): chiuso al cap. 113
+- Aeronave scura che vola bassa (cap. 7): aperto volutamente
+- Montblanc, quaderno, piccola spiga (cap. 8): chiuso al cap. 101
+- Vayne "macellaio" (cap. 8): chiuso al cap. 37
+- Gigli raccolti e schiacciati dal chocobo (cap. 8): chiuso al cap. 112
+- Ciuffo del Pomodoro Smarrito (cap. 8): chiuso al cap. 101
+- Migelo, coda che batte, occhiali (cap. 8): chiuso al cap. 112
+- Ultimo rosso delle vigne (cap. 8): aperto volutamente
+- Kytes non sa dire bugie a Penelo (cap. 8): chiuso al cap. 18
+- Primo applauso, barba corta (claque) (cap. 9): aperto volutamente
+- Sahra "Parla meglio di Raminas" (cap. 9): aperto volutamente
+- Ufficiale "si segna" Vaan sul muro (cap. 9): chiuso al cap. 17
+- Targhe doppie delle vie (cap. 9): aperto volutamente
+- Sei finestre buie (cap. 9): aperto volutamente
+- Feste del console, cinque sere (cap. 10): chiuso al cap. 13
+- "Sterminatore di topi" (cap. 10): chiuso al cap. 101
+- Da Dalan: tazza calda, oggetto sotto il materasso (cap. 10): chiuso al cap. 101
+- Scusa "vado a Giza per Migelo" (cap. 10): chiuso al cap. 10
+- Pietra della Luna Crescente (cap. 10): chiuso al cap. 14
+- Bastone di Penelo con le punte di ferro (cap. 11): chiuso al cap. 106
+- "Non metterti davanti a me. Mettiti accanto." (cap. 11): chiuso al cap. 62
+- Penelo segna le boccette (cap. 11): chiuso al cap. 18
+- Onde del vento a Giza, 114 (cap. 11): aperto volutamente
+- Jinn, Masyua, Brunoa (cap. 11): chiuso al cap. 33
+- Cena promessa, agnello (cap. 12): chiuso al cap. 18
+- "Non vado da nessuna parte" (cap. 12): chiuso al cap. 27
+- Kel e Doran (cap. 12): chiuso al cap. 48
+- Pattuglia a Giza, "lasciarli arrivare" (cap. 12): chiuso al cap. 15
+- Vaso verde vuoto (cap. 12): chiuso al cap. 112
+- Dalan ricarica la Luna Crescente (cap. 13): chiuso al cap. 14
+- Dalan manda Kytes al magazzino cinque (cap. 13): aperto volutamente
+- Kytes, filo di ferro; "cosa con dieci braccia" (cap. 13): chiuso al cap. 101
+- Vossler china la testa alla donna in rosso (cap. 13): chiuso al cap. 36
+- Mantello azzurro sbiadito (cap. 13): chiuso al cap. 16
+- Ludda, serva Seeq (cap. 13): aperto volutamente
+- Leone con il cerchio vuoto (cap. 13): chiuso al cap. 14
+- Tacche "A. 4" sul passaggio segreto (cap. 14): aperto volutamente
+- Tacche sulla trave (cap. 14): chiuso al cap. 101
+- "Il protagonista" (cap. 14): chiuso al cap. 113
+- "Leggo. È un vizio" (cap. 14): chiuso al cap. 40
+- Pietra "non si vende, si cerca" (cap. 14): chiuso al cap. 36
+- Profumo di Balthier (cap. 14): aperto volutamente
+- Ciocca mai tagliata (cap. 7): chiuso al cap. 26
+- Naso di Balthier sui manifesti (cap. 14): aperto volutamente
+- Ifrit pronta, "il console ha fatto da formaggio" (cap. 15): chiuso al cap. 27
+- Balthier "Non guardare... per esperienza" (cap. 15): chiuso al cap. 30
+- La pietra "beve" il motore (cap. 15): chiuso al cap. 30
+- Primo grido di paura di Vaan (cap. 15): aperto volutamente
+- Vaan "sterminatore", "nome da secondo atto" (cap. 16): chiuso al cap. 23
+- "Uomo nuovo", la pietra resta a Vaan (cap. 16): chiuso al cap. 17
+- Bhujerba senza fogne, Balfonheim (cap. 16): aperto volutamente
+- Messaggero morto col mantello azzurro (cap. 16): chiuso al cap. 17
+- "Cose che non servono a niente" (cap. 16): aperto volutamente
+- Fran spezza il dardo (cap. 16): aperto volutamente
+- Amalia stringe la sinistra a pugno (cap. 17): chiuso al cap. 112
+- La pietra si accende vicino ad Amalia (cap. 17): chiuso al cap. 36
+- "Resistenza, non insurrezione" (cap. 17): aperto volutamente
+- Vayne "il ragazzo del muro" (cap. 17): chiuso al cap. 18
+- Uscita dalla grata delle cisterne (cap. 17): chiuso al cap. 18
+- Memorie di Ondore, libro secondo (cap. 18): chiuso al cap. 113
+- Cortile della pompa di bronzo (cap. 18): chiuso al cap. 26
+- "Stasera non ce la faccio, per la cena" (cap. 18): chiuso al cap. 18
+- Colpo sopra l'orecchio sinistro (cap. 18): chiuso al cap. 19
+- Fazzoletto con la F (cap. 18): chiuso al cap. 112
+- "Le mie promesse sono rare" (cap. 18): chiuso al cap. 40
+- Kytes mette le scarpe a Penelo (cap. 18): aperto volutamente
+- Ba'Gamnan, labbro, permesso di caccia (cap. 18): chiuso al cap. 80
+- Sogno di Reks, giubba senza manica (cap. 19): chiuso al cap. 26
+- Cucchiaio di stagno piegato (cap. 19): chiuso al cap. 26
+- Vaan smette di contare (cap. 19): chiuso al cap. 22
+- Secondo colpo sopra l'orecchio (cap. 19): chiuso al cap. 19
+- "Nessuno ascolta il protagonista", "porcile" (cap. 19): aperto volutamente
+- Bangaa con la coda spezzata (cap. 19): chiuso al cap. 20
+- Tullian, ufficiale di Nalbina (cap. 20): aperto volutamente
+- Ba'Gamnan piegato dal Giudice (cap. 20): chiuso al cap. 80
+- Balthier "boia con un ottimo sarto" (cap. 20): aperto volutamente
+- Bambola di pezza nel deposito (cap. 20): aperto volutamente
+- Porta a sesto acuto, parole antiche (cap. 20): chiuso al cap. 21
+- "Qualcuno che respira piano" (cap. 20): chiuso al cap. 21
+- Basch prende Vaan per il polso (cap. 22): aperto volutamente
+- Bottone di madreperla (cap. 22): aperto volutamente
+- "Nessuno si fida di nessuno" (cap. 22): aperto volutamente
+- Spada arrugginita di Basch (cap. 22): chiuso al cap. 23
+- Burrogh, cappello di feltro (cap. 22): aperto volutamente
+- Voce di Basch come quella del Giudice (cap. 22): chiuso al cap. 109
+- Cicatrice sulla mano sinistra di Basch (cap. 22): chiuso al cap. 111
+- Vaan ricomincia a contare (cap. 22): chiuso al cap. 113
+- Penelo con il piccone; bugia di Ba'Gamnan (cap. 28): chiuso al cap. 33
+- Tacche sulla trave di Penelo (41) (cap. 28): aperto volutamente
+- Nono e il motore di babordo (cap. 28): chiuso al cap. 112
+- Cristallo sopra le porte di Bhujerba (cap. 28): chiuso al cap. 103
+- Lamont e l'articolo quarto (cap. 28): chiuso al cap. 29
+- Fazzoletto tenuto "vicino al cuore" (cap. 40): aperto volutamente
+- Vossler "tienila lontana dalle tombe" (cap. 40): chiuso al cap. 48
+- Ondore "una principessa morta non ha alleati" (cap. 40): chiuso al cap. 50
+- Ashe a sei anni, le capre (cap. 40): aperto volutamente
+- "Un tesoro piccolo", gag del tesoro (cap. 40): chiuso al cap. 46
+- Congegno della voce (cap. 41): chiuso al cap. 112
+- Gilgamesh "Ci rivedremo!", la corda (cap. 41): chiuso al cap. 104
+- Itinerario di Halim Ondore II (cap. 41): chiuso al cap. 45
+- Biglietto "Sono stata rapita" (cap. 41): chiuso al cap. 67
+- Glicine rotto (cap. 41): aperto volutamente
+- Filo di cotone sull'anello (cap. 51): chiuso al cap. 52
+- Esploratore "l'aria era storta" (cap. 51): aperto volutamente
+- "Dalmasca non dimentica" (cap. 51): aperto volutamente
+- Vossler porta Ashe in spalla (cap. 51): aperto volutamente
+- Sedia vuota in casa di Dalan (cap. 51): chiuso al cap. 51
+- Anello nella tasca sul petto di Balthier (cap. 52): chiuso al cap. 112
+- Mano sinistra di Ashe aperta (cap. 52): chiuso al cap. 112
+- Stivali di Archades di Balthier (cap. 52): chiuso al cap. 74
+- "Cosa cerchi?" "Non lo so" (cap. 52): aperto volutamente
+- Coltello da cuoio, segreto di Vaan e Penelo (cap. 55): aperto volutamente
+- Segno chiaro sull'anulare (cap. 55): chiuso al cap. 70
+- Scarpe di Larsa (cap. 55): chiuso al cap. 56
+- Arco corto Garif a piume grigie (cap. 56): chiuso al cap. 106
+- Hurrin (cap. 56): chiuso al cap. 57
+- Chocobo giallo che sceglie Fran (cap. 56): chiuso al cap. 64
+- Fran "cinquant'anni" (cap. 58): chiuso al cap. 60
+- Fran legge il turbamento per la Negalite (cap. 58): chiuso al cap. 77
+- Studiosi di Golmore (cap. 58): aperto volutamente
+- Volto d'ombra uscito da Mjrn (cap. 61): aperto volutamente
+- Ricercatore anziano di Draklor (cap. 62): aperto volutamente
+- "A Draklor tutto si chiama ricerca" (cap. 62): chiuso al cap. 96
+- Pietra di Larsa (cap. 62): chiuso al cap. 111
+- Fratelli di Penelo, bastone a otto anni (cap. 62): chiuso al cap. 62
+- Moguri delle pellicce (cap. 64): aperto volutamente
+- Fratelli Haddur (cap. 64): chiuso al cap. 73
+- Vecchio di Landis (cap. 64): chiuso al cap. 105
+- Erith di Nabudis (cap. 64): chiuso al cap. 96
+- Giardino d'inverno con gli aranci (cap. 64): aperto volutamente
+- Carta di Nabradia di Oskar (cap. 74): chiuso al cap. 79
+- Santuari con i nomi raschiati (cap. 74): chiuso al cap. 88
+- Stivali da ponte di Balthier (cap. 74): aperto volutamente
+- Lanterne dei pescatori di Nabudis (cap. 74): chiuso al cap. 75
+- Libro dei nomi di Ma'kleou (cap. 75): aperto volutamente
+- Visitatore senza nome a Nabudis (cap. 75): chiuso al cap. 96
+- Candela di Penelo (cap. 75): aperto volutamente
+- Rasler chiese di tenere Ashe lontana (cap. 75): aperto volutamente
+- Pugno su un anello che non c'è (cap. 75): chiuso al cap. 88
+- Lanterna di Basch e l'apprendista (cap. 76): chiuso al cap. 78
+- Balthier bambino sotto il tavolo, matite (cap. 77): chiuso al cap. 83
+- "Un uomo famoso con il mio cognome" (cap. 77): chiuso al cap. 83
+- Anello in tasca, mano sulla tasca (cap. 77): chiuso al cap. 112
+- Rasler "nota a piè di pagina" (cap. 77): aperto volutamente
+- Oro rosso del tramonto (cap. 77): chiuso al cap. 112
+- Aurel e la chiave a forma di mano (cap. 78): chiuso al cap. 79
+- Gilgamesh, quattordici spade (cap. 78): chiuso al cap. 104
+- Balthier "Lassù la puzza è diversa" (cap. 78): aperto volutamente
+- Jules restituisce le spade (cap. 79): chiuso al cap. 81
+- Montblanc "il conto te lo fa quando torni" (cap. 79): chiuso al cap. 101
+- "Di' a Kytes che il mare è salato" (cap. 79): chiuso al cap. 111
+- Ba'Gamnan contratto da Archades (cap. 79): chiuso al cap. 80
+- Fontana di Archades (cap. 80): aperto volutamente
+- Ba'Gamnan smette (cap. 80): chiuso al cap. 80
+- Debito di 2.500 gil con Jules (cap. 80): chiuso al cap. 81
+- Ispettorato dell'armonia civica (cap. 80): aperto volutamente
+- Memorie libro quinto, Negalite (cap. 82): chiuso al cap. 84
+- Modello della Lucciola (cap. 82): aperto volutamente
+- Fascicolo del Jagd Difohr (cap. 82): chiuso al cap. 85
+- Reddas guarda Basch un momento di troppo (cap. 82): chiuso al cap. 96
+- Matite nell'ordine sbagliato (cap. 83): aperto volutamente
+- Scheggia nella mano di Cid (cap. 83): chiuso al cap. 90
+- Teiera e plaid nello studio di Cid (cap. 83): aperto volutamente
+- Reddas "ho più ragioni di altri" (cap. 83): chiuso al cap. 96
+- Lettera di Reddas su carta color crema (cap. 84): aperto volutamente
+- Spada nera sopra il camino (cap. 84): chiuso al cap. 96
+- "Chi la trova è stato chiamato" (cap. 84): chiuso al cap. 88
+- Nome di Fran sul muretto (cap. 84): aperto volutamente
+- Disegno di una torre su una costa (cap. 84): chiuso al cap. 91
+- Vaan a prua come Balthier (cap. 84): chiuso al cap. 110
+- Cerchi di pietre con il disco (cap. 85): aperto volutamente
+- Rasler che non annuisce più (cap. 85): chiuso al cap. 95
+- "La porta riconosce chi è stato scelto" (cap. 85): aperto volutamente
+- "Chi gli ha aperto?" (cap. 85): chiuso al cap. 90
+- Muro dei re, riquadri vuoti (cap. 86): chiuso al cap. 113
+- "La polvere è il tempo" (cap. 86): aperto volutamente
+- Vaan risponde "senza voglia di piacergli" (cap. 86): aperto volutamente
+- Sussurro a Basch "fratello" (cap. 87): chiuso al cap. 109
+- Balthier piega il foglio strappato (cap. 87): aperto volutamente
+- Tredicesimo seggio (cap. 88): aperto volutamente
+- Rasler non ha mai parlato (cap. 88): chiuso al cap. 96
+- "Qualcuno che teneva gli scalpelli" (cap. 88): aperto volutamente
+- Spada del Patto nel mantello di Ashe (cap. 89): chiuso al cap. 106
+- Riquadro vuoto dopo l'ultimo re (cap. 89): aperto volutamente
+- "So a chi devo chiedere il conto" (cap. 89): chiuso al cap. 98
+- Pietra celeste, prova sesta (cap. 91): chiuso al cap. 92
+- Elza "Lui non è di qui" (cap. 91): chiuso al cap. 100
+- Barche con un occhio solo (cap. 91): chiuso al cap. 92
+- Disputa Rikken-Balthier sulla gara (cap. 84): chiuso al cap. 101
+- Lezione di volo "Non tirare. Chiedi" (cap. 92): chiuso al cap. 112
+- Promessa della Strahl a Vaan (cap. 92): chiuso al cap. 110
+- Mantello di Balthier su Nono (cap. 92): chiuso al cap. 112
+- Toppa "la cicatrice" (cap. 92): chiuso al cap. 112
+- Spada di Reddas raccolta da Vaan (cap. 96): chiuso al cap. 108
+- Frammento d'Aurora calciato (cap. 96): chiuso al cap. 99
+- "Un uomo vero chiude la mano" (cap. 96): aperto volutamente
+- Cicatrice sul mento di Rasler (cap. 96): aperto volutamente
+- Lenti di Cid nella tasca (cap. 98): chiuso al cap. 102
+- Fazzoletto materno (cap. 98): chiuso al cap. 112
+- Anello in tasca fino al 112 (cap. 52): chiuso al cap. 112
+- Basch non trova il corpo di Gabranth (cap. 99): chiuso al cap. 105
+- Penelo ha il fazzoletto materno (cap. 99): chiuso al cap. 112
+- Ashe a mani vuote (cap. 99): chiuso al cap. 104
+- Città Bassa evacuata sulle barche (cap. 101): chiuso al cap. 110
+- Gigli pagati da Penelo (cap. 101): chiuso al cap. 112
+- 38 petali sui gradini (cap. 101): chiuso al cap. 113
+- Frittelle di sesamo della cuoca (cap. 101): chiuso al cap. 111
+- Vecchio dei datteri (cap. 101): chiuso al cap. 113
+- Soldato con la lentiggine apre il cancello (cap. 101): aperto volutamente
+- Dalan con il fagotto (cap. 101): aperto volutamente
+- Stelle dei fornai (cap. 101): aperto volutamente
+- Giornale di bordo di Bahamut (cap. 102): chiuso al cap. 113
+- Basch ride "Con la mia vita" (cap. 103): aperto volutamente
+- Ashe con una spada da soldato (cap. 104): chiuso al cap. 109
+- Pietra di Larsa nera e incrinata (cap. 106): chiuso al cap. 111
+- Spada da cerimonia di Larsa (cap. 106): chiuso al cap. 106
+- Congegno dato a Vaan (cap. 108): chiuso al cap. 112
+- Elmo spaccato di Gabranth (cap. 108): chiuso al cap. 111

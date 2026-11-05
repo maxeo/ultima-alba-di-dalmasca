@@ -18783,7 +18783,7 @@ Rimise gli occhiali. Scostò il panno di seta da quello che teneva in mano.
 
 Era nero e lucido, a facce irregolari, e anche spento aveva una specie di profondità, come un pozzo visto dall'alto. Ashe lo riconobbe, e il cuore le si fermò. Ricordò la stanza del palazzo di Rabanastre dove suo padre l'aveva portata per mano, da bambina, la sera prima della sua presentazione a corte. Le aveva detto: questo è nostro, e non lo useremo mai. Era il Frammento del Crepuscolo.
 
-Vaan lo riconobbe nello stesso istante, per un'altra strada. L'aveva avuto in tasca. L'aveva preso con le sue mani dal tesoro del palazzo, una notte, credendo di rubare una pietra preziosa da rivendere, e da quella tasca era cominciato tutto. Fece un passo avanti senza volerlo, come si fa verso un portafogli che si riconosce nella mano di un borsaiolo.
+Vaan lo riconobbe nello stesso istante, per un'altra strada. L'aveva avuto addosso. L'aveva preso con le sue mani dal tesoro del palazzo, una notte, credendo di rubare una pietra preziosa da rivendere, e da lì era cominciato tutto. Fece un passo avanti senza volerlo, come si fa verso un portafogli che si riconosce nella mano di un borsaiolo.
 
 «Ve l'hanno preso» disse Cid. «Lo so. Mi dispiace. È stato utilissimo.»
 
@@ -19740,9 +19740,9 @@ Balthier, alla barra, non disse niente. Ma la Strahl rallentò, di poco, perché
 
 Fu Vaan.
 
-Era dietro, aggrappato a una maniglia del soffitto, e da qualche minuto si guardava intorno nella cabina con un'espressione che Penelo conosceva benissimo e che temeva più di qualsiasi corazzata. Era l'espressione del Vaan di dodici anni davanti al banco di un fruttivendolo distratto. Scivolò lungo la paratia fino al sedile di Balthier, infilò una mano nella tasca della giacca appesa allo schienale, e la tirò fuori con una piccola scatola d'ottone e di cuoio in mano, grande come una tabacchiera, con due rotelle sul fianco e una grata sottile da una parte.
+Era dietro, aggrappato a una maniglia del soffitto, e da qualche minuto si guardava intorno nella cabina con un'espressione che Penelo conosceva benissimo e che temeva più di qualsiasi corazzata. Era l'espressione del Vaan di dodici anni davanti al banco di un fruttivendolo distratto. Scivolò lungo la paratia fino al sedile di Balthier, infilò una mano nella tasca della giacca appesa allo schienale, e la tirò fuori con un disco d'ottone appeso a una catenella, grande quanto una moneta d'oro grossa, con una grata finissima sul davanti e una piccola rotella zigrinata sul bordo.
 
-Ashe la riconobbe. L'ultima volta che l'aveva vista, a Bhujerba, Balthier l'aveva usata per ordinarle di smettere di armeggiare con i comandi di un'aeronave che lei stava cercando di rubare, con una voce che non era la sua; e poi, per farle un dispetto, con la voce di lei. Non lo aveva mai perdonato del tutto.
+Ashe lo riconobbe. L'ultima volta che l'aveva visto, a Bhujerba, Balthier l'aveva usato per ordinarle di smettere di armeggiare con i comandi di un'aeronave che lei stava cercando di rubare, con una voce che non era la sua; e poi, per farle un dispetto, con la voce di lei. Non lo aveva mai perdonato del tutto.
 
 «Vaan» disse Penelo. «No.»
 
@@ -19750,17 +19750,17 @@ Ashe la riconobbe. L'ultima volta che l'aveva vista, a Bhujerba, Balthier l'avev
 
 «Non sai neanche come funziona.»
 
-«L'ho visto fare.» Vaan girò una rotella, poi l'altra, con la lingua fra i denti. Si portò la scatola alla bocca e disse, prova, prova, e quello che uscì fu prima la voce di una vecchia, poi quella di un Bangaa raffreddato, poi una cosa che non era una voce. Girò ancora. «Aspetta. Aspetta.»
+«L'ho visto fare.» Vaan girò la rotella, una tacca, due, con la lingua fra i denti. Si portò il disco alla bocca e disse, prova, prova, e quello che uscì fu prima la voce di una vecchia, poi quella di un Bangaa raffreddato, poi una cosa che non era una voce. Girò ancora. «Aspetta. Aspetta.»
 
 «Balthier» disse Ashe. «Fermalo.»
 
 «Ho le mani occupate» disse Balthier, che le aveva, e che comunque non sembrava avere nessuna intenzione di fermarlo.
 
-Vaan girò l'ultima rotella di un niente. Si avvicinò al tubo d'ottone. Si schiarì la gola. E parlò.
+Vaan girò la rotella di un niente. Si avvicinò al tubo d'ottone. Si schiarì la gola. E parlò.
 
 «Marchese Ondore.»
 
-La voce che uscì dalla scatola era chiara, giovane, educatissima, di un ragazzo che a dodici anni parlava come un ambasciatore di quaranta. Era la voce di Larsa Ferrinas Solidor. Era così somigliante che Penelo si voltò di scatto verso il portello, come se il principe fosse appena entrato.
+La voce che uscì dal disco era chiara, giovane, educatissima, di un ragazzo che a dodici anni parlava come un ambasciatore di quaranta. Era la voce di Larsa Ferrinas Solidor. Era così somigliante che Penelo si voltò di scatto verso il portello, come se il principe fosse appena entrato.
 
 Dall'altra parte del canale ci fu un silenzio assoluto.
 
@@ -19788,7 +19788,7 @@ Dall'altra parte, lungo silenzio. Poi Ondore parlò di nuovo, e la sua voce era 
 
 «Principe Larsa. Altezza.» Una pausa. «Non so come siate arrivato su quella nave, e immagino che un giorno qualcuno me lo racconterà, e che non mi piacerà. Ma se il fratello dell'imperatore e l'erede di Dalmasca combattono dalla stessa parte, allora forse questa guerra ha un senso che io non vedevo.» Un'altra pausa. «La Resistenza vi darà copertura. Dite quello che vi serve.»
 
-Vaan aprì la bocca per rispondere con la voce di Larsa, e Penelo gli tolse la scatola di mano.
+Vaan aprì la bocca per rispondere con la voce di Larsa, e Penelo gli tolse il disco di mano.
 
 «Basta» sibilò. «Basta. Hai già detto che la proteggi con la tua vita. Larsa non direbbe mai una cosa così. Larsa direbbe una cosa intelligente.»
 
@@ -19826,7 +19826,7 @@ Ashe lo guardò. Poi, per la prima volta da Ridorana, le scappò un mezzo sorris
 
 «Mai, altezza.»
 
-Vaan riprese la scatola dalle mani di Penelo, che la lasciò andare, e la rimise nella tasca della giacca di Balthier con una cura esagerata, come si rimette un vaso prezioso sul suo mobile. Penelo lo guardò e scosse la testa. Fran, senza distogliere gli occhi dagli strumenti, disse una parola sola.
+Vaan riprese il disco dalle mani di Penelo, che lo lasciò andare, e lo rimise nella tasca della giacca di Balthier con una cura esagerata, come si rimette un vaso prezioso sul suo mobile. Penelo lo guardò e scosse la testa. Fran, senza distogliere gli occhi dagli strumenti, disse una parola sola.
 
 «Bravo.»
 
@@ -20436,7 +20436,7 @@ Basch le stava accanto, e parava per lei quando lei non poteva parare. Non dicev
 
 Vaan combatteva con la spada di Reddas, ed era migliorato. Lo dicevano tutti, dopo. Era migliorato così tanto in un giorno che Basch, quando ne parlava, scuoteva la testa. Combatteva per la Città Bassa, per Migelo dietro il banco con la porta chiusa, per Kytes, per Sahra che protestava su una barca nel deserto, per un ragazzo che due anni prima era morto su un letto con gli occhi aperti senza che il fratello se ne accorgesse.
 
-Penelo teneva in piedi tutti. Lo faceva con le mani, con le magie, con la voce: chiamava i nomi, uno per uno, quando qualcuno cadeva, e quel nome detto da lei bastava a farlo rialzare. Combatteva per la stessa città, per due nastri di colore diverso nelle trecce, per un fratello con un dente storto.
+Penelo teneva in piedi tutti. Lo faceva con le mani, con le magie, con la voce: chiamava i nomi, uno per uno, quando qualcuno cadeva, e quel nome detto da lei bastava a farlo rialzare. Combatteva per la stessa città, per due nastri di colore diverso nei codini, per un fratello con un dente storto.
 
 Fran tirava frecce che la cosa non sentiva, e le tirava lo stesso, una dopo l'altra, con le orecchie schiacciate dal Mystes che le faceva male come un coltello. Aveva lasciato il Bosco cinquant'anni prima, e da cinquant'anni il Bosco le diceva che il mondo degli uomini non era il suo. Lei aveva scelto di non ascoltarlo, e su quella torre difendeva la sua scelta.
 
@@ -20565,13 +20565,13 @@ Vaan non si mosse.
 
 «Ti aspetto. Stacchi i cavi, torni, e partiamo. Ti aspetto.»
 
-Balthier lo guardò un momento. Poi infilò la mano nella tasca della giacca e ne tirò fuori la piccola scatola d'ottone e di cuoio con le due rotelle, quella con cui Vaan aveva fatto parlare Larsa, e gliela mise in mano.
+Balthier lo guardò un momento. Poi infilò la mano nella tasca della giacca e ne tirò fuori il piccolo disco d'ottone con la rotella, quello con cui Vaan aveva fatto parlare Larsa, e glielo mise in mano.
 
 «Tieni.»
 
 «Perché?»
 
-«Perché non si sa mai quando serve un'altra voce.» Gli chiuse le dita sopra la scatola. «Restituiscimela, poi. Ci sono affezionato.»
+«Perché non si sa mai quando serve un'altra voce.» Gli chiuse le dita sopra il disco. «Restituiscimelo, poi. Ci sono affezionato.»
 
 «Poi quando?»
 
@@ -20754,21 +20754,21 @@ Ondore abbassò la mano di colpo.
 
 ---
 
-Sulla Strahl, poco prima di diventare l'uomo più ascoltato di Ivalice, Basch fon Ronsenburg era rimasto seduto per terra, nella cabina, accanto al corpo di suo fratello, con la piccola scatola d'ottone di Balthier in mano.
+Sulla Strahl, poco prima di diventare l'uomo più ascoltato di Ivalice, Basch fon Ronsenburg era rimasto seduto per terra, nella cabina, accanto al corpo di suo fratello, con il piccolo disco d'ottone di Balthier in mano.
 
-Gliel'aveva data Vaan. Senza dire niente: si era voltato dalla barra, aveva tirato fuori la scatola dalla tasca e gliel'aveva tesa, all'indietro, senza staccare l'altra mano dai comandi. Basch l'aveva presa e l'aveva guardata a lungo, senza capire. Poi aveva capito.
+Gliel'aveva dato Vaan. Senza dire niente: si era voltato dalla barra, aveva tirato fuori il disco dalla tasca e gliel'aveva teso, all'indietro, senza staccare l'altra mano dai comandi. Basch l'aveva preso e l'aveva guardato a lungo, senza capire. Poi aveva capito.
 
 Fuori, dal vetro, si vedevano le due flotte. Ferme, adesso, ma per poco. Bahamut era sfasciata, Vayne era morto, ma nessuno lassù lo sapeva ancora, e fra un momento le navi del marchese avrebbero sparato sulle navi imperiali rimaste senza ordini, e le navi imperiali avrebbero risposto, e la guerra che Vayne aveva voluto sarebbe andata avanti anche senza di lui, come vanno avanti le ruote di un carro quando il cocchiere è caduto.
 
 Qualcuno doveva fermarla. Qualcuno a cui gli imperiali avrebbero obbedito.
 
-Basch girò la prima rotella della scatola. Poi si fermò.
+Basch girò la rotella del disco di una tacca. Poi si fermò.
 
 Non ne aveva bisogno. Lo sapeva da sempre, da quando erano bambini a Landis e la madre li chiamava dalla finestra e confondeva le loro voci quando rispondevano da lontano. La sua voce e quella di Noah erano la stessa voce. Lo erano sempre state. Non serviva cambiarla.
 
 Serviva soltanto rimetterle l'elmo.
 
-Girò la seconda rotella, di poco. Si portò la scatola alla bocca, provò, a voce bassissima, e quello che ne uscì fu la sua voce, la stessa, ma larga, rimbombante, vuota, con dentro il suono del metallo. La voce di un uomo che parla dall'interno di un elmo nero. La voce di un'istituzione.
+Girò ancora la rotella, di poco. Si portò il disco alla bocca, provò, a voce bassissima, e quello che ne uscì fu la sua voce, la stessa, ma larga, rimbombante, vuota, con dentro il suono del metallo. La voce di un uomo che parla dall'interno di un elmo nero. La voce di un'istituzione.
 
 Penelo, dal posto di Fran, si voltò di scatto. Ashe, nel sedile di passaggio, chiuse gli occhi.
 
@@ -21385,7 +21385,7 @@ Non disse altro. Rimase a guardare l'anello largo sul dito, e lasciò che la ris
 
 Vaan quella sera tornò al magazzino della sua nave. La chiamava nave anche davanti a chi aveva visto la Strahl e gli chiedeva se fosse sicuro del termine. Era più piccola, più tozza, con un ronzio più acuto e meno elegante; l'aveva comprata con i risparmi di un anno di trasporti, con il lavoro di Kytes, con un prestito che Migelo giurava di non voler garantire e di cui ricordava a memoria ogni scadenza. Nono, la prima volta che l'aveva sentita, aveva detto che aveva un suono onesto. Vaan aveva deciso che era un complimento.
 
-Cercò il congegno della voce. Lo teneva da Bahamut in una custodia di stoffa, sotto il sedile. Basch glielo aveva ridato prima di partire per Archades, la mattina del funerale privato di Noah, quando la voce del Giudice non aveva più avuto bisogno di una scatola per diventare quella di un altro. Vaan lo tirò fuori, controllò che le due rotelle girassero, lo avvolse in una camicia pulita e lo mise in cima alla roba da portare. Questa volta lo avrebbe restituito di persona.
+Cercò il congegno della voce. Lo teneva da Bahamut in una custodia di stoffa, sotto il sedile. Basch glielo aveva ridato prima di partire per Archades, la mattina del funerale privato di Noah, quando la voce del Giudice non aveva più avuto bisogno di un disco d'ottone per diventare quella di un altro. Vaan lo tirò fuori, controllò che la rotella girasse, lo avvolse in una camicia pulita e lo mise in cima alla roba da portare. Questa volta lo avrebbe restituito di persona.
 
 Penelo arrivò con un foglio piegato. Glielo porse dalla passerella.
 

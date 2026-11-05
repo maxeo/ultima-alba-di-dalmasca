@@ -192,7 +192,7 @@ Non disse altro. Rimase a guardare l'anello largo sul dito, e lasciò che la ris
 
 Vaan quella sera tornò al magazzino della sua nave. La chiamava nave anche davanti a chi aveva visto la Strahl e gli chiedeva se fosse sicuro del termine. Era più piccola, più tozza, con un ronzio più acuto e meno elegante; l'aveva comprata con i risparmi di un anno di trasporti, con il lavoro di Kytes, con un prestito che Migelo giurava di non voler garantire e di cui ricordava a memoria ogni scadenza. Nono, la prima volta che l'aveva sentita, aveva detto che aveva un suono onesto. Vaan aveva deciso che era un complimento.
 
-Cercò il congegno della voce. Lo teneva da Bahamut in una custodia di stoffa, sotto il sedile. Basch glielo aveva ridato prima di partire per Archades, la mattina del funerale privato di Noah, quando la voce del Giudice non aveva più avuto bisogno di una scatola per diventare quella di un altro. Vaan lo tirò fuori, controllò che le due rotelle girassero, lo avvolse in una camicia pulita e lo mise in cima alla roba da portare. Questa volta lo avrebbe restituito di persona.
+Cercò il congegno della voce. Lo teneva da Bahamut in una custodia di stoffa, sotto il sedile. Basch glielo aveva ridato prima di partire per Archades, la mattina del funerale privato di Noah, quando la voce del Giudice non aveva più avuto bisogno di un disco d'ottone per diventare quella di un altro. Vaan lo tirò fuori, controllò che la rotella girasse, lo avvolse in una camicia pulita e lo mise in cima alla roba da portare. Questa volta lo avrebbe restituito di persona.
 
 Penelo arrivò con un foglio piegato. Glielo porse dalla passerella.
 

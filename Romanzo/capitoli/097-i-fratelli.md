@@ -126,7 +126,7 @@ Rimise gli occhiali. Scostò il panno di seta da quello che teneva in mano.
 
 Era nero e lucido, a facce irregolari, e anche spento aveva una specie di profondità, come un pozzo visto dall'alto. Ashe lo riconobbe, e il cuore le si fermò. Ricordò la stanza del palazzo di Rabanastre dove suo padre l'aveva portata per mano, da bambina, la sera prima della sua presentazione a corte. Le aveva detto: questo è nostro, e non lo useremo mai. Era il Frammento del Crepuscolo.
 
-Vaan lo riconobbe nello stesso istante, per un'altra strada. L'aveva avuto in tasca. L'aveva preso con le sue mani dal tesoro del palazzo, una notte, credendo di rubare una pietra preziosa da rivendere, e da quella tasca era cominciato tutto. Fece un passo avanti senza volerlo, come si fa verso un portafogli che si riconosce nella mano di un borsaiolo.
+Vaan lo riconobbe nello stesso istante, per un'altra strada. L'aveva avuto addosso. L'aveva preso con le sue mani dal tesoro del palazzo, una notte, credendo di rubare una pietra preziosa da rivendere, e da lì era cominciato tutto. Fece un passo avanti senza volerlo, come si fa verso un portafogli che si riconosce nella mano di un borsaiolo.
 
 «Ve l'hanno preso» disse Cid. «Lo so. Mi dispiace. È stato utilissimo.»
 

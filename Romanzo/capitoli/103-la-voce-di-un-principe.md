@@ -114,9 +114,9 @@ Balthier, alla barra, non disse niente. Ma la Strahl rallentò, di poco, perché
 
 Fu Vaan.
 
-Era dietro, aggrappato a una maniglia del soffitto, e da qualche minuto si guardava intorno nella cabina con un'espressione che Penelo conosceva benissimo e che temeva più di qualsiasi corazzata. Era l'espressione del Vaan di dodici anni davanti al banco di un fruttivendolo distratto. Scivolò lungo la paratia fino al sedile di Balthier, infilò una mano nella tasca della giacca appesa allo schienale, e la tirò fuori con una piccola scatola d'ottone e di cuoio in mano, grande come una tabacchiera, con due rotelle sul fianco e una grata sottile da una parte.
+Era dietro, aggrappato a una maniglia del soffitto, e da qualche minuto si guardava intorno nella cabina con un'espressione che Penelo conosceva benissimo e che temeva più di qualsiasi corazzata. Era l'espressione del Vaan di dodici anni davanti al banco di un fruttivendolo distratto. Scivolò lungo la paratia fino al sedile di Balthier, infilò una mano nella tasca della giacca appesa allo schienale, e la tirò fuori con un disco d'ottone appeso a una catenella, grande quanto una moneta d'oro grossa, con una grata finissima sul davanti e una piccola rotella zigrinata sul bordo.
 
-Ashe la riconobbe. L'ultima volta che l'aveva vista, a Bhujerba, Balthier l'aveva usata per ordinarle di smettere di armeggiare con i comandi di un'aeronave che lei stava cercando di rubare, con una voce che non era la sua; e poi, per farle un dispetto, con la voce di lei. Non lo aveva mai perdonato del tutto.
+Ashe lo riconobbe. L'ultima volta che l'aveva visto, a Bhujerba, Balthier l'aveva usato per ordinarle di smettere di armeggiare con i comandi di un'aeronave che lei stava cercando di rubare, con una voce che non era la sua; e poi, per farle un dispetto, con la voce di lei. Non lo aveva mai perdonato del tutto.
 
 «Vaan» disse Penelo. «No.»
 
@@ -124,17 +124,17 @@ Ashe la riconobbe. L'ultima volta che l'aveva vista, a Bhujerba, Balthier l'avev
 
 «Non sai neanche come funziona.»
 
-«L'ho visto fare.» Vaan girò una rotella, poi l'altra, con la lingua fra i denti. Si portò la scatola alla bocca e disse, prova, prova, e quello che uscì fu prima la voce di una vecchia, poi quella di un Bangaa raffreddato, poi una cosa che non era una voce. Girò ancora. «Aspetta. Aspetta.»
+«L'ho visto fare.» Vaan girò la rotella, una tacca, due, con la lingua fra i denti. Si portò il disco alla bocca e disse, prova, prova, e quello che uscì fu prima la voce di una vecchia, poi quella di un Bangaa raffreddato, poi una cosa che non era una voce. Girò ancora. «Aspetta. Aspetta.»
 
 «Balthier» disse Ashe. «Fermalo.»
 
 «Ho le mani occupate» disse Balthier, che le aveva, e che comunque non sembrava avere nessuna intenzione di fermarlo.
 
-Vaan girò l'ultima rotella di un niente. Si avvicinò al tubo d'ottone. Si schiarì la gola. E parlò.
+Vaan girò la rotella di un niente. Si avvicinò al tubo d'ottone. Si schiarì la gola. E parlò.
 
 «Marchese Ondore.»
 
-La voce che uscì dalla scatola era chiara, giovane, educatissima, di un ragazzo che a dodici anni parlava come un ambasciatore di quaranta. Era la voce di Larsa Ferrinas Solidor. Era così somigliante che Penelo si voltò di scatto verso il portello, come se il principe fosse appena entrato.
+La voce che uscì dal disco era chiara, giovane, educatissima, di un ragazzo che a dodici anni parlava come un ambasciatore di quaranta. Era la voce di Larsa Ferrinas Solidor. Era così somigliante che Penelo si voltò di scatto verso il portello, come se il principe fosse appena entrato.
 
 Dall'altra parte del canale ci fu un silenzio assoluto.
 
@@ -162,7 +162,7 @@ Dall'altra parte, lungo silenzio. Poi Ondore parlò di nuovo, e la sua voce era 
 
 «Principe Larsa. Altezza.» Una pausa. «Non so come siate arrivato su quella nave, e immagino che un giorno qualcuno me lo racconterà, e che non mi piacerà. Ma se il fratello dell'imperatore e l'erede di Dalmasca combattono dalla stessa parte, allora forse questa guerra ha un senso che io non vedevo.» Un'altra pausa. «La Resistenza vi darà copertura. Dite quello che vi serve.»
 
-Vaan aprì la bocca per rispondere con la voce di Larsa, e Penelo gli tolse la scatola di mano.
+Vaan aprì la bocca per rispondere con la voce di Larsa, e Penelo gli tolse il disco di mano.
 
 «Basta» sibilò. «Basta. Hai già detto che la proteggi con la tua vita. Larsa non direbbe mai una cosa così. Larsa direbbe una cosa intelligente.»
 
@@ -200,7 +200,7 @@ Ashe lo guardò. Poi, per la prima volta da Ridorana, le scappò un mezzo sorris
 
 «Mai, altezza.»
 
-Vaan riprese la scatola dalle mani di Penelo, che la lasciò andare, e la rimise nella tasca della giacca di Balthier con una cura esagerata, come si rimette un vaso prezioso sul suo mobile. Penelo lo guardò e scosse la testa. Fran, senza distogliere gli occhi dagli strumenti, disse una parola sola.
+Vaan riprese il disco dalle mani di Penelo, che lo lasciò andare, e lo rimise nella tasca della giacca di Balthier con una cura esagerata, come si rimette un vaso prezioso sul suo mobile. Penelo lo guardò e scosse la testa. Fran, senza distogliere gli occhi dagli strumenti, disse una parola sola.
 
 «Bravo.»
 

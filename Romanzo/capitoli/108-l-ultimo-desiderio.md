@@ -80,13 +80,13 @@ Vaan non si mosse.
 
 «Ti aspetto. Stacchi i cavi, torni, e partiamo. Ti aspetto.»
 
-Balthier lo guardò un momento. Poi infilò la mano nella tasca della giacca e ne tirò fuori la piccola scatola d'ottone e di cuoio con le due rotelle, quella con cui Vaan aveva fatto parlare Larsa, e gliela mise in mano.
+Balthier lo guardò un momento. Poi infilò la mano nella tasca della giacca e ne tirò fuori il piccolo disco d'ottone con la rotella, quello con cui Vaan aveva fatto parlare Larsa, e glielo mise in mano.
 
 «Tieni.»
 
 «Perché?»
 
-«Perché non si sa mai quando serve un'altra voce.» Gli chiuse le dita sopra la scatola. «Restituiscimela, poi. Ci sono affezionato.»
+«Perché non si sa mai quando serve un'altra voce.» Gli chiuse le dita sopra il disco. «Restituiscimelo, poi. Ci sono affezionato.»
 
 «Poi quando?»
 
