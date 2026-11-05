@@ -22,7 +22,7 @@ Penelo guardò la luce, e pensò alla parola madre, e non le piacque.
 
 ---
 
-Ashe camminava davanti. Non seguiva più nessuno: da quando erano entrati nel Cristallo, il mantello verde non era ricomparso. Ma camminava come se lo seguisse ancora, dritta, senza esitare alle pietre nere, e quando gli altri si fermavano lei non si fermava.
+Ashe camminava davanti. Non seguiva più nessuno: da quando erano entrati nel Cristallo, il drappo blu non era ricomparso. Ma camminava come se lo seguisse ancora, dritta, senza esitare alle pietre nere, e quando gli altri si fermavano lei non si fermava.
 
 Su una lastra più larga delle altre, sospesa davanti a una parete dove la luce scorreva più fitta che altrove, si fermò lei.
 
@@ -84,7 +84,7 @@ La donna si piegò. I veli si spensero, uno dopo l'altro. Il sussurro si allonta
 
 Si sedettero per terra. Tutti. Anche Basch, che non si sedeva mai.
 
-Nessuno chiese agli altri che cosa avesse sentito. Penelo piangeva senza rumore, con il bastone sulle ginocchia, e Vaan le si sedette accanto e non disse niente e le diede la spalla, e lei ci appoggiò la fronte. Balthier aveva tirato fuori il foglio strappato della mappa e lo stava piegando e ripiegando in quadrati sempre più piccoli. Fran aveva gli occhi chiusi.
+Nessuno chiese agli altri che cosa avesse sentito. Penelo piangeva senza rumore, con il bastone sulle ginocchia, e Vaan le si sedette accanto e le diede la spalla. Lei ci appoggiò la fronte. Balthier aveva tirato fuori il foglio strappato della mappa e lo stava piegando e ripiegando in quadrati sempre più piccoli. Fran aveva gli occhi chiusi.
 
 Basch fissava il punto della parete dove aveva tenuto ferma la donna di luce. Aveva la mascella serrata.
 

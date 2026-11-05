@@ -30,7 +30,7 @@ Aurel ci pensò. «Perché un giorno qualcuno tornerà a fare questa strada a pi
 
 ---
 
-L'ingresso del Palazzo di Sochen era una facciata scolpita nella collina, con sei colonne e un frontone in cui qualcuno aveva rappresentato una processione di figure che portavano doni a un trono vuoto. Le facce delle figure erano state scalpellate via. Ashe le guardò a lungo e non disse niente, e Penelo, che le stava accanto, capì perché e non disse niente nemmeno lei.
+L'ingresso del Palazzo di Sochen era una facciata scolpita nella collina, con sei colonne e un frontone in cui qualcuno aveva rappresentato una processione di figure che portavano doni a un trono vuoto. Le facce delle figure erano state scalpellate via. Ashe le guardò a lungo. Penelo, che le stava accanto, pensò ai santuari dei Mosfora e tacque anche lei.
 
 Davanti all'ingresso, Vaan si fermò a scrutare il buio.
 
@@ -142,13 +142,19 @@ Basch sospirò. Fu un sospiro minimo, quasi invisibile, e nessuno dei compagni, 
 
 «Nessuno ha tempo! Il tempo è un'invenzione dei vigliacchi!» Gilgamesh avanzò di un passo, e il fascio di spade sulla sua schiena tintinnò come un campanile. «In guardia!»
 
-Basch non sguainò. Fece un passo di lato, e quando Gilgamesh calò il primo colpo, enorme e teatrale, lui non era più dove il colpo arrivava. Il secondo colpo prese il palo della tettoia del ricettatore, che si inclinò. Il terzo non arrivò, perché Basch, senza fretta, aveva messo un piede sulla corda che legava il fascio di spade e che si era allentata strisciando a terra, e quando Gilgamesh alzò di nuovo il braccio la corda si tese, e lui si trovò tirato all'indietro dal peso della sua stessa collezione, e cadde a sedere nella piazzetta con un fracasso di metallo che fece affacciare mezza Vecchia Archades.
+Basch non sguainò. Guardò il petto del gigante, dove la corda del fascio di spade era chiusa da un nodo nuovo, grosso come un pugno, triplo, e annodato con un'evidente rabbia.
+
+«L'ho imparato!» gridò Gilgamesh, che aveva seguito il suo sguardo. «Nodo da ormeggio! Tre giri! Stavolta non me la sciogli, capitano!»
+
+«No» ammise Basch.
+
+Fece un passo di lato. Il primo colpo, enorme e teatrale, scese dove lui non era più. Il secondo prese il palo della tettoia del ricettatore, che si inclinò. Al terzo Basch si limitò a scostarsi di nuovo, e il gigante, lanciato in avanti con tutto il peso di una dozzina di spade sulla schiena e di un nodo che non si scioglieva, non riuscì a fermarsi: passò sotto la tettoia inclinata, la tettoia gli cadde addosso con le pentole del ricettatore, e Gilgamesh finì a sedere nella piazzetta sotto un fracasso di rame e di metallo che fece affacciare mezza Vecchia Archades. Il fascio di spade, schiacciato fra lui e il selciato, si aprì dall'altra parte. Il nodo, quello, resse benissimo.
 
 Da qualche parte, in fondo a un vicolo, fischiò la guardia.
 
-Gilgamesh balzò in piedi con un'agilità sorprendente per la sua stazza, e nel balzo gli scivolò il mantello da una spalla, e tutti videro quello che il mantello copriva: altre quattro braccia, grigie come le prime due, piegate contro i fianchi, che si aprirono a ventaglio per rimettergli in equilibrio il peso. Penelo gridò. Vaan fece un passo indietro. Gilgamesh si ricoprì in fretta, con l'aria offesa di chi è stato sorpreso in camicia da notte. Guardò Basch, guardò il vicolo da cui veniva il fischio, guardò il fascio di spade, che adesso era aperto per terra in un ventaglio di lame.
+Gilgamesh balzò in piedi con un'agilità sorprendente per la sua stazza, e nel balzo gli scivolò il mantello da una spalla, e tutti videro quello che il mantello copriva: altre quattro braccia, grigie come le prime due, piegate contro i fianchi, che si aprirono a ventaglio per rimettergli in equilibrio il peso. Penelo gridò. Vaan, che a Bhujerba ne aveva intravista una e si era detto di essersela sognata, fece un passo indietro. Gilgamesh si ricoprì in fretta, con l'aria offesa di chi è stato sorpreso in camicia da notte. Guardò Basch, guardò il vicolo da cui veniva il fischio, guardò il fascio di spade, che adesso era aperto per terra in un ventaglio di lame.
 
-«Questa non vale!» gridò, già correndo verso l'altro lato della piazza. «Non vale! Hai usato la mia collezione contro di me! Ci rivedremo, cavaliere! Ci rivedremo quando meno te lo aspetti, e allora...»
+«Questa non vale!» gridò, già correndo verso l'altro lato della piazza. «Non vale! Hai usato la tettoia di un altro! Ci rivedremo, cavaliere! Ci rivedremo quando meno te lo aspetti, e allora...»
 
 Il resto della frase si perse nei vicoli. Il fischio della guardia si avvicinò, esitò, si allontanò in un'altra direzione. La piazzetta tornò silenziosa. Il ricettatore guardò il palo storto della sua tettoia e poi la compagnia, e decise che la cosa più saggia era non aver visto niente, e si mise a lucidare una pentola.
 
@@ -162,6 +168,6 @@ Il ricettatore non alzò gli occhi.
 
 «Di solito è lui che trova te.»
 
-Balthier annuì, come se se lo aspettasse. Raccolse tutte le spade, una per una, e le rilegò con la corda di Gilgamesh in un fascio ordinato. Poi se lo caricò in spalla, barcollò, e lo passò a Basch.
+Balthier annuì, come se se lo aspettasse. Raccolse tutte le spade, una per una, e le rilegò con uno spago del ricettatore in un fascio ordinato. Poi se lo caricò in spalla, barcollò, e lo passò a Basch.
 
 «Allora aspettiamo che ci trovi» disse.

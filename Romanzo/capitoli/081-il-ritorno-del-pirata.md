@@ -126,7 +126,7 @@ Balthier lo guardò a lungo. Poi rise, brevemente, senza allegria.
 
 «Notizie in cambio di favori» disse. «Favori in cambio di notizie. E in mezzo qualcuno che guadagna su tutti e due.» Si voltò verso gli altri. «Benvenuti ad Archades. Mi sembra di essere tornato a casa.»
 
-Fece qualche passo verso l'imbocco della strada. Gli altri lo seguirono. Jules restò fermo al suo posto, con le mani dietro la schiena, e li lasciò passare, e solo quando Balthier fu a una decina di passi da lui alzò la voce, cordiale, come si saluta un vecchio compagno di scuola all'uscita di una festa.
+Fece qualche passo verso l'imbocco della strada. Gli altri lo seguirono. Jules restò fermo al suo posto, con le mani dietro la schiena, e li lasciò passare, e solo quando Balthier fu a una decina di passi da lui alzò la voce, cordiale.
 
 «Porta i miei omaggi a tuo padre, Ffamran.»
 
@@ -172,4 +172,4 @@ Balthier non distolse gli occhi dal vetro.
 
 «Conducente.» Balthier si sporse in avanti. «Più veloce, se non ti dispiace. Preferirei arrivare prima che mi venga voglia di essere sgradevole con qualcuno.»
 
-Il conducente accelerò. Fran, dall'altra parte, posò una mano sul bracciolo accanto a quella di Balthier, senza toccarla. Lui guardò la mano, e poi di nuovo il vetro, e non disse niente, e la navetta andò dritta verso Draklor sotto un cielo che cominciava a scurirsi.
+Il conducente accelerò. Fran, dall'altra parte, posò una mano sul bracciolo accanto a quella di Balthier, senza toccarla. Lui guardò la mano, poi di nuovo il vetro. La navetta andò dritta verso Draklor sotto un cielo che cominciava a scurirsi.
