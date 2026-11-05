@@ -100,7 +100,7 @@ Balthier si era staccato dalla colonna. Stava in piedi in mezzo alla navata grig
 
 «Il dottor Cid» disse Basch.
 
-«Il dottor Cid.» Balthier ripeté il nome come si ripete l'indirizzo di un posto dove si deve andare per forza. «Ghis lo ha nominato sul Leviatano, ricordi? Prima di consegnare il Crepuscolo. Ha detto che il dottore sarebbe stato molto contento. È lui che fa le pietre. È lui che le ha messe nelle ossa di quel povero imbecille. Se il Crepuscolo è ancora intero da qualche parte, è sul suo tavolo.» Guardò Ashe. «Vuoi spezzarlo? Allora devi andare ad Archades. Nel cuore. Non c'è un'altra strada.»
+«Il dottor Cid.» Balthier ripeté il nome come si ripete l'indirizzo di un posto dove si deve andare per forza. «Ghis lo ha nominato sul Leviatano, ricordi? Quando si è preso la vostra pietra. Ha detto che il dottor Cid avrebbe avuto di che rallegrarsi. È lui che fa le pietre. È lui che le ha messe nelle ossa di quel povero imbecille. Se il Crepuscolo è ancora intero da qualche parte, è sul suo tavolo.» Guardò Ashe. «Vuoi spezzarlo? Allora devi andare ad Archades. Nel cuore. Non c'è un'altra strada.»
 
 Ashe lo fissò a lungo. Poi si voltò verso Al-Cid.
 
