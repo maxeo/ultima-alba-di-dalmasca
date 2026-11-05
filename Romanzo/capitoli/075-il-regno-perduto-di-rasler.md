@@ -128,17 +128,19 @@ Basch non rispose subito. Era il genere di frase a cui un cavaliere non risponde
 
 «E adesso?»
 
-«Adesso non lo so.» Basch guardò la pedana vuota. «Credo che un ricordo possa essere anche un'altra cosa. Una promessa. Non quella di rendere il male. Quella di non lasciare che si ripeta.» Esitò, e fu una delle rare volte in cui Ashe lo vide esitare. «Il principe Rasler, a Nalbina, mi chiese una sola cosa, prima della battaglia. Mi chiese di tenervi lontana dal campo. Non mi chiese di vendicarlo, se fosse caduto. Mi chiese di tenervi lontana.»
+«Adesso non lo so.» Basch guardò la pedana vuota. «Credo che un ricordo possa essere anche un'altra cosa. Una promessa. Non quella di rendere il male. Quella di non lasciare che si ripeta.» Esitò, e fu una delle rare volte in cui Ashe lo vide esitare. «Il principe Rasler, a Nalbina, non mi chiese di vendicarlo. Aveva la voce per due parole, e disse quelle.»
 
-Ashe lo fissò. «Non me l'avevi mai detto.»
+«Il pugno» disse Ashe.
 
-«No, altezza.»
+«Sì, altezza.»
 
-«Perché?»
+Lei abbassò gli occhi sulla mano sinistra, nuda, che aveva appena riaperto. Basch, quelle due parole, gliele aveva riferite a Rabanastre, nei giorni dopo Nalbina, e lei aveva capito subito che cosa volevano dire, e non lo aveva mai spiegato a nessuno. Un uomo che muore sotto una freccia, nel deserto, e pensa a un anello troppo largo e a una mano che lo tiene stretto per non perderlo.
 
-«Perché non vi avrei tenuta lontana da niente, allora. E non vi tengo lontana da niente adesso.» Basch abbassò la testa. «Ma mi sembrava giusto che lo sapeste qui.»
+«Non era vendetta» disse Basch piano.
 
-Lei non disse niente per molto tempo. Poi salì i tre gradini della pedana e si fermò dove una volta c'era il trono di quercia, e da lì guardò la finestra e il lago. Non era più la faccia che aveva portato in giro per mezzo continente, quella stretta e dura, con la bocca chiusa sulla vendetta. Non era nemmeno una faccia in pace. Era la faccia di una che ha fatto un conto e ha scoperto un errore all'inizio della colonna.
+«No.»
+
+Rimase in silenzio a lungo. Poi salì i tre gradini della pedana e si fermò dove una volta c'era il trono di quercia, e da lì guardò la finestra e il lago. Non era più la faccia che aveva portato in giro per mezzo continente, quella stretta e dura, con la bocca chiusa sulla vendetta. Non era nemmeno una faccia in pace. Era la faccia di una che ha fatto un conto e ha scoperto un errore all'inizio della colonna.
 
 «Le lanterne sul lago» disse. «Avrei voluto vederle una volta.»
 
