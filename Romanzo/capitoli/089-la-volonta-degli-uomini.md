@@ -58,7 +58,7 @@ Ashe strinse le labbra.
 
 Ashe chiuse gli occhi.
 
-Le tornò in mente, all'improvviso, una sala vuota sul lago di Nabudis, una pedana senza trono, e Basch che diceva, a capo chino, che Rasler prima della battaglia gli aveva chiesto una cosa sola. Non di vendicarlo. Di tenerla lontana dal campo.
+Le tornò in mente, all'improvviso, una sala vuota sul lago di Nabudis, una pedana senza trono, e Basch che diceva, a capo chino, che Rasler morendo non aveva chiesto vendetta. Aveva detto due parole, e le parole erano per il suo pugno chiuso sull'anello.
 
 E il Rasler che le stava accanto un momento prima, con la mano sull'elsa, le aveva chiesto di prendere la spada.
 
