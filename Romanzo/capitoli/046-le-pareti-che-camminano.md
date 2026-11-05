@@ -58,6 +58,18 @@ Vaan osservò il guardiano fermo, abbastanza vicino da sentirne ancora il calore
 
 ---
 
+Chi costruì la tomba di Raithwall, e su questo gli architetti di ogni epoca si sono arrovellati senza venirne a capo, non aveva alcun interesse a farla visitare. Le tombe dei re di Dalmasca, nella cattedrale di Rabanastre, sono fatte per essere viste: hanno iscrizioni leggibili, lapidi lucidate, panche per i pellegrini. Questa era fatta per scoraggiare. Ogni sala era una domanda posta a chi entrava, e la domanda era sempre la stessa, ripetuta in modi diversi con una pazienza di settecento anni: *sei sicuro?*
+
+Penelo, che non era sicura di niente, camminava accanto a Vaan e gli teneva la manica.
+
+«Non ti tengo» disse, quando lui se ne accorse. «Tengo la manica.»
+
+«È attaccata a me.»
+
+«È un caso.»
+
+Vaan non la ritirò. A dire il vero, dopo la seconda parete, era contento che qualcuno gliela tenesse.
+
 Le sale oltre il secondo muro non mostravano più alcun segno di furia. Era peggio. La pietra tornava a essere immobile senza garantire di restarlo, e ogni rilievo troppo profondo faceva voltare qualcuno. Sulle colonne correvano lettere antiche, interrotte da figure di alberi e animali. Il pavimento era così pulito che le impronte lasciate dalla sabbia delle loro suole parevano un'offesa.
 
 Balthier si fermò davanti a un incavo nella parete. Ne osservò il bordo, poi il segno lasciato al centro da qualcosa che era stato tolto. Vossler gli si avvicinò.
@@ -177,6 +189,14 @@ Balthier arrivò al gradino centrale e studiò il pavimento vuoto. «Quindi il g
 Il pirata si girò. Ashe lo guardava con serietà assoluta. «Un potere che obbediva al Re Dinasta. Ci ha lasciato quello.»
 
 Balthier si toccò il bordo bruciato della manica. Rimase abbastanza in silenzio da far voltare anche Penelo. «Gli avevo chiesto un tesoro piccolo» disse infine a Fran. «Non immateriale.»
+
+«Un milione e cinquecentoventimila» disse Fran.
+
+«Meno tutto.» Il pirata si toccò il colletto, dove la penna di rame del Garuda spuntava ancora dal gilet. «Più una penna. Non è una cifra che si possa raccontare in una taverna senza essere presi a sassate.»
+
+«Allora non raccontarla.»
+
+«Fran, io racconto tutto. È la mia rovina e la mia fortuna.» Sospirò. «Ma questa la racconterò dopo. Molto dopo. Quando avrò trovato un modo di farla sembrare un trionfo.»
 
 «Hai cambiato idea tu.»
 
