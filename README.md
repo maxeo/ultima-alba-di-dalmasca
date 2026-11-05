@@ -32,14 +32,15 @@ Il testo completo è in [`Romanzo/romanzo.md`](Romanzo/romanzo.md): circa 320.00
 
 **[Apri il lettore](https://maxeo.github.io/ultima-alba-di-dalmasca/)**
 
-L'audiolibro è in lavorazione, un file per capitolo: il lettore mostra i capitoli pronti e quelli in arrivo. Ricorda dove sei arrivato, segue il testo mentre la voce legge, gestisce i segnalibri e salva i capitoli sul dispositivo per ascoltarli senza rete. Puoi anche scaricarli come file mp3.
+L'audiolibro è in lavorazione, un file per capitolo: il lettore mostra i capitoli pronti e quelli in arrivo. Ricorda dove sei arrivato, segue il testo mentre la voce legge, gestisce i segnalibri e salva i capitoli sul dispositivo per ascoltarli senza rete. Puoi anche scaricarli come file mp3. Nell'elenco, scorrendo una riga verso sinistra azzeri il capitolo; tenendola premuta scegli il punto di arrivo.
 
-Dal menu puoi cambiare:
+Dal menu trovi anche i traguardi: tempo ascoltato, serie di giorni e medaglie. Puoi inoltre cambiare:
 
 - **Aspetto:** tema chiaro, scuro o di sistema, luce notturna regolabile e colore.
 - **Lettura:** dimensione, carattere, interlinea ed evidenziazione della frase.
 - **Ascolto:** velocità da 0,5× a 3×, uno o più pulsanti di salto e passaggio automatico al capitolo successivo.
-- **Lettore:** barre e pulsanti da mostrare. Solo play e pausa restano sempre.
+- **Lettore:** barre e pulsanti da mostrare, compreso il download del file, che parte nascosto. Solo play e pausa restano sempre.
+- **Ascolto senza rete:** capitoli salvati e spazio occupato, con salvataggio di una Parte o di tutta l'opera.
 
 Le impostazioni e i progressi restano nel browser; i progressi si possono esportare e importare. I caratteri Literata, Lora, EB Garamond e Atkinson Hyperlegible si scaricano da Google Fonts solo se li scegli.
 
