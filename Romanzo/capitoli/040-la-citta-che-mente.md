@@ -1,4 +1,4 @@
-# Parte V. Il sepolcro del Re Dinasta
+# Parte IV. Il sepolcro del Re Dinasta
 
 *Mia nipote rimase mia ospite a Bhujerba per tutta quella stagione. La ricevetti, dopo le traversie che è inutile qui ricordare, con l'affetto che le dovevo e con la prudenza che dovevo al mio paese, e non ebbi mai ragione di pentirmi di nessuna delle due. Era stanca. Aveva bisogno di riposo, di consiglio e di tempo, e io potevo offrirle tutte e tre le cose. Le offrii.*
 

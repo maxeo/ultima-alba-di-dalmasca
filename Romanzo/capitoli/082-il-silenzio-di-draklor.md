@@ -1,4 +1,4 @@
-# Parte X. Draklor e Balfonheim
+# Parte IX. Draklor e Balfonheim
 
 *Mi è stato rimproverato, in anni più quieti, di aver cercato per la Resistenza un'arma pari a quella dell'Impero. Rispondo qui, una volta per tutte, a quel rimprovero. La forza della nostra causa non stava nelle pietre, che lasciavo volentieri ai sapienti di Archades e alle loro superbie, ma nelle navi, negli uomini e nella giustizia di ciò che chiedevamo. Non domandai mai a nessuno di procurarmi la Negalite. Ebbi corrispondenza, è vero, con capitani di ventura e signori di porti che la storia ufficiale preferisce non nominare; con uno di loro, in particolare, mi legò una stima che durò fino alla sua morte. Ma ciò che ci dicemmo riguardava le rotte, il grano e la sorte dei profughi. Il resto appartiene ai pettegolezzi di chi non c'era.*
 

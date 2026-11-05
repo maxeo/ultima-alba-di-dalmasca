@@ -1,4 +1,4 @@
-# Parte I. Il crepuscolo di Dalmasca
+# Prologo. Il crepuscolo di Dalmasca
 
 *Le nozze della principessa Ashelia con il principe Rasler di Nabradia furono, prima di ogni altra cosa, un atto di prudenza. Due case antiche e due regni piccoli, stretti fra potenze che non conoscevano misura, scelsero di presentarsi al mondo come una cosa sola. Re Raminas, mio amico di lunga data, me ne scrisse con la sobrietà che gli era propria: un confine in comune, scriveva, si difende meglio se lo si chiama famiglia.*
 

@@ -1,4 +1,4 @@
-# Parte VIII. Il santuario fra le nuvole
+# Parte VII. Il santuario fra le nuvole
 
 *L'imperatore Gramis morì nel suo letto, a palazzo, mentre io armavo le mie navi. Il Senato di Archades ne diede notizia con la sobrietà che gli era abituale: un malore, poi un'indagine, poi una confessione. Il presidente Gregoroth, che per molti anni avevo stimato come uomo di legge, fu riconosciuto colpevole di aver avvelenato il sovrano e si tolse la vita prima del processo. La successione passò al principe Vayne senza disordini.*
 
