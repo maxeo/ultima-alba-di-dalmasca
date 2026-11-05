@@ -15,3 +15,5 @@
 | Ashe con una spada comune da soldato, pomo consumato | 104 | 106-107 | aperto |
 | Pietra di Larsa nera e incrinata dopo le Sephira | 106 | 111 (lettera di Penelo) | aperto |
 | Spada da cerimonia di Larsa, elsa d'argento, piantata e poi buttata da Vayne | 106 | 108 (Gabranth) o 109 | aperto |
+| Congegno della voce dato da Balthier a Vaan: "restituiscimela, poi" | 108 | 109 (Basch), 112 (restituito o tenuto) | aperto |
+| Elmo spaccato di Gabranth sul pavimento della Strahl | 108 | 111 (Basch sotto l'elmo) | aperto |
