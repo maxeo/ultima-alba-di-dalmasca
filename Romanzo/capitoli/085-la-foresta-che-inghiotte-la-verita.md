@@ -66,7 +66,7 @@ Camminarono verso la radura. Non la raggiunsero. Trovarono, al suo posto, un alt
 
 «E chi l'ha costruito?»
 
-Basch non lo sapeva. Nessuno lo sapeva. Ashe, che era stata in silenzio per quasi tutta la giornata, guardò la radura che si vedeva dal disco e che non c'era, e pensò, senza volerlo, a un uomo con il mantello verde che le compariva a qualche passo di distanza nei momenti in cui era più stanca, e la guardava, e annuiva. Lo aveva visto nella Tomba di Raithwall, davanti al Frammento d'Aurora. Lo aveva visto a Miriam, quando aveva alzato la Spada dei Re sulla pietra e lui l'aveva fermata. Non lo aveva visto a Nabudis. Si chiese, per la prima volta in modo chiaro, se esistesse un punto giusto da cui guardare Rasler, e se quello che vedeva fosse il posto dove sarebbe arrivata.
+Basch non lo sapeva. Nessuno lo sapeva. Ashe, che era stata in silenzio per quasi tutta la giornata, guardò la radura che si vedeva dal disco e che non c'era, e pensò, senza volerlo, a un uomo con il drappo blu che le compariva a qualche passo di distanza nei momenti in cui era più stanca, e la guardava, e annuiva. Lo aveva visto nella Tomba di Raithwall, davanti al Frammento d'Aurora. Lo aveva visto a Miriam, quando aveva alzato la Spada dei Re sulla pietra e lui l'aveva fermata. Non lo aveva visto a Nabudis. Si chiese, per la prima volta in modo chiaro, se esistesse un punto giusto da cui guardare Rasler, e se quello che vedeva fosse il posto dove sarebbe arrivata.
 
 Non lo disse a nessuno.
 
@@ -84,13 +84,13 @@ Fran si avvicinò alla parete con le orecchie tese e ci appoggiò la mano, e la 
 
 Ashe non lo ascoltava.
 
-Guardava la parete. A una decina di passi da lei, dentro la nebbia o davanti alla nebbia, non avrebbe saputo dirlo, c'era una figura. Era un uomo, alto, con i capelli chiari e un mantello verde, e stava fermo di spalle, rivolto verso la parete. La luce non lo toccava. Era la nebbia stessa ad avere quella forma, o la forma era dentro la nebbia, e i contorni tremavano appena, come quelli di una cosa vista attraverso l'acqua.
+Guardava la parete. A una decina di passi da lei, dentro la nebbia o davanti alla nebbia, non avrebbe saputo dirlo, c'era una figura. Era un uomo, alto, con i capelli chiari, l'armatura bianca e un drappo blu sulle spalle, e stava fermo di spalle, rivolto verso la parete. La luce non lo toccava. Era la nebbia stessa ad avere quella forma, o la forma era dentro la nebbia, e i contorni tremavano appena, come quelli di una cosa vista attraverso l'acqua.
 
 Ashe smise di respirare.
 
 L'uomo alzò una mano. La appoggiò sulla parete di nebbia, a palmo aperto. E la parete si aprì.
 
-Non si dissolse: si aprì, come si apre una tenda, in due lembi che si scostarono piano ai lati, e dietro c'era un sentiero, diritto, fra due file di alberi di pietra, che saliva verso una luce grigia. L'uomo con il mantello verde restò fermo sulla soglia del sentiero. Poi si voltò.
+Non si dissolse: si aprì, come si apre una tenda, in due lembi che si scostarono piano ai lati, e dietro c'era un sentiero, diritto, fra due file di alberi di pietra, che saliva verso una luce grigia. L'uomo con il drappo blu restò fermo sulla soglia del sentiero. Poi si voltò.
 
 Era Rasler. Era la sua faccia, la sua faccia aperta, che faceva fidare la gente. La guardò, a dieci passi di distanza, senza dire niente. Non sorrideva. Non annuiva, questa volta. La guardava soltanto, con un'espressione che Ashe non gli aveva mai visto in vita, e che non sapeva leggere.
 
@@ -112,7 +112,7 @@ Ashe guardò il sentiero, la luce grigia in fondo, i due lembi di nebbia che si 
 
 «Ho visto la strada» disse.
 
-Basch non insistette. Vaan, due passi più indietro, non aveva visto nessuno: aveva visto la nebbia aprirsi, e aveva visto Ashe, prima, guardare un punto preciso della parete con una faccia che gli aveva ricordato qualcosa. Gli aveva ricordato la Tomba di Raithwall, quando anche lui aveva visto un uomo con il mantello verde dove non poteva esserci, e la mano di lei gli era passata attraverso. Lo aveva detto ad Ashe, una volta, molto tempo dopo. Non ne avevano più parlato, e Vaan pensò che non fosse il momento nemmeno adesso.
+Basch non insistette. Vaan, due passi più indietro, non aveva visto nessuno: aveva visto la nebbia aprirsi, e aveva visto Ashe, prima, guardare un punto preciso della parete con una faccia che gli aveva ricordato qualcosa. Gli aveva ricordato la Tomba di Raithwall, quando anche lui aveva visto un uomo con il drappo blu dove non poteva esserci, e la mano di lei gli era passata attraverso. Lo aveva detto ad Ashe, una volta, molto tempo dopo. Non ne avevano più parlato, e Vaan pensò che non fosse il momento nemmeno adesso.
 
 Balthier guardò il passaggio. Poi guardò Ashe. Poi guardò Fran, e Fran scosse appena la testa, un movimento minimo, che non diceva niente di preciso e che lui capì lo stesso.
 
@@ -134,7 +134,7 @@ Ashe lo sapeva. Lo sapevano tutti, in realtà, ed era Vaan a dirlo, perché Vaan
 
 «Belias» disse. «Quello della Tomba.»
 
-Nella Tomba di Raithwall, molte settimane prima, il guardiano del Frammento d'Aurora li aveva aspettati in una sala di fuoco, e quando lo avevano vinto non era morto. Era rimasto con loro, in un modo che nessuno di loro sapeva spiegare: una presenza calda dietro le spalle di Ashe, un nome che lei poteva chiamare e che rispondeva. Lo aveva chiamato poche volte. Non le piaceva farlo. Le sembrava di usare qualcosa che non era suo, un'eredità che qualcuno le aveva messo in mano senza chiederle se la voleva.
+Da quella sala di fuoco nella Tomba, Belias era rimasto con lei: una presenza calda dietro le spalle, un nome che poteva chiamare e che rispondeva. Lo aveva chiamato poche volte. Non le piaceva farlo. Le sembrava di usare qualcosa che non era suo, un'eredità che qualcuno le aveva messo in mano senza chiederle se la voleva.
 
 Guardò la porta. Guardò le figure di giganti nelle fiamme, scolpite settecento anni prima da gente che conosceva Belias e il suo padrone.
 
