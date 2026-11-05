@@ -16,7 +16,7 @@ Anastasis non rispose subito. Gli occhi bianchi rimasero su di lei.
 
 La sala si fece silenziosa. Persino Al-Cid smise di accavallare le gambe.
 
-«Raithwall non lasciò ai suoi figli soltanto le pietre» disse Anastasis. «Lasciò tre frammenti a tre case, e questo lo sai. Lasciò anche un'altra cosa. Non alla sua famiglia, né a nessuna famiglia di re. La lasciò al Gran Kiltias del suo tempo, che era un uomo povero e senza eserciti, e gli chiese di custodirla in un tempio dove nessun re andasse mai a pregare.» Le dita intrecciate in grembo si mossero appena. «Una spada.»
+«Raithwall non lasciò ai suoi figli soltanto le pietre» disse Anastasis. «Lasciò tre frammenti, due a due case e il terzo nella sua tomba, e questo lo sai. Lasciò anche un'altra cosa. Non alla sua famiglia, né a nessuna famiglia di re. La lasciò al Gran Kiltias del suo tempo, che era un uomo povero e senza eserciti, e gli chiese di custodirla in un tempio dove nessun re andasse mai a pregare.» Le dita intrecciate in grembo si mossero appena. «Una spada.»
 
 «Una spada» ripeté Ashe.
 

@@ -118,7 +118,7 @@ Il forno della via delle Fontane. La bottega. Sahra e le focacce bruciate da una
 
 Il capitano alzò la testa.
 
-Larsa aprì il cassetto. Prese la pietra nera con la crepa e la posò sul tavolo, accanto alla busta di Penelo. L'azzurro di quando gliel'aveva regalata a Lhusu non c'era più.
+Larsa aprì il cassetto. Prese la pietra nera con la crepa e la posò sul tavolo, accanto alla busta di Penelo. Il colore di quando gliel'aveva regalata sul Leviatano non c'era più.
 
 «Le ho scritto che non funziona più» disse. «Mi ha risposto che, per quello che doveva fare, ha funzionato abbastanza.»
 

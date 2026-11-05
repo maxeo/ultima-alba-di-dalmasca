@@ -116,7 +116,7 @@ Dall'altra parte ci fu un silenzio lungo. Si sentivano, nel tubo, il vento che e
 
 Fu la prima volta che qualcuno la chiamava così. Ashe non se l'aspettava. La parola le arrivò addosso come un colpo, e lei non riuscì a reggerlo. Abbassò il tubo d'ottone. Si accorse che stava piangendo solo quando vide le lacrime cadere sulle sue mani, che stringevano il tubo, e non smise.
 
-Pianse per suo padre, che aveva sorriso all'uomo che lo uccideva. Per Rasler, morto con una domanda in bocca su una porta di Nalbina. Per Reks, che non aveva mai conosciuto, e per il fratello che lo aveva vegliato. Per Vossler, che l'aveva portata in spalla per la via dei Calderai la notte della caduta e poi l'aveva tradita per salvarla, e che lei non aveva mai perdonato e non avrebbe più potuto perdonare. Per Reddas, sul Faro. Per l'uomo disteso sul pavimento della cabina, che le aveva tolto tutto e alla fine aveva dato qualcosa indietro.
+Pianse per suo padre, che aveva sorriso all'uomo che lo uccideva. Per Rasler, morto nel deserto fuori Nalbina. Per Reks, che non aveva mai conosciuto, e per il fratello che lo aveva vegliato. Per Vossler, che l'aveva portata in spalla per la via dei Calderai la notte della caduta e poi l'aveva tradita per salvarla, e che lei non aveva mai perdonato e non avrebbe più potuto perdonare. Per Reddas, sul Faro. Per l'uomo disteso sul pavimento della cabina, che le aveva tolto tutto e alla fine aveva dato qualcosa indietro.
 
 Basch le mise una mano sulla spalla. Non disse niente. Non c'era più bisogno di nascondere niente, e nessuno dei due lo fece.
 

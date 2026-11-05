@@ -54,7 +54,7 @@ Rikken, ai piedi della scala, aveva ricominciato a camminare. Elza lo chiamò pe
 
 «Cosa direbbe?»
 
-«Che c'è da fare. Che ci sono tre navi nel mare di Naldoa con gente che aspetta, e due bande di Nalbina che aspettano solo che lui sia morto per tornare sulle banchine. Che il porto non si tiene da solo.» Elza scese due gradini. «Se volete fargli onore, non state qui a maledire il mare. Tenete il porto. Fate quello che faceva lui.»
+«Che c'è da fare. Che ci sono due navi nel mare di Naldoa con gente che aspetta, e due bande di Nalbina che aspettano solo che lui sia morto per tornare sulle banchine. Che il porto non si tiene da solo.» Elza scese due gradini. «Se volete fargli onore, non state qui a maledire il mare. Tenete il porto. Fate quello che faceva lui.»
 
 Rikken ci pensò.
 

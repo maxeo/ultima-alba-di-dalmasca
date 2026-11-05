@@ -42,7 +42,7 @@ Vaan non rispose subito. Prese un sassolino dal gradino, lo girò tra le dita, l
 
 Era la cosa che Vaan non diceva mai, e Penelo lo sapeva, e non insistette. Lo lasciò dove l'aveva lasciata lui: in una mattina di due anni prima, in una stanza sopra la bottega di Migelo, su un pavimento dove un ragazzo si era svegliato e suo fratello non respirava più.
 
-«Non si torna indietro» disse lei dopo un poco. «Puoi fare tutto quello che vuoi. Puoi spaccare la pietra, prenderne un pezzo, farla saltare in aria. Puoi vincere tutte le guerre. I miei fratelli non tornano. Reks non torna. Il marito di lei non torna.» Si strinse le ginocchia più forte. «Lo so. Lo so benissimo. Ed è stupido, perché quando chiudo gli occhi li vedo lo stesso. Li vedo meglio adesso che prima. Mio fratello Dorran, quello grande, aveva un dente storto qui davanti e quando rideva lo copriva col labbro. Me lo ricordo meglio adesso di quando era vivo. Come se non fosse andato da nessuna parte.»
+«Non si torna indietro» disse lei dopo un poco. «Puoi fare tutto quello che vuoi. Puoi spaccare la pietra, prenderne un pezzo, farla saltare in aria. Puoi vincere tutte le guerre. I miei fratelli non tornano. Reks non torna. Il marito di lei non torna.» Si strinse le ginocchia più forte. «Lo so. Lo so benissimo. Ed è stupido, perché quando chiudo gli occhi li vedo lo stesso. Li vedo meglio adesso che prima. Mio fratello Doran, quello grande, aveva un dente storto qui davanti e quando rideva lo copriva col labbro. Me lo ricordo meglio adesso di quando era vivo. Come se non fosse andato da nessuna parte.»
 
 «Forse non è andato da nessuna parte.»
 
