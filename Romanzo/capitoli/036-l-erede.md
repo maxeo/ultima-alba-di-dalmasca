@@ -58,15 +58,15 @@ Basch non disse niente. Ma le sue mani, sulle ginocchia, si erano chiuse.
 
 «Non si dice qualunque cosa a Montblanc» disse il moguri, con molta serietà. «Poi lui la chiede.» E sparì nel condotto, e si sentirono per un po' le sue unghie che grattavano il metallo, sempre più lontane.
 
-Nella stanza ci fu un silenzio. Poi tutti guardarono Balthier.
+Nella stanza ci fu un silenzio. Poi tutti guardarono Vaan, e Vaan guardò Balthier.
 
-Il pirata si portò la mano al fianco sinistro, dove sotto la giacca stava la tasca cucita all'interno e dove, avvolta in un panno, da Rabanastre dormiva la pietra del palazzo. La tenne lì un momento. Poi sospirò.
+Il pirata guardò la sacca del ragazzo, dove avvolta in un panno da Rabanastre dormiva la pietra del palazzo, il compenso che gli aveva lasciato in custodia e che a Bhujerba nessuno dei due si era ricordato di consegnare. Poi sospirò.
 
 «Ragazzo» disse. «Togliti uno stivale.»
 
 «Cosa?»
 
-«Uno stivale. Il sinistro. Fra un'ora ci perquisiranno, e perquisiranno prima i grandi. È una legge della vita militare, come il rancio freddo: un sergente guarda un pirata e pensa *questo nasconde qualcosa*, guarda te e pensa *questo avrà rubato al massimo una mela*.» Aveva già infilato le mani ammanettate sotto la giacca e ne stava tirando fuori il panno. «Prendila. E smettila di guardarmi così, non è un regalo. È un prestito. Con interessi altissimi.»
+«Uno stivale. Il sinistro. Fra un'ora ci perquisiranno, e perquisiranno prima i grandi. È una legge della vita militare, come il rancio freddo: un sergente guarda un pirata e pensa *questo nasconde qualcosa*, guarda te e pensa *questo avrà rubato al massimo una mela*.» Aveva già infilato le mani ammanettate nella sacca di Vaan e ne stava tirando fuori il panno. «Tienila lì. E smettila di guardarmi così: resta il mio compenso. Con interessi altissimi.»
 
 Vaan prese la pietra. Era fredda, nel panno, e pesava meno di quanto ricordasse. Se la infilò nello stivale, contro la caviglia, e si rimise in piedi, e camminò per la stanza per abituarsi, zoppicando appena.
 
@@ -220,7 +220,7 @@ Balthier si coprì gli occhi con le mani ammanettate.
 
 «Ragazzo.» Era Basch. Si era girato verso di lui e lo guardava, e la sua voce era cambiata. «Ragazzo. Quella pietra. Dove l'hai presa?»
 
-Vaan non riusciva a staccare gli occhi dal piede. «Nel palazzo. La notte del banchetto. Nel tesoro. Dietro una porta con un sigillo, che si è aperto da solo quando l'ho toccato.» Deglutì. «È quella che... è quella che ho dato a lui» e indicò Balthier «per venire a Bhujerba. Lui me l'ha ridata stanotte. Prestata.»
+Vaan non riusciva a staccare gli occhi dal piede. «Nel palazzo. La notte del banchetto. Nel tesoro. Dietro una porta con un sigillo, che si è aperto da solo quando l'ho toccato.» Deglutì. «È quella che... è quella che dovevo dare a lui» e indicò Balthier «per venire a Bhujerba. Me l'ha lasciata tenere. In custodia.»
 
 Basch abbassò lo sguardo.
 

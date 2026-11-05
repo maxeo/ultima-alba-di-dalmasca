@@ -57,7 +57,7 @@
 - Rete del Clan: Pukko, moguri lampista del palazzo da undici anni, riferisce al nipote (garzone da Migelo e corriere del Clan); Montblanc manda la notizia con un meccanico sulla nave corriera che raggiunge la flotta all'alba. Favore da pagare dopo. Consegna al cap. 36.
 
 ## Cap. 36
-- Circa 4.800 parole. Il Frammento: Balthier lo aveva come pagamento (cap. 27); avvertito dal Clan lo "presta" a Vaan, che lo nasconde nello stivale. Davanti ad Ashe si accende attraverso il cuoio: gag e rivelazione insieme. Così vale la fonte (luce nelle mani di Vaan, consegna a Ghis).
+- Circa 4.800 parole. Il Frammento: come al cap. 27, Balthier lo lascia in custodia a Vaan fino a Bhujerba; avvertito dal Clan, gli fa spostare la pietra dalla sacca allo stivale. Davanti ad Ashe si accende attraverso il cuoio: gag e rivelazione insieme. Così vale la fonte (luce nelle mani di Vaan, consegna a Ghis).
 - Clan: Gurdy, meccanico della nave corriera, consegna da una griglia i due messaggi di Pukko (Gabranth vuole uccidere Basch; il console cerca la pietra). Favore segnato da Montblanc: "Non si dice qualunque cosa a Montblanc. Poi lui la chiede." Da riscuotere in una Parte successiva (cap. 57 o 79).
 - Schiaffo con il dorso della destra, mani legate; la sinistra resta a pugno sull'anello largo. Ashe dice "ti prego" a Vaan.
 - Ashe a Vaan: "Taci", con la stessa immagine del mantello usata per Ghis al cap. 31: eco voluta.

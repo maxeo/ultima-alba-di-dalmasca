@@ -138,11 +138,11 @@ Lamont si chinò. Sul pavimento, ai piedi della rastrelliera più bassa, c'erano
 
 Fran ci pensò. «Mi dà fastidio» disse. «Come un rumore che non si sente.»
 
-Poi girò la testa, lentamente, e guardò la giacca di Balthier, il punto sul fianco sinistro dove il pirata teneva una tasca cucita all'interno, e dove da quando avevano lasciato Rabanastre stava avvolta in un panno la pietra che Vaan gli aveva dato in pagamento: la pietra del palazzo, quella che si era accesa nelle mani della donna in rosso e che aveva fatto tossire i motori della Strahl la notte del furto.
+Poi girò la testa, lentamente, e guardò la sacca di Vaan, dove da quando avevano lasciato Rabanastre stava avvolta in un panno la pietra che il ragazzo aveva offerto a Balthier in pagamento e che il pirata gli aveva lasciato in custodia fino a Bhujerba: la pietra del palazzo, quella che si era accesa nelle mani della donna in rosso e che aveva fatto tossire i motori della Strahl la notte del furto.
 
 «Anche quella» disse Fran. «Beve.»
 
-Balthier si portò la mano al fianco senza volerlo. «La mia beve con moderazione.»
+Vaan si portò la mano alla sacca senza volerlo. Balthier no. «Il mio compenso beve con moderazione» disse.
 
 «Per ora.»
 
