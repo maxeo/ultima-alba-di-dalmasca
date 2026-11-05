@@ -394,7 +394,7 @@ let stato = Object.assign({ cap: {}, segni: [], ultimo: null, velocita: 1, dim: 
 if (stato.ui && !stato.ui.scaricaNascosto) stato.ui.nascosti = [...(stato.ui.nascosti || []), 'scarica-file'];
 stato.ui = Object.assign({}, UI_BASE, stato.ui);
 if (stato.tema === 'notte') { stato.tema = null; stato.ui.notteOn = true; }
-const normalizzaCap = cap => { Object.values(cap).forEach(s => { if (s.ascoltati == null) s.ascoltati = s.pos > 5 ? s.pos : 0; if (s.giro == null) s.giro = s.ascoltati; if (s.finito == null) s.finito = !!s.fatto; }); };
+const normalizzaCap = cap => { Object.values(cap).forEach(s => { if (s.ascoltati == null) s.ascoltati = s.pos > 5 ? s.pos : 0; if (s.giro == null) s.giro = s.ascoltati; if (s.finito == null) s.finito = !!s.fatto; else if (s.sentito == null) s.finito = false; if (s.sentito == null) s.sentito = []; }); };
 normalizzaCap(stato.cap);
 stato.ui.indietro = [].concat(stato.ui.indietro);
 stato.ui.avanti = [].concat(stato.ui.avanti);
@@ -415,7 +415,7 @@ function durataTesto(s) {
 }
 const mb = b => b >= 1073741824 ? (b / 1073741824).toFixed(1).replace('.', ',') + ' GB' : (b / 1048576).toFixed(0) + ' MB';
 const pronti = () => capitoli.filter(c => c.durata);
-const sc = n => stato.cap[n] || (stato.cap[n] = { pos: 0, fatto: false, ascoltati: 0, giro: 0, finito: false });
+const sc = n => stato.cap[n] || (stato.cap[n] = { pos: 0, fatto: false, ascoltati: 0, giro: 0, finito: false, sentito: [] });
 const percorso = (c, cart, est) => `${cart}/${String(c.n).padStart(3, '0')}.${est}`;
 const assoluto = p => new URL(p, location.href).href;
 
@@ -493,7 +493,7 @@ function azioneAzzera(c, r) {
 }
 function azzera(c) {
   const s = sc(c.n);
-  s.pos = 0; s.fatto = false; s.giro = 0;
+  s.pos = 0; s.fatto = false; s.giro = 0; s.sentito = [];
   if (corrente === c.n) { a.currentTime = 0; aggiornaFatto(); aggiornaTempo(); }
   salvaStato();
   scorsa = null;
@@ -662,7 +662,7 @@ function carica(n, avvia, da) {
   if (!c || !c.durata) return;
   salvaPosizione(true);
   const stesso = corrente === n;
-  tAscolto = null;
+  tAscolto = null; mAscolto = null;
   corrente = n;
   stato.ultimo = n;
   const s = sc(n);
@@ -673,7 +673,7 @@ function carica(n, avvia, da) {
     a.addEventListener('loadedmetadata', () => { a.currentTime = inizio; a.playbackRate = stato.velocita; }, { once: true });
     caricaTesto(c);
   } else a.currentTime = inizio;
-  if (s.fatto && da == null) { s.fatto = false; s.pos = 0; s.giro = 0; }
+  if (s.fatto && da == null) { s.fatto = false; s.pos = 0; s.giro = 0; s.sentito = []; }
   $('nome').textContent = `${c.n}. ${c.titolo}`;
   $('pagina-t').textContent = `${c.n}. ${c.titolo}`;
   aggiornaFatto();
@@ -738,21 +738,38 @@ const salta = d => { if (corrente != null) { a.currentTime = Math.max(0, a.curre
 
 a.addEventListener('play', () => { $('play-ic').setAttribute('href', '#i-pausa'); $('play').setAttribute('aria-label', 'Pausa'); $('flotta-ic').setAttribute('href', '#i-pausa'); $('flotta-play').setAttribute('aria-label', 'Pausa'); disegnaTotale(); });
 a.addEventListener('pause', () => { $('play-ic').setAttribute('href', '#i-play'); $('play').setAttribute('aria-label', 'Riproduci'); $('flotta-ic').setAttribute('href', '#i-play'); $('flotta-play').setAttribute('aria-label', 'Riproduci'); salvaPosizione(true); disegna(); });
-let tAscolto = null;
+let tAscolto = null, mAscolto = null;
+function aggiungiSentito(s, da, a) {
+  const tratti = [...(s.sentito || []), [da, a]].sort((x, y) => x[0] - y[0]), uniti = [];
+  for (const [i, f] of tratti) {
+    const u = uniti[uniti.length - 1];
+    if (u && i <= u[1] + 1) u[1] = Math.max(u[1], f);
+    else uniti.push([i, f]);
+  }
+  s.sentito = uniti.map(([i, f]) => [Math.round(i * 10) / 10, Math.round(f * 10) / 10]);
+}
+const secondiSentiti = s => (s.sentito || []).reduce((t, [i, f]) => t + f - i, 0);
 function contaAscolto() {
-  const ora = performance.now();
+  const ora = performance.now(), m = a.currentTime;
   if (corrente != null && tAscolto != null && !a.paused && !a.seeking) {
     const d = (ora - tAscolto) / 1000;
-    if (d < 2) { const s = sc(corrente); s.ascoltati = (s.ascoltati || 0) + d; s.giro = (s.giro || 0) + d; registraGiorno(d); }
+    if (d < 2) {
+      const s = sc(corrente);
+      s.ascoltati = (s.ascoltati || 0) + d; s.giro = (s.giro || 0) + d; registraGiorno(d);
+      if (mAscolto != null && m > mAscolto && m - mAscolto <= d * a.playbackRate + .5) aggiungiSentito(s, mAscolto, m);
+    }
   }
   tAscolto = a.paused ? null : ora;
+  mAscolto = a.paused ? null : m;
 }
 a.addEventListener('timeupdate', () => { contaAscolto(); aggiornaTempo(); salvaPosizione(); });
 a.addEventListener('loadedmetadata', posizioneMedia);
 a.addEventListener('seeked', posizioneMedia);
 a.addEventListener('error', () => { if (a.src) annuncia('Audio non disponibile. Controlla la connessione.'); });
 a.addEventListener('ended', () => {
-  const s = sc(corrente); s.fatto = true; s.finito = true; s.pos = 0; verificaTraguardi(); salvaStato(); aggiornaFatto();
+  const s = sc(corrente), durata = capitoli.find(k => k.n === corrente)?.durata || a.duration;
+  if (secondiSentiti(s) >= durata * .9) { s.fatto = true; s.finito = true; }
+  s.pos = 0; verificaTraguardi(); salvaStato(); aggiornaFatto();
   const n = adiacente(1);
   if (n && stato.ui.continua) carica(n.n, true, 0); else disegna();
 });
@@ -779,7 +796,7 @@ cur.addEventListener('change', () => {
 });
 $('fatto').onclick = () => {
   if (corrente == null) return annuncia('Scegli prima un capitolo.');
-  const s = sc(corrente); s.fatto = !s.fatto; if (s.fatto) s.pos = 0; else s.giro = 0;
+  const s = sc(corrente); s.fatto = !s.fatto; if (s.fatto) s.pos = 0; else { s.giro = 0; s.sentito = []; }
   salvaStato(); aggiornaFatto(); disegna();
   annuncia(s.fatto ? 'Segnato come ascoltato.' : 'Segnato come da ascoltare.');
 };
@@ -1298,6 +1315,7 @@ const TRAGUARDI = [
 function verificaTraguardi() {
   if (!capitoli.length) return;
   const st = statistiche();
+  TRAGUARDI.forEach(([id, , , val]) => { const [v, o] = val(st); if (stato.traguardi[id] && v < o) delete stato.traguardi[id]; });
   const nuovi = TRAGUARDI.filter(([id, , , val]) => { const [v, o] = val(st); return !stato.traguardi[id] && v >= o; });
   if (!nuovi.length) return;
   nuovi.forEach(([id]) => { stato.traguardi[id] = new Date().toISOString(); });
@@ -1476,7 +1494,7 @@ $('celebra').addEventListener('click', e => { if (!e.target.closest('.celebra-co
 $('pannello').addEventListener('click', e => { if (e.target === $('pannello')) $('pannello').close(); });
 const CHIAVI_UI = { accento: 'accent', evid: 'highlight', font: 'font', inter: 'lineHeight', indietro: 'skipBack', avanti: 'skipForward', continua: 'autoNext', scambia: 'swapControls', autoRiga: 'autoRow', nascosti: 'hiddenButtons', notteOn: 'nightLightOn', notte: 'nightLight', noBarra: 'hideBar', noIcone: 'hideIconRow', noAvanz: 'hideProgress', noTitolo: 'hideTitle' };
 const perEsporta = () => ({
-  chapters: Object.fromEntries(Object.entries(stato.cap).map(([n, s]) => [n, { position: s.pos, listened: s.fatto, finished: !!s.finito, listenedSeconds: Math.round((s.ascoltati || 0) * 10) / 10, currentRunSeconds: Math.round((s.giro || 0) * 10) / 10 }])),
+  chapters: Object.fromEntries(Object.entries(stato.cap).map(([n, s]) => [n, { position: s.pos, listened: s.fatto, finished: !!s.finito, listenedSeconds: Math.round((s.ascoltati || 0) * 10) / 10, currentRunSeconds: Math.round((s.giro || 0) * 10) / 10, heardRanges: s.sentito || [] }])),
   bookmarks: stato.segni.map(s => ({ chapter: s.n, time: s.t, text: s.frase })),
   lastChapter: stato.ultimo,
   days: stato.giorni,
@@ -1492,7 +1510,7 @@ const daImportare = d => {
   if (d && typeof d.cap === 'object' && d.cap) return { cap: d.cap, segni: Array.isArray(d.segni) ? d.segni : [], ultimo: d.ultimo ?? null };
   if (!d || typeof d.chapters !== 'object' || !d.chapters) throw 0;
   return {
-    cap: Object.fromEntries(Object.entries(d.chapters).map(([n, c]) => [n, { pos: +c.position || 0, fatto: !!c.listened, ...(c.listenedSeconds != null ? { ascoltati: +c.listenedSeconds || 0 } : {}), ...(c.currentRunSeconds != null ? { giro: +c.currentRunSeconds || 0 } : {}), ...(c.finished != null ? { finito: !!c.finished } : {}) }])),
+    cap: Object.fromEntries(Object.entries(d.chapters).map(([n, c]) => [n, { pos: +c.position || 0, fatto: !!c.listened, ...(c.listenedSeconds != null ? { ascoltati: +c.listenedSeconds || 0 } : {}), ...(c.currentRunSeconds != null ? { giro: +c.currentRunSeconds || 0 } : {}), ...(c.finished != null ? { finito: !!c.finished, sentito: Array.isArray(c.heardRanges) ? c.heardRanges : [] } : {}) }])),
     segni: (Array.isArray(d.bookmarks) ? d.bookmarks : []).map(s => ({ n: s.chapter, t: s.time, frase: s.text })),
     ultimo: d.lastChapter ?? null,
     ...(d.days ? { giorni: d.days } : {}),
