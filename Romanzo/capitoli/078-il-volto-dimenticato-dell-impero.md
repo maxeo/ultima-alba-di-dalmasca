@@ -152,7 +152,7 @@ Fece un passo di lato. Il primo colpo, enorme e teatrale, scese dove lui non era
 
 Da qualche parte, in fondo a un vicolo, fischiò la guardia.
 
-Gilgamesh balzò in piedi con un'agilità sorprendente per la sua stazza, e nel balzo gli scivolò il mantello da una spalla, e tutti videro quello che il mantello copriva: altre quattro braccia, grigie come le prime due, piegate contro i fianchi, che si aprirono a ventaglio per rimettergli in equilibrio il peso. Penelo gridò. Vaan, che a Bhujerba ne aveva intravista una e si era detto di essersela sognata, fece un passo indietro. Gilgamesh si ricoprì in fretta, con l'aria offesa di chi è stato sorpreso in camicia da notte. Guardò Basch, guardò il vicolo da cui veniva il fischio, guardò il fascio di spade, che adesso era aperto per terra in un ventaglio di lame.
+Gilgamesh balzò in piedi con un'agilità sorprendente per la sua stazza, e nel balzo gli scivolò il mantello da una spalla, e tutti videro quello che il mantello copriva: altre quattro braccia, grigie come le prime due, piegate contro i fianchi, che si aprirono a ventaglio per rimettergli in equilibrio il peso. Penelo gridò. Vaan fece un passo indietro. Gilgamesh si ricoprì in fretta, con l'aria offesa di chi è stato sorpreso in camicia da notte. Guardò Basch, guardò il vicolo da cui veniva il fischio, guardò il fascio di spade, che adesso era aperto per terra in un ventaglio di lame.
 
 «Questa non vale!» gridò, già correndo verso l'altro lato della piazza. «Non vale! Hai usato la tettoia di un altro! Ci rivedremo, cavaliere! Ci rivedremo quando meno te lo aspetti, e allora...»
 

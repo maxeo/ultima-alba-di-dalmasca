@@ -66,7 +66,7 @@ Ashe si fermò.
 
 Anastasis non aveva aperto gli occhi. Ma aveva sollevato la testa dalla spalla, adagio, e adesso la teneva dritta, rivolta verso di lei, come se la guardasse attraverso le palpebre.
 
-«Sei la figlia di Raminas. Hai il sangue del Re Dinasta, e ce l'hai tutto, non annacquato come quello di tanti che si vantano di averlo. Per due anni ti hanno creduta morta, e tu hai lasciato che lo credessero, perché i morti possono andare dove i vivi non vanno.» Fece una pausa. «Porti alla cintura una pietra che non sai usare. E hai un sogno. Lo conosco. L'ho visto. Una città nel deserto, con le mura bianche e una porta azzurra, e tu sul balcone sopra la porta. È un bel sogno.»
+«Sei la figlia di Raminas. Hai il sangue del Re Dinasta, e ce l'hai tutto, non annacquato come quello di tanti che si vantano di averlo. Il marchese ti avrà detto che senza il Frammento del Crepuscolo non posso riconoscerti davanti al mondo, ed è vero: la legge guarda la pietra. Io non sono la legge, sono soltanto vecchio. Per due anni ti hanno creduta morta, e tu hai lasciato che lo credessero, perché i morti possono andare dove i vivi non vanno.» Fece una pausa. «Porti alla cintura una pietra che non sai usare. E hai un sogno. Lo conosco. L'ho visto. Una città nel deserto, con le mura bianche e una porta azzurra, e tu sul balcone sopra la porta. È un bel sogno.»
 
 Ashe non disse niente. Aveva la faccia di chi è stata spogliata davanti a tutti di un vestito che non sapeva di portare.
 
