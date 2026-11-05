@@ -42,7 +42,7 @@ Vaan seguì il suo sguardo. «Credo di sì.»
 
 «Lui è lì dentro.»
 
-Non disse il nome, e non c'era bisogno di dirlo. Larsa era stato riportato ad Archades dopo la morte dell'imperatore suo padre, in mezzo ai Giudici, con quella sua faccia educata che non piangeva in pubblico. Penelo portò la mano al collo, dove per un tempo aveva tenuto la pietra che lui le aveva regalato. La pietra non c'era più; Larsa se l'era ripresa, con un sorriso di scusa, perché gli serviva. Lei aveva continuato per settimane a toccare quel punto vuoto sul petto, come si tocca un dente che non c'è.
+Non disse il nome, e non c'era bisogno di dirlo. Larsa era stato riportato ad Archades dopo la morte dell'imperatore suo padre, in mezzo ai Giudici, con quella sua faccia educata che non piangeva in pubblico. Penelo portò la mano al collo, dove per un tempo aveva tenuto la pietra che lui le aveva regalato. La pietra non c'era più; Larsa se l'era ripresa nella miniera, in fretta, prima ancora che lei potesse porgergliela, e lei era rimasta con il palmo aperto a mezz'aria. Lei aveva continuato per settimane a toccare quel punto vuoto sul petto, come si tocca un dente che non c'è.
 
 «Starà bene?» chiese.
 
