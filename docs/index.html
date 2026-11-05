@@ -665,6 +665,7 @@ function carica(n, avvia, da) {
   if (!c || !c.durata) return;
   salvaPosizione(true);
   const stesso = corrente === n;
+  chiudiSerieSalti();
   tAscolto = null; mAscolto = null;
   corrente = n;
   stato.ultimo = n;
@@ -752,26 +753,46 @@ function aggiungiSentito(s, da, a) {
   s.sentito = uniti.map(([i, f]) => [Math.round(i * 10) / 10, Math.round(f * 10) / 10]);
 }
 const secondiSentiti = s => (s.sentito || []).reduce((t, [i, f]) => t + f - i, 0);
+// I salti in avanti sotto il minuto valgono come ascolto. Piu' salti a meno di 10 secondi
+// l'uno dall'altro contano come uno solo: si decide quando la serie finisce.
+const SALTO_TOLLERATO = 60, SERIE_SALTI = 10000;
+let serieSalti = null, ultimoSeek = 0;
+function chiudiSerieSalti() {
+  if (serieSalti && serieSalti.somma < SALTO_TOLLERATO) {
+    const s = sc(serieSalti.n);
+    serieSalti.tratti.forEach(([da, fino]) => aggiungiSentito(s, da, fino));
+  }
+  serieSalti = null;
+}
+a.addEventListener('seeking', () => { ultimoSeek = performance.now(); });
 function contaAscolto() {
   const ora = performance.now(), m = a.currentTime;
-  if (corrente != null && tAscolto != null && !a.paused && !a.seeking) {
-    const d = (ora - tAscolto) / 1000;
-    if (d < 2) {
-      const s = sc(corrente);
-      s.ascoltati = (s.ascoltati || 0) + d; s.giro = (s.giro || 0) + d; registraGiorno(d);
-      if (mAscolto != null && m > mAscolto && m - mAscolto <= d * a.playbackRate + .5) aggiungiSentito(s, mAscolto, m);
+  if (corrente != null && !a.paused && !a.seeking) {
+    const d = tAscolto != null ? (ora - tAscolto) / 1000 : 0, s = sc(corrente);
+    if (d > 0 && d < 2) { s.ascoltati = (s.ascoltati || 0) + d; s.giro = (s.giro || 0) + d; registraGiorno(d); }
+    if (mAscolto != null && m > mAscolto) {
+      if (m - mAscolto <= Math.min(d, 2) * a.playbackRate + 1) aggiungiSentito(s, mAscolto, m);
+      else {
+        if (serieSalti && ultimoSeek - serieSalti.ultimo >= SERIE_SALTI) chiudiSerieSalti();
+        if (!serieSalti) serieSalti = { n: corrente, tratti: [], somma: 0, ultimo: 0 };
+        serieSalti.tratti.push([mAscolto, m]);
+        serieSalti.somma += m - mAscolto;
+        serieSalti.ultimo = ultimoSeek;
+      }
     }
+    if (serieSalti && ora - serieSalti.ultimo >= SERIE_SALTI) chiudiSerieSalti();
   }
   tAscolto = a.paused ? null : ora;
-  mAscolto = a.paused ? null : m;
+  if (!a.seeking && !a.paused) mAscolto = m;
 }
 a.addEventListener('timeupdate', () => { contaAscolto(); aggiornaTempo(); salvaPosizione(); });
 a.addEventListener('loadedmetadata', posizioneMedia);
 a.addEventListener('seeked', posizioneMedia);
 a.addEventListener('error', () => { if (a.src) annuncia('Audio non disponibile. Controlla la connessione.'); });
 a.addEventListener('ended', () => {
+  chiudiSerieSalti();
   const s = sc(corrente), durata = capitoli.find(k => k.n === corrente)?.durata || a.duration;
-  if (secondiSentiti(s) >= durata * .9) { s.fatto = true; s.finito = true; }
+  if (secondiSentiti(s) >= durata * .3) { s.fatto = true; s.finito = true; }
   s.pos = 0; verificaTraguardi(); salvaStato(); aggiornaFatto();
   const n = adiacente(1);
   if (n && stato.ui.continua) carica(n.n, true, 0); else disegna();
