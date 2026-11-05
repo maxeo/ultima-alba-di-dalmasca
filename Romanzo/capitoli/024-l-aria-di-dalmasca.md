@@ -66,6 +66,18 @@ Basch aprì gli occhi.
 
 «Ottimo. Cominciavo a temere che Fran ci avesse fatto attraversare anche un continente.»
 
+«Il Mystes non conosce i confini» disse Fran.
+
+«Appunto. È il suo difetto principale.» Balthier si sedette su una pietra, si guardò gli stivali e li trovò, a giudicare dalla faccia, irrecuperabili. «Sapete qual è la regola, in questi casi? Il protagonista esce per ultimo dalla montagna che crolla, con la polvere addosso ma il ciuffo al suo posto. Io sono uscito per terzo. Con il ciuffo nella sabbia.» Si toccò la testa. «Qualcuno, qui, sta scrivendo male questa storia.»
+
+«Sei uscito per secondo» disse Fran. «Correvi.»
+
+«Correvo con stile.»
+
+«Correvi.»
+
+Vaan, per la prima volta da Nalbina, rise. Fu una risata corta, che gli fece male alla gola piena di calce, e che gli uscì prima che potesse fermarla. Basch, contro la roccia, non rise; ma girò la testa verso il ragazzo, e lo guardò ridere, e per un momento la sua faccia ebbe l'espressione di un uomo che sente da lontano una musica che conosceva.
+
 La viera, in piedi sopra una pietra, scrutava a occidente. Il vento le sollevava i capelli bianchi sul braccio e li spostava di nuovo dietro la schiena. «La pista è sotto. C'è un fiume più a sud.»
 
 «Ed esseri civili?»
