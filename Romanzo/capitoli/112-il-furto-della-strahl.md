@@ -1,46 +1,60 @@
 ## 112. Il furto della Strahl
 
-La notizia che Penelo aveva lasciato per ultima nella lettera risaliva al mattino. Vaan era entrato nell'hangar portando una fattura, una bottiglietta d'olio e una faccia che prometteva una discussione sul prezzo della manutenzione. La fattura rimase nella sua mano quando vide il pavimento vuoto.
+Per un anno intero Vaan aveva tenuto la Strahl senza un graffio.
 
-La Strahl non c'era. C'erano i sostegni, il tubo dell'aria arrotolato vicino al muro e due macchie lasciate dallo scafo dopo l'ultima revisione. Il grande portello era aperto abbastanza da mostrare un tratto di pista. Vaan andò fino al bordo della linea dipinta, tornò indietro e guardò verso l'hangar accanto, come se una nave potesse essere stata appoggiata per sbaglio nel posto di un'altra.
+Lo aveva fatto con un impegno che nessuno, a Rabanastre, gli aveva mai visto mettere in niente. La teneva nel secondo hangar dell'aerodromo della Porta Ovest, sotto un telone che lavava una volta al mese, e ogni mattina, prima di andare a lavorare sulla propria nave, ci passava sotto da prua a poppa, lentamente, con una mano che sfiorava la carena senza toccarla del tutto. Aveva imparato il gesto da qualcuno. Non lo sapeva. Lo aveva lucidato, oliato, ripulito dalla fuliggine di Bahamut con un panno di lana e con una pazienza da orafo. Aveva fatto controllare i motori a Nono, che era venuto apposta da Bhujerba e si era fermato tre settimane, ospite di Migelo, mangiando lenticchie e lamentandosene. Aveva fatto rifare i giunti del timone. Non aveva toccato la toppa più chiara sul fianco sinistro, perché quella non era un'ammaccatura: era la cicatrice, e le cicatrici non si toccano.
+
+E non l'aveva mai portata fuori. Mai. La accendeva, qualche volta, la sera, per sentire il ronzio dei motori, e poi la spegneva. Penelo gli aveva chiesto perché, una volta, e lui le aveva detto che era una nave in prestito, e che con le cose in prestito non si va a fare i giri. Penelo non gli aveva chiesto altro. Sapeva benissimo che non era un prestito. Era una promessa: *ti aspetto*, gridata in un tubo d'ottone a una montagna di ferro che cadeva.
+
+La mattina del furto Vaan entrò nell'hangar con una fattura in una mano, una bottiglietta d'olio nell'altra e la faccia di chi è pronto a discutere un prezzo. La fattura era di Nono, per i giunti. Era molto alta. Vaan aveva deciso di contestarla.
+
+La Strahl non c'era.
+
+C'erano i cavalletti. C'era il telone, piegato per terra in un quadrato perfetto, come nessuno a Rabanastre piegava i teloni. C'erano due macchie d'olio sul pavimento, dove lo scafo era stato per un anno, e c'era il grande portello dell'hangar aperto su un pezzo di pista e un pezzo di cielo. Vaan andò fino al bordo della linea dipinta per terra. Tornò indietro. Guardò nell'hangar accanto, come se una nave potesse essere stata messa per sbaglio al posto di un'altra durante la notte.
 
 «No» disse.
 
-Penelo arrivò dietro di lui. Vide il pavimento e si fermò prima di urtarlo. «Magari Nono...»
+Penelo arrivò dietro di lui con il pane della colazione e si fermò prima di andargli addosso. Guardò il pavimento vuoto.
 
-«Nono è a Bhujerba. Gli ho mandato il conto ieri.»
+«Magari Nono...»
 
-«Perché lo controllasse?»
+«Nono è a Bhujerba. Gli ho mandato la fattura ieri.» Vaan alzò la fattura come una prova. «Indietro. Perché me la correggesse.»
 
-«Perché mi dicesse che ci stanno derubando.»
+«Perché te la correggesse o perché te la abbassasse?»
 
-Il ragazzo si accorse della parola quando era già uscita. Guardò ancora il posto della nave. La bottiglietta d'olio gli scivolò fra le dita, ma la riprese prima che cadesse. Penelo gliela tolse e la posò su una cassa.
+«È la stessa cosa.» Vaan guardò di nuovo il posto vuoto. Lasciò cadere la bottiglietta d'olio, la riprese al volo prima che toccasse terra, e rimase lì con la bottiglietta in mano e la bocca aperta. «L'hanno rubata. Penelo. L'hanno rubata.»
 
-«Chiediamo al custode.»
+Penelo gli tolse la bottiglietta di mano e la posò su una cassa, perché a quel punto era la sola cosa che si potesse fare.
 
-Vaan era già partito. Il custode stava davanti al registro degli attracchi e cercava di convincere un mercante che una notte cominciava anche se la nave arrivava poco prima dell'alba. Quando il ragazzo pronunciò Strahl, alzò la testa senza sorpresa.
+---
+
+Il custode dell'aerodromo stava davanti al registro degli attracchi e cercava di convincere un mercante di Bhujerba che una notte comincia anche se la nave arriva un'ora prima dell'alba. Quando Vaan entrò e disse *Strahl*, alzò la testa senza la minima sorpresa.
 
 «Partita.»
 
 «Lo vedo!»
 
-«Allora perché me lo chiedi?»
+«E allora perché me lo chiedi?»
 
 «Con chi?»
 
-Il custode gli mostrò una riga. L'autorizzazione era stata scritta con una mano elegante, tanto diversa da quella di Vaan da rendere inutile la discussione sul possibile equivoco. Il nome della nave combaciava, quello del proprietario pure. Il ragazzo guardò il foglio fino a smettere di respirare.
+Il custode girò il registro verso di lui e gli mise il dito su una riga. L'autorizzazione di partenza era stata scritta all'alba, in una calligrafia larga, elegante, piena di riccioli, che occupava tutta la riga e un pezzo di quella sotto, come se il registro fosse una cabina troppo piccola per il suo talento. Il nome della nave combaciava. Combaciava anche il nome del proprietario. Vaan lo guardò fino a smettere di respirare.
 
-«Una viera?» domandò Penelo.
+«C'era una viera?» chiese Penelo, piano.
 
-«Con lui. Molto alta. Hanno pagato gli ultimi diritti d'uscita.»
+«Con lui. Alta. Molto alta.» Il custode si grattò la testa. «Hanno pagato i diritti d'uscita. Tutti. Anche quelli dell'anno scorso, che nessuno aveva mai pagato. Lui ha detto che i conti vanno chiusi, prima di partire. Lei ha detto una parola sola, ma non ho capito quale.»
 
-Vaan afferrò il bordo del banco. «Erano qui.»
+Vaan si aggrappò al bordo del banco.
 
-Il custode gli indicò l'hangar con la punta della penna. «Ti hanno lasciato una cosa. Ho detto che non si lascia roba sospesa sopra i passaggi. Mi hanno risposto che l'avresti vista.»
+«Erano qui» disse. «Erano qui. Stanotte. E non...»
+
+«Ah, e vi hanno lasciato una cosa.» Il custode indicò l'hangar con la punta della penna. «Gli ho detto che non si lasciano cose appese sopra i passaggi. Il signore mi ha detto che il ragazzo l'avrebbe vista. Io ho detto che il ragazzo non vede mai niente. Lui ha detto che, questo, lo sapeva.»
 
 ---
 
-La videro al secondo giro. Un piccolo congegno galleggiava all'altezza della testa vicino alla passerella ritirata, tenuto su da un cristallo di portanza e caricato con un astuccio, una busta e un laccio. La prima volta Vaan ci era passato sotto senza guardare, troppo occupato a cercare una nave intera. Adesso saltò per prenderlo e lo mandò un poco più in alto.
+La videro al secondo giro dell'hangar. Vaan, la prima volta, ci era passato sotto senza alzare la testa, perché cercava una nave e non una cosa grande come un pugno. Era un piccolo congegno sospeso a mezz'aria all'altezza di un uomo alto, vicino al punto dove prima c'era la passerella della Strahl, tenuto su da un cristallo di portanza che ronzava piano. Ci era legato, con un laccio, un astuccio di cuoio e una busta.
+
+Vaan saltò per prenderlo e lo spinse più in alto.
 
 «Aspetta» disse Penelo.
 
@@ -48,148 +62,206 @@ La videro al secondo giro. Un piccolo congegno galleggiava all'altezza della tes
 
 «Si vede.»
 
-La ragazza salì sulla cassa dell'olio e lo tirò giù per il laccio. Vaan afferrò la busta prima che potesse aprirla; lei gli prese l'altro lato. Per un istante rischiarono di dividerla in due, e dovettero guardarsi per ricordare che non stavano litigando con la stessa persona a cui avrebbero voluto gridare.
+Penelo salì sulla cassa dell'olio e tirò giù il congegno per il laccio. Vaan prese la busta. Penelo prese l'altro lato della busta. Per un istante restarono così, uno per parte, a tirare, e dovettero guardarsi in faccia per ricordarsi che non stavano litigando fra loro ma con qualcun altro, uno che non era lì e a cui tutti e due avevano molte cose da gridare. Vaan lasciò andare. Penelo aprì la busta e tenne il foglio basso, perché leggessero insieme.
 
-La calligrafia non lasciava dubbi. Anche senza il nome, Vaan avrebbe riconosciuto il modo di occupare tutta la larghezza della carta come se fosse una cabina troppo piccola per il proprio talento.
+La calligrafia era quella del registro.
 
 *Vaan,*
 
-*ho controllato la Strahl. Qualche modifica discutibile, molti strumenti puliti e un motore che finalmente non tossisce a freddo. Questo mi costringe a fare un complimento, ma puoi risparmiarmi il disagio tenendolo per te. La nave torna con noi. Un proprietario assente non cessa per questo di essere proprietario, anche se il prezzo dell'hangar suggerisce il contrario.*
+*ho ispezionato la Strahl. Ci sono alcune modifiche discutibili, molti strumenti puliti con più zelo che competenza, e un motore di babordo che finalmente non tossisce a freddo. Questo mi costringe a un complimento. Puoi risparmiarmi l'imbarazzo e tenerlo per te.*
 
-Vaan lasciò uscire l'aria con un suono che non era ancora una risata. Penelo si sedette sul bordo della cassa, tenendo il foglio più basso perché lui potesse leggere. Le mani le tremavano. Solo allora capì di aver creduto a lungo che questo momento non sarebbe arrivato.
+*Niente graffi. Ho controllato. Anche sotto.*
 
-*Fran sta bene. Ritiene che il resto della lettera possa essere più breve. Dissento, ma non le offro altre occasioni per avere ragione.*
+Vaan fece un rumore con la gola che non era ancora una risata.
 
-Penelo si coprì la bocca. Vaan guardò il portello aperto, la riga di pista, il cielo dove non c'era più niente da inseguire. «Poteva aspettare» disse.
+*La nave torna con noi. Un proprietario assente non smette di essere proprietario, anche se il prezzo del tuo hangar suggerisce il contrario. Ho saldato i diritti. Non ringraziarmi: erano miei.*
 
-La ragazza annuì. Si asciugò gli occhi con il polso prima di tornare al foglio.
+*Fran sta bene. Ha la gamba un po' più rigida di prima e un carattere esattamente come prima. Ritiene che il resto di questa lettera potrebbe essere più breve. Dissento, ma ho smesso di offrirle occasioni per avere ragione: le prende tutte.*
 
-*Ci sono tracce del Tesoro di Glabados a Bervenia. Ho deciso che questa volta un tesoro deve almeno lasciarsi chiamare tale. Se hai imparato a scegliere una rotta senza seguire chi grida più forte, puoi venire. Portati un mezzo tuo. Non sono disposto a rinegoziare il numero dei miei passeggeri.*
+Penelo si portò la mano alla bocca. Si accorse soltanto in quel momento di avere creduto, per un anno, che quella lettera non sarebbe arrivata mai; di averlo creduto e di non averlo detto, nemmeno a se stessa, per non togliere a Vaan la sua promessa. Le mani le tremavano. Tenne il foglio più basso.
 
-*L'astuccio va alla nostra amica con molti impegni e un guardaroba finalmente decente. Dille che il conto è chiuso. Ho trovato qualcosa che mi interessa di più.*
+*Ci sono notizie del Tesoro di Glabados, a Bervenia. Ho deciso che questa volta un tesoro deve almeno avere la decenza di farsi trovare. Se nel frattempo hai imparato a scegliere una rotta senza seguire chi grida più forte, puoi venire. Con una nave tua. Non sono disposto a rinegoziare il numero dei miei passeggeri.*
 
-Sotto, in una grafia più stretta, c'era una riga sola: *Non partire senza Penelo.*
+*L'astuccio è per la nostra amica dai molti impegni e dal guardaroba finalmente decente. Dille che il conto è chiuso. Ho trovato qualcosa che mi interessa di più.*
 
-E sotto ancora, di nuovo nella calligrafia larga: *Il congegno riportamelo di persona, a Bervenia. È una scusa come un'altra. Al protagonista non sta bene ammettere che ne cerca una.*
+Sotto, in una calligrafia diversa, stretta, dritta, senza un ricciolo, c'era una riga sola.
 
-Vaan la lesse ad alta voce. Penelo gli prese l'astuccio dalle mani prima che riuscisse a chiedere se fosse stato necessario aggiungerlo. Il coperchio si aprì con una pressione del pollice. Dentro c'era l'anello.
+*Non partire senza Penelo.*
 
-La ragazza riconobbe i due metalli ritorti. Vaan li aveva visti uscire dalla tasca di Balthier soltanto di rado, un bagliore quando controllava di averli ancora; Penelo ricordava meglio la mano vuota di Ashe dopo Jahara, e il modo in cui le dita cercavano qualcosa senza trovarlo. Richiuse l'astuccio.
+E sotto ancora, di nuovo larga: *Il congegno della voce riportamelo di persona, a Bervenia. È una scusa come un'altra. Al protagonista non sta bene ammettere che ne cerca una.*
 
-«Vado io» disse.
+Vaan lesse ad alta voce la riga di Fran. Poi la rilesse. Poi guardò Penelo con un'espressione offesa.
 
-Vaan annuì. Continuava a guardare la firma.
+«Perché doveva scriverlo?»
+
+«Perché ti conosce.»
+
+«Non sarei partito senza di te.»
+
+«Lo so.» Penelo piegò la lettera. «Ma lei voleva che lo sapessi anche tu.»
+
+Vaan guardò il portello aperto, la pista, il cielo, dove non c'era più niente da inseguire.
+
+«Poteva aspettare» disse. La voce gli si spezzò a metà della frase, e lui non la riprese. «Un giorno. Poteva aspettare un giorno, dire ciao, sedersi da Migelo, mangiare le lenticchie. Un anno. Un anno, Penelo. E viene di notte, si riprende la nave, paga i diritti, e se ne va. Senza svegliarmi.»
+
+«È Balthier» disse Penelo.
+
+«Lo so che è Balthier!»
+
+Si asciugò la faccia con il polso, rabbiosamente. Poi, senza preavviso, si mise a ridere. Rise forte, con la testa indietro, in mezzo all'hangar vuoto, e la risata rimbombò fra i cavalletti e il telone piegato in quadrato, e il mercante di Bhujerba si affacciò a guardare. Penelo rise con lui. Rideva e piangeva, e non sapeva più quale delle due cose stesse facendo, e non le importava.
 
 ---
 
-Nel palazzo avevano disposto modelli di stoffa sopra tre sedie. I colori erano quelli di Dalmasca, ma il funzionario incaricato dell'incoronazione aveva trovato abbastanza differenze fra due azzurri da chiedere un parere sovrano. Ashe lo ascoltava in piedi. Sapeva che una decisione rimandata gli avrebbe impedito di ordinare le tende e che aspettare la guerra per dimenticare le tende era una cattiva abitudine da conservare in pace. Scelse il secondo azzurro.
+Mentre ridevano, dal fondo dell'hangar arrivò un rumore di zampe.
 
-Il funzionario raccolse i campioni. Prima che potesse presentarne altri entrò una cameriera con il nome di Penelo. La principessa lasciò il tavolo tanto in fretta da far voltare il segretario. «Falla entrare.»
+Era Nono. Non era a Bhujerba. Era arrivato la sera prima con la nave corriera, per discutere di persona la fattura che Vaan voleva contestare, e aveva dormito sopra la bottega di Migelo senza che Vaan lo sapesse, perché Vaan era rientrato tardi. Aveva il pompon storto e la chiave inglese sotto il braccio. E aveva le spalle nude.
 
-Penelo aveva ancora il fiato del tragitto. Le porse l'astuccio senza inchinarsi abbastanza, poi provò a rimediare mentre lo stava già aprendo.
+«Se l'è preso» disse Nono. Era offeso fino in fondo alle orecchie. «Kupo. Se l'è ripreso.»
 
-Ashe vide il cerchio d'oro e d'argento. Posò la mano sul tavolo per tenersi ferma. Per un istante fu certa che qualcuno avesse trovato il corpo del pirata e frugato nella giacca; la certezza le arrivò prima della domanda, togliendole il colore dal viso.
+«Chi? Cosa?»
 
-«Sono vivi» disse Penelo, capendo. «Entrambi. Hanno ripreso la nave.»
+«Il mantello! Il suo mantello. Quello che mi ha lasciato a Balfonheim. Tienilo finché non torno, mi ha detto. È un ordine, mi ha detto.» Nono batté la chiave inglese sul pavimento. «Un anno l'ho tenuto. L'ho fatto lavare due volte. Ci ho messo una toppa sulla spalla, perché si era rotto, con una stoffa di Bhujerba che costa. Stanotte sono venuto a vedere la nave, perché non dormivo, e lui era lì, kupo, che controllava i giunti di babordo, e mi ha guardato, e ha detto: ah, Nono, il mio mantello, grazie. E me lo ha tolto dalle spalle. Così. Come si prende il cappello all'ingresso.»
 
-La principessa alzò gli occhi. «Entrambi?»
+«E ti ha detto qualcosa?» Penelo si asciugava gli occhi.
 
-«Ha scritto anche Fran.»
+«Ha detto che la toppa non l'aveva chiesta.» Nono si fece ancora più piccolo e più offeso. «E poi ha detto che però gli piaceva. E poi mi ha lasciato questo.»
 
-Ashe prese il foglio. Lo lesse cominciando dalla riga più corta, poi tornò all'inizio, al complimento sul motore, al tesoro e all'amica con molti impegni. Si fermò sul conto chiuso. Il funzionario delle stoffe aspettava sulla soglia con le braccia piene di azzurro; il segretario gli fece cenno di uscire.
+Tirò fuori da sotto la pelliccia un biglietto piegato in due. C'era scritto, nella calligrafia dei riccioli: *Ricevuto un mantello, usato con cura e rattoppato con gusto discutibile. Grazie. F.*
+
+Penelo guardò la lettera. Guardò la F, alta, intrecciata, piena di riccioli.
+
+L'aveva già vista, quella F. Ricamata in filo scuro nell'angolo di un fazzoletto di seta di Archades, che uno sconosciuto con le mani legate le aveva messo in mano una notte, in una piazza di Rabanastre, dicendole *tenetemelo finché non vi riporto il ragazzo*. Lei se l'era chiesto una volta, che cosa volesse dire quella lettera. Poi si era dimenticata di chiederselo. Adesso lo sapeva, e lo sapeva da un pezzo, e non disse niente a nessuno. Mise in tasca anche il biglietto di Nono, accanto all'altro fazzoletto, quello con l'iniziale azzurra, che teneva da Ridorana.
+
+«Il conto dei giunti» disse Nono, guardando Vaan. «Kupo. Visto che la nave non c'è più, chi lo paga?»
+
+Vaan aprì la bocca. La richiuse.
+
+«Ne parliamo» disse.
+
+---
+
+Penelo portò l'astuccio al palazzo da sola. Ci arrivò di corsa, per la via dei Tessitori e poi su per la scalinata, con il fiato corto, e una cameriera che la conosceva la fece passare davanti a una fila di stanze con un nome diverso e un usciere diverso, e nessuno degli uscieri riuscì a fermarla.
+
+Ashe era in piedi in una sala piena di stoffe. Su tre sedie erano stesi campioni di tessuto azzurro, e un funzionario incaricato dell'incoronazione le stava spiegando, con grande precisione, perché la differenza fra il secondo e il terzo azzurro avrebbe cambiato il tono di tutta la cerimonia. Quando la cameriera disse il nome di Penelo, la principessa lasciò il funzionario a metà di una frase e attraversò la sala così in fretta che il segretario si voltò.
+
+«Falla entrare.»
+
+Penelo le porse l'astuccio senza fare l'inchino. Se ne accorse a metà, e provò a farlo dopo, mentre Ashe lo stava già aprendo.
+
+Ashe vide il cerchio d'oro rosso e d'argento bianco. Posò l'altra mano sul tavolo per tenersi. Per un istante, uno solo, ebbe la certezza che qualcuno avesse trovato il corpo del pirata fra le rovine di Bahamut e gli avesse frugato nella giacca, e la certezza le arrivò prima di qualsiasi domanda e le tolse il colore dalla faccia.
+
+«Sono vivi» disse Penelo, che aveva capito. «Tutti e due. Hanno ripreso la nave stanotte.»
+
+Ashe alzò gli occhi.
+
+«Tutti e due?»
+
+«Ha scritto anche Fran. Una riga.»
+
+Ashe prese la lettera. La lesse cominciando dalla riga più corta, quella di Fran, e poi tornò all'inizio, al complimento sul motore, al tesoro, all'amica dai molti impegni e dal guardaroba finalmente decente. Si fermò su *il conto è chiuso*. Il funzionario delle stoffe aspettava sulla soglia con le braccia piene di azzurro; il segretario gli fece cenno di uscire, e lui uscì.
 
 «Dove sono?» chiese Ashe.
 
-«In viaggio.»
+«In viaggio. Verso Bervenia.»
 
 «Non sono venuti.»
 
-Penelo scosse la testa. La principessa lesse un'altra volta la lettera. C'erano molte cose che avrebbe voluto dire a Balthier: una protesta, il debito di una città, il timore lasciato per un anno a chi non aveva trovato corpi da seppellire. Lui le aveva restituito un anello dentro un astuccio troppo piccolo per riceverle tutte.
+«No.»
 
-«Naturalmente» disse infine.
+Ashe lesse la lettera ancora una volta. C'erano molte cose che avrebbe voluto dire a Balthier: un rimprovero, il debito di una città intera, un anno di paura lasciato a chi non aveva trovato niente da seppellire. Lui le aveva restituito un anello dentro un astuccio troppo piccolo per riceverle tutte.
 
-Prese la fede fra pollice e indice. L'oro rosso di Dalmasca aveva una luce più calda dell'argento di Nabradia; le tacche agli incroci erano rimaste, un poco consumate dove le dita le avevano sfregate per due anni. Guardò l'interno liscio. Non c'era nessuna parola incisa. Il tempo vi aveva lasciato solo piccoli segni che non somigliavano a lettere.
+«Naturalmente» disse alla fine.
 
-La infilò sulla sinistra. Passò la nocca senza resistenza e si fermò alla base del dito, troppo larga come la prima mattina. Il pugno si chiuse da solo. Ashe lo guardò, poi aprì lentamente le dita, tenendo l'anello fermo con il pollice.
+Prese la fede fra il pollice e l'indice. L'oro rosso di Dalmasca aveva una luce più calda dell'argento di Nabradia, e i due fili ritorti si incrociavano come il giorno in cui l'aveva vista per la prima volta, in una carrozza, sotto un baldacchino di garza. Le tacche agli incroci c'erano ancora, appena consumate dove le sue dita le avevano sfregate per due anni di lutto. L'interno era liscio. Nessuno ci aveva mai fatto incidere niente. *Le parole ce le mettiamo noi*, aveva detto qualcuno.
 
-«Rasler l'aveva fatta misurare su un guanto» disse.
+La infilò all'anulare sinistro. Passò la nocca senza la minima resistenza e scivolò fino alla base del dito, larga, troppo larga, come la mattina delle nozze. La mano si chiuse da sola, a pugno, come aveva imparato a fare.
 
-Penelo aspettò. La principessa sorrideva con gli occhi bagnati, e la ragazza non aveva mai sentito nominare il principe con quella espressione. «Un guanto?» domandò.
+Ashe la guardò. Guardò il pugno chiuso. Poi, lentamente, aprì le dita. Tenne l'anello fermo con il pollice, e lasciò la mano aperta.
 
-«Un mio guanto. Ci teneva a precisarlo.»
+«Rasler l'aveva fatto misurare su un guanto» disse.
 
-La risata arrivò breve, prima che Ashe riuscisse a trattenerla. Non cercò di continuare il racconto. Rimase a guardare la fede sul dito, lasciando che la risata finisse da sola. Penelo si sedette sulla sedia da cui erano state tolte le stoffe e aspettò con lei.
+Penelo la guardò. Non aveva mai sentito Ashe nominare il principe con quella faccia: gli occhi bagnati e la bocca che sorrideva.
+
+«Su un guanto?»
+
+«Su un mio guanto.» Ashe rise. Fu una risata breve, che le uscì prima che potesse fermarla. «Ci teneva molto a precisarlo. Un guanto mio, non di un'altra. Diceva che era un dettaglio importante.»
+
+Non disse altro. Rimase a guardare l'anello largo sul dito, e lasciò che la risata finisse da sola, e quando finì non c'era al suo posto il dolore di prima. C'era un'altra cosa, più leggera, che le stava larga come l'anello. Penelo si sedette sulla sedia da cui erano state tolte le stoffe e aspettò con lei, senza dire niente, finché un usciere non bussò.
 
 ---
 
-Vaan intanto era tornato al magazzino della propria nave. La chiamava nave anche davanti a chi gli mostrava la Strahl e chiedeva se fosse sicuro del termine. Era più piccola, comprata con risparmi, lavori di trasporto e un debito che Migelo sosteneva di non voler fare da garante per poi ricordarne personalmente ogni scadenza. Aveva bisogno di un giro d'ispezione prima di ogni partenza e di un secondo giro quando qualcuno aveva già detto che andava bene.
+Vaan quella sera tornò al magazzino della sua nave. La chiamava nave anche davanti a chi aveva visto la Strahl e gli chiedeva se fosse sicuro del termine. Era più piccola, più tozza, con un ronzio più acuto e meno elegante; l'aveva comprata con i risparmi di un anno di trasporti, con il lavoro di Kytes, con un prestito che Migelo giurava di non voler garantire e di cui ricordava a memoria ogni scadenza. Nono, la prima volta che l'aveva sentita, aveva detto che aveva un suono onesto. Vaan aveva deciso che era un complimento.
 
-Il ragazzo passò sotto la carena, controllò il fissaggio della pietra di volo e si portò in cabina. Sul sedile accanto al proprio c'erano una coperta di Penelo e una borsa con le loro carte. Le lasciò dov'erano. Cominciò invece a cercare il congegno della voce.
+Cercò il congegno della voce. Lo teneva da Bahamut in una custodia di stoffa, sotto il sedile. Basch glielo aveva ridato prima di partire per Archades, la mattina del funerale senza nome, quando la voce del Giudice non aveva più avuto bisogno di una scatola per diventare quella di un altro. Vaan lo tirò fuori, controllò che le due rotelle girassero, lo avvolse in una camicia pulita e lo mise in cima alla roba da portare. Questa volta lo avrebbe restituito di persona.
 
-Lo conservava da Bahamut. Lo aveva ripulito e tenuto in una custodia, senza riuscire a decidere a chi restituirlo se nessuno fosse tornato. Basch glielo aveva ridato prima di partire per Archades, quando la voce del Giudice non aveva più avuto bisogno di una scatola. Vaan lo prese con entrambe le mani e controllò che la rotella non si fosse bloccata.
+Penelo arrivò con un foglio piegato. Glielo porse dalla passerella.
 
-L'oggetto aveva aperto la strada nel fuoco e fermato cannoni. Prima ancora aveva fatto arrabbiare una principessa nella cabina della Strahl. Il ragazzo lo avvolse e lo mise fra le cose da portare, sopra una camicia pulita. Quella volta lo avrebbe restituito di persona.
-
-Penelo arrivò nel pomeriggio. Aveva imbucato la lettera e portava un foglio con un sigillo più piccolo di quello che avrebbe potuto ordinare. Glielo diede dalla passerella.
-
-«Per chi controlla i porti» disse. «Ashe ha scritto che possiamo trasportare la nostra roba senza dover spiegare ogni volta perché abbiamo delle armi.»
+«Per chi controlla i porti. Ashe dice che possiamo portare le nostre armi senza dover spiegare ogni volta perché ce le abbiamo.»
 
 Vaan guardò il sigillo. «Come una scorta reale?»
 
 «Come due persone che non devono litigare per ogni coltello.»
 
-Lui piegò il documento e lo mise nella tasca dei permessi. Penelo salì, vide la custodia del congegno e gli rivolse un sorriso. Poi aprì la mappa di Bervenia sul tavolino.
+Lei salì. Vide la custodia del congegno in cima alla roba e sorrise. Aprì la carta di Bervenia sul tavolino e la tenne ferma con il pane della colazione, che nessuno aveva mangiato.
 
-«Quanti giorni?» domandò.
+«Quanti giorni?»
 
-Vaan le mostrò la rotta che aveva tracciato. Aveva segnato un porto per il carburante e un tratto da evitare se si fosse alzato il vento da nord. Penelo controllò le distanze con il filo. Alla seconda misura alzò gli occhi.
+Vaan le mostrò la rotta. Aveva segnato un porto per il carburante e un tratto da evitare se si alzava il vento da nord. Penelo controllò le distanze con un filo. Alla seconda misura alzò gli occhi.
 
 «Hai previsto una sosta.»
 
-«Servirà.»
+«Serve.»
 
-«Anche per dormire.»
+«Anche per dormire?»
 
 «Anche.»
 
-La ragazza si tolse la sacca e la mise sotto il sedile. Vaan la guardò fare con una gioia trattenuta, quella che da ragazzo gli sarebbe uscita subito in una battuta e adesso sapeva aspettare. Lei se ne accorse ugualmente.
+Si tolse la sacca dalla spalla e la mise sotto il sedile accanto al suo.
 
-«Non mi chiedere se vengo» disse.
+«Non chiedermi se vengo» disse.
 
 «Non te lo stavo chiedendo.»
 
 «Bene.»
 
-Vaan aprì il vano del quadro e controllò un ultimo collegamento. La nave aveva un ronzio più alto della Strahl, meno elegante; a Nono non sarebbe piaciuto, ma l'ultima volta aveva detto che era un suono onesto. Il ragazzo lo ascoltò fino a riconoscerne il punto regolare, poi tornò alla carta.
-
 ---
 
-Partirono il mattino dopo. Migelo portò all'hangar una cesta che dichiarò vuota di regali e piena soltanto di cose che gli sarebbero andate a male. Conteneva pane, datteri e una pentola col coperchio legato. Kytes gli camminava accanto con un sacchetto di monete raccolte dai clienti che avevano dimenticato di pagare; Vaan gli disse che non servivano, ma il ragazzo gliele mise in tasca.
+Partirono la mattina dopo. Migelo arrivò all'hangar con una cesta che dichiarò vuota di regali e piena soltanto di cose che altrimenti gli sarebbero andate a male: pane, datteri, una pentola di lenticchie con il coperchio legato con lo spago. Kytes gli camminava accanto con un sacchetto di monete raccolte fra i clienti che avevano dimenticato di pagare. Vaan gli disse che non servivano, e Kytes gliele mise in tasca lo stesso.
 
-«È lavoro» rispose. «Lo avete fatto voi prima.»
+«È lavoro» disse. «Prima l'avete fatto voi per me.»
 
-Migelo abbracciò Penelo e la tenne stretta finché lei non gli batté una mano sulla schiena. Quando toccò a Vaan gli diede prima una spinta sul petto, tanto per mantenere l'ordine delle cose, poi lo prese per le spalle.
+Nono, con la fattura dei giunti ancora in mano e nessuno a cui farla pagare, controllò il fissaggio della pietra di volo per la terza volta e disse che andava bene, e poi lo controllò una quarta.
+
+Migelo abbracciò Penelo e la tenne stretta finché lei non gli batté una mano sulla schiena. Quando toccò a Vaan, gli diede prima una spinta sul petto, per mantenere l'ordine delle cose, e poi lo prese per le spalle con le sue mani di Bangaa, e la coda gli batté due volte sul pavimento dell'hangar. Tac tac.
 
 «Tornate.»
 
 «Torniamo.»
 
-«Non quando avete finito tutto. Ogni tanto.»
+«Non quando avete finito tutto. Non si finisce mai tutto. Ogni tanto.»
 
-Vaan annuì. Questa era una promessa a cui poteva dare una rotta, non un futuro intero. Indicò il primo porto segnato sulla carta e disse che avrebbe mandato notizie da lì. Penelo aggiunse che le avrebbe scritte lei se il ragazzo avesse preferito smontare un motore. Migelo le credette più facilmente.
+Vaan annuì. Questa era una promessa a cui poteva dare una rotta, non un futuro intero, e gli parve la più onesta che avesse mai fatto.
 
-Sulla passerella Vaan si voltò verso la città. Le cupole avevano ripreso luce, le insegne erano cambiate, il mercato cominciava il proprio rumore di sempre. La stanza sopra la bottega sarebbe rimasta con il vaso sulla finestra; Kytes aveva promesso di controllare l'acqua ai gigli senza rovesciarne troppa sul pavimento. Nessuno li stava inseguendo. Non c'erano soldati dietro l'angolo, un messaggio di rapimento o una principessa da trovare prima dell'alba.
+Sulla passerella si voltò a guardare la città. Le cupole avevano ripreso la loro luce; le insegne erano cambiate; il mercato di Muthru cominciava il suo rumore di sempre, che da lassù arrivava come il ronzio di un alveare. La stanza sopra la bottega sarebbe rimasta con il vaso verde sulla finestra, e Kytes aveva giurato di cambiare l'acqua ai gigli ogni tre giorni rovesciandone meno sul pavimento. Nessuno li stava inseguendo. Non c'era un soldato dietro l'angolo, né una pietra da rubare, né una principessa da trovare prima dell'alba.
 
-Penelo lo raggiunse. «Pronto?»
+Penelo lo raggiunse sulla passerella.
 
-Vaan guardò il cielo sopra il portello. «Volevo una nave per non restare qui» disse. «Adesso voglio scegliere dove andare.»
+«Pronto?»
 
-Lei gli prese la mano un istante, poi gli mise nel palmo la chiave d'avviamento. «Oggi hai scelto Bervenia. Non cambiare idea quando abbiamo già pagato il carico.»
+Vaan guardò il cielo oltre il portello. Era bianco del mattino, con qualche aeronave di mercanti, lenta e panciuta.
 
-Salirono. Vaan si sedette al proprio posto e Penelo aprì la carta accanto agli strumenti. Il motore rispose al primo giro. La nave si staccò piano, portando dentro il rumore dell'hangar finché il portello aperto non divenne soltanto una cornice sotto di loro.
+«Prima volevo una nave per andarmene da qui» disse. «Per scappare. Da tutto.» Ci pensò. «Adesso voglio scegliere dove andare.»
 
-Al palazzo Ashe sentì passare un motore e si avvicinò alla finestra. Non poteva sapere se fosse il loro. Guardò ugualmente la piccola nave sopra i tetti, poi lasciò il davanzale per tornare alla stanza dove una donna la aspettava con due ragazzi e una richiesta scritta da un'altra mano.
+Penelo gli prese la mano, un istante. Poi gli mise nel palmo la chiave d'avviamento e gli chiuse le dita sopra.
 
-«Entrate» disse. La fede le scivolò verso la nocca mentre apriva la porta; la fermò con il pollice e tenne libera l'altra mano per spostare una sedia.
+«Oggi hai scelto Bervenia. Non cambiare idea quando abbiamo già caricato le lenticchie.»
 
-Sopra Rabanastre Penelo indicò a Vaan la prima correzione di rotta. Il ragazzo la seguì, e la città cominciò a scendere dietro di loro, ancora abbastanza vicina da distinguere le strade.
+Salirono. Vaan si sedette ai comandi e Penelo aprì la carta accanto agli strumenti. Il motore prese al primo giro, con il suo ronzio acuto e onesto. Vaan mise le mani sulla barra, e prima di tirare si ricordò di non tirare, e chiese, con la metà della forza che pensava, e poi con la metà di quella. La nave si staccò piano dalla pista, e il portello aperto dell'hangar diventò una cornice sotto di loro, con dentro tre figure piccole che agitavano le braccia, una delle quali agitava una fattura.
+
+Al palazzo, Ashe sentì passare un motore e si avvicinò alla finestra. Non poteva sapere se fosse il loro. Guardò lo stesso la piccola nave salire sopra i tetti, e la guardò finché non le fece male agli occhi. Poi lasciò il davanzale e tornò alla porta della stanza delle udienze, dove una donna l'aspettava con due ragazzini e una richiesta scritta da un'altra mano.
+
+«Entrate» disse.
+
+L'anello le scivolò verso la nocca mentre apriva la porta. Lo fermò con il pollice, e con l'altra mano, quella libera, spostò una sedia perché la donna potesse sedersi.
+
+Sopra Rabanastre, intanto, la piccola nave fece un largo giro sulla città, come fanno le navi di chi non è ancora del tutto sicuro di voler partire, e poi prese la rotta di ovest, senza fretta. Sulla via dei Tessitori, dal bordo di una cisterna, un ragazzino la indicò al fratello più grande; e il fratello, che di solito alzava le spalle, questa volta restò a guardarla finché non fu che un punto sopra il deserto.

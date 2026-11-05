@@ -12,6 +12,26 @@ Furono disarmati sulla terrazza, legati a coppie e condotti fino a una navetta. 
 
 Vaan lo guardò entrare per ultimo. Aprì la bocca, ma il rumore dei motori gli tolse la domanda. Il portello si chiuse. La navetta salì lungo la parete della valle e la tomba scomparve dietro il bordo del vetro.
 
+Dentro la navetta il rumore era minore. I soldati sedevano sulle panche lungo le pareti, con le lance fra le ginocchia, e guardavano i prigionieri senza curiosità, come si guarda un carico. Vossler stava in piedi accanto al portello. Non si era seduto. Nessuno gli aveva detto dove sedersi, e lui non aveva chiesto.
+
+Vaan lo fissò per tutto il primo tratto di volo. Alla fine non ce la fece più.
+
+«Perché?»
+
+Vossler non si voltò.
+
+«Eri con lei. Due anni. L'hai portata via dal palazzo la notte che hanno ammazzato il re. Ce l'ha detto lei, a Bhujerba.» La voce gli si alzò e una delle guardie girò l'elmo. «E adesso la dai a quello. Perché?»
+
+«Taci, ragazzo» disse Basch, piano.
+
+«No! Lui deve dirlo. Lo deve dire a lei.»
+
+Vossler girò la testa, finalmente, e guardò Vaan. Non c'era rabbia nella sua faccia, né vergogna. C'era una stanchezza così grande che Vaan, senza volerlo, chiuse la bocca.
+
+«Io non ho ucciso nessun re» disse Vossler. «Ne ho tenuta in vita una. È più difficile. Ci si sporca di più.»
+
+Poi tornò a guardare il portello, e per il resto del volo non disse più niente, e Ashe, legata sulla panca di fronte, non lo guardò una sola volta.
+
 ---
 
 Sul ponte del Leviatano avevano lucidato il pavimento. La polvere dei prigionieri vi disegnò una fila di impronte che si fermava davanti al seggio del comandante. Ghis li aspettava con l'elmo chiuso e un guanto posato sulla balaustra. Li fece fermare, poi si voltò di poco verso un attendente.
@@ -88,7 +108,7 @@ Ashe guardò Ghis. «Chi garantisce l'accordo?»
 
 «Un padre no.»
 
-Ghis fece una pausa. Sulla plancia una penna continuava a scrivere al tavolo delle comunicazioni. Un uomo compilava il resoconto della cattura mentre la catturata parlava; Ashe sentì il rumore della punta e avrebbe voluto spezzarla.
+Ghis fece una pausa. Sulla plancia una penna continuava a scrivere al tavolo delle comunicazioni. Il resoconto di quel pomeriggio, a quanto risulta, finì negli archivi dell'Ottava Flotta insieme al resto della corrispondenza di bordo, e con il resto della corrispondenza di bordo andò perduto poche ore dopo; il che, considerato come andarono le cose, è forse la sola sentenza davvero imparziale che quella giornata abbia ricevuto. Un uomo compilava il resoconto della cattura mentre la catturata parlava; Ashe sentì il rumore della punta e avrebbe voluto spezzarla.
 
 «Non siamo qui per correggere i morti» disse il Giudice. «Stiamo offrendo qualcosa ai vivi.»
 
@@ -142,11 +162,27 @@ Balthier alzò la testa. Il movimento tirò la pelle del taglio e vi fece tornar
 
 Ghis richiuse la custodia. «Il Laboratorio Draklor saprà attribuirle un valore più esatto del vostro.»
 
-Il pirata guardò le cerniere di ottone, il piccolo sigillo, il tecnico che la prendeva con entrambe le mani. Fran gli vide cambiare il respiro. Nessun altro ebbe tempo di notarlo, perché Ghis ordinò di trasferirli sullo Shiva.
+Il pirata guardò le cerniere di ottone, il piccolo sigillo, il tecnico che la prendeva con entrambe le mani. Fran gli vide cambiare il respiro. Sul coperchio della custodia c'era inciso un segno piccolissimo, tre linee e un cerchio. Lo stesso della scheggia di Lhusu. Balthier lo aveva letto nella caverna fredda, sei livelli sotto Bhujerba, e lo rilesse adesso senza volerlo, e qualcosa nelle sue spalle si chiuse. Nessun altro ebbe tempo di notarlo, perché Ghis ordinò di trasferirli sullo Shiva.
 
 «Un incrociatore leggero» aggiunse. «Vi ricondurrà a Dalmasca. Il capitano Azelas avrà cura che il viaggio non presenti altri contrattempi.»
 
 Vossler non si inchinò, ma obbedì. Passò davanti ai soldati e si fermò sulla porta. Basch lo guardò finché un colpo di lancia sul fianco non gli impose di muoversi.
+
+Nel corridoio che portava al ponte di trasbordo li fecero camminare a coppie, legati, con una guardia ogni due. A Penelo toccò di stare accanto ad Ashe. Per un tratto nessuna delle due parlò. Davanti a loro Vossler camminava solo, con la spada restituita al fianco e le mani lontane dall'elsa, e dietro di lui Basch, con la lancia di un soldato fra le scapole.
+
+«Mio fratello Kel» disse Penelo, a bassa voce, senza voltare la testa «diceva una cosa dei capitani. Diceva che un capitano non si giudica da come ti porta via. Si giudica da come ti riporta.»
+
+Ashe non rispose subito.
+
+«E lui come vi ha riportato?» chiese poi.
+
+«Non ci ha riportato.» Penelo lo disse senza amarezza, come si dice il prezzo del pane. «Nessuno dei due. Ma non era colpa sua. Era la guerra.» Guardò la schiena di Vossler, poi quella di Basch. «Questo qui ti ha riportata per due anni. E adesso ti porta via. Il capitano biondo ti ha portata via... cioè, non lui, la gente dice di sì. E adesso ti riporta.» Si morse il labbro. «Io non ci capisco niente. Ma Kel avrebbe saputo da che parte stare.»
+
+La principessa la guardò di lato. Era la prima volta che guardava Penelo davvero, la ragazza della Città Bassa con i codini disfatti e la mano fasciata e una scheggia di negalite in tasca, che le aveva insegnato a girare il pane sulla pietra.
+
+«Da quale?» chiese.
+
+Penelo non ebbe il tempo di rispondere, perché la guardia le spinse avanti. Ma alzò le mani legate, appena, e con un dito indicò, per un istante solo, la schiena del capitano che camminava con la lancia fra le scapole.
 
 La plancia si svuotò delle impronte più recenti. Ghis attese che gli ultimi prigionieri fossero fuori prima di richiamare il tecnico. L'uomo tornò con la custodia ancora fra le mani.
 
