@@ -50,9 +50,9 @@ Penelo si rialzò sputando acqua. Aprì le mani e il fuoco le corse dalle dita c
 
 Ogni tanto, fra un colpo e l'altro, Cid parlava al figlio. Non lo insultava. Lo correggeva.
 
-«Il gomito, Ffamran! Tiri ancora col gomito alto. Quante volte te l'ho detto, nel cortile? Il gomito basso, la spalla morbida, e respiri dopo.» Schivò un colpo e rise. «Vedi? Alto. Sempre alto.»
+«Il gomito, Ffamran! Tiri ancora col gomito basso. Quante volte te l'ho detto, nel cortile? Il gomito alto, la spalla morbida, e respiri dopo.» Schivò un colpo e rise. «Vedi? Basso. Sempre basso.»
 
-Balthier abbassò il gomito. Non se ne accorse nessuno, tranne Fran, che dal pavimento lo vide e chiuse gli occhi.
+Balthier alzò il gomito. Non se ne accorse nessuno, tranne Fran, che dal pavimento lo vide e chiuse gli occhi.
 
 Poi fu di nuovo solo, contro sei, e non bastò più. Ashe lo colpì al braccio e l'arma gli cadde. Basch gli fu addosso dal fianco. L'ultimo colpo fu di Balthier, e fu un colpo di pistola, a dieci passi, alla gamba; Balthier mirò alla gamba, e chi lo vide sostenne poi che lo fece apposta, e che non ci fu un tiro in vita sua in cui mirasse meglio.
 

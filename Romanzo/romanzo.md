@@ -10584,7 +10584,7 @@ Si svegliò con la mano chiusa a pugno sul petto. Dentro il pugno c'era l'anello
 
 Quattro giorni dopo la caduta del Leviatano, il cielo sopra Rabanastre era basso e giallo. Le piogge non erano ancora arrivate, ma le si sentiva venire: l'aria pesava, i muri sudavano, le mosche della Città Bassa avevano smesso di volare e camminavano. Al mercato di Muthru i venditori di stuoie avevano già tirato fuori i teli cerati, e li vendevano al doppio, e la gente li comprava brontolando, perché tutti gli anni si diceva che la stagione sarebbe stata breve e tutti gli anni non lo era.
 
-Nessuno, al mercato, parlava della flotta. O meglio, ne parlavano tutti, ma in un modo che uno straniero non avrebbe riconosciuto. Si diceva che i prezzi del ferro sarebbero scesi. Si diceva che la guarnigione aveva raddoppiato i turni e che le pattuglie, da quattro giorni, entravano nelle case senza bussare. Si diceva che nel cielo del Jagd Yensa, quattro sere prima, un pastore di Giza aveva visto una luce più grande del sole. Gli imperiali avevano fatto affiggere un proclama sul muro della porta est: un incidente tecnico, una disgrazia, nessun nemico coinvolto. Il proclama era stato strappato in un angolo, e sotto qualcuno aveva disegnato col carbone una nave che cadeva. Lo avevano ricoperto la mattina dopo. Il giorno dopo la nave era tornata.
+Nessuno, al mercato, parlava della flotta. O meglio, ne parlavano tutti, ma in un modo che uno straniero non avrebbe riconosciuto. Si diceva che i prezzi del ferro sarebbero scesi. Si diceva che la guarnigione aveva raddoppiato i turni e che le pattuglie, da quattro giorni, entravano nelle case senza bussare. Si diceva che nel cielo del Jagd Yensa, quattro giorni prima, un pastore di Giza aveva visto una luce più grande del sole. Gli imperiali avevano fatto affiggere un proclama sul muro della porta est: un incidente tecnico, una disgrazia, nessun nemico coinvolto. Il proclama era stato strappato in un angolo, e sotto qualcuno aveva disegnato col carbone una nave che cadeva. Lo avevano ricoperto la mattina dopo. Il giorno dopo la nave era tornata.
 
 La stanza era nella casa di Dalan, in fondo alla Città Bassa, dove i corridoi scendevano sotto il livello della strada e si incrociavano tante volte che chi ci entrava per la prima volta era costretto a fidarsi di chi lo accompagnava. Dalan aveva portato una lampada e una brocca d'acqua, aveva guardato le sei persone riunite attorno al suo tavolo, e aveva detto che lui era vecchio e sordo e sarebbe andato a fare il sordo nella stanza accanto. Penelo aveva portato le focacce. Le aveva portate in un panno pulito, ancora calde, e le aveva messe in mezzo al tavolo, e nessuno le aveva toccate, tranne Vaan.
 
@@ -13614,7 +13614,7 @@ Anastasis non rispose subito. Gli occhi bianchi rimasero su di lei.
 
 La sala si fece silenziosa. Persino Al-Cid smise di accavallare le gambe.
 
-«Raithwall non lasciò ai suoi figli soltanto le pietre» disse Anastasis. «Lasciò tre frammenti a tre case, e questo lo sai. Lasciò anche un'altra cosa. Non alla sua famiglia, né a nessuna famiglia di re. La lasciò al Gran Kiltias del suo tempo, che era un uomo povero e senza eserciti, e gli chiese di custodirla in un tempio dove nessun re andasse mai a pregare.» Le dita intrecciate in grembo si mossero appena. «Una spada.»
+«Raithwall non lasciò ai suoi figli soltanto le pietre» disse Anastasis. «Lasciò tre frammenti, due a due case e il terzo nella sua tomba, e questo lo sai. Lasciò anche un'altra cosa. Non alla sua famiglia, né a nessuna famiglia di re. La lasciò al Gran Kiltias del suo tempo, che era un uomo povero e senza eserciti, e gli chiese di custodirla in un tempio dove nessun re andasse mai a pregare.» Le dita intrecciate in grembo si mossero appena. «Una spada.»
 
 «Una spada» ripeté Ashe.
 
@@ -13825,7 +13825,7 @@ Non disse il resto. Non disse che quella pietra era stata, per lei, nelle settim
 
 Ashe si voltò di scatto.
 
-«Mi dispiace» disse lui, e sembrava che gli dispiacesse davvero. «Mi capita sempre più spesso, e ogni volta mi dispiace di più. Ma ha ragione. Quella pietra, altezza, ha speso tutto quello che aveva sopra il deserto, la notte del Leviatano. È un guscio. Non la potete usare contro Vayne, non la potete usare contro nessuno. Non vi protegge. Non vi fa regina, perché Anastasis vi ha riconosciuta senza guardarla e Vayne non vi riconoscerebbe nemmeno se gliela tiraste in testa.» Fece una pausa. «È l'unica Negalite al mondo che potete sacrificare senza perdere niente. E se la spada non funziona, è meglio saperlo qui, adesso, in una stanza vuota, che il giorno in cui vi troverete davanti al Crepuscolo.»
+«Mi dispiace» disse lui, e sembrava che gli dispiacesse davvero. «Mi capita sempre più spesso, e ogni volta mi dispiace di più. Ma ha ragione. Quella pietra, altezza, ha speso tutto quello che aveva sopra il deserto, il giorno del Leviatano. È un guscio. Non la potete usare contro Vayne, non la potete usare contro nessuno. Non vi protegge. Non vi fa regina, perché Anastasis vi ha riconosciuta senza guardarla e Vayne non vi riconoscerebbe nemmeno se gliela tiraste in testa.» Fece una pausa. «È l'unica Negalite al mondo che potete sacrificare senza perdere niente. E se la spada non funziona, è meglio saperlo qui, adesso, in una stanza vuota, che il giorno in cui vi troverete davanti al Crepuscolo.»
 
 Ashe guardò Basch. Basch non disse niente. Ma non distolse lo sguardo, e lei capì che era d'accordo, e che non lo avrebbe detto per non doverla vedere obbedire a lui.
 
@@ -13841,7 +13841,7 @@ Si inginocchiò. Sciolse il panno dalla cintura, adagio, un giro dopo l'altro, c
 
 La pietra si accese.
 
-Non fu una luce. Fu più simile a un respiro. La superficie del frammento, che era stata opaca da quando Basch l'aveva raccolto fra le lamiere dello Shiva, si fece un poco meno scura, come un vetro sporco su cui qualcuno ha soffiato, e dentro, nel profondo, il viola si mosse. Poi, dalla pietra, cominciò a salire qualcosa. Era sottile come il fumo di una candela appena spenta, ma non era fumo; non andava verso l'alto, andava di lato, in fili, in volute, e si allungava sul pavimento e si ritirava, e tornava ad allungarsi, verso le pareti, verso la porta, lontano dalla spada. Faceva un rumore lieve. Un sibilo appena udibile, come l'aria che esce da una fessura.
+Non fu una luce. Fu più simile a un respiro. La superficie del frammento, che era stata opaca da quando Basch l'aveva raccolto fra le lamiere del Leviatano, si fece un poco meno scura, come un vetro sporco su cui qualcuno ha soffiato, e dentro, nel profondo, il viola si mosse. Poi, dalla pietra, cominciò a salire qualcosa. Era sottile come il fumo di una candela appena spenta, ma non era fumo; non andava verso l'alto, andava di lato, in fili, in volute, e si allungava sul pavimento e si ritirava, e tornava ad allungarsi, verso le pareti, verso la porta, lontano dalla spada. Faceva un rumore lieve. Un sibilo appena udibile, come l'aria che esce da una fessura.
 
 «Cos'è?» chiese Penelo. Aveva la voce sottile.
 
@@ -14563,7 +14563,7 @@ Basch gli si mise accanto. Non disse niente per un po'. Poi, senza che Vaan aves
 
 Vaan guardò la finestra. Avrebbe voluto chiedere altre cose, che faccia avesse fatto Reks, se avesse avuto paura, se avesse capito chi era l'uomo con l'armatura di Basch che entrava da quella porta, e capì che non le avrebbe chieste, non quel giorno, forse mai, e che Basch lo sapeva e per questo era rimasto lì accanto a lui senza andarsene. Rimasero così finché da dietro Penelo chiamò che la locanda dava da mangiare solo fino al tramonto e che lei non avrebbe aspettato nessuno.
 
-Ashe, la fortezza, non la guardò. Lo notò soltanto Fran, che notava tutto. La principessa passò tutto il pomeriggio voltata dall'altra parte, verso il borgo e le tende e il pozzo, e a cena si sedette dando le spalle alla finestra della locanda, da cui si vedevano i bastioni. Rasler era morto dentro quei bastioni, oltre una porta che da lì non si vedeva. Suo padre era morto dietro la finestra sola. Ashe mangiò lenticchie e pane, chiese il sale, pagò la sua parte con le monete contate, e quando il padrone con un braccio solo le chiese se veniva da lontano, rispose che veniva da Rabanastre, ed era la verità.
+Ashe, la fortezza, non la guardò. Lo notò soltanto Fran, che notava tutto. La principessa passò tutto il pomeriggio voltata dall'altra parte, verso il borgo e le tende e il pozzo, e a cena si sedette dando le spalle alla finestra della locanda, da cui si vedevano i bastioni. Rasler era stato colpito dentro quei bastioni, oltre una porta che da lì non si vedeva. Suo padre era morto dietro la finestra sola. Ashe mangiò lenticchie e pane, chiese il sale, pagò la sua parte con le monete contate, e quando il padrone con un braccio solo le chiese se veniva da lontano, rispose che veniva da Rabanastre, ed era la verità.
 
 ---
 
@@ -15569,7 +15569,7 @@ Vaan seguì il suo sguardo. «Credo di sì.»
 
 «Lui è lì dentro.»
 
-Non disse il nome, e non c'era bisogno di dirlo. Larsa era stato riportato ad Archades dopo la morte dell'imperatore suo padre, in mezzo ai Giudici, con quella sua faccia educata che non piangeva in pubblico. Penelo portò la mano al collo, dove per un tempo aveva tenuto la pietra che lui le aveva regalato. La pietra non c'era più; Larsa se l'era ripresa nella miniera, in fretta, prima ancora che lei potesse porgergliela, e lei era rimasta con il palmo aperto a mezz'aria. Lei aveva continuato per settimane a toccare quel punto vuoto sul petto, come si tocca un dente che non c'è.
+Non disse il nome, e non c'era bisogno di dirlo. Larsa era stato riportato ad Archades dopo la morte dell'imperatore suo padre, in mezzo ai Giudici, con quella sua faccia educata che non piangeva in pubblico. Penelo portò la mano al collo, dove per un tempo aveva tenuto la pietra che lui le aveva regalato. La pietra non c'era più; Larsa se l'era ripresa a Henne, in fretta, prima ancora che lei potesse porgergliela, e lei era rimasta con il palmo aperto a mezz'aria. Lei aveva continuato per settimane a toccare quel punto vuoto sul petto, come si tocca un dente che non c'è.
 
 «Starà bene?» chiese.
 
@@ -16106,7 +16106,7 @@ Davanti a lui, in piedi accanto alla poltrona, c'era il dottor Cid.
 
 Era più basso di quanto Vaan si aspettasse. Più vecchio, anche, benché non arrivasse ai sessant'anni: capelli, barba e baffi d'argento, la pelle segnata, gli occhi dietro un paio di occhiali ovali dalla montatura d'argento. Portava un soprabito lungo, rosso cupo e viola, con ricami d'oro ai polsi e al bavero, e guanti bianchi. Vaan, guardandolo, pensò senza volerlo che da giovane doveva aver avuto la faccia di Balthier, e la cosa gli diede fastidio. Stava ridendo. Rideva con tutto il corpo, piegandosi un poco in avanti, come se l'uomo con le spade gli avesse appena raccontato una barzelletta eccellente.
 
-«Il Leviatano!» stava dicendo. «Mi vieni a parlare del Leviatano! Come se io non lo sapessi! Come se non avessi i rapporti! Le misurazioni! Ho le letture del Mystes di quella notte, amico mio, le ho incorniciate. Sono bellissime.»
+«Il Leviatano!» stava dicendo. «Mi vieni a parlare del Leviatano! Come se io non lo sapessi! Come se non avessi i rapporti! Le misurazioni! Ho le letture del Mystes di quel giorno, amico mio, le ho incorniciate. Sono bellissime.»
 
 «Una flotta» disse l'uomo con le due spade. La voce era bassa e ferma. «Una flotta intera, in un respiro. E tu continui a giocare con quella pietra come un bambino con il fuoco.»
 
@@ -18174,7 +18174,7 @@ Vaan non rispose subito. Prese un sassolino dal gradino, lo girò tra le dita, l
 
 Era la cosa che Vaan non diceva mai, e Penelo lo sapeva, e non insistette. Lo lasciò dove l'aveva lasciata lui: in una mattina di due anni prima, in una stanza sopra la bottega di Migelo, su un pavimento dove un ragazzo si era svegliato e suo fratello non respirava più.
 
-«Non si torna indietro» disse lei dopo un poco. «Puoi fare tutto quello che vuoi. Puoi spaccare la pietra, prenderne un pezzo, farla saltare in aria. Puoi vincere tutte le guerre. I miei fratelli non tornano. Reks non torna. Il marito di lei non torna.» Si strinse le ginocchia più forte. «Lo so. Lo so benissimo. Ed è stupido, perché quando chiudo gli occhi li vedo lo stesso. Li vedo meglio adesso che prima. Mio fratello Dorran, quello grande, aveva un dente storto qui davanti e quando rideva lo copriva col labbro. Me lo ricordo meglio adesso di quando era vivo. Come se non fosse andato da nessuna parte.»
+«Non si torna indietro» disse lei dopo un poco. «Puoi fare tutto quello che vuoi. Puoi spaccare la pietra, prenderne un pezzo, farla saltare in aria. Puoi vincere tutte le guerre. I miei fratelli non tornano. Reks non torna. Il marito di lei non torna.» Si strinse le ginocchia più forte. «Lo so. Lo so benissimo. Ed è stupido, perché quando chiudo gli occhi li vedo lo stesso. Li vedo meglio adesso che prima. Mio fratello Doran, quello grande, aveva un dente storto qui davanti e quando rideva lo copriva col labbro. Me lo ricordo meglio adesso di quando era vivo. Come se non fosse andato da nessuna parte.»
 
 «Forse non è andato da nessuna parte.»
 
@@ -18852,9 +18852,9 @@ Penelo si rialzò sputando acqua. Aprì le mani e il fuoco le corse dalle dita c
 
 Ogni tanto, fra un colpo e l'altro, Cid parlava al figlio. Non lo insultava. Lo correggeva.
 
-«Il gomito, Ffamran! Tiri ancora col gomito alto. Quante volte te l'ho detto, nel cortile? Il gomito basso, la spalla morbida, e respiri dopo.» Schivò un colpo e rise. «Vedi? Alto. Sempre alto.»
+«Il gomito, Ffamran! Tiri ancora col gomito basso. Quante volte te l'ho detto, nel cortile? Il gomito alto, la spalla morbida, e respiri dopo.» Schivò un colpo e rise. «Vedi? Basso. Sempre basso.»
 
-Balthier abbassò il gomito. Non se ne accorse nessuno, tranne Fran, che dal pavimento lo vide e chiuse gli occhi.
+Balthier alzò il gomito. Non se ne accorse nessuno, tranne Fran, che dal pavimento lo vide e chiuse gli occhi.
 
 Poi fu di nuovo solo, contro sei, e non bastò più. Ashe lo colpì al braccio e l'arma gli cadde. Basch gli fu addosso dal fianco. L'ultimo colpo fu di Balthier, e fu un colpo di pistola, a dieci passi, alla gamba; Balthier mirò alla gamba, e chi lo vide sostenne poi che lo fece apposta, e che non ci fu un tiro in vita sua in cui mirasse meglio.
 
@@ -19140,7 +19140,7 @@ Rikken, ai piedi della scala, aveva ricominciato a camminare. Elza lo chiamò pe
 
 «Cosa direbbe?»
 
-«Che c'è da fare. Che ci sono tre navi nel mare di Naldoa con gente che aspetta, e due bande di Nalbina che aspettano solo che lui sia morto per tornare sulle banchine. Che il porto non si tiene da solo.» Elza scese due gradini. «Se volete fargli onore, non state qui a maledire il mare. Tenete il porto. Fate quello che faceva lui.»
+«Che c'è da fare. Che ci sono due navi nel mare di Naldoa con gente che aspetta, e due bande di Nalbina che aspettano solo che lui sia morto per tornare sulle banchine. Che il porto non si tiene da solo.» Elza scese due gradini. «Se volete fargli onore, non state qui a maledire il mare. Tenete il porto. Fate quello che faceva lui.»
 
 Rikken ci pensò.
 
@@ -20834,7 +20834,7 @@ Dall'altra parte ci fu un silenzio lungo. Si sentivano, nel tubo, il vento che e
 
 Fu la prima volta che qualcuno la chiamava così. Ashe non se l'aspettava. La parola le arrivò addosso come un colpo, e lei non riuscì a reggerlo. Abbassò il tubo d'ottone. Si accorse che stava piangendo solo quando vide le lacrime cadere sulle sue mani, che stringevano il tubo, e non smise.
 
-Pianse per suo padre, che aveva sorriso all'uomo che lo uccideva. Per Rasler, morto con una domanda in bocca su una porta di Nalbina. Per Reks, che non aveva mai conosciuto, e per il fratello che lo aveva vegliato. Per Vossler, che l'aveva portata in spalla per la via dei Calderai la notte della caduta e poi l'aveva tradita per salvarla, e che lei non aveva mai perdonato e non avrebbe più potuto perdonare. Per Reddas, sul Faro. Per l'uomo disteso sul pavimento della cabina, che le aveva tolto tutto e alla fine aveva dato qualcosa indietro.
+Pianse per suo padre, che aveva sorriso all'uomo che lo uccideva. Per Rasler, morto nel deserto fuori Nalbina. Per Reks, che non aveva mai conosciuto, e per il fratello che lo aveva vegliato. Per Vossler, che l'aveva portata in spalla per la via dei Calderai la notte della caduta e poi l'aveva tradita per salvarla, e che lei non aveva mai perdonato e non avrebbe più potuto perdonare. Per Reddas, sul Faro. Per l'uomo disteso sul pavimento della cabina, che le aveva tolto tutto e alla fine aveva dato qualcosa indietro.
 
 Basch le mise una mano sulla spalla. Non disse niente. Non c'era più bisogno di nascondere niente, e nessuno dei due lo fece.
 
@@ -21162,7 +21162,7 @@ Il forno della via delle Fontane. La bottega. Sahra e le focacce bruciate da una
 
 Il capitano alzò la testa.
 
-Larsa aprì il cassetto. Prese la pietra nera con la crepa e la posò sul tavolo, accanto alla busta di Penelo. L'azzurro di quando gliel'aveva regalata a Lhusu non c'era più.
+Larsa aprì il cassetto. Prese la pietra nera con la crepa e la posò sul tavolo, accanto alla busta di Penelo. Il colore di quando gliel'aveva regalata sul Leviatano non c'era più.
 
 «Le ho scritto che non funziona più» disse. «Mi ha risposto che, per quello che doveva fare, ha funzionato abbastanza.»
 

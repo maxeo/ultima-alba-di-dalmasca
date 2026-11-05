@@ -8,7 +8,7 @@ Davanti a lui, in piedi accanto alla poltrona, c'era il dottor Cid.
 
 Era più basso di quanto Vaan si aspettasse. Più vecchio, anche, benché non arrivasse ai sessant'anni: capelli, barba e baffi d'argento, la pelle segnata, gli occhi dietro un paio di occhiali ovali dalla montatura d'argento. Portava un soprabito lungo, rosso cupo e viola, con ricami d'oro ai polsi e al bavero, e guanti bianchi. Vaan, guardandolo, pensò senza volerlo che da giovane doveva aver avuto la faccia di Balthier, e la cosa gli diede fastidio. Stava ridendo. Rideva con tutto il corpo, piegandosi un poco in avanti, come se l'uomo con le spade gli avesse appena raccontato una barzelletta eccellente.
 
-«Il Leviatano!» stava dicendo. «Mi vieni a parlare del Leviatano! Come se io non lo sapessi! Come se non avessi i rapporti! Le misurazioni! Ho le letture del Mystes di quella notte, amico mio, le ho incorniciate. Sono bellissime.»
+«Il Leviatano!» stava dicendo. «Mi vieni a parlare del Leviatano! Come se io non lo sapessi! Come se non avessi i rapporti! Le misurazioni! Ho le letture del Mystes di quel giorno, amico mio, le ho incorniciate. Sono bellissime.»
 
 «Una flotta» disse l'uomo con le due spade. La voce era bassa e ferma. «Una flotta intera, in un respiro. E tu continui a giocare con quella pietra come un bambino con il fuoco.»
 

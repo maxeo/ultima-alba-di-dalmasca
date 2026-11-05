@@ -70,7 +70,7 @@ Non disse il resto. Non disse che quella pietra era stata, per lei, nelle settim
 
 Ashe si voltò di scatto.
 
-«Mi dispiace» disse lui, e sembrava che gli dispiacesse davvero. «Mi capita sempre più spesso, e ogni volta mi dispiace di più. Ma ha ragione. Quella pietra, altezza, ha speso tutto quello che aveva sopra il deserto, la notte del Leviatano. È un guscio. Non la potete usare contro Vayne, non la potete usare contro nessuno. Non vi protegge. Non vi fa regina, perché Anastasis vi ha riconosciuta senza guardarla e Vayne non vi riconoscerebbe nemmeno se gliela tiraste in testa.» Fece una pausa. «È l'unica Negalite al mondo che potete sacrificare senza perdere niente. E se la spada non funziona, è meglio saperlo qui, adesso, in una stanza vuota, che il giorno in cui vi troverete davanti al Crepuscolo.»
+«Mi dispiace» disse lui, e sembrava che gli dispiacesse davvero. «Mi capita sempre più spesso, e ogni volta mi dispiace di più. Ma ha ragione. Quella pietra, altezza, ha speso tutto quello che aveva sopra il deserto, il giorno del Leviatano. È un guscio. Non la potete usare contro Vayne, non la potete usare contro nessuno. Non vi protegge. Non vi fa regina, perché Anastasis vi ha riconosciuta senza guardarla e Vayne non vi riconoscerebbe nemmeno se gliela tiraste in testa.» Fece una pausa. «È l'unica Negalite al mondo che potete sacrificare senza perdere niente. E se la spada non funziona, è meglio saperlo qui, adesso, in una stanza vuota, che il giorno in cui vi troverete davanti al Crepuscolo.»
 
 Ashe guardò Basch. Basch non disse niente. Ma non distolse lo sguardo, e lei capì che era d'accordo, e che non lo avrebbe detto per non doverla vedere obbedire a lui.
 
@@ -86,7 +86,7 @@ Si inginocchiò. Sciolse il panno dalla cintura, adagio, un giro dopo l'altro, c
 
 La pietra si accese.
 
-Non fu una luce. Fu più simile a un respiro. La superficie del frammento, che era stata opaca da quando Basch l'aveva raccolto fra le lamiere dello Shiva, si fece un poco meno scura, come un vetro sporco su cui qualcuno ha soffiato, e dentro, nel profondo, il viola si mosse. Poi, dalla pietra, cominciò a salire qualcosa. Era sottile come il fumo di una candela appena spenta, ma non era fumo; non andava verso l'alto, andava di lato, in fili, in volute, e si allungava sul pavimento e si ritirava, e tornava ad allungarsi, verso le pareti, verso la porta, lontano dalla spada. Faceva un rumore lieve. Un sibilo appena udibile, come l'aria che esce da una fessura.
+Non fu una luce. Fu più simile a un respiro. La superficie del frammento, che era stata opaca da quando Basch l'aveva raccolto fra le lamiere del Leviatano, si fece un poco meno scura, come un vetro sporco su cui qualcuno ha soffiato, e dentro, nel profondo, il viola si mosse. Poi, dalla pietra, cominciò a salire qualcosa. Era sottile come il fumo di una candela appena spenta, ma non era fumo; non andava verso l'alto, andava di lato, in fili, in volute, e si allungava sul pavimento e si ritirava, e tornava ad allungarsi, verso le pareti, verso la porta, lontano dalla spada. Faceva un rumore lieve. Un sibilo appena udibile, come l'aria che esce da una fessura.
 
 «Cos'è?» chiese Penelo. Aveva la voce sottile.
 
