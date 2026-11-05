@@ -336,6 +336,8 @@ let stato = Object.assign({ cap: {}, segni: [], ultimo: null, velocita: 1, dim: 
 if (stato.ui && !stato.ui.scaricaNascosto) stato.ui.nascosti = [...(stato.ui.nascosti || []), 'scarica-file'];
 stato.ui = Object.assign({}, UI_BASE, stato.ui);
 if (stato.tema === 'notte') { stato.tema = null; stato.ui.notteOn = true; }
+const normalizzaCap = cap => { Object.values(cap).forEach(s => { if (s.ascoltati == null) s.ascoltati = s.pos > 5 ? s.pos : 0; }); };
+normalizzaCap(stato.cap);
 stato.ui.indietro = [].concat(stato.ui.indietro);
 stato.ui.avanti = [].concat(stato.ui.avanti);
 const salvaStato = () => { try { localStorage.setItem(CHIAVE, JSON.stringify(stato)); } catch {} };
@@ -355,7 +357,7 @@ function durataTesto(s) {
 }
 const mb = b => (b / 1048576).toFixed(0).replace('.', ',') + ' MB';
 const pronti = () => capitoli.filter(c => c.durata);
-const sc = n => stato.cap[n] || (stato.cap[n] = { pos: 0, fatto: false });
+const sc = n => stato.cap[n] || (stato.cap[n] = { pos: 0, fatto: false, ascoltati: 0 });
 const percorso = (c, cart, est) => `${cart}/${String(c.n).padStart(3, '0')}.${est}`;
 const assoluto = p => new URL(p, location.href).href;
 
@@ -433,7 +435,7 @@ function azioneAzzera(c, r) {
 }
 function azzera(c) {
   const s = sc(c.n);
-  s.pos = 0; s.fatto = false;
+  s.pos = 0; s.fatto = false; s.ascoltati = 0;
   if (corrente === c.n) { a.currentTime = 0; aggiornaFatto(); aggiornaTempo(); }
   salvaStato();
   scorsa = null;
@@ -551,7 +553,7 @@ function disegna() {
   if (filtro === 'segni') return disegnaSegni(box);
   const passa = c => filtro === 'tutti' ? true
     : filtro === 'salvati' ? salvati.has(c.n)
-    : c.durata && !stato.cap[c.n]?.fatto && stato.cap[c.n]?.pos > 5;
+    : c.durata && !stato.cap[c.n]?.fatto && stato.cap[c.n]?.ascoltati >= 5;
   let quanti = 0;
   for (const p of parti) {
     const lista = capitoli.filter(c => c.parte === p && passa(c));
@@ -599,6 +601,7 @@ function carica(n, avvia, da) {
   if (!c || !c.durata) return;
   salvaPosizione(true);
   const stesso = corrente === n;
+  tAscolto = null;
   corrente = n;
   stato.ultimo = n;
   const s = sc(n);
@@ -609,7 +612,7 @@ function carica(n, avvia, da) {
     a.addEventListener('loadedmetadata', () => { a.currentTime = inizio; a.playbackRate = stato.velocita; }, { once: true });
     caricaTesto(c);
   } else a.currentTime = inizio;
-  if (s.fatto && da == null) { s.fatto = false; s.pos = 0; }
+  if (s.fatto && da == null) { s.fatto = false; s.pos = 0; s.ascoltati = 0; }
   $('nome').textContent = `${c.n}. ${c.titolo}`;
   $('pagina-t').textContent = `${c.n}. ${c.titolo}`;
   aggiornaFatto();
@@ -664,7 +667,16 @@ const salta = d => { if (corrente != null) { a.currentTime = Math.max(0, a.curre
 
 a.addEventListener('play', () => { $('play-ic').setAttribute('href', '#i-pausa'); $('play').setAttribute('aria-label', 'Pausa'); $('flotta-ic').setAttribute('href', '#i-pausa'); $('flotta-play').setAttribute('aria-label', 'Pausa'); disegnaTotale(); });
 a.addEventListener('pause', () => { $('play-ic').setAttribute('href', '#i-play'); $('play').setAttribute('aria-label', 'Riproduci'); $('flotta-ic').setAttribute('href', '#i-play'); $('flotta-play').setAttribute('aria-label', 'Riproduci'); salvaPosizione(true); disegna(); });
-a.addEventListener('timeupdate', () => { aggiornaTempo(); salvaPosizione(); });
+let tAscolto = null;
+function contaAscolto() {
+  const ora = performance.now();
+  if (corrente != null && tAscolto != null && !a.paused && !a.seeking) {
+    const d = (ora - tAscolto) / 1000;
+    if (d < 2) { const s = sc(corrente); s.ascoltati = (s.ascoltati || 0) + d; }
+  }
+  tAscolto = a.paused ? null : ora;
+}
+a.addEventListener('timeupdate', () => { contaAscolto(); aggiornaTempo(); salvaPosizione(); });
 a.addEventListener('loadedmetadata', posizioneMedia);
 a.addEventListener('seeked', posizioneMedia);
 a.addEventListener('error', () => { if (a.src) annuncia('Audio non disponibile. Controlla la connessione.'); });
@@ -696,7 +708,7 @@ cur.addEventListener('change', () => {
 });
 $('fatto').onclick = () => {
   if (corrente == null) return annuncia('Scegli prima un capitolo.');
-  const s = sc(corrente); s.fatto = !s.fatto; if (s.fatto) s.pos = 0;
+  const s = sc(corrente); s.fatto = !s.fatto; if (s.fatto) s.pos = 0; else s.ascoltati = 0;
   salvaStato(); aggiornaFatto(); disegna();
   annuncia(s.fatto ? 'Segnato come ascoltato.' : 'Segnato come da ascoltare.');
 };
@@ -1219,7 +1231,7 @@ $('flotta-su').onclick = () => { stato.ui.noBarra = false; salvaStato(); applica
 $('pannello').addEventListener('click', e => { if (e.target === $('pannello')) $('pannello').close(); });
 const CHIAVI_UI = { accento: 'accent', evid: 'highlight', font: 'font', inter: 'lineHeight', indietro: 'skipBack', avanti: 'skipForward', continua: 'autoNext', scambia: 'swapControls', autoRiga: 'autoRow', nascosti: 'hiddenButtons', notteOn: 'nightLightOn', notte: 'nightLight', noBarra: 'hideBar', noIcone: 'hideIconRow', noAvanz: 'hideProgress' };
 const perEsporta = () => ({
-  chapters: Object.fromEntries(Object.entries(stato.cap).map(([n, s]) => [n, { position: s.pos, listened: s.fatto }])),
+  chapters: Object.fromEntries(Object.entries(stato.cap).map(([n, s]) => [n, { position: s.pos, listened: s.fatto, listenedSeconds: Math.round((s.ascoltati || 0) * 10) / 10 }])),
   bookmarks: stato.segni.map(s => ({ chapter: s.n, time: s.t, text: s.frase })),
   lastChapter: stato.ultimo,
   speed: stato.velocita,
@@ -1231,7 +1243,7 @@ const daImportare = d => {
   if (d && typeof d.cap === 'object' && d.cap) return { cap: d.cap, segni: Array.isArray(d.segni) ? d.segni : [], ultimo: d.ultimo ?? null };
   if (!d || typeof d.chapters !== 'object' || !d.chapters) throw 0;
   return {
-    cap: Object.fromEntries(Object.entries(d.chapters).map(([n, c]) => [n, { pos: +c.position || 0, fatto: !!c.listened }])),
+    cap: Object.fromEntries(Object.entries(d.chapters).map(([n, c]) => [n, { pos: +c.position || 0, fatto: !!c.listened, ...(c.listenedSeconds != null ? { ascoltati: +c.listenedSeconds || 0 } : {}) }])),
     segni: (Array.isArray(d.bookmarks) ? d.bookmarks : []).map(s => ({ n: s.chapter, t: s.time, frase: s.text })),
     ultimo: d.lastChapter ?? null
   };
@@ -1249,6 +1261,7 @@ $('importa').onchange = async e => {
   try {
     const d = JSON.parse(await f.text());
     stato = Object.assign(stato, daImportare(d));
+    normalizzaCap(stato.cap);
     salvaStato(); disegna(); annuncia('Progressi importati.');
   } catch { annuncia('File non valido.'); }
   e.target.value = '';
