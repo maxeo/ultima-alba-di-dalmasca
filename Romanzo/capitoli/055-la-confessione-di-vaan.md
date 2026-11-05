@@ -88,6 +88,14 @@ Vaan la guardò.
 
 Vaan non disse niente. Non c'era niente da dire, e per una volta lo capì da solo.
 
+«Il giorno delle nozze» disse Ashe, e si fermò, come se non avesse deciso di cominciare. «Sulla carrozza. Mi disse che sapeva benissimo perché ci sposavano. Che eravamo una frontiera, due regni piccoli messi in fila davanti a uno grande. Me lo disse voltandosi dall'altra parte, a salutare la folla, così io non potevo vedergli la faccia.» Guardò il buio sotto il ponte. «E poi disse che a quella frontiera ci sarebbe venuto lo stesso.»
+
+Vaan non disse niente.
+
+«Io gli dissi che se lo ripeteva in pubblico lo facevo esiliare.» Le scappò un rumore che non era una risata. «È morto su quella frontiera poche settimane dopo. Ci è venuto davvero. E io da due anni non so se devo essergli grata o se devo odiarlo per averlo detto, perché se non l'avesse detto potrei pensare che è morto per un trattato, e un trattato si può odiare.»
+
+Il torrente, giù in fondo, continuava a correre.
+
 «Non so a cosa è servito Rasler» disse Ashe. «Non so a cosa è servito tuo fratello. Non so a cosa servo io, adesso, con una pietra spenta e un principe di Archadia che mi offre se stesso come una moneta. Vorrei saperlo. Vorrei saperlo più di qualsiasi altra cosa.» Fece una pausa. «Anche io cerco le risposte, Vaan. Non le ho.»
 
 Vaan annuì, adagio. Poi fece una cosa che nessuno dei suoi compagni, se l'avessero visto, avrebbe trovato strana, e che Ashe non dimenticò. Si mise in bocca il resto della sua focaccia, masticò, inghiottì, si pulì le dita sui pantaloni, e disse con la semplicità con cui avrebbe detto che domani avrebbe piovuto:
