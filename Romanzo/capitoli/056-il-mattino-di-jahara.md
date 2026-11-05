@@ -82,7 +82,7 @@ Basch si voltò a guardarlo.
 
 «Io me lo sono chiesto» disse Balthier. «Molto. Le pietre del cielo si spengono, nel Jagd, perché il Mystes lì è troppo denso, o troppo storto, e le pietre non ci si raccapezzano. Ci vuole qualcosa che lo raddrizzi. O che se lo mangi.» Fece un gesto vago con la mano. «Una pietra che beve il Mystes intorno a sé, per esempio. Una pietra che lascia l'aria pulita per un tratto, il tempo di passare. Non sono uno scienziato. Ma se fossi l'Impero e avessi in mano una cosa del genere, la monterei sulle mie navi e andrei dove nessuno può seguirmi. E poi mi chiederei dove trovarne ancora.» Si sistemò la giacca. «Non stupisce che le vogliano tanto.»
 
-Basch rimase in silenzio. Il vento della pianura saliva lungo il sentiero e gli muoveva i capelli tagliati male.
+Basch rimase in silenzio. Il vento della pianura saliva lungo il sentiero e gli scioglieva dal nodo qualche ciocca di capelli.
 
 «Posso farti una domanda» disse.
 

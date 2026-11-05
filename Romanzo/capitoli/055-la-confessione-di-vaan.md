@@ -4,7 +4,9 @@ Si sedettero sul ponte, alla fine, perché restare in piedi su delle tavole che 
 
 Vaan si accorse di avere ancora la focaccia in mano. La guardò. Poi la spezzò in due e ne offrì metà alla principessa, e lei, dopo un'esitazione, la prese, perché era troppo stanca per rifiutare e perché a un ragazzo della Città Bassa che ti offre metà del suo pane non si dice di no senza una buona ragione.
 
-«Reks si è arruolato alla fine» disse Vaan.
+Vaan si toccò il pendente che portava al collo, un pezzo di metallo azzurro che era stato di Reks, e lo lasciò andare.
+
+«Reks si è arruolato alla fine» disse.
 
 Non aveva cominciato da nessuna parte. Lo disse e basta, a metà di un pensiero, guardando il buio.
 

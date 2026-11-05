@@ -150,7 +150,7 @@ Il canto del Garif, da qualche parte sulla collina, si era fermato.
 
 «Era Rasler» disse Ashe. Lo disse a fatica, come se la parola dovesse attraversare qualcosa di stretto. «Mio marito.»
 
-«Lo so. Cioè, adesso lo so.» Vaan si grattò la nuca. «Allora non lo sapevo. Non l'avevo mai visto, il principe. Una volta, forse, al corteo, ma guardavo una pesca.» Fece una pausa. «Però l'ho visto, là sotto. E adesso. Io. Che non lo conoscevo.»
+«Lo so.» Vaan si grattò la nuca. «L'ho capito là sotto. Era quello della carrozza, il giorno delle nozze. Me lo sono ricordato dalla carrozza.» Fece una pausa. «Ma io l'ho visto una volta sola, da lontano, per il tempo di una pesca. Non lo conoscevo. E l'ho visto là sotto, e adesso. Io.»
 
 «Non è possibile.»
 
@@ -158,7 +158,7 @@ Il canto del Garif, da qualche parte sulla collina, si era fermato.
 
 Ashe lo guardò come non lo aveva mai guardato. Fino a quel momento Vaan era stato per lei un ladro, un ragazzo fastidioso, una bocca che faceva domande inopportune a tavola; qualcuno che era capitato nella sua storia per sbaglio e che ci restava per ostinazione. Adesso stava sullo stesso ponte, davanti allo stesso fuoco, e aveva visto lo stesso morto.
 
-«Allora cos'hai visto?» chiese lei. La voce le era uscita più dura di come voleva. «Se non lo conoscevi. Cos'hai visto, Vaan?»
+«Allora cos'hai visto?» chiese lei. La voce le era uscita più dura di come voleva. «Se non lo conoscevi. Cos'hai visto davvero, Vaan?»
 
 Vaan ci pensò. Si guardò la focaccia in mano, come se ci fosse scritta sopra la risposta, e non c'era.
 

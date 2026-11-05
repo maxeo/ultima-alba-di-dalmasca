@@ -4,7 +4,7 @@
 
 Lo disse con un tono che nessuno di loro gli aveva mai sentito, e che era una mescolanza perfetta di sollievo e di irritazione, come quella di un ragazzo che vede arrivare finalmente lo zio che aspettava alla stazione delle diligenze e si accorge che lo zio, per l'occasione, si è messo un cappello piumato.
 
-«Altezza» rispose l'uomo con la giacca rossa, e fece un secondo inchino, più profondo del primo, e anche più ironico. «Vi chiedo perdono per l'ingresso. Ho sempre avuto un debole per le colonne. Ci si può appoggiare, e nessuno ti vede finché non decidi tu.»
+«Altezza» rispose l'uomo con la camicia a righe, e fece un secondo inchino, più profondo del primo, e anche più ironico. «Vi chiedo perdono per l'ingresso. Ho sempre avuto un debole per le colonne. Ci si può appoggiare, e nessuno ti vede finché non decidi tu.»
 
 «È lui» disse Larsa, voltandosi verso Ashe. Sembrava che dovesse giustificarsi. «La persona di cui vi parlavo. Quella che vi aspettava.» Esitò. «Al-Cid Margrace. Della casa Margrace di Rozarria.»
 

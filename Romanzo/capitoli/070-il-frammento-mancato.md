@@ -250,17 +250,13 @@ Ashe abbassò gli occhi sulla propria mano sinistra, posata sulla lama della Spa
 
 Balthier la vide guardare. Portò la mano destra al petto, alla tasca interna della giacca, sotto la pelliccia, e ce la tenne un momento, senza aprire niente. Poi la riabbassò.
 
-«Ti ho detto che te lo avrei restituito» disse.
+«Ti ho detto che te lo avrei restituito» disse. «Quando avessi trovato qualcosa che valesse di più.»
 
-«Quando avessi trovato qualcosa che valesse di più.»
-
-«Sì.»
-
-«E l'hai trovato?»
+Ashe non rispose. Non ne aveva mai parlato, da Rabanastre, e non cominciò quella sera.
 
 Balthier guardò il ponte.
 
-«Non ancora» disse. «Ma stasera, per un momento, ho creduto di averlo visto.»
+«Non l'ho ancora trovato» disse. «Ma stasera, per un momento, ho creduto di averlo visto.»
 
 Ashe si voltò a guardarlo. Lui non si voltò. Dopo un poco si alzò, si scosse la neve dalla pelliccia, e tornò al fuoco, e si sdraiò accanto a Fran, che aveva gli occhi aperti e non disse niente.
 
