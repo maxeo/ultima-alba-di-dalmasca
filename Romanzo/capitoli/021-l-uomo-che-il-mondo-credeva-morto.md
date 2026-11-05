@@ -1,10 +1,10 @@
 ## 21. L'uomo che il mondo credeva morto
 
-Oltre la porta l'aria cambiava. Nei livelli alti di Nalbina faceva il caldo grasso delle caserme, quello che sa di sudore vecchio, di rancio bruciato e di olio per le armature; qui sotto il caldo finiva di colpo, come finisce al bordo di un pozzo, e restava un freddo umido che saliva dalle pietre e si attaccava ai vestiti. Le scale scendevano in curva, scavate nella roccia viva, con i gradini consumati al centro da secoli di piedi che non erano tornati su. Ogni venti gradini c'era una lampada di magilite in una gabbietta di ferro. Metà erano spente.
+Oltre la porta l'aria cambiava. Nei livelli alti di Nalbina faceva il caldo grasso delle caserme, quello che sa di sudore vecchio, di rancio bruciato e di olio per le armature; qui sotto il caldo finiva di colpo, come finisce al bordo di un pozzo, e restava un freddo umido che saliva dalle pietre e si attaccava ai vestiti. Le scale scendevano a spirale nella roccia viva, e ogni gradino aveva un incavo nel mezzo, lasciato da secoli di piedi che non erano tornati su. Ogni venti gradini c'era una lampada di magilite in una gabbietta di ferro. Metà erano spente.
 
 Vaan scendeva per ultimo, con la spada ritrovata stretta contro il fianco perché non sbattesse sui muri. Davanti a lui Fran camminava senza rumore, e non era un modo di dire: le sue scarpe, sui gradini bagnati, non facevano nessun suono, mentre quelle di Vaan facevano il rumore di due pesci gettati su un banco. Balthier stava in mezzo. Teneva la pistola bassa e il mento alto, e aveva l'aria di un uomo che scende in cantina a scegliere il vino.
 
-Più giù, molto più giù, si sentiva il passo del Giudice. Era un passo pesante e regolare, metallo su pietra, e la curva delle scale lo rimandava indietro moltiplicato, tanto che a tratti sembrava che a scendere fossero in dieci. Con lui c'erano due soldati. Vaan li aveva contati alla porta, quando l'uomo in armatura aveva detto le sue parole in quella lingua che nessuno parlava più e i sigilli si erano spenti come candele.
+Più giù, molto più giù, si sentiva il passo del Giudice. Era un passo pesante e regolare, metallo su pietra, e la curva delle scale lo rimandava indietro moltiplicato, tanto che a tratti sembrava che a scendere fossero in dieci. Con lui c'erano due soldati. Vaan li aveva contati alla porta, quando l'uomo in armatura aveva detto le sue parole in quella lingua che nessuno parlava più e i sigilli si erano spenti uno dopo l'altro.
 
 Le scale finirono su una galleria. Fran si fermò e alzò una mano, e i due dietro di lei si fermarono.
 
@@ -92,7 +92,7 @@ Si girò e se ne andò. I passi di metallo attraversarono il ponte, raggiunsero 
 
 Per un po' nessuno dei tre dietro la cassa disse niente. Vaan respirava con la bocca aperta, come dopo una corsa. Aveva le mani fredde e la faccia calda.
 
-Balthier si alzò per primo. Si spolverò le ginocchia, si sistemò i polsini con due piccoli gesti precisi, e guardò la porta da cui il Giudice era uscito con l'espressione di un critico teatrale alla fine del primo atto.
+Balthier si alzò per primo. Si spolverò le ginocchia e guardò la porta da cui il Giudice era uscito con l'espressione di un critico teatrale alla fine del primo atto.
 
 «Interessante» disse.
 
@@ -196,7 +196,7 @@ Fran si era staccata dal parapetto. Camminava lungo la galleria verso il muro do
 
 «La faccio cadere» disse.
 
-Balthier chiuse gli occhi per un istante, il tempo di un sospiro, e li riaprì. «Ma certo» disse. «Perché no.»
+Balthier sospirò, breve. «Ma certo» disse. «Perché no.»
 
 «Cosa?» Vaan si girò. «Aspetta, cosa...»
 
