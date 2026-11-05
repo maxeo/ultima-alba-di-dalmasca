@@ -182,15 +182,21 @@ E c'era, quasi in fondo, un vecchio piccolo e curvo che spingeva un carretto pie
 
 Oltre la porta, nel deserto ancora buio, c'erano le barche.
 
-Erano decine. Basse, lunghe, di legno chiaro e di pelle tesa, con vele triangolari che pendevano flosce nell'aria ferma, posate sulla sabbia come su un lago. Intorno alle barche si muovevano figure alte e magre, avvolte in mantelli color sabbia, con le teste lisce e lucide come gusci, dipinte di bianco e di ocra. Uno di loro venne avanti, più vecchio degli altri, con un bastone ornato di conchiglie che non venivano da nessun mare che Vaan conoscesse, e quando vide Vaan e Penelo si fermò e piantò il bastone nella sabbia.
+Erano decine. Basse, lunghe, di legno chiaro e di pelle tesa, con vele triangolari che pendevano flosce nell'aria ferma, posate sulla sabbia come su un lago. Intorno alle barche si muovevano figure alte e magre, avvolte in mantelli color sabbia, con le maschere chiare rivolte verso la città. Uno di loro venne avanti, più vecchio degli altri, con un bastone ornato di conchiglie e, sotto le conchiglie, un laccio scuro avvolto stretto, quello di un guerriero che il mare di sabbia non aveva restituito, e quando vide Vaan e Penelo si fermò e piantò il bastone nella sabbia.
 
-«Il debito» disse, nella lingua spezzata degli Urutan, con la bocca che faceva fatica a dare forma alle parole degli uomini. «Voi aiutate noi, quando la bestia del mare di sabbia mangiava i nostri. Noi diciamo: debito. Debito vuole essere pagato.»
+«Conto nostro» disse, nella lingua comune spezzata che Vaan gli aveva sentito una volta sola, su una roccia in mezzo al mare di sabbia. «Tu torni indietro per il ferito. Il mare prende molte cose. Cosa restituita va contata.»
 
-«Non vogliamo niente» disse Penelo.
+«Ve lo siete ricordato» disse Penelo.
 
-«Voi no. Il debito sì.» L'Urutan indicò con il bastone la folla che usciva dalla porta. «Questi sono vostri. Noi portiamo. Oltre la sabbia, dove la grande nave non guarda. Poi il debito è pagato e si dorme bene.»
+«Tu dici: ricordatevelo. Noi ricordiamo.» Il bastone indicò lei, poi Vaan, come per rileggerne le facce.
+
+«Non vogliamo niente.»
+
+«Voi no. Il debito sì.» L'Urutan indicò con il bastone la folla che usciva dalla porta. «Questi sono vostri. Noi portiamo. Oltre la sabbia, dove la grande nave non guarda. Poi il conto è chiuso e si dorme bene.»
 
 Vaan guardò le barche, poi la gente, poi l'Urutan. Fece un inchino, il primo della sua vita, e lo fece male come Migelo.
+
+Dietro di lui, sul bordo della strada, Montblanc aveva il quaderno aperto sulle ginocchia e contava le barche con la punta della penna. Quando l'ultima famiglia del vicolo del tintore fu salita, trovò una riga in una pagina vecchia, accanto a un nome e a una piccola spiga, e ci tirò sopra una linea dritta. «Kupò» disse, a nessuno. «Pari.» Poi chiuse il quaderno, e per tutta la mattina i moguri del Clan portarono acqua da una barca all'altra senza farla pagare.
 
 ---
 

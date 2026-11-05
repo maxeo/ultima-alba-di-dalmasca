@@ -20,13 +20,13 @@ Penelo gli si piantò davanti.
 
 «Questo è tuo.»
 
-Gli tese il fazzoletto. Era piegato in quattro, con l'iniziale in vista, lavato dalla cameriera di Ondore e poi stropicciato da due giorni di tasca e da un hangar e da una scheggia di negalite che ci aveva dormito accanto. Penelo lo teneva con due dita, il braccio teso, la faccia seria.
+Gli tese il fazzoletto. Era piegato in quattro, con la F ricamata in vista, lavato dalla cameriera di Ondore e poi stropicciato da due giorni di tasca e da un hangar e da una scheggia di negalite che ci aveva dormito accanto. Penelo lo teneva con due dita, il braccio teso, la faccia seria.
 
 Balthier si fermò sull'ultimo gradino della passerella e lo guardò.
 
 «Me lo hai dato a Rabanastre» disse Penelo. «Quando hanno preso Vaan. Mi hai detto di tenerlo finché non te lo avessi riportato.» Indicò Vaan con il mento, senza voltarsi. «Te l'ho riportato. Cioè, l'hai riportato tu. Cioè...» Si fermò. «Insomma, è tuo.»
 
-Il pirata scese l'ultimo gradino. Prese il fazzoletto con due dita, con la stessa cerimonia con cui lei lo porgeva, e lo guardò, e lo spiegò, e lo ripiegò in quattro con molta cura, l'iniziale in vista. Poi se lo infilò nella tasca interna della giacca, a sinistra, e ci posò sopra la mano aperta.
+Il pirata scese l'ultimo gradino. Prese il fazzoletto con due dita, con la stessa cerimonia con cui lei lo porgeva, e lo guardò, e lo spiegò, e lo ripiegò in quattro con molta cura, la F in vista. Era una lettera piccola, cucita in filo d'oro in un angolo, con uno svolazzo da calligrafo. Penelo la guardò passare dalle sue dita a quelle di lui, e non disse niente. Poi se lo infilò nella tasca interna della giacca, a sinistra, e ci posò sopra la mano aperta.
 
 «Lo terrò vicino al cuore» disse.
 

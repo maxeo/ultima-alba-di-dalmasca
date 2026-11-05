@@ -16,6 +16,8 @@ Fran fece virare la nave. La lancetta continuò a tremare, ma perse il ritmo fur
 
 «Finché questa resta una lancetta e non una commemorazione.»
 
+I geografi di Archades, che hanno dato un nome a ogni cosa che si possa sorvolare, chiamano *jagd* le terre dove non si può. La parola, nella lingua antica, vuol dire più o meno "luogo senza padrone", e i geografi la usano con un certo fastidio, come si usa una parola volgare in un rapporto ufficiale. Nelle carte dell'impero i Jagd sono macchie bianche con un bordo tratteggiato. Nelle carte degli Urutan-Yensa, che a quanto pare esistono e che nessun geografo di Archades ha mai visto, sono l'unica parte del mondo colorata con cura.
+
 Fran indicò un gruppo di rocce. Balthier annuì e si voltò verso gli altri. «Allacciatevi. Vaan, soprattutto ciò che hai già slacciato.»
 
 Atterrarono in una conca nascosta fra due pareti, abbastanza larga da tenere le ali raccolte e abbastanza stretta da non essere notata da una rotta comune. Nono rimase ad ascoltare il motore finché non ebbe finito di ticchettare. Poi dichiarò che ci sarebbe stato lavoro e che il capitano non doveva confondere la possibilità di ripartire con l'idea di farlo subito.
@@ -66,6 +68,28 @@ Proseguirono lungo la gola indicata dall'itinerario. Il vento veniva da ovest e 
 
 Vaan lasciò perdere. Aveva tenuto a mente il nome, il movimento dello strumento, perfino il modo in cui Fran aveva corretto la rotta. Un giorno gli sarebbero serviti. Gli sarebbe piaciuto poterlo dire senza che Penelo lo guardasse con quel mezzo sorriso. Il nodo, tuttavia, teneva fuori la sabbia, e dopo un poco smise di toccarlo.
 
+Balthier, intanto, faceva i conti. Li faceva a voce alta, perché un conto fatto in silenzio, diceva, è un conto che nessuno ammira.
+
+«Una corona del Re Dinasta» annunciò a un certo punto, a nessuno in particolare, scavalcando una pietra. «Oro, naturalmente. Pietre, presumibilmente. Settecento anni di leggenda sopra, il che ne raddoppia il prezzo a ogni secolo. Diciamo... trecentomila gil, da un collezionista di Archades che non fa domande.»
+
+«Ce ne sono?» chiese Penelo.
+
+«Di collezionisti che non fanno domande? È l'unica categoria di persone di cui Archades non è mai a corto.» Il pirata si aggiustò la benda sul naso. «Poi le armi. Un re che ha unificato Ivalice avrà avuto delle armi. Mettiamone dodici. E i doni dei re vassalli, che per definizione erano più preziosi del necessario, perché un vassallo che regala poco smette presto di essere vassallo e diventa cadavere.» Si fermò, guardò il cielo, mosse le labbra. «Siamo a un milione e mezzo.»
+
+«Se c'è» disse Fran.
+
+«C'è.»
+
+«Se è ancora lì.»
+
+«È ancora lì.»
+
+«Se non è maledetto.»
+
+Balthier si voltò verso di lei con un'espressione ferita. «Fran. Stiamo parlando di un tesoro. Sono tutti maledetti. È il modo in cui si riconoscono.»
+
+Ashe, davanti a tutti con la carta in mano, non si voltò. Ma Vaan, che le camminava dietro, la vide stringere le labbra in un modo che in un'altra persona sarebbe stato l'inizio di un sorriso.
+
 Il sentiero salì. A ogni curva il rumore cambiava: prima era il vento fra le rocce, poi un fruscio lungo, continuo, che non arrivava dall'alto. Vaan accelerò e passò per primo oltre l'ultima sporgenza.
 
 Si fermò così di colpo che Penelo gli urtò la sacca.
@@ -100,7 +124,29 @@ Il ragazzo bevve un solo sorso. Basch vide il gesto e non aggiunse la raccomanda
 
 ---
 
-La scala della prima raffineria aveva perso due pioli. Balthier la saggiò con il piede, salì e si fermò sulla piattaforma a provare la grata. Nessuno lo vide sorridere. Con la sabbia venti braccia più sotto, il pirata non aveva bisogno di fingersi disinvolto per fare il proprio lavoro.
+Si accamparono sulla riva, al riparo di uno scoglio, perché Basch disse che nessuno attraversa un mare di notte, nemmeno quando il mare è di sabbia. Il fuoco lo accese Penelo, con lo sterco secco di qualche bestia che nessuno volle sapere quale fosse. Poi tirò fuori dalla sacca un sacchetto di farina, un pizzico di sale e una borraccia, e cominciò a impastare su una pietra piatta, con le maniche arrotolate, come faceva sotto il portico di Migelo quando le carovane arrivavano tardi e i facchini avevano fame.
+
+Ashe la guardava dall'altra parte del fuoco.
+
+«Che cos'è?»
+
+«Pane da strada. Lo fanno i carovanieri. Si stende sottile e si cuoce sulla pietra calda, e se lo giri al momento giusto non si brucia.» Penelo alzò gli occhi. «Vuoi provare?»
+
+La principessa esitò. Era evidente che nessuno, in diciannove anni, le aveva mai chiesto se voleva provare a fare il pane, e che la domanda le sembrava al tempo stesso un'offesa e un regalo. Poi si sedette accanto a Penelo, si arrotolò le maniche con due gesti secchi e tese le mani.
+
+Il primo pane lo girò troppo presto e si ruppe. Il secondo troppo tardi, e diventò nero. Il terzo lo girò al momento giusto, ma con tanta forza che volò via dalla pietra e atterrò nella sabbia, ai piedi di Balthier.
+
+Il pirata lo raccolse, lo soffiò, lo guardò controluce.
+
+«Il pane delle principesse» disse. E lo mangiò tutto, con aria di grande soddisfazione.
+
+Ashe lo fissò. Poi, per la prima volta da quando l'avevano incontrata nei canali di Rabanastre, rise. Fu una risata breve e sorpresa, quasi uno sbuffo, e se la tappò subito con il dorso della mano sporca di farina, e si lasciò una striscia bianca sulla guancia, sopra il livido che stava diventando giallo. Penelo vide la striscia e non glielo disse. Le passò un altro pugno di impasto.
+
+Il quarto pane venne bene. Ashe lo divise in sei parti uguali, con molta cura, e ne porse una a ciascuno, e quando arrivò a Basch esitò un istante soltanto, e poi gliela porse come agli altri.
+
+---
+
+La mattina dopo, la scala della prima raffineria aveva perso due pioli. Balthier la saggiò con il piede, salì e si fermò sulla piattaforma a provare la grata. Nessuno lo vide sorridere. Con la sabbia venti braccia più sotto, il pirata non aveva bisogno di fingersi disinvolto per fare il proprio lavoro.
 
 Il ferro scottava attraverso le suole. Dalle giunture usciva un odore di ruggine e di olio secco; vicino a un serbatoio affiorava ancora una materia nera, dura, che la sabbia non era riuscita a consumare. Vaan ne grattò una scaglia con il pollice e si ritrovò le dita appiccicose.
 
@@ -165,5 +211,23 @@ Vossler voltò il capo verso di lui. Basch continuò senza alzare la voce. «Non
 Vaan vide Ashe stringere la sinistra sull'anello. Vossler guardò quel pugno, poi la faccia dell'altro capitano. Per un istante i due rimasero sullo stesso ferro rovente, abbastanza vicini da toccarsi una spalla, con tutto il tempo perduto in mezzo.
 
 «Allora non perdiamo anche questa strada» disse Vossler.
+
+Poi, mentre Ashe tornava verso la carta e gli altri si rimettevano le sacche in spalla, si avvicinò a Basch e gli parlò a bassa voce, guardando il mare.
+
+«A Bhujerba girano voci» disse. «Le portano i mercanti che vengono da ovest. Rozarria ha raddoppiato le navi alla frontiera. Non per manovre: hanno richiamato i riservisti, e i riservisti di Rozarria li richiamano soltanto quando hanno intenzione di farli morire.» Una breve esitazione. «Ad Archades dicono guerra prima dell'autunno. E se è guerra, si combatte qui. Sopra Dalmasca. Come l'altra volta.»
+
+Basch non rispose.
+
+«La pietra della tomba» continuò Vossler, sempre senza guardarlo. «Quella che lei cerca. Se è quello che dicono, se è come quella che si è accesa sul Leviatano... Quanto credi che varrebbe, per loro?»
+
+«Per chi?»
+
+«Per chiunque. Archades. Rozarria. Chi la tiene in mano, quando arriva la guerra.»
+
+Basch si girò a guardarlo. «Non è in vendita.»
+
+«Lo so.» Vossler sorrise appena, con un angolo della bocca. «Te l'ho chiesto da soldato, non da mercante. Bisogna sapere quanto vale una cosa per sapere quanto costerà difenderla.»
+
+Era una risposta da soldato. Basch la accettò come tale. Fran, a dieci passi, con le orecchie girate verso il mare, sentì tutto, e non disse niente a nessuno, e se lo ricordò.
 
 Fran, che era rimasta presso la ringhiera, tese improvvisamente un orecchio. Sotto la piattaforma qualcosa passò controcorrente. Balthier le vide girare il capo e smise di osservare i capitani.
