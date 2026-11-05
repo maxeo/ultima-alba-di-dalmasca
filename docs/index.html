@@ -88,7 +88,9 @@ input[type=range] { width: 100%; accent-color: var(--accento); height: 28px; mar
 .comandi button, .comandi select { min-width: 44px; height: 44px; display: grid; place-items: center; }
 .comandi select { background: var(--pannello); border: 0; border-radius: 10px; font-size: 14px; color: var(--tenue); padding: 0 2px; width: 68px; }
 @media (max-width: 400px) { .comandi button { min-width: 40px; } .comandi select { width: 64px; } }
-@media (max-width: 340px) { .comandi { gap: 0; } .comandi button { min-width: 36px; } .comandi select { width: 56px; } .comandi .play { width: 48px; height: 48px; } }
+#riga-icone { flex-wrap: wrap; }
+@media (max-width: 400px) { #riga-icone button { min-width: 38px; } }
+@media (max-width: 340px) { .comandi { gap: 0; } #riga-icone button { min-width: 35px; } .comandi button { min-width: 36px; } .comandi select { width: 56px; } .comandi .play { width: 48px; height: 48px; } }
 .salti { display: contents; }
 .comandi.ridotta { justify-content: center; gap: 4px 12px; }
 .comandi.unita { justify-content: center; gap: 4px 12px; }
@@ -196,6 +198,7 @@ label.spunta input { width: 20px; height: 20px; accent-color: var(--accento); fl
   <symbol id="i-luna" viewBox="0 0 24 24"><path d="M14 3a9 9 0 1 0 7 14.6A8 8 0 0 1 14 3z"/></symbol>
   <symbol id="i-su" viewBox="0 0 24 24"><path d="m12 8 7 7-1.4 1.4-5.6-5.6-5.6 5.6L5 15z"/></symbol>
   <symbol id="i-vuoto" viewBox="0 0 24 24"></symbol>
+  <symbol id="i-file" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6 2h9l5 5v15H4V2zm0 2v16h12V8h-4V4zm5 6h2v5l2-2 1.4 1.4L12 18.8l-4.4-4.4L9 13l2 2z"/></symbol>
   <symbol id="i-casella" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M5 4h14a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1zm1 2v12h12V6z"/></symbol>
   <symbol id="i-casella-ok" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M5 4h14a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1zm5 12.4 7.6-7.6-1.4-1.4-6.2 6.2-2.6-2.6L6.4 12z"/></symbol>
   <symbol id="i-monitor" viewBox="0 0 24 24"><path d="M3 4h18v13H3zm2 2v9h14V6zM8 19h8v2H8z"/></symbol>
@@ -218,6 +221,7 @@ label.spunta input { width: 20px; height: 20px; accent-color: var(--accento); fl
 
 <header class="alto">
   <div class="alto-az">
+    <button class="btn-tema" id="condividi-sito" aria-label="Condividi la pagina" title="Condividi la pagina"><svg class="ic"><use href="#i-condividi"/></svg></button>
     <button class="btn-tema" data-menu-btn aria-label="Apri il menu" title="Apri il menu"><svg class="ic"><use href="#i-personalizza"/></svg></button>
     <button class="btn-tema" data-tema-btn></button>
   </div>
@@ -285,6 +289,7 @@ label.spunta input { width: 20px; height: 20px; accent-color: var(--accento); fl
       <button id="segna" aria-label="Aggiungi un segnalibro" title="Aggiungi un segnalibro"><svg class="ic"><use href="#i-segno"/></svg></button>
       <button id="sonno" class="sec" aria-label="Timer di spegnimento: spento" title="Timer di spegnimento" style="width:auto;padding:0 4px"><svg class="ic"><use href="#i-timer"/></svg></button>
       <button id="salva-qui" aria-label="Salva sul dispositivo" title="Salva sul dispositivo"><svg class="ic"><use href="#i-scarica"/></svg></button>
+      <button id="scarica-file" aria-label="Scarica il file del capitolo" title="Scarica il file del capitolo"><svg class="ic"><use href="#i-file"/></svg></button>
       <button id="continua" title="Capitolo successivo automatico"><svg class="ic"><use href="#i-continua"/></svg></button>
       <button id="condividi" aria-label="Condividi il capitolo" title="Condividi il capitolo"><svg class="ic"><use href="#i-condividi"/></svg></button>
       <button id="personalizza" data-menu-btn aria-label="Apri il menu" title="Apri il menu"><svg class="ic"><use href="#i-personalizza"/></svg></button>
@@ -824,10 +829,22 @@ $('salva-qui').onclick = () => {
   if (!c) return annuncia('Scegli prima un capitolo.');
   salvati.has(c.n) ? togli(c) : salva(c);
 };
+$('scarica-file').onclick = () => {
+  const c = capitoli.find(k => k.n === corrente);
+  if (!c) return annuncia('Scegli prima un capitolo.');
+  const nome = `${String(c.n).padStart(3, '0')} - ${c.titolo}`.replace(/[<>:"/|?*]/g, '') + '.mp3';
+  el('a', { href: percorso(c, 'audio', 'mp3'), download: nome }).click();
+  annuncia(`Scarico il capitolo ${c.n}.`);
+};
 $('continua').onclick = () => {
   stato.ui.continua = !stato.ui.continua;
   salvaStato(); applicaUi();
   annuncia(stato.ui.continua ? 'Alla fine passa al capitolo successivo.' : 'Alla fine del capitolo si ferma.');
+};
+$('condividi-sito').onclick = async () => {
+  const url = location.origin + location.pathname, titolo = document.title;
+  if (navigator.share) { try { await navigator.share({ title: titolo, url }); } catch {} return; }
+  try { await navigator.clipboard.writeText(url); annuncia('Link copiato.'); } catch { annuncia('Copia non riuscita.'); }
 };
 $('condividi').onclick = async () => {
   const c = capitoli.find(k => k.n === corrente);
@@ -840,8 +857,9 @@ $('condividi').onclick = async () => {
 // Menu
 const COMANDI = [
   ['fatto', 'Segna come ascoltato', 'i-ok'], ['segna', 'Segnalibro', 'i-segno'], ['sonno', 'Timer di spegnimento', 'i-timer'],
-  ['salva-qui', 'Salva sul dispositivo', 'i-scarica'], ['continua', 'Pulsante del capitolo automatico', 'i-continua'], ['condividi', 'Condividi il capitolo', 'i-condividi']
+  ['salva-qui', 'Salva sul dispositivo', 'i-scarica'], ['scarica-file', 'Scarica il file del capitolo', 'i-file'], ['continua', 'Pulsante del capitolo automatico', 'i-continua'], ['condividi', 'Condividi il capitolo', 'i-condividi']
 ];
+const IN_ALTO = [['condividi-sito', 'Condividi la pagina principale', 'i-condividi']];
 const PRINCIPALI = [
   ['velocita', 'Velocità', 'i-velocita'], ['prec', 'Capitolo precedente', 'i-prec'], ['succ', 'Capitolo successivo', 'i-succ'], ['testo', 'Testo del capitolo', 'i-testo'],
   ['personalizza', "Menu (in alto c'è sempre)", 'i-personalizza']
@@ -870,7 +888,7 @@ function applicaUi() {
   const bottoni = (lista, segno, nome) => lista.map(s => el('button', { class: 'sec', 'aria-label': `${nome} di ${durataSalto(s)}`, title: `${nome} di ${durataSalto(s)}`, onclick: () => salta(segno === '+' ? s : -s) }, (segno === '+' ? '+' : '−') + testoSalto(s)));
   $('salti-indietro').replaceChildren(...bottoni([...u.indietro].sort((x, y) => y - x), '−', 'Indietro'));
   $('salti-avanti').replaceChildren(...bottoni([...u.avanti].sort((x, y) => x - y), '+', 'Avanti'));
-  [...PRINCIPALI, ...COMANDI].forEach(([id]) => $(id).classList.toggle('nascosto', u.nascosti.includes(id)));
+  [...IN_ALTO, ...PRINCIPALI, ...COMANDI].forEach(([id]) => $(id).classList.toggle('nascosto', u.nascosti.includes(id)));
   $('riga-principale').classList.toggle('ridotta', u.indietro.length + u.avanti.length !== 2 || PRINCIPALI.some(([id]) => id !== 'personalizza' && u.nascosti.includes(id)));
   $('lettore').classList.toggle('nascosto', u.noBarra);
   $('flotta').classList.toggle('nascosto', !u.noBarra);
@@ -1029,6 +1047,8 @@ function disegnaPannello() {
       spunta('Barra inferiore', !u.noBarra, on => { u.noBarra = !on; }, 'i-barra'),
       spunta('Barra di avanzamento', !u.noAvanz, on => { u.noAvanz = !on; }, 'i-avanzamento'),
       spunta('Riga delle icone', !u.noIcone, on => { u.noIcone = !on; }, 'i-riga'),
+      sotto('In alto'),
+      IN_ALTO.map(voceComando),
       sotto('Pulsanti principali'),
       PRINCIPALI.map(voceComando),
       sotto('Icone della riga'),
@@ -1045,9 +1065,28 @@ $('chiudi-pannello').onclick = () => $('pannello').close();
 $('flotta-play').onclick = () => $('play').click();
 $('flotta-su').onclick = () => { stato.ui.noBarra = false; salvaStato(); applicaUi(); altezzaLettore(); };
 $('pannello').addEventListener('click', e => { if (e.target === $('pannello')) $('pannello').close(); });
+const CHIAVI_UI = { accento: 'accent', evid: 'highlight', font: 'font', inter: 'lineHeight', indietro: 'skipBack', avanti: 'skipForward', continua: 'autoNext', scambia: 'swapControls', autoRiga: 'autoRow', nascosti: 'hiddenButtons', notteOn: 'nightLightOn', notte: 'nightLight', noBarra: 'hideBar', noIcone: 'hideIconRow', noAvanz: 'hideProgress' };
+const perEsporta = () => ({
+  chapters: Object.fromEntries(Object.entries(stato.cap).map(([n, s]) => [n, { position: s.pos, listened: s.fatto }])),
+  bookmarks: stato.segni.map(s => ({ chapter: s.n, time: s.t, text: s.frase })),
+  lastChapter: stato.ultimo,
+  speed: stato.velocita,
+  fontSize: stato.dim,
+  theme: stato.tema,
+  settings: Object.fromEntries(Object.entries(CHIAVI_UI).map(([it, en]) => [en, stato.ui[it]]))
+});
+const daImportare = d => {
+  if (d && typeof d.cap === 'object' && d.cap) return { cap: d.cap, segni: Array.isArray(d.segni) ? d.segni : [], ultimo: d.ultimo ?? null };
+  if (!d || typeof d.chapters !== 'object' || !d.chapters) throw 0;
+  return {
+    cap: Object.fromEntries(Object.entries(d.chapters).map(([n, c]) => [n, { pos: +c.position || 0, fatto: !!c.listened }])),
+    segni: (Array.isArray(d.bookmarks) ? d.bookmarks : []).map(s => ({ n: s.chapter, t: s.time, frase: s.text })),
+    ultimo: d.lastChapter ?? null
+  };
+};
 $('esporta').onclick = () => {
   salvaPosizione(true);
-  const u = URL.createObjectURL(new Blob([JSON.stringify(stato, null, 1)], { type: 'application/json' }));
+  const u = URL.createObjectURL(new Blob([JSON.stringify(perEsporta(), null, 1)], { type: 'application/json' }));
   const l = el('a', { href: u, download: 'ultima-alba-progressi.json' });
   l.click();
   setTimeout(() => URL.revokeObjectURL(u), 2000);
@@ -1057,8 +1096,7 @@ $('importa').onchange = async e => {
   if (!f) return;
   try {
     const d = JSON.parse(await f.text());
-    if (typeof d !== 'object' || !d.cap) throw 0;
-    stato = Object.assign(stato, { cap: d.cap, segni: Array.isArray(d.segni) ? d.segni : [], ultimo: d.ultimo ?? null });
+    stato = Object.assign(stato, daImportare(d));
     salvaStato(); disegna(); annuncia('Progressi importati.');
   } catch { annuncia('File non valido.'); }
   e.target.value = '';
