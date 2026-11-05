@@ -10,10 +10,12 @@ function cardinale(n) {
   return (u === 1 || u === 8 ? base[d].slice(0, -1) : base[d]) + (u === 1 ? 'uno' : base[u]);
 }
 function ordinale(n) {
+  if (n === 101) return 'centunesimo';
+  if (n === 110) return 'centodecimo';
   if (n <= 10) return unita[n];
   if (n % 10 === 6 && n !== 16) return cardinale(n) + 'esimo';
   let c = cardinale(n);
-  return (n % 10 === 3 && n > 20 ? c : c.slice(0, -1)) + 'esimo';
+  return (n % 10 === 3 && n % 100 !== 13 ? c : c.slice(0, -1)) + 'esimo';
 }
 const romani = { I: 1, II: 2, III: 3, IV: 4, V: 5, VI: 6, VII: 7, VIII: 8, IX: 9, X: 10, XI: 11, XII: 12, XIII: 13 };
 const femm = s => s.replace(/o$/, 'a');
@@ -22,11 +24,10 @@ const voci = fs.readFileSync(path.join(__dirname, 'pronuncia.tsv'), 'utf8').spli
 function pronuncia(t) {
   for (const [da, a] of voci) {
     const e = da;
-    t = t.replace(new RegExp(`(?<![\p{L}'’])${e}(?![\p{L}])`, 'gu'), a);
+    t = t.replace(new RegExp(String.raw`(?<!\p{L})${e}(?!\p{L})`, 'gu'), a);
   }
   return t;
 }
-if (process.argv[2]==="--ordinali"){for(const k of [1,10,11,16,18,21,23,26,28,33,36,38,80,81,88,100,101,103,106,113])console.log(k,ordinale(k));process.exit(0)}
 for (const arg of process.argv.slice(2)) {
   const n = String(arg).padStart(3, '0');
   const f = fs.readdirSync(dir).find(x => x.startsWith(n + '-'));
