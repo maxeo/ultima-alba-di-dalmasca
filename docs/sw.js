@@ -48,13 +48,29 @@ async function reteOCopia(req) {
   }
 }
 
+// Il testo si aggiorna quando c'e' rete, anche nei capitoli salvati. Senza rete, o con rete bloccata, resta la copia salvata.
+async function testo(u) {
+  const c = await caches.open(AUDIO);
+  const s = await c.match(u.href);
+  try {
+    const r = await fetch(u.href, { cache: 'no-cache', signal: s ? AbortSignal.timeout(4000) : undefined });
+    if (!s) return r;
+    if (!r.ok) return s;
+    await c.put(u.href, r.clone());
+    return r;
+  } catch (err) {
+    if (s) return s;
+    throw err;
+  }
+}
+
 self.addEventListener('fetch', e => {
   const u = new URL(e.request.url);
   if (e.request.method !== 'GET' || u.origin !== location.origin) return;
   if (u.pathname.endsWith('.mp3')) {
     e.respondWith(caches.open(AUDIO).then(c => c.match(u.href)).then(s => (s ? intervallo(e.request, s) : fetch(e.request))));
   } else if (u.pathname.includes('/testi/')) {
-    e.respondWith(caches.open(AUDIO).then(c => c.match(u.href)).then(s => s || fetch(e.request)));
+    e.respondWith(testo(u));
   } else {
     e.respondWith(reteOCopia(e.request));
   }
