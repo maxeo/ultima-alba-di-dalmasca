@@ -54,6 +54,8 @@ Il sole era già alto. Sotto la parete si apriva un declivio di pietra gialla, a
 
 Basch inspirò e sentì il petto fermarsi prima di essere pieno. Riprovò, più lentamente. L'aria entrò con odore di terra calda e di capperi, e gli fece tossire via gli ultimi due anni di umidità. Chiuse gli occhi. Il sole gli scaldava le palpebre. Restò così, con la borraccia vuota fra le mani.
 
+I documenti dell'epoca non registrano quel respiro. Registrano, mesi dopo e con molta irritazione, che il capitano Basch fon Ronsenburg era «ricomparso» nell'estate del 706, come un debitore rientrato da un viaggio. Chi scrisse quei documenti non era sul pendio sotto la montagna, con l'odore dei capperi e del sole. Il respiro valeva di più.
+
 «Capitano» disse Balthier.
 
 Basch aprì gli occhi.
