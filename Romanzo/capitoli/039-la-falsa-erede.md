@@ -228,6 +228,6 @@ Aveva perso il Frammento. La prova del suo sangue, la pietra di suo padre, era r
 
 Ma era viva. Questo era tutto.
 
-A un certo punto, molto più tardi, quando il sole era già alto, Vaan la vide aprire la mano sinistra. La aprì lentamente, dito per dito. Sul dito, largo, c'era l'anello. Lo guardò a lungo. Poi richiuse la mano.
+A un certo punto, molto più tardi, quando il sole era già alto, Vaan la vide aprire la mano sinistra. La aprì lentamente, dito per dito. Sul dito, largo, c'era l'anello. Lo guardò per un pezzo. Poi richiuse la mano.
 
 E Vaan, che non avrebbe saputo dire perché, distolse gli occhi.

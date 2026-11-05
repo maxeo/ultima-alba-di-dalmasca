@@ -16,10 +16,10 @@
 - Biglietto sul cuscino: "Sono stata rapita... Confermo. Il rapitore." Ondore lo infila nella manica e chiede la frutta, come Raminas con il dispaccio al cap. 1: eco voluta, smentisce le Memorie del cap. 40.
 
 ## Cap. 42
-- Fonte integrale: `file10`, VII; applicate le aggiunte di `fix-e-mancanze`: Landis, madre malata, cognome materno, due fratelli maggiori fatti uccidere da Vayne con il caso chiuso da Gramis.
-- Drace e Zargabaath partecipano alla prima parte dell'udienza; Bergan è ricordato senza aggiungere un incontro. Zecht è nominato come scomparso, senza collegamenti a Reddas.
-- L'incarico è proteggere Larsa anche da Vayne, come scudo. Ritorno della voce identica dei gemelli; Gabranth si scopre in udienza privata, senza prigionieri.
-- Lettere di Basch alla madre e registrazione del cognome sono ricostruzioni locali per rendere concreto il movente; non richiedono riscritture altrove.
+- Riscritto in revisione per la voce dei pilota e per raccordarlo al cap. 35. Anticamera con Drace (difende Larsa), Bergan (difende Vayne, ricorda Zecht "che parlava come i libri vecchi") e Zargabaath (ricorda il caso dei due fratelli maggiori "chiuso" da Gramis sei anni prima), come chiede `fix` sez. 3.
+- Gramis fa scoprire Gabranth ("qui non ci sono prigionieri. O forse sì. Io"). Volto uguale a Basch, senza barba, attaccatura diversa. Movente da Landis in ricordo: Basch parte per Dalmasca, Gabranth porta la madre malata ad Archades su un carretto, lei muore chiedendo dell'altro, lui si arruola con il nome della madre. Il nome Noah non compare.
+- Cid a Nabudis "prima" della caduta, con un carico non registrato; Zecht scomparso. Scudo, non spada. Pastiglia di miele e menta ancora in tasca (cap. 35).
+- Accenno alle fonti: il verbale di una riga, "Sua Maestà ha tossito", cancellato male.
 
 ## Cap. 43
 - Fonti: `file10`, VIII e X; `file11`, I-II. `file10`, IX resta tagliata. La lancetta e la coppa mostrano il Jagd; Nono resta alla Strahl nascosta.
