@@ -1305,7 +1305,14 @@ const giorniTesto = n => n === 1 ? '1 giorno' : `${n} giorni`;
 const quantoTraguardo = (id, v, o) => /^(hour|marathon|night|dawn)/.test(id) ? `${tempoTesto(Math.min(v, o))} di ${tempoTesto(o)}`
   : /^streak/.test(id) ? `${Math.min(v, o)} di ${giorniTesto(o)}`
   : `${Math.min(v, o)} di ${testoCapitoli(o)}`;
-function mostraTraguardo(nome, descr, ic, preso, quota, quanto) {
+function rimaneTraguardo(id, v, o) {
+  const resto = Math.max(0, o - v);
+  const testo = /^(hour|marathon|night|dawn)/.test(id) ? tempoTesto(Math.ceil(resto / 60) * 60)
+    : /^streak/.test(id) ? giorniTesto(resto) + ' di fila'
+    : testoCapitoli(resto);
+  return (/^1 /.test(testo) && !/^1 h [0-9]/.test(testo) ? 'Ti rimane ' : 'Ti rimangono ') + testo;
+}
+function mostraTraguardo(nome, descr, ic, preso, quota, quanto, rimane) {
   const d = $('celebra');
   d.classList.toggle('bloccato', !preso);
   d.setAttribute('aria-label', 'Traguardo: ' + nome);
@@ -1330,7 +1337,8 @@ function mostraTraguardo(nome, descr, ic, preso, quota, quanto) {
       preso
         ? el('p', { class: 'data' }, 'Ottenuto il ' + new Date(preso).toLocaleDateString('it-IT', { day: 'numeric', month: 'long', year: 'numeric' }))
         : barra(pct),
-      preso ? null : el('p', { class: 'quanto' }, quanto))
+      preso ? null : el('p', { class: 'quanto' }, quanto),
+      preso ? null : el('p', {}, rimane))
   ].filter(Boolean));
   d.showModal();
 }
@@ -1340,7 +1348,7 @@ function corpoTraguardi() {
   const numero = (v, t, ic) => el('div', {}, icona(ic), el('b', {}, v), el('small', {}, t));
   const riga = ([id, nome, descr, val, ic]) => {
     const preso = stato.traguardi[id], [v, o] = val(st);
-    return el('button', { class: 'traguardo' + (preso ? ' preso' : ''), onclick: () => mostraTraguardo(nome, descr, ic, preso, v / o, quantoTraguardo(id, v, o)) }, icona(ic),
+    return el('button', { class: 'traguardo' + (preso ? ' preso' : ''), onclick: () => mostraTraguardo(nome, descr, ic, preso, v / o, quantoTraguardo(id, v, o), rimaneTraguardo(id, v, o)) }, icona(ic),
       el('div', {}, el('b', {}, nome), el('small', {}, descr),
         preso ? el('small', {}, 'Ottenuto il ' + new Date(preso).toLocaleDateString('it-IT', { day: 'numeric', month: 'long', year: 'numeric' })) : [barra(Math.min(100, v / o * 100)), el('small', { class: 'trag-quanto' }, quantoTraguardo(id, v, o))]));
   };
