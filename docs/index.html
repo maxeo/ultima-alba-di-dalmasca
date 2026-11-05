@@ -859,6 +859,7 @@ function applicaUi() {
   (altreIcone ? $('riga-icone') : $('riga-principale')).append(menu);
   $('riga-principale').classList.toggle('con-menu', !altreIcone && !u.nascosti.includes('personalizza'));
   $('riga-icone').classList.toggle('nascosto', !altreIcone);
+  $('riga-icone').classList.toggle('ridotta', [...$('riga-icone').children].filter(e => !e.classList.contains('nascosto')).length <= 4);
   $('menu-pagina').classList.toggle('nascosto', !(u.noBarra || u.noIcone || u.nascosti.includes('personalizza')));
   document.querySelector('.lettore').classList.toggle('scambia', u.scambia);
   const nome = u.continua ? 'Capitolo successivo automatico: attivo' : 'Capitolo successivo automatico: spento';
@@ -1063,7 +1064,7 @@ document.querySelectorAll('nav.filtri button').forEach(b => {
   altezzaLettore();
   if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
   try {
-    const r = await fetch('capitoli.json');
+    const r = await fetch('capitoli.json', { cache: 'no-cache' });
     ({ capitoli, parti } = await r.json());
   } catch {
     $('elenco').replaceChildren(el('p', { class: 'vuoto' }, 'Indice non disponibile. Controlla la connessione e ricarica.'));
