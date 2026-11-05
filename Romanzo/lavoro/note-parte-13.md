@@ -59,3 +59,10 @@
 - Basch toglie a Noah ciò che resta dell'elmo dopo la morte: la regola dell'elmo non è violata da vivo. Cicatrice sopra l'orecchio che Basch non conosceva.
 - Larsa pulisce il sangue col fazzoletto; Basch lo chiama "Altezza" per la prima volta.
 - Ritorno di Balthier e Fran: nel cap. 110 lavorano dentro Bahamut, poi sopravvivono (cap. 112).
+
+## Cap. 109
+- Circa 2.900 parole. Ondore sta per ordinare la salva sulle corazzate senza ordini; lo ferma la voce di "Gabranth" sul canale generale.
+- Congegno della voce (filo approvato): Basch non lo usa per cambiare voce, perché le voci dei gemelli sono uguali (richiamo del cap. 21 e del Faro), ma per "rimetterle l'elmo", cioè il rimbombo del metallo. Da controllare con il regista: il filo resta rispettato.
+- Larsa: "Con il suo nome. Gli sarebbe piaciuto"; poi parla con la sua voce, assume il comando, "servitelo con la pace".
+- Ashe a Ondore "come regina di Dalmasca"; Ondore: "Sì, maestà", prima volta. Pianto con l'elenco dei morti (Vossler compreso, che la portò per la via dei Calderai, cap. 51).
+- Chiusura: Bahamut scende verso Rabanastre.
