@@ -100,7 +100,7 @@ Era l'uomo con il panciotto. Il pirata, aveva detto la donna in rosso. Era riusc
 
 «Un amico del ragazzo. Di stanotte. È un'amicizia recente, ma intensa.» Lui guardò il soldato più vicino, che stava per tirarlo indietro, e il soldato, chissà perché, aspettò un momento. «Ascoltatemi. Non ho molto tempo, e voi non avete nessuna ragione di fidarvi di me, quindi farò in fretta.»
 
-Con le dita delle mani legate, con un gesto che doveva aver fatto molte volte e che anche così riusciva elegante, tirò fuori qualcosa dal taschino del panciotto. Era un fazzoletto. Di seta, color crema, morbido, piegato in quattro, con un'iniziale ricamata in un angolo in filo scuro: una lettera intrecciata, piena di riccioli, in una scrittura che Penelo non conosceva e non seppe leggere. Glielo mise in mano.
+Con le dita delle mani legate, con un gesto che doveva aver fatto molte volte e che anche così riusciva elegante, tirò fuori qualcosa dal taschino del panciotto. Era un fazzoletto. Di seta, color crema, morbido, piegato in quattro, con un'iniziale ricamata in un angolo in filo scuro: una F, piena di riccioli, nella calligrafia arrotondata che a Rabanastre si vedeva soltanto sulle insegne degli uffici archadiani. Glielo mise in mano.
 
 «Tenetemelo» disse. «È di seta di Archades, e ci tengo. Tenetemelo fino a quando non vi riporto il ragazzo. Poi me lo restituite, lavato, e siamo pari.»
 
@@ -120,7 +120,7 @@ La viera, dietro di lui, girò la testa verso Penelo. Non disse niente. Ma le su
 
 Poi la colonna partì. Due soldati sollevarono Vaan per le braccia e lo trascinarono, con la testa che gli ciondolava e i piedi che strisciavano sulla pietra del cortile; Amalia camminava dritta davanti a lui, senza voltarsi, e Penelo vide che teneva la mano sinistra chiusa a pugno contro il fianco, anche legata, anche così. Il pirata camminava fischiettando. La viera camminava senza fare rumore. Uscirono dal cortile per la via che sale verso la Porta Est, e la folla si aprì per lasciarli passare, e si richiuse dietro di loro, e cominciò a parlare.
 
-Penelo rimase dov'era, a piedi nudi sulla pietra, con il fazzoletto di un pirata in mano.
+Penelo rimase dov'era, a piedi nudi sulla pietra, con il fazzoletto di un pirata in mano. Lo guardò. La F nell'angolo la guardò a sua volta, con tutti i suoi riccioli. Si chiese, per un momento, di chi fosse quella lettera, su un fazzoletto di un uomo che non le aveva detto il suo nome; poi Kytes arrivò con le scarpe, e lei non se lo chiese più.
 
 Kytes arrivò accanto a lei con le sue scarpe. Gliele mise ai piedi, inginocchiato, una e poi l'altra, come si fa con i bambini piccoli, e lei lo lasciò fare. Poi le prese la mano. Non disse niente. Kytes non sapeva dire le bugie a Penelo, e quella mattina non trovò nemmeno una verità che valesse la pena di dire.
 
