@@ -62,6 +62,12 @@ Lo ritrasse lentamente. La destra era vuota. La guardò con un'attenzione quasi 
 
 Vaan non fece un altro passo.
 
+Lo aveva già visto. Ci mise un momento a capire dove, e quando lo capì gli venne freddo alle mani. Una mattina di primavera di due anni prima, sul bordo di una cisterna della Città Bassa, con una pesca rubata in mano e Reks che gli diceva di rimetterla a posto. Una carrozza bianca e oro dietro un chocobo che si era fermato a mangiare i petali. Un principe con i capelli chiari che salutava la folla a destra e rideva con tutta la faccia, e accanto a lui una ragazza col velo che non rideva. Vaan allora aveva guardato il principe per due secondi e aveva deciso che uno che ride così a un matrimonio era uno di cui fidarsi, e poi era tornato alla pesca.
+
+Era lui. Non rideva più. Ma era lui.
+
+Vaan pensò a Reks, che quel giorno aveva indicato i cavalieri e non il principe, e che non avrebbe mai saputo niente di tutto questo. Pensò che di quella mattina, oltre a lui, a ricordarsela intera erano rimasti in pochi, e che uno di quei pochi stava adesso davanti a una pietra, con la mano alzata verso un uomo che non c'era.
+
 ---
 
 Il freddo non le arrivò dalle dita. Le arrivò dal gomito, dove il braccio aveva continuato il proprio movimento senza trovare peso. Il corpo aveva eseguito un gesto per il quale si era preparato a una resistenza: una spalla, il cuoio di una cinghia, una mano che le veniva incontro. Non aveva trovato nulla e ora non sapeva come fermarsi.
