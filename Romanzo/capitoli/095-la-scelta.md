@@ -32,7 +32,7 @@ Non c'era stato un momento in cui era apparso. Un attimo prima c'era la luce, e 
 
 Rasler.
 
-Ashe smise di respirare. Le era già successo, ogni volta; ma ogni altra volta era successo a lei sola. Nella Tomba, nella foresta, a Giruvegan: lei vedeva, gli altri no, e questo le aveva permesso di tenerlo per sé, come si tiene una lettera in una tasca interna, e di non dovere a nessuno spiegazioni su quello che vedeva.
+Ashe smise di respirare. Le era già successo, ogni volta; ma ogni altra volta era successo a lei, e al massimo a un ragazzo che nella Tomba aveva alzato gli occhi dove li alzava lei e poi aveva taciuto per settimane. Nella foresta, a Giruvegan: lei vedeva, gli altri no, e questo le aveva permesso di tenerlo per sé, come si tiene una lettera in una tasca interna, e di non dovere a nessuno spiegazioni su quello che vedeva.
 
 Dietro di lei qualcuno disse il nome.
 
