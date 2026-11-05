@@ -177,9 +177,11 @@ details.sez summary small { display: block; font-size: 13px; color: var(--tenue)
 .sez-corpo .nota { font-size: 14px; color: var(--tenue); margin: 0 0 8px; }
 .menu-piede { padding: 4px 0 calc(16px + env(safe-area-inset-bottom)); }
 .pannello-dati svg.ic, .ripristina svg.ic, .scelte svg.ic { width: 18px; height: 18px; flex: none; }
-.dati-voce { margin-top: 12px; }
-.dati-voce button, .dati-voce label.btn { gap: 8px; width: 100%; justify-content: flex-start; }
-.dati-voce p { margin: 4px 2px 0; font-size: 13px; }
+#spazio { margin-bottom: 12px; }
+.pannello-dati .dati-voce, .pannello-dati label.dati-voce { display: flex; align-items: center; gap: 14px; width: 100%; margin-top: 8px; padding: 10px 14px; text-align: left; }
+.pannello-dati .dati-voce svg.ic { width: 22px; height: 22px; color: var(--tenue); }
+.dati-voce b { display: block; font: 500 15px/1.3 var(--sans); }
+.dati-voce small { display: block; margin-top: 1px; font-size: 13px; line-height: 1.35; color: var(--tenue); }
 .conferma { margin-top: 12px; padding: 12px; border: 1px solid var(--linea); border-radius: 10px; font-size: 14px; }
 .conferma p { margin: 0 0 10px; }
 .conferma .scelte button.si { background: var(--accento); color: var(--su-accento); border-color: var(--accento); }
@@ -327,18 +329,9 @@ label.spunta input { width: 20px; height: 20px; accent-color: var(--accento); fl
     <div id="pannello-corpo"></div>
     <section class="pannello-dati">
       <div id="spazio"></div>
-      <div class="dati-voce">
-        <button id="salva-prossimi"><svg class="ic"><use href="#i-scarica"/></svg>Salva i prossimi 5</button>
-        <p>Salva sul dispositivo i prossimi 5 capitoli, per ascoltarli senza rete.</p>
-      </div>
-      <div class="dati-voce">
-        <button id="esporta"><svg class="ic"><use href="#i-esporta"/></svg>Esporta progressi</button>
-        <p>I progressi restano in questo browser: crea un file per portarli su un altro dispositivo.</p>
-      </div>
-      <div class="dati-voce">
-        <label class="btn"><svg class="ic"><use href="#i-scarica"/></svg>Importa progressi<input id="importa" type="file" accept="application/json" class="nascosto"></label>
-        <p>Riprende progressi, segnalibri e traguardi da un file esportato.</p>
-      </div>
+      <button id="salva-prossimi" class="dati-voce"><svg class="ic"><use href="#i-scarica"/></svg><span><b>Salva i prossimi 5</b><small>Per ascoltarli senza rete</small></span></button>
+      <button id="esporta" class="dati-voce"><svg class="ic"><use href="#i-esporta"/></svg><span><b>Esporta progressi</b><small>Crea un file da portare su un altro dispositivo</small></span></button>
+      <label class="btn dati-voce"><svg class="ic"><use href="#i-scarica"/></svg><span><b>Importa progressi</b><small>Riprende progressi, segnalibri e traguardi da un file</small></span><input id="importa" type="file" accept="application/json" class="nascosto"></label>
     </section>
   </div>
 </dialog>
