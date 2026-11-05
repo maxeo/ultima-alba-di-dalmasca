@@ -40,7 +40,7 @@ Vaan ci era stato dentro. Ci era stato sotto, anzi, nelle segrete, con i ferri a
 
 Basch gli si mise accanto. Non disse niente per un po'. Poi, senza che Vaan avesse chiesto, alzò la mano e indicò.
 
-«La sala del consiglio è dietro quella torre. La finestra sola.»
+«Gli appartamenti del governatore sono dietro quella torre. La finestra sola. Lì avevano alloggiato il re.»
 
 «Il re era lì?»
 
@@ -48,7 +48,7 @@ Basch gli si mise accanto. Non disse niente per un po'. Poi, senza che Vaan aves
 
 «E Reks?»
 
-«Alla porta di fondo. Con altri quattro. Gli avevo dato il turno di guardia perché era il più giovane, e pensavo che una porta interna fosse il posto più tranquillo della fortezza.» Basch abbassò la mano. «Mi sbagliavo.»
+«In un corridoio, più sotto. Stretto: ci passavano due uomini alla volta. Fu lui a farmelo notare, e a chiedermi di tenerlo.» Basch abbassò la mano. «Glielo lasciai fare.»
 
 Vaan guardò la finestra. Avrebbe voluto chiedere altre cose, che faccia avesse fatto Reks, se avesse avuto paura, se avesse capito chi era l'uomo con l'armatura di Basch che entrava da quella porta, e capì che non le avrebbe chieste, non quel giorno, forse mai, e che Basch lo sapeva e per questo era rimasto lì accanto a lui senza andarsene. Rimasero così finché da dietro Penelo chiamò che la locanda dava da mangiare solo fino al tramonto e che lei non avrebbe aspettato nessuno.
 
