@@ -13,20 +13,20 @@
 :root {
   color-scheme: dark;
   --sfondo: #14121c; --pannello: #1e1b29; --rilievo: #2a2638; --linea: #383247;
-  --testo: #f1ece3; --tenue: #a9a2b5; --accento: #e9a65b; --su-accento: #241607; --evid: #e9a65b2e;
+  --testo: #f1ece3; --tenue: #a9a2b5; --accento: #e9a65b; --su-accento: #241607; --evid: #e9a65b61;
   --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
   --sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
 }
 :root[data-tema="chiaro"] {
   color-scheme: light;
   --sfondo: #f8f3ea; --pannello: #fffcf6; --rilievo: #efe7d9; --linea: #dcd1bf;
-  --testo: #2a2230; --tenue: #6d6474; --accento: #a4590f; --su-accento: #fff; --evid: #e9a65b4d;
+  --testo: #2a2230; --tenue: #6d6474; --accento: #a4590f; --su-accento: #fff; --evid: #e9a65b80;
 }
 @media (prefers-color-scheme: light) {
   :root:not([data-tema="scuro"]) {
     color-scheme: light;
     --sfondo: #f8f3ea; --pannello: #fffcf6; --rilievo: #efe7d9; --linea: #dcd1bf;
-    --testo: #2a2230; --tenue: #6d6474; --accento: #a4590f; --su-accento: #fff; --evid: #e9a65b4d;
+    --testo: #2a2230; --tenue: #6d6474; --accento: #a4590f; --su-accento: #fff; --evid: #e9a65b80;
   }
 }
 * { box-sizing: border-box; }
@@ -37,7 +37,9 @@ button { background: none; border: 0; cursor: pointer; border-radius: 10px; }
 button:focus-visible, summary:focus-visible, select:focus-visible, input:focus-visible { outline: 2px solid var(--accento); outline-offset: 2px; }
 .nascosto { display: none !important; }
 main, header.alto { max-width: 760px; margin: 0 auto; padding: 0 16px; }
-header.alto { padding-top: 44px; padding-bottom: 8px; }
+header.alto { padding-top: 44px; padding-bottom: 8px; position: relative; }
+.btn-tema { min-width: 44px; height: 44px; display: grid; place-items: center; color: var(--tenue); }
+.alto-az { position: absolute; top: 4px; right: 8px; display: flex; gap: 2px; }
 h1 { font: 500 clamp(32px, 8vw, 50px)/1.08 var(--serif); margin: 0 0 8px; text-wrap: balance; }
 .sotto { color: var(--tenue); margin: 0; }
 .totale { margin-top: 22px; }
@@ -84,7 +86,33 @@ svg.ic { width: 22px; height: 22px; fill: currentColor; display: block; }
 input[type=range] { width: 100%; accent-color: var(--accento); height: 28px; margin: 0; }
 .comandi { display: flex; justify-content: space-between; align-items: center; gap: 2px; }
 .comandi button, .comandi select { min-width: 44px; height: 44px; display: grid; place-items: center; }
-.comandi select { background: var(--pannello); border: 0; border-radius: 10px; font-size: 14px; color: var(--tenue); padding: 0 2px; width: 58px; }
+.comandi select { background: var(--pannello); border: 0; border-radius: 10px; font-size: 14px; color: var(--tenue); padding: 0 2px; width: 68px; }
+@media (max-width: 400px) { .comandi button { min-width: 40px; } .comandi select { width: 64px; } }
+@media (max-width: 340px) { .comandi { gap: 0; } .comandi button { min-width: 36px; } .comandi select { width: 56px; } .comandi .play { width: 48px; height: 48px; } }
+.salti { display: contents; }
+.comandi.con-menu button { min-width: 34px; }
+.comandi.con-menu select { width: 56px; }
+@media (max-width: 340px) { .comandi.con-menu button { min-width: 30px; } }
+.comandi.ridotta { justify-content: center; gap: 4px 12px; }
+.comandi.fitta { justify-content: space-between; gap: 2px; }
+.comandi.molti { flex-wrap: wrap; justify-content: center; gap: 4px; }
+.comandi.molti::before { content: ''; order: 1; flex-basis: 100%; height: 0; }
+.comandi.molti #velocita, .comandi.molti #prec, .comandi.molti #succ, .comandi.molti #testo { order: 2; }
+.anteprima-salti { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 4px 10px; min-height: 52px; padding: 6px 10px; margin-bottom: 4px; background: var(--sfondo); border: 1px solid var(--linea); border-radius: 10px; font-size: 13px; font-weight: 600; font-variant-numeric: tabular-nums; }
+.anteprima-salti i { display: grid; place-items: center; width: 34px; height: 34px; border-radius: 50%; background: var(--accento); color: var(--su-accento); }
+.anteprima-salti svg.ic { width: 18px; height: 18px; }
+.altro-salto { display: flex; gap: 6px; margin-top: 6px; align-items: center; font-size: 14px; color: var(--tenue); }
+.altro-salto input { color: var(--testo); width: 130px; min-height: 40px; padding: 6px 8px; border: 1px solid var(--linea); border-radius: 10px; background: var(--sfondo); }
+.altro-salto input { appearance: textfield; -moz-appearance: textfield; }
+.altro-salto input::-webkit-outer-spin-button, .altro-salto input::-webkit-inner-spin-button { -webkit-appearance: none; margin: 0; }
+.altro-salto button { min-height: 40px; padding: 6px 12px; border: 1px solid var(--linea); border-radius: 10px; font-size: 14px; color: var(--testo); }
+.flotta { position: fixed; right: 16px; bottom: calc(16px + env(safe-area-inset-bottom)); z-index: 6; display: flex; align-items: center; gap: 8px; padding: 5px; background: var(--pannello); border: 1px solid var(--linea); border-radius: 999px; }
+.flotta button { width: 44px; height: 44px; display: grid; place-items: center; border-radius: 50%; }
+.flotta .play { background: var(--accento); color: var(--su-accento); }
+.lettore.scambia #velocita { order: 10; }
+.lettore.scambia #testo { order: -1; }
+.lettore.scambia .comandi.molti #testo { order: 1; }
+.lettore.scambia .comandi.molti #velocita { order: 3; }
 .comandi .sec { font-size: 12px; font-weight: 600; font-variant-numeric: tabular-nums; }
 .comandi .play { width: 54px; height: 54px; border-radius: 50%; background: var(--accento); color: var(--su-accento); }
 .comandi button:disabled { opacity: .35; cursor: default; }
@@ -97,13 +125,62 @@ input[type=range] { width: 100%; accent-color: var(--accento); height: 28px; mar
 .pagina header button { min-width: 44px; height: 44px; display: grid; place-items: center; }
 .pagina header button.lett { font: 600 15px var(--serif); }
 .corpo { flex: 1; overflow-y: auto; padding: 20px 16px 200px; }
-.corpo article { max-width: 640px; margin: 0 auto; font: var(--dim, 19px)/1.6 var(--serif); }
+.corpo article { max-width: 640px; margin: 0 auto; font: var(--dim, 19px)/var(--inter, 1.6) var(--font-testo, var(--serif)); }
 .corpo p { margin: 0 0 .9em; }
 .corpo p.h { font-size: 1.25em; text-align: center; margin: 1.2em 0; line-height: 1.25; }
 .corpo span { cursor: pointer; border-radius: 3px; transition: background .2s; }
-.corpo span.ora-qui { background: var(--evid); }
+.corpo span.ora-qui, .anteprima mark { background: var(--evid); }
+@supports (color: color-mix(in srgb, red 50%, blue)) { .corpo span.ora-qui, .anteprima mark { background: color-mix(in srgb, var(--accento) var(--evid-forza, 38%), transparent); } }
 .segui { position: fixed; right: 16px; bottom: 186px; z-index: 6; padding: 9px 14px; background: var(--testo); color: var(--sfondo); border-radius: 999px; font-size: 14px; }
 .annuncio { position: fixed; left: 50%; transform: translateX(-50%); bottom: 186px; background: var(--testo); color: var(--sfondo); padding: 8px 14px; border-radius: 10px; font-size: 14px; z-index: 7; max-width: calc(100vw - 32px); }
+/* Menu */
+dialog.pannello { width: min(520px, 100vw); max-width: 100vw; max-height: 85dvh; margin: auto auto 0; padding: 0; border: 1px solid var(--linea); border-radius: 16px 16px 0 0; background: var(--pannello); color: var(--testo); }
+@media (min-width: 600px) { dialog.pannello { margin: auto; border-radius: 16px; } }
+dialog.pannello::backdrop { background: #0008; }
+.pannello header { position: sticky; top: 0; display: flex; justify-content: space-between; align-items: center; padding: 8px 8px 8px 16px; background: var(--pannello); border-bottom: 1px solid var(--linea); z-index: 1; }
+.pannello header b { font: 500 20px var(--serif); }
+.pannello header button { min-width: 44px; height: 44px; display: grid; place-items: center; }
+#pannello-corpo { padding: 4px 16px 0; }
+.pannello h2 { display: flex; align-items: center; gap: 6px; font: 600 13px var(--sans); color: var(--tenue); margin: 20px 0 4px; padding-top: 14px; border-top: 1px solid var(--linea); }
+#pannello-corpo h2:first-child { border-top: 0; padding-top: 0; }
+.pannello-dati { font-size: 14px; color: var(--tenue); }
+.pannello-dati p { margin: 0; }
+.pannello-dati .az { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0; }
+.pannello-dati button, .pannello-dati label.btn { padding: 8px 12px; border: 1px solid var(--linea); border-radius: 10px; min-height: 40px; color: var(--testo); cursor: pointer; display: inline-flex; align-items: center; }
+.pannello h2 svg.ic { width: 16px; height: 16px; }
+details.sez { border-bottom: 1px solid var(--linea); }
+details.sez summary { list-style: none; cursor: pointer; display: flex; align-items: center; gap: 12px; min-height: 60px; padding: 8px 0; }
+details.sez summary::-webkit-details-marker { display: none; }
+details.sez summary > svg.ic { color: var(--tenue); flex: none; }
+details.sez summary > svg.freccia { margin-left: auto; transform: rotate(180deg); transition: transform .15s; }
+details.sez[open] summary > svg.freccia { transform: none; }
+details.sez summary span { min-width: 0; }
+details.sez summary b { display: block; font: 500 16px/1.25 var(--sans); }
+details.sez summary small { display: block; font-size: 13px; color: var(--tenue); }
+.sez-corpo { padding: 0 0 14px; }
+.anteprima { position: sticky; top: 61px; z-index: 1; max-height: 30vh; overflow: hidden; margin: 0 0 14px; padding: 10px 12px; background: var(--sfondo); border: 1px solid var(--linea); border-radius: 10px; font: var(--dim, 19px)/var(--inter, 1.6) var(--font-testo, var(--serif)); }
+.anteprima mark { color: inherit; border-radius: 3px; }
+.sez-corpo h3 { font: 600 13px var(--sans); color: var(--tenue); margin: 18px 0 2px; }
+.sez-corpo h3:first-child { margin-top: 2px; }
+.sez-corpo .nota { font-size: 14px; color: var(--tenue); margin: 0 0 8px; }
+.menu-piede { padding: 4px 0 calc(16px + env(safe-area-inset-bottom)); }
+.pannello-dati svg.ic, .ripristina svg.ic, .scelte svg.ic { width: 18px; height: 18px; flex: none; }
+.pannello-dati .az button, .pannello-dati .az label.btn { gap: 8px; }
+.conferma { margin-top: 12px; padding: 12px; border: 1px solid var(--linea); border-radius: 10px; font-size: 14px; }
+.conferma p { margin: 0 0 10px; }
+.conferma .scelte button.si { background: var(--accento); color: var(--su-accento); border-color: var(--accento); }
+.op { margin: 12px 0; }
+.op .et { display: flex; justify-content: space-between; font-size: 14px; margin-bottom: 6px; }
+.scelte { display: flex; flex-wrap: wrap; gap: 6px; }
+.scelte button { display: inline-flex; align-items: center; gap: 6px; min-height: 40px; padding: 6px 12px; border: 1px solid var(--linea); border-radius: 10px; font-size: 14px; }
+.scelte button[aria-pressed="true"] { background: var(--accento); color: var(--su-accento); border-color: var(--accento); }
+.scelte button.campione { width: 44px; height: 44px; padding: 0; border-radius: 50%; border: 0; }
+.scelte button.campione[aria-pressed="true"] { outline: 3px solid var(--testo); outline-offset: 2px; }
+label.spunta { display: flex; align-items: center; gap: 10px; min-height: 44px; font-size: 15px; cursor: pointer; }
+label.spunta span { flex: 1; }
+label.spunta svg { color: var(--tenue); flex: none; }
+label.spunta input { width: 20px; height: 20px; accent-color: var(--accento); flex: none; }
+.ripristina { display: inline-flex; align-items: center; gap: 8px; margin-top: 12px; padding: 8px 12px; min-height: 40px; border: 1px solid var(--linea); border-radius: 10px; color: var(--tenue); }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
 </style>
 </head>
@@ -119,9 +196,33 @@ input[type=range] { width: 100%; accent-color: var(--accento); height: 28px; mar
   <symbol id="i-ok" viewBox="0 0 24 24"><path d="M9.5 17.2 4.8 12.5l1.4-1.4 3.3 3.3 8.3-8.3 1.4 1.4z"/></symbol>
   <symbol id="i-chiudi" viewBox="0 0 24 24"><path d="m6.4 5 5.6 5.6L17.6 5 19 6.4 13.4 12l5.6 5.6-1.4 1.4-5.6-5.6L6.4 19 5 17.6l5.6-5.6L5 6.4z"/></symbol>
   <symbol id="i-luna" viewBox="0 0 24 24"><path d="M14 3a9 9 0 1 0 7 14.6A8 8 0 0 1 14 3z"/></symbol>
+  <symbol id="i-su" viewBox="0 0 24 24"><path d="m12 8 7 7-1.4 1.4-5.6-5.6-5.6 5.6L5 15z"/></symbol>
+  <symbol id="i-vuoto" viewBox="0 0 24 24"></symbol>
+  <symbol id="i-casella" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M5 4h14a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1zm1 2v12h12V6z"/></symbol>
+  <symbol id="i-casella-ok" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M5 4h14a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1zm5 12.4 7.6-7.6-1.4-1.4-6.2 6.2-2.6-2.6L6.4 12z"/></symbol>
+  <symbol id="i-monitor" viewBox="0 0 24 24"><path d="M3 4h18v13H3zm2 2v9h14V6zM8 19h8v2H8z"/></symbol>
+  <symbol id="i-lampada" viewBox="0 0 24 24"><path d="M12 2a7 7 0 0 0-4 12.7V17h8v-2.3A7 7 0 0 0 12 2zM9 19h6v2H9z"/></symbol>
+  <symbol id="i-goccia" viewBox="0 0 24 24"><path d="M12 2s7 7.6 7 12.5A7 7 0 0 1 5 14.5C5 9.6 12 2 12 2z"/></symbol>
+  <symbol id="i-cuffie" viewBox="0 0 24 24"><path d="M12 3a9 9 0 0 0-9 9v7a2 2 0 0 0 2 2h2v-8H5v-1a7 7 0 0 1 14 0v1h-2v8h2a2 2 0 0 0 2-2v-7a9 9 0 0 0-9-9z"/></symbol>
+  <symbol id="i-velocita" viewBox="0 0 24 24"><path d="M12 4a10 10 0 0 0-8.7 15h17.4A10 10 0 0 0 12 4zm0 2a8 8 0 0 1 7.5 11h-15A8 8 0 0 1 12 6zm5 3-6.4 5.3a2 2 0 1 0 2.8 2.8z"/></symbol>
+  <symbol id="i-esporta" viewBox="0 0 24 24"><path d="M11 16V6.8l-4 4L5.6 9.4 12 3l6.4 6.4-1.4 1.4-4-4V16zM5 19h14v2H5z"/></symbol>
+  <symbol id="i-ripristina" viewBox="0 0 24 24"><path d="M12 5V1L7 6l5 5V7a6 6 0 1 1-6 6H4a8 8 0 1 0 8-8z"/></symbol>
+  <symbol id="i-barra" viewBox="0 0 24 24"><path d="M3 4h18v16H3zm2 2v8h14V6z"/></symbol>
+  <symbol id="i-avanzamento" viewBox="0 0 24 24"><path d="M2 11h12v2H2zM18 11h4v2h-4zM16 8a4 4 0 1 1 0 8 4 4 0 0 1 0-8z"/></symbol>
+  <symbol id="i-riga" viewBox="0 0 24 24"><path d="M3 10h4v4H3zM10 10h4v4h-4zM17 10h4v4h-4z"/></symbol>
+  <symbol id="i-scambia" viewBox="0 0 24 24"><path d="M7 4 2 9h4v7h2V9h4zM17 20l5-5h-4V8h-2v7h-4z"/></symbol>
+  <symbol id="i-sole" viewBox="0 0 24 24"><path d="M12 7a5 5 0 1 0 0 10 5 5 0 0 0 0-10zM11 1h2v3h-2zM11 20h2v3h-2zM1 11h3v2H1zM20 11h3v2h-3zM4.2 5.6l1.4-1.4 2.1 2.1-1.4 1.4zM16.3 17.7l1.4-1.4 2.1 2.1-1.4 1.4zM4.2 18.4l2.1-2.1 1.4 1.4-2.1 2.1zM16.3 6.3l2.1-2.1 1.4 1.4-2.1 2.1z"/></symbol>
+  <symbol id="i-timer" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18zm0 2a7 7 0 1 1 0 14 7 7 0 0 1 0-14zM11 7h2v5.4l3.6 2.1-1 1.7L11 13.5z"/></symbol>
+  <symbol id="i-continua" viewBox="0 0 24 24"><path d="M3 5h14v2H3zM3 10h14v2H3zM3 15h8v2H3zM14 14v7l6-3.5z"/></symbol>
+  <symbol id="i-condividi" viewBox="0 0 24 24"><path d="M18 16a3 3 0 0 0-2.2 1L8.9 13a3 3 0 0 0 0-2l6.9-4A3 3 0 1 0 15 5a3 3 0 0 0 .1.8L8.2 9.8a3 3 0 1 0 0 4.4l6.9 4a3 3 0 1 0 2.9-2.2z"/></symbol>
+  <symbol id="i-personalizza" viewBox="0 0 24 24"><path d="M3 6h9.2a3 3 0 0 1 5.6 0H21v2h-3.2a3 3 0 0 1-5.6 0H3zM3 16h3.2a3 3 0 0 1 5.6 0H21v2h-9.2a3 3 0 0 1-5.6 0H3z"/></symbol>
 </svg>
 
 <header class="alto">
+  <div class="alto-az">
+    <button class="btn-tema" data-menu-btn aria-label="Apri il menu" title="Apri il menu"><svg class="ic"><use href="#i-personalizza"/></svg></button>
+    <button class="btn-tema" data-tema-btn></button>
+  </div>
   <h1>L'ultima alba di Dalmasca</h1>
   <p class="sotto">Romanzo di fan tratto da <i>Final Fantasy XII</i>. Audiolibro.</p>
   <div class="totale">
@@ -140,14 +241,6 @@ input[type=range] { width: 100%; accent-color: var(--accento); height: 28px; mar
   </nav>
   <div id="elenco"></div>
   <section class="strumenti">
-    <div id="spazio"></div>
-    <div class="az">
-      <button id="salva-prossimi">Salva i prossimi 5</button>
-      <button id="tema">Cambia tema</button>
-      <button id="esporta">Esporta progressi</button>
-      <label class="btn">Importa progressi<input id="importa" type="file" accept="application/json" class="nascosto"></label>
-    </div>
-    <p>I progressi restano in questo browser. Per passarli a un altro dispositivo, esportali e importali.</p>
     <p class="avviso">Opera di fan, non ufficiale e non commerciale, senza legami con Square Enix. <i>Final Fantasy XII</i>, la sua trama, i suoi personaggi e il suo mondo appartengono a Square Enix. Voce sintetica. <a href="https://github.com/maxeo/ultima-alba-di-dalmasca" style="color:inherit">Progetto su GitHub</a>.</p>
   </section>
 </main>
@@ -158,39 +251,63 @@ input[type=range] { width: 100%; accent-color: var(--accento); height: 28px; mar
     <div class="t" id="pagina-t"></div>
     <button class="lett" id="piu-piccolo" aria-label="Testo più piccolo">A−</button>
     <button class="lett" id="piu-grande" aria-label="Testo più grande">A+</button>
+    <button class="btn-tema nascosto" id="menu-pagina" data-menu-btn aria-label="Apri il menu" title="Apri il menu"><svg class="ic"><use href="#i-personalizza"/></svg></button>
+    <button class="btn-tema" data-tema-btn></button>
   </header>
   <div class="corpo" id="corpo"><article id="articolo"></article></div>
 </section>
 <button id="segui" class="segui nascosto">Segui la voce</button>
 <div id="annuncio" class="annuncio nascosto" role="status"></div>
 
-<section class="lettore" aria-label="Lettore audio">
+<div id="flotta" class="flotta nascosto">
+  <button id="flotta-play" class="play" aria-label="Riproduci"><svg class="ic"><use id="flotta-ic" href="#i-play"/></svg></button>
+  <button id="flotta-su" aria-label="Mostra la barra inferiore" title="Mostra la barra inferiore"><svg class="ic"><use href="#i-su"/></svg></button>
+</div>
+<section class="lettore" id="lettore" aria-label="Lettore audio">
   <div>
     <div class="ora"><div class="nome" id="nome">Scegli un capitolo</div></div>
-    <div class="tempo">
+    <div class="tempo" id="riga-tempo">
       <span id="t-ora">0:00</span>
       <input id="cursore" type="range" min="0" max="1000" value="0" aria-label="Posizione nel capitolo">
       <span id="t-resto">0:00</span>
     </div>
-    <div class="comandi">
-      <button id="testo" aria-label="Mostra il testo"><svg class="ic"><use href="#i-testo"/></svg></button>
-      <button id="prec" aria-label="Capitolo precedente"><svg class="ic"><use href="#i-prec"/></svg></button>
-      <button id="indietro" class="sec" aria-label="Indietro di 15 secondi">−15</button>
-      <button id="play" class="play" aria-label="Riproduci"><svg class="ic"><use id="play-ic" href="#i-play"/></svg></button>
-      <button id="avanti" class="sec" aria-label="Avanti di 30 secondi">+30</button>
-      <button id="succ" aria-label="Capitolo successivo"><svg class="ic"><use href="#i-succ"/></svg></button>
+    <div class="comandi" id="riga-principale">
       <select id="velocita" aria-label="Velocità">
-        <option value="0.8">0,8×</option><option value="0.9">0,9×</option><option value="1" selected>1×</option>
-        <option value="1.1">1,1×</option><option value="1.25">1,25×</option><option value="1.5">1,5×</option><option value="1.75">1,75×</option><option value="2">2×</option>
+        <option value="0.5">0,5×</option><option value="0.6">0,6×</option><option value="0.7">0,7×</option><option value="0.8">0,8×</option><option value="0.9">0,9×</option><option value="1" selected>1×</option><option value="1.1">1,1×</option><option value="1.2">1,2×</option><option value="1.25">1,25×</option><option value="1.3">1,3×</option><option value="1.4">1,4×</option><option value="1.5">1,5×</option><option value="1.6">1,6×</option><option value="1.75">1,75×</option><option value="2">2×</option><option value="2.25">2,25×</option><option value="2.5">2,5×</option><option value="3">3×</option>
       </select>
+      <button id="prec" aria-label="Capitolo precedente"><svg class="ic"><use href="#i-prec"/></svg></button>
+      <span id="salti-indietro" class="salti"></span>
+      <button id="play" class="play" aria-label="Riproduci"><svg class="ic"><use id="play-ic" href="#i-play"/></svg></button>
+      <span id="salti-avanti" class="salti"></span>
+      <button id="succ" aria-label="Capitolo successivo"><svg class="ic"><use href="#i-succ"/></svg></button>
+      <button id="testo" aria-label="Mostra il testo"><svg class="ic"><use href="#i-testo"/></svg></button>
     </div>
-    <div class="comandi">
-      <button id="segna" aria-label="Aggiungi un segnalibro"><svg class="ic"><use href="#i-segno"/></svg></button>
-      <button id="sonno" class="sec" aria-label="Timer di spegnimento: spento" style="width:auto;padding:0 10px"><svg class="ic"><use href="#i-luna"/></svg></button>
-      <button id="fatto" class="sec" style="width:auto;padding:0 10px;font-weight:500">Segna come ascoltato</button>
+    <div class="comandi" id="riga-icone">
+      <button id="fatto" aria-label="Segna come ascoltato" title="Segna come ascoltato"><svg class="ic"><use href="#i-ok"/></svg></button>
+      <button id="segna" aria-label="Aggiungi un segnalibro" title="Aggiungi un segnalibro"><svg class="ic"><use href="#i-segno"/></svg></button>
+      <button id="sonno" class="sec" aria-label="Timer di spegnimento: spento" title="Timer di spegnimento" style="width:auto;padding:0 4px"><svg class="ic"><use href="#i-timer"/></svg></button>
+      <button id="salva-qui" aria-label="Salva sul dispositivo" title="Salva sul dispositivo"><svg class="ic"><use href="#i-scarica"/></svg></button>
+      <button id="continua" title="Capitolo successivo automatico"><svg class="ic"><use href="#i-continua"/></svg></button>
+      <button id="condividi" aria-label="Condividi il capitolo" title="Condividi il capitolo"><svg class="ic"><use href="#i-condividi"/></svg></button>
+      <button id="personalizza" data-menu-btn aria-label="Apri il menu" title="Apri il menu"><svg class="ic"><use href="#i-personalizza"/></svg></button>
     </div>
   </div>
 </section>
+<dialog id="pannello" class="pannello" aria-label="Menu">
+  <div>
+    <header><b>Menu</b><button id="chiudi-pannello" aria-label="Chiudi"><svg class="ic"><use href="#i-chiudi"/></svg></button></header>
+    <div id="pannello-corpo"></div>
+    <section class="pannello-dati">
+      <div id="spazio"></div>
+      <div class="az">
+        <button id="salva-prossimi"><svg class="ic"><use href="#i-scarica"/></svg>Salva i prossimi 5</button>
+        <button id="esporta"><svg class="ic"><use href="#i-esporta"/></svg>Esporta progressi</button>
+        <label class="btn"><svg class="ic"><use href="#i-scarica"/></svg>Importa progressi<input id="importa" type="file" accept="application/json" class="nascosto"></label>
+      </div>
+      <p>I progressi restano in questo browser. Per passarli a un altro dispositivo, esportali e importali.</p>
+    </section>
+  </div>
+</dialog>
 <audio id="a" preload="metadata"></audio>
 
 <script>
@@ -199,7 +316,12 @@ const $ = id => document.getElementById(id);
 const a = $('a');
 const CHIAVE = 'alba-stato-v1', CACHE = 'alba-audio-v1';
 const leggi = () => { try { return JSON.parse(localStorage.getItem(CHIAVE)) || {}; } catch { return {}; } };
+const UI_BASE = { accento: 'ambra', evid: 38, font: 'serif', inter: 1.6, indietro: [15], avanti: [30], continua: true, scambia: false, nascosti: [], notteOn: false, notte: 50, noBarra: false, noIcone: false, noAvanz: false };
 let stato = Object.assign({ cap: {}, segni: [], ultimo: null, velocita: 1, dim: 19, tema: null }, leggi());
+stato.ui = Object.assign({}, UI_BASE, stato.ui);
+if (stato.tema === 'notte') { stato.tema = null; stato.ui.notteOn = true; }
+stato.ui.indietro = [].concat(stato.ui.indietro);
+stato.ui.avanti = [].concat(stato.ui.avanti);
 const salvaStato = () => { try { localStorage.setItem(CHIAVE, JSON.stringify(stato)); } catch {} };
 
 let capitoli = [], parti = [], corrente = null, salvati = new Set(), inCorso = new Map(), filtro = 'tutti';
@@ -223,6 +345,7 @@ const assoluto = p => new URL(p, location.href).href;
 
 function annuncia(t) {
   const el = $('annuncio');
+  ($('pannello').open ? $('pannello') : document.body).append(el);
   el.textContent = t;
   el.classList.remove('nascosto');
   clearTimeout(annuncia.t);
@@ -266,6 +389,7 @@ function bottoneSalva(c) {
 }
 
 function disegna() {
+  aggiornaSalvaQui();
   const box = $('elenco');
   const aperte = new Set([...box.querySelectorAll('details[open]')].map(d => d.dataset.p));
   box.replaceChildren();
@@ -363,7 +487,10 @@ function aggiornaTempo() {
 }
 function aggiornaFatto() {
   const s = corrente != null ? sc(corrente) : null;
-  $('fatto').textContent = s?.fatto ? 'Segna come da ascoltare' : 'Segna come ascoltato';
+  const nome = s?.fatto ? 'Segna come da ascoltare' : 'Segna come ascoltato';
+  const b = $('fatto');
+  b.setAttribute('aria-label', nome); b.title = nome;
+  b.classList.toggle('attivo', !!s?.fatto);
 }
 function aggiornaMedia(c) {
   if (!('mediaSession' in navigator)) return;
@@ -377,10 +504,11 @@ function posizioneMedia() {
     try { navigator.mediaSession.setPositionState({ duration: a.duration, position: Math.min(a.currentTime, a.duration), playbackRate: a.playbackRate }); } catch {}
   }
 }
+const passo = k => stato.ui[k].length ? Math.min(...stato.ui[k]) : UI_BASE[k][0];
 const salta = d => { if (corrente != null) { a.currentTime = Math.max(0, a.currentTime + d); aggiornaTempo(); } };
 
-a.addEventListener('play', () => { $('play-ic').setAttribute('href', '#i-pausa'); $('play').setAttribute('aria-label', 'Pausa'); disegnaTotale(); });
-a.addEventListener('pause', () => { $('play-ic').setAttribute('href', '#i-play'); $('play').setAttribute('aria-label', 'Riproduci'); salvaPosizione(true); disegna(); });
+a.addEventListener('play', () => { $('play-ic').setAttribute('href', '#i-pausa'); $('play').setAttribute('aria-label', 'Pausa'); $('flotta-ic').setAttribute('href', '#i-pausa'); $('flotta-play').setAttribute('aria-label', 'Pausa'); disegnaTotale(); });
+a.addEventListener('pause', () => { $('play-ic').setAttribute('href', '#i-play'); $('play').setAttribute('aria-label', 'Riproduci'); $('flotta-ic').setAttribute('href', '#i-play'); $('flotta-play').setAttribute('aria-label', 'Riproduci'); salvaPosizione(true); disegna(); });
 a.addEventListener('timeupdate', () => { aggiornaTempo(); salvaPosizione(); });
 a.addEventListener('loadedmetadata', posizioneMedia);
 a.addEventListener('seeked', posizioneMedia);
@@ -388,15 +516,13 @@ a.addEventListener('error', () => { if (a.src) annuncia('Audio non disponibile. 
 a.addEventListener('ended', () => {
   const s = sc(corrente); s.fatto = true; s.pos = 0; salvaStato(); aggiornaFatto();
   const n = adiacente(1);
-  if (n) carica(n.n, true, 0); else disegna();
+  if (n && stato.ui.continua) carica(n.n, true, 0); else disegna();
 });
 
 $('play').onclick = () => {
   if (corrente == null) { const u = stato.ultimo || pronti()[0]?.n; if (u) carica(u, true); return; }
   a.paused ? a.play() : a.pause();
 };
-$('indietro').onclick = () => salta(-15);
-$('avanti').onclick = () => salta(30);
 $('prec').onclick = () => { const p = adiacente(-1); if (p) carica(p.n, !a.paused, 0); };
 $('succ').onclick = () => { const p = adiacente(1); if (p) carica(p.n, !a.paused, 0); };
 $('velocita').onchange = e => { stato.velocita = +e.target.value; a.playbackRate = stato.velocita; salvaStato(); posizioneMedia(); };
@@ -414,12 +540,13 @@ cur.addEventListener('change', () => {
   if (corrente != null) a.currentTime = cur.value / 1000 * d;
 });
 $('fatto').onclick = () => {
-  if (corrente == null) return;
+  if (corrente == null) return annuncia('Scegli prima un capitolo.');
   const s = sc(corrente); s.fatto = !s.fatto; if (s.fatto) s.pos = 0;
   salvaStato(); aggiornaFatto(); disegna();
+  annuncia(s.fatto ? 'Segnato come ascoltato.' : 'Segnato come da ascoltare.');
 };
 $('segna').onclick = () => {
-  if (corrente == null) return;
+  if (corrente == null) return annuncia('Scegli prima un capitolo.');
   const t = a.currentTime || 0, frase = cue[cueOra]?.testo || '';
   stato.segni.push({ n: corrente, t, frase: frase.slice(0, 120) });
   salvaStato();
@@ -433,13 +560,13 @@ $('sonno').onclick = () => {
   if (timerSonno) { clearTimeout(timerSonno.id); timerSonno = null; }
   const b = $('sonno');
   if (min) {
-    timerSonno = { min, id: setTimeout(() => { a.pause(); timerSonno = null; b.classList.remove('attivo'); b.replaceChildren(icona('i-luna')); b.setAttribute('aria-label', 'Timer di spegnimento: spento'); }, min * 60000) };
-    b.classList.add('attivo'); b.replaceChildren(icona('i-luna'), ` ${min}′`);
+    timerSonno = { min, id: setTimeout(() => { a.pause(); timerSonno = null; b.classList.remove('attivo'); b.replaceChildren(icona('i-timer')); b.setAttribute('aria-label', 'Timer di spegnimento: spento'); }, min * 60000) };
+    b.classList.add('attivo'); b.replaceChildren(icona('i-timer'), ` ${min}′`);
     b.style.display = 'inline-flex';
     b.setAttribute('aria-label', `Timer di spegnimento: ${min} minuti`);
     annuncia(`Si ferma fra ${min} minuti.`);
   } else {
-    b.classList.remove('attivo'); b.replaceChildren(icona('i-luna'));
+    b.classList.remove('attivo'); b.replaceChildren(icona('i-timer'));
     b.setAttribute('aria-label', 'Timer di spegnimento: spento');
     annuncia('Timer spento.');
   }
@@ -448,8 +575,8 @@ if ('mediaSession' in navigator) {
   const ms = navigator.mediaSession;
   ms.setActionHandler('play', () => a.play());
   ms.setActionHandler('pause', () => a.pause());
-  ms.setActionHandler('seekbackward', () => salta(-15));
-  ms.setActionHandler('seekforward', () => salta(30));
+  ms.setActionHandler('seekbackward', () => salta(-passo('indietro')));
+  ms.setActionHandler('seekforward', () => salta(passo('avanti')));
   ms.setActionHandler('previoustrack', () => $('prec').click());
   ms.setActionHandler('nexttrack', () => $('succ').click());
   try { ms.setActionHandler('seekto', d => { a.currentTime = d.seekTime; }); } catch {}
@@ -457,10 +584,10 @@ if ('mediaSession' in navigator) {
 addEventListener('pagehide', () => salvaPosizione(true));
 document.addEventListener('visibilitychange', () => { if (document.hidden) salvaPosizione(true); });
 addEventListener('keydown', e => {
-  if (e.target.matches('input,select')) return;
+  if (e.target.matches('input,select') || $('pannello').open) return;
   if (e.code === 'Space' && !e.target.matches('button,summary')) { e.preventDefault(); $('play').click(); }
-  if (e.code === 'ArrowLeft') salta(-15);
-  if (e.code === 'ArrowRight') salta(30);
+  if (e.code === 'ArrowLeft') salta(-passo('indietro'));
+  if (e.code === 'ArrowRight') salta(passo('avanti'));
 });
 
 // Testo che segue la voce
@@ -501,12 +628,24 @@ $('articolo').addEventListener('click', e => {
   const i = e.target.dataset?.i;
   if (i != null && !getSelection().toString()) { a.currentTime = cue[+i].t; if (a.paused) a.play(); seguiVoce = true; $('segui').classList.add('nascosto'); }
 });
+// Tutto su una riga se ci sta; altrimenti salti e play sopra, gli altri comandi sotto
+function disponiComandi() {
+  const r = $('riga-principale');
+  r.classList.remove('molti', 'fitta');
+  if (!r.offsetWidth) return;
+  const figli = [...r.querySelectorAll('button,select')].filter(e => e.offsetWidth);
+  const larghi = figli.reduce((s, e) => s + e.offsetWidth, 0), spazi = figli.length - 1;
+  const gap = parseFloat(getComputedStyle(r).columnGap) || 0;
+  if (larghi + 2 * spazi > r.clientWidth + 4) r.classList.add('molti');
+  else if (larghi + gap * spazi > r.clientWidth) r.classList.add('fitta');
+}
 function altezzaLettore() {
-  const h = document.querySelector('.lettore').offsetHeight;
+  disponiComandi();
+  const h = $('lettore').offsetHeight, senza = stato.ui.noBarra;
   $('pagina').style.bottom = h + 'px';
-  document.body.style.paddingBottom = h + 24 + 'px';
-  $('segui').style.bottom = $('annuncio').style.bottom = h + 12 + 'px';
-  $('corpo').style.paddingBottom = '40px';
+  document.body.style.paddingBottom = (senza ? 80 : h + 24) + 'px';
+  $('segui').style.bottom = $('annuncio').style.bottom = (senza ? 80 : h + 12) + 'px';
+  $('corpo').style.paddingBottom = (senza ? 80 : 40) + 'px';
 }
 addEventListener('resize', altezzaLettore);
 $('testo').onclick = () => {
@@ -521,11 +660,27 @@ const staccaSegui = () => { if (seguiVoce && !$('pagina').classList.contains('na
 $('corpo').addEventListener('wheel', staccaSegui, { passive: true });
 $('corpo').addEventListener('touchmove', staccaSegui, { passive: true });
 $('segui').onclick = () => { seguiVoce = true; $('segui').classList.add('nascosto'); cue[cueOra]?.el.scrollIntoView({ block: 'center', behavior: 'smooth' }); };
-function dimensione(d) {
-  stato.dim = Math.min(30, Math.max(14, stato.dim + d));
-  document.documentElement.style.setProperty('--dim', stato.dim + 'px');
+// Cambiando il testo, la frase a metà pagina resta a metà pagina
+function tieniPunto(cambia) {
+  const c = $('corpo');
+  if ($('pagina').classList.contains('nascosto') || !cue.length) return cambia();
+  const box = c.getBoundingClientRect(), mezzo = box.top + box.height / 2;
+  let lo = 0, hi = cue.length - 1, i = 0;
+  while (lo <= hi) { const m = (lo + hi) >> 1; if (cue[m].el.getBoundingClientRect().top <= mezzo) { i = m; lo = m + 1; } else hi = m - 1; }
+  const prima = cue[i].el.getBoundingClientRect();
+  const parte = prima.height ? Math.min(1, Math.max(0, (mezzo - prima.top) / prima.height)) : 0;
+  cambia();
+  const dopo = cue[i].el.getBoundingClientRect();
+  c.scrollTop += dopo.top + parte * dopo.height - mezzo;
+}
+function impostaDim(v) {
+  tieniPunto(() => {
+    stato.dim = Math.min(30, Math.max(14, v));
+    document.documentElement.style.setProperty('--dim', stato.dim + 'px');
+  });
   salvaStato();
 }
+const dimensione = d => impostaDim(stato.dim + d);
 $('piu-piccolo').onclick = () => dimensione(-1);
 $('piu-grande').onclick = () => dimensione(1);
 
@@ -562,6 +717,7 @@ async function salva(c) {
   disegna(); spazio();
 }
 function aggiornaRiga(c) {
+  aggiornaSalvaQui();
   const r = $('c' + c.n);
   const b = r?.querySelector('.salva');
   if (b) b.replaceWith(bottoneSalva(c));
@@ -592,12 +748,286 @@ $('salva-prossimi').onclick = async () => {
 };
 
 // Tema e progressi
-function applicaTema() { if (stato.tema) document.documentElement.dataset.tema = stato.tema; else delete document.documentElement.dataset.tema; }
-$('tema').onclick = () => {
-  const scuroOra = getComputedStyle(document.documentElement).colorScheme.includes('dark');
-  stato.tema = scuroOra ? 'chiaro' : 'scuro';
-  salvaStato(); applicaTema();
+const ACCENTI = {
+  ambra: { nome: 'Ambra', scuro: ['#e9a65b', '#241607'], chiaro: ['#a4590f', '#fff'] },
+  rosso: { nome: 'Rosso', scuro: ['#ef8a7f', '#2b0f0b'], chiaro: ['#b3362b', '#fff'] },
+  blu: { nome: 'Blu', scuro: ['#7fb4ef', '#0b1a2b'], chiaro: ['#1f5fa8', '#fff'] },
+  verde: { nome: 'Verde', scuro: ['#7fcf9a', '#0b2415'], chiaro: ['#1f7a45', '#fff'] },
+  viola: { nome: 'Viola', scuro: ['#b9a0f0', '#1a1030'], chiaro: ['#6a45b8', '#fff'] }
 };
+const sistemaChiaro = matchMedia('(prefers-color-scheme: light)');
+const temaScuro = () => stato.tema === 'scuro' || (stato.tema !== 'chiaro' && !sistemaChiaro.matches);
+const COLORI_TEMA = ['--sfondo', '--pannello', '--rilievo', '--linea', '--testo', '--tenue'];
+// Luce notturna: toglie il blu e un po' di verde da tutti i colori del tema
+function scalda(colore) {
+  if (!stato.ui.notteOn) return colore;
+  let c = colore.trim().slice(1);
+  if (c.length === 3) c = [...c].map(x => x + x).join('');
+  const k = stato.ui.notte / 100;
+  const v = [1, 1 - .3 * k, 1 - .8 * k].map((m, i) => Math.round(parseInt(c.slice(i * 2, i * 2 + 2), 16) * m));
+  return '#' + v.map(x => x.toString(16).padStart(2, '0')).join('');
+}
+function applicaTema() {
+  const r = document.documentElement;
+  if (stato.tema === 'chiaro' || stato.tema === 'scuro') r.dataset.tema = stato.tema; else delete r.dataset.tema;
+  COLORI_TEMA.forEach(n => r.style.removeProperty(n));
+  if (stato.ui.notteOn) {
+    const cs = getComputedStyle(r);
+    COLORI_TEMA.map(n => [n, cs.getPropertyValue(n)]).forEach(([n, v]) => r.style.setProperty(n, scalda(v)));
+  }
+  const scuro = temaScuro();
+  const [acc, su] = (ACCENTI[stato.ui.accento] || ACCENTI.ambra)[scuro ? 'scuro' : 'chiaro'];
+  r.style.setProperty('--accento', scalda(acc));
+  r.style.setProperty('--su-accento', scalda(su));
+  document.querySelector('meta[name="theme-color"]').content = getComputedStyle(r).getPropertyValue('--sfondo').trim();
+  const nome = scuro ? 'Passa al tema chiaro' : 'Passa al tema scuro';
+  document.querySelectorAll('[data-tema-btn]').forEach(b => { b.replaceChildren(icona(scuro ? 'i-sole' : 'i-luna')); b.setAttribute('aria-label', nome); b.title = nome; });
+}
+document.querySelectorAll('[data-tema-btn]').forEach(b => {
+  b.onclick = () => { stato.tema = temaScuro() ? 'chiaro' : 'scuro'; salvaStato(); applicaTema(); };
+});
+sistemaChiaro.addEventListener('change', () => { applicaTema(); if ($('pannello').open) disegnaPannello(); });
+
+// Altre opzioni del lettore
+function aggiornaSalvaQui() {
+  const b = $('salva-qui'), c = capitoli.find(k => k.n === corrente);
+  const sal = !!c && salvati.has(c.n), prog = c ? inCorso.get(c.n) : null;
+  const nome = sal ? 'Togli dal dispositivo' : 'Salva sul dispositivo';
+  b.setAttribute('aria-label', nome); b.title = nome;
+  b.classList.toggle('attivo', sal);
+  b.replaceChildren(prog != null ? prog + '%' : icona(sal ? 'i-ok' : 'i-scarica'));
+  b.classList.toggle('sec', prog != null);
+}
+$('salva-qui').onclick = () => {
+  const c = capitoli.find(k => k.n === corrente);
+  if (!c) return annuncia('Scegli prima un capitolo.');
+  salvati.has(c.n) ? togli(c) : salva(c);
+};
+$('continua').onclick = () => {
+  stato.ui.continua = !stato.ui.continua;
+  salvaStato(); applicaUi();
+  annuncia(stato.ui.continua ? 'Alla fine passa al capitolo successivo.' : 'Alla fine del capitolo si ferma.');
+};
+$('condividi').onclick = async () => {
+  const c = capitoli.find(k => k.n === corrente);
+  if (!c) return annuncia('Scegli prima un capitolo.');
+  const url = location.origin + location.pathname + '#' + c.n, titolo = `${c.n}. ${c.titolo}`;
+  if (navigator.share) { try { await navigator.share({ title: titolo, url }); } catch {} return; }
+  try { await navigator.clipboard.writeText(url); annuncia('Link copiato.'); } catch { annuncia('Copia non riuscita.'); }
+};
+
+// Menu
+const COMANDI = [
+  ['fatto', 'Segna come ascoltato', 'i-ok'], ['segna', 'Segnalibro', 'i-segno'], ['sonno', 'Timer di spegnimento', 'i-timer'],
+  ['salva-qui', 'Salva sul dispositivo', 'i-scarica'], ['continua', 'Pulsante del capitolo automatico', 'i-continua'], ['condividi', 'Condividi il capitolo', 'i-condividi']
+];
+const PRINCIPALI = [
+  ['velocita', 'Velocità', 'i-velocita'], ['prec', 'Capitolo precedente', 'i-prec'], ['succ', 'Capitolo successivo', 'i-succ'], ['testo', 'Testo del capitolo', 'i-testo'],
+  ['personalizza', "Menu (in alto c'è sempre)", 'i-personalizza']
+];
+// I caratteri web si scaricano solo quando vengono scelti. Senza rete resta il carattere di riserva.
+const CARATTERI = {
+  serif: { nome: 'Predefinito', css: 'var(--serif)' },
+  literata: { nome: 'Literata', css: '"Literata", var(--serif)', web: 'Literata' },
+  lora: { nome: 'Lora', css: '"Lora", var(--serif)', web: 'Lora' },
+  garamond: { nome: 'EB Garamond', css: '"EB Garamond", var(--serif)', web: 'EB+Garamond' },
+  sans: { nome: 'Di sistema', css: 'var(--sans)' },
+  atkinson: { nome: 'Atkinson', css: '"Atkinson Hyperlegible", var(--sans)', web: 'Atkinson+Hyperlegible' }
+};
+function caricaCarattere(c) {
+  if (!c.web || document.querySelector(`link[data-carattere="${c.web}"]`)) return;
+  document.head.append(el('link', { rel: 'stylesheet', 'data-carattere': c.web, href: `https://fonts.googleapis.com/css2?family=${c.web}&display=swap` }));
+}
+function applicaUi() {
+  const u = stato.ui, r = document.documentElement.style;
+  r.setProperty('--evid-forza', u.evid + '%');
+  r.setProperty('--inter', u.inter);
+  const carattere = CARATTERI[u.font] || CARATTERI.serif;
+  caricaCarattere(carattere);
+  r.setProperty('--font-testo', carattere.css);
+  // Il salto più lungo sta all'esterno, il più breve vicino a play
+  const bottoni = (lista, segno, nome) => lista.map(s => el('button', { class: 'sec', 'aria-label': `${nome} di ${durataSalto(s)}`, title: `${nome} di ${durataSalto(s)}`, onclick: () => salta(segno === '+' ? s : -s) }, (segno === '+' ? '+' : '−') + testoSalto(s)));
+  $('salti-indietro').replaceChildren(...bottoni([...u.indietro].sort((x, y) => y - x), '−', 'Indietro'));
+  $('salti-avanti').replaceChildren(...bottoni([...u.avanti].sort((x, y) => x - y), '+', 'Avanti'));
+  [...PRINCIPALI, ...COMANDI].forEach(([id]) => $(id).classList.toggle('nascosto', u.nascosti.includes(id)));
+  $('riga-principale').classList.toggle('ridotta', u.indietro.length + u.avanti.length !== 2 || PRINCIPALI.some(([id]) => id !== 'personalizza' && u.nascosti.includes(id)));
+  $('lettore').classList.toggle('nascosto', u.noBarra);
+  $('flotta').classList.toggle('nascosto', !u.noBarra);
+  $('riga-tempo').classList.toggle('nascosto', u.noAvanz);
+  const altreIcone = !u.noIcone && COMANDI.some(([id]) => !u.nascosti.includes(id));
+  const menu = $('personalizza');
+  (altreIcone ? $('riga-icone') : $('riga-principale')).append(menu);
+  $('riga-principale').classList.toggle('con-menu', !altreIcone && !u.nascosti.includes('personalizza'));
+  $('riga-icone').classList.toggle('nascosto', !altreIcone);
+  $('menu-pagina').classList.toggle('nascosto', !(u.noBarra || u.noIcone || u.nascosti.includes('personalizza')));
+  document.querySelector('.lettore').classList.toggle('scambia', u.scambia);
+  const nome = u.continua ? 'Capitolo successivo automatico: attivo' : 'Capitolo successivo automatico: spento';
+  $('continua').setAttribute('aria-label', nome);
+  $('continua').classList.toggle('attivo', u.continua);
+}
+function cambiaUi(fn, chiave) {
+  tieniPunto(() => { fn(); applicaTema(); applicaUi(); altezzaLettore(); });
+  salvaStato();
+  disegnaPannello();
+  if (chiave) $('pannello-corpo').querySelector(`[data-k="${chiave}"]`)?.focus();
+}
+function scelte(titolo, voci, attuale, fn) {
+  return el('div', { class: 'op', role: 'group', 'aria-label': titolo },
+    el('div', { class: 'et' }, titolo),
+    el('div', { class: 'scelte' }, voci.map(([v, nome, ic]) => {
+      const k = titolo + '-' + v;
+      return el('button', { 'data-k': k, 'aria-pressed': String(v === attuale), onclick: () => cambiaUi(() => fn(v), k) }, ic ? icona(ic) : null, nome);
+    })));
+}
+function spunta(testo, attiva, fn, ic) {
+  const i = el('input', { type: 'checkbox' });
+  i.checked = attiva;
+  i.onchange = () => { fn(i.checked); salvaStato(); applicaUi(); altezzaLettore(); };
+  return el('label', { class: 'spunta' }, ic ? icona(ic) : null, el('span', {}, testo), i);
+}
+const testoSalto = s => s <= 60 || s % 60 ? String(s) : s / 60 + 'm';
+const altroAperto = {};
+// Accetta 90, -90, 5*60, 5x60, 1,5*60: il segno non conta, la direzione la dà il gruppo
+function leggiSecondi(t) {
+  const pezzi = t.trim().replace(/^[-−+] */, '').split(/ *[*x×] */i);
+  if (!pezzi.every(p => /^[0-9]+([.,][0-9]+)?$/.test(p))) return NaN;
+  return Math.round(pezzi.reduce((a, p) => a * parseFloat(p.replace(',', '.')), 1));
+}
+const durataSalto = s => s < 60 || s % 60 ? `${s} secondi` : s === 60 ? '1 minuto' : `${s / 60} minuti`;
+function sceltaSalti(titolo, chiave) {
+  const scelti = stato.ui[chiave], segno = chiave === 'avanti' ? '+' : '−';
+  const valori = [...new Set([5, 10, 15, 30, 45, 60, 120, 300, ...scelti])].sort((x, y) => x - y);
+  const campo = el('input', { type: 'text', autocomplete: 'off', placeholder: 'Es. 90 o 5*60', 'aria-label': titolo + ': altro valore in secondi' });
+  const aggiungi = () => {
+    const v = leggiSecondi(campo.value);
+    if (!(v >= 1 && v <= 3600)) return annuncia('Scrivi i secondi, anche come 5*60: da 1 a 3600.');
+    altroAperto[chiave] = false;
+    cambiaUi(() => { if (!stato.ui[chiave].includes(v)) stato.ui[chiave] = [...stato.ui[chiave], v]; }, chiave + '-' + v);
+  };
+  campo.addEventListener('keydown', e => { if (e.key === 'Enter') aggiungi(); });
+  return el('div', { class: 'op', role: 'group', 'aria-label': titolo },
+    el('div', { class: 'et' }, titolo + ': scegline uno o più'),
+    el('div', { class: 'scelte' },
+      valori.map(v => {
+        const k = chiave + '-' + v, attivo = scelti.includes(v);
+        return el('button', { 'data-k': k, 'aria-pressed': String(attivo), 'aria-label': titolo + ' di ' + durataSalto(v), onclick: () => cambiaUi(() => {
+          stato.ui[chiave] = attivo ? scelti.filter(x => x !== v) : [...scelti, v];
+        }, k) }, icona(attivo ? 'i-casella-ok' : 'i-casella'), segno + testoSalto(v));
+      }),
+      el('button', { 'data-k': chiave + '-altro', 'aria-expanded': String(!!altroAperto[chiave]), onclick: () => {
+        altroAperto[chiave] = !altroAperto[chiave];
+        cambiaUi(() => {}, chiave + '-altro');
+      } }, 'Altro…')),
+    altroAperto[chiave] ? el('div', { class: 'altro-salto' }, campo, el('button', { onclick: aggiungi }, 'Aggiungi')) : null);
+}
+function anteprimaSalti() {
+  const u = stato.ui;
+  const pill = t => el('span', {}, t);
+  return el('div', { class: 'anteprima-salti', 'aria-label': 'Come appaiono nel lettore' },
+    [...u.indietro].sort((x, y) => y - x).map(s => pill('−' + testoSalto(s))),
+    (() => { const p = el('i'); p.append(icona('i-play')); return p; })(),
+    [...u.avanti].sort((x, y) => x - y).map(s => pill('+' + testoSalto(s))));
+}
+let sezAperta = null;
+const DATI = document.querySelector('.pannello-dati');
+function sezione(id, ic, titolo, sotto, ...figli) {
+  const d = el('details', { class: 'sez' },
+    el('summary', {}, icona(ic), el('span', {}, el('b', {}, titolo), el('small', {}, sotto)), (() => { const s = icona('i-su'); s.classList.add('freccia'); return s; })()),
+    el('div', { class: 'sez-corpo' }, ...figli));
+  d.open = sezAperta === id;
+  d.addEventListener('toggle', () => {
+    if (!d.isConnected) return;
+    if (d.open) {
+      sezAperta = id;
+      $('pannello-corpo').querySelectorAll('details.sez').forEach(x => { if (x !== d) x.open = false; });
+    } else if (sezAperta === id) sezAperta = null;
+  });
+  return d;
+}
+function bottoneRipristina() {
+  const b = el('button', { class: 'ripristina', 'data-k': 'ripristina' }, icona('i-ripristina'), 'Ripristina le impostazioni');
+  b.onclick = () => {
+    const annulla = el('button', { onclick: () => { box.replaceWith(b); b.focus(); } }, 'Annulla');
+    const box = el('div', { class: 'conferma', role: 'alertdialog', 'aria-label': 'Conferma il ripristino' },
+      el('p', {}, 'Ripristinare tema, colori, testo e comandi? Progressi, segnalibri e capitoli salvati restano.'),
+      el('div', { class: 'scelte' },
+        el('button', { class: 'si', 'data-k': 'ripristina-si', onclick: () => cambiaUi(() => {
+          stato.ui = Object.assign({}, UI_BASE, { nascosti: [] }); stato.tema = null; impostaDim(19);
+        }, 'ripristina') }, 'Ripristina'),
+        annulla));
+    b.replaceWith(box);
+    annulla.focus();
+  };
+  return b;
+}
+function spuntaNotte() {
+  const i = el('input', { type: 'checkbox', 'data-k': 'notte-on' });
+  i.checked = stato.ui.notteOn;
+  i.onchange = () => cambiaUi(() => { stato.ui.notteOn = i.checked; }, 'notte-on');
+  return el('label', { class: 'spunta' }, icona('i-lampada'), el('span', {}, 'Luce notturna'), i);
+}
+function regolaNotte() {
+  const valore = el('span', {}, stato.ui.notte + '%');
+  const r = el('input', { type: 'range', min: '10', max: '100', step: '5', 'aria-label': 'Intensità della luce notturna' });
+  r.value = stato.ui.notte;
+  r.oninput = () => { stato.ui.notte = +r.value; valore.textContent = r.value + '%'; salvaStato(); applicaTema(); };
+  return el('div', { class: 'op' }, el('div', { class: 'et' }, el('span', {}, 'Intensità'), valore), r);
+}
+function disegnaPannello() {
+  const u = stato.ui, scuro = temaScuro();
+  const voceComando = ([id, nome, ic]) => spunta(nome, !u.nascosti.includes(id), on => {
+    u.nascosti = on ? u.nascosti.filter(x => x !== id) : [...u.nascosti, id];
+  }, ic);
+  const valore = el('span', {}, stato.dim + ' px');
+  const dim = el('input', { type: 'range', min: '14', max: '30', step: '1', 'aria-label': 'Dimensione del testo' });
+  dim.value = stato.dim;
+  dim.oninput = () => { impostaDim(+dim.value); valore.textContent = stato.dim + ' px'; };
+  const sotto = t => el('h3', {}, t);
+  $('pannello-corpo').replaceChildren(
+    sezione('aspetto', 'i-goccia', 'Aspetto', 'Tema, luce notturna, colore',
+      scelte('Tema', [[null, 'Sistema', 'i-monitor'], ['chiaro', 'Chiaro', 'i-sole'], ['scuro', 'Scuro', 'i-luna']], stato.tema, v => { stato.tema = v; }),
+      spuntaNotte(),
+      u.notteOn ? regolaNotte() : null,
+      el('div', { class: 'op', role: 'group', 'aria-label': 'Colore' },
+        el('div', { class: 'et' }, 'Colore'),
+        el('div', { class: 'scelte' }, Object.entries(ACCENTI).map(([k, a]) => {
+          const b = el('button', { class: 'campione', 'data-k': 'colore-' + k, 'aria-label': a.nome, title: a.nome, 'aria-pressed': String(u.accento === k), onclick: () => cambiaUi(() => { u.accento = k; }, 'colore-' + k) });
+          b.style.background = scalda(a[scuro ? 'scuro' : 'chiaro'][0]);
+          return b;
+        })))),
+    sezione('lettura', 'i-testo', 'Lettura', 'Dimensione, carattere, evidenziazione',
+      el('div', { class: 'anteprima', 'aria-hidden': 'true' }, 'Le nozze della principessa Ashelia furono, ', el('mark', {}, 'prima di ogni altra cosa, un atto di prudenza.'), ' Due case antiche scelsero di presentarsi al mondo come una cosa sola.'),
+      el('div', { class: 'op' }, el('div', { class: 'et' }, el('span', {}, 'Dimensione'), valore), dim),
+      scelte('Carattere', Object.entries(CARATTERI).map(([k, c]) => [k, c.nome]), u.font, v => { u.font = v; }),
+      scelte('Interlinea', [[1.45, 'Stretta'], [1.6, 'Normale'], [1.85, 'Ampia']], u.inter, v => { u.inter = v; }),
+      scelte('Evidenziazione della frase', [[22, 'Leggera'], [38, 'Media'], [50, 'Forte']], u.evid, v => { u.evid = v; })),
+    sezione('ascolto', 'i-cuffie', 'Ascolto', 'Salti, capitolo successivo',
+      spunta('Passa da solo al capitolo successivo', u.continua, on => { u.continua = on; }, 'i-continua'),
+      sotto('Salti'),
+      el('p', { class: 'nota' }, 'Ogni valore spuntato diventa un pulsante. Ecco come appare ora il lettore:'),
+      anteprimaSalti(),
+      sceltaSalti('Indietro', 'indietro'),
+      sceltaSalti('Avanti', 'avanti')),
+    sezione('lettore', 'i-barra', 'Lettore', 'Barre, pulsanti, disposizione',
+      sotto('Barre'),
+      spunta('Barra inferiore', !u.noBarra, on => { u.noBarra = !on; }, 'i-barra'),
+      spunta('Barra di avanzamento', !u.noAvanz, on => { u.noAvanz = !on; }, 'i-avanzamento'),
+      spunta('Riga delle icone', !u.noIcone, on => { u.noIcone = !on; }, 'i-riga'),
+      sotto('Pulsanti principali'),
+      PRINCIPALI.map(voceComando),
+      sotto('Icone della riga'),
+      COMANDI.map(voceComando),
+      sotto('Disposizione'),
+      spunta('Velocità a destra, testo a sinistra', u.scambia, on => { u.scambia = on; }, 'i-scambia')),
+    sezione('dispositivo', 'i-scarica', 'Capitoli e progressi', 'Salvataggi, esporta, importa', DATI),
+    el('div', { class: 'menu-piede' }, bottoneRipristina())
+  );
+}
+document.querySelectorAll('[data-menu-btn]').forEach(b => { b.onclick = () => { disegnaPannello(); $('pannello').showModal(); }; });
+$('chiudi-pannello').onclick = () => $('pannello').close();
+$('flotta-play').onclick = () => $('play').click();
+$('flotta-su').onclick = () => { stato.ui.noBarra = false; salvaStato(); applicaUi(); altezzaLettore(); };
+$('pannello').addEventListener('click', e => { if (e.target === $('pannello')) $('pannello').close(); });
 $('esporta').onclick = () => {
   salvaPosizione(true);
   const u = URL.createObjectURL(new Blob([JSON.stringify(stato, null, 1)], { type: 'application/json' }));
@@ -626,8 +1056,10 @@ document.querySelectorAll('nav.filtri button').forEach(b => {
 
 (async function avvia() {
   applicaTema();
+  applicaUi();
   document.documentElement.style.setProperty('--dim', stato.dim + 'px');
   $('velocita').value = String(stato.velocita);
+  aggiornaFatto();
   altezzaLettore();
   if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
   try {
