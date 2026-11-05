@@ -217,7 +217,11 @@ label.spunta input { width: 20px; height: 20px; accent-color: var(--accento); fl
 .traguardo small { display: block; font-size: 13px; color: var(--tenue); }
 .traguardo .barra { margin-top: 6px; height: 3px; }
 .traguardo small.trag-quanto { margin-top: 4px; color: var(--testo); font-variant-numeric: tabular-nums; }
-.celebra-corpo .quanto { color: var(--testo); font-size: 18px; font-variant-numeric: tabular-nums; }
+.celebra-corpo .quanto { max-width: 280px; margin: 0 auto; font-size: 16px; font-variant-numeric: tabular-nums; }
+.celebra-corpo .quanto div { display: flex; justify-content: space-between; gap: 16px; padding: 8px 0; border-bottom: 1px solid var(--linea); }
+.celebra-corpo .quanto div:last-child { border-bottom: 0; }
+.celebra-corpo .quanto span { color: var(--tenue); }
+.celebra-corpo .quanto b { font-weight: 500; }
 dialog.celebra { position: fixed; inset: 0; width: 100vw; height: 100vh; height: 100dvh; max-width: none; max-height: none; margin: 0; padding: 0; border: 0; overflow: hidden; background: var(--sfondo); color: var(--testo); }
 dialog.celebra[open] { display: grid; place-items: center; }
 dialog.celebra::backdrop { background: var(--sfondo); }
@@ -1305,14 +1309,13 @@ const giorniTesto = n => n === 1 ? '1 giorno' : `${n} giorni`;
 const quantoTraguardo = (id, v, o) => /^(hour|marathon|night|dawn)/.test(id) ? `${tempoTesto(Math.min(v, o))} di ${tempoTesto(o)}`
   : /^streak/.test(id) ? `${Math.min(v, o)} di ${giorniTesto(o)}`
   : `${Math.min(v, o)} di ${testoCapitoli(o)}`;
-function rimaneTraguardo(id, v, o) {
-  const resto = Math.max(0, o - v);
-  const testo = /^(hour|marathon|night|dawn)/.test(id) ? tempoTesto(Math.ceil(resto / 60) * 60)
-    : /^streak/.test(id) ? giorniTesto(resto) + ' di fila'
-    : testoCapitoli(resto);
-  return (/^1 /.test(testo) && !/^1 h [0-9]/.test(testo) ? 'Ti rimane ' : 'Ti rimangono ') + testo;
+function righeTraguardo(id, v, o) {
+  const tempo = /^(hour|marathon|night|dawn)/.test(id);
+  const testo = x => tempo ? tempoTesto(x) : /^streak/.test(id) ? giorniTesto(x) : testoCapitoli(x);
+  const resto = testo(tempo ? Math.ceil(Math.max(0, o - v) / 60) * 60 : Math.max(0, o - v));
+  return [['Finora', testo(Math.min(v, o))], ['Obiettivo', testo(o)], [/^1 [a-z]+$/.test(resto) ? 'Ti rimane' : 'Ti rimangono', resto]];
 }
-function mostraTraguardo(nome, descr, ic, preso, quota, quanto, rimane) {
+function mostraTraguardo(nome, descr, ic, preso, quota, righe) {
   const d = $('celebra');
   d.classList.toggle('bloccato', !preso);
   d.setAttribute('aria-label', 'Traguardo: ' + nome);
@@ -1337,8 +1340,7 @@ function mostraTraguardo(nome, descr, ic, preso, quota, quanto, rimane) {
       preso
         ? el('p', { class: 'data' }, 'Ottenuto il ' + new Date(preso).toLocaleDateString('it-IT', { day: 'numeric', month: 'long', year: 'numeric' }))
         : barra(pct),
-      preso ? null : el('p', { class: 'quanto' }, quanto),
-      preso ? null : el('p', {}, rimane))
+      preso ? null : el('div', { class: 'quanto' }, righe.map(([t, x]) => el('div', {}, el('span', {}, t), el('b', {}, x)))))
   ].filter(Boolean));
   d.showModal();
 }
@@ -1348,7 +1350,7 @@ function corpoTraguardi() {
   const numero = (v, t, ic) => el('div', {}, icona(ic), el('b', {}, v), el('small', {}, t));
   const riga = ([id, nome, descr, val, ic]) => {
     const preso = stato.traguardi[id], [v, o] = val(st);
-    return el('button', { class: 'traguardo' + (preso ? ' preso' : ''), onclick: () => mostraTraguardo(nome, descr, ic, preso, v / o, quantoTraguardo(id, v, o), rimaneTraguardo(id, v, o)) }, icona(ic),
+    return el('button', { class: 'traguardo' + (preso ? ' preso' : ''), onclick: () => mostraTraguardo(nome, descr, ic, preso, v / o, righeTraguardo(id, v, o)) }, icona(ic),
       el('div', {}, el('b', {}, nome), el('small', {}, descr),
         preso ? el('small', {}, 'Ottenuto il ' + new Date(preso).toLocaleDateString('it-IT', { day: 'numeric', month: 'long', year: 'numeric' })) : [barra(Math.min(100, v / o * 100)), el('small', { class: 'trag-quanto' }, quantoTraguardo(id, v, o))]));
   };
