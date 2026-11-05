@@ -32,7 +32,7 @@ Il tesoriere aprì la bocca, la richiuse, e guardò Rasler, che fino a quel punt
 
 «Ostram ha ragione su una cosa» disse il re. «Archadia tratta. Tratta sempre. È il suo modo di fare la guerra senza pagarla.» Prese uno dei pesi archadiani, lo soppesò, lo rimise sul dispaccio. «Ma tratta dopo. Non prima.»
 
-Le porte si aprirono senza che nessuno avesse bussato.
+Le porte si aprirono di colpo.
 
 Basch fon Ronsenburg entrò senza farsi annunciare, cosa che non aveva mai fatto e che nessuno, nella sala, gli aveva mai visto fare. Era sporco fino alla cintura. Aveva la barba di due giorni e la polvere del deserto orientale nelle pieghe del mantello, e portava in mano un cilindro di cuoio come quello delle nozze, ma con il sigillo intatto, perché non aveva voluto aprirlo prima di arrivare. Si inginocchiò davanti al re. Poi si rialzò, perché il re gli fece segno, e lo disse.
 
@@ -184,13 +184,13 @@ Rasler era a venti passi da lui, sulla strada che dalla piazza d'armi portava al
 
 «Di là ci sono tre legioni. Altezza, vi prego.»
 
-Rasler girò il chocobo verso la porta nord. Basch non seppe mai, e non volle mai sapere, se il principe intendesse davvero fare una sortita da solo in quella direzione, o se il suo corpo stesse soltanto andando dove andava il suo pensiero da quattro giorni. Gridò qualcosa. Una parola sola, a voce altissima, che si perse nel fragore delle esplosioni. Basch era abbastanza vicino da capire quale fosse. Era la parola che i figli usano per i padri.
+Rasler girò il chocobo verso la porta nord. Basch non seppe mai, e non volle mai sapere, se il principe intendesse davvero fare una sortita da solo in quella direzione, o se il suo corpo stesse soltanto andando dove andava il suo pensiero da quattro giorni. Rasler gridò qualcosa. Una parola sola, a voce altissima, che si perse nel fragore delle esplosioni. Basch era abbastanza vicino da capire quale fosse. Era la parola che i figli usano per i padri.
 
 Sulla torre di guardia sopra la porta, un arciere archadiano aveva incoccato una freccia.
 
 Basch lo vide. Strappò l'arco corto dalla sella di un cavaliere morto che gli passava accanto, trascinato dal suo chocobo impazzito, prese una freccia dalla faretra dello stesso morto, tese e tirò, tutto in un solo movimento, con la mano che non tremava perché gli avevano insegnato da bambino a non farla tremare. La sua freccia colpì l'arciere alla gola. L'arciere cadde all'indietro dalla torre.
 
-La sua freccia era già partita.
+Ma la freccia dell'arciere era già partita.
 
 Rasler la prese al petto. Fu un colpo secco, un rumore come quello di un pugno su una porta. La punta passò fra due piastre della corazza, sotto la clavicola sinistra, e il principe si piegò in avanti sulla sella. Non cadde. Si tenne alle redini con tutte e due le mani, e il chocobo, sentendolo pesante, si fermò da solo.
 
