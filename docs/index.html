@@ -93,7 +93,7 @@ svg.ic { width: 22px; height: 22px; fill: currentColor; display: block; }
 .lettore { position: fixed; left: 0; right: 0; bottom: 0; background: var(--pannello); border-top: 1px solid var(--linea); padding: 10px 16px calc(10px + env(safe-area-inset-bottom)); z-index: 5; }
 .lettore > div { max-width: 760px; margin: 0 auto; }
 .ora { display: flex; justify-content: space-between; align-items: center; gap: 8px; min-width: 0; }
-.ora .nome { min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font: 16px/1.3 var(--serif); }
+.ora .nome { flex: 1; min-width: 0; text-align: center; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font: 16px/1.3 var(--serif); }
 .tempo { display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 10px; font-size: 12px; color: var(--tenue); font-variant-numeric: tabular-nums; }
 input[type=range] { width: 100%; accent-color: var(--accento); height: 28px; margin: 0; }
 .comandi { display: flex; justify-content: space-between; align-items: center; gap: 2px; }
@@ -178,8 +178,17 @@ details.sez summary small { display: block; font-size: 13px; color: var(--tenue)
 .menu-piede { padding: 4px 0 calc(16px + env(safe-area-inset-bottom)); }
 .pannello-dati svg.ic, .ripristina svg.ic, .scelte svg.ic { width: 18px; height: 18px; flex: none; }
 #spazio { margin-bottom: 12px; }
-.pannello-dati .dati-voce, .pannello-dati label.dati-voce { display: flex; align-items: center; gap: 14px; width: 100%; margin-top: 8px; padding: 10px 14px; text-align: left; }
-.pannello-dati .dati-voce svg.ic { width: 22px; height: 22px; color: var(--tenue); }
+.dati-voce, .pannello-dati .dati-voce, .pannello-dati label.dati-voce { display: flex; align-items: center; gap: 14px; width: 100%; min-height: 40px; margin-top: 8px; padding: 10px 14px; text-align: left; border: 1px solid var(--linea); border-radius: 10px; color: var(--testo); cursor: pointer; }
+.dati-voce svg.ic, .pannello-dati .dati-voce svg.ic { width: 22px; height: 22px; flex: none; color: var(--tenue); }
+.dati-conferma { margin-top: 8px; padding: 10px 14px; border: 1px solid var(--linea); border-radius: 10px; font-size: 14px; }
+.dati-conferma p { margin: 0 0 8px; }
+.dati-conferma div { display: flex; gap: 8px; }
+.dati-conferma button { min-height: 40px; padding: 0 16px; border: 1px solid var(--linea); border-radius: 10px; }
+.dati-conferma button.si { background: var(--accento); color: var(--su-accento); border-color: transparent; }
+.salvato { display: flex; align-items: center; gap: 8px; min-height: 48px; border-top: 1px solid var(--linea); }
+.salvato span { flex: 1; min-width: 0; font-size: 15px; }
+.salvato small { display: block; font-size: 13px; color: var(--tenue); }
+#offline-prog { margin: 8px 0 0; font-size: 14px; color: var(--accento); }
 .dati-voce b { display: block; font: 500 15px/1.3 var(--sans); }
 .dati-voce small { display: block; margin-top: 1px; font-size: 13px; line-height: 1.35; color: var(--tenue); }
 .conferma { margin-top: 12px; padding: 12px; border: 1px solid var(--linea); border-radius: 10px; font-size: 14px; }
@@ -294,7 +303,7 @@ label.spunta input { width: 20px; height: 20px; accent-color: var(--accento); fl
 </div>
 <section class="lettore" id="lettore" aria-label="Lettore audio">
   <div>
-    <div class="ora"><div class="nome" id="nome">Scegli un capitolo</div></div>
+    <div class="ora" id="riga-titolo"><div class="nome" id="nome">Scegli un capitolo</div></div>
     <div class="tempo" id="riga-tempo">
       <span id="t-ora">0:00</span>
       <input id="cursore" type="range" min="0" max="1000" value="0" aria-label="Posizione nel capitolo">
@@ -328,9 +337,7 @@ label.spunta input { width: 20px; height: 20px; accent-color: var(--accento); fl
     <header><b>Menu</b><button id="chiudi-pannello" aria-label="Chiudi"><svg class="ic"><use href="#i-chiudi"/></svg></button></header>
     <div id="pannello-corpo"></div>
     <section class="pannello-dati">
-      <div id="spazio"></div>
-      <button id="salva-prossimi" class="dati-voce"><svg class="ic"><use href="#i-scarica"/></svg><span><b>Salva i prossimi 5</b><small>Per ascoltarli senza rete</small></span></button>
-      <button id="esporta" class="dati-voce"><svg class="ic"><use href="#i-esporta"/></svg><span><b>Esporta progressi</b><small>Crea un file da portare su un altro dispositivo</small></span></button>
+      <button id="esporta" class="dati-voce"><svg class="ic"><use href="#i-esporta"/></svg><span><b>Esporta progressi</b><small>I progressi restano in questo browser: crea un file per portarli altrove</small></span></button>
       <label class="btn dati-voce"><svg class="ic"><use href="#i-scarica"/></svg><span><b>Importa progressi</b><small>Riprende progressi, segnalibri e traguardi da un file</small></span><input id="importa" type="file" accept="application/json" class="nascosto"></label>
     </section>
   </div>
@@ -343,7 +350,7 @@ const $ = id => document.getElementById(id);
 const a = $('a');
 const CHIAVE = 'alba-stato-v1', CACHE = 'alba-audio-v1';
 const leggi = () => { try { return JSON.parse(localStorage.getItem(CHIAVE)) || {}; } catch { return {}; } };
-const UI_BASE = { accento: 'ambra', evid: 38, font: 'serif', inter: 1.6, indietro: [15], avanti: [30], continua: true, scambia: false, autoRiga: true, nascosti: ['scarica-file'], scaricaNascosto: true, notteOn: false, notte: 50, noBarra: false, noIcone: false, noAvanz: false };
+const UI_BASE = { accento: 'ambra', evid: 38, font: 'serif', inter: 1.6, indietro: [15], avanti: [30], continua: true, scambia: false, autoRiga: true, nascosti: ['scarica-file'], scaricaNascosto: true, notteOn: false, notte: 50, noBarra: false, noIcone: false, noAvanz: false, noTitolo: false };
 let stato = Object.assign({ cap: {}, segni: [], ultimo: null, velocita: 1, dim: 19, tema: null, giorni: {}, notte: 0, alba: 0, traguardi: {} }, leggi());
 if (stato.ui && !stato.ui.scaricaNascosto) stato.ui.nascosti = [...(stato.ui.nascosti || []), 'scarica-file'];
 stato.ui = Object.assign({}, UI_BASE, stato.ui);
@@ -367,7 +374,7 @@ function durataTesto(s) {
   const h = Math.floor(s / 3600), m = Math.round((s % 3600) / 60);
   return h ? `${h} h ${m} min` : `${m} min`;
 }
-const mb = b => (b / 1048576).toFixed(0).replace('.', ',') + ' MB';
+const mb = b => b >= 1073741824 ? (b / 1073741824).toFixed(1).replace('.', ',') + ' GB' : (b / 1048576).toFixed(0) + ' MB';
 const pronti = () => capitoli.filter(c => c.durata);
 const sc = n => stato.cap[n] || (stato.cap[n] = { pos: 0, fatto: false, ascoltati: 0, giro: 0, finito: false });
 const percorso = (c, cart, est) => `${cart}/${String(c.n).padStart(3, '0')}.${est}`;
@@ -891,7 +898,7 @@ $('piu-grande').onclick = () => dimensione(1);
 async function salva(c) {
   if (!('caches' in window)) return annuncia('Questo browser non può salvare i capitoli.');
   if (inCorso.has(c.n)) return;
-  inCorso.set(c.n, 0); disegna();
+  inCorso.set(c.n, 0); disegna(); spazio();
   try {
     if (navigator.storage?.persist) navigator.storage.persist().catch(() => {});
     const cache = await caches.open(CACHE);
@@ -921,6 +928,7 @@ async function salva(c) {
 }
 function aggiornaRiga(c) {
   aggiornaSalvaQui();
+  if ($('offline-prog')) $('offline-prog').textContent = testoProgresso();
   const r = $('c' + c.n);
   const b = r?.querySelector('.salva');
   if (b) b.replaceWith(bottoneSalva(c));
@@ -940,15 +948,68 @@ async function leggiSalvati() {
   salvati = new Set(chiavi.map(r => /audio\/(\d+)\.mp3$/.exec(r.url)).filter(Boolean).map(m => +m[1]));
 }
 function spazio() {
-  const byte = pronti().filter(c => salvati.has(c.n)).reduce((x, c) => x + c.byte, 0);
-  $('spazio').textContent = salvati.size ? `Sul dispositivo: ${salvati.size} ${salvati.size === 1 ? 'capitolo' : 'capitoli'}, ${mb(byte)}.` : 'Salva un capitolo con la freccia per ascoltarlo senza rete.';
+  const box = $('offline-corpo');
+  if (box) box.replaceChildren(...corpoOffline());
 }
-$('salva-prossimi').onclick = async () => {
-  const p = pronti(), i = Math.max(0, p.findIndex(c => c.n === (corrente ?? stato.ultimo)));
-  const lista = p.slice(i).filter(c => !salvati.has(c.n)).slice(0, 5);
-  if (!lista.length) return annuncia('Niente da salvare.');
-  for (const c of lista) await salva(c);
-};
+const testoCapitoli = n => n === 1 ? '1 capitolo' : `${n} capitoli`;
+const pesoLista = l => mb(l.reduce((x, c) => x + c.byte, 0));
+const testoProgresso = () => [...inCorso].map(([n, p]) => `Sto salvando il capitolo ${n}: ${p}%`).join(' · ');
+let codaSalvataggi = false;
+async function salvaLista(lista) {
+  if (codaSalvataggi) return annuncia('Un salvataggio è già in corso.');
+  codaSalvataggi = true;
+  try { for (const c of lista) await salva(c); } finally { codaSalvataggi = false; }
+}
+async function togliLista(lista) {
+  const cache = await caches.open(CACHE);
+  for (const c of lista) {
+    await cache.delete(assoluto(percorso(c, 'audio', 'mp3')));
+    await cache.delete(assoluto(percorso(c, 'testi', 'json')));
+    salvati.delete(c.n);
+  }
+  annuncia(`Tolti dal dispositivo: ${testoCapitoli(lista.length)}.`);
+  disegna(); spazio();
+}
+function corpoOffline() {
+  const tutti = pronti(), presenti = tutti.filter(c => salvati.has(c.n)), mancanti = tutti.filter(c => !salvati.has(c.n));
+  const ascoltati = presenti.filter(c => stato.cap[c.n]?.fatto);
+  const qui = tutti.find(c => c.n === (corrente ?? stato.ultimo)) || tutti[0];
+  const da = Math.max(0, tutti.indexOf(qui));
+  const prossimi = tutti.slice(da).filter(c => !salvati.has(c.n)).slice(0, 5);
+  const parte = qui ? mancanti.filter(c => c.parte === qui.parte) : [];
+  const numero = (v, t) => el('div', {}, el('b', {}, v), el('small', {}, t));
+  const voce = (ic, titolo, nota, azione) => el('button', { class: 'dati-voce', onclick: azione }, icona(ic), el('span', {}, el('b', {}, titolo), el('small', {}, nota)));
+  // Le azioni grandi chiedono conferma nella riga stessa
+  const conConferma = (ic, titolo, nota, domanda, si, azione) => {
+    const b = voce(ic, titolo, nota, () => {
+      b.replaceWith(el('div', { class: 'dati-conferma' }, el('p', {}, domanda),
+        el('div', {}, el('button', { class: 'si', onclick: azione }, si), el('button', { onclick: spazio }, 'Annulla'))));
+    });
+    return b;
+  };
+  const libero = el('p', { class: 'nota' });
+  if (navigator.storage?.estimate) navigator.storage.estimate().then(s => { if (s.quota) libero.textContent = `Spazio ancora disponibile per il browser: circa ${mb(s.quota - (s.usage || 0))}.`; }).catch(() => {});
+  return [
+    el('div', { class: 'trag-numeri' },
+      numero(`${presenti.length}/${tutti.length}`, 'Capitoli salvati'),
+      numero(pesoLista(presenti), 'Spazio occupato')),
+    el('p', { id: 'offline-prog' }, testoProgresso()),
+    prossimi.length || parte.length || mancanti.length ? el('h3', {}, 'Salva') : null,
+    prossimi.length ? voce('i-scarica', `Salva ${prossimi.length === 1 ? 'il prossimo' : `i prossimi ${prossimi.length}`}`, `Dal capitolo ${prossimi[0].n}: ${pesoLista(prossimi)}`, () => salvaLista(prossimi)) : null,
+    parte.length ? voce('i-scarica', 'Salva questa Parte', `${qui.parte}: ${testoCapitoli(parte.length)}, ${pesoLista(parte)}`, () => salvaLista(parte)) : null,
+    mancanti.length ? conConferma('i-scarica', 'Salva tutti i capitoli pronti', `${testoCapitoli(mancanti.length)}, ${pesoLista(mancanti)}`, `Salvare ${testoCapitoli(mancanti.length)}? Occupano ${pesoLista(mancanti)}.`, 'Salva', () => { salvaLista(mancanti); spazio(); }) : null,
+    presenti.length ? el('h3', {}, 'Libera spazio') : null,
+    ascoltati.length ? voce('i-chiudi', 'Togli i capitoli già ascoltati', `${testoCapitoli(ascoltati.length)}, ${pesoLista(ascoltati)}`, () => togliLista(ascoltati)) : null,
+    presenti.length ? conConferma('i-chiudi', 'Togli tutti i capitoli', `${testoCapitoli(presenti.length)}, ${pesoLista(presenti)}`, `Togliere dal dispositivo ${testoCapitoli(presenti.length)}? I progressi restano.`, 'Togli', () => togliLista(presenti)) : null,
+    el('h3', {}, 'Capitoli salvati'),
+    ...(presenti.length
+      ? presenti.map(c => el('div', { class: 'salvato' },
+          el('span', {}, `${c.n}. ${c.titolo}`, el('small', {}, mb(c.byte))),
+          el('button', { class: 'salva', 'aria-label': `Togli dal dispositivo il capitolo ${c.n}`, onclick: () => togli(c) }, icona('i-chiudi'))))
+      : [el('p', { class: 'nota' }, 'Nessuno. Puoi salvarne uno anche con la freccia nell\'elenco dei capitoli.')]),
+    libero
+  ].filter(Boolean);
+}
 
 // Tema e progressi
 const ACCENTI = {
@@ -1070,6 +1131,7 @@ function applicaUi() {
   $('lettore').classList.toggle('nascosto', u.noBarra);
   $('flotta').classList.toggle('nascosto', !u.noBarra);
   $('riga-tempo').classList.toggle('nascosto', u.noAvanz);
+  $('riga-titolo').classList.toggle('nascosto', u.noTitolo);
   $('menu-pagina').classList.toggle('nascosto', !(u.noBarra || u.noIcone || u.nascosti.includes('personalizza')));
   document.querySelector('.lettore').classList.toggle('scambia', u.scambia);
   const nome = u.continua ? 'Capitolo successivo automatico: attivo' : 'Capitolo successivo automatico: spento';
@@ -1299,6 +1361,7 @@ function disegnaPannello() {
     sezione('lettore', 'i-barra', 'Lettore', 'Barre, pulsanti, disposizione',
       sotto('Barre'),
       spunta('Barra inferiore', !u.noBarra, on => { u.noBarra = !on; }, 'i-barra'),
+      spunta('Titolo del capitolo', !u.noTitolo, on => { u.noTitolo = !on; }, 'i-testo'),
       spunta('Barra di avanzamento', !u.noAvanz, on => { u.noAvanz = !on; }, 'i-avanzamento'),
       spunta('Riga delle icone', !u.noIcone, on => { u.noIcone = !on; }, 'i-riga'),
       sotto('In alto'),
@@ -1311,7 +1374,8 @@ function disegnaPannello() {
       spunta("Metti i pulsanti in linea finché c'è spazio", u.autoRiga, on => { u.autoRiga = on; }, 'i-riga'),
       spunta('Velocità a destra, testo a sinistra', u.scambia, on => { u.scambia = on; }, 'i-scambia')),
     sezione('traguardi', 'i-trofeo', 'Traguardi', 'Tempo ascoltato, serie, medaglie', ...corpoTraguardi()),
-    sezione('dispositivo', 'i-scarica', 'Capitoli e progressi', 'Salvataggi, esporta, importa', DATI),
+    sezione('offline', 'i-scarica', 'Ascolto senza rete', 'Capitoli salvati, spazio occupato', el('div', { id: 'offline-corpo' }, ...corpoOffline())),
+    sezione('progressi', 'i-esporta', 'Progressi', 'Esporta, importa', DATI),
     el('div', { class: 'menu-piede' }, bottoneRipristina())
   );
 }
@@ -1320,7 +1384,7 @@ $('chiudi-pannello').onclick = () => $('pannello').close();
 $('flotta-play').onclick = () => $('play').click();
 $('flotta-su').onclick = () => { stato.ui.noBarra = false; salvaStato(); applicaUi(); altezzaLettore(); };
 $('pannello').addEventListener('click', e => { if (e.target === $('pannello')) $('pannello').close(); });
-const CHIAVI_UI = { accento: 'accent', evid: 'highlight', font: 'font', inter: 'lineHeight', indietro: 'skipBack', avanti: 'skipForward', continua: 'autoNext', scambia: 'swapControls', autoRiga: 'autoRow', nascosti: 'hiddenButtons', notteOn: 'nightLightOn', notte: 'nightLight', noBarra: 'hideBar', noIcone: 'hideIconRow', noAvanz: 'hideProgress' };
+const CHIAVI_UI = { accento: 'accent', evid: 'highlight', font: 'font', inter: 'lineHeight', indietro: 'skipBack', avanti: 'skipForward', continua: 'autoNext', scambia: 'swapControls', autoRiga: 'autoRow', nascosti: 'hiddenButtons', notteOn: 'nightLightOn', notte: 'nightLight', noBarra: 'hideBar', noIcone: 'hideIconRow', noAvanz: 'hideProgress', noTitolo: 'hideTitle' };
 const perEsporta = () => ({
   chapters: Object.fromEntries(Object.entries(stato.cap).map(([n, s]) => [n, { position: s.pos, listened: s.fatto, finished: !!s.finito, listenedSeconds: Math.round((s.ascoltati || 0) * 10) / 10, currentRunSeconds: Math.round((s.giro || 0) * 10) / 10 }])),
   bookmarks: stato.segni.map(s => ({ chapter: s.n, time: s.t, text: s.frase })),
