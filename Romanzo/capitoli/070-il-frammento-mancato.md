@@ -136,7 +136,7 @@ Ashe non respirava.
 
 Il frammento sanguinava ai suoi piedi. La spada le pesava sopra la testa. Dall'altra parte della pietra suo marito, che era morto due anni prima a Nalbina con una freccia nel petto, la guardava e le diceva di no.
 
-Le tornò in mente, chissà perché, il cortile. Non la cattedrale, non il bacio, non la formula del vescovo con il nome degli dèi. Il cortile del palazzo, la notte delle nozze, le lanterne di carta accese fra le colonne, la cuoca anziana con il grembiule che li prendeva per le braccia e mostrava loro come si ballava. L'anello che partiva da un giro troppo largo. Il tintinnio sulla pietra. Lei ferma in mezzo al cortile con la faccia di chi ha perso il regno, e lui che le finiva addosso. Domani lo facciamo stringere, le aveva detto. Te lo prometto. E lei aveva detto di no, fra una settimana, e lui aveva riso.
+Le tornò in mente, chissà perché, il cortile. Non la cattedrale, non il bacio, non la formula del vescovo con il nome degli dèi. Il cortile del palazzo, la notte delle nozze, le lanterne di carta accese fra le colonne, la cuoca anziana con il grembiule che li prendeva per le braccia e mostrava loro come si ballava. Suo padre che la faceva girare piano e le teneva il pugno chiuso senza aprirlo, perché l'anello largo non le scappasse. Rasler che guardava quel pugno e capiva senza domande. Domani lo facciamo stringere, le aveva detto. Te lo prometto. E lei aveva detto di no, fra una settimana, e lui aveva riso.
 
 La mano sinistra le si strinse sull'elsa. Sotto il cuoio vecchio, il dito dove per due anni c'era stato quell'anello era nudo, e aveva ancora intorno una striscia di pelle più chiara.
 

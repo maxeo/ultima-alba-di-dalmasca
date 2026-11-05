@@ -214,27 +214,45 @@ Nessuno fece domande. Chi siede alla tavola di un re impara presto che certe per
 
 Il sole calò. Accesero le lanterne di carta, centinaia, appese ai fili tesi fra le colonne, e il cortile diventò arancione. I liutisti lasciarono posto ai tamburi, e i tamburi a una danza della Città Bassa che le dame di corte non conoscevano e che impararono in fretta, ridendo, togliendosi le scarpe quando nessuno guardava. Rasler trascinò Ashe in mezzo al cortile, e lei disse che non sapeva quella danza, e lui disse che neanche lui, e la ballarono malissimo, girando dalla parte sbagliata, finché una cuoca anziana uscita dalle cucine con il grembiule ancora addosso non li prese per le braccia e non mostrò loro come si faceva, davanti a tutta la nobiltà dei due regni, e nessuno osò ridere, e alla fine risero tutti.
 
-A un giro troppo largo, l'anello partì.
+Quando la danza finì, il re si alzò dal suo tavolo. Lo fece senza fretta, con una mano sul bordo, e attraversò il cortile fra gli ospiti che gli aprivano un varco. Si fermò davanti alla figlia e le fece un piccolo inchino, da cavaliere di provincia.
 
-Ashe sentì il dito alleggerirsi e capì subito. Vide un piccolo bagliore rosso e bianco volare nel buio fra le gambe dei ballerini, sentì un tintinnio sulla pietra, poi più niente. Si fermò di colpo. Rasler le finì addosso, come il chocobo della mattina. La cuoca imprecò. Per tre o quattro secondi, che a lei parvero lunghissimi, la principessa ereditaria di Dalmasca rimase in mezzo al cortile del suo palazzo, la notte delle sue nozze, a fissare il pavimento con la faccia di chi ha perso il regno.
+«Una sola» disse. «Poi te lo restituisco.»
 
-Lo trovò un cavaliere. Era il capitano della scorta, quello biondo che al mattino guardava i tetti, e che per tutto il banchetto era rimasto in piedi accanto a una colonna senza bere e senza ballare, in modo così discreto che gli ospiti avevano finito per considerarlo parte dell'architettura. Si era già mosso al primo tintinnio. Si chinò fra le scarpe dei ballerini, raccolse qualcosa dalla fessura fra due lastre, si raddrizzò, e lo porse alla principessa sul palmo aperto, con un piccolo inchino.
+Rasler cedette la mano della sposa con una riverenza esagerata. I tamburi, che conoscevano il loro mestiere, cambiarono passo. Era una danza lenta di Dalmasca, di quelle che si ballano a un braccio di distanza, con i palmi che si sfiorano e i piedi che fanno poco. Raminas l'aveva insegnata alla figlia quando lei gli arrivava alla cintura, nella sala del trono vuota, con i ritratti degli antenati per pubblico. Lei gli pestava i piedi, e lui diceva che anche il bisnonno, quello col naso grande, li aveva pestati a qualcuno.
 
-«Altezza.»
+Ballavano bene, loro due. Nel cortile nessuno lo sapeva, perché non lo avevano mai fatto davanti a qualcuno.
 
-«Capitano Basch» disse Ashe, e riprese l'anello con troppa fretta, e se lo rimise. «Vi sono grata.»
+«Cosa c'era nel cilindro?» chiese lei al secondo giro.
 
-«È rotolato verso lo scolo» disse Basch. «Ancora un palmo e sarebbe finito nelle cisterne.» Guardò l'anello sul dito di lei, guardò il principe, e per un istante, uno solo, qualcosa all'angolo della bocca gli si mosse. «Mi permetto di suggerire un orafo, altezza. Ne conosco uno onesto, in via dei Calderai.»
+«Frutta. Ho chiesto la frutta.»
 
-Rasler scoppiò a ridere. Basch si inchinò di nuovo e tornò alla sua colonna, e chi lo guardò tornare giurò poi che non aveva sorriso affatto.
+«Padre.»
 
-«Domani lo facciamo stringere» disse Rasler. «Te lo prometto. Domani, appena apre la bottega.»
+«La lettera di un comandante preoccupato. I comandanti si preoccupano: li paghiamo per questo.» La fece girare sotto il braccio, piano, con la cura di chi sa che l'altra conosce già il passo. «Stanotte non è una notte per le lettere. Ne arriveranno altre. Arrivano sempre.»
 
-«Non domani.» Ashe chiuse la mano sinistra a pugno, con l'anello dentro, e la tenne così, stretta contro il fianco. «Domani c'è il ricevimento dei corpi di guardia, e dopodomani il tempio, e poi le udienze. Fra una settimana.»
+Al giro successivo Ashe sentì l'anello scivolare. La mano era aperta contro quella del padre, e il cerchio d'oro e d'argento le corse fino alla nocca e restò lì per un respiro, in bilico, come una moneta sul bordo di un tavolo. Lei chiuse la mano di scatto. L'anello tornò al suo posto, dentro il pugno.
+
+Raminas guardò il pugno, poi la figlia.
+
+«Largo?»
+
+«Di una buona misura.»
+
+«Tua madre aveva le dita sottili come le tue. Il suo l'ho fatto stringere due volte, e la seconda l'orafo si è rifiutato di farsi pagare.» Prese il pugno chiuso nella mano, senza aprirlo, e continuò a ballare così, palmo contro nocche, fuori da ogni regola della danza. «Tienilo chiuso, allora. Le cose che contano, quando scappano, si tengono così. Non per sempre. Finché non c'è il modo di sistemarle.»
+
+La danza finì. Raminas le baciò la fronte, come quando era piccola e nessuno guardava, e la riconsegnò a Rasler con la stessa cerimonia con cui l'aveva presa. Poi tornò al suo tavolo. Camminava un poco più adagio di come era venuto.
+
+Rasler guardò il pugno chiuso e capì senza bisogno di domande.
+
+«Domani lo facciamo stringere» disse. «Te lo prometto. Il tuo capitano della scorta conosce un orafo onesto in via dei Calderai. A quanto pare, quell'uomo conosce un orafo onesto in ogni città. Domani, appena apre la bottega.»
+
+«Non domani.» Ashe tenne la mano sinistra a pugno, con l'anello dentro, stretta contro il fianco. «Domani c'è il ricevimento dei corpi di guardia, e dopodomani il tempio, e poi le udienze. Fra una settimana.»
 
 «Fra una settimana, allora.»
 
 «E fino ad allora lo tengo io.» Gli porse la mano destra, quella libera, per riprendere la danza. «Così. Non me lo perdo più.»
+
+Rasler rise, e la riportò in mezzo al cortile.
 
 E ballò il resto della notte con il pugno chiuso, salutando gli ospiti con l'altra mano, ridendo con l'altra mano, accettando i complimenti delle dame e gli auguri dei cavalieri e i baci dei vecchi zii nabradiani con l'altra mano, mentre la sinistra restava serrata attorno a quel cerchio d'oro e d'argento che le stava largo. Le lanterne bruciavano. La città, di là dal muro, cantava ancora.
 
@@ -9818,7 +9836,7 @@ Ashe guardò Vossler, che controllava la porta. Aveva ricevuto da lui cibo, ripa
 
 «No, altezza.»
 
-Prese la pezza e la avvolse intorno alla pietra. Nel farlo dovette aprire la sinistra; l'anello scivolò di nuovo e lei lo fermò con il mignolo. Basch guardò il gesto soltanto un istante, poi distolse gli occhi. Ricordava il pavimento del palazzo, la notte delle nozze, un bagliore che correva verso lo scolo. Non le offrì l'orafo che non aveva più potuto aspettare.
+Prese la pezza e la avvolse intorno alla pietra. Nel farlo dovette aprire la sinistra; l'anello scivolò di nuovo e lei lo fermò con il mignolo. Basch guardò il gesto soltanto un istante, poi distolse gli occhi. Ricordava la notte delle nozze vista dalla sua colonna: il re che ballava con la figlia tenendole il pugno chiuso, e il principe che la mattina stessa gli aveva chiesto il nome di un orafo onesto. Non le offrì l'orafo che non aveva più potuto aspettare.
 
 ---
 
@@ -13891,7 +13909,7 @@ Ashe non respirava.
 
 Il frammento sanguinava ai suoi piedi. La spada le pesava sopra la testa. Dall'altra parte della pietra suo marito, che era morto due anni prima a Nalbina con una freccia nel petto, la guardava e le diceva di no.
 
-Le tornò in mente, chissà perché, il cortile. Non la cattedrale, non il bacio, non la formula del vescovo con il nome degli dèi. Il cortile del palazzo, la notte delle nozze, le lanterne di carta accese fra le colonne, la cuoca anziana con il grembiule che li prendeva per le braccia e mostrava loro come si ballava. L'anello che partiva da un giro troppo largo. Il tintinnio sulla pietra. Lei ferma in mezzo al cortile con la faccia di chi ha perso il regno, e lui che le finiva addosso. Domani lo facciamo stringere, le aveva detto. Te lo prometto. E lei aveva detto di no, fra una settimana, e lui aveva riso.
+Le tornò in mente, chissà perché, il cortile. Non la cattedrale, non il bacio, non la formula del vescovo con il nome degli dèi. Il cortile del palazzo, la notte delle nozze, le lanterne di carta accese fra le colonne, la cuoca anziana con il grembiule che li prendeva per le braccia e mostrava loro come si ballava. Suo padre che la faceva girare piano e le teneva il pugno chiuso senza aprirlo, perché l'anello largo non le scappasse. Rasler che guardava quel pugno e capiva senza domande. Domani lo facciamo stringere, le aveva detto. Te lo prometto. E lei aveva detto di no, fra una settimana, e lui aveva riso.
 
 La mano sinistra le si strinse sull'elsa. Sotto il cuoio vecchio, il dito dove per due anni c'era stato quell'anello era nudo, e aveva ancora intorno una striscia di pelle più chiara.
 
