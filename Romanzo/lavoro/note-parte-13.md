@@ -66,3 +66,9 @@
 - Larsa: "Con il suo nome. Gli sarebbe piaciuto"; poi parla con la sua voce, assume il comando, "servitelo con la pace".
 - Ashe a Ondore "come regina di Dalmasca"; Ondore: "Sì, maestà", prima volta. Pianto con l'elenco dei morti (Vossler compreso, che la portò per la via dei Calderai, cap. 51).
 - Chiusura: Bahamut scende verso Rabanastre.
+
+## Cap. 110
+- Circa 2.450 parole. Zargabaath annuncia lo speronamento con l'Alexander e indica il giornale di bordo nel cassetto di destra (aggancio del cap. 102). Balthier lo ferma: "troppo impaziente di sacrificarsi".
+- Balthier e Fran scendono dal pilone al ventre della fortezza; il quadro ha la calligrafia di Cid e una nota a margine "qui F. si annoierebbe"; l'alloggiamento centrale si chiama "cuore".
+- Paga del filo del protagonista: "non muore alla fine, al massimo lo credono morto per un capitolo o due"; Fran ferita: "una parte più piccola di quanto pensavi"; Balthier ride piangendo.
+- Strahl a Vaan, "niente graffi"; Vaan: "Ti aspetto". Bahamut cade a una lega e mezza a est della Porta Est.
