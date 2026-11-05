@@ -170,7 +170,7 @@ Vossler non si inchinò, ma obbedì. Passò davanti ai soldati e si fermò sulla
 
 Nel corridoio che portava al ponte di trasbordo li fecero camminare a coppie, legati, con una guardia ogni due. A Penelo toccò di stare accanto ad Ashe. Per un tratto nessuna delle due parlò. Davanti a loro Vossler camminava solo, con la spada restituita al fianco e le mani lontane dall'elsa, e dietro di lui Basch, con la lancia di un soldato fra le scapole.
 
-«Mio fratello Kel» disse Penelo, a bassa voce, senza voltare la testa «diceva una cosa dei capitani. Era sergente, a Nalbina, cioè lo è stato per una settimana. Diceva che un capitano non si giudica da come ti porta via. Si giudica da come ti riporta.»
+«Mio fratello Kel» disse Penelo, a bassa voce, senza voltare la testa «diceva una cosa dei capitani. Diceva che un capitano non si giudica da come ti porta via. Si giudica da come ti riporta.»
 
 Ashe non rispose subito.
 
