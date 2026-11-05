@@ -40,7 +40,7 @@ Era una risata bassa, che il suo elmo rendeva cavernosa. Non era del tutto una r
 
 Gabranth stava in fondo alla plancia, vicino alla porta, dove stava da quando erano partiti. Non rispose. Non si era mosso, non aveva parlato, non si era tolto l'elmo in due giorni, e gli uomini dell'equipaggio avevano smesso di salutarlo quando passava perché lui non ricambiava mai.
 
-«Quel monte, Zargabaath» disse Bergan, staccandosi dalla colonna e venendo avanti con il suo passo che faceva tremare le griglie «quel monte ha un debito con l'Impero. Da settecento anni. Da settecento anni ci chiede di lasciarlo in pace, e noi lo lasciamo in pace. Da settecento anni prende i nostri nemici, li nasconde, li sfama, li benedice, e quando andiamo a chiedere chi c'è dietro quelle mura, ci risponde che la Luce non fa domande.» Si fermò accanto al vecchio Giudice, davanti alla finestra. «I debiti si accumulano. Anche quelli dei santi. E un giorno qualcuno passa a riscuotere.»
+«Quel monte, Zargabaath» disse Bergan, staccandosi dalla colonna e venendo avanti con il suo passo che faceva tremare le griglie «quel monte ha un debito con l'Impero. Da settecento anni. Da settecento anni ci chiede di lasciarlo in pace, e noi lo lasciamo in pace. Da settecento anni prende i nostri nemici, li nasconde, li sfama, li benedice, e quando andiamo a chiedere chi c'è dietro quelle mura, ci risponde che la Luce non fa domande.» Si fermò accanto a Zargabaath, davanti alla finestra. «I debiti si accumulano. Anche quelli dei santi. E un giorno qualcuno passa a riscuotere.»
 
 Zargabaath non si voltò a guardarlo.
 
@@ -52,7 +52,7 @@ Zargabaath non si voltò a guardarlo.
 
 Bergan guardò il vecchio a lungo, attraverso le fessure del suo elmo nero e oro. Poi tornò alla sua colonna, adagio, e ci si appoggiò di nuovo, e incrociò di nuovo le braccia. Ma prima di farlo si guardò per un momento la mano sinistra, quella guantata, e strinse e aprì le dita due volte, come chi si accerta che una cosa ci sia ancora.
 
-Zargabaath, alla finestra, lo vide nel riflesso del vetro. Non disse niente. Ma quando il monte comparve all'orizzonte, bianco, con le sue torri sottili e le rocce sospese intorno, e il timoniere annunciò la distanza, il vecchio Giudice fece una cosa che gli ufficiali di plancia non gli avevano mai visto fare: si tolse un guanto e si passò la mano nuda sull'elmo, all'altezza degli occhi, come un uomo che si stropiccia la faccia per sapere di essere sveglio e trova il metallo.
+Zargabaath, alla finestra, lo vide nel riflesso del vetro. Non disse niente. Ma quando il monte comparve all'orizzonte, bianco, con le sue torri sottili e le rocce sospese intorno, e il timoniere annunciò la distanza, Zargabaath fece una cosa che gli ufficiali di plancia non gli avevano mai visto fare: si tolse un guanto e si passò la mano nuda sull'elmo, all'altezza degli occhi, come un uomo che si stropiccia la faccia per sapere di essere sveglio e trova il metallo.
 
 ---
 

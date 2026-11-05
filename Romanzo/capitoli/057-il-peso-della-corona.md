@@ -128,7 +128,7 @@ Lei non rispose. Ripresero a camminare, e per un lungo tratto nessuno dei due di
 
 Lo stesso giorno, a molte settimane di cammino da lì, oltre le montagne e oltre i regni conquistati, quattro Giudici Magister attraversavano il palazzo imperiale di Archades.
 
-Lo facevano a coppie, e le coppie non erano casuali. Davanti venivano Bergan e Zargabaath. Bergan era il più grosso dei quattro, e la sua armatura, nera con le lamine dorate, era stata costruita su misura due volte, perché lui continuava a crescere di spalle anche dopo i quarant'anni; camminava come se il pavimento di marmo gli dovesse qualcosa. Zargabaath era più vecchio e più lento, e camminava come se il pavimento potesse crollare da un momento all'altro e lui volesse essere l'ultimo ad accorgersene.
+Lo facevano a coppie, e le coppie non erano casuali. Davanti venivano Bergan e Zargabaath. Bergan era il più grosso dei quattro, e la sua armatura, nera con le lamine dorate, era stata costruita su misura due volte, perché lui continuava a crescere di spalle anche dopo i trent'anni; camminava come se il pavimento di marmo gli dovesse qualcosa. Zargabaath era più vecchio e più lento, e camminava come se il pavimento potesse crollare da un momento all'altro e lui volesse essere l'ultimo ad accorgersene.
 
 «Il Senato può tramare quanto gli pare» diceva Bergan. La voce gli rimbombava dentro l'elmo, e rimbalzava sulle volte del corridoio, e i servitori che incontravano si schiacciavano contro i muri al loro passaggio. «Può fare riunioni di undici ore e uscirne con un comunicato. Non toccherà il principe Vayne. Lo sai perché, Zargabaath?»
 

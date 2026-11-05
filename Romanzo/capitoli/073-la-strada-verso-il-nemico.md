@@ -2,7 +2,7 @@
 
 Al-Cid Margrace entrò nella Sala della Luce appoggiato a una donna.
 
-Era una donna alta, di Rozarria, con i capelli neri raccolti sotto un velo di seta verde e un mantello da viaggio macchiato di fango e di qualcos'altro, e lo reggeva sotto un braccio come si regge un ubriaco illustre all'uscita da un ricevimento, con fermezza e senza nessuna pietà. Al-Cid aveva la giacca rossa strappata su una spalla. Sotto, la camicia bianca era diventata scura. Aveva perso gli occhiali, e senza gli occhiali la sua faccia sembrava più giovane e più stanca, la faccia di un uomo che ha dormito poco e combattuto molto, e che di solito non fa né l'una né l'altra cosa.
+Era una donna alta, di Rozarria, con i capelli neri raccolti sotto un velo di seta verde e un mantello da viaggio macchiato di fango e di qualcos'altro, e lo reggeva sotto un braccio come si regge un ubriaco illustre all'uscita da un ricevimento, con fermezza e senza nessuna pietà. Al-Cid aveva la camicia a righe strappata su una spalla, e lì il blu era diventato scuro. Aveva perso gli occhiali, e senza gli occhiali la sua faccia sembrava più giovane e più stanca, la faccia di un uomo che ha dormito poco e combattuto molto, e che di solito non fa né l'una né l'altra cosa.
 
 Vide Ashe e si fermò. Si raddrizzò. Si tolse il braccio dalla spalla della donna, che glielo lasciò togliere con un sopracciglio alzato, e fece un inchino. Fu un inchino perfetto, profondo, elegante, il genere di inchino che si fa nelle sale da ballo di Rozarria davanti alle principesse di sangue. A metà dell'inchino gli cedette un ginocchio, e la donna lo riprese al volo per il colletto.
 
@@ -24,9 +24,9 @@ Poi Al-Cid vide il corpo di Bergan. Lo guardò per un lungo momento, il gigante 
 
 ---
 
-Gli dissero di sedersi. Lui si sedette su un gradino, lo stesso dove si era seduto la prima volta con le gambe accavallate, e questa volta non le accavallò. Tavina gli slacciò la camicia sulla spalla senza chiedere il permesso e cominciò a fasciarlo con strisce di seta verde che strappava dal proprio velo, e lui la lasciò fare, e parlò.
+Gli dissero di sedersi. Lui si sedette su un gradino, lo stesso dove si era seduto la prima volta con le gambe accavallate, e questa volta non le accavallò. Tavina gli aprì la camicia sulla spalla senza chiedere il permesso e cominciò a fasciarlo con strisce di seta verde che strappava dal proprio velo, e lui la lasciò fare, e parlò.
 
-«Sono arrivati due giorni fa» disse. «Tre navi. Hanno atterrato sulla spianata nord, ordinate come una parata. Il capitano della prima, quel vecchio, Zargabaath, è sceso da solo, senza scorta, ed è venuto fino alle porte del santuario a piedi, e ha chiesto del principe. Con molta cortesia. Si è anche tolto il guanto per salutare un accolito.» Fece una pausa. «Ho pensato che forse sarebbe andata bene.»
+«Sono arrivati due giorni fa» disse. «Tre navi. Hanno atterrato sulla spianata nord, ordinate come una parata. Il capitano della prima, quello con i capelli grigi, Zargabaath, è sceso da solo, senza scorta, ed è venuto fino alle porte del santuario a piedi, e ha chiesto del principe. Con molta cortesia. Si è anche tolto il guanto per salutare un accolito.» Fece una pausa. «Ho pensato che forse sarebbe andata bene.»
 
 «E poi?» chiese Ashe.
 
@@ -100,7 +100,7 @@ Balthier si era staccato dalla colonna. Stava in piedi in mezzo alla navata grig
 
 «Il dottor Cid» disse Basch.
 
-«Il dottor Cid.» Balthier ripeté il nome come si ripete l'indirizzo di un posto dove si deve andare per forza. «Ghis lo ha nominato sul Leviatano, ricordi? Prima di consegnare il Crepuscolo. Ha detto che il dottore sarebbe stato molto contento. È lui che fa le pietre. È lui che le ha messe nelle ossa di quel povero imbecille. Se il Crepuscolo è ancora intero da qualche parte, è sul suo tavolo.» Guardò Ashe. «Vuoi spezzarlo? Allora devi andare ad Archades. Nel cuore. Non c'è un'altra strada.»
+«Il dottor Cid.» Balthier ripeté il nome come si ripete l'indirizzo di un posto dove si deve andare per forza. «Ghis lo ha nominato sul Leviatano, ricordi? Quando si è preso la vostra pietra. Ha detto che il dottor Cid avrebbe avuto di che rallegrarsi. È lui che fa le pietre. È lui che le ha messe nelle ossa di quel povero imbecille. Se il Crepuscolo è ancora intero da qualche parte, è sul suo tavolo.» Guardò Ashe. «Vuoi spezzarlo? Allora devi andare ad Archades. Nel cuore. Non c'è un'altra strada.»
 
 Ashe lo fissò a lungo. Poi si voltò verso Al-Cid.
 
@@ -118,7 +118,7 @@ Fece per voltarsi. Poi si fermò, come chi si ricorda all'ultimo di una cosa las
 
 Ashe non rispose. Penelo si voltò verso le porte, dove la pioggia cadeva, e restò a guardare fuori con una faccia che non voleva far vedere a nessuno.
 
-Al-Cid trovò, chissà dove, nella tasca della giacca strappata, un paio di occhiali scuri di riserva, e se li mise. Poi si chinò, prese la mano di Ashe, e ci posò sopra un bacio leggero, come la prima volta.
+Tavina tirò fuori dal mantello un paio di occhiali scuri, perché era lei a portarglieli quando lui li perdeva, e glieli porse senza guardarlo. Al-Cid se li mise. Poi si chinò, prese la mano di Ashe, e ci posò sopra un bacio leggero, come la prima volta.
 
 «E comunque» disse, rialzandosi «se cambiaste idea, Rozarria ha un clima molto migliore.»
 

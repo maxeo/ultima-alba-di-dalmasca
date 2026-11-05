@@ -142,7 +142,7 @@ Fu Penelo a girarsi per prima. Aveva sentito i passi prima degli altri, perché 
 
 «Oh» disse.
 
-Era un ragazzo. Portava un mantello da viaggio grigio, chiuso fino al mento e sporco di fango fino all'orlo, e sotto il mantello si vedeva un colletto bianco che con tutto quel fango non aveva niente a che fare. Aveva i capelli scuri tagliati con cura e la faccia di chi è stato educato a non mostrare la stanchezza e adesso, per un istante, se ne dimenticava, perché sorrideva. Sorrise a Penelo. Poi vide Ashe e il sorriso cambiò, diventò più piccolo e più attento, il sorriso di un ambasciatore che entra in una stanza dove sa di non essere gradito.
+Era un ragazzo. Portava un mantello da viaggio grigio, chiuso fino al mento e sporco di fango fino all'orlo, e sotto il mantello si vedeva un colletto bianco che con tutto quel fango non aveva niente a che fare. Aveva i capelli scuri lunghi, pettinati con cura, un piccolo stemma azzurro appeso al collo, e la faccia di chi è stato educato a non mostrare la stanchezza e adesso, per un istante, se ne dimenticava, perché sorrideva. Sorrise a Penelo. Poi vide Ashe e il sorriso cambiò, diventò più piccolo e più attento, il sorriso di un ambasciatore che entra in una stanza dove sa di non essere gradito.
 
 Ashe si alzò. Si voltò. Lo riconobbe.
 
