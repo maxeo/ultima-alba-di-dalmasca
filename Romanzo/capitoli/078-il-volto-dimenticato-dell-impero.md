@@ -10,7 +10,7 @@ Balthier, a quel punto, chiese di non leggerle più ad alta voce.
 
 Le colline erano verdi e larghe, senza alberi, con l'erba alta fino al ginocchio che il vento pettinava tutta da una parte. In cima alle alture c'erano rovine, ma non dell'Alleanza: colonne più tozze, capitelli a forma di foglia, archi bassi. Nessuno sapeva di chi fossero. Ashe disse che nemmeno ad Archades lo sapevano, o se lo sapevano non lo dicevano, perché l'Impero preferiva che la storia di quelle terre cominciasse con i Solidor. Basch disse che ogni impero preferisce così. Fran disse che anche il Bosco preferisce così, a modo suo, e non spiegò.
 
-Il viaggiatore lo trovarono al terzo giorno, seduto su una colonnina miliare, la ventiseiesima, con una gamba fasciata stesa davanti a sé e un bastone accanto. Era un archadiano di una sessantina d'anni, con un cappotto di buon panno che aveva visto giorni migliori e un paio di occhiali dalla montatura d'argento, e quando li vide arrivare si tolse il cappello con una cortesia che sembrava venire da un'altra epoca.
+Il viaggiatore lo trovarono al terzo giorno, seduto su una colonnina miliare, quella delle ventisei leghe, con una gamba fasciata stesa davanti a sé e un bastone accanto. Era un archadiano di una sessantina d'anni, con un cappotto di buon panno che aveva visto giorni migliori e un paio di occhiali dalla montatura d'argento, e quando li vide arrivare si tolse il cappello con una cortesia che sembrava venire da un'altra epoca.
 
 «Siete cacciatori?» chiese. «Della Costa?»
 
@@ -58,7 +58,7 @@ Ashe lo guardò. Non fu uno sguardo lungo, né particolarmente severo. Fu uno sg
 
 «Era un complimento» disse Vaan agli altri.
 
-«Lo era» disse Basch, con un'espressione che non si poteva interpretare. «Dalle prossime volte, però, lascialo intendere.»
+«Lo era» disse Basch, con un'espressione che non si poteva interpretare. «La prossima volta, però, lascialo intendere.»
 
 ---
 
@@ -112,7 +112,7 @@ Fu cercando via del Pozzo Vecchio, per restituire la chiave ad Aurel, che incont
 
 Lo sentirono prima di vederlo, perché in fondo al vicolo qualcuno stava facendo una scenata, e la scenata aveva la voce di un uomo abituato a parlare davanti a un pubblico anche quando il pubblico non c'era. Il vicolo finiva in una piazzetta con un banco di ferraglia sotto una tettoia. Dietro il banco c'era un ricettatore magro con un berretto, che teneva le braccia incrociate e scuoteva la testa. Davanti al banco c'era lui.
 
-Era alto e largo come un armadio, con la pelle grigia e un'armatura rossa, arancione e dorata piena di borchie, di spuntoni e di nastri che nessun armaiolo sano di mente avrebbe aggiunto, e una specie di elmo cornuto da cui uscivano due ciuffi di capelli bianchi. Sulla schiena portava un fascio di spade legate insieme con una corda, una dozzina almeno, di ogni foggia e misura, e altre due gli pendevano dai fianchi.
+Era alto e largo come un armadio, con la pelle grigia e un'armatura rossa, arancione e dorata piena di borchie, di spuntoni e di nastri che nessun armaiolo sano di mente avrebbe aggiunto, e una specie di elmo cornuto da cui uscivano due ciuffi di capelli bianchi. Un mantello rosso gli copriva i fianchi. Sulla schiena portava un fascio di spade legate insieme con una corda, una dozzina almeno, di ogni foggia e misura, e altre due gli pendevano dai fianchi.
 
 «Nessun interesse?» stava dicendo. «Nessun interesse? Guarda questa. Guardala! Acciaio di Rozarria, impugnatura in avorio. Questa ha ucciso un drago. Forse. Era vicina a un drago, sicuramente.»
 

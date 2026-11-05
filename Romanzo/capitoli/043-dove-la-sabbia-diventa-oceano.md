@@ -26,7 +26,7 @@ Atterrarono in una conca nascosta fra due pareti, abbastanza larga da tenere le 
 
 Il moguri guardò le distese oltre le rocce. «Quale altra scelta dovrei rimpiangere, kupò?»
 
-Scaricarono l'acqua e i viveri. Penelo aveva recuperato abiti da viaggio e una coperta prima della partenza; li divideva fra le sacche senza chiedere chi portasse cosa. Basch controllò le chiusure delle borracce. Vaan si mise sulle spalle il carico più grosso e, quando si girò, trovò il capitano che ne aveva già spostato una parte sul proprio.
+Scaricarono l'acqua e i viveri. Penelo aveva recuperato abiti da viaggio e una coperta prima della partenza; li divideva fra le sacche senza chiedere chi portasse cosa. Basch controllò le chiusure delle borracce. Vaan si mise sulle spalle il carico più grosso e, quando si girò, trovò Basch che ne aveva già spostato una parte sul proprio.
 
 «Posso portarlo» disse.
 
@@ -124,7 +124,7 @@ Il ragazzo bevve un solo sorso. Basch vide il gesto e non aggiunse la raccomanda
 
 ---
 
-Si accamparono sulla riva, al riparo di uno scoglio, perché Basch disse che nessuno attraversa un mare di notte, nemmeno quando il mare è di sabbia. Il fuoco lo accese Penelo, con lo sterco secco di qualche bestia che nessuno volle sapere quale fosse. Poi tirò fuori dalla sacca un sacchetto di farina, un pizzico di sale e una borraccia, e cominciò a impastare su una pietra piatta, con le maniche arrotolate, come faceva sotto il portico di Migelo quando le carovane arrivavano tardi e i facchini avevano fame.
+Si accamparono sulla riva, al riparo di uno scoglio, perché Basch disse che nessuno attraversa un mare di notte, nemmeno quando il mare è di sabbia. Il fuoco lo accese Penelo, con sterco secco raccolto fra le rocce. Nessuno chiese da quale bestia venisse. Poi tirò fuori dalla sacca un sacchetto di farina, un pizzico di sale e una borraccia, e cominciò a impastare su una pietra piatta, con le maniche arrotolate, come faceva sotto il portico di Migelo quando le carovane arrivavano tardi e i facchini avevano fame.
 
 Ashe la guardava dall'altra parte del fuoco.
 

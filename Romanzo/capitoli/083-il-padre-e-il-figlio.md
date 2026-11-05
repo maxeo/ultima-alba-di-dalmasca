@@ -148,7 +148,7 @@ Suo padre non parlava da solo. Qualcuno gli aveva sempre risposto.
 
 Sopra la cupola incrinata, qualcosa oscurò il cielo. Era una piccola aeronave, nera e lucida, senza insegne, che scese fino al bordo della vetrata rotta e si fermò lì, sospesa, con il portello aperto. Cid ci andò incontro senza fretta. Si chinò a raccogliere il taccuino che gli era caduto, lo spolverò, se lo rimise nel taschino.
 
-«Le redini della storia» disse, salendo sul primo gradino del portello «devono tornare nelle mani degli uomini. Non degli dèi. Non delle loro pietre. Degli uomini. È tutto quello che ho sempre voluto, sapete. Tutto.» Si voltò un'ultima volta, verso Balthier. «Anch'io vado a Giruvegan, figlio mio. Se vuoi il tuo tesoro, vieni a prendertelo.»
+«Le redini della storia» disse, salendo sul primo gradino del portello «devono tornare nelle mani degli uomini. Degli uomini, non degli dèi né delle loro pietre. È tutto quello che ho sempre voluto, sapete. Tutto.» Si voltò un'ultima volta, verso Balthier. «Anch'io vado a Giruvegan, figlio mio. Se vuoi il tuo tesoro, vieni a prendertelo.»
 
 Il portello si chiuse. L'aeronave si alzò sopra la cupola e sparì nel buio di Archades, senza luci. Nell'angolo, accanto alla lavagna, non c'era più niente.
 

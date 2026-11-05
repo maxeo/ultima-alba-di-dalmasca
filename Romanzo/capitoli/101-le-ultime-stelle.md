@@ -10,7 +10,7 @@
 
 La notte prima della guerra, a Rabanastre, l'acqua costava il doppio. Non era mancata: le cisterne erano piene, le fontane della via delle Fontane buttavano come sempre dai loro musi di leone consumati, e nessun ufficiale imperiale aveva emanato un'ordinanza. Ma da tre giorni le notizie arrivavano dal nord una peggiore dell'altra, e la gente aveva cominciato a riempire tutto quello che poteva contenere un liquido, le giare, le pentole, gli otri, le scodelle, le bottiglie vuote del vino delle feste, e chi aveva un carretto per portare l'acqua alle case alte se la faceva pagare come vino. Era il modo in cui la Città Bassa prevedeva il futuro. Non leggeva le stelle e non ascoltava i proclami. Guardava il prezzo dell'acqua.
 
-La Strahl si posò un'ora dopo il tramonto nel deserto orientale, in una conca dietro le dune a nord della Porta Est, dove una volta, due anni e una vita prima, Vaan aveva cacciato un pomodoro con le gambe. Fran aveva scelto il punto. Da lì le mura della città si vedevano bene, scure contro il cielo ancora verde, senza un lume sui bastioni; e sopra le mura, alte nel cielo di nord, le luci di una dozzina di navi imperiali, ferme, che non si muovevano da due giorni.
+La Strahl si posò un'ora dopo il tramonto nel deserto orientale, in una conca dietro le dune a nord della Porta Est, dove, una vita prima, Vaan aveva cacciato un pomodoro con le gambe. Fran aveva scelto il punto. Da lì le mura della città si vedevano bene, scure contro il cielo ancora verde, senza un lume sui bastioni; e sopra le mura, alte nel cielo di nord, le luci di una dozzina di navi imperiali, ferme, che non si muovevano da due giorni.
 
 «Aspettano» disse Basch.
 
@@ -122,7 +122,7 @@ Balthier, che stava al bancone con un bicchiere che non aveva pagato, si voltò 
 
 Rikken lo raggiunse attraversando la sala a gomitate, e per un momento sembrò sul punto di dargli un pugno; poi lo abbracciò, rozzamente, una volta sola, con una manata sulla schiena che fece traballare il bicchiere, e lo lasciò andare.
 
-«Ho delle notizie» disse, e la voce gli cambiò. «Me le ha date la gente del marchese a Balfonheim, la mattina dopo che siete partiti. La flotta della Resistenza ha passato la notte sopra le colline di Nabradia, e adesso scende verso sud. Sarà qui domani a mezzogiorno. E quella cosa...» Si fermò. Guardò Vaan. «Quella cosa che avete svegliato voi, l'hanno vista passare sopra l'Ozmone ieri sera. Va piano. Ma arriva prima della flotta. Arriva all'alba.»
+«Ho delle notizie» disse, e la voce gli cambiò. «Me le ha date la gente del marchese a Balfonheim, poco dopo che siete partiti. La flotta della Resistenza ha passato la notte sopra le colline di Nabradia, e adesso scende verso sud. Sarà qui domani a mezzogiorno. E quella cosa...» Si fermò. Guardò Vaan. «Quella cosa che avete svegliato voi, l'hanno vista passare sopra l'Ozmone ieri sera. Va piano. Ma arriva prima della flotta. Arriva all'alba.»
 
 «Da terra non la si ferma» disse Basch, che era comparso alle spalle di Vaan.
 
@@ -150,7 +150,7 @@ Una donna si fermò ai piedi della scalinata. Era vecchia, piccola, con le bracc
 
 Ashe non si mosse. Basch, nell'ombra del colonnato, mise la mano sulla spada.
 
-«Non vi spaventate. Non lo dico a nessuno.» La vecchia salì due gradini, con fatica, e si fermò. «Ero nelle cucine del palazzo. Trent'anni. Vi ho fatto il latte col miele quando avevate i denti, e le frittelle di sesamo quando eravate grande, quelle che rubavate dal davanzale. Quando hanno detto che vi eravate ammazzata, io non ci ho creduto. Ve l'hanno detto? Che una vecchia delle cucine non ci credeva?»
+«Non vi spaventate. Non lo dico a nessuno.» La vecchia salì due gradini, con fatica, e si fermò. «Ero nelle cucine del palazzo. Trent'anni. Vi ho fatto il latte col miele quando mettevate i denti, e le frittelle di sesamo quando eravate grande, quelle che rubavate dal davanzale. Quando hanno detto che vi eravate ammazzata, io non ci ho creduto. Ve l'hanno detto? Che una vecchia delle cucine non ci credeva?»
 
 «No» disse Ashe. La voce le uscì strana.
 

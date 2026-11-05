@@ -2,7 +2,7 @@
 
 La galleria sbucava in una sala delle chiuse, una di quelle camere alte e quadrate dove i costruttori dei canali avevano messo le paratie che regolavano l'acqua, e dove le grandi ruote dentate per alzarle e abbassarle stavano ancora appese ai muri, ferme da un secolo, con le catene arrugginite che pendevano nel vuoto come liane. L'acqua, lì, cadeva da una paratia rotta in una cascata bassa e larga, con un rumore che riempiva tutto. Sopra la cascata, a metà altezza, correva una piattaforma di ferro. Sulla piattaforma c'erano cinque soldati archadiani e una donna.
 
-Vaan la riconobbe dalla gonna. Era la stessa, rossa, da viaggio, che aveva visto nella luce della lanterna coperta e poi, per un istante, in mezzo al fuoco del cortile; adesso era strappata sull'orlo e bagnata fino al ginocchio, e la donna che la portava era sporca di fumo, con una manica della casacca chiara bruciata fino al gomito. Aveva i capelli biondi, color sabbia, tagliati corti sopra le spalle, e una spada corta in mano, e la teneva come la teneva Basch nei racconti di Reks: bassa, ferma, con la punta che non tremava.
+Vaan la riconobbe dalla gonna. Era la stessa, rossa, da viaggio, che aveva visto nella luce della lanterna coperta e poi, per un istante, in mezzo al fuoco del cortile; adesso era strappata sull'orlo e bagnata fino al ginocchio, e la donna che la portava era sporca di fumo, con un fianco della casacca chiara bruciato fino alla cintura. Aveva i capelli biondi, color sabbia, tagliati corti sopra le spalle, e una spada corta in mano, e la teneva come la teneva Basch nei racconti di Reks: bassa, ferma, con la punta che non tremava.
 
 Un soldato le venne addosso. Lei non indietreggiò. Fece un passo di lato, uno solo, lasciò che la spada del soldato passasse dove un attimo prima c'era la sua spalla, e lo colpì con l'elsa sotto l'elmo, dove la gola resta scoperta. Il soldato barcollò, urtò il parapetto della piattaforma, e il parapetto, che era vecchio quanto le ruote dentate, si spezzò. L'uomo cadde nella cascata e sparì nella schiuma.
 
@@ -26,7 +26,7 @@ Dalla piattaforma, i quattro soldati guardarono giù. Uno di loro gridò qualcos
 
 «Ah» disse Balthier, alle spalle di Vaan. «Ecco. Adesso siamo coinvolti.»
 
-Della zuffa che seguì non c'è molto da dire, e chi c'era non ne disse mai molto. Fu breve. I soldati arrivavano dalla scaletta uno alla volta, perché la scaletta era stretta, e Fran ne colpì due prima che toccassero terra; il terzo arrivò fino in fondo e trovò la donna in rosso già in piedi, gocciolante, con la spada in mano e la faccia di chi ha un conto da regolare con il mondo intero e ha deciso di cominciare da lui. Il quarto ci pensò, sulla scaletta, a metà discesa. Balthier gli sparò sopra la testa, contro il muro, e il colpo rimbombò nella sala delle chiuse come un tuono in una pentola. Il soldato risalì. Non tornò.
+I soldati arrivavano dalla scaletta uno alla volta, perché la scaletta era stretta, e Fran ne colpì due con l'arco prima che toccassero terra; il terzo arrivò fino in fondo e trovò la donna in rosso già in piedi, gocciolante, con la spada in mano e la faccia di chi ha un conto da regolare con il mondo intero e ha deciso di cominciare da lui. Il quarto ci pensò, sulla scaletta, a metà discesa. Balthier gli sparò sopra la testa, contro il muro, e il colpo rimbombò nella sala delle chiuse come un tuono in una pentola. Il soldato risalì. Non tornò.
 
 Poi ci fu soltanto l'acqua.
 
@@ -76,7 +76,7 @@ Durò il tempo di tre respiri. Poi la donna in rosso alzò il mento.
 
 «Sette» ripeté. «Ce ne sono altri. Vossler...» Si fermò. Ricominciò. «Il loro capitano. Non era con loro?»
 
-«Non lo so» disse Fran. «Non era fra i sette.»
+«Non era fra i sette» disse Vaan.
 
 Amalia annuì, una volta. Si voltò verso la galleria che saliva verso nord, e Vaan capì che aveva già deciso, che stava già camminando dentro la sua testa, e che il dolore lo avrebbe tenuto per dopo, come si tiene una lettera da leggere quando si è soli.
 

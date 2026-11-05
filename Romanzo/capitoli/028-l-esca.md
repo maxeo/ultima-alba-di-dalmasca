@@ -66,7 +66,7 @@ Fu un lavoro lungo, e la scheggia le tagliò anche il palmo, e lei imprecò in u
 
 Nello stesso cielo, più a sud e più in alto, Vaan aveva da un'ora il naso schiacciato contro il vetro della Strahl e non accennava a toglierlo.
 
-La nave era piccola. Lui si era immaginato per anni un'aeronave pirata come una casa volante, con le stive piene e un ponte su cui passeggiare, e la Strahl invece era stretta come un corridoio, foderata di pannelli di metallo caldo che ronzavano sotto le dita, con una cabina di comando dove si stava in quattro solo se uno restava in piedi e non respirava troppo forte. Ma il vetro davanti era grande. E di là dal vetro c'era tutto.
+Il vetro era freddo contro la fronte. Vaan si scostava soltanto per pulirlo con la manica; dopo pochi respiri l'ovale appannato gli nascondeva di nuovo il paesaggio.
 
 Avevano lasciato Dalmasca al mattino. Il deserto, visto dall'alto, non era giallo come lo si vede da terra; era di dieci colori diversi, ocra e rosa e un bianco quasi azzurro dove il sale affiorava, e le strade dei carovanieri lo attraversavano come graffi su una tavola. Poi il deserto era finito in una fila di montagne nere, e le montagne in una nebbia, e la nebbia era diventata un mare. Un mare di nuvole, piatto, abbagliante, che arrivava fino all'orizzonte e oltre, e da cui spuntavano, qua e là, cose che non avevano nessun diritto di stare lì: pezzi di terra sospesi nel vuoto, rocce grandi come quartieri con l'erba sopra e le radici di sotto, che pendevano nel niente come la barba di un vecchio. Alcuni avevano alberi. Uno, più grande degli altri, aveva una cascata che cadeva dal bordo e non arrivava da nessuna parte, perché a metà strada diventava vapore e la portava via il vento.
 
@@ -92,7 +92,7 @@ Basch ci pensò. «Fredda» disse.
 
 Vaan aspettò il resto. Non venne. Tornò al vetro, con la vaga sensazione di essere stato truffato.
 
-In fondo al corridoio, dietro una paratia aperta, si sentiva battere un martello. Il meccanico della Strahl era un moguri di nome Nono, con un berretto di lana calcato fra le orecchie e un pompon rosso che gli spuntava sulla testa come una ciliegia, e da quando erano partiti non aveva smesso un momento di lavorare e di brontolare, le due cose insieme, in un'unica attività continua. A Vaan, che era andato a guardare cosa facesse, aveva spiegato con grande cortesia che il motore di babordo aveva un suono che a lui non piaceva, kupò, e che il capitano diceva che era un suono normale, e che il capitano sapeva molte cose ma non sapeva ascoltare un motore, kupò, e che se il ragazzo voleva rendersi utile poteva tenere la lampada e non toccare niente. Vaan aveva tenuto la lampada per mezz'ora. Non aveva toccato niente. Non era sicuro che fosse andata bene.
+Dietro la paratia aperta Nono batté tre colpi di martello. Aspettò, con le orecchie tese verso il motore di babordo, poi ricominciò a brontolare. Balthier alzò gli occhi al soffitto e si rimise a limarsi l'unghia.
 
 «Eccola» disse Fran.
 

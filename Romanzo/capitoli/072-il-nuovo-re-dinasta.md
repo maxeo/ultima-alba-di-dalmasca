@@ -38,7 +38,7 @@ Ashe parlò, e la voce le uscì bassa e ferma.
 
 «Era un vecchio cieco seduto su una sedia.»
 
-«Era un vecchio cieco che dava ordini a mezza Ivalice da una sedia. È diverso.» Bergan sollevò la punta della spada dal pavimento. «Ma non parliamo del vecchio. Parliamo di voi. Siete andata a Miriam. Lo sapevamo che ci sareste andata. Lo sapeva lui, il mio signore, prima ancora che il vecchio vi aprisse la bocca: una principessa che cerca vendetta va dove c'è una spada. È la cosa più prevedibile del mondo.» Allungò la mano sinistra, quella libera, guantata. «E adesso ce l'avete. Datemela.»
+«Era un vecchio cieco che dava ordini a mezza Ivalice da una sedia. È diverso.» Bergan sollevò la punta della spada dal pavimento. «Ma non parliamo del vecchio. Parliamo di voi. Siete andata a Miriam. Lo sapevamo che ci sareste andata. Lo sapeva lui, il mio signore, prima ancora che il vecchio aprisse bocca: una principessa che cerca vendetta va dove c'è una spada. È la cosa più prevedibile del mondo.» Allungò la mano sinistra, quella libera, guantata. «E adesso ce l'avete. Datemela.»
 
 Ashe non rispose.
 
@@ -48,13 +48,13 @@ Ashe non rispose.
 
 Fu Vaan a vederlo.
 
-Lo vide sopra la testa di Bergan, nell'aria grigia della sala, appena sopra le corna dell'elmo: un'ombra più scura del grigio, che si raccoglieva e si allungava come il fumo di una candela sotto un soffitto basso. Per un istante prese forma. Era un volto. Un volto lungo, senza occhi, o con occhi che erano soltanto due punti dove l'ombra era più fitta, e una bocca che non si apriva e che, chissà perché, sorrideva.
+Lo vide sopra la testa di Bergan, nell'aria grigia della sala, appena sopra la calotta dell'elmo: un'ombra più scura del grigio, che si raccoglieva e si allungava come il fumo di una candela sotto un soffitto basso. Per un istante prese forma. Era un volto. Un volto lungo, senza occhi, o con occhi che erano soltanto due punti dove l'ombra era più fitta, e una bocca che non si apriva e che, chissà perché, sorrideva.
 
 Vaan sentì la pelle d'oca salirgli fino alla nuca, come nella sala delle macchine di Henne.
 
 «Là» disse. «Sopra di lui. Guardate. È lo stesso.»
 
-Gli altri alzarono gli occhi. Larsa, se fosse stato lì, avrebbe fatto un passo indietro. Fran si portò le mani alle orecchie, d'istinto, e poi le riabbassò.
+Gli altri alzarono gli occhi. Fran si portò le mani alle orecchie, d'istinto, e poi le riabbassò.
 
 «Lo stesso di Henne» disse Vaan. «Quello che è uscito dalla ragazza. Lo vedete?»
 
@@ -94,11 +94,19 @@ Tre uomini in armatura grigia uscirono dall'ombra delle colonne, ai lati della s
 
 ---
 
-Lo scontro fu breve, per quanto possa essere breve uno scontro contro un uomo che non si stanca. I tre Giudici minori li presero Vaan, Penelo e Fran, e li tennero occupati sulle due navate laterali, fra le colonne; uno cadde presto, uno più tardi, il terzo si arrese, buttando la spada e togliendosi l'elmo, e sotto l'elmo aveva la faccia di un uomo di quarant'anni con la barba grigia e gli occhi di chi non ha dormito, e disse che aveva una figlia ad Archades, e Penelo gli puntò il bastone alla gola e gli disse di sedersi e stare zitto, e lui si sedette e stette zitto.
+Vaan, Penelo e Fran fermarono i tre Giudici minori nelle navate laterali. Fra le colonne c'era poco spazio: Vaan dovette tenere la spada vicina al corpo, mentre il ferro del bastone di Penelo batteva sul pavimento e sui guanti di chi cercava di passarle accanto. Uno dei Giudici cadde presto, un altro dopo un ultimo tentativo di raggiungere Bergan. Il terzo gettò la spada e si tolse l'elmo. Aveva una quarantina d'anni, la barba grigia e gli occhi cerchiati.
+
+«Ho una figlia ad Archades» disse.
+
+Penelo gli puntò il bastone alla gola.
+
+«Siediti. E sta' zitto.»
+
+L'uomo si sedette contro una colonna, lontano dalla spada.
 
 Bergan lo presero Ashe, Basch e Balthier.
 
-Era come combattere contro un muro che camminava. Le due spade di Bergan scendevano con una forza che non era quella di un uomo, e dove colpivano la pietra del pavimento la pietra si spaccava. Basch parò un colpo con la sua spada, una volta sola, e il colpo gli fece arretrare le braccia fino alla spalla, e lui non parò più: schivò. Balthier sparò due volte, e la seconda volta il colpo prese l'elmo di Bergan di fianco e ne staccò una scheggia di metallo, e Bergan non se ne accorse. La luce viola nelle giunture del guanto si era allargata. Adesso usciva anche dalle fessure dell'armatura, alle ascelle, alle ginocchia, al collo, e Bergan sembrava illuminato da dentro, come una lanterna.
+Era come combattere contro un muro che camminava. Le due spade di Bergan scendevano con una forza che non era quella di un uomo, e dove colpivano la pietra del pavimento la pietra si spaccava. Basch parò un colpo con la sua spada, una volta sola, e il contraccolpo gli scosse le braccia fino alle spalle, e lui non parò più: schivò. Balthier sparò due volte, e la seconda volta il colpo prese l'elmo di Bergan di fianco e ne staccò una scheggia di metallo, e Bergan non se ne accorse. La luce viola nelle giunture del guanto si era allargata. Adesso usciva anche dalle fessure dell'armatura, alle ascelle, alle ginocchia, al collo, e Bergan sembrava illuminato da dentro, come una lanterna.
 
 E più combatteva, più era forte. E più era forte, meno sembrava un uomo. Gridava. Non parole; suoni. Le spade non cercavano più i bersagli, li colpivano tutti, le colonne, il pavimento, l'aria. Ashe, sotto i suoi colpi, si sentiva come sotto una grandinata.
 
@@ -120,7 +128,7 @@ Poi sparì. E la luce sparì con lui. E Bergan cadde in avanti, faccia a terra, 
 
 Ashe tirò fuori la spada. Le tremavano le braccia, tutte e due, fino alle spalle. Fece due passi indietro e si appoggiò a una colonna.
 
-Balthier si inginocchiò accanto al corpo. Lo fece adagio, con una cautela che non gli avevano mai visto, come si avvicina un cane morto che potrebbe non esserlo. Girò il Giudice sulla schiena, con fatica, e gli slacciò il guanto sinistro, e lo sfilò.
+Balthier si inginocchiò accanto al corpo. Lo fece adagio, tenendosi di lato rispetto alla mano armata. Girò il Giudice sulla schiena, con fatica, e gli slacciò il guanto sinistro, e lo sfilò.
 
 La mano di Bergan era una mano d'uomo, grossa, pelosa sul dorso. Ma sotto la pelle, lungo le dita, lungo il palmo, lungo il polso, si vedevano delle righe. Righe scure, violacee, sottili come vene, che seguivano le ossa. Seguivano le falangi una per una, le nocche, i metacarpi, e risalivano verso il polso, e sparivano sotto il bracciale dell'armatura.
 

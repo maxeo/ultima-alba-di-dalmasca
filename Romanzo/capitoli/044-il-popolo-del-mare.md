@@ -20,7 +20,7 @@ Vossler aveva appena raggiunto Ashe. «Ondore non potrà tenere nascosta la vost
 
 Una freccia colpì il serbatoio e rimbalzò accanto alla sacca di Penelo. Balthier prese la ragazza per un gomito e la spinse dietro la scala. «Questa conversazione può essere portata in viaggio?»
 
-Ashe rimase a guardare Vossler. Il capitano toccò l'elsa. «Prima troviamo il Frammento. Da lì si comincia.»
+Ashe non distolse lo sguardo. Vossler toccò l'elsa. «Prima troviamo il Frammento. Da lì si comincia.»
 
 Lei annuì, ma non era un assenso. Aveva soltanto registrato la risposta. Fran indicò una passerella più bassa, libera; Basch vi fece scendere Penelo e Vaan. Vossler rimase all'imbocco mentre gli altri passavano, e quando gli Urutan arrivarono trovò la propria spada già fuori.
 
@@ -74,7 +74,7 @@ Basch annuì.
 
 «Anche da se stessa?»
 
-Il capitano girò la borraccia fra le mani. «Le dico quello che penso. Poi ascolto.»
+Basch girò la borraccia fra le mani. «Le dico quello che penso. Poi ascolto.»
 
 Vossler si riattaccò la cinghia al petto. «A volte ascoltare non basta.»
 
@@ -102,7 +102,7 @@ Vossler mise una mano sulla spada. «Non siamo venuti per combattere le guerre d
 
 «Neanche loro per portare avanti la nostra» disse Penelo.
 
-Il capitano la guardò. Lei aveva raccolto la borsa dei medicamenti e ne controllava la chiusura; non sfidava nessuno, si stava preparando. Vaan fissò l'Urutan. Avevano corso davanti a uomini uguali a lui per mezza giornata, e ora uno di loro era fermo al riparo di un mercante a chiedere quello che poco prima avrebbero potuto chiedere loro.
+Vossler la guardò. Lei aveva raccolto la borsa dei medicamenti e ne controllava la chiusura; non sfidava nessuno, si stava preparando. Vaan fissò l'Urutan. Avevano corso davanti a uomini uguali a lui per mezza giornata, e ora uno di loro era fermo al riparo di un mercante a chiedere quello che poco prima avrebbero potuto chiedere loro.
 
 «Dove?» domandò il ragazzo.
 
@@ -110,7 +110,7 @@ Il moguri gli mostrò una direzione, poi prese una manciata di sabbia e la lasci
 
 Ashe si alzò. Vossler fece un passo per parlarle; lei indicò la borraccia appena riempita. «Abbiamo acqua. Abbiamo una strada. Lui no.»
 
-Il capitano serrò le labbra. Basch aveva già raccolto la propria sacca. Balthier guardò Fran, la quale prese l'arco. Il pirata sospirò e controllò la carica della pistola.
+Vossler serrò le labbra. Basch aveva già raccolto la propria sacca. Balthier guardò Fran, la quale prese l'arco. Il pirata sospirò e controllò la carica della pistola.
 
 ---
 
@@ -164,13 +164,13 @@ Il fiore era piegato dove qualcuno lo aveva liberato dalla sabbia. Penelo si acc
 
 Vaan raccolse le bacche in una pezza. Le teneva con la cura che avrebbe avuto per qualcosa di fragile. Quando tornò a guardare il mare, il vecchio delle conchiglie era ancora visibile, fermo sopra un dorso di sabbia. Alzò il bastone una volta, poi scese dall'altra parte.
 
-Ripartirono lungo il margine roccioso. Vossler prese la testa della colonna, Basch rimase accanto ad Ashe. Lei aveva la mano chiusa sulla fede e guardava il terreno. Dopo un tratto disse al capitano: «Lo ha fatto per il suo popolo.»
+Ripartirono lungo il margine roccioso. Vossler prese la testa della colonna, Basch rimase accanto ad Ashe. Lei aveva la mano chiusa sulla fede e guardava il terreno. Dopo un tratto disse a Basch: «Lo ha fatto per il suo popolo.»
 
 Basch non le chiese di chi parlasse. «Sì.»
 
 Ashe camminò ancora per un tratto. «Mio padre diceva che i re di Dalmasca non hanno mai bruciato nessuno» disse. «Lo diceva come un merito. Adesso mi chiedo se non lo dicesse come una scusa.»
 
-Basch non rispose. Non c'era niente da rispondere che lei non sapesse già.
+Basch continuò a camminarle accanto.
 
 ---
 

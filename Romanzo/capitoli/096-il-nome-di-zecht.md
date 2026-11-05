@@ -2,7 +2,7 @@
 
 Due uomini con quattro spade, in mezzo a una piazza di pietra liscia, in cima a una torre in fondo al mondo, sotto una pietra che beveva il cielo: Penelo, molti anni dopo, raccontò che la prima cosa a cui aveva pensato era quanto rumore facessero. Non le grida, perché non gridava nessuno. Il ferro. Ogni volta che le lame si toccavano la piazza rispondeva con un'eco lunga, chiara, che saliva fino ai pilastri spezzati e tornava giù raddoppiata, e fra un colpo e l'altro restava nell'aria un ronzio di metallo che si sommava al ronzio della Crisalide. Si combatteva dentro una campana.
 
-Reddas non attaccava. Parava. Lo faceva con le due spade corte, una alta e una bassa, spostandosi di poco, e ogni volta che Gabranth affondava lui era già da un'altra parte, di un palmo, non di più. Era una scherma che nessuno di loro gli aveva mai visto, diversa da quella di Balfonheim, fatta di passi brevi e di gomiti stretti al corpo, e Basch, guardandola, sentì un freddo alla nuca. Quella scherma l'aveva vista una volta sola, da giovane, su un campo di addestramento oltre il confine, durante una tregua: era la scherma che si insegnava ai cadetti del Ministero, ad Archades, ai ragazzi destinati a indossare un giorno l'armatura nera.
+Reddas non attaccava. Parava. Lo faceva con le due lame sottili, una alta e una bassa, spostandosi di poco, e ogni volta che Gabranth affondava lui era già da un'altra parte, di un palmo, non di più. Era una scherma che nessuno di loro gli aveva mai visto, diversa da quella usata contro i guardiani, fatta di passi brevi e di gomiti stretti al corpo, e Basch, guardandola, sentì un freddo alla nuca. Quella scherma l'aveva vista una volta sola, da giovane, su un campo di addestramento oltre il confine, durante una tregua: era la scherma che si insegnava ai cadetti del Ministero, ad Archades, ai ragazzi destinati a indossare un giorno l'armatura nera.
 
 «Due anni fa» disse Reddas, fra un colpo e l'altro, e non aveva il fiato corto «a un Giudice Magister fu dato un ordine.»
 
@@ -14,7 +14,7 @@ Gabranth affondò. Reddas deviò la lama con quella bassa e girò su sé stesso.
 
 «Nel tesoro dei re di Nabradia c'era una pietra. Uno dei tre Frammenti, quello che chiamano di Mezzaluce. Lo avevano tenuto per secoli in una cassa d'argento, sotto la cappella, e non lo avevano mai usato.» Reddas parò un fendente che gli fece piegare il ginocchio; si rialzò. «A Draklor volevano sapere che cosa sapesse fare. Non bastava guardarla. Bisognava vederla lavorare. Il Giudice ricevette l'ordine dal principe in persona, e sotto l'ordine, in un foglio a parte, le istruzioni del laboratorio, con la firma di un uomo che oggi tutti voi conoscete. Dicevano: attivate, osservate, riferite.»
 
-Ashe aveva abbassato le spade. Guardava Reddas, e la figura di Rasler era rimasta lì, a lato, con la mano tesa, e lei per la prima volta da quando era apparsa non la guardava.
+Ashe aveva abbassato le spade e guardava Reddas. La figura di Rasler era rimasta lì, a lato, con la mano tesa.
 
 «Il Giudice non sapeva che cosa stava per fare» disse Reddas. «Questo lo dico perché è vero, non perché lo scusi. Non lo sapeva nessuno. Nessuno lo aveva mai fatto, da settecento anni. Gli dissero che era una prova. Lui obbedì. Era stato addestrato per obbedire, e lo faceva bene. Era molto, molto bravo a obbedire.» Le lame si incrociarono di nuovo, alte, e Reddas tenne. «Era notte, l'ultima ora prima dell'alba. Si mise nella cappella, con la pietra nella cassa aperta e due tecnici di Draklor che prendevano appunti. Fece quello che gli avevano detto di fare. Poi...»
 
@@ -24,7 +24,7 @@ Si fermò. Non per un colpo: Gabranth, adesso, non lo stava colpendo. Si fermò 
 
 Nessuno nella piazza si mosse.
 
-«Non ci fu un rumore. Questo non lo crede nessuno, ma è così. C'era una luce, e il Giudice la vide partire dalla pietra e allargarsi, e la vide passare attraverso i muri della cappella come se i muri non ci fossero, e attraverso i tecnici, e attraverso di lui. Poi passò attraverso la città. Le strade. Le case. I forni che si accendevano per il pane, le donne che andavano ai pozzi, i bambini ancora a letto. I soldati nostri, i reggimenti che erano già dentro le porte. Tutto.» Reddas abbassò le spade di un dito. «Lui restò in piedi. Non so perché. Lo hanno trovato due giorni dopo in mezzo al nulla, seduto su un gradino che non portava a niente, con la cassa d'argento vuota fra le ginocchia. Non sapeva dire il proprio nome. Lo ha ritrovato dopo un mese. L'ha perso di nuovo, apposta, dopo un anno.»
+«Non ci fu un rumore. Questo non lo crede nessuno, ma è così. C'era una luce, e il Giudice la vide partire dalla pietra e allargarsi, e la vide passare attraverso i muri della cappella come se i muri non ci fossero, e attraverso i tecnici, e attraverso di lui. Poi passò attraverso la città. Le strade. Le case. I forni che si accendevano per il pane, le donne che andavano ai pozzi, i bambini ancora a letto. I soldati nostri, i reggimenti che erano già dentro le porte. Tutto.» Reddas abbassò le spade di un dito. «Lui restò in piedi. Non so perché. Lo hanno trovato due giorni dopo in mezzo al nulla, seduto su un gradino che non portava a niente, con la cassa d'argento vuota fra le ginocchia. Non sapeva dire il proprio nome. Lo ha ritrovato dopo un mese. L'ha perso di nuovo, apposta, appena ha potuto.»
 
 Gabranth non attaccava più. Stava fermo, con le spade basse, e l'elmo era girato verso Reddas.
 
@@ -74,7 +74,7 @@ Fran gli mise una mano sul braccio, brevemente, e la tolse. Reddas guardò Balth
 
 Ashe lo guardava.
 
-Tutte le cose che non tornavano, in quell'uomo, tornarono in un solo istante, e il rumore che fecero tornando le parve enorme. La lingua da prete e da vecchi libri di cui aveva parlato Elza. Il suo «non dimenticate Nabudis», detto a lei nel salone di Balfonheim come si porge un pezzo di pane a qualcuno che sta per partire. La sua mano chiusa sul tavolo. Il «no» secco, quando lei gli aveva chiesto se Nabudis fosse stata la sua città. La scherma. L'inchino. Il modo in cui sul pianerottolo aveva detto *quello che ha ordinato* e si era guardato le mani. Il fatto che non avesse mai paura del Faro, perché un uomo che ha visto sparire una città in una mattina non ha più paura di una torre. La spada nera sopra il camino di Balfonheim, che lei aveva guardato a lungo e che lui non le aveva mai spiegato: una spada da Giudice, appesa dove un altro uomo avrebbe appeso un remo. E la candela consumata sulla soglia del palazzo di Verdpale, nelle Terre Morte, accanto a un vasetto di fiori gialli che laggiù non crescono, portati da un uomo che parlava come i libri antichi e non entrava mai.
+La spada nera sopra il camino di Balfonheim era una spada da Giudice. Ashe l'aveva guardata a lungo, senza riconoscerla; Reddas l'aveva appesa dove un altro uomo avrebbe appeso un remo. Pensò alla candela consumata sulla soglia del palazzo di Verdpale, nelle Terre Morte, e al vasetto di fiori gialli che laggiù non crescevano. Era stato lui a portarli. Fin sulla soglia, senza entrare.
 
 «Perché non ce l'hai detto?» Era Vaan. Lo chiese senza rabbia, e questo era peggio.
 
@@ -98,7 +98,7 @@ Gabranth non rispose. Dentro l'elmo, dove nessuno poteva vederlo, chiuse gli occ
 
 Davanti a lui c'era un uomo che aveva obbedito come lui e che adesso non obbediva più. Gabranth lo detestò per questo con una forza che lo sorprese, più di quanto detestasse Basch, e non seppe perché.
 
-Si girò verso Ashe. Gabranth non lo attaccò alle spalle, e nessuno capì perché, e forse non lo capì nemmeno lui.
+Reddas si girò verso Ashe. Gabranth non lo attaccò alle spalle, e nessuno capì perché, e forse non lo capì nemmeno lui.
 
 «Altezza. Vi ha detto prendete. Ve lo dice lui, ve lo dice quello lì» un cenno appena verso la figura di Rasler, che non si era mossa «e ve lo dicono quelli che vi hanno dato la spada. Io quella voce la conosco. A me l'ha detta un foglio con un sigillo. Ho obbedito, e ho visto quello che succede dopo. Non c'è niente, dopo. Né gloria né vendetta. C'è un gradino che non porta da nessuna parte e una cassa vuota fra le ginocchia.»
 
@@ -112,11 +112,11 @@ Gabranth si mosse allora. Fu un movimento improvviso e senza grido, e Reddas lo 
 
 Vaan la guardò.
 
-Era una spada corta, larga, con la guardia fatta a ricciolo e l'impugnatura fasciata di cuoio nero consumato dal palmo. Pesava più di quanto sembrasse. Vaan si chinò e la raccolse senza decidere di raccoglierla, come una volta, sul ponte di assi di Nalbina, si era trovato davanti a una gabbia senza aver deciso di andarci.
+Era una spada lunga e sottile, con la guardia fatta a ricciolo e l'impugnatura fasciata di cuoio nero consumato dal palmo. Pesava più di quanto sembrasse. Vaan si chinò e la raccolse senza decidere di raccoglierla, come una volta, sul ponte di assi di Nalbina, si era trovato davanti a una gabbia senza aver deciso di andarci.
 
-Reddas aveva fatto un passo indietro con la spada che gli restava, e Gabranth lo incalzava. Basch si era mosso verso di loro. Balthier aveva la pistola in mano e non sapeva su chi puntarla. E Ashe, in mezzo alla piazza, sotto la Crisalide, si voltò e guardò Vaan.
+Reddas aveva fatto un passo indietro con la spada che gli restava, e Gabranth lo incalzava. Basch si era mosso verso di loro. Balthier aveva la pistola in mano, ma non trovava un tiro libero. Ashe, in mezzo alla piazza, sotto la Crisalide, si voltò e guardò Vaan.
 
-Su che cosa si siano detti, in quello sguardo, i testimoni non concordano, e fra i testimoni c'erano soltanto loro due. Penelo, che stava di lato, sostenne poi che Vaan non aveva fatto nessun cenno, che aveva soltanto alzato un poco la spada di Reddas come per mostrarla, e che Ashe aveva guardato prima la spada e poi lui. Vaan, quando gli chiesero, disse che non si ricordava. Ashe non ne parlò mai. Il cronista si limita a riferire quello che venne dopo, che è certo.
+Su che cosa si siano detti, in quello sguardo, i testimoni non concordano. Penelo, che stava di lato, sostenne poi che Vaan non aveva fatto nessun cenno, che aveva soltanto alzato un poco la spada di Reddas come per mostrarla, e che Ashe aveva guardato prima la spada e poi lui. Vaan, quando gli chiesero, disse che non si ricordava. Ashe non ne parlò mai. Il cronista si limita a riferire quello che venne dopo, che è certo.
 
 «Non torna» disse Vaan.
 
@@ -154,11 +154,11 @@ La figura non rispose. Non aveva mai risposto.
 
 Strinse la Spada del Patto. Era leggera come una cosa vuota. Alzò il braccio.
 
-Sulla faccia della figura non passò niente. Né paura né dolore né sorpresa. La mano rimase tesa fino all'ultimo, il palmo in su, aperta. Ashe la vide così, e così la ricordò, e fu forse la prova più crudele e più chiara: un uomo vero, davanti a una spada che scende, chiude la mano.
+Sulla faccia della figura non passò niente. Né paura né dolore né sorpresa. La mano rimase tesa fino all'ultimo, il palmo in su, aperta. Ashe la ricordò così, e fu forse la prova più crudele e più chiara: un uomo vero, davanti a una spada che scende, chiude la mano.
 
 La lama passò attraverso il petto di Rasler. Non incontrò niente. Non c'era carne da tagliare, né osso, né stoffa; c'era luce, e la luce si aprì attorno al ferro come l'acqua si apre attorno a un remo, e si richiuse, e cominciò a sfaldarsi. Il viso di Rasler si sciolse per primo. Poi le mani, poi il mantello verde, che si fece grigio e poi bianco e poi niente. E mentre si sfaldava, la figura parlò.
 
-Non con la voce di Rasler. Non l'aveva mai avuta. Parlò con una voce che non era di uomo né di donna, una voce che Ashe aveva sentito a Giruvegan sotto le volte del Grande Cristallo, solenne e senza calore, e che le uscì da tutte le parti insieme, dalla pietra sopra di lei e dal pavimento sotto i piedi.
+La voce non era quella di Rasler: non l'aveva mai avuta. Ashe riconobbe il tono solenne e senza calore degli Occuria, sentito a Giruvegan davanti ai loro seggi. Ora le usciva da tutte le parti insieme, dalla pietra sopra di lei e dal pavimento sotto i piedi.
 
 *Prescelta. Tu sei nostra. Sei la santa che raddrizzerà la storia. Prendi la pietra. Obbedisci.*
 
@@ -166,7 +166,7 @@ Non con la voce di Rasler. Non l'aveva mai avuta. Parlò con una voce che non er
 
 Ashe lo disse senza gridare. La voce degli Occuria si fermò, come si ferma un uomo che non è abituato a essere interrotto.
 
-«Non sono la vostra santa. Non sono niente di vostro.» Abbassò la spada. «Avete preso la faccia di mio marito e me l'avete messa davanti per due anni. Avete fatto parlare un morto per farmi uccidere dei vivi. Siete peggio di loro.» Un cenno, senza guardare, verso Gabranth. «Loro almeno lo fanno con la propria faccia.»
+«Non sono la vostra santa. Non sono niente di vostro.» Abbassò la spada. «Avete preso la faccia di mio marito e me l'avete messa davanti per mesi. Avete usato un morto per farmi uccidere dei vivi. Siete peggio di loro.» Un cenno, senza guardare, verso Gabranth. «Loro almeno lo fanno con la propria faccia.»
 
 L'ultima luce dove era stato Rasler si spense.
 
@@ -176,21 +176,21 @@ Nella piazza restò soltanto la Crisalide, che girava sopra di loro con le sue l
 
 Ashe stette ferma a lungo. Gli altri non si mossero. Perfino Gabranth e Reddas si erano fermati, a qualche passo l'uno dall'altro, con le spade basse, a guardare la principessa sotto la pietra.
 
-Ashe si accorse di stare piangendo solo quando sentì il freddo sulle guance. Non era un pianto rumoroso. Le lacrime scendevano da sole, senza che la faccia si muovesse, e lei le lasciò scendere, perché per la prima volta in due anni non doveva nasconderle a un morto che la guardava. Rasler era morto. Era morto a Nalbina con una freccia nel petto, e da allora non le era apparso mai, nemmeno una volta. Quello che le appariva era un'altra cosa che aveva preso in prestito la sua faccia. Il suo vero marito non l'aveva mai vista lì, a fare quello che faceva. Non c'era stato nessuno a guardarla.
+Ashe si accorse di stare piangendo solo quando sentì il freddo sulle guance. Non era un pianto rumoroso. Le lacrime scendevano da sole, senza che la faccia si muovesse, e lei le lasciò scendere, perché adesso non doveva nasconderle a un morto che la guardava. Rasler era morto. Era morto a Nalbina con una freccia nel petto, e da allora non le era apparso mai, nemmeno una volta. Quello che le appariva era un'altra cosa che aveva preso in prestito la sua faccia. Il suo vero marito non l'aveva mai vista lì, a fare quello che faceva. Non c'era stato nessuno a guardarla.
 
 Era terribile, e la liberava.
 
-Portò la mano destra alla cintura. Lì, in una piccola borsa di cuoio legata accanto all'elsa della Spada dei Re, c'era una cosa che portava da mesi e che non era più servita a niente. La tirò fuori. Era il Frammento d'Aurora, la pietra che aveva preso nella Tomba di Raithwall, la pietra per la quale erano morti uomini, quella che aveva tenuto in mano davanti a Vossler e davanti a Ghis, quella che Rasler, o la cosa che aveva la sua faccia, le aveva impedito di spezzare. Era spenta da Giruvegan. Pesava come un sasso di fiume.
+Rimise la Spada dei Re nel fodero e portò la mano destra alla cintura. Lì, in una piccola borsa di cuoio legata accanto al fodero, c'era il Frammento d'Aurora. Lo tirò fuori. Era vuoto dal Leviatano; la cosa che aveva la faccia di Rasler le aveva impedito di spezzarlo a Miriam. Pesava come un sasso di fiume.
 
-La tenne sul palmo un momento e la guardò. Poi aprì la mano.
+Lo tenne sul palmo un momento e lo guardò. Poi aprì la mano.
 
-La pietra cadde sulla pietra della piazza con un suono piccolo, che dopo il fragore delle spade parve ridicolo. Rimbalzò una volta. Poi rotolò. Rotolò sulle lastre, lentamente, in linea quasi retta, sempre più piano, passò fra i piedi di Basch e quelli di Reddas, e andò a fermarsi contro la punta dello stivale di metallo di Gabranth.
+La pietra cadde sulla piazza con un suono piccolo, quasi perso nel ronzio della Crisalide. Rimbalzò una volta. Poi rotolò. Rotolò sulle lastre, lentamente, in linea quasi retta, sempre più piano, passò fra i piedi di Basch e quelli di Reddas, e andò a fermarsi contro la punta dello stivale di metallo di Gabranth.
 
 Il Giudice la guardò. Non si chinò a raccoglierla.
 
 «Dalmasca ha avuto il Crepuscolo per settecento anni» disse Ashe. Non si rivolgeva a nessuno in particolare. Si rivolgeva forse alla pietra sopra di lei, o a quelli che parlavano attraverso la pietra. «Per settecento anni i re di Dalmasca hanno avuto in una stanza del palazzo una cosa che poteva fare quello che è successo a Nabudis. Ci sono state guerre. Ci sono stati assedi. Mio nonno ha perso metà dell'esercito sull'Ozmone. Nessuno l'ha mai usata.» Si asciugò la faccia con il dorso della mano, un gesto rapido, da ragazza. «Me lo hanno insegnato da piccola come una prova di debolezza. Avevamo l'arma più grande del mondo e non ce ne servivamo. Pensavo che fossero stati prudenti, o vigliacchi.»
 
-Guardò la Spada dei Re nella sua mano destra.
+Riprese la Spada dei Re e ne guardò la lama.
 
 «Non erano vigliacchi. Era quello che erano. Era Dalmasca.» Alzò gli occhi verso la Crisalide. «Se la uso, Dalmasca non c'è più comunque. Ci sarà un'altra cosa con il suo nome sopra, e io sarò la regina di quella cosa, e mio padre si vergognerebbe.»
 

@@ -70,7 +70,7 @@ Il nome uscì dall'elmo largo e vuoto, come un colpo di martello su una campana.
 
 «Giudice» disse Ba'Gamnan.
 
-«Ti conosco. Conosco il tuo nome e il tuo permesso.» Il Giudice disse permesso con esattezza e senza simpatia, come una parola straniera. «L'una e l'altra esistono perché Sua Maestà Imperiale tollera che esistano. Puoi cacciare nei territori dell'impero perché l'impero ti lascia cacciare. Puoi riscuotere le tue taglie perché l'impero ti lascia riscuoterle. E puoi entrare a Nalbina, con il tuo permesso firmato da un governatore che non c'è, perché io, adesso, non ho ancora deciso che non puoi.» Fece un passo avanti. Ba'Gamnan, che era più alto di lui, ne fece uno indietro. «Se vuoi continuare a cacciare, Bangaa, mostra rispetto. Per l'impero, per i suoi ufficiali, e per le sue prigioni. Altrimenti la prossima taglia sarà sulla tua testa, e la riscuoterò io.»
+«Ti conosco. Conosco il tuo nome e il tuo permesso.» Il Giudice disse permesso con esattezza e senza simpatia, come una parola straniera. «L'uno e l'altro esistono perché Sua Maestà Imperiale tollera che esistano. Puoi cacciare nei territori dell'impero perché l'impero ti lascia cacciare. Puoi riscuotere le tue taglie perché l'impero ti lascia riscuoterle. E puoi entrare a Nalbina, con il tuo permesso firmato da un governatore che non c'è, perché io, adesso, non ho ancora deciso che non puoi.» Fece un passo avanti. Ba'Gamnan, che era più alto di lui, ne fece uno indietro. «Se vuoi continuare a cacciare, Bangaa, mostra rispetto. Per l'impero, per i suoi ufficiali, e per le sue prigioni. Altrimenti la prossima taglia sarà sulla tua testa, e la riscuoterò io.»
 
 Ci fu un silenzio. I tre Bangaa dietro Ba'Gamnan guardavano lui, aspettando. Il più giovane, quello che parlava troppo, aveva la bocca aperta e non diceva niente.
 
@@ -176,9 +176,9 @@ Fran, nell'ombra accanto a Vaan, aveva le orecchie tese all'indietro, schiacciat
 
 Il Giudice alzò una mano guantata verso la porta. E parlò.
 
-Non erano parole che Vaan capisse. Non erano parole che nessuno, in tutta Rabanastre, avrebbe capito; Balthier, dopo, disse che forse le avrebbe capite un vecchio monaco in qualche biblioteca di Archades, o un morto. Erano lente, gravi, con suoni lunghi e una cadenza che saliva e scendeva come un canto senza musica, e dentro l'elmo prendevano un'eco così profonda che Vaan le sentì nel petto, dove teneva la pietra. La pietra, sotto la camicia, si scaldò. Solo un poco.
+Non erano parole che Vaan capisse. Non erano parole che nessuno, in tutta Rabanastre, avrebbe capito; Balthier, dopo, disse che forse le avrebbe capite un vecchio monaco in qualche biblioteca di Archades, o un morto. Erano lente, gravi, con suoni lunghi e una cadenza che saliva e scendeva come un canto senza musica, e dentro l'elmo prendevano un'eco così profonda che Vaan la sentì nel petto. Sotto la fascia, la pietra si scaldò. Solo un poco.
 
-Le lettere attorno ai cerchi si spensero. Una alla volta, dalla più esterna alla più interna, come candele soffiate da un bambino che gira attorno a una torta. Quando l'ultima si spense, la porta si aprì da sola, verso l'interno, con un sospiro di cardini che non venivano toccati da anni.
+Le lettere attorno ai cerchi si spensero. Una alla volta, dalla più esterna alla più interna, come candele soffiate da un bambino che gira attorno a una torta. Quando l'ultima si spense, la porta si aprì da sola, verso l'interno, con un lamento di cardini corrosi dall'umidità.
 
 Dietro c'era una scala che scendeva in curva, scavata nella roccia, con i gradini consumati al centro.
 
@@ -196,4 +196,4 @@ Balthier controllò che l'arma fosse carica, e la rimise alla cintura.
 
 «Allora andiamo a fargli visita» disse. «Sarebbe scortese non farlo, dopo tutta questa strada.»
 
-E scesero dietro il Giudice, verso il pozzo dove un uomo che il mondo credeva morto li aspettava senza saperlo.
+E scesero dietro il Giudice.

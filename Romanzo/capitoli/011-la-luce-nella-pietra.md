@@ -74,15 +74,15 @@ Penelo ebbe un attimo di esitazione, piccolissimo. «Migelo è a palazzo tutto i
 
 Vaan conosceva quel bastone. Era stato di uno dei suoi fratelli. Stava appeso al muro della stanza di Penelo, nel retro della bottega, sopra il letto, da due anni, e Vaan non l'aveva mai visto staccato.
 
-«Non sapevo che sapessi usarlo» disse.
+«Non ti ho mai vista usarlo» disse.
 
-«Non me l'hai mai chiesto.» Penelo si mise la sacca in spalla. «Ah. E ho preso anche queste.» Gli mise in mano tre boccette di vetro verde, chiuse con la cera. «Dallo scaffale di Migelo. Le ho segnate sul registro, quindi le paghi tu. Per le ferite. Hai un buco nel polpaccio, lo sai?»
+«Non ti fermi mai a guardare.» Penelo si mise la sacca in spalla. «Ah. E ho preso anche queste.» Gli mise in mano tre boccette di vetro verde, chiuse con la cera. «Dallo scaffale di Migelo. Le ho segnate sul registro, quindi le paghi tu. Per le ferite. Hai un buco nel polpaccio, lo sai?»
 
 ---
 
-Di quella giornata, molti anni dopo, Penelo raccontò soprattutto il vento. Diceva che nelle Pianure di Giza il vento non soffia, cammina: lo si vede arrivare da lontano, perché piega l'erba in una lunga onda che corre verso di te, e quando arriva ti passa attraverso e se ne va dall'altra parte, e l'erba si raddrizza dietro di lui. Diceva che quel giorno lei e Vaan camminarono per ore dentro quelle onde, verso sud, e che a un certo punto lui cominciò a contarle, e lei gli disse di smettere, e lui non smise, e lei cominciò a contarle anche lei per dargli fastidio, e arrivarono a centoquattordici prima di trovare il guado.
+Nelle Pianure di Giza il vento non soffia, cammina: lo si vede arrivare da lontano, perché piega l'erba in una lunga onda che corre verso di te, e quando arriva ti passa attraverso e se ne va dall'altra parte, e l'erba si raddrizza dietro di lui. Vaan e Penelo camminarono per ore dentro quelle onde, verso sud. A un certo punto lui cominciò a contarle; lei gli disse di smettere, lui non smise, e Penelo si mise a contarle anche lei per dargli fastidio. Arrivarono a centoquattordici prima di trovare il guado.
 
-Raccontava anche le iene. Erano quattro, magre, con il pelo color sabbia e le macchie scure sulle spalle, e uscirono dall'erba tutte insieme poco dopo il guado, in silenzio, come escono le cose che sanno cacciare. Vaan si mise davanti a lei con la spada. Lei gli disse di spostarsi. Lui non si spostò. La prima iena gli saltò addosso e lui la colpì, e la seconda gli girò attorno per prenderlo di fianco, e lì trovò il bastone di Penelo, che le arrivò sul muso con un rumore secco di legno su osso. La iena guaì e cadde. La terza ci ripensò. La quarta aspettò di vedere come andava, come il topo furbo del condotto, e poi se ne andò con la terza.
+Le iene uscirono dall'erba poco dopo il guado. Erano quattro, magre, con il pelo color sabbia e le macchie scure sulle spalle, e avanzavano in silenzio. Vaan si mise davanti a Penelo con la spada. Lei gli disse di spostarsi. Lui non si spostò. La prima iena gli saltò addosso e lui la colpì; la seconda gli girò attorno per prenderlo di fianco e lì trovò il bastone di Penelo, che le arrivò sul muso con un rumore secco di legno su osso. La iena guaì e cadde. La terza ci ripensò. La quarta aspettò di vedere come andava, come il topo furbo del condotto, e poi se ne andò con la terza.
 
 Vaan si voltò. Penelo aveva il bastone alzato, in guardia, con i piedi piantati e il peso sulla gamba di dietro, e lo sguardo di qualcuno che è stato addestrato bene da gente che le voleva bene.
 
@@ -90,11 +90,11 @@ Vaan si voltò. Penelo aveva il bastone alzato, in guardia, con i piedi piantati
 
 «Niente.»
 
-«Te l'ho detto che sapevo usarlo.»
+«Te l'avevo detto che non guardavi.»
 
-«Non me l'hai detto. Hai detto che non te l'avevo chiesto.»
+«Adesso ho guardato.»
 
-«È uguale.» Penelo abbassò il bastone. Le tremavano un poco le mani, adesso che era finita, e se ne accorse e le strinse più forte sul legno. «Me l'hanno insegnato loro. Dicevano che a Rabanastre c'era pieno di gente come te, e che dovevo sapermi difendere.»
+«Era ora.» Penelo abbassò il bastone. Le tremavano un poco le mani, adesso che era finita, e se ne accorse e le strinse più forte sul legno. «Me l'hanno insegnato loro. Dicevano che a Rabanastre c'era pieno di gente come te, e che dovevo sapermi difendere.»
 
 «Gente come me?»
 
@@ -132,15 +132,13 @@ Jinn ci pensò. Penelo finì la fasciatura e gli diede una pacca sulla testa, la
 
 «Tienile ferme» disse. «Se le muovi, la luce si spaventa.»
 
-Della raccolta non c'è molto da raccontare, perché è un lavoro, e i lavori si raccontano male. Vaan andò ai cristalli con le tre pietre in mano, uno dopo l'altro, e le tenne ferme davanti al nero, e aspettò. La prima volta non successe niente e lui si sentì stupido. Poi, dalla superficie del cristallo, si staccò un filo di luce dorata, sottile come un capello, che attraversò l'aria e toccò la pietra, e un altro filo, e un altro, finché la pietra non ebbe attorno una specie di ragnatela tremante che pulsava, e Vaan, con le mani ferme e il fiato trattenuto, sentì la pietra diventare tiepida nel palmo, e poi calda. Penelo, che guardava da dietro con Jinn appoggiato alla spalla, disse una cosa sola, piano: «Oh.» Era lo stesso oh della piazza, quando avevano acceso le lanterne.
-
-È curioso pensare, oggi, che la prima volta che Vaan di Rabanastre tenne in mano la forza che muoveva le aeronavi, le lampade e le armi di tutta Ivalice, non lo sapesse affatto. Per lui erano pietre da caricare per un bambino con una caviglia gonfia. Nessuno gli disse altro, e lui non chiese.
+Vaan andò al primo cristallo con le tre pietre in mano e le tenne ferme davanti al nero. Aspettò. Non successe niente e lui si sentì stupido. Stava per abbassare le mani quando dalla superficie si staccò un filo di luce dorata, sottile come un capello, che attraversò l'aria e toccò una pietra. Ne arrivarono altri, finché la pietra non ebbe attorno una ragnatela tremante. Vaan trattenne il fiato e sentì il calore salirgli nel palmo. Penelo, che guardava da dietro con Jinn appoggiato alla spalla, disse una cosa sola, piano: «Oh.»
 
 Al terzo cristallo le pietre erano gialle tutte e tre, e scaldavano come castagne appena tolte dal fuoco, e Vaan se le passava da una mano all'altra per non bruciarsi.
 
 ---
 
-Tornarono al villaggio al tramonto. Vaan portava Jinn sulla schiena, Penelo portava le sacche e il bastone, e Jinn, che durante l'andata si era lamentato della strada, del sole, delle iene, delle mani di Vaan che lo tenevano male, verso la fine si addormentò con la faccia contro la sua spalla e la bocca aperta, e sbavò.
+Tornarono al villaggio al tramonto. Vaan portava Jinn sulla schiena, Penelo portava le sacche e il bastone, e Jinn, che nel primo tratto si era lamentato della strada, del sole, delle iene, delle mani di Vaan che lo tenevano male, verso la fine si addormentò con la faccia contro la sua spalla e la bocca aperta, e sbavò.
 
 Masyua li vide arrivare dalla riva e non corse. Camminò verso di loro con il passo uguale di sempre, e solo quando fu vicina, e vide che il bambino dormiva e che respirava, le si piegarono un poco le ginocchia; si riprese subito, e nessuno lo vide tranne Penelo. Prese Jinn dalla schiena di Vaan senza svegliarlo e se lo mise in braccio come un bambino molto più piccolo.
 

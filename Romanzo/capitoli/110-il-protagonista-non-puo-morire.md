@@ -48,9 +48,9 @@ Il quadro diceva dove si andava per arrivare ai motori degli anelli. Diceva perf
 
 Balthier si era fermato davanti a quella frase per il tempo di un respiro. Poi aveva preso Fran per mano ed erano scesi.
 
-Adesso erano in una sala enorme e bassa, nel ventre di Bahamut, piena di macchine grandi come case che giravano, si fermavano, ripartivano a scatti, e di tubi che sputavano vapore. Il soffitto era una selva di travi. Ogni volta che la fortezza scendeva di un tratto, qualcosa lassù si staccava e cadeva con un fracasso, e il pavimento tremava. Al centro della sala c'era un banco di comando lungo come una nave, con leve, ruote, quadranti, e una fila di alloggiamenti vuoti dove avrebbero dovuto stare delle pietre e dove ora non c'era niente, perché le pietre si erano spente quando era morto l'uomo che le teneva accese.
+Adesso erano in una sala enorme e bassa, nel ventre di Bahamut, piena di macchine grandi come case che giravano, si fermavano, ripartivano a scatti, e di tubi che sputavano vapore. Il soffitto era una selva di travi. Ogni volta che la fortezza scendeva di un tratto, qualcosa lassù si staccava e cadeva con un fracasso, e il pavimento tremava. Al centro della sala c'era un banco di comando lungo come una nave, con leve, ruote, quadranti e una fila di alloggiamenti pieni di pietre ormai opache: si erano spente quando era morto l'uomo che le teneva accese.
 
-Balthier ci lavorava da un quarto d'ora. Aveva la giacca strappata su una spalla, le mani nere di grasso fino ai gomiti e un taglio sulla fronte che gli colava in un occhio. Aveva trovato, in un armadio, una cassa di pietre di ricambio di Draklor, e le stava infilando negli alloggiamenti una a una, collegando i cavi a mano, nell'ordine scritto sul quadro nella calligrafia di suo padre. Fran, accanto a lui, teneva le mani su due grandi leve e teneva aperto il flusso, con gli occhi chiusi, e ogni tanto diceva: questa no. Quella. Adesso.
+Balthier ci lavorava da un quarto d'ora. Aveva la giacca strappata su una spalla, le mani nere di grasso fino ai gomiti e un taglio sulla fronte che gli colava in un occhio. Aveva trovato, in un armadio, una cassa di pietre di ricambio di Draklor. Sfilava quelle spente e inseriva le nuove una a una, collegando i cavi a mano, nell'ordine scritto sul quadro nella calligrafia di suo padre. Fran, accanto a lui, teneva le mani su due grandi leve e teneva aperto il flusso, con gli occhi chiusi, e ogni tanto diceva: questa no. Quella. Adesso.
 
 ---
 
@@ -114,9 +114,9 @@ Poi si alzò, con Fran in braccio, e tornò al banco.
 
 ---
 
-Ci arrivò zoppicando. Mise Fran giù, appoggiata contro la base del banco, con la testa sul suo mantello. Prese l'ultima pietra di ricambio dalla cassa. Era l'ultima: le altre erano già al loro posto, collegate, con le spie che si accendevano a una a una. Questa andava nell'alloggiamento centrale, quello più grande, quello sotto cui la calligrafia di suo padre aveva scritto, sull'ottone, una sola parola: *cuore*.
+Ci arrivò zoppicando. Mise Fran giù, appoggiata contro la base del banco, poi si tolse la giacca e gliela ripiegò sotto la testa. Prese l'ultima pietra di ricambio dalla cassa. Era l'ultima: le altre erano già al loro posto, collegate, con le spie che si accendevano a una a una. Questa andava nell'alloggiamento centrale, quello più grande, quello sotto cui la calligrafia di suo padre aveva scritto, sull'ottone, una sola parola: *cuore*.
 
-Balthier infilò la pietra. Collegò i cavi. Spinse la leva.
+Balthier sfilò la pietra spenta dall'alloggiamento centrale e vi mise l'ultima di ricambio. Collegò i cavi. Spinse la leva.
 
 Per un istante non successe niente. Poi, da qualche parte molto sopra di loro, fuori, sui fianchi della fortezza, si sentì un rumore lungo e basso, come quello di una macina che riparte dopo un inverno fermo.
 
@@ -168,7 +168,7 @@ Sulla Strahl, Ashe non riusciva a staccare gli occhi dalla nube. Chiamò nel tub
 
 Nessuno parlò.
 
-Vaan teneva la barra. La nave volava dritta, sopra il deserto, verso la città. Non c'era niente su cui posarla, e niente che lui sapesse fare, a parte tenerla dritta. Pensò che Balthier avrebbe detto qualcosa di spiritoso, in quel momento. Cercò di pensare cosa. Non ci riuscì.
+Vaan teneva la barra. La nave volava dritta, sopra il deserto, verso la città. Non sapeva come posarla. Per adesso riusciva soltanto a tenerla dritta. Pensò che Balthier avrebbe detto qualcosa di spiritoso. Cercò di pensare cosa. Non ci riuscì.
 
 Pensò invece a una cosa che gli aveva detto lui, una volta, sulla cima di una scalinata in fondo al mondo, dietro una colonna, con il rumore della cataratta sotto: che il protagonista, verso la fine, deve sempre fare qualcosa di eroico, magari di sciocco. Lo aveva fatto. Adesso restava da vedere se il resto della regola valeva.
 

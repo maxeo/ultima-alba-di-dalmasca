@@ -6,9 +6,9 @@ Basch mise mano alla spada. Due armi gli si fermarono davanti al petto, altretta
 
 La flotta copriva il tratto di cielo sopra la gola. Le navi più piccole scendevano fra le pareti senza toccarle, facendo correre la sabbia verso il monumento. Più in alto l'ammiraglia occupava lo spazio dove Ashe ricordava di aver visto il sole. Vossler lasciò che un soldato gli prendesse la spada.
 
-Il capitano non guardò nessuno dei compagni.
+Vossler non guardò nessuno dei compagni.
 
-Furono disarmati sulla terrazza, legati a coppie e condotti fino a una navetta. Ashe tenne il Frammento d'Aurora contro il fianco. Un soldato fece per prenderglielo, ma l'ufficiale che guidava la squadra gli abbassò il braccio. La principessa notò il gesto. Notò anche che Vossler non aveva i polsi legati, e non riuscì a dargli subito il nome che meritava.
+Furono disarmati sulla terrazza. I soldati legarono loro i polsi davanti al corpo e li condussero a coppie fino a una navetta. Ashe tenne il Frammento d'Aurora contro il fianco. Un soldato fece per prenderglielo, ma l'ufficiale che guidava la squadra gli abbassò il braccio. La principessa notò il gesto. Notò anche che Vossler non aveva i polsi legati, e non riuscì a dargli subito il nome che meritava.
 
 Vaan lo guardò entrare per ultimo. Aprì la bocca, ma il rumore dei motori gli tolse la domanda. Il portello si chiuse. La navetta salì lungo la parete della valle e la tomba scomparve dietro il bordo del vetro.
 
@@ -28,7 +28,7 @@ Vossler non si voltò.
 
 Vossler girò la testa, finalmente, e guardò Vaan. Non c'era rabbia nella sua faccia, né vergogna. C'era una stanchezza così grande che Vaan, senza volerlo, chiuse la bocca.
 
-«Io non ho ucciso nessun re» disse Vossler. «Ne ho tenuta in vita una. È più difficile. Ci si sporca di più.»
+«Io non ho ucciso nessun re» disse Vossler. «Ho tenuto in vita una regina. È più difficile. Ci si sporca di più.»
 
 Poi tornò a guardare il portello, e per il resto del volo non disse più niente, e Ashe, legata sulla panca di fronte, non lo guardò una sola volta.
 
@@ -76,7 +76,7 @@ Ghis alzò un dito, invitandolo a finire. Non era una concessione generosa: avev
 
 «Non usarlo.»
 
-Il capitano inghiottì. «Il regno avrà una regina dalmasca. Il prezzo è la pietra.»
+Vossler inghiottì. «Il regno avrà una regina dalmasca. Il prezzo è la pietra.»
 
 Basch fece un passo e i soldati incrociarono le armi. «Hai negoziato la sua corona senza chiederle nulla.»
 
@@ -96,7 +96,7 @@ Il Giudice non lo guardò. Vossler sì. «Due anni» disse al pirata. «Due anni
 
 «E volete regalarle una cantina con le finestre.»
 
-Vossler mosse una mano. Basch si spostò quanto gli permisero le lance e si mise davanti al pirata. Il gesto lasciò il capitano interdetto più della battuta. Erano arrivati a difendere due lati della stessa stanza, e Vossler parve accorgersene soltanto vedendo il corpo dell'altro fra sé e Balthier.
+Vossler mosse una mano. Basch si spostò quanto gli permisero le lance e si mise davanti al pirata. Il gesto lasciò Vossler interdetto più della battuta. Erano arrivati a difendere due lati della stessa stanza, e Vossler parve accorgersene soltanto vedendo il corpo dell'altro fra sé e Balthier.
 
 Ashe guardò Ghis. «Chi garantisce l'accordo?»
 
@@ -108,7 +108,7 @@ Ashe guardò Ghis. «Chi garantisce l'accordo?»
 
 «Un padre no.»
 
-Ghis fece una pausa. Sulla plancia una penna continuava a scrivere al tavolo delle comunicazioni. Il resoconto di quel pomeriggio, a quanto risulta, finì negli archivi dell'Ottava Flotta insieme al resto della corrispondenza di bordo, e con il resto della corrispondenza di bordo andò perduto poche ore dopo; il che, considerato come andarono le cose, è forse la sola sentenza davvero imparziale che quella giornata abbia ricevuto. Un uomo compilava il resoconto della cattura mentre la catturata parlava; Ashe sentì il rumore della punta e avrebbe voluto spezzarla.
+Ghis fece una pausa. Sulla plancia una penna continuava a scrivere al tavolo delle comunicazioni. Un uomo compilava il resoconto della cattura mentre la catturata parlava; Ashe sentì il rumore della punta e avrebbe voluto spezzarla.
 
 «Non siamo qui per correggere i morti» disse il Giudice. «Stiamo offrendo qualcosa ai vivi.»
 
@@ -146,7 +146,7 @@ Balthier abbassò il mento. Il sangue rimase sopra il bordo della camicia. Fran 
 
 Vossler si era avvicinato alla principessa. «Altezza...»
 
-Lei ritirò la mano vuota e lo passò senza guardarlo. Fu il gesto più netto della trattativa, l'unica cosa che Ghis non avesse comprato.
+Lei ritirò la mano vuota e gli passò accanto senza guardarlo.
 
 ---
 
@@ -178,7 +178,7 @@ Ashe non rispose subito.
 
 «Non ci ha riportato.» Penelo lo disse senza amarezza, come si dice il prezzo del pane. «Nessuno dei due. Ma non era colpa sua. Era la guerra.» Guardò la schiena di Vossler, poi quella di Basch. «Questo qui ti ha riportata per due anni. E adesso ti porta via. Il capitano biondo ti ha portata via... cioè, non lui, la gente dice di sì. E adesso ti riporta.» Si morse il labbro. «Io non ci capisco niente. Ma Kel avrebbe saputo da che parte stare.»
 
-La principessa la guardò di lato. Era la prima volta che guardava Penelo davvero, la ragazza della Città Bassa con i codini disfatti e la mano fasciata e una scheggia di negalite in tasca, che le aveva insegnato a girare il pane sulla pietra.
+La principessa la guardò di lato. Penelo teneva i polsi scorticati lontani dal ventre, per non sfregarli contro la corda. Pochi giorni prima quelle mani le avevano mostrato come girare il pane sulla pietra.
 
 «Da quale?» chiese.
 

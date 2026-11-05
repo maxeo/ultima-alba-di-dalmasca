@@ -48,7 +48,7 @@ Ashe si voltò lentamente.
 
 «E lo hai avuto?»
 
-«Ho avuto un'Esper che voleva staccarmi la testa e una principessa che mi ha ringraziato. Il ringraziamento era sincero. Non ci si compra niente.»
+«Ho avuto un gigante di fuoco che voleva staccarmi la testa e una principessa che mi ha ringraziato. Il ringraziamento era sincero. Non ci si compra niente.»
 
 Vaan si sporse in avanti. «Ma non era tuo, il tesoro. Era della tomba.»
 
@@ -74,7 +74,7 @@ Balthier non gli rispose.
 
 «Ne hai una sola, mi pare. Quindi sì, voglio quella.»
 
-Basch si era alzato a metà. Fran, senza muoversi dalla sedia, gli posò due dita sull'avambraccio, e il cavaliere si fermò, e restò così, sospeso fra lo stare in piedi e lo stare seduto, con la faccia di chi ha ricevuto un ordine da una persona che non ha nessun diritto di darglielo e lo ha obbedito lo stesso.
+Basch si era alzato a metà. Fran, senza muoversi dalla sedia, gli posò due dita sull'avambraccio. Il cavaliere restò sospeso fra lo stare in piedi e lo stare seduto, con la faccia di chi ha ricevuto un ordine da una persona che non ha nessun diritto di darglielo e gli ha obbedito lo stesso.
 
 «Non è un gioiello» disse Ashe. La voce le si era abbassata. «Non vale niente. È oro di Dalmasca e argento di Nabradia, due fili, senza pietre. Un orafo di Archades non ti darebbe venti gil.»
 
@@ -160,7 +160,7 @@ Vaan aprì la bocca. La risposta pronta era quella, la nave, il cielo, l'uscire 
 
 «Hai bisogno di piedi diversi.»
 
-Uscirono. Penelo raccolse le focacce che erano rimaste, le avvolse nel panno e se le mise sotto il braccio, e disse a Vaan che lo aspettava fuori. Basch uscì per ultimo, dopo avere spento la lampada, e Vaan rimase solo nella stanza buia di Dalan, seduto al tavolo, davanti alla sedia vuota, con la domanda del pirata in mano come un sasso caldo.
+Uscirono. Penelo raccolse le focacce che erano rimaste, le avvolse nel panno e se le mise sotto il braccio, e disse a Vaan che lo aspettava fuori. Basch spense la lampada e la seguì. Vaan rimase solo nella stanza buia di Dalan, seduto al tavolo, davanti alla sedia vuota, con la domanda del pirata in mano come un sasso caldo.
 
 ---
 
@@ -174,7 +174,7 @@ Giza, sotto la pioggia, era un altro paese. Dove c'era stata erba secca c'era un
 
 Il primo giorno parlarono poco. Il secondo giorno parlarono di più, per non pensare al fango. Il terzo giorno Balthier smise di parlare dei suoi stivali, il che, secondo Fran, fu il vero segno che il viaggio era cominciato.
 
-C'era una cosa che i torrenti facevano, però, e fu Balthier ad accorgersene, perché di strade che non c'erano si intendeva. Dove l'acqua saliva, sommergeva i guadi, ma dove scendeva, scavando, apriva passaggi fra le rocce che la stagione secca teneva chiusi, crepe e gole che i pastori conoscevano e che sulle carte non stavano. Una di queste li portò fuori da Giza in due giorni invece di quattro, sotto una pioggia così fitta che non si vedeva la testa di chi camminava davanti, e quando ne uscirono il cielo si aprì, all'improvviso, su una pianura verde.
+C'era una cosa che i torrenti facevano, però, e fu Balthier ad accorgersene, perché di strade che non c'erano si intendeva. Dove l'acqua saliva, sommergeva i guadi, ma dove scendeva, scavando, apriva passaggi fra le rocce che la stagione secca teneva chiusi, crepe e gole che i pastori conoscevano e che sulle carte non stavano. Una di queste li portò fuori da Giza in tre giorni invece di quattro, sotto una pioggia così fitta che non si vedeva la testa di chi camminava davanti, e quando ne uscirono il cielo si aprì, all'improvviso, su una pianura verde.
 
 Era Ozmone. La terra saliva in onde lunghe e morbide, coperte d'erba alta fino alla vita, e il vento la pettinava tutta nella stessa direzione, così che la pianura sembrava muoversi verso sud e portarli con sé. Qua e là c'erano alberi isolati, enormi, con le radici che uscivano dal terreno come ginocchia di vecchi, e rocce grigie dalla forma di animali addormentati. In lontananza si muovevano branchi di qualcosa di grosso. Penelo chiese cosa fossero e Basch disse che era meglio non scoprirlo da vicino, e lo scoprirono da vicino il giorno dopo, e furono costretti a una mezza giornata di corsa e a una notte su un albero, e la cosa più notevole di quella notte fu che Balthier riuscì a dormire sul ramo più alto senza togliersi la giacca, con una mano sulla tasca del petto.
 

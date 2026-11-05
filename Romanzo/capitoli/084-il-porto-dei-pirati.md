@@ -2,7 +2,7 @@
 
 Sull'ammiraglia *Garland* la carta da lettere era finita da tre giorni, e il marchese di Bhujerba scriveva sul retro dei dispacci.
 
-Lo faceva con una certa soddisfazione, perché il retro dei dispacci era carta di Archadia, spessa e liscia, migliore di quella che si fabbricava a Bhujerba, e c'era una piccola giustizia nel rispondere all'Impero sull'Impero. Sedeva nella sala del consiglio di poppa, sotto una lampada a magilite che oscillava appena con il rollio, con gli occhiali sulla fronte e un'altra paia sul naso, perché a sessant'anni le cose vicine e le cose lontane richiedono strumenti diversi. Davanti a lui c'era un tavolo coperto di carte nautiche fermate agli angoli da quattro calamai, e sulle carte, con spilli dalla testa colorata, erano segnate le navi. Le sue erano spilli bianchi. Quelle di Archadia, spilli neri. Quelle di Rozarria, spilli rossi, e stavano tutte sul bordo occidentale della carta, ammucchiate, in attesa, come gente che fa la fila davanti a una porta che non si è ancora aperta.
+Lo faceva con una certa soddisfazione, perché il retro dei dispacci era carta di Archadia, spessa e liscia, migliore di quella che si fabbricava a Bhujerba, e c'era una piccola giustizia nel rispondere all'Impero sull'Impero. Sedeva nella sala del consiglio di poppa, sotto una lampada a magilite che oscillava appena con il rollio, con gli occhiali sulla fronte e un altro paio sul naso, perché a sessant'anni le cose vicine e le cose lontane richiedono strumenti diversi. Davanti a lui c'era un tavolo coperto di carte nautiche fermate agli angoli da quattro calamai, e sulle carte, con spilli dalla testa colorata, erano segnate le navi. Le sue erano spilli bianchi. Quelle di Archadia, spilli neri. Quelle di Rozarria, spilli rossi, e stavano tutte sul bordo occidentale della carta, ammucchiate, in attesa, come gente che fa la fila davanti a una porta che non si è ancora aperta.
 
 Gli spilli bianchi erano pochi. Ondore li contava ogni mattina, e ogni mattina il conto tornava, e ogni mattina gli sembrava che fossero meno.
 
@@ -24,7 +24,7 @@ Ondore si tolse gli occhiali dal naso e si rimise quelli della fronte, e guardò
 
 Il capitano non rispose. Ondore annuì, come se la risposta l'avesse data.
 
-«Diventa il campo su cui gli altri due combattono.» Prese la penna. «È quello che Dalmasca è stata per trent'anni, e che Raminas, che riposi in pace, ha evitato con la pazienza di un santo e la diplomazia di un mercante di tappeti. Io non ho la pazienza di Raminas. Ho cinquantadue navi.» Intinse la penna. «E un'unica lettera che mi abbia mai dato una risposta onesta, in tutta questa guerra, viene da un pirata.»
+«Diventa il campo su cui gli altri due combattono.» Prese la penna. «È quello che Dalmasca rischia di diventare, e che Raminas, che riposi in pace, ha evitato per trent'anni con la pazienza di un santo e la diplomazia di un mercante di tappeti. Io non ho la pazienza di Raminas. Ho cinquantadue navi.» Intinse la penna. «E l'unica lettera che mi abbia mai dato una risposta onesta, in tutta questa guerra, viene da un pirata.»
 
 Tirò fuori da sotto le carte nautiche un foglio diverso dagli altri. Era carta grossa, color crema, senza intestazione, piegata in quattro e poi spiegata tante volte che le pieghe erano diventate morbide come stoffa. La grafia era grande, diritta, antiquata. Ondore non la rilesse. La conosceva.
 
@@ -112,7 +112,7 @@ La casa di Reddas, sotto il faro, aveva le finestre aperte su tutta la baia, e d
 
 Raz portò la zuppa. Era di pesce, densa, piena di pepe, e la mangiarono in piedi attorno a un tavolo coperto da una carta di Ivalice fermata con quattro bicchieri, mentre Reddas parlava.
 
-Parlava della guerra. Della flotta di Ondore, che si addestrava nelle acque fra Bhujerba e il continente e che non era abbastanza grande. Di Rozarria, che aspettava sul bordo occidentale e che non avrebbe mosso una nave senza un'alleanza. Del Senato di Archades, sciolto con le lance due settimane prima, e di Vayne, che adesso non aveva più nessuno sopra di sé e nessuno accanto.
+Parlava della guerra. Della flotta di Ondore, che si addestrava nelle acque fra Bhujerba e il continente e che non era abbastanza grande. Di Rozarria, che aspettava sul bordo occidentale e che non avrebbe mosso una nave senza un'alleanza. Del Senato di Archades, sciolto con le lance due giorni prima, e di Vayne, che adesso non aveva più nessuno sopra di sé e nessuno accanto.
 
 «Il marchese spera ancora di costringerlo a trattare» disse. «Radunare abbastanza navi, abbastanza alleati, abbastanza minaccia, perché Vayne si sieda a un tavolo come questo e firmi.» Mise il dito sulla carta, su Archades. «È un buon piano. Per un uomo ragionevole.»
 
@@ -166,7 +166,7 @@ Nelle sue memorie, che il lettore attento ricorderà, il marchese scrisse di non
 
 Balthier aveva tirato fuori il fascicolo del Jagd Difohr e lo aveva posato sulla carta, sopra Archades, con il nastro nero ancora legato.
 
-«Allora c'è un'altra strada» disse. «Mio padre ha ancora il Frammento del Crepuscolo. Non l'ha dato a Vayne: se l'avesse dato a Vayne, a Draklor ci sarebbero stati soldati e non sirene. Lo tiene per sé. Per i suoi esperimenti.» Batté un dito sul fascicolo. «E sta andando a Giruvegan. Se lo raggiungiamo prima che consegni la pietra a qualcuno, la principessa la rompe con la sua spada, e Vayne perde la sua arma prima di averla usata.»
+«Allora c'è un'altra strada» disse. «Mio padre ha ancora il Frammento del Crepuscolo. Se conosco quell'uomo, non se ne separerà finché non avrà finito i suoi esperimenti.» Batté un dito sul fascicolo. «E sta andando a Giruvegan. Se lo raggiungiamo prima che consegni la pietra a qualcuno, la principessa la rompe con la sua spada, e Vayne perde la sua arma prima di averla usata.»
 
 «Giruvegan» disse Reddas. «Nel Jagd Difohr.»
 
@@ -207,7 +207,7 @@ Balthier chiuse gli occhi.
 
 «Verrai con noi?» chiese Ashe a Reddas.
 
-Reddas scosse la testa. «No, altezza. Io ho un'altra pista.» Toccò la camicia sul petto, dove qualcosa di rigido, carta piegata, faceva un rilievo. «A Draklor non ho trovato il dottore in tempo, ma ho trovato qualche foglio sulla sua scrivania prima che arrivaste. Parlano di un posto. Non so ancora quale, e non so ancora che cosa ci sia. Ma il dottore ci teneva abbastanza da nasconderlo sotto il resto.» Si strinse nelle spalle. «Voi seguite il padre. Io seguo le sue carte. Quando avrò capito qualcosa, ve lo farò sapere.»
+Reddas scosse la testa. «No, altezza. Io ho un'altra pista.» Toccò la camicia sul petto, dove qualcosa di rigido, carta piegata, faceva un rilievo. «A Draklor non ho fermato il dottore, ma ho trovato qualche foglio sulla sua scrivania prima che arrivaste. Parlano di un posto. Non so ancora quale, e non so ancora che cosa ci sia. Ma il dottore ci teneva abbastanza da nasconderlo sotto il resto.» Si strinse nelle spalle. «Voi seguite il padre. Io seguo le sue carte. Quando avrò capito qualcosa, ve lo farò sapere.»
 
 ---
 
@@ -259,7 +259,7 @@ Si voltò verso la porta, e uscì sul portico, e Ashe rimase sola nella stanza c
 
 ---
 
-Partirono all'alba. Al molo, a salutarli, c'erano soltanto i tre.
+Partirono all'alba. Al molo, a salutarli, c'erano soltanto i tre. Balthier affidò a Rikken un biglietto per Nono, a Rabanastre: portare la Strahl a Balfonheim e tenerla pronta.
 
 Elza non era contenta. Lo disse a Rikken in un sussurro che arrivò a tutti, mentre la compagnia caricava le provviste sulla barca che li avrebbe portati alla costa.
 

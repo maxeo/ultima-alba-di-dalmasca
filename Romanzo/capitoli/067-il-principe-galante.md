@@ -10,8 +10,6 @@ Lo disse con un tono che nessuno di loro gli aveva mai sentito, e che era una me
 
 Ci fu un silenzio di genere particolare. Basch si irrigidì. Penelo guardò Vaan, e Vaan guardò Penelo, e nessuno dei due sapeva esattamente cosa volesse dire la casa Margrace di Rozarria, ma tutti e due capirono dal modo in cui l'aveva detto Larsa che voleva dire molto.
 
-Rozarria. L'altro impero, quello d'occidente. Quello che a Rabanastre si nominava a voce normale, con una certa speranza, come un cugino ricco. Quello che, secondo Larsa, aspettava da trent'anni un pretesto per la guerra. E davanti a loro c'era un uomo di quella casa, appoggiato con grazia a una colonna del santuario più sacro di Ivalice, accanto a un principe di Archadia che lo aveva chiamato per nome.
-
 «Un rozarriano» disse Ashe.
 
 «Il migliore che abbiano» disse Al-Cid, con modestia.
@@ -26,7 +24,7 @@ Ashe ritirò la mano. Non lo fece in fretta; la ritirò con la stessa calma con 
 
 «Le due cose vanno spesso insieme. È il mio unico talento.»
 
-Larsa aveva arrossito fino alle orecchie. «Al-Cid, vi prego.»
+Larsa era arrossito fino alle orecchie. «Al-Cid, vi prego.»
 
 «Altezza, è una principessa. Non baciarle la mano sarebbe un incidente diplomatico. Rozarria ne ha già abbastanza.»
 
@@ -100,7 +98,7 @@ Rimasero così.
 
 Al-Cid si rimise gli occhiali. Non sorrise.
 
-«La versione ufficiale è arrivata ieri, con un corriere. Veleno. Il presidente del Senato, Gregoroth, è accusato. Ha confessato. Si è tolto la vita prima di essere interrogato.» Lo disse con la voce piatta di chi legge un dispaccio. «Il Senato è stato sciolto. Tutti i poteri sono passati a un solo uomo.»
+«La versione ufficiale è arrivata ieri, con un corriere. Veleno. Il presidente del Senato, Gregoroth, è accusato. Ha lasciato una confessione. Si è tolto la vita prima di essere interrogato.» Lo disse con la voce piatta di chi legge un dispaccio. «Il Senato è stato sciolto. Tutti i poteri sono passati a un solo uomo.»
 
 Nessuno chiese chi.
 
@@ -144,7 +142,7 @@ Ashe si voltò verso di lui.
 
 Lo disse senza esitare. Vaan, accanto a Penelo, si mosse appena.
 
-«Non un'altra pietra» disse Ashe. «Non voglio un'altra pietra. Ho visto cosa fanno le pietre. Ho visto una flotta in fiamme e una ragazza legata a una sedia di ferro. Voglio qualcosa che le spezzi.» Fece una pausa. «Voglio una forza che possa rompere il potere delle pietre stesse. Se esiste.»
+«Non un'altra pietra» disse Ashe. «Non voglio un'altra pietra. Ho visto cosa fanno le pietre. Ho visto una flotta in fiamme. Ho sentito Mjrn raccontare della sedia di ferro. Voglio qualcosa che le spezzi.» Fece una pausa. «Voglio una forza che possa rompere il potere delle pietre stesse. Se esiste.»
 
 Il silenzio che seguì fu diverso da tutti gli altri.
 

@@ -66,7 +66,7 @@ Fran non rispose subito. Le sue orecchie si piegarono all'indietro.
 
 «Non voi» disse alla fine. «Me.»
 
-Ci fu un silenzio. Vaan si guardò la mano, che formicolava ancora. Larsa fece mezzo passo indietro, d'istinto, come si fa quando ci si accorge di essere entrati in una stanza dove si sta litigando. Basch guardò Balthier. Balthier guardava Fran, e non diceva niente.
+Ci fu un silenzio. Vaan si guardò la mano, che formicolava ancora. Larsa fece mezzo passo indietro e abbassò gli occhi. Basch guardò Balthier. Balthier guardava Fran, e non diceva niente.
 
 «Te» disse Vaan. «Perché te?»
 
@@ -146,7 +146,7 @@ Balthier distolse lo sguardo. Guardò l'acqua, le foglie, la rana che non cantav
 
 ---
 
-Quando tornarono alla barriera, gli altri erano ancora lì. Vaan aveva smesso di indignarsi e si era seduto per terra con l'arco sulle ginocchia, a ripulire le frecce dal muschio. Penelo dava al chocobo dei semi che teneva in tasca. Larsa leggeva i segni su una pietra, o fingeva di leggerli. Basch era rimasto sulla sua radice, con la spada di traverso, e guardava la rete di luce azzurra come si guarda un nemico di cui si è capito che non si può combattere.
+Quando tornarono alla barriera, gli altri erano ancora lì. Vaan aveva smesso di indignarsi e si era seduto per terra con l'arco sulle ginocchia, a ripulire le frecce dal muschio. Penelo dava al chocobo dei semi che teneva in tasca. Larsa leggeva i segni su una pietra, o fingeva di leggerli. Basch era rimasto sulla sua radice, con la spada di traverso, e guardava la rete di luce azzurra senza più cercarvi un varco.
 
 Fran si fermò davanti a tutti. Aspettò che la guardassero.
 

@@ -4,7 +4,7 @@
 
 Al Borgo di Nalbina l'acqua si vendeva a bicchiere, e il prezzo era scritto su una tavola appesa al pozzo, con il sigillo del quartiermastro imperiale in basso a destra. Un bicchiere, un gil. Una brocca, sei. Un otre da viaggio, venti, e l'otre bisognava portarselo. Sotto, in caratteri più piccoli e in tre lingue, c'era scritto che chi attingeva senza pagare sarebbe stato punito secondo il regolamento della guarnigione, e qualcuno, con un coltello, aveva aggiunto in dalmasco che il pozzo l'avevano scavato i suoi nonni. Il quartiermastro non aveva fatto togliere l'aggiunta. Forse non sapeva leggere il dalmasco. Forse sapeva che l'acqua si vende meglio se chi la compra ha un posto dove sfogarsi.
 
-Penelo comprò quattro otri e ne pagò tre. Il quarto glielo regalò il Bangaa che stava al pozzo, dopo una trattativa in cui lei non alzò mai la voce e lui, alla fine, non capì bene come fosse successo. Ashe, che aveva assistito da due passi con la Spada dei Re avvolta in una coperta da sella sulla schiena, la guardò tornare con gli otri a tracolla.
+Penelo fece riempire quattro otri e ne pagò tre. L'acqua per il quarto gliela regalò il Bangaa che stava al pozzo, dopo una trattativa in cui lei non alzò mai la voce e lui, alla fine, non capì bene come fosse successo. Ashe, che aveva assistito da due passi con la Spada dei Re avvolta in una coperta da sella sulla schiena, la guardò tornare con gli otri a tracolla.
 
 «Come hai fatto?»
 
@@ -36,7 +36,7 @@ Vaan aprì la bocca per ridere, e poi non rise, perché si era voltato e aveva v
 
 Dal borgo la si vedeva tutta. Le mura di Nalbina salivano per tre ordini dalla roccia, gialle, spesse, rattoppate in più punti con pietra di un altro colore, e in cima sventolavano le insegne di Archadia, nere e oro, così grandi che a mezzogiorno facevano ombra sui tetti. Le torri d'angolo erano state rialzate dagli archadiani con una sopraelevazione in metallo e vetro, e brillavano. Il resto era rimasto com'era: pietra dalmasca, tagliata da gente che conosceva il deserto e costruiva muri per durare.
 
-Vaan ci era stato dentro. Ci era stato sotto, anzi, nelle segrete, con i ferri ai polsi e il pane nero e la paura, e da lì era uscito per una strada che nessuno sano di mente avrebbe scelto. Ma non era a quello che pensava. Pensava che da qualche parte, dentro quelle mura, Reks aveva preso il colpo che poi lo aveva tenuto due mesi a guardare il soffitto. Fino a quel momento Nalbina era stata per lui un nome. Il nome di un posto dove succedevano le cose brutte, come Nabudis, come la guerra. Adesso aveva delle mura, una porta, dei bastioni con le erbacce nelle fessure. Aveva una torre a sinistra con una finestra sola.
+Vaan ci era stato dentro. Ci era stato sotto, anzi, nelle segrete, con i ferri ai polsi e il pane nero e la paura, e da lì era uscito per una strada che nessuno sano di mente avrebbe scelto. Ma non era a quello che pensava. Pensava che da qualche parte, dentro quelle mura, Reks aveva preso il colpo che poi lo aveva tenuto due mesi a guardare il soffitto. Cercava il posto fra quelle mura, sopra la porta, dietro i bastioni con le erbacce nelle fessure. C'era una torre a sinistra con una finestra sola.
 
 Basch gli si mise accanto. Non disse niente per un po'. Poi, senza che Vaan avesse chiesto, alzò la mano e indicò.
 
@@ -52,7 +52,7 @@ Basch gli si mise accanto. Non disse niente per un po'. Poi, senza che Vaan aves
 
 Vaan guardò la finestra. Avrebbe voluto chiedere altre cose, che faccia avesse fatto Reks, se avesse avuto paura, se avesse capito chi era l'uomo con l'armatura di Basch che entrava da quella porta, e capì che non le avrebbe chieste, non quel giorno, forse mai, e che Basch lo sapeva e per questo era rimasto lì accanto a lui senza andarsene. Rimasero così finché da dietro Penelo chiamò che la locanda dava da mangiare solo fino al tramonto e che lei non avrebbe aspettato nessuno.
 
-Ashe, la fortezza, non la guardò. Lo notò soltanto Fran, che notava tutto. La principessa passò tutto il pomeriggio voltata dall'altra parte, verso il borgo e le tende e il pozzo, e a cena si sedette dando le spalle alla finestra della locanda, da cui si vedevano i bastioni. Rasler era morto sotto quei bastioni, su un campo che adesso era un mercato di cammelli. Suo padre era morto dietro la finestra sola. Ashe mangiò lenticchie e pane, chiese il sale, pagò la sua parte con le monete contate, e quando il padrone con un braccio solo le chiese se veniva da lontano, rispose che veniva da Rabanastre, ed era la verità.
+Ashe, la fortezza, non la guardò. Lo notò soltanto Fran, che notava tutto. La principessa passò tutto il pomeriggio voltata dall'altra parte, verso il borgo e le tende e il pozzo, e a cena si sedette dando le spalle alla finestra della locanda, da cui si vedevano i bastioni. Rasler era morto dentro quei bastioni, oltre una porta che da lì non si vedeva. Suo padre era morto dietro la finestra sola. Ashe mangiò lenticchie e pane, chiese il sale, pagò la sua parte con le monete contate, e quando il padrone con un braccio solo le chiese se veniva da lontano, rispose che veniva da Rabanastre, ed era la verità.
 
 ---
 
@@ -78,9 +78,9 @@ Ashe aveva ascoltato con le braccia incrociate. «Quanti giorni?»
 
 «Allora siamo salvi.» Balthier si alzò. «Partiamo all'alba. Dormite. Io vado a comprarmi degli stivali.»
 
-«Hai degli stivali» disse Penelo.
+«Hai degli stivali» disse Penelo, indicando quelli foderati di pelo legati alla sacca.
 
-«Ho degli stivali da ponte. Sono fatti per camminare su un pavimento di legno, avanti e indietro, con l'aria di chi comanda. Non sono fatti per le montagne.» Guardò i suoi stivali con affetto e un po' di tristezza. «Non lo sanno ancora. Preferisco che non lo sappiano.»
+«Per la neve. E questi sono stivali da ponte. Sono fatti per camminare su un pavimento di legno, avanti e indietro, con l'aria di chi comanda. Non sono fatti per le montagne.» Guardò i suoi stivali con affetto e un po' di tristezza. «Non lo sanno ancora. Preferisco che non lo sappiano.»
 
 Uscì. Fran rimase. Dopo un po', siccome nessuno parlava, disse:
 

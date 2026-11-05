@@ -86,7 +86,7 @@ Era grande quanto un uovo di gallina, piatta da un lato, e aveva la forma di una
 
 Vaan era già in piedi. «Vado domani.»
 
-«Vai stasera, se vuoi arrivare prima della grande cena. I nomadi si spostano con la stagione, e la stagione sta finendo.» Dalan si rimise a sedere, con gli stessi lamenti di prima, al contrario. «Le pianure non sono il deserto, ragazzo. Sono più belle e più cattive. L'erba è alta e dentro l'erba ci sono cose che non si vedono finché non ti si vedono loro. Le iene camminano in branco, e le cockatrici dei nomadi sono stupide ma beccano. Stai attento.»
+«Vai stasera, se vuoi arrivare prima della grande cena. I nomadi si spostano con la stagione, e la stagione sta finendo.» Dalan si rimise a sedere, con gli stessi lamenti di prima, al contrario. «Le pianure non sono il deserto, ragazzo. Sono più belle e più cattive. L'erba è alta e dentro l'erba ci sono cose che non si vedono finché non ti vedono loro. Le iene camminano in branco, e le cockatrici dei nomadi sono stupide ma beccano. Stai attento.»
 
 «Starò attento.»
 
@@ -96,9 +96,9 @@ Vaan era già in piedi. «Vado domani.»
 
 Dalan alzò le spalle. «A nessuno. Per questo è meglio dirlo.»
 
-Vaan si fermò sulla soglia, con una mano sulla tenda di perline. C'era qualcosa, in quella stanza, che non tornava, e lui sentiva che non tornava senza riuscire a dire che cosa: la tazza calda, la sedia tiepida, l'odore di cuoio e di spada, il vecchio che sapeva dei tetti e dei topi e dei pomodori e che adesso gli diceva cosa rispondere se qualcuno gli faceva domande. Per un attimo pensò di chiedere. Poi pensò all'aeronave, e alle sei finestre buie sotto le cupole, e la domanda gli scappò via come il topo furbo nello scolo.
+Vaan si fermò sulla soglia, con una mano sulla tenda di perline. Guardò ancora la tazza che Dalan aveva svuotato al suo arrivo.
 
-«Perché mi aiuti?» chiese invece.
+«Perché mi aiuti?» chiese.
 
 Dalan sorrise. Fu un sorriso strano, che non gli arrivò agli occhi, o che ci arrivò e ne tornò subito indietro.
 
@@ -118,7 +118,7 @@ Erano dorate. Questa fu la prima cosa, e per un po' fu l'unica: un mare d'erba a
 
 Vaan non ne aveva mai visti. Ne aveva sentito parlare, come si sente parlare del mare: cose che esistono altrove, per altri. Erano neri. Erano alti come case, alcuni come torri, e uscivano dalla terra storti, a fasci, con le facce lisce e i bordi taglienti, come se qualcosa di enorme sotto la pianura avesse cercato di uscire e si fosse fermato a metà. Il sole batteva su di loro e loro non lo riflettevano. Lo bevevano. Si vedeva: dentro il nero, a guardare bene, c'era un movimento, una luce dorata che saliva piano, come il miele in un vaso che si scalda.
 
-Poco più sotto, sulla riva del fiume, c'erano le tende. Erano basse, di feltro e di pelle, tese su pali che si potevano smontare in un'ora, e fra le tende si muovevano figure piccole, persone, animali, un filo di fumo. Nessuna bandiera. Nessuna mura. Nessun soldato.
+Poco più sotto, sulla riva del fiume, c'erano le tende. Erano basse, di feltro e di pelle, tese su pali che si potevano smontare in un'ora, e fra le tende si muovevano figure piccole, persone, animali, un filo di fumo. Non c'erano mura né bandiere; Vaan cercò le sentinelle e non ne trovò.
 
 Vaan si fermò sul crinale più del necessario. Gli era venuta una sensazione che non sapeva nominare, e che era la stessa che aveva avuto guardando l'aeronave sopra la piazza, ma rovesciata: non il desiderio di essere altrove, ma la scoperta che l'altrove esisteva, che era lì, a una notte di cammino dalla Porta Sud, e che ci viveva gente che non chiedeva il permesso a nessuno per spostare la propria casa.
 

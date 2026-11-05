@@ -82,7 +82,7 @@ Vaan scavalcò le gambe di Penelo e arrivò fra i due sedili di guida. Fran, sen
 
 «Io?»
 
-«Vedo un solo ragazzo in questa cabina che mi ha chiesto due volte al giorno per un anno di toccare questa barra. Se non sei tu, è uno che ti somiglia molto.» Balthier tenne l'altra mano sulla manetta. «Prendi. Io tengo il resto. Tu tieni lei.»
+«Vedo un solo ragazzo in questa cabina che da mesi mi chiede due volte al giorno di toccare questa barra. Se non sei tu, è uno che ti somiglia molto.» Balthier tenne l'altra mano sulla manetta. «Prendi. Io tengo il resto. Tu tieni lei.»
 
 Vaan mise le mani sulla barra. Era calda dove era stata la mano di Balthier, fredda dall'altra parte, e vibrava. Lo sapeva che vibrava, lo aveva visto da dietro mille volte, ma sentirla vibrare sotto i palmi era un'altra cosa: era come tenere il collo di un animale grosso che respira.
 
@@ -190,7 +190,7 @@ Balthier lo guardò un momento di più. Poi annuì, come se Vaan avesse superato
 
 «Ecco» disse. «Questa è la risposta giusta. Adesso dimenticala.»
 
-Si voltò e prese la scalinata, due gradini alla volta, con il mantello che non aveva più perché lo aveva lasciato a un moguri. Vaan restò dietro la colonna ancora un poco, con la mano sulla pietra fredda, a guardare il Faro e il fumo della cataratta che saliva e la cima che non si vedeva.
+Si voltò e prese la scalinata, due gradini alla volta, senza il mantello che aveva lasciato al moguri. Vaan restò dietro la colonna ancora un poco, con la mano sulla pietra fredda, a guardare il Faro e il fumo della cataratta che saliva e la cima che non si vedeva.
 
 Molto più in alto, a metà della scalinata, Fran si era fermata ad aspettare. Quando Balthier la raggiunse, lei non si voltò.
 

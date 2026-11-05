@@ -74,7 +74,7 @@ Supinelu la ascoltò fino in fondo.
 
 «Puoi provarlo?» chiese.
 
-La domanda era semplice e posta senza ostilità. Ashe aprì la bocca per rispondere e la risposta non venne. Vaan la vide cercare, e vide il momento esatto in cui si rese conto di cosa stava cercando. Due anni prima avrebbe avuto un anello con il sigillo del regno, le carte, un esercito alle spalle, un padre. Quattro giorni prima avrebbe avuto una pietra che brillava. Adesso aveva un frammento spento avvolto in un pezzo di mantello, e la mano sinistra le andò d'istinto all'anulare, e l'anulare era nudo.
+La domanda era semplice e posta senza ostilità. Ashe aprì la bocca per rispondere e la risposta non venne. Vaan la vide cercare, e vide il momento esatto in cui si rese conto di cosa stava cercando. Due anni prima avrebbe avuto un sigillo, le carte, un esercito alle spalle, un padre. Prima della caduta della flotta avrebbe avuto una pietra che brillava. Adesso aveva un frammento spento avvolto in un pezzo di mantello; la mano sinistra le andò d'istinto all'anulare, e l'anulare era nudo.
 
 «No» disse. «Non posso.»
 
@@ -128,7 +128,7 @@ Ashe restò in ginocchio. Vaan, che le stava dietro, vide che teneva la schiena 
 
 «Non c'è un modo» disse lei.
 
-«Io non ne conosco. Mi vergogno di dirlo alla figlia di quel re. Ma è la verità.» Uball-ka sollevò il frammento verso la luce grigia del cielo. «E c'è un'altra cosa, figlia di Raithwall, e questa la so. Anche se sapessi usarla, adesso non potresti. È vuota. Quello che ha raccolto in settecento anni lo ha speso in una notte, sopra il deserto. Se la lasci dormire, forse fra tanti anni si riempirà ancora. Molti anni. Più di quanti ne avrai tu, e più di quanti ne avranno i tuoi figli.»
+«Io non ne conosco. Mi vergogno di dirlo alla figlia di quel re. Ma è la verità.» Uball-ka sollevò il frammento verso la luce grigia del cielo. «E c'è un'altra cosa, figlia di Raithwall, e questa la so. Anche se sapessi usarla, adesso non potresti. È vuota. Quello che ha raccolto in settecento anni lo ha speso in una volta, sopra il deserto. Se la lasci dormire, forse fra tanti anni si riempirà ancora. Molti anni. Più di quanti ne avrai tu, e più di quanti ne avranno i tuoi figli.»
 
 Le restituì la pietra. Ashe la prese con le due mani.
 

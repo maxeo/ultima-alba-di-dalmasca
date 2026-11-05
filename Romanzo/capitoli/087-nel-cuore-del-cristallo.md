@@ -74,7 +74,11 @@ Fu quello che la salvò, forse. Mentre gli altri si fermavano, ciascuno inchioda
 
 La donna si voltò verso di lei. Il sussurro si interruppe per tutti.
 
-Fu abbastanza. Vaan si riscosse, e Basch, e gli altri, e quello che seguì fu breve e duro e nessuno di loro lo raccontò mai bene. La donna di luce cambiava. A ogni colpo che riceveva, i veli diventavano di un altro colore, verde, poi azzurro, poi rosso, e la magia che Penelo le lanciava contro una volta la feriva e la volta dopo la nutriva. Il sussurro tornava a ondate, e ogni ondata toglieva la voce a qualcuno: Penelo aprì la bocca per un incantesimo e non ne uscì niente. Balthier smise di sparare e cominciò a contare, ad alta voce, i colori dei veli. Fran capì l'ordine dei colori. Basch tenne la donna ferma contro la parete con il corpo e con la spada, mentre il sussurro gli ripeteva *fratello* nella sua stessa voce, e non lasciò.
+Vaan si riscosse. Basch raggiunse la donna e la spinse contro la parete con la spada di traverso. I veli verdi si fecero azzurri, poi rossi; Penelo le lanciò contro la stessa magia due volte, e la seconda la luce della donna crebbe, bevendola. Penelo aprì la bocca per avvertire gli altri. Non ne uscì niente: il sussurro le aveva preso la voce.
+
+«Verde, azzurro, rosso» disse Balthier. Aveva smesso di sparare e seguiva i veli con la canna. «Verde, azzurro...»
+
+«Adesso» disse Fran a Penelo, quando tornò il rosso. Penelo riuscì a pronunciare l'incantesimo; questa volta i veli si lacerarono. Basch premette sulla spada, con il sussurro che gli ripeteva *fratello* all'orecchio. Il filo gli tremava contro la luce. Tenne.
 
 Fu Vaan, alla fine. Le arrivò sotto, dove la maschera senza occhi non guardava, e la colpì con tutte e due le mani.
 
@@ -84,7 +88,7 @@ La donna si piegò. I veli si spensero, uno dopo l'altro. Il sussurro si allonta
 
 Si sedettero per terra. Tutti. Anche Basch, che non si sedeva mai.
 
-Nessuno chiese agli altri che cosa avesse sentito. Penelo piangeva senza rumore, con il bastone sulle ginocchia, e Vaan le si sedette accanto e le diede la spalla. Lei ci appoggiò la fronte. Balthier aveva tirato fuori il foglio strappato della mappa e lo stava piegando e ripiegando in quadrati sempre più piccoli. Fran aveva gli occhi chiusi.
+Per un po' nessuno parlò. Penelo piangeva senza rumore, con il bastone sulle ginocchia, e Vaan le si sedette accanto e le diede la spalla. Lei ci appoggiò la fronte. Balthier aveva tirato fuori il foglio strappato della mappa e lo stava piegando e ripiegando in quadrati sempre più piccoli. Fran aveva gli occhi chiusi.
 
 Basch fissava il punto della parete dove aveva tenuto ferma la donna di luce. Aveva la mascella serrata.
 

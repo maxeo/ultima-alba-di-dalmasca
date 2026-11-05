@@ -66,7 +66,7 @@ Vaan lo fissò.
 
 «Due ore. Vi avevo detto un'ora. Vi siete fermati a guardare i giardini pensili? Lo capirei, sono notevoli.»
 
-«Gli attestati!» La voce di Vaan rimbalzò fra i muri, e Basch gli mise una mano sulla spalla, e Vaan la abbassò, ma non di molto. «Abbiamo passato due ore a fare le commissioni per mezza città. Vedove, cani, orecchini, due vecchi con le basette che non si parlano da undici anni. Per i pini. Dodici pini e una quercia per salire sulla navetta. Sennò era un milione.»
+«Gli attestati!» La voce di Vaan rimbalzò fra i muri, e Basch gli mise una mano sulla spalla, e Vaan la abbassò, ma non di molto. «Abbiamo passato due ore a fare le commissioni per mezza città. Vedove, cani, orecchini, due vecchi con le basette che non si parlano da undici anni. Per i pini. Sette pini e una quercia per salire sulla navetta. Sennò era un milione.»
 
 Balthier lo guardò con sincero stupore.
 
@@ -92,7 +92,7 @@ Non era pentito. Non fece nemmeno lo sforzo di sembrarlo. Venne avanti con le su
 
 «Hai tenuto i miei attestati» disse Balthier.
 
-«Li ho custoditi.» Jules si rimise il cappello. «Il tuo giovane amico doveva imparare come funziona la città. Ha imparato. Ti assicuro che nessuno impara Archades come chi si è guadagnato dodici pini da solo.» Guardò Vaan con simpatia. «E i tuoi due pini in più, ragazzo, li considero il saldo dei duemilacinquecento gil. Siamo pari.»
+«Li ho custoditi.» Jules si rimise il cappello. «Il tuo giovane amico doveva imparare come funziona la città. Ha imparato. Ti assicuro che nessuno impara Archades come chi si è guadagnato un passaggio da solo.» Guardò Vaan con simpatia. «E i pini che ho trattenuto, ragazzo, li considero il saldo dei duemilacinquecento gil. Siamo pari.»
 
 «Siamo pari» ripeté Vaan, senza credere alle sue orecchie.
 

@@ -8,7 +8,7 @@ Balthier osservò la lastra. «Se siamo graditi, immagino di sì.»
 
 Vossler si mise davanti ad Ashe. Basch aspettò che passassero gli altri, contando nel buio il rumore dei passi. Erano ancora sette. La tomba li aveva spostati interi, con le armi e le sacche; non aveva lasciato a Vaan nemmeno il tempo di sentire paura. Cominciò a sentirla ora, guardando la pietra oltre il primo arco.
 
-La galleria era lunga, fiancheggiata da bracieri senza fuoco. Sulla parete di fondo una figura scolpita mostrava denti e mani, entrambe troppo grandi rispetto al volto. Vaan vi passò davanti senza fermarsi. Fece altri sei passi, poi si girò perché il rumore alle spalle non era più quello del capitano.
+La galleria era lunga, fiancheggiata da bracieri senza fuoco. Sulla parete di fondo una figura scolpita mostrava denti e mani, entrambi troppo grandi rispetto al volto. Vaan vi passò davanti senza fermarsi. Fece altri sei passi, poi si girò perché il rumore alle spalle non era più quello dei passi di Basch.
 
 Le mani di pietra si erano spostate. Il volto veniva avanti.
 
@@ -16,7 +16,7 @@ Basch gridò di correre. La parete strisciò sul pavimento e le figure ai lati s
 
 «Aiutami» disse a Basch.
 
-Il capitano arrivò accanto a lui. Balthier si mise di traverso per lasciare passare Penelo; Fran fece scattare qualcosa sopra il battente. L'anta si mosse e tutti finirono dall'altra parte, uno addosso all'altro. Vossler ritirò la spada un istante prima che la parete urtasse lo stipite. La porta si richiuse con un colpo che fece tremare la polvere sui loro capelli.
+Basch arrivò accanto a lui. Balthier si mise di traverso per lasciare passare Penelo; Fran fece scattare qualcosa sopra il battente. L'anta si mosse e tutti finirono dall'altra parte, uno addosso all'altro. Vossler ritirò la spada un istante prima che la parete urtasse lo stipite. La porta si richiuse con un colpo che fece tremare la polvere sui loro capelli.
 
 «Questa» disse Balthier, piegato con le mani sulle ginocchia «è una forma molto decisa di disapprovazione.»
 
@@ -48,7 +48,7 @@ Vossler raggiunse la principessa e la sollevò per un braccio. «Non fatelo più
 
 Ashe si liberò. Aveva un segno rosso sul palmo. «Apri la porta.»
 
-Il capitano la guardò, poi rimise via la spada e fece ciò che gli aveva chiesto. Basch offrì una mano a Vaan. Il ragazzo la prese e si rialzò con una smorfia.
+Vossler la guardò, poi rimise via la spada e fece ciò che gli aveva chiesto. Basch offrì una mano a Vaan. Il ragazzo la prese e si rialzò con una smorfia.
 
 «La prossima volta» disse «mi metto dall'altra parte.»
 
@@ -82,7 +82,7 @@ Balthier si fermò davanti a un incavo nella parete. Ne osservò il bordo, poi i
 
 «Lo ha reso molto chiaro.»
 
-Il capitano gli mise un braccio davanti. «Lascia stare.»
+Vossler gli mise un braccio davanti. «Lascia stare.»
 
 Balthier si voltò verso Ashe. Non protestò: lasciò che fosse lei a vedere il braccio e la distanza che Vossler aveva scelto. La principessa tornò indietro di qualche passo.
 
@@ -96,7 +96,7 @@ Balthier si voltò verso Ashe. Non protestò: lasciò che fosse lei a vedere il 
 
 «Con cosa, Vossler?»
 
-Il capitano non rispose. Balthier si scostò dalla nicchia; non aveva trovato nulla da prendere, ma si guardò bene dal dirlo. Ashe gli lasciò spazio. Vossler abbassò finalmente il braccio.
+Vossler non rispose. Balthier si scostò dalla nicchia; non aveva trovato nulla da prendere, ma si guardò bene dal dirlo. Ashe gli lasciò spazio. Vossler abbassò finalmente il braccio.
 
 «Se vogliamo continuare da soli, possiamo» disse lei. «Puoi portarmi fuori dal Jagd? Puoi darmi una nave? Puoi farmi arrivare dal Gran Kiltias senza che Ghis mi riprenda?»
 
@@ -106,7 +106,7 @@ La risposta era sincera, e per questo Ashe dovette aspettare prima di parlare. �
 
 Vossler la guardò. Si era abituato a difenderla decidendo a chi fosse lecito avvicinarsi; due anni di cantine avevano fatto di quella scelta quasi tutta la sua autorità. Dietro di lei stavano un pirata, una viera e due ragazzi, con la polvere della strada ancora addosso. Basch non prese la parola a suo favore. Aspettò che fosse lui a spostarsi.
 
-Il capitano lo fece. Ashe tornò a guardare il passaggio in fondo alla sala, dove due scale scendevano in direzioni opposte. Non aprì la carta. L'astuccio degli Ondore non serviva più.
+Vossler si spostò. Ashe tornò a guardare il passaggio in fondo alla sala, dove due scale scendevano in direzioni opposte. Non aprì la carta. L'astuccio degli Ondore non serviva più.
 
 «Da lì» disse.
 
@@ -166,7 +166,7 @@ Lo scontro durò quanto bastò a bruciare una sacca e il bordo del mantello di V
 
 Ashe arrivò davanti al Gigas quando il corpo di fuoco stava già cedendo. Colpì il punto scuro sotto il petto, là dove le fiamme si raccoglievano anziché uscire. Belias piegò il capo. Il fuoco smise di spingerli indietro e cominciò a ritirarsi, attraversando la sala in strisce rosse. Per un istante la principessa ne fu circondata.
 
-Basch fece per raggiungerla. Fran gli mise una mano sul braccio. Il capitano si fermò soltanto quando vide che Ashe era ancora in piedi.
+Basch fece per raggiungerla. Fran gli mise una mano sul braccio. Basch si fermò soltanto quando vide che Ashe era ancora in piedi.
 
 La figura si dissolse alle sue spalle. Non lasciò un corpo, ma un calore preciso sopra la nuca e una parola che lei sapeva di poter pronunciare. Ashe si voltò. Il Gigas non c'era più. Quando pensò al suo nome, il calore rispose.
 
@@ -206,6 +206,6 @@ Ashe era già alla porta successiva. Oltre c'era un'altra scala e, più in basso
 
 Discesero. Il congegno li portò nell'ultima camera, una sala stretta sopra cui la pietra si apriva in una luce senza finestra. Sul piedistallo, al centro, riposava un frammento pallido. Vossler si fermò accanto ad Ashe, Basch un passo più indietro.
 
-«Altezza» disse il primo. «Prendetelo e andiamo.»
+«Altezza» disse Vossler. «Prendetelo e andiamo.»
 
 La principessa lo sentì da molto lontano. Fece un passo verso il piedistallo e vide la pietra cominciare a risplendere.

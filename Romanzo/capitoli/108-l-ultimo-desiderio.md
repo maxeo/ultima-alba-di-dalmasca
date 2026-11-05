@@ -8,7 +8,7 @@ Gli anelli rallentavano. Dalla cima della torre lo si vedeva bene: i grandi cerc
 
 «Abbastanza.» Si girò verso la passerella. «Giù. Tutti. Alla nave.»
 
-Scesero di corsa, nel vento, lungo la passerella senza parapetto, e la passerella tremava sotto di loro e a un certo punto perse un pezzo, dietro le spalle di Penelo, che si staccò e cadde girando verso il deserto. Penelo non si voltò. Rientrarono nella sala di comando dalla vetrata spaccata.
+Scesero di corsa, nel vento, lungo la passerella senza parapetto. Il metallo tremava sotto di loro; appena dietro Penelo un tratto si staccò e cadde girando verso il deserto. Lei non si voltò. Rientrarono nella sala di comando dalla vetrata spaccata.
 
 Larsa era dove l'avevano lasciato. Era seduto per terra, ai piedi del trono vuoto, e teneva sulle ginocchia la testa di Gabranth.
 
@@ -108,9 +108,7 @@ Poi se ne andò.
 
 Vaan si sedette. Non decise di farlo. Si trovò seduto, con le mani sulla barra, e la barra era fredda e non vibrava. Accanto a lui Penelo guardava lo strumento rotondo. Dal vetro si vedevano Balthier e Fran attraversare la piattaforma di corsa nel fumo, arrivare al pilone, aprire una grata, sparire dentro.
 
-Dietro di lui, sul pavimento della cabina, Gabranth aprì gli occhi.
-
-Lo aprì, l'occhio, quello che l'elmo spaccato lasciava scoperto, e cercò qualcosa nella penombra della cabina, girando appena la testa. Trovò Larsa. Lo guardò. Poi trovò Basch, inginocchiato dall'altra parte, e lo guardò più a lungo.
+Dietro di lui, sul pavimento della cabina, Gabranth aprì l'occhio che l'elmo spaccato lasciava scoperto. Cercò qualcosa nella penombra, girando appena la testa. Trovò Larsa. Lo guardò. Poi trovò Basch, inginocchiato dall'altra parte, e lo guardò più a lungo.
 
 «Basch.»
 
@@ -230,4 +228,4 @@ Basch lo lasciò fare. Poi gli posò una mano sulla spalla. Larsa non si voltò.
 
 «Altezza» disse Basch.
 
-Era la prima volta che chiamava così il principe di Archadia. Larsa capì cosa voleva dire, e continuò a pulire.
+Larsa alzò gli occhi su di lui, poi continuò a pulire.

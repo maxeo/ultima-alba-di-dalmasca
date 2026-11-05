@@ -28,13 +28,13 @@ Fu Fran a fermarli. Non disse niente; alzò un braccio, di colpo, e tutti si blo
 
 Balthier li spinse dietro un carrello di minerale abbandonato su un binario morto, contro il muro, nel punto in cui la parete faceva una rientranza e il cristallo era spento. Ci stavano in cinque solo se nessuno respirava. Vaan si trovò con il gomito di Basch nelle costole e i capelli di Lamont sotto il naso, e i capelli di Lamont sapevano di sapone buono, e la cosa per qualche motivo lo irritò.
 
-Dalla galleria laterale uscirono quattro persone.
+Dalla galleria laterale uscirono sei persone.
 
 ---
 
 Il primo era un Giudice Magister. Vaan riconobbe la forma prima ancora dell'uomo: l'armatura alta e lavorata, le spalle larghe, l'elmo chiuso con le sue linee di metallo che salivano come fiamme. Ma non era quello di Nalbina. L'elmo era diverso, più stretto e più alto, con due corna che si piegavano all'indietro, e l'armatura era più leggera, d'oro, bianco e rosso, e l'uomo dentro era più magro e camminava con un passo più lungo, quasi ballato, con le mani intrecciate dietro la schiena come un ospite che passeggia nel giardino di un altro. Due soldati lo seguivano a distanza.
 
-Accanto a lui camminava un vecchio. Era alto e magro, con i capelli bianchi e un volto scavato che lo faceva sembrare più vecchio dei suoi anni, e portava un lungo soprabito giallo zafferano con il colletto alto ricamato d'oro. Era alto, ma non imponente: la magrezza gli toglieva peso. Camminava con una lentezza che poteva essere età o calcolo, e teneva le mani nelle maniche. Lo seguivano due servitori in livrea, carichi di registri.
+Accanto a lui camminava un vecchio. Era alto e magro, con i capelli bianchi e un volto scavato che lo faceva sembrare più vecchio dei suoi anni, e portava un lungo soprabito giallo zafferano con il colletto alto ricamato d'oro. Camminava con una lentezza che poteva essere età o calcolo, e teneva le mani nelle maniche. Lo seguivano due servitori in livrea, carichi di registri.
 
 «Un viaggio istruttivo, marchese» stava dicendo il Giudice. Aveva una voce piacevole, perfino calda, con quella cadenza un po' strascicata che i nobili di Archades usano per far capire che non hanno fretta. «Le vostre gallerie sono uno spettacolo. Si capisce perché le teniate così care. Io stesso, se fossi nato quassù, credo che non dormirei la notte all'idea che qualcuno me le portasse via.»
 

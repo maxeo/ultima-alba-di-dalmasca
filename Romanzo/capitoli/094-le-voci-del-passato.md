@@ -80,9 +80,9 @@ Basch, due gradini più su, alzò la testa. Fu l'unico movimento in tutto il pia
 
 Ripresero a salire. Sul tratto successivo nessuno parlò, e Vaan ebbe il tempo di pensare a molte cose, e le pensò male, nel disordine in cui si pensa salendo.
 
-Pensò che ognuno di loro, su quella scala, si portava dietro qualcuno. Lui Reks. Penelo i suoi due fratelli, uno dei quali, adesso lo sapeva, aveva un dente storto. Ashe un marito e un padre. Basch tutto un esercito, forse, e un fratello con la sua stessa voce che portava l'elmo dalla parte sbagliata. Balthier un padre che era vivo, il che, a guardare la faccia di Balthier quando ne parlava, era la cosa peggiore di tutte. Fran un bosco intero, e una sorella che le aveva detto di non tornare. Reddas una città. Erano sette, e dietro di loro, su quella scala, salivano in silenzio molte più persone di sette.
+Pensò che ognuno di loro, su quella scala, si portava dietro qualcuno. Lui Reks. Penelo i suoi due fratelli, uno dei quali, adesso lo sapeva, aveva un dente storto. Ashe un marito e un padre. Basch tutto un esercito, forse, e un fratello con la sua stessa voce che portava l'elmo dalla parte sbagliata. Balthier un padre che era vivo, il che, a guardare la faccia di Balthier quando ne parlava, era la cosa peggiore di tutte. Fran un bosco intero, e una sorella che le aveva detto di non tornare. Reddas qualcuno di cui non diceva il nome. Erano sette, e dietro di loro, su quella scala, salivano in silenzio molte più persone di sette.
 
-Pensò anche, senza volerlo, a un letto. A un cucchiaio. Non riuscì a ricordare la faccia di Reks quel giorno, l'ultima, e se ne spaventò; poi gli tornò un'altra faccia di Reks, più vecchia, di una sera di mercato, con un fiore bianco schiacciato in mano e un'aria colpevole, e la tenne quella.
+Pensò anche, senza volerlo, a un letto. A un cucchiaio. Non riuscì a ricordare la faccia di Reks quel giorno, l'ultima, e se ne spaventò; poi gli tornò un'immagine più lontana, di una sera di mercato: Reks con un fiore bianco schiacciato in mano e un'aria colpevole. Tenne quella.
 
 ---
 

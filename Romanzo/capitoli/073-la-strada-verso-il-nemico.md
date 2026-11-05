@@ -2,7 +2,7 @@
 
 Al-Cid Margrace entrò nella Sala della Luce appoggiato a una donna.
 
-Era una donna alta, di Rozarria, con i capelli neri raccolti sotto un velo di seta verde e un mantello da viaggio macchiato di fango e di qualcos'altro, e lo reggeva sotto un braccio come si regge un ubriaco illustre all'uscita da un ricevimento, con fermezza e senza nessuna pietà. Al-Cid aveva la camicia a righe strappata su una spalla, e lì il blu era diventato scuro. Aveva perso gli occhiali, e senza gli occhiali la sua faccia sembrava più giovane e più stanca, la faccia di un uomo che ha dormito poco e combattuto molto, e che di solito non fa né l'una né l'altra cosa.
+Era una donna alta, di Rozarria, con i capelli neri raccolti sotto un velo di seta verde e un mantello da viaggio macchiato di fango e di qualcos'altro, e lo reggeva sotto un braccio con un braccio saldo dietro la schiena e senza lasciargli il tempo di raddrizzarsi. Al-Cid aveva la camicia a righe strappata su una spalla, e lì il blu era diventato scuro. Aveva perso gli occhiali, e senza gli occhiali la sua faccia sembrava più giovane e più stanca, la faccia di un uomo che ha dormito poco e combattuto molto, e che di solito non fa né l'una né l'altra cosa.
 
 Vide Ashe e si fermò. Si raddrizzò. Si tolse il braccio dalla spalla della donna, che glielo lasciò togliere con un sopracciglio alzato, e fece un inchino. Fu un inchino perfetto, profondo, elegante, il genere di inchino che si fa nelle sale da ballo di Rozarria davanti alle principesse di sangue. A metà dell'inchino gli cedette un ginocchio, e la donna lo riprese al volo per il colletto.
 
@@ -26,7 +26,7 @@ Poi Al-Cid vide il corpo di Bergan. Lo guardò per un lungo momento, il gigante 
 
 Gli dissero di sedersi. Lui si sedette su un gradino, lo stesso dove si era seduto la prima volta con le gambe accavallate, e questa volta non le accavallò. Tavina gli aprì la camicia sulla spalla senza chiedere il permesso e cominciò a fasciarlo con strisce di seta verde che strappava dal proprio velo, e lui la lasciò fare, e parlò.
 
-«Sono arrivati due giorni fa» disse. «Tre navi. Hanno atterrato sulla spianata nord, ordinate come una parata. Il capitano della prima, quello con i capelli grigi, Zargabaath, è sceso da solo, senza scorta, ed è venuto fino alle porte del santuario a piedi, e ha chiesto del principe. Con molta cortesia. Si è anche tolto il guanto per salutare un accolito.» Fece una pausa. «Ho pensato che forse sarebbe andata bene.»
+«Sono arrivati tre giorni fa» disse. «Tre navi. Sono atterrate sulla spianata nord, ordinate come una parata. Zargabaath, il Giudice al comando della prima, è sceso da solo, senza scorta, ed è venuto fino alle porte del santuario a piedi, e ha chiesto del principe. Con molta cortesia. Si è anche tolto il guanto per salutare un accolito.» Fece una pausa. «Ho pensato che forse sarebbe andata bene.»
 
 «E poi?» chiese Ashe.
 
@@ -100,7 +100,7 @@ Balthier si era staccato dalla colonna. Stava in piedi in mezzo alla navata grig
 
 «Il dottor Cid» disse Basch.
 
-«Il dottor Cid.» Balthier ripeté il nome come si ripete l'indirizzo di un posto dove si deve andare per forza. «Ghis lo ha nominato sul Leviatano, ricordi? Quando si è preso la vostra pietra. Ha detto che il dottor Cid avrebbe avuto di che rallegrarsi. È lui che fa le pietre. È lui che le ha messe nelle ossa di quel povero imbecille. Se il Crepuscolo è ancora intero da qualche parte, è sul suo tavolo.» Guardò Ashe. «Vuoi spezzarlo? Allora devi andare ad Archades. Nel cuore. Non c'è un'altra strada.»
+«Il dottor Cid.» Balthier ripeté il nome come si ripete l'indirizzo di un posto dove si deve andare per forza. «È lui che fa le pietre. È lui che le ha messe nelle ossa di quel povero imbecille. Se il Crepuscolo è ancora intero da qualche parte, è sul suo tavolo.» Guardò Ashe. «Vuoi spezzarlo? Allora devi andare ad Archades. Nel cuore. Non c'è un'altra strada.»
 
 Ashe lo fissò a lungo. Poi si voltò verso Al-Cid.
 
@@ -126,7 +126,7 @@ Tavina gli disse un'altra parola in rozarriano. Lui le rispose che lo sapeva. E 
 
 ---
 
-Restarono soli nella Sala della Luce, in sei, con due morti.
+La compagnia rimase nella Sala della Luce davanti ai due morti.
 
 «Come ci arriviamo?» chiese Vaan. «Ad Archades. Andiamo a prendere la Strahl?»
 
@@ -144,7 +144,7 @@ Ashe annuì.
 
 ---
 
-Uscirono dalla Sala della Luce che la pioggia aveva cambiato passo. Cadeva più fitta, più dritta, senza vento, e lavava i gradini del tempio, e il fango e il resto colavano giù dalla scalinata in rivoli scuri.
+Quando uscirono dalla Sala della Luce, la pioggia aveva cambiato passo. Cadeva più fitta, più dritta, senza vento, e lavava i gradini del tempio, e il fango e il resto colavano giù dalla scalinata in rivoli scuri.
 
 Sui gradini c'era gente.
 
@@ -152,7 +152,7 @@ Non se n'erano accorti entrando. Forse prima non c'erano. Erano accoliti dei Kil
 
 Quando la compagnia uscì, nessuno di loro si mosse. Si scostarono soltanto, quanto bastava per lasciarli passare.
 
-Ashe si fermò in cima alla scalinata. Guardò quella gente. Poi si voltò verso un accolito giovane, il più vicino, e gli disse una cosa a bassa voce, e il ragazzo annuì e corse dentro la sala. Gli altri non chiesero cosa gli avesse detto. Lo capirono dopo, scendendo, quando videro due sacerdoti anziani entrare nella Sala della Luce con un lenzuolo bianco piegato sulle braccia.
+Ashe si fermò in cima alla scalinata. Guardò quella gente. Poi si voltò verso un accolito giovane, il più vicino, e gli disse una cosa a bassa voce, e il ragazzo annuì e corse dentro la sala. Gli altri non chiesero cosa gli avesse detto. Lo capirono dopo, scendendo, quando videro due sacerdoti anziani entrare nella Sala della Luce con un lenzuolo bianco piegato sulle braccia. Fran fece alzare il Giudice arreso e lo consegnò agli accoliti, disarmato.
 
 Scesero i gradini uno alla volta, fra le tuniche bianche e le candele spente, sotto la pioggia. Nessuno li fermò. Nessuno chiese chi fossero. Basch, a metà della scalinata, si chinò a raccogliere la candela che un vecchio sacerdote si era lasciato cadere, e gliela rimise in mano, e il vecchio non alzò nemmeno gli occhi.
 

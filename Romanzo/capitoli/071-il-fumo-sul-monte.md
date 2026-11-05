@@ -30,7 +30,7 @@ Zargabaath non si voltò.
 
 «Nessun colpo» disse. «Nessuno. Le batterie restano fredde. Il principe è sulla montagna, e con lui ci sono migliaia di persone che non hanno fatto niente a nessuno. Atterriamo sulla spianata nord, scendiamo, e chiediamo. Con cortesia.» Fece una pausa. «Chi apre il fuoco senza un mio ordine diretto risponde a me. Non al Ministero. A me.»
 
-Il timoniere salutò. Gli ufficiali di plancia si guardarono, e il più giovane perse la scommessa.
+Il timoniere salutò. Gli ufficiali di plancia si guardarono.
 
 Dietro di loro, nella penombra della plancia, appoggiato a una delle colonne di sostegno con le braccia incrociate, Bergan rise.
 
@@ -52,7 +52,7 @@ Zargabaath non si voltò a guardarlo.
 
 Bergan guardò il vecchio a lungo, attraverso le fessure del suo elmo nero e oro. Poi tornò alla sua colonna, adagio, e ci si appoggiò di nuovo, e incrociò di nuovo le braccia. Ma prima di farlo si guardò per un momento la mano sinistra, quella guantata, e strinse e aprì le dita due volte, come chi si accerta che una cosa ci sia ancora.
 
-Zargabaath, alla finestra, lo vide nel riflesso del vetro. Non disse niente. Ma quando il monte comparve all'orizzonte, bianco, con le sue torri sottili e le rocce sospese intorno, e il timoniere annunciò la distanza, Zargabaath fece una cosa che gli ufficiali di plancia non gli avevano mai visto fare: si tolse un guanto e si passò la mano nuda sull'elmo, all'altezza degli occhi, come un uomo che si stropiccia la faccia per sapere di essere sveglio e trova il metallo.
+Zargabaath, alla finestra, lo vide nel riflesso del vetro. Non disse niente. Ma quando il monte comparve all'orizzonte, bianco, con le sue torri sottili e le rocce sospese intorno, e il timoniere annunciò la distanza, Zargabaath fece una cosa che gli ufficiali di plancia non gli avevano mai visto fare: si tolse un guanto e si passò la mano nuda sull'elmo, all'altezza degli occhi, e trovò il metallo. Alle sue spalle, l'ufficiale più giovane mise mano al borsello.
 
 ---
 
@@ -90,7 +90,7 @@ E le navi se n'erano andate.
 
 La prima cosa che trovarono fu la tenda dei Fratelli Haddur.
 
-Era all'ingresso del santuario, contro il muro dove la donna l'aveva piantata, al riparo dal vento. Era strappata. Qualcuno ci era passato sopra, o molti qualcuno, e la tela cerata era stata calpestata nel fango fino a diventare dello stesso colore del fango, e il nome della ditta di trasporti, stampato sopra, si leggeva appena. Dentro non c'era nessuno. C'era una pentola rovesciata. C'era una scarpa da bambino.
+Era all'ingresso del santuario, contro il muro dove la donna l'aveva piantata, al riparo dal vento. Era strappata. Qualcuno ci era passato sopra, o in molti, e la tela cerata era stata calpestata nel fango fino a diventare dello stesso colore del fango, e il nome della ditta di trasporti, stampato sopra, si leggeva appena. Dentro non c'era nessuno. C'era una pentola rovesciata. C'era una scarpa da bambino.
 
 Vaan la guardò e si fermò.
 
@@ -108,7 +108,7 @@ Lui si lasciò tirare via. Ma per tutto il resto della strada, fino alle porte, 
 
 Il santuario era pieno di gente che si muoveva piano.
 
-Fu questo che colpì tutti, più delle macerie e del fumo. Le macerie c'erano: un muro crollato su una terrazza, una scala di pietra spezzata a metà, le tende bruciate a decine, nere, fumanti sotto la pioggia, con l'odore di stoffa e di pelle che si mescolava a quello dell'incenso dei templi. C'erano i segni dei colpi sulle colonne, quei colpi da cui si capiva che qualcuno aveva combattuto. C'erano i corpi. Alcuni erano coperti, con coperte, con mantelli, con le tuniche bianche dei sacerdoti; altri no. Ma più di tutto c'era la gente viva, che si muoveva fra i corpi e le macerie lentamente, senza correre, senza gridare, come si muovono i sonnambuli o gli annegati. Una donna portava un secchio d'acqua da una fontana a una tenda e ritorno, da una fontana a una tenda e ritorno, e la tenda era bruciata e non c'era nessuno dentro. Un vecchio stava seduto sui gradini di una cappella con le mani in grembo e guardava la pioggia. Due bambini, sotto un'arcata, giocavano con dei sassi, in silenzio.
+Fu questo che colpì tutti, più delle macerie e del fumo. Le macerie c'erano: un muro crollato su una terrazza, una scala di pietra spezzata a metà, le tende bruciate a decine, nere, fumanti sotto la pioggia, con l'odore di stoffa e di pelle che si mescolava a quello dell'incenso dei templi. C'erano i segni dei colpi sulle colonne, quei colpi da cui si capiva che qualcuno aveva combattuto. C'erano i corpi. Alcuni erano coperti, con coperte, con mantelli, con le tuniche bianche dei sacerdoti; altri no. Ma più di tutto c'era la gente viva, che si muoveva fra i corpi e le macerie lentamente, senza correre, senza gridare, con i passi incerti dei sonnambuli. Una donna portava un secchio d'acqua da una fontana a una tenda e ritorno, da una fontana a una tenda e ritorno, e la tenda era bruciata e non c'era nessuno dentro. Un vecchio stava seduto sui gradini di una cappella con le mani in grembo e guardava la pioggia. Due bambini, sotto un'arcata, giocavano con dei sassi, in silenzio.
 
 Basch si fermò davanti a un corpo. Era un sacerdote Kiltias, giovane, con la tunica bianca macchiata. Era sdraiato sulla schiena, sui gradini di una terrazza, con le braccia aperte. Aveva i geloni sulle dita.
 

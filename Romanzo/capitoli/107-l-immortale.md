@@ -60,21 +60,23 @@ Ashe guardò in basso. Sotto la cosa, sotto le sue ali, c'era la città.
 
 «Adesso» disse.
 
-Non c'era niente da cercare, a quel punto. Nessuna pietra, nessun tempio, nessun dio da interrogare. Nessun posto dove scappare: la passerella finiva lì, e sotto c'era il vuoto. Davanti a loro c'era un uomo che aveva deciso che il mondo doveva fare quello che diceva lui, e che pur di non smettere era diventato una montagna di ferro. Bisognava fermarlo. Era una cosa molto semplice, e lo sapevano tutti.
-
 ---
 
 Di quella battaglia esistono più racconti che di qualunque altra cosa accaduta quel giorno, e la maggior parte sono falsi, perché la raccontarono soprattutto quelli che la videro da lontano, dalle navi, e da lontano si vedevano soltanto lampi. Chi era sulla torre ne parlò poco. Vaan, da vecchio, ne diceva soltanto che faceva freddo, che il vento era così forte che per tutto il tempo aveva avuto paura di essere portato via più che di essere colpito, e che a un certo punto aveva perso una scarpa.
 
-La cosa colpiva con le braccia, e ogni colpo spaccava la piattaforma e mandava schegge di metallo a volare come proiettili. Dalle sue mani uscivano fuoco e gelo e lampi, uno dopo l'altro, senza tregua, e quando la ferivano si chiudeva dietro barriere di luce che respingevano tutto. Bisognava aspettare, resistere, curarsi, e colpire quando la barriera cadeva; lo fecero più volte di quante ne potessero contare, e non si ritirò nessuno.
+La cosa colpiva con le braccia, e ogni colpo spaccava la piattaforma e mandava schegge di metallo a volare come proiettili. Dalle sue mani uscivano fuoco e gelo e lampi, uno dopo l'altro, senza tregua. Quando la ferivano si chiudeva dietro barriere di luce; al primo urto Basch perse la presa sull'elsa.
 
-Ashe combatteva in prima fila, con la spada da soldato ammaccata, e quando la spada si spezzò ne prese un'altra da terra, un pezzo di trave, e continuò. Non combatteva per Raithwall, né per suo padre, né per Rasler. Non ci pensava più. Pensava a una vecchia seduta su un gradino con una cesta di frittelle di sesamo. Pensava ai trentotto petali secchi fra le lastre della cattedrale. Pensava al prezzo dell'acqua nella Città Bassa, la sera prima della guerra.
+«Aspetta» gli disse Penelo, mentre gli apriva le dita intorpidite. «Prima lascia che scenda.»
 
-Basch le stava accanto, e parava per lei quando lei non poteva parare. Non diceva niente. Aveva una ferita alla spalla che sanguinava, e non la guardava. Era lì per la donna che aveva giurato di proteggere, e per un uomo in ginocchio in una sala vuota, sotto di loro, che aveva chiuso la mano sull'elsa sbagliata ed era tornato indietro.
+La barriera cedette e Basch tornò avanti. Poi la luce si richiuse e dovettero tirarlo indietro.
+
+Ashe combatteva in prima fila con la spada da soldato ammaccata. Quando si spezzò, raccolse un pezzo di trave dal pavimento e continuò. Pensava a una vecchia seduta su un gradino con una cesta di frittelle di sesamo. Pensava ai trentotto petali secchi fra le lastre della cattedrale, al prezzo dell'acqua nella Città Bassa la sera prima della guerra.
+
+Basch le stava accanto, e parava per lei quando lei non poteva parare. Non diceva niente. Aveva una ferita alla spalla che sanguinava, e non la guardava. Era lì per la donna che aveva giurato di proteggere, e per un uomo disteso in una sala vuota, sotto di loro, che aveva chiuso la mano sull'elsa sbagliata ed era tornato indietro.
 
 Vaan combatteva con la spada di Reddas, ed era migliorato. Lo dicevano tutti, dopo. Era migliorato così tanto in un giorno che Basch, quando ne parlava, scuoteva la testa. Combatteva per la Città Bassa, per Migelo dietro il banco con la porta chiusa, per Kytes, per Sahra che protestava su una barca nel deserto, per un ragazzo che due anni prima era morto su un letto con gli occhi aperti senza che il fratello se ne accorgesse.
 
-Penelo teneva in piedi tutti. Lo faceva con le mani, con le magie, con la voce: chiamava i nomi, uno per uno, quando qualcuno cadeva, e quel nome detto da lei bastava a farlo rialzare. C'erano dietro la stessa città, per due nastri di colore diverso nelle trecce, per un fratello con un dente storto.
+Penelo teneva in piedi tutti. Lo faceva con le mani, con le magie, con la voce: chiamava i nomi, uno per uno, quando qualcuno cadeva, e quel nome detto da lei bastava a farlo rialzare. Combatteva per la stessa città, per due nastri di colore diverso nelle trecce, per un fratello con un dente storto.
 
 Fran tirava frecce che la cosa non sentiva, e le tirava lo stesso, una dopo l'altra, con le orecchie schiacciate dal Mystes che le faceva male come un coltello. Aveva lasciato il Bosco cinquant'anni prima, e da cinquant'anni il Bosco le diceva che il mondo degli uomini non era il suo. Lei aveva scelto di non ascoltarlo, e su quella torre difendeva la sua scelta.
 
@@ -90,7 +92,7 @@ Raccolse tutto quello che gli restava. La luce del petto si gonfiò, salì, gli 
 
 «Giù!» gridò Basch.
 
-La sfera esplose. La piattaforma si piegò. Il vento diventò fuoco e il fuoco diventò un muro, e per un momento lungo nessuno di loro vide niente e sentì niente se non un rombo che stava dappertutto, dentro e fuori.
+La sfera esplose. La piattaforma si piegò. Il vento diventò fuoco e il fuoco diventò un muro. Per un lungo momento nessuno di loro vide più niente; sentivano soltanto un rombo che stava dappertutto, dentro e fuori.
 
 Poi il muro passò.
 

@@ -28,7 +28,7 @@ Poi si voltò verso di lei con un'espressione che Penelo conosceva da quando ave
 
 «Chi arriva secondo porta gli otri fino ad Archades.»
 
-Partì prima di finire la frase, che era scorretto, e Penelo glielo gridò dietro mentre correva anche lei, con i sandali in mano, sulla sabbia che cedeva a ogni passo e faceva correre come nei sogni, più piano di quanto si vorrebbe. Lui arrivò per primo perché era partito prima. Lei arrivò per prima perché lui, a due passi dall'acqua, si fermò a guardare un granchio, e Penelo gli passò accanto e si buttò nell'onda vestita, e l'onda era fredda, molto più fredda di qualunque acqua di Dalmasca, e lei gridò, e Vaan la seguì gridando anche lui, e per un po' sulla spiaggia della Costa Phon non ci fu altro che quel gridare.
+Partì prima di finire la frase, che era scorretto, e Penelo glielo gridò dietro mentre correva anche lei, con i sandali in mano, sulla sabbia che cedeva a ogni passo e faceva correre come nei sogni, più piano di quanto si vorrebbe. Lui sarebbe arrivato per primo, se a due passi dall'acqua non si fosse fermato a guardare un granchio. Penelo gli passò accanto e si buttò nell'onda vestita. L'acqua era fredda, molto più fredda di qualunque acqua di Dalmasca, e lei gridò. Vaan la seguì gridando anche lui; per un po' sulla spiaggia della Costa Phon non ci fu altro che quel gridare.
 
 ---
 
@@ -62,7 +62,7 @@ Ashe ritirò il gomito. «Mi seguivi?»
 
 Lei si irrigidì. Balthier continuò senza guardarla, con le mani in tasca.
 
-«Perché ti ho vista, sai. Sulla Tomba, quando avevi il Frammento d'Aurora in mano. E dopo il Leviatano. E sul Bur-Omisace, quando Anastasis ti ha dato quella spada e tu l'hai guardata, prima ancora di sapere che cosa tagliava. Ti ho vista fare dei conti.» Si strinse nelle spalle. «Io i conti li riconosco. È il mio mestiere. E i tuoi, perdonami, non tornavano tutti dalla parte della distruzione. Qualcuno, in fondo alla colonna, diceva: e se invece la usassi io? Una pietra così. Dalmasca libera in un giorno. Archades in ginocchio in due.»
+«Perché ti ho vista, sai. Sulla Tomba, quando avevi il Frammento d'Aurora in mano. E dopo il Leviatano. E a Miriam, quando hai preso quella spada e l'hai sollevata davanti a te. Ti ho vista fare dei conti.» Si strinse nelle spalle. «Io i conti li riconosco. È il mio mestiere. E i tuoi, perdonami, non tornavano tutti dalla parte della distruzione. Qualcuno, in fondo alla colonna, diceva: e se invece la usassi io? Una pietra così. Dalmasca libera in un giorno. Archades in ginocchio in due.»
 
 «È questo che pensi di me?»
 
@@ -108,7 +108,7 @@ Ashe si voltò di scatto.
 
 Balthier buttò la conchiglia in acqua.
 
-«Cidolfus Demen Bunansa. Direttore del Laboratorio Draklor.» Non si voltò a guardarla. «Il dottor Cid. Quello di cui parlava Ghis sul Leviatano. Quello che costruisce pietre.»
+«Cidolfus Demen Bunansa. Direttore del Laboratorio Draklor.» Non si voltò a guardarla. «Il dottor Cid. Quello delle miniere di Henne. Quello che costruisce pietre.»
 
 ---
 
@@ -118,7 +118,7 @@ Ashe rimase zitta per molto tempo. Il mare andava e veniva. Più giù, sulla riv
 
 «Non so chi l'abbia fatto» disse Balthier. «Davvero. Non lo so. So chi è capace di volerlo fare per vedere che cosa succede.» Fece una pausa. «Davanti a quel ponte ho pensato che, se fossi entrato, avrei cominciato a cercare il suo nome sui muri.»
 
-«E quando hai rubato il Frammento del Crepuscolo a Rabanastre...»
+«E quando cercavi di rubare il Frammento del Crepuscolo a Rabanastre...»
 
 «Non sapevo che cosa fosse. Credevo di rubare un gioiello. Un bel colpo, con una bella storia da raccontare. E invece era Negalite. Era lui.» Balthier si passò una mano sulla faccia. «Ho passato sei anni a mettere leghe fra me e mio padre, e la prima volta che metto le mani su una cosa davvero preziosa, è sua. Il mondo ha un pessimo senso dell'umorismo. Il mio è molto migliore.»
 

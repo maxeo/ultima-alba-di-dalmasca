@@ -18,7 +18,7 @@ Nono rimise il mantello sulle spalle. Non disse altro. Si chinò sotto la carena
 
 ---
 
-La dimora di Reddas aveva tutte le finestre aperte e nessuno dentro. Sul grande tavolo del salone c'erano ancora le mappe, tenute ferme dal calamaio, dal pugnale, dalla bottiglia vuota, dalla scarpa; e sotto la scarpa, nel bianco dove il cartografo aveva disegnato un'onda e un pesce con la faccia da uomo, c'era il segno di un dito che qualcuno aveva premuto sulla carta per molto tempo, e la carta si era incurvata un poco.
+La dimora di Reddas aveva tutte le finestre aperte. Sul grande tavolo del salone c'erano ancora le mappe, tenute ferme dal calamaio, dal pugnale, dalla bottiglia vuota, dalla scarpa; e sotto la scarpa, nel bianco dove il cartografo aveva disegnato un'onda e un pesce con la faccia da uomo, c'era il segno di un dito che qualcuno aveva premuto sulla carta per molto tempo, e la carta si era incurvata un poco.
 
 Rikken camminava avanti e indietro davanti alla scalinata. Era l'unico che si muovesse. Aveva il berretto in mano e lo torceva come si torce uno straccio, e ogni volta che arrivava in fondo alla scalinata si voltava e ricominciava, e parlava. Parlava da quando era arrivata la notizia; Raz disse a Penelo che non aveva smesso un momento in tutta la notte, nemmeno quando era rimasto solo.
 
@@ -64,7 +64,7 @@ Rikken ci pensò.
 
 Rikken annuì. Si mise il berretto in testa, dritto, questa volta, e scese verso il porto senza salutare nessuno. Raz lo seguì con la cassetta in braccio.
 
-Elza restò. Guardò Vaan, e poi la spada che Vaan portava alla cintura, corta, larga, con la guardia a ricciolo.
+Elza restò. Guardò Vaan, e poi la spada che Vaan portava alla cintura, lunga e sottile, con la guardia a ricciolo.
 
 «Quella è sua.»
 
@@ -120,7 +120,7 @@ Balthier rise, una volta, senza allegria.
 
 Al-Cid tacque un momento. Si tolse gli occhiali di nuovo, e questa volta li tenne in mano e non li rimise.
 
-«Vayne lo sa. Vayne l'ha sempre saputo. Credo che lo aspettasse, che lo volesse: tutti i suoi nemici in un posto solo, sotto il suo cielo. E ha qualcosa per riceverli.» Guardò Ashe. «Dalle vostre facce capisco che sapete già cosa è successo al Faro. Io so cosa è successo dopo. Due giorni fa, sopra il mare di Naldoa, è stata vista una cosa salire dalle nuvole. Non era una nave. Era troppo grande per essere una nave. I nostri osservatori dicono un'isola. I vostri, a Bhujerba, dicono una montagna. Un marinaio di Balfonheim che l'ha vista da vicino è entrato in una taverna e non è più uscito, e non beve.» Fece una pausa. «Ad Archades la chiamano con un nome da favola. Bahamut.»
+«Vayne lo sa. Vayne l'ha sempre saputo. Credo che lo aspettasse, che lo volesse: tutti i suoi nemici in un posto solo, sotto il suo cielo. E ha qualcosa per riceverli.» Guardò Ashe. «Dalle vostre facce capisco che sapete già cosa è successo al Faro. Io so cosa è successo dopo. Ieri, sopra il mare di Naldoa, è stata vista una cosa salire dalle nuvole. Non era una nave. Era troppo grande per essere una nave. I nostri osservatori dicono un'isola. I vostri, a Bhujerba, dicono una montagna. Un marinaio di Balfonheim che l'ha vista da vicino è entrato in una taverna e non è più uscito, e non beve.» Fece una pausa. «Ad Archades la chiamano con un nome da favola. Bahamut.»
 
 Balthier, dietro di lui, chiuse gli occhi.
 
@@ -130,7 +130,7 @@ Balthier, dietro di lui, chiuse gli occhi.
 
 Ashe stette in silenzio a lungo. Guardava la mappa sul tavolo: le isole del mare di Naldoa, il bianco, il pesce con la faccia da uomo, il segno del dito di Reddas. Poi alzò gli occhi verso nord, oltre il muro del salone, oltre il porto e il mare, verso un deserto e una città che non vedeva da mesi.
 
-Aveva rinunciato alla pietra. Aveva lasciato andare Rasler. Aveva visto morire un uomo che si era preso sulle spalle il compito che lei non era riuscita a portare. Aveva le mani vuote, e le aveva guardate per tutto il viaggio di ritorno, aperte in grembo, dicendosi che era giusto così. Ed era giusto. E la guerra era cominciata lo stesso.
+Aveva rinunciato alla pietra. La guerra era cominciata lo stesso.
 
 Sentì una cosa che non si aspettava. Non fu disperazione. Fu una specie di chiarezza, fredda e semplice, come l'acqua di un pozzo profondo. Non c'era più una pietra da cercare, un tempio da visitare, un dio da interrogare. Non c'era più niente fra lei e quello che doveva fare. C'era soltanto la cosa da fare.
 

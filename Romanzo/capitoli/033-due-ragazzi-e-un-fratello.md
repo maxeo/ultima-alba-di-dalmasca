@@ -85,7 +85,7 @@ Lo disse con una sicurezza che Penelo, nella sua vita, aveva sentito solo nella 
 
 ---
 
-Di quella conversazione abbiamo una sola testimone, e scriveva lettere lunghissime. Anni dopo, in una di esse, Penelo la ricordava con una precisione che a chi conosce le lettere di Penelo non stupisce: ricordava i sette cucchiai, il colore della tunica di lui, la macchia d'inchiostro sul polso, e il fatto che lui, quella sera, le aveva chiesto di Rabanastre più di quanto le avesse parlato di sé. Lo racconto come lei lo racconta, aggiungendo poco.
+Di quella conversazione abbiamo una sola testimone, e scriveva lettere lunghissime. Anni dopo, in una di esse, Penelo la ricordava con una precisione che a chi conosce le lettere di Penelo non stupisce: ricordava i sette cucchiai, il colore della tunica di lui, la macchia d'inchiostro sul polso, e il fatto che lui, quel pomeriggio, le aveva chiesto di Rabanastre più di quanto le avesse parlato di sé. Lo racconto come lei lo racconta, aggiungendo poco.
 
 Larsa aveva fatto domande precise. Non *com'è la vita sotto l'occupazione*, ma: quanti soldati ci sono al mercato di Muthru, la mattina? A che ora chiudono le porte della Città Bassa? È vero che i soldati entrano nelle botteghe senza pagare? Chi decide le tasse nuove, il console o il comandante della guarnigione? E Penelo, che aveva cominciato rispondendo a monosillabi, a poco a poco si era ritrovata a raccontare. Il soldato che aveva preso tre melograni dal banco di Masyua e se n'era andato ridendo. Il ragazzo dei vicini, Kytes, che era stato fermato per due ore al cancello perché aveva in tasca un coltello da cucina e doveva spiegare a che cosa servisse un coltello da cucina. Le ronde di notte, il rumore degli stivali sotto le finestre. La paura che non era paura di morire, perché nessuno moriva tutti i giorni, ma una cosa più piccola e più continua, come un sassolino nella scarpa che non si riesce mai a togliere: la paura di essere guardati.
 
@@ -123,7 +123,7 @@ Penelo restò immobile.
 
 «Con tuo fratello» ripeté.
 
-«Con Vayne.» Larsa posò la penna. «Il console. È mio fratello maggiore.» E poi, dopo un momento, come se si correggesse per scrupolo, con una voce più bassa: «Il maggiore tra i vivi.»
+«Con Vayne.» Larsa posò la penna. Poi aggiunse, a voce più bassa: «Il maggiore tra i vivi.»
 
 Penelo non chiese che cosa volesse dire. Glielo lesse in faccia che non voleva domande, e del resto lei sapeva bene che cosa significhi dire *tra i vivi* parlando dei propri fratelli. Lo sapeva meglio di quanto avrebbe voluto.
 
@@ -151,7 +151,7 @@ Avrebbe potuto cominciare dal discorso in piazza, quando tutta Rabanastre era st
 
 Cominciò dai fratelli.
 
-«Ne avevo due» disse. Senza accorgersene si toccò i codini, i due nastri che le tenevano, uno azzurro e uno rosso. «Kel e Doran. Più grandi di me. Dopo la febbre siamo rimasti noi tre e loro due mi hanno tirata su, e mi facevano da padre e da madre e da fratelli, e da tutto. Kel era il più alto. Alle nozze della principessa mi ha tenuta sulle spalle per tutto il corteo, in via delle Fontane, e io gli tiravo i capelli per vedere meglio.» Si fermò. Respirò. «Mi hanno insegnato a usare il bastone. Doran diceva che una ragazza della Città Bassa deve sapere dove colpire, perché nessuno arriva in tempo. Mi ha insegnato a mirare agli stinchi e a non chiudere gli occhi quando arriva il colpo. Ero bravissima. Vaan non lo sa, ma una volta l'ho fatto piangere.»
+«Ne avevo due» disse. Senza accorgersene si toccò i codini, i due nastri che li tenevano, uno azzurro e uno rosso. «Kel e Doran. Più grandi di me. Dopo la febbre siamo rimasti noi tre e loro due mi hanno tirata su, e mi facevano da padre e da madre e da fratelli, e da tutto. Kel era il più alto. Alle nozze della principessa mi ha tenuta sulle spalle per tutto il corteo, in via delle Fontane, e io gli tiravo i capelli per vedere meglio.» Si fermò. Respirò. «Mi hanno insegnato a usare il bastone. Doran diceva che una ragazza della Città Bassa deve sapere dove colpire, perché nessuno arriva in tempo. Mi ha insegnato a mirare agli stinchi e a non chiudere gli occhi quando arriva il colpo. Ero bravissima. Vaan non lo sa, ma una volta l'ho fatto piangere.»
 
 Larsa non disse niente. Ascoltava.
 
@@ -161,13 +161,13 @@ Fuori, sulla terrazza, il sole del pomeriggio si era spostato, e la luce saliva 
 
 «Io lo so che non è stato lui» disse Penelo. «Tuo fratello, dico. Non era lui che tirava le frecce, e forse non era neanche lì. Lo so. Ma quando parla in piazza e dice che ci rispetta, io penso ai miei fratelli sul muro della Porta Est con i fiori in mano, e penso che lui ha preso il palazzo dove abitava il re per cui sono morti, e ci dorme. E quando dice *pace*...» Si fermò di nuovo. «Lo dice benissimo. È quello che mi fa paura. Che lo dice benissimo.»
 
-Larsa rimase in silenzio a lungo. Guardava la cartella di cuoio davanti a sé, i fogli con la sua calligrafia minuta, le cose che Penelo gli aveva detto e che lui aveva scritto per non dimenticarle. Aveva dodici anni, e fino a quella sera, per tutta la vita, la guerra gli era arrivata sotto forma di rapporti. Era arrivata nei dispacci letti a cena, nei numeri, nelle mappe con le bandierine spostate da un'ansa di fiume a un'altra, nei nomi di città che non avrebbe mai visto. Non era mai arrivata seduta di fronte a lui, con una benda su una mano e una moneta d'oro mai spesa.
+Larsa rimase in silenzio a lungo. Guardava la cartella di cuoio davanti a sé, i fogli con la sua calligrafia minuta, le cose che Penelo gli aveva detto e che lui aveva scritto per non dimenticarle. Aveva dodici anni, e fino a quel pomeriggio, per tutta la vita, la guerra gli era arrivata sotto forma di rapporti. Era arrivata nei dispacci letti a cena, nei numeri, nelle mappe con le bandierine spostate da un'ansa di fiume a un'altra, nei nomi di città che non avrebbe mai visto. Non era mai arrivata seduta di fronte a lui, con una benda su una mano e una moneta d'oro mai spesa.
 
 Poi si alzò.
 
 Fece il giro della tavola. Penelo lo guardò venire senza capire, e pensò, per un istante assurdo, che volesse andarsene, e se ne dispiacque più di quanto si aspettasse. Ma Larsa non andò alla porta. Si fermò accanto alla sua sedia, e poi, con naturalezza, come se fosse la cosa più ovvia del mondo, si inginocchiò sul pavimento di cedro davanti a lei, così che i loro occhi fossero alla stessa altezza.
 
-Penelo trattenne il fiato. Un principe di Archadia in ginocchio davanti a una ragazza della Città Bassa che ancora odorava di polvere di miniera. Se l'avessero visto a Rabanastre, pensò, avrebbero dovuto inventare una tassa nuova per l'occasione.
+Penelo trattenne il fiato. Un principe di Archadia in ginocchio davanti a una ragazza della Città Bassa con una mano fasciata. Penelo ritrasse i piedi sotto la sedia, per fargli spazio.
 
 «Nella mia famiglia» disse Larsa «agli uomini della casa Solidor viene insegnata una cosa. Ce la insegnano prima ancora delle lettere. Ce la fanno ripetere la sera, come una preghiera. Dice che il potere non è nostro. Che ci è prestato. Che un Solidor che lo usa per sé tradisce il proprio nome, e che il nostro primo dovere, prima della gloria e prima della famiglia, è proteggere chi sta sotto di noi. Mettere i loro bisogni davanti ai nostri.» La guardò. «Io ci credo. Ci ho sempre creduto. E l'ho sempre creduto anche di mio fratello, perché è stato lui a ripetermela, la sera, quando nostro padre non c'era.»
 

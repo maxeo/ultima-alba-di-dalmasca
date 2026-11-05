@@ -112,7 +112,11 @@ Alzò le spade.
 
 Questa volta non fu come sulla Sommità. Sulla Sommità Gabranth aveva combattuto con rabbia; qui combatté con disperazione, che è una cosa diversa e più pericolosa, perché la rabbia vuole vincere e la disperazione non vuole niente.
 
-Le due spade arrivarono su Basch da tutte le parti. Basch parò, parò ancora, arretrò. Vaan entrò dalla destra. Balthier tirò, e il colpo rimbalzò sul pettorale ammaccato. Penelo, per la prima volta in tutto il viaggio, entrò anche lei, con il bastone di suo fratello, e colpì Gabranth alla caviglia, e lui inciampò e si girò e la colpì di piatto e lei volò via e cadde, e si rialzò, e tornò. Fran tirava frecce che non uccidevano. Ashe non attaccava; restava fra Gabranth e la leva dell'ascensore, con la spada da soldato davanti, e ogni volta che il Giudice si voltava verso di lei lo aspettava.
+Le due spade arrivarono su Basch da tutte le parti. Basch parò, parò ancora, arretrò. Vaan entrò dalla destra. Balthier tirò, ma il colpo rimbalzò sul pettorale ammaccato. Penelo si abbassò sotto le lame e colpì Gabranth alla caviglia con il bastone di suo fratello. Il Giudice inciampò; girandosi la prese di piatto e la mandò a terra.
+
+«Penelo!» gridò Vaan.
+
+Lei si rialzò sul bastone e tornò avanti, zoppicando. Fran tirava frecce che costringevano Gabranth a parare, senza cercargli la gola. Ashe restava fra il Giudice e la leva dell'ascensore, con la spada da soldato davanti; ogni volta che Gabranth si voltava verso di lei, lo aspettava.
 
 Gabranth cadde. Si rialzò. Cadde di nuovo, su un ginocchio, e si rialzò di nuovo. Aveva un taglio al braccio, dove Vaan lo aveva preso, e il sangue gli colava fra le placche. Ansimava dentro l'elmo, un rumore rauco e regolare, come un mantice.
 
@@ -136,7 +140,7 @@ Basch si inginocchiò davanti a lui.
 
 «Noah» disse.
 
-Lo disse piano. Era il nome che la madre usava per chiamarli a cena dalla finestra, prima uno e poi l'altro, *Basch, Noah*, sempre in quell'ordine, perché Basch era il maggiore di un'ora. Era un nome che nessuno aveva più detto ad alta voce da quella notte sul colle.
+Lo disse piano. Era il nome che la madre usava per chiamarli a cena dalla finestra, prima uno e poi l'altro, *Basch, Noah*, sempre in quell'ordine, perché Basch era il maggiore di un'ora. Era il nome che Noah aveva lasciato su quel colle.
 
 Gabranth rimase immobile. Poi la testa, dentro l'elmo, gli si abbassò.
 
@@ -150,7 +154,7 @@ Gabranth alzò l'elmo verso di lui.
 
 «C'è. Vivi.» Basch gli mise una mano sulla spalla ammaccata. «Non con un'altra guerra. Non con me sotto la tua spada. Vivi, e scegli di essere qualcos'altro. Non è tardi. Non è mai tardi finché respiri. Me l'ha insegnato un ragazzo di Rabanastre che mi ha urlato in faccia dentro una gabbia, e aveva ragione lui, e io non gli ho risposto.» Basch strinse la spalla. «Ti rispondo adesso. Vivi.»
 
-Le loro voci, in quella sala nuda, erano la stessa voce. Penelo lo sentì e chiuse gli occhi. Non c'era più l'elmo a farla rimbombare, adesso, perché Gabranth parlava piano, a testa bassa, e quando parlavano piano i due fratelli fon Ronsenburg erano un uomo solo che si rispondeva da due punti, come sulla Sommità del Faro, come, molti anni prima, in una stanza di Landis attraverso un muro.
+Le loro voci, in quella sala nuda, erano la stessa voce. Penelo lo sentì e chiuse gli occhi. L'elmo alterava appena la voce di Gabranth, tanto parlava piano, a testa bassa. I due fratelli fon Ronsenburg erano un uomo solo che si rispondeva da due punti, come sulla Sommità del Faro, come, molti anni prima, in una stanza di Landis attraverso un muro.
 
 Gabranth non rispose. Restò in ginocchio, con una spada in mano e l'altra per terra, e non si mosse quando Basch si alzò.
 

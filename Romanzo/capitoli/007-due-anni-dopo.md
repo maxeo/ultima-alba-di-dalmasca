@@ -16,7 +16,9 @@ Quella mattina, nel tratto di fogna sotto la via dei Calderai, le code ancora at
 
 «Chi vuoi che arrivi? Qui sotto non ci viene nessuno. Per questo i topi sono così grossi.»
 
-Erano grossi davvero. I topi delle fogne di Rabanastre mangiano quello che la città butta via, e una città che ha perso una guerra butta via meno di prima ma butta via cose più strane, e i topi si erano adattati. Quei tre arrivavano al ginocchio. Giravano attorno a Vaan sull'orlo dello scolo, a distanza di una spada e mezzo, perché avevano capito qualcosa sulla lunghezza della spada; erano topi che avevano già incontrato altri ragazzi. Vaan teneva la lama bassa e la testa un poco di lato, per abitudine, perché sopra l'orecchio sinistro gli cresceva una ciocca bionda più lunga delle altre che gli cadeva sugli occhi; era lì da due anni, da quando suo fratello aveva provato a tagliargli i capelli con le forbici delle corde e aveva promesso, ridendo, di farla sistemare dal barbiere al ritorno. Vaan non l'aveva mai fatta tagliare. Era una spada corta, da soldato, con l'impugnatura fasciata di cuoio nuovo sopra il cuoio vecchio, e lui la usava con una sicurezza che non veniva da nessun maestro: due anni di topi, di cani randagi, di bastoni contro un palo nel cortile di Migelo, quando Migelo non guardava.
+Erano grossi davvero. I topi delle fogne di Rabanastre mangiano quello che la città butta via, e una città che ha perso una guerra butta via meno di prima ma butta via cose più strane, e i topi si erano adattati. Quei tre arrivavano al ginocchio. Giravano attorno a Vaan sull'orlo dello scolo, a distanza di una spada e mezzo, perché avevano capito qualcosa sulla lunghezza della spada; erano topi che avevano già incontrato altri ragazzi. Vaan teneva la lama bassa e la testa un poco di lato, per abitudine, perché sopra l'orecchio sinistro gli cresceva una ciocca bionda più lunga delle altre che gli cadeva sugli occhi; era lì da due anni, da quando suo fratello aveva provato a tagliargli i capelli con le forbici delle corde e aveva promesso, ridendo, di farla sistemare dal barbiere al ritorno. Vaan non l'aveva mai fatta tagliare. La spada era corta, da soldato, con l'impugnatura fasciata di cuoio nuovo sopra il cuoio vecchio, e lui la usava con una sicurezza che non veniva da nessun maestro: due anni di topi, di cani randagi, di bastoni contro un palo nel cortile di Migelo, quando Migelo non guardava.
+
+Sotto la camicia, la spilla azzurra di Reks gli batteva sullo sterno, appesa a un laccio infilato nella chiusura. Vaan l'aveva staccata dalla giubba del fratello al ritorno da Nalbina; lo spillo storto non teneva più. Strinse la fascia rossa in vita e tornò a guardare i topi.
 
 Il primo topo si lanciò. Vaan si spostò di mezzo passo, gli lasciò il vuoto dove un attimo prima c'era la sua gamba, e colpì di piatto, poi di taglio. Il secondo arrivò mentre lui era ancora girato e gli prese la caviglia con i denti; Vaan disse una parola che Kytes, a nove anni, conosceva già ma non aveva il permesso di ripetere, e se lo scrollò di dosso contro il muro. Il terzo, che era il più vecchio e il più furbo, aspettò di vedere come finivano gli altri due. Poi decise che il rame non valeva il rischio e si buttò nello scolo, nuotando controcorrente nel buio.
 
@@ -86,7 +88,7 @@ Sahra era una donna intelligente. Aveva visto entrare due eserciti in quella cit
 
 «Mi sono sbagliata, signore» disse. «Le focacce sono un regalo. Per la guarnigione. Buon appetito.»
 
-«Lascialo» disse il secondo soldato, quello rimasto indietro. Era più vecchio. Si guardava intorno, e non gli piaceva il silenzio. «Non oggi. Hanno detto niente storie, oggi.»
+«Lasciala» disse il secondo soldato, quello rimasto indietro. Era più vecchio. Si guardava intorno, e non gli piaceva il silenzio. «Non oggi. Hanno detto niente storie, oggi.»
 
 Il primo lasciò il colletto. Sahra ricadde sui talloni. Il soldato riprese il suo pacchetto di carta oleata, ne tirò fuori un'altra focaccia, e se ne andò mangiando, e il suo compagno lo seguì. Il mercato riprese il suo rumore come si riprende un discorso interrotto, un po' più forte di prima, per coprire il punto dove si era interrotto.
 
@@ -120,7 +122,7 @@ Una mano gli passò sopra la spalla e gli tolse la borsa dalle dita.
 
 ---
 
-Penelo aveva diciassette anni, i capelli biondi raccolti in due codini legati con due nastri di stoffa diversa e un modo di stare in piedi che faceva pensare a una che si è appena tolta un grembiule e potrebbe rimetterselo da un momento all'altro. Aveva le mani infarinate fino ai polsi. Teneva la borsa del soldato fra due dita, lontano da sé, come si tiene una cosa che puzza.
+Penelo aveva diciassette anni, i capelli biondi raccolti in due codini legati con due nastri di stoffa diversa e il grembiule ancora legato in vita. Aveva le mani infarinate fino ai polsi. Teneva la borsa del soldato fra due dita, lontano da sé, come si tiene una cosa che puzza.
 
 «Ti ho visto» disse.
 

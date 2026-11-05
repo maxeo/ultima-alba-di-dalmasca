@@ -34,7 +34,7 @@ Il tesoriere aprì la bocca, la richiuse, e guardò Rasler, che fino a quel punt
 
 Le porte si aprirono di colpo.
 
-Basch fon Ronsenburg entrò senza farsi annunciare, cosa che non aveva mai fatto e che nessuno, nella sala, gli aveva mai visto fare. Era sporco fino alla cintura. Aveva la barba di due giorni e la polvere del deserto orientale nelle pieghe del mantello, e portava in mano un cilindro di cuoio come quello delle nozze, ma con il sigillo intatto, perché non aveva voluto aprirlo prima di arrivare. Si inginocchiò davanti al re. Poi si rialzò, perché il re gli fece segno, e lo disse.
+Basch fon Ronsenburg entrò senza farsi annunciare, cosa che non aveva mai fatto e che nessuno, nella sala, gli aveva mai visto fare. Era sporco fino alla cintura. Aveva la barba di due giorni e la polvere del deserto a est di Dalmasca nelle pieghe del mantello, e portava in mano un cilindro di cuoio come quello delle nozze, ma con il sigillo intatto, perché non aveva voluto aprirlo prima di arrivare. Si inginocchiò davanti al re. Poi si rialzò, perché il re gli fece segno, e lo disse.
 
 «Nabudis è caduta, maestà.»
 

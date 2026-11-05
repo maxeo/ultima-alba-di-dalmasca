@@ -2,7 +2,7 @@
 
 Riportarono Mjrn a Eruyt in quattro giorni. Per i primi due camminò poco e dormì molto, sul chocobo, legata alla sella con una cinghia che Basch aveva ricavato dal suo stesso cinturone, e il chocobo, che fino a quel momento aveva tollerato soltanto Fran, la portò con un'attenzione così delicata che Penelo disse che sembrava una balia. Il terzo giorno Mjrn scese e volle camminare. Il quarto giorno parlava senza smettere.
 
-Parlava di tutto. Chiedeva a Vaan cosa fosse Rabanastre, e quanto fosse grande, e se fosse vero che gli Huma dormivano in case di pietra che non crescevano. Chiedeva a Penelo che sapore avesse il miele dei moguri, che lei non aveva mai assaggiato perché a Eruyt non lo si comprava, e Penelo le diede quello che restava del barattolo, e Mjrn lo finì in una sera, con le dita. Chiedeva a Larsa delle aeronavi. Chiedeva a Basch della sua cicatrice, e Basch le disse che era una storia lunga, e lei disse che aveva tempo, e lui non gliela raccontò lo stesso. A Balthier non chiedeva niente: lo guardava, e quando lui se ne accorgeva, distoglieva gli occhi e sorrideva, e Balthier, che di solito sapeva benissimo cosa fare quando una donna lo guardava così, per una volta non lo sapeva affatto, perché era evidente che la ragazza non guardava lui ma la sorella che gli camminava accanto.
+Parlava di tutto. Chiedeva a Vaan cosa fosse Rabanastre, e quanto fosse grande, e se fosse vero che gli Huma dormivano in case di pietra che non crescevano. Chiedeva a Penelo che sapore avesse il miele dei moguri, che lei non aveva mai assaggiato perché a Eruyt non lo si comprava, e Penelo le promise che glielo avrebbe fatto assaggiare al ritorno. Chiedeva a Larsa delle aeronavi. Chiedeva a Basch della sua cicatrice, e Basch le disse che era una storia lunga, e lei disse che aveva tempo, e lui non gliela raccontò lo stesso. A Balthier non chiedeva niente: lo guardava, e quando lui se ne accorgeva, distoglieva gli occhi e sorrideva, e Balthier, che di solito sapeva benissimo cosa fare quando una donna lo guardava così, per una volta non lo sapeva affatto, perché era evidente che la ragazza non guardava lui ma la sorella che gli camminava accanto.
 
 Fran non parlava. Camminava davanti, come sempre, e quando Mjrn le si affiancava rispondeva con le sue sillabe brevi, e Mjrn ne sembrava contenta lo stesso, come se anche le sillabe brevi fossero una risposta che a Eruyt non avrebbe mai avuto.
 
@@ -10,13 +10,13 @@ Ashe le guardava dall'ultima fila. Una sera, accanto al fuoco, disse a Basch, se
 
 «A chi?»
 
-«Alla ragazza. Quando arriveremo.» Ashe non distolse lo sguardo dal fuoco. «Lo vedo da come cammina. Cammina come si cammina verso una cosa che si è deciso di fare.»
+«Alla ragazza. Quando arriveremo.» Ashe non distolse lo sguardo dal fuoco. «Lo vedo da come cammina. Da Henne non ha più rallentato. Neppure quando Mjrn le parla del mondo fuori.»
 
 Basch non chiese come lo sapesse. Lo sapeva anche lui.
 
 ---
 
-Eruyt li accolse come la prima volta, cioè non li accolse affatto. La sentinella sul ramo sopra il banco dei moguri li guardò arrivare con lo stesso disprezzo tranquillo, ma quando vide Mjrn fra loro, viva, con le dita ancora appiccicose di miele, si raddrizzò di colpo, e per un istante sul suo viso passò qualcosa che non era disprezzo. Poi sparì fra le foglie, e qualche minuto dopo, mentre la compagnia saliva per le passerelle, si sentì per tutto il villaggio un fischio lungo, di tre note, ripetuto da un albero all'altro, che annunciava qualcosa a qualcuno.
+Eruyt li accolse come la prima volta, cioè non li accolse affatto. La sentinella sul ramo sopra il banco dei moguri li guardò arrivare con lo stesso disprezzo tranquillo, ma quando vide Mjrn fra loro, viva, con il barattolo di miele che Penelo le aveva appena comprato al banco, si raddrizzò di colpo, e per un istante sul suo viso passò qualcosa che non era disprezzo. Poi sparì fra le foglie, e qualche minuto dopo, mentre la compagnia saliva per le passerelle, si sentì per tutto il villaggio un fischio lungo, di tre note, ripetuto da un albero all'altro, che annunciava qualcosa a qualcuno.
 
 Le viere uscirono sulle soglie. Questa volta non si voltarono dall'altra parte.
 
@@ -24,7 +24,7 @@ Jote li aspettava sulla piattaforma più alta, davanti al grande tronco, ferma c
 
 Le tre sorelle si guardarono.
 
-Era la prima volta che stavano insieme, tutte e tre, sulla stessa piattaforma, da cinquant'anni; e Mjrn, che era nata molto dopo che Fran se n'era andata, non le aveva mai viste insieme in vita sua. Vaan guardò le tre facce, una accanto all'altra, la più vecchia, quella di mezzo, la più giovane, e pensò a una cosa stupida e precisa: pensò a tre ciotole della stessa misura, fatte dallo stesso vasaio, che uno trova in tre case diverse e solo mettendole in fila capisce che venivano dallo stesso forno.
+Non erano mai state tutte e tre insieme su quella piattaforma: Mjrn era nata molto dopo che Fran se n'era andata. Vaan guardò le tre facce, una accanto all'altra, la più vecchia, quella di mezzo, la più giovane, e pensò a una cosa stupida e precisa: pensò a tre ciotole della stessa misura, fatte dallo stesso vasaio, che uno trova in tre case diverse e solo mettendole in fila capisce che venivano dallo stesso forno.
 
 «Il Bosco mi ha detto cosa avete fatto» disse Jote. Non guardava Fran. Guardava Vaan. «Mi ha detto delle gallerie. Della pietra. Della bestia.» Fece una pausa. «Mi ha detto che una figlia del Bosco tornava a casa, e che a riportarla erano gli Huma.»
 
@@ -98,7 +98,7 @@ Fran lo disse piano. Mjrn si fermò.
 
 Per un momento nessuno si mosse. Penelo si era portata le mani alla bocca. Vaan guardava Fran come se non l'avesse mai vista. Larsa aveva abbassato gli occhi.
 
-Mjrn non disse niente. Il viso le si accartocciò, adagio, come si accartoccia un foglio nel fuoco, e poi le lacrime arrivarono tutte insieme, e lei si voltò e corse via, lungo la passerella, giù per le scale scavate nella corteccia, verso le case più basse, e sparì fra le foglie. Si sentì per un poco il suo pianto. Poi neanche quello.
+Mjrn non disse niente. Il viso le si contrasse; poi le lacrime arrivarono tutte insieme. Si voltò e corse lungo la passerella, giù per le scale scavate nella corteccia, verso le case più basse, finché sparì fra le foglie. Si sentì per un poco il suo pianto. Poi neanche quello.
 
 Fran non la richiamò. Non si mosse. Non disse un'altra parola. Rimase ferma in mezzo alla piattaforma, con le mani aperte lungo i fianchi, e guardò il punto dove la ragazza era scomparsa.
 
@@ -110,7 +110,7 @@ Sulla piattaforma più alta di Eruyt restarono le due sorelle più grandi.
 
 «Mi dispiace» disse Jote. «Che sia toccato a te.»
 
-«Non ti dispiacere.» Fran guardava ancora le foglie. «Doveva essere io. Tu sei la legge. Se lo dici tu, è una regola. Se lo dico io, è la verità.» Fece una pausa. «Lei crede a me. Per questo.»
+«Non ti dispiacere.» Fran guardava ancora le foglie. «Dovevo essere io. Tu sei la legge. Se lo dici tu, è una regola. Se lo dico io, è la verità.» Fece una pausa. «Lei crede a me. Per questo.»
 
 Jote la guardò. Rimasero in silenzio a lungo. Il vento passava fra i rami del grande albero, e le foglie si muovevano, e la luce dorata cadeva sulla piattaforma a chiazze, e le chiazze si spostavano.
 
@@ -170,4 +170,4 @@ Lei non si voltò.
 
 Fran camminò per un tratto senza rispondere. Poi, senza girarsi, gli mise una mano sulla testa, una volta, sui capelli in disordine, e la tolse.
 
-Era la prima volta che lo toccava. Vaan non disse più niente fino a sera, e quella sera, accanto al fuoco, fu lui a passare a Fran la parte più grande.
+Vaan non disse più niente fino a sera, e quella sera, accanto al fuoco, fu lui a passare a Fran la parte più grande.

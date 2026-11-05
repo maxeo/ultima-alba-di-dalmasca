@@ -1,12 +1,12 @@
 ## 37. Il soldato che non era
 
-I corridoi del Leviatano erano tutti uguali, e questo, disse Balthier, era il segno più sicuro di una buona amministrazione. Pareti di metallo grigio, pavimenti a griglia, una lampada ogni dodici passi, una porta ogni trenta, e sopra ogni porta un numero dipinto in bianco. A ogni incrocio un cartello indicava i ponti, le stive, le sale macchine, con frecce precise e parole abbreviate che nessuno di loro sapeva leggere. I soldati di scorta erano sei: due davanti, due dietro, due ai fianchi. Camminavano allo stesso passo, e i loro stivali sul metallo facevano un rumore solo.
+I corridoi del Leviatano erano tutti uguali, e questo, disse Balthier, era il segno più sicuro di una buona amministrazione. Pareti di metallo grigio, pavimenti a griglia, una lampada ogni dodici passi, una porta ogni trenta, e sopra ogni porta un numero dipinto in bianco. A ogni incrocio un cartello indicava i ponti, le stive, le sale macchine, con frecce precise e parole abbreviate che Vaan non riusciva a decifrare. I soldati di scorta erano sei: due davanti, due dietro, due ai fianchi. Camminavano allo stesso passo, e i loro stivali sul metallo facevano un rumore solo.
 
-Le catene tornavano a unirli a due a due. Vaan, con uno stivale in mano e l'altro al piede, era legato di nuovo a Basch. Si era rimesso lo stivale soltanto all'ascensore, saltellando, e nessuno lo aveva aiutato neanche allora.
+Le catene tornavano a unirli a due a due. Vaan era legato di nuovo a Basch. Si era rimesso lo stivale soltanto all'ascensore, saltellando, e nessuno lo aveva aiutato neanche allora.
 
-Basch camminava a testa bassa. Sulla guancia, sopra il taglio di Bhujerba, il segno delle nocche era diventato viola.
+Basch camminava a testa bassa. Sulla guancia, sopra il taglio di Rabanastre, il segno delle nocche era diventato viola.
 
-«Bene» disse Balthier, dietro di loro, con il tono di chi riassume la riunione di un consiglio d'amministrazione. «Facciamo il punto. Siamo venuti a liberare una donna della Resistenza, e la donna era la principessa di Dalmasca, che è morta. L'abbiamo trovata, e lei ha preso a schiaffi il nostro capitano, che è morto anche lui. Il capitano ha offerto in cambio della sua vita un tesoro che non aveva. Il tesoro ce l'aveva il ragazzo nello stivale, e lo ha consegnato al Giudice. Il Giudice ci ha promesso di non giustiziarci, e io ho una certa esperienza delle promesse dei Giudici.» Una pausa. «Ho dimenticato qualcosa?»
+«Bene» disse Balthier, dietro di loro, guardando i numeri sopra le porte. «La prossima volta vorrei scegliere una destinazione senza celle. Una locanda, per esempio. Avete mai pensato a una locanda, capitano?»
 
 «Silenzio, prigioniero» disse il soldato di destra.
 
@@ -32,9 +32,9 @@ Basch non lo guardò. «Ho fatto quello che dovevo» disse a Balthier. «Non pot
 
 Il soldato di destra alzò il braccio.
 
-Fu l'ultimo errore della sua giornata. Balthier non si spostò molto: un passo di lato, una spalla che rientra, il tempo che il pugno guanciato passasse nel punto in cui un istante prima c'era la sua faccia. Il soldato perse l'equilibrio in avanti. E Basch, ammanettato, incatenato a Vaan, girò su se stesso con un movimento corto e pesante e gli piantò il gomito sotto l'elmo, e il soldato andò contro la parete con un rumore di pentola.
+Fu l'ultimo errore della sua giornata. Balthier non si spostò molto: un passo di lato, una spalla che rientra, il tempo che il pugno guantato passasse nel punto in cui un istante prima c'era la sua faccia. Il soldato perse l'equilibrio in avanti. E Basch, ammanettato, incatenato a Vaan, girò su se stesso con un movimento corto e pesante e gli piantò il gomito sotto l'elmo, e il soldato andò contro la parete con un rumore di pentola.
 
-Poi tutto accadde insieme. Fran diede un calcio al soldato di sinistra, all'altezza del ginocchio, e il ginocchio si piegò nella direzione sbagliata. Vaan, che era legato a Basch e quindi andava dove andava Basch, si ritrovò addosso a uno dei due davanti senza averlo deciso e lo spinse giù con tutto il peso. Uno dei due di dietro aveva sguainato la spada e stava alzandola.
+Poi tutto accadde insieme. Fran diede un calcio al soldato di sinistra, all'altezza del ginocchio, e il ginocchio si piegò nella direzione sbagliata. Vaan, che era legato a Basch e quindi andava dove andava Basch, si ritrovò addosso a uno dei due davanti senza averlo deciso e lo spinse giù con tutto il peso. Balthier tese la catena fra le manette e la portò sotto il mento dell'altro soldato di testa, tirandolo all'indietro finché non cedettero le ginocchia. Uno dei due di dietro aveva sguainato la spada e stava alzandola.
 
 E l'altro dei due di dietro, il sesto, quello che fino a quel momento aveva camminato in silenzio a chiudere la fila, girò la propria spada nel pugno e colpì il compagno con l'elsa, in pieno elmo, con una precisione da macellaio.
 
@@ -48,7 +48,7 @@ Era un uomo alto e massiccio, abbronzato, con i capelli scuri, una barba di qual
 
 ---
 
-Vaan lo ricordava. Lo aveva visto pochi giorni prima, nei canali, al fianco della donna in rosso, e poi a Rabanastre, con Dalan e con gli uomini della Resistenza, quando Basch era andato a cercarlo e quell'uomo lo aveva guardato come si guarda un cane che ha morso il padrone, e gli aveva detto che non aveva più nessun diritto di chiamarsi capitano. Il capitano Vossler York Azelas. Quello che aveva tenuto in piedi la Resistenza mentre Basch marciva a Nalbina.
+Vaan gli guardò le mani. Erano le stesse che avevano sciolto l'involto di Dalan e poi ceduto a Basch la spada dell'Ordine. Ora cercavano le chiavi alla cintura di un soldato imperiale.
 
 Adesso portava un'armatura imperiale che gli stava stretta di spalle, e sorrideva.
 
@@ -62,7 +62,7 @@ Basch gli tese i polsi. Vossler aprì le manette, poi le catene. Le sue mani era
 
 «Ondore» disse Basch.
 
-«Il marchese mi ha messo in questa divisa e su questa nave tre giorni fa, quando hanno portato lei a bordo.» Vossler passò a Vaan, gli aprì le manette con un giro, quasi senza guardarlo. «Non è stato facile convincerlo. È un vecchio che conta i rischi come altri contano le monete. Ma sa a chi deve cosa.» Aprì quelle di Balthier, che si massaggiò i polsi con una smorfia. «Poi stanotte mi è arrivata la voce che il marchese aveva consegnato a Ghis un evaso famoso con tre complici. Ho capito che cosa aveva fatto. E ho capito che ti saresti offerto tu.»
+«Il marchese mi ha messo in questa divisa e su questa nave dopo il nostro incontro a Rabanastre. Sapeva che l'avevano portata a bordo.» Vossler passò a Vaan, gli aprì le manette con un giro, quasi senza guardarlo. «Non è stato facile convincerlo. È un vecchio che conta i rischi come altri contano le monete. Ma sa a chi deve cosa.» Aprì quelle di Balthier, che si massaggiò i polsi con una smorfia. «Poi stanotte mi è arrivata la voce che il marchese aveva consegnato a Ghis un evaso famoso con tre complici. Ho capito che cosa aveva fatto. E ho capito che ti saresti offerto tu.»
 
 «Mi conosci.»
 
@@ -86,7 +86,7 @@ Vossler rimase zitto. Fu un silenzio di un respiro, forse due, e poi annuì e si
 
 ---
 
-Dalla rastrelliera ripresero tutto: la spada di Basch, la pistola di Balthier, l'arco di Fran, la spada di Vaan. Balthier ritrovò anche il mazzo di carte con gli assi segnati, che il sergente aveva sequestrato per sé, e se lo rimise in tasca con evidente sollievo. Trascinarono i sei soldati in uno sgabuzzino pieno di secchi e chiusero la porta con le loro stesse manette.
+Dalla rastrelliera ripresero tutto: la spada di Basch, la pistola di Balthier, l'arco di Fran, la spada di Vaan. Balthier ritrovò anche il mazzo di carte con gli assi segnati, che il sergente aveva sequestrato per sé, e se lo rimise in tasca con evidente sollievo. Trascinarono i cinque soldati in uno sgabuzzino pieno di secchi e chiusero la porta con le loro stesse manette.
 
 Arrivare alle celle del ponte di sotto non fu semplice. Il Leviatano era una città, e le città hanno guardie, e le guardie di una corazzata dell'impero hanno anche altre cose: fili di luce rossa tesi fra le pareti dei corridoi, che se li si toccava facevano suonare le sirene, e porte che si aprivano soltanto con una chiave giusta, e la chiave giusta era sempre alla cintura di qualcuno che non voleva darla. Fran passò fra i fili di luce come si passa fra i rami in un bosco, e gli altri dietro di lei, imitando i suoi passi uno per uno, e Vaan, che ne toccò uno con la punta dei capelli, si fermò con il cuore in gola e non successe niente perché i capelli non contano. Le chiavi le presero a due ufficiali di guardia che sorvegliavano il blocco delle celle, e su come le presero Basch e Vossler, che se ne occuparono di persona, non si dilungarono mai. Bastò, a chi li vide tornare, la faccia di Vossler: per la prima volta da due anni sembrava contento.
 
@@ -126,7 +126,7 @@ Ashe lo guardò come se si accorgesse della sua esistenza per la prima volta. «
 
 «Parleremo dopo, altezza» disse Vossler. «Adesso bisogna uscire.»
 
-Ashe guardò Vossler, e poi di nuovo Basch, e annuì. Uscì dalla cella. Passò accanto a Basch sulla soglia senza toccarlo, girando appena le spalle per non sfiorarlo, e si mise a camminare nel corridoio dietro Fran.
+Ashe guardò Vossler, e poi di nuovo Basch, e annuì. Vossler le porse una delle spade della scorta; lei la prese dalla mano di lui e uscì dalla cella. Passò accanto a Basch sulla soglia senza toccarlo, girando appena le spalle per non sfiorarlo, e si mise a camminare nel corridoio dietro Fran.
 
 Non avevano fatto venti passi che le sirene esplosero.
 
@@ -156,11 +156,11 @@ Vaan non seppe se offendersi o no.
 
 Ashe lo fissò. Poi, senza rispondere, si voltò e riprese a camminare.
 
-Basch le andò davanti. Lei non rispose.
+Basch le si affiancò. Lei guardò Fran e riprese a seguirla.
 
 Vossler restò un passo indietro, e Basch rallentò quanto bastava per trovarsi al suo fianco per un tratto, nel rosso intermittente delle lampade. Davanti a loro la principessa camminava dritta, con le spalle tese e il pugno sinistro chiuso, e i suoi passi sul metallo erano più rapidi del necessario.
 
-«Non sopporta di sembrare debole» disse Vossler, a bassa voce, guardandola. «Davanti a nessuno. Davanti a se stessa ancora meno. Ha perso il padre e il marito e il trono in un mese, e poi per due anni ha dovuto fingere di non esistere. Ha dormito in cantine. Ha mangiato con i contadini di Giza. Ha imparato a usare la spada di notte, da sola, contro un palo, perché non voleva che io la vedessi sbagliare.» Esitò. «E adesso deve accettare di essere salvata dall'uomo che crede le abbia tolto tutto. Non farà finta che non le costi niente. Non sa farlo.»
+«Non sopporta di sembrare debole» disse Vossler, a bassa voce, guardandola. «Davanti a nessuno. Davanti a se stessa ancora meno. Ha perso il padre e il marito e il trono in un mese, e poi per due anni ha dovuto fingere di non esistere. Ha dormito in cantine. Ha mangiato con i contadini di Giza. Si è esercitata con la spada di notte, da sola, contro un palo, perché non voleva che io la vedessi sbagliare.» Esitò. «E adesso deve accettare di essere salvata dall'uomo che crede le abbia tolto tutto. Non farà finta che non le costi niente. Non sa farlo.»
 
 «Lo so» disse Basch.
 

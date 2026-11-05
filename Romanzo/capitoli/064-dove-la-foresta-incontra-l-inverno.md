@@ -10,7 +10,7 @@
 
 Il fiume li accompagnò per sei giorni, e ogni giorno era più freddo del precedente.
 
-Usciva da Golmore a nord-est, da sotto le ultime radici, largo e marrone e tiepido come un brodo, con le foglie che ci galleggiavano sopra e gli insetti che ci ronzavano sopra le foglie. La compagnia lo prese come guida, perché Fran disse che andava dove andavano loro, e lo seguì lungo la riva, verso monte, per una pista di fango battuto che i pellegrini usavano da secoli e che nessun impero si era mai preso il disturbo di lastricare. Il primo giorno ci si poteva ancora fare il bagno. Penelo ci mise i piedi, la sera, e disse che era come mettere i piedi in una pentola. Il secondo giorno l'acqua era diventata grigia e veloce, e Vaan ci cadde dentro inseguendo un pesce e ne uscì blu. Il terzo giorno gli alberi della giungla erano finiti, e al loro posto c'erano pini scuri e radi, piegati tutti dalla stessa parte, e il fiume correva fra sassi bianchi, e sulla riva, la mattina, c'era una crosta sottile che si rompeva sotto gli stivali con un suono di zucchero.
+Al margine nord-orientale di Golmore scorreva sotto le ultime radici, largo e marrone e tiepido come un brodo, con le foglie che ci galleggiavano sopra e gli insetti che ci ronzavano sopra le foglie. La compagnia lo prese come guida, perché Fran disse che risalendolo sarebbero arrivati al monte sacro, e lo seguì lungo la riva, verso monte, per una pista di fango battuto che i pellegrini usavano da secoli e che nessun impero si era mai preso il disturbo di lastricare. Il primo giorno ci si poteva ancora fare il bagno. Penelo ci mise i piedi, la sera, e disse che era come mettere i piedi in una pentola. Il secondo giorno l'acqua era diventata grigia e veloce, e Vaan ci cadde dentro inseguendo un pesce e ne uscì blu. Il terzo giorno gli alberi della giungla erano finiti, e al loro posto c'erano pini scuri e radi, piegati tutti dalla stessa parte, e il fiume correva fra sassi bianchi, e sulla riva, la mattina, c'era una crosta sottile che si rompeva sotto gli stivali con un suono di zucchero.
 
 Il quarto giorno il fiume cominciò a gelare.
 
@@ -18,7 +18,7 @@ Non tutto. Ai bordi, dove l'acqua rallentava, si formavano lastre di ghiaccio so
 
 Nessuno di loro era vestito per questo. Erano partiti da Rabanastre nella stagione delle piogge, avevano attraversato Ozmone sotto il sole e Golmore in un caldo da serra, e avevano addosso cotone, lino, cuoio leggero. Ashe aveva il mantello della Resistenza, che era fatto per la sabbia. Larsa aveva il suo mantello grigio da viaggio, che era fatto per le carrozze. Basch, che era nato in un paese dove nevicava sei mesi l'anno, guardava gli altri tremare con un'espressione che chiunque altro avrebbe chiamato soddisfazione e che in lui era soltanto memoria.
 
-«Da dove vengo io» disse la quarta sera «questo lo chiamavamo autunno.»
+«Da dove vengo io» disse una sera «questo lo chiamavamo autunno.»
 
 «Da dove vengo io» disse Vaan, battendo i denti «questo non lo chiamiamo. Non esiste.»
 

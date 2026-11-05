@@ -140,7 +140,7 @@ Balthier restò indietro. Jules era ancora accanto al lampione, con il fascio di
 
 «E il momento giusto eravamo noi.»
 
-«Il momento giusto sei tu.» Jules si voltò finalmente a guardarlo. Il sorriso era sempre lì, ma la voce era scesa di tono. «Non le spade. Non la rissa. Le spade sono un regalo e la rissa una cortesia. Il vero affare della giornata, vecchio mio, è che il figlio perduto della famiglia Bunansa è tornato ad Archades. Con una viera, una spada avvolta in una coperta e una compagnia molto interessante.» Si toccò la tesa del cappello. «Una notizia così vale più di tutti i barili della città.»
+«Il momento giusto sei tu.» Jules si voltò finalmente a guardarlo. Il sorriso era sempre lì, ma la voce era scesa di tono. «Le spade sono un regalo e la rissa una cortesia. Il vero affare della giornata, vecchio mio, è che il figlio perduto della famiglia Bunansa è tornato ad Archades. Con una viera, una spada avvolta in una coperta e una compagnia molto interessante.» Si toccò la tesa del cappello. «Una notizia così vale più di tutti i barili della città.»
 
 Balthier non rispose. Stette fermo un momento, il tempo che serve a decidere di non dare un pugno a qualcuno.
 

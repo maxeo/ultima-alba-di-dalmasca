@@ -50,9 +50,13 @@ Si tolse il mantello e i guanti bianchi. Li piegò, con cura, e li posò sul bra
 
 Vayne non prese una spada. Non ne aveva bisogno. Combatteva con le mani e con i piedi, nel modo che si insegna ai figli delle grandi famiglie di Archades nelle palestre private, dove i maestri non portano armi perché non serve; ma lo faceva con una forza che non era di quel genere di palestre. Ogni suo colpo spostava l'aria. Quando calò il palmo aperto verso Basch, Basch lo parò con la spada e fu sbattuto indietro di cinque passi, come da un ariete.
 
-Combatterono tutti. Ashe con la spada da soldato, che sul piatto si ammaccò al primo colpo parato. Balthier e Fran ai lati, a distanza. Vaan con la spada di Reddas, corta e larga, che finalmente aveva imparato a tenere, più o meno. Penelo dietro, con il bastone e con la voce, a rimettere in piedi chi cadeva. E Larsa, con la sua spada da cerimonia, che non colpiva quasi mai e che non si ritirava mai.
+Combatterono tutti. Ashe con la spada da soldato, che sul piatto si ammaccò al primo colpo parato. Balthier e Fran ai lati, a distanza. Vaan con la spada di Reddas, lunga e sottile, che finalmente aveva imparato a tenere, più o meno. Penelo dietro, con il bastone e con la voce, a rimettere in piedi chi cadeva. E Larsa, con la sua spada da cerimonia, che non colpiva quasi mai e che non si ritirava mai.
 
-Fu lungo. Vayne non sembrava stancarsi. Si muoveva fra loro come un ballerino fra i tavoli di una sala, e dove passava qualcuno cadeva. Ma cadevano e si rialzavano, e alla fine fu Ashe a trovare l'apertura, sotto il braccio sinistro, quando Vayne si girò per respingere Basch; la spada da soldato entrò fra le costole e uscì, e Vayne si piegò in avanti, e Balthier lo colpì alla spalla, e l'imperatore di Archadia cadde in ginocchio sul pavimento della sua sala di comando, e poi su un fianco.
+Vayne respinse Basch con entrambe le mani. Ashe vide il fianco sinistro scoperto e ci spinse la lama da soldato. Sentì la punta urtare una costola, poi cedere.
+
+«Indietro» disse Balthier.
+
+Ashe strappò la spada e si scostò; il colpo di pistola prese Vayne alla spalla. L'imperatore di Archadia cadde in ginocchio sul pavimento della sua sala di comando, poi su un fianco.
 
 Rimase lì. Ansimava. La camicia bianca gli si stava macchiando di rosso.
 
@@ -92,7 +96,7 @@ Gabranth non rispose. Attraversò la sala, lentamente, fino a Larsa. Si inginocc
 
 «Non importa.»
 
-Gabranth si alzò. Accanto al banco degli strumenti c'era la piccola spada da cerimonia di Larsa, quella con l'elsa d'argento, che il ragazzo aveva lasciato cadere. Gabranth la raccolse. In quella manopola di metallo sembrava un giocattolo. La guardò.
+Gabranth si alzò. Recuperò al centro della sala la piccola spada da cerimonia di Larsa, quella con l'elsa d'argento, che il ragazzo aveva lasciato cadere. Nella manopola di metallo sembrava un giocattolo. La guardò.
 
 Basch, che lo guardava dall'altra parte della sala, sapeva già. Lo sapeva da quando, salendo con l'ascensore, aveva visto il fratello posare le spade. Ma lo vide succedere lo stesso con il fiato sospeso, come se non lo sapesse.
 
@@ -112,7 +116,7 @@ Basch gli fu accanto. Non se lo dissero. Basch arrivò alla sua destra, e Gabran
 
 ---
 
-Lo scontro con quella cosa che era stata Vayne lo raccontarono poi in modo confuso, e anche il cronista, che ha raccolto molte versioni, rinuncia a metterle d'accordo. Le spade di vetro volavano. Colpivano da tutte le parti, sole, senza mani, e per raggiungere Vayne bisognava passarci attraverso. Vayne fluttuava a un palmo dal pavimento e rideva, e dalle sue mani usciva la luce rossa in onde che rovesciavano i banchi e spaccavano le vetrate. A un certo punto sopra di loro le spade si radunarono tutte insieme e formarono una specie di grande albero di lame, che si aprì e cadde su di loro come una pioggia, e Penelo ricordò per tutta la vita il rumore che fecero sul pavimento, come una grandinata su un tetto di latta.
+Le spade di vetro volavano. Colpivano da tutte le parti, sole, senza mani, e per raggiungere Vayne bisognava passarci attraverso. Vayne fluttuava a un palmo dal pavimento e rideva; dalle sue mani usciva la luce rossa in onde che rovesciavano i banchi e spaccavano le vetrate. Sopra di loro le spade si radunarono tutte insieme e formarono una specie di grande albero di lame, che si aprì e cadde su di loro come una pioggia. Penelo ricordò per tutta la vita il rumore che fecero sul pavimento, come una grandinata su un tetto di latta.
 
 Ma si rialzarono. E quando la pioggia di lame finì e la luce rossa attorno a Vayne si fece più debole, per un respiro, Gabranth era già in movimento.
 
@@ -146,8 +150,6 @@ Ci fu una luce. Era bianca e azzurra, fredda, e partì da un punto basso della s
 
 Larsa era in piedi. Aveva il sangue che gli colava dalla tempia e una mano appoggiata al banco per non cadere. Nell'altra mano, alzata sopra la testa, teneva una pietra. Era piccola, liscia, a facce, di un grigio che dentro diventava azzurro. Penelo la riconobbe e si portò le mani alla bocca.
 
-Era la pietra che Larsa le aveva regalato a Lhusu, una vita prima. La pietra che lei aveva portato per settimane al collo, che a bordo del Leviatano aveva bevuto la magia di un Giudice, e che poi lui le aveva chiesto indietro, con molte scuse, perché ne aveva bisogno, e che lei gli aveva reso pensando che non l'avrebbe vista mai più.
-
 La luce si spense. La pietra, nella mano di Larsa, era diventata nera, e si incrinò da una parte all'altra con un piccolo suono di vetro. Larsa la guardò. Poi guardò Penelo, dall'altra parte della sala.
 
 «Scusa» disse. «Credo di averla rotta.»
@@ -158,7 +160,7 @@ Vayne guardava il fratello. Per la prima volta da quando lo conoscevano, l'imper
 
 Fu Vaan a muoversi.
 
-Non ci pensò. Se ci avesse pensato non lo avrebbe fatto. Era più vicino di tutti, e aveva in mano la spada di Reddas, corta, larga, con la guardia a ricciolo; e Vayne, per quel respiro, non guardava lui. Vaan corse. Corse dritto attraverso la sala, sopra le schegge delle vetrate, e Vayne si voltò troppo tardi, e la spada di un Giudice che aveva distrutto una città e che era morto per non farlo più gli entrò nel fianco.
+Non ci pensò. Se ci avesse pensato non lo avrebbe fatto. Era più vicino di tutti, e aveva in mano la spada di Reddas, lunga e sottile, con la guardia a ricciolo; e Vayne, per quel respiro, non guardava lui. Vaan corse. Corse dritto attraverso la sala, sopra le schegge delle vetrate, e Vayne si voltò troppo tardi, e la spada di un Giudice che aveva distrutto una città e che era morto per non farlo più gli entrò nel fianco.
 
 La forza del colpo lo spinse indietro. Vayne barcollò, perse l'appoggio, e il pavimento dietro di lui non c'era più: c'era la vetrata spaccata, e oltre la vetrata una passerella esterna, stretta, sospesa sul vuoto, che girava attorno alla torre di comando. Vayne ci cadde sopra. Rotolò. Si fermò sul bordo.
 

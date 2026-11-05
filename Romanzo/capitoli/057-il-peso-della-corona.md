@@ -112,8 +112,6 @@ Indicò davanti a sé con il mento. Non aggiunse niente. Ashe seguì il suo sgua
 
 Vaan, Penelo e Larsa erano arrivati in cima a una piccola altura e si erano fermati, tutti e tre, a guardare qualcosa dall'altra parte. Stavano spalla a spalla, sagome scure contro il cielo chiaro di Ozmone, il ragazzo di Rabanastre con l'arco storto in spalla, la ragazza con le dita ancora viola di bacche di sorbo, il principe di Archadia con il colletto bianco sporco di erba. Penelo indicò qualcosa. Larsa disse una cosa che non si sentì. Vaan gli diede una spinta, non forte, e Larsa gliene restituì una, più debole, e poi tutti e tre si misero a ridere e ripresero a scendere dall'altra parte.
 
-Secondo la logica degli imperi, quei tre avrebbero dovuto odiarsi. Il padre dell'uno aveva conquistato la città degli altri due. Il fratello dell'uno aveva fatto morire il fratello dell'altro, o almeno aveva fatto la guerra in cui era morto, il che per la logica degli imperi è lo stesso. Le cronache di tutti gli imperi danno ragione a quella logica quasi sempre. Quasi.
-
 «È quella» disse Basch. «La speranza di cui parlavo.»
 
 Ashe guardò l'altura vuota, dove i tre ragazzi erano spariti.
@@ -122,7 +120,7 @@ Ashe guardò l'altura vuota, dove i tre ragazzi erano spariti.
 
 «Sì. Ma crescono.»
 
-Lei non rispose. Ripresero a camminare, e per un lungo tratto nessuno dei due disse niente, e la principessa di Dalmasca non aveva ancora rinunciato alla vendetta, e non aveva ancora trovato la pace, ma aveva cominciato, senza accorgersene, a pensare a cosa vuol dire governare per qualcuno invece che contro qualcuno. Non lo avrebbe ammesso. Non per molto tempo.
+Lei non rispose. Ripresero a camminare. Ashe tenne gli occhi sull'altura finché non ne ebbero raggiunto la cima; dall'altra parte Penelo aspettava, seduta su una pietra, mentre i due ragazzi cercavano una freccia nell'erba.
 
 ---
 
@@ -152,25 +150,21 @@ Bergan fece un passo verso di lei. L'elmo lo rendeva più alto di una testa.
 
 «Le tue domande sono sassi.»
 
-«Allora eccone un'altra.» Drace non arretrò. «Il principe Vayne ha fatto giustiziare due suoi fratelli. I due maggiori. Due Solidor, sangue dell'imperatore. Adesso è il primo dei figli vivi, il primo nella successione. Non lo trovi un caso fortunato?»
+«Allora eccone un'altra.» Drace non arretrò. «Se è così sicuro dell'esercito, perché dovrebbe temere di rispondere al Senato?»
 
-Ci fu un silenzio lungo, nel corridoio. In fondo, un servitore che portava un vassoio si fermò di colpo, girò sui tacchi e tornò indietro da dove era venuto, con la discrezione eroica di chi sa che certe frasi non vanno mai sentite.
+In fondo al corridoio, un servitore che portava un vassoio si fermò, girò sui tacchi e tornò da dove era venuto.
 
-«Erano traditori» disse Bergan.
+«Il principe deve rispondere all'imperatore» disse Bergan. «I senatori si occupino delle loro carte. Non sono loro a portare il peso dell'Impero.»
 
-«Così fu detto.»
-
-«E il principe non ha avuto pietà. Nemmeno per il suo sangue.» Bergan si raddrizzò. «È questo che lo rende degno. Un uomo che risparmia i traditori perché sono suoi fratelli non è un uomo che può portare il peso dell'Impero. Il principe Vayne lo può.»
-
-«Forse lo può» disse Drace. «Ma l'Impero, Bergan, può portare il peso del principe Vayne?»
+«Forse Vayne lo può» disse Drace. «Ma l'Impero, Bergan, può portare il peso del principe Vayne?»
 
 Bergan non rispose. Drace si voltò verso il più vecchio dei quattro.
 
-«E tu, Zargabaath? Credi davvero che fossero traditori?»
+«E tu, Zargabaath? Chi deve giudicare?»
 
 Zargabaath non si mosse per un poco. Quando parlò, la sua voce era quella di un uomo che ha imparato a misurare ogni parola sulla bilancia prima di lasciarla uscire, e che ha visto troppi colleghi pesarle male.
 
-«L'imperatore Gramis li ha giudicati colpevoli» disse. «L'imperatore Gramis ha chiuso il caso. Quella è la sentenza del sovrano.» Fece una pausa. «E tu, Drace, faresti bene a ricordare che le sentenze del sovrano non si discutono nei corridoi. Neanche nei corridoi vuoti.»
+«L'imperatore Gramis ha richiamato il figlio» disse. «A lui spetta ascoltarlo.» Fece una pausa. «E tu, Drace, faresti bene ad aspettare la sentenza del sovrano. Le sentenze non si fanno nei corridoi. Neanche nei corridoi vuoti.»
 
 «Questo corridoio non è vuoto.»
 
@@ -180,7 +174,7 @@ Gabranth parlò per la prima volta. Aveva aspettato che il silenzio diventasse a
 
 «Il principe Vayne è arrivato» disse. «È nella sala delle udienze. Ci vuole tutti.»
 
-La sua voce, dentro l'elmo, era bassa e piana, e a chi l'avesse sentita quel giorno a Ozmone, dall'altra parte del mondo, avrebbe ricordato un'altra voce, che aveva appena finito di chiedere che importanza avesse il proprio orgoglio. Ma a Ozmone nessuno l'aveva sentita, e ad Archades nessuno aveva sentito l'altra, e le due voci rimasero ciascuna nel suo paese, separate da tutte le montagne di Ivalice, senza sapere di somigliarsi.
+La sua voce, dentro l'elmo, era bassa e piana, simile a quella che a Ozmone aveva appena chiesto che importanza avesse il proprio orgoglio. Gabranth non aspettò la risposta di Drace; guardava già verso la sala delle udienze.
 
 Bergan e Zargabaath si allontanarono subito, con il passo largo e il passo cauto. Drace rimase.
 

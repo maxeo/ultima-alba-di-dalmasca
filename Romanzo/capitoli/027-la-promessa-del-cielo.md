@@ -164,7 +164,7 @@ Vaan fermò la mano a un dito dal metallo. «Non stavo toccando.»
 
 Balthier passò accanto al pannello. «Nono. Stiamo per partire.»
 
-Da dentro arrivò un rumore metallico, poi il meccanico scivolò fuori e si rialzò con una chiave quasi lunga quanto il braccio. Aveva un berretto di lana fra le orecchie e una macchia d'olio sulla guancia. Guardò il capitano con la pazienza di chi vede arrivare il proprio mestiere sotto forma di problema.
+Da dentro arrivò un rumore metallico, poi il meccanico scivolò fuori e si rialzò con una chiave quasi lunga quanto il braccio. Aveva un berretto di lana fra le orecchie e una macchia d'olio sulla guancia. Guardò Balthier con la pazienza di chi vede arrivare il proprio mestiere sotto forma di problema.
 
 «Stiamo per partire da ieri, kupò.»
 

@@ -114,7 +114,7 @@ Fran era comparsa sul sentiero, sopra di loro. Era scesa dalla terrazza di sopra
 
 «Il protagonista» disse lei «ha lasciato i viveri nella casa.»
 
-Balthier chiuse gli occhi per un istante. Poi risalì il sentiero, passandole accanto con grande dignità, e lei lo lasciò passare. Basch restò solo sulla terrazza. Guardò la pianura ancora per un poco. Non aveva avuto la risposta che cercava, e lo sapeva; ma aveva visto, per la durata di una frase, un uomo che faceva lo spiritoso perché non voleva rispondere, e questo, per un uomo come Basch, era già una risposta, anche se non sapeva a cosa.
+Balthier chiuse gli occhi per un istante. Poi risalì il sentiero, passandole accanto con grande dignità, e lei lo lasciò passare. Basch restò sulla terrazza finché il pirata non ricomparve con i viveri. Questa volta Balthier gli mostrò la sacca da lontano, senza fermarsi a parlare.
 
 ---
 
@@ -138,7 +138,7 @@ Balthier si illuminò. Fu l'unica volta, in tutto il viaggio, che qualcuno lo vi
 
 «Se la strada vi riporta qui» disse il Garif «sarete ospiti. Che gli spiriti della terra camminino con voi.»
 
-La moguri delle stalle era piccola anche per una moguri, con il pelo color sabbia e un pompon rosso che le pendeva sopra la testa un po' storto, e si chiamava Hurrin. Teneva sei chocobo in un recinto dietro l'ultima casa di Jahara, e li trattava con una severità che i chocobo ricambiavano con un'adorazione abietta. Diede loro un uccello giallo e grasso, già sellato, con un'aria rassegnata e intelligente.
+La moguri delle stalle era piccola anche per una moguri, con il pelo color sabbia e un pompon rosso che le pendeva sopra la testa un po' storto, e si chiamava Hurrin. Teneva sei chocobo in un recinto dietro l'ultima casa di Jahara, e li trattava con una severità che i chocobo ricambiavano con un'adorazione abietta. Diede loro un uccello giallo e grasso, già sellato, con un'aria rassegnata e intelligente. Larsa le lasciò in custodia quello comprato a Giza.
 
 «Supinelu ha detto gratis, kupò. Gratis il chocobo.» Hurrin accarezzò il collo dell'animale. «Le notizie non sono gratis.»
 
@@ -154,7 +154,7 @@ Balthier sospirò e cominciò a frugarsi in tasca. Hurrin alzò una zampa.
 
 ---
 
-Partirono a metà mattina. La compagnia era di sette, adesso, più un chocobo, e attraversava la terrazza più bassa di Jahara in un ordine che nessuno aveva deciso e che tutti, senza parlarne, avrebbero mantenuto per giorni. Basch in testa, con Ashe. Balthier e Fran subito dietro, lui con gli stivali rovinati, lei con il chocobo per le redini, che il chocobo aveva scelto lui stesso, avvicinandosi a lei e rifiutandosi di andare con chiunque altro. In fondo Vaan, Penelo e Larsa, che camminavano insieme e discutevano, e a sentirli da lontano non si sarebbe detto che uno dei tre fosse il figlio dell'imperatore di Archadia e gli altri due due orfani della Città Bassa che quell'imperatore aveva reso orfani.
+Partirono a metà mattina. La compagnia era di sette, adesso, più un chocobo, e attraversava la terrazza più bassa di Jahara in un ordine che nessuno aveva deciso. Basch in testa, con Ashe. Balthier e Fran subito dietro, lui con gli stivali rovinati, lei con il chocobo per le redini, che il chocobo aveva scelto lui stesso, avvicinandosi a lei e rifiutandosi di andare con chiunque altro. In fondo Vaan, Penelo e Larsa, che camminavano insieme e discutevano, e a sentirli da lontano non si sarebbe detto che uno dei tre fosse il figlio dell'imperatore di Archadia e gli altri due fossero orfani della Città Bassa, cresciuti sotto l'occupazione dei suoi soldati.
 
 Discutevano dell'arco.
 

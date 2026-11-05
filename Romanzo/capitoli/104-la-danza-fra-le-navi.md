@@ -36,7 +36,7 @@ Lo aveva visto in molti modi, in quei mesi. Lo aveva visto elegante nelle tavern
 
 Era contento, e non c'era niente di cui essere contenti. C'erano navi che bruciavano tutto attorno a loro, e uomini che cadevano dal cielo, e laggiù sotto c'era una città vuota con la sua ombra sopra. Ma Balthier era nell'unico posto dove nessuno, né un padre né un impero né un nome, poteva raggiungerlo, e faceva l'unica cosa che sapeva fare meglio di chiunque altro al mondo, e per il tempo di quella danza era libero.
 
-Vaan lo guardò, e capì una cosa, e la tenne per sé per molti anni. Capì che era quello che voleva. Non la nave. Non il cielo. Quello: essere nell'unico posto dove nessuno può raggiungerti, e da lì fare la cosa giusta.
+Vaan lo guardò e per la prima volta riuscì a immaginarsi al suo posto, con le mani sulla barra e una città da difendere sotto lo scafo.
 
 «Due a destra» disse Fran. «Nuova formazione. Alta. Sei.»
 
@@ -86,17 +86,17 @@ Dal fumo uscì un uomo grande come un armadio, in un'armatura rossa e oro tutta 
 
 Vaan si fermò di colpo. Penelo gli finì contro la schiena.
 
-«Ha...»
+«Le usa...»
 
 «Sì» disse Fran.
 
-«Sei...»
+«Tutte e sei...»
 
 «Sì.»
 
 «Ma ad Archades...»
 
-«Ad Archades aveva il mantello chiuso» disse Balthier, con l'aria di un uomo che ha appena capito una cosa che lo aveva tormentato a lungo. «Ecco perché si muoveva in quel modo. Pensavo fosse lo stile.»
+«Ad Archades aveva il mantello chiuso» disse Balthier. «E anche con sei braccia era riuscito a farsi cadere addosso una tettoia.»
 
 Le guardie della fortezza fecero un tentativo. Lo fecero tutte insieme, con le lance basse, e Gilgamesh le aspettò con le sei braccia aperte e un grido di gioia, e per qualche momento la piattaforma fu un turbine di metallo e di scudi che volavano e di soldati che si ritrovavano seduti per terra senza sapere come. Non uccise nessuno. Si capiva che non gli interessava. Gli interessavano le spade: ogni volta che una guardia perdeva la sua, una delle sei mani la raccoglieva al volo, la guardava, la soppesava, e la buttava via con disprezzo, oppure la infilava nel fascio sulla schiena con un piccolo verso di approvazione.
 

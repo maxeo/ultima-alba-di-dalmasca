@@ -14,11 +14,11 @@ Nessuno rispose. Basch si era messo davanti, e la principessa, questa volta, era
 
 Ghis guardò la principessa.
 
-«Sono deluso» disse. «Sinceramente. Speravo che una notte in cella vi avrebbe portato consiglio. Vi avevo offerto un ruolo. Un ruolo con un trono intorno, mia signora. Il console è un uomo paziente, ma la pazienza degli uomini pazienti, quando finisce, finisce tutta in una volta.» Inclinò la testa. «Avete scelto ancora una volta la rivolta.»
+«Sono deluso» disse. «Sinceramente. Speravo che tornare in cella vi avrebbe portato consiglio. Vi avevo offerto un ruolo. Un ruolo con un trono intorno, mia signora. Il console è un uomo paziente, ma la pazienza degli uomini pazienti, quando finisce, finisce tutta in una volta.» Inclinò la testa. «Avete scelto ancora una volta la rivolta.»
 
 «La Resistenza» disse Ashe.
 
-«Ah, sì. Mi ero dimenticato.» Ghis fece un piccolo gesto con la mano. «Ma non importa più. Vedete, ieri il vostro rifiuto era un problema. Oggi non lo è.» Con l'altra mano tirò fuori da sotto il mantello qualcosa, e lo sollevò perché tutti lo vedessero. Era il Frammento. Grigio-azzurro, spento, grande quanto un uovo. «Ieri l'impero aveva una principessa senza prova. Oggi ha una prova. E una prova, mia signora, non ha bisogno della principessa.»
+«Ah, sì. Mi ero dimenticato.» Ghis fece un piccolo gesto con la mano. «Ma non importa più. Vedete, stamattina il vostro rifiuto era un problema. Adesso non lo è.» Con l'altra mano tirò fuori da sotto il mantello qualcosa, e lo sollevò perché tutti lo vedessero. Era il Frammento. Grigio-azzurro, spento, grande quanto un uovo. «Prima l'impero aveva una principessa senza prova. Adesso ha una prova. E una prova, mia signora, non ha bisogno della principessa.»
 
 Ashe non si mosse.
 
@@ -52,7 +52,7 @@ Si scontrarono. Caddero tutti e due, di lato, in un groviglio di braccia e di as
 
 E si spense.
 
-Non esplose. Non si dissolse. Si contrasse, di colpo, come un respiro trattenuto, e la luce si piegò, e tutta quanta, la luce e il calore e il rumore e il vento torto, si riversò in un punto solo, piccolissimo, all'altezza della gonna di Penelo. Ci fu un suono che Vaan non dimenticò mai, un suono come quello che fa l'acqua quando finisce di scendere da un lavatoio, un gorgoglio rapido e profondo. Poi niente.
+La sfera si contrasse di colpo, come un respiro trattenuto, e la luce si piegò, e tutta quanta, la luce e il calore e il rumore e il vento torto, si riversò in un punto solo, piccolissimo, all'altezza della gonna di Penelo. Ci fu un suono che Vaan non dimenticò mai, un suono come quello che fa l'acqua quando finisce di scendere da un lavatoio, un gorgoglio rapido e profondo. Poi niente.
 
 L'hangar era silenzioso. Il vento era tornato a soffiare dalla bocca del cielo, normale.
 
@@ -84,9 +84,7 @@ Poi l'elmo si girò di nuovo verso Ashe, che non si era mossa.
 
 «Siete proprio come vostro padre» disse. «Lo sapete? Me lo hanno raccontato, quelli che c'erano. Il giorno della resa, a Nalbina, gli avevano offerto un modo per salvare la faccia. Una formula, un titolo, un regno di nome. Gli bastava firmare con un po' di grazia. E lui lo ha rifiutato, per orgoglio, per fedeltà a un'idea, ed è andato a farsi ammazzare.» La voce tornò calda, ma adesso era il calore di un ferro. «Vedo che il sangue di Raminas non ha perso il suo talento. Rovinare il proprio popolo con dignità.»
 
-Soltanto allora la principessa si mosse.
-
-Non disse niente. Si chinò, raccolse da terra la spada che uno dei soldati della scorta, nel corridoio dello sgabuzzino, aveva perso e che Vossler le aveva messo in mano senza una parola e che lei aveva portato fin lì senza mai impugnarla. La impugnò. E andò avanti.
+Soltanto allora la principessa si mosse. Strinse la spada imperiale che Vossler le aveva dato alle celle e andò avanti.
 
 «Non pronunciare il suo nome.»
 
@@ -100,17 +98,13 @@ E i soldati, tutti insieme, si mossero.
 
 ---
 
-Lo scontro nell'hangar del Leviatano durò poco più di quanto ci vuole a raccontarlo, e lo raccontarono in molti. Ma chi c'era, quando lo raccontava, finiva per dire sempre le stesse due o tre cose, e quelle sono le sole che contano.
+Basch raggiunse il fianco sinistro della principessa, mezzo passo indietro. Il primo soldato che provò a passarle accanto trovò la sua lama e dovette arretrare contro i compagni. Ashe non si voltò. Teneva la spada imperiale con la sola destra; la sinistra restava chiusa contro il fianco. La punta le cadeva sotto il peso del ferro, e lei la rialzava con uno scatto del polso, sprecando forza. Quando Ghis le aprì la guardia, ripiegò il gomito e parò, con un movimento rapido che i suoi maestri avrebbero riconosciuto. Poi tornò a colpire troppo in fretta.
 
-Che Basch arrivò accanto alla principessa senza che nessuno lo vedesse muoversi, e da quel momento fino alla fine rimase al suo fianco sinistro, mezzo passo indietro, e non le parlò una volta e lei non gli parlò una volta, e che nessuno dei soldati che provarono ad avvicinarsi a lei da sinistra ci arrivò.
+Penelo prese un soldato negli stinchi con l'asta delle catene. Quello cadde in ginocchio e rimase a guardarla, sbalordito.
 
-Che la principessa combatteva male. Che aveva una spada imperiale troppo pesante per lei e la teneva con una sola mano, la destra, perché la sinistra le restava chiusa a pugno contro il fianco, e che menava colpi rapidi e corti e furiosi, del tutto fuori da qualunque scuola, i colpi di chi ha imparato da sola, di notte, contro un palo. E che non indietreggiò di un passo.
+«Scusa» disse lei, e lo colpì di nuovo.
 
-Che Penelo, con l'asta di ferro delle catene, prese un soldato negli stinchi con tanta precisione che il soldato cadde in ginocchio e rimase lì a guardarla, sbalordito, e che lei gli disse *scusa* e poi lo colpì di nuovo.
-
-Che Balthier sparò quattro colpi e ne andarono a segno quattro, e che Fran ne tirò sei e ne andarono a segno sei, e che fra un colpo e l'altro i due non si guardarono mai, perché non ne avevano bisogno.
-
-E che Vaan, a un certo punto, si trovò davanti al Giudice.
+Balthier sparava da dietro una navetta. Vaan contò quattro colpi, tutti a segno; sopra le detonazioni passavano le frecce di Fran, sei, senza che lei e il pirata si guardassero una volta. Il ragazzo scansò un soldato che cadeva e si trovò davanti al Giudice.
 
 Non lo aveva deciso. Si era trovato lì perché la mischia lo aveva spinto lì, e Ghis stava parando un colpo della principessa e se ne liberò con una torsione del polso che le fece quasi cadere la spada, e alzò la propria per colpirla dall'alto, e Vaan era a due passi, e si buttò. Non con la spada. Con la spalla. Andò contro il fianco del Giudice con tutto il peso che aveva, che non era molto, nel punto in cui l'armatura si apre per lasciar piegare la vita, e il Giudice, che si aspettava di tutto tranne un ladro della Città Bassa che gli si scaraventava addosso come in una rissa da taverna, perse l'equilibrio di mezzo passo.
 
@@ -134,7 +128,7 @@ Poi una voce gridò dall'alto.
 
 ---
 
-Vossler era affacciato a una passerella che correva lungo la parete dell'hangar, a metà altezza, e indicava qualcosa più in là, oltre l'ultima fila di navette, vicino alla bocca del cielo. Una nave. Una sola, con i motori già accesi e il portello aperto, che vibrava sulle sue catene come un cane al guinzaglio.
+Vossler era affacciato a una passerella che correva lungo la parete dell'hangar, a metà altezza, e indicava qualcosa più in là, oltre l'ultima fila di navette, vicino alla bocca del cielo. Una nave. Una sola, con i motori già accesi e il portello aperto, che vibrava sui sostegni.
 
 Ashe abbassò la spada.
 
@@ -172,7 +166,7 @@ Vaan si sedette sulla panca vicino a Penelo e non ne parlò più.
 
 ---
 
-L'Atomos si staccò dalle catene con uno strattone e scivolò fuori dalla bocca dell'hangar nel vento, e per un istante, mentre la corazzata gli passava sopra e il cielo gli si apriva sotto, a tutti si strinse lo stomaco, perfino a Basch. Poi la navetta si stabilizzò. Fran la portò in basso, sotto il ventre del Leviatano, e poi di lato, e la corazzata cominciò ad allontanarsi.
+L'Atomos si sollevò dai sostegni con uno strattone e scivolò fuori dalla bocca dell'hangar nel vento, e per un istante, mentre la corazzata gli passava sopra e il cielo gli si apriva sotto, a tutti si strinse lo stomaco, perfino a Basch. Poi la navetta si stabilizzò. Fran la portò in basso, sotto il ventre del Leviatano, e poi di lato, e la corazzata cominciò ad allontanarsi.
 
 Lentamente.
 
@@ -223,10 +217,6 @@ Il Leviatano diventò piccolo. Poi diventò una sagoma fra le altre, e le altre 
 Nella stiva nessuno parlava. Penelo si era addormentata quasi subito, con la testa sulla spalla di Vaan e la scheggia scura stretta nella mano fasciata. Vaan non si muoveva per non svegliarla. Vossler stava in piedi vicino alla paratia, con le braccia incrociate, e guardava la principessa.
 
 Ashe sedeva da sola sulla panca in fondo. Aveva posato la spada imperiale accanto a sé e guardava l'oblò, il cielo, le nuvole che scorrevano, e non le vedeva. Teneva la mano sinistra in grembo, chiusa. Basch stava a tre passi, dall'altra parte della stiva, e non la guardava, e sapeva esattamente dove fosse in ogni momento.
-
-Aveva perso il Frammento. La prova del suo sangue, la pietra di suo padre, era rimasta nell'hangar, in mano a un uomo in ginocchio che lei non aveva ucciso. Aveva perso il nome: da qualche parte, ad Archades, una donna con i suoi colori avrebbe imparato a firmare come lei.
-
-Ma era viva. Questo era tutto.
 
 A un certo punto, molto più tardi, quando il sole era già alto, Vaan la vide aprire la mano sinistra. La aprì lentamente, dito per dito. Sul dito, largo, c'era l'anello. Lo guardò per un pezzo. Poi richiuse la mano.
 

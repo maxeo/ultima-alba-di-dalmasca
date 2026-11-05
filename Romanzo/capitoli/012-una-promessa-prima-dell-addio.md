@@ -119,11 +119,7 @@ Vaan non disse niente. Sapeva che Penelo non parlava mai dei suoi fratelli, e sa
 
 «Poi, quando è passata la carrozza, il chocobo si è fermato. Te lo ricordi? Quello che mangiava i petali.»
 
-«Pancia» disse Vaan.
-
-Penelo si girò. «Come lo sai che si chiamava Pancia?»
-
-«Non lo so. Lo diceva uno, alla fontana. Uno che vendeva datteri.» Vaan ci pensò. «Io ero sulla cisterna della via dei Tessitori. Con Reks. Avevo rubato una pesca.»
+«Me lo ricordo» disse Vaan. «Io ero sulla cisterna della via dei Tessitori. Con Reks. Avevo rubato una pesca.»
 
 «Ma va'.»
 
@@ -153,11 +149,7 @@ Lui non rispose. Prese un sasso dal bordo del canale e lo rigirò fra le dita, e
 
 ---
 
-C'è una cosa che il narratore di questa storia deve dire, a questo punto, e la dice per amore di giustizia verso un ragazzo di diciassette anni che non aveva gli strumenti per dirla da solo. La stanza sopra la bottega di Migelo era piccola, con un soffitto basso di travi e una finestra sola che dava sul cortile del pozzo. C'erano due brande. In una dormiva Vaan. Nell'altra, per settimane, aveva dormito suo fratello senza svegliarsi mai davvero, con gli occhi aperti sul soffitto, e Vaan gli aveva dato l'acqua col cucchiaio e gli aveva bagnato le labbra con un panno e gli aveva parlato per ore, e una mattina si era svegliato per terra accanto al letto e Reks non respirava più. La branda c'era ancora. Migelo aveva chiesto se voleva che la togliessero, e Vaan aveva detto di no, e poi non ci aveva mai più dormito nessuno, e lui ci girava attorno per andare alla finestra. Sulla finestra c'era il vaso verde della madre, con la crepa riparata col filo di ferro. Era il vaso dove avrebbe dovuto mettere i gigli.
-
-Quando Vaan diceva che voleva un'aeronave, e andarsene, e non chiedere il permesso a nessuno, tutti quelli che lo conoscevano pensavano al cielo. Era naturale: lo diceva guardando in alto. Ma nessuno, nemmeno Penelo, che era la più sveglia di tutti, aveva ancora pensato che un ragazzo può voler volare via non perché il cielo è grande ma perché la stanza è piccola. E che certe stanze, una volta che uno ci ha vegliato qualcuno, non si allargano più.
-
-Questo Vaan non lo sapeva dire. Disse invece un'altra cosa.
+La branda di Reks era ancora nella stanza sopra la bottega, fra quella di Vaan e la finestra. Migelo aveva chiesto se voleva che la togliessero. Vaan aveva detto di no. Ogni mattina, per arrivare al vaso verde, doveva girarle attorno.
 
 «Io me ne vado, Penelo.»
 
@@ -171,7 +163,7 @@ Lei non si mosse. «Lo so.»
 
 «Anche. Penso: e io?»
 
-Vaan rimase con la mezza metà di fico in mano.
+Vaan rimase con il mezzo fico in mano.
 
 «Non dico che devi portarmi» continuò lei in fretta, prima che lui potesse rispondere qualcosa di sbagliato. «Non dico niente. Non voglio un'aeronave. Mi viene il mal di mare anche sul carro dei nomadi, figurati. Dico solo... tu dici un giorno me ne vado, e ogni volta io penso a quel giorno, a com'è. Mi immagino di svegliarmi e di andare a portarti la focaccia sul davanzale e la finestra è chiusa. E non c'è un biglietto. Perché tu non lasci i biglietti. Tu non dici mai dove vai, Vaan, vai e basta, sono due anni che vai e basta.» Si fermò. Respirò. «Questo. Solo questo. Che una mattina la finestra è chiusa e io non lo so.»
 
@@ -201,7 +193,7 @@ Penelo si fermò.
 
 «Vaan.»
 
-Lui si fermò anche lui. Si girò. Lei stava in mezzo all'incrocio, con il bastone appoggiato a una spalla e la sacca all'altra, e la luce del mattino le prendeva mezza faccia.
+Anche Vaan si fermò e si girò. Lei stava in mezzo all'incrocio, con il bastone appoggiato a una spalla e la sacca all'altra, e la luce del mattino le prendeva mezza faccia.
 
 «Ieri è stato bello» disse. «Lo volevo dire. Non so perché lo devo dire. Ma lo dico.»
 

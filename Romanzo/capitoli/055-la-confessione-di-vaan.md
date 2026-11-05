@@ -1,6 +1,6 @@
 ## 55. La confessione di Vaan
 
-Si sedettero sul ponte, alla fine, perché restare in piedi su delle tavole che oscillano mentre si parla di un morto è una cosa che si può fare solo a teatro. Ashe si sedette per prima, con le gambe raccolte e la schiena contro uno dei pali che reggevano le corde. Vaan si sedette davanti a lei, con le gambe a penzoloni nel vuoto, e il ponte ondeggiò per il suo peso e poi si fermò. Sotto di loro, molto sotto, c'era il buio di un torrente che non si vedeva e si sentiva.
+Ashe si sedette per prima, con le gambe raccolte e la schiena contro uno dei pali che reggevano le corde. Aveva stretto tanto a lungo il corrimano che le fibre le avevano lasciato un solco sui palmi. Vaan si sedette davanti a lei, con le gambe a penzoloni nel vuoto, e il ponte ondeggiò per il suo peso e poi si fermò. Sotto di loro, molto sotto, c'era il buio di un torrente che non si vedeva e si sentiva.
 
 Vaan si accorse di avere ancora la focaccia in mano. La guardò. Poi la spezzò in due e ne offrì metà alla principessa, e lei, dopo un'esitazione, la prese, perché era troppo stanca per rifiutare e perché a un ragazzo della Città Bassa che ti offre metà del suo pane non si dice di no senza una buona ragione.
 
@@ -14,7 +14,7 @@ Non aveva cominciato da nessuna parte. Lo disse e basta, a metà di un pensiero,
 
 Ashe non disse niente.
 
-«Io gli ho detto che era scemo. Gliel'ho detto tre volte. Lui rideva e si guardava le maniche, perché la divisa gli stava larga, gliel'avevano data di un altro, più grosso. Ha detto che Migelo gliel'avrebbe stretta. Ha detto che non avevo capito niente.» Si fermò. «Aveva ragione. Non avevo capito niente. Neanche adesso, a dire il vero.»
+«Io gli ho detto che era scemo. Gliel'ho detto tre volte. Lui rideva e si guardava le maniche, perché la divisa gli stava larga, l'avevano tagliata per uno più grosso. Ha detto che Migelo gliel'avrebbe stretta. Ha detto che non avevo capito niente.» Si fermò. «Aveva ragione. Non avevo capito niente. Neanche adesso, a dire il vero.»
 
 «Voleva proteggere qualcosa» disse Ashe piano.
 
@@ -60,7 +60,7 @@ Si strinse nelle spalle.
 
 Ashe non lo interruppe.
 
-«Le aeronavi, il cielo, diventare pirata. Lo sai. Lo dico a tutti. L'ho detto così tante volte che ci credevo anch'io. Ci credo anche adesso, a metà.» Vaan alzò gli occhi verso le stelle. «Però stasera, quando Balthier mi ha chiesto cosa cerco, non sapevo rispondere. E allora ci ho pensato. E credo che il cielo… credo che non volevo il cielo. Volevo andare via. Da Rabanastre. Dalla stanza sopra la bottega, dove c'era il letto. Dalla via delle Fontane. Da tutti i posti dove ci passavo e mi veniva in mente lui. Se sei su una nave, sei in un posto dove lui non è mai stato. Non c'è niente che te lo ricorda. È per questo.»
+«Le aeronavi, il cielo, diventare pirata. Lo sai. Lo dico a tutti. L'ho detto così tante volte che ci credevo anch'io. Ci credo anche adesso, a metà.» Vaan alzò gli occhi verso le stelle. «Però a casa di Dalan, quando Balthier mi ha chiesto cosa cerco, non sapevo rispondere. E allora ci ho pensato. E credo che il cielo… credo che non volevo il cielo. Volevo andare via. Da Rabanastre. Dalla stanza sopra la bottega, dove c'era il letto. Dalla via delle Fontane. Da tutti i posti dove passavo e mi veniva in mente lui. Se sei su una nave, sei in un posto dove lui non è mai stato. Non c'è niente che te lo ricorda. È per questo.»
 
 Si fermò. Poi aggiunse, più piano:
 
@@ -92,7 +92,7 @@ Vaan non disse niente. Non c'era niente da dire, e per una volta lo capì da sol
 
 Vaan non disse niente.
 
-«Io gli dissi che se lo ripeteva in pubblico lo facevo esiliare.» Le scappò un rumore che non era una risata. «È morto su quella frontiera poche settimane dopo. Ci è venuto davvero. E io da due anni non so se devo essergli grata o se devo odiarlo per averlo detto, perché se non l'avesse detto potrei pensare che è morto per un trattato, e un trattato si può odiare.»
+«Io gli dissi che se lo ripeteva in pubblico lo facevo esiliare.» Le scappò un rumore che non era una risata. «È morto su quella frontiera pochi giorni dopo. Ci è venuto davvero. E io da due anni non so se devo essergli grata o se devo odiarlo per averlo detto, perché se non l'avesse detto potrei pensare che è morto per un trattato, e un trattato si può odiare.»
 
 Il torrente, giù in fondo, continuava a correre.
 
@@ -106,11 +106,11 @@ Ashe lo guardò.
 
 «Le troviamo» ripeté Vaan. «Non so come. Ma tu sei testarda e io pure, e quando uno è testardo prima o poi trova. Me l'ha detto Migelo. Lui lo diceva per le chiavi, ma credo che valga anche per il resto.»
 
-La principessa di Dalmasca, l'erede di Raithwall, la donna che per due anni si era nascosta sotto un nome falso e aveva guidato uomini alla morte e aveva stretto fra le dita una pietra capace di bruciare una flotta, rimase per un lungo momento a guardare un orfano della Città Bassa che le prometteva di trovare il senso della morte come si trova un mazzo di chiavi. Poi fece una cosa che non faceva da molto tempo. Mangiò il suo pezzo di focaccia. Era fredda e un po' dura. Non le era mai sembrata così buona.
+Ashe lo guardò ancora, poi mangiò il suo pezzo di focaccia. Era fredda e un po' dura. Le briciole le rimasero sul palmo segnato dalla corda.
 
 ---
 
-Restarono sul ponte ancora a lungo, senza parlare. Non avevano risolto niente; i morti erano morti e le domande erano rimaste dov'erano, sospese sopra il torrente come le corde su cui stavano seduti. Ma era una cosa diversa, avere una domanda in due. Pesava lo stesso, e però si portava meglio.
+Restarono sul ponte ancora a lungo, senza parlare. Quando una tavola si inclinò sotto il piede di Vaan, Ashe gli fece posto accanto al palo.
 
 A un certo punto Vaan disse, senza girarsi: «Non dirlo a Penelo. Del coltello.»
 

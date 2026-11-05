@@ -102,7 +102,7 @@ Il conducente della navetta aveva una giacca bianca con i bottoni d'ottone e un 
 
 «Cosa?»
 
-«L'attestato» disse il conducente, con pazienza. «Per Tsenoble si viaggia su presentazione di attestato di merito civico. Una tavoletta. Legno di pino, legno di quercia, legno d'ebano, a seconda del grado. Per Tsenoble servono almeno dodici pini, o l'equivalente in quercia.» Fece una pausa, mentre Vaan lo fissava. «Il signore non ha attestati.»
+«L'attestato» disse il conducente, con pazienza. «Per Tsenoble si viaggia su presentazione di attestato di merito civico. Una tavoletta. Legno di pino, legno di quercia, legno d'ebano, a seconda del grado. Per Tsenoble servono almeno dodici pini, o l'equivalente in quercia. Una quercia vale cinque pini.» Fece una pausa, mentre Vaan lo fissava. «Il signore non ha attestati.»
 
 «No.»
 
@@ -224,7 +224,7 @@ Lo portarono via in una navetta grigia, insieme ai fratelli. La piazza tornò tr
 
 ---
 
-Il conducente della navetta bianca guardò i dodici pini e la quercia che Vaan gli mise sul palmo, li contò due volte, e si fece da parte con la visiera abbassata.
+Il conducente della navetta bianca guardò i sette pini e la quercia che Vaan gli mise sul palmo, li contò due volte, e si fece da parte con la visiera abbassata.
 
 «Prego, signore. Tsenoble.»
 
@@ -234,7 +234,7 @@ Vaan la guardò finché non scomparve dietro una torre.
 
 «Era più facile combattere Ba'Gamnan» disse.
 
-«L'hai combattuto» disse Penelo. «Con dodici pini e una quercia.»
+«L'hai combattuto» disse Penelo. «Con sette pini e una quercia.»
 
 «Non mi piace.»
 

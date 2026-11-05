@@ -68,7 +68,7 @@ Davanti ad Ashe, nel violetto, a un passo dalla piattaforma, comparve una spada.
 
 Era sospesa a mezz'aria, verticale, con la punta in basso. Non era bella. Era semplice, quasi rozza, con una lama larga e grigia e un'elsa senza ornamenti, e non brillava; la luce violacea le scivolava sopra senza riflettersi, come l'acqua su una pietra unta. Eppure Ashe la guardò e non riuscì a guardare altro.
 
-«La Spada del Patto» disse Gerun. «La stessa che demmo a Raithwall, o la sua gemella. Non distrugge la Negalite, come quella che porti sulla schiena. Fa l'opposto. Con questa spada potrai tornare alla Crisalide Solare e staccarne nuovi frammenti. Quanti ne vorrai. Il potere di Raithwall, figlia di Dalmasca. Il potere di restituire il trono a tuo padre, la pace alla tua gente, e il conto ai tuoi nemici.»
+«La Spada del Patto» disse Gerun. «La stessa che demmo a Raithwall, o la sua gemella. Non distrugge la Negalite, come quella che porti sulla schiena. Fa l'opposto. Con questa spada potrai tornare alla Crisalide Solare e staccarne nuovi frammenti. Quanti ne vorrai. Il potere di Raithwall, figlia di Dalmasca. Il potere di restituire il trono alla tua casa, la pace alla tua gente, e il conto ai tuoi nemici.»
 
 «E la Crisalide dov'è?»
 
@@ -134,8 +134,8 @@ Era una voce d'uomo, giovane, sfiatata, e veniva da dietro di lei. Una voce che 
 
 Ashe si voltò, con la mano ancora sull'elsa.
 
-Sulla piattaforma, dove fino a un attimo prima non c'era nessuno, c'era Vaan, piegato in due per la corsa, con la spada in pugno e la faccia rossa. Dietro di lui c'erano gli altri: Basch con la spada sguainata, Penelo, Balthier, Fran. Erano arrivati. Non si sapeva come; forse una pietra nera, forse un'altra strada. Erano lì.
+Sulla piattaforma, dove fino a un attimo prima non c'era nessuno, c'era Vaan, piegato in due per la corsa, con la spada in pugno e la faccia rossa. Dietro di lui c'erano gli altri: Basch con la spada sguainata, Penelo, Balthier, Fran.
 
-«Ashe» ripeté Vaan, e guardò i seggi, e la spada, e la mano di lei sull'elsa, e poi di nuovo lei. «Che cosa stai facendo?»
+«Ashe» ripeté Vaan. Guardò il vuoto attorno e la mano di lei sull'elsa, poi di nuovo lei. «Che cosa stai facendo?»
 
 Accanto alla spada, Rasler non c'era più.

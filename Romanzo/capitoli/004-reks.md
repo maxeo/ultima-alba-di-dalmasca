@@ -132,7 +132,7 @@ Vaan non disse niente. Guardava anche lui il vaso.
 
 «Non mi ricordo l'odore.»
 
-«Io sì. Di sera. Si aprivano di sera, quando faceva meno caldo, e la stanza si riempiva tutta. Sembrava di stare in un posto più ricco.» Reks si stese sulla branda, con le mani dietro la testa, e guardò le tacche sulla trave sopra la porta. «Quando torno, andiamo a prenderne. Crescono sull'orlo del deserto orientale, dalla parte delle Pianure. Si va e si torna in un giorno. Ne prendiamo con le radici e li rimettiamo nel vaso.»
+«Io sì. Di sera. Si aprivano di sera, quando faceva meno caldo, e la stanza si riempiva tutta. Sembrava di stare in un posto più ricco.» Reks si stese sulla branda, con le mani dietro la testa, e guardò le tacche sulla trave sopra la porta. «Quando torno, andiamo a prenderne. Crescono sull'orlo del Deserto Orientale, dalla parte delle Pianure. Si va e si torna in un giorno. Ne prendiamo con le radici e li rimettiamo nel vaso.»
 
 «Il vaso è crepato.»
 
@@ -172,7 +172,7 @@ Aprì gli occhi. Sopra di lui c'era il capitano Basch, inginocchiato, con l'elmo
 
 «Sì, capitano.»
 
-«Non ho chiesto se ci riesci, ho chiesto se riesci. Non è la stessa cosa.» Basch gli passò due dita davanti agli occhi, guardò come li seguiva. «Va bene.»
+«Non ti ho chiesto di scattare sull'attenti. Voglio sapere se ti reggono le gambe.» Basch gli passò due dita davanti agli occhi, guardò come li seguiva. «Va bene.»
 
 Dietro di lui, un cavaliere anziano, un uomo con le guance scavate che si chiamava Orren e che nella caserma di Rabanastre aveva fama di non aver mai perduto né una battaglia né una partita a dadi, sputò in terra.
 
@@ -270,7 +270,7 @@ Basch rimase in silenzio per un tempo che a Reks parve lunghissimo e che fu, in 
 
 «Le cisterne.»
 
-Basch gli mise la mano fasciata sulla spalla, quella con la manica mancante. La tenne lì un momento. Poi si voltò, e salì la scala con gli altri sette, di corsa, e non si girò a guardare indietro, perché non si gira chi ha deciso.
+Basch gli mise la mano fasciata sulla spalla, quella con la manica mancante. La tenne lì un momento. Poi si voltò e salì la scala con gli altri sette, di corsa, senza guardare indietro.
 
 Reks rimase solo alla base della scala. Si mise con la schiena contro la pietra, come gli era stato detto. Strinse la spada. Pensò, senza volerlo, alla ciocca sopra l'orecchio sinistro di suo fratello, e quasi rise.
 

@@ -182,7 +182,7 @@ Era un soldato archadiano di guardia, con l'elmo chiuso e la lancia, e ogni volt
 
 «Solo il personale con la livrea passa. Gli altri lasciano la roba al primo pianerottolo e tornano giù.» La lancia non si spostò. «Giù.»
 
-Vaan tornò giù. Posò i limoni sul primo pianerottolo, accanto a una montagna di altre ceste, e si appoggiò al muro con le braccia incrociate, a guardare la scala come si guarda un nemico personale. Aveva attraversato una notte di pianura, una notte di canali, un'imboscata di iene e una cospirazione armata, e adesso un uomo con una lancia gli diceva giù.
+Vaan tornò giù. Posò i limoni sul primo pianerottolo, accanto a una montagna di altre ceste, e si appoggiò al muro con le braccia incrociate, a guardare la scala come si guarda un nemico personale. Aveva attraversato notti di pianura, ore di canali, un'imboscata di iene e una cospirazione armata, e adesso un uomo con una lancia gli diceva giù.
 
 «Non così» disse una voce vicino al suo gomito. «Così non passi mai.»
 
@@ -226,4 +226,4 @@ Vaan rimase immobile sul leone con la pietra alzata in mano. Dalla sala grande, 
 
 Andò alla parete. Mise la Luna Crescente nella mezzaluna di pietra, e la pietra ci entrò come una chiave nella sua serratura.
 
-La parete si aprì senza rumore, verso l'interno, su un buio fresco che odorava di polvere e di qualcosa di più antico della polvere. Vaan entrò. Dietro di lui, il leone sul pavimento si spense, linea per linea, e tornò a essere un vecchio disegno consumato su cui gli archadiani avrebbero camminato senza vederlo.
+La parete si aprì senza rumore, verso l'interno, su un buio fresco che odorava di polvere e di qualcosa di più antico della polvere. Vaan sfilò la Luna Crescente dall'incavo, se la rimise in tasca ed entrò. Dietro di lui, il leone sul pavimento si spense, linea per linea, e tornò a essere un vecchio disegno consumato su cui gli archadiani avrebbero camminato senza vederlo.

@@ -64,7 +64,7 @@ Penelo gli tirò la manica. Lui non se ne accorse.
 
 «È la pietra del mio sangue» disse Ashe. La voce le si era abbassata. «L'ho presa dalla tomba di Raithwall. È la prova di chi sono. È…» Si fermò.
 
-Non disse il resto. Non disse che quella pietra era stata, per lei, nelle settimane da Rabanastre a lì, la cosa per cui Rasler era morto. Non lo era, e lei lo sapeva; Rasler era morto per una freccia sulle mura di Nalbina, e il frammento allora riposava in una tomba nel deserto, e nessuno dei due lo aveva mai visto. Ma la testa e il resto non vanno sempre d'accordo. Nella stanza di Dalan aveva alzato quella pietra sotto la lampada e aveva detto di aver trovato la sua spada. E adesso aveva in mano una spada vera, e qualcuno le chiedeva di usarla per spaccare l'altra.
+Non disse il resto. Non disse che quella pietra era stata, per lei, nelle settimane da Rabanastre a lì, la cosa per cui Rasler era morto. Non lo era, e lei lo sapeva; Rasler era morto per una freccia a Nalbina, e il frammento allora riposava in una tomba nel deserto, e nessuno dei due lo aveva mai visto. Ma la testa e il resto non vanno sempre d'accordo. Nella stanza di Dalan aveva alzato quella pietra sotto la lampada e aveva detto di aver trovato la sua spada. E adesso aveva in mano una spada vera, e qualcuno le chiedeva di usarla per spaccare l'altra.
 
 «Il ragazzo ha ragione» disse Balthier.
 
@@ -86,7 +86,7 @@ Si inginocchiò. Sciolse il panno dalla cintura, adagio, un giro dopo l'altro, c
 
 La pietra si accese.
 
-Non fu una luce. Fu più simile a un respiro. La superficie del frammento, che era stata opaca da quando Basch l'aveva raccolto fra le lamiere del Leviatano, si fece un poco meno scura, come un vetro sporco su cui qualcuno ha soffiato, e dentro, nel profondo, il viola si mosse. Poi, dalla pietra, cominciò a salire qualcosa. Era sottile come il fumo di una candela appena spenta, ma non era fumo; non andava verso l'alto, andava di lato, in fili, in volute, e si allungava sul pavimento e si ritirava, e tornava ad allungarsi, verso le pareti, verso la porta, lontano dalla spada. Faceva un rumore lieve. Un sibilo appena udibile, come l'aria che esce da una fessura.
+Non fu una luce. Fu più simile a un respiro. La superficie del frammento, che era stata opaca da quando Basch l'aveva raccolto fra le lamiere dello Shiva, si fece un poco meno scura, come un vetro sporco su cui qualcuno ha soffiato, e dentro, nel profondo, il viola si mosse. Poi, dalla pietra, cominciò a salire qualcosa. Era sottile come il fumo di una candela appena spenta, ma non era fumo; non andava verso l'alto, andava di lato, in fili, in volute, e si allungava sul pavimento e si ritirava, e tornava ad allungarsi, verso le pareti, verso la porta, lontano dalla spada. Faceva un rumore lieve. Un sibilo appena udibile, come l'aria che esce da una fessura.
 
 «Cos'è?» chiese Penelo. Aveva la voce sottile.
 
@@ -134,7 +134,7 @@ Lo fece adagio. Una volta, da una parte. Una volta, dall'altra. Era il gesto che
 
 Ashe non respirava.
 
-Il frammento sanguinava ai suoi piedi. La spada le pesava sopra la testa. Dall'altra parte della pietra suo marito, che era morto due anni prima su un muro di Nalbina con una freccia nel petto, la guardava e le diceva di no.
+Il frammento sanguinava ai suoi piedi. La spada le pesava sopra la testa. Dall'altra parte della pietra suo marito, che era morto due anni prima a Nalbina con una freccia nel petto, la guardava e le diceva di no.
 
 Le tornò in mente, chissà perché, il cortile. Non la cattedrale, non il bacio, non la formula del vescovo con il nome degli dèi. Il cortile del palazzo, la notte delle nozze, le lanterne di carta accese fra le colonne, la cuoca anziana con il grembiule che li prendeva per le braccia e mostrava loro come si ballava. L'anello che partiva da un giro troppo largo. Il tintinnio sulla pietra. Lei ferma in mezzo al cortile con la faccia di chi ha perso il regno, e lui che le finiva addosso. Domani lo facciamo stringere, le aveva detto. Te lo prometto. E lei aveva detto di no, fra una settimana, e lui aveva riso.
 
@@ -180,7 +180,7 @@ Balthier, dalla soglia, la guardava. Aveva un'espressione che Vaan non riuscì a
 
 Penelo gli diede un'occhiata. Vaan fece un mezzo sorriso, e se lo tolse subito. Basch non si mosse.
 
-Fran si era inginocchiata accanto alla crepa. La seguì con un dito, dal punto dove la lama era entrata fino al muro, senza toccarla, a un soffio dalla pietra, come si segue la riga di una lettera scritta in una lingua che si conosce poco. Poi avvicinò la mano al frammento, e la ritrasse prima di sfiorarlo.
+Fran si era inginocchiata accanto alla crepa. La seguì con un dito, dal punto dove la lama era entrata fin dove si arrestava, tenendo l'unghia a un soffio dalla pietra. Poi avvicinò la mano al frammento, e la ritrasse prima di sfiorarlo.
 
 «Dorme» disse.
 
@@ -270,7 +270,7 @@ Balthier guardò il ponte.
 
 Ashe si voltò a guardarlo. Lui non si voltò. Dopo un poco si alzò, si scosse la neve dalla pelliccia, e tornò al fuoco, e si sdraiò accanto a Fran, che aveva gli occhi aperti e non disse niente.
 
-Ashe rimase sola sotto la colonna. Strinse la mano sinistra a pugno, sulla lama, su niente. Poi la aprì.
+Ashe rimase sola sotto la colonna. Sollevò la mano sinistra dalla lama e la strinse a pugno. Poi la aprì.
 
 All'alba, quando la valle era ancora grigia, Fran si alzò per prima. Uscì dal portico, sul ponte, e si fermò a metà, con la testa alta e le orecchie tese verso nord, verso le montagne di Paramina, verso il monte sacro che da lì non si vedeva. Restò così a lungo. Gli altri si svegliarono uno alla volta e la videro, ferma sul ponte, nella luce del mattino, e nessuno la chiamò.
 

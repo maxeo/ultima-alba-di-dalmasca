@@ -6,7 +6,7 @@ Davanti a loro si stendevano le Terre Morte. Così le chiamava la carta di Oskar
 
 «Non è nebbia» disse Fran.
 
-Si era fermata al limite del bosco, con le orecchie tese all'indietro, e per la prima volta da quando Vaan la conosceva sembrava che un posto le facesse male. Non lo diceva. Lo si capiva dal modo in cui teneva le spalle.
+Si era fermata al limite del bosco, con le orecchie tese all'indietro e le spalle contratte. Si appoggiò con una mano al tronco più vicino.
 
 «Che cos'è?» chiese Penelo.
 
@@ -156,7 +156,7 @@ Fuori, sulla soglia, Vaan e Penelo stavano seduti accanto alla candela consumata
 
 Ashe guardò la cera bianca dello sconosciuto, i fiori gialli secchi, il moccolo di Penelo. Annuì.
 
-Accesero la candela con l'acciarino di Basch, al terzo tentativo, perché l'umidità del lago entrava dappertutto. La fiamma restò dritta. Non c'era vento. Nessuno disse una preghiera; nessuno di loro ne conosceva una nabradiana, e quelle di Dalmasca sembravano fuori posto. Vaan pensò che avrebbe dovuto dire qualcosa, e non gli venne niente, e capì che andava bene così.
+Accesero la candela con l'acciarino di Basch, al terzo tentativo, perché l'umidità del lago entrava dappertutto. La fiamma restò dritta. Non c'era vento. Nessuno disse una preghiera; nessuno di loro ne conosceva una nabradiana, e quelle di Dalmasca sembravano fuori posto. Vaan pensò che avrebbe dovuto dire qualcosa, ma non gli venne niente e rimase a guardare la fiamma.
 
 All'imbocco del ponte, Balthier li aspettava in piedi. Aveva in mano un sasso piatto, nero, raccolto dalla riva, e lo rigirava fra le dita. Quando arrivarono lo lasciò cadere nel lago. Non fece cerchi.
 

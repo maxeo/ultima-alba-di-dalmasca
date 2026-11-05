@@ -80,15 +80,15 @@ Basch aggrottò la fronte. «Avrebbe dovuto arrivare prima di noi.»
 
 Lo disse lentamente, e tutti lo guardarono. Era rimasto un po' in disparte, sul bordo della piattaforma, con il quadratino di carta piegata fra le dita; e adesso la carta gli era caduta, e lui non se n'era accorto. Aveva la faccia di chi ha appena finito un conto molto lungo e ha scoperto che il totale era scritto fin dall'inizio in fondo alla pagina.
 
-«Non è mai venuto» ripeté. «Non doveva venire. Non gli interessava venire. Gli interessava che venissimo noi.»
+«Non doveva venirci» disse. «Gli interessava che venissimo noi.»
 
 «Perché?» chiese Vaan.
 
 «Perché ci ha mandati qui.» Balthier si passò una mano fra i capelli, e il gesto gli uscì disordinato, senza eleganza, il primo gesto senza eleganza che Vaan gli avesse mai visto fare. «Ripensaci. A Draklor. Non ha combattuto per ucciderci. Ha combattuto per vedere com'eravamo fatti. Poi ha guardato Ashe e le ha detto: volete il potere? Andate a Giruvegan. Qualcuno vi aspetta. Vi offrirà quello che desiderate.» Fece una risata breve, secca. «E qualcuno l'aspettava. E le ha offerto quello che desiderava. Esattamente come aveva detto lui.»
 
-«Sapeva degli Occuria» disse Ashe.
+«Sapeva degli Occuria» disse Ashe. «Venat era uno di loro.»
 
-«Sapeva tutto. Venat glielo ha detto. Venat era uno di loro.» Balthier indicò il vuoto, dove Ashe vedeva il tredicesimo seggio. «Mio padre voleva che tu arrivassi qui. Voleva che ti scegliessero. Voleva che ti dessero quella spada.»
+«Sapeva tutto. Venat glielo ha detto.» Balthier indicò la spada sospesa. «Mio padre voleva che tu arrivassi qui. Voleva che ti scegliessero. Voleva che ti dessero quella spada.»
 
 Penelo scosse la testa. «Ma perché? Se Ashe prende quella spada, avrà le pietre. Potrà usarle contro Archadia. Contro di lui.»
 
@@ -112,7 +112,7 @@ Gli altri la lasciarono fare. Nessuno parlò. Nel violetto attorno a loro non si
 
 Lei no.
 
-Pensò al muro dei re, a Giruvegan, ai riquadri lisci già incorniciati che aspettavano una figura con la faccia rivolta in alto. Pensò che quella figura poteva essere lei. Ce n'era uno pronto, il primo dopo l'ultimo re: lo aveva superato senza guardarlo, seguendo il drappo blu. Lo sapeva lo stesso. Lo scultore non si aspettava sorprese.
+Pensò al muro dei re, a Giruvegan, alle facce rivolte in alto che aveva intravisto passando. Lo aveva superato senza fermarsi, seguendo il drappo blu. Avrebbe dovuto guardarlo meglio.
 
 Allungò la mano, e prese la Spada del Patto.
 
@@ -150,7 +150,7 @@ Ashe gli si fermò accanto.
 
 Balthier aprì il quadratino di carta. Era il pezzo strappato della mappa del Cristallo, quello che aveva cominciato a disegnare e poi abbandonato, e c'erano sopra tre linee e un punto interrogativo.
 
-«Per sei anni ho creduto che mio padre parlasse da solo» disse. «Era comodo. Un padre pazzo non ti deve niente, e tu non devi niente a lui. Si scappa da un pazzo con la coscienza pulita.» Ripiegò la carta. «Ma non era pazzo. Qualcuno gli rispondeva davvero. Qualcuno di questi, uno che sedeva sul tredicesimo seggio e si è alzato. E gli ha detto tutto quello che ha fatto. Le pietre. Nabudis, forse. La guerra.» Si mise la carta in tasca. «Questo vuol dire che ogni cosa che ha fatto l'ha fatta da sano. Sapendo. Scegliendo.»
+«Per sei anni ho creduto che mio padre parlasse da solo» disse. «Era comodo. Un padre pazzo non ti deve niente, e tu non devi niente a lui. Si scappa da un pazzo con la coscienza pulita.» Ripiegò la carta. «Ma non era pazzo. Qualcuno gli rispondeva davvero. Uno di loro, che se n'è andato. E ha discusso con lui quello che faceva. Le pietre. Nabudis, forse. La guerra.» Si mise la carta in tasca. «Questo vuol dire che ogni cosa che ha fatto l'ha fatta da sano. Sapendo. Scegliendo.»
 
 Ashe non disse niente.
 

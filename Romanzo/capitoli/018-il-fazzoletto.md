@@ -42,7 +42,7 @@ L'ufficiale la guardò come si guarda un cane che abbaia.
 
 «Sto pensando. Stai zitto.»
 
-Vaan stette zitto. Non perché glielo avesse detto lei, si disse, ma perché si era accorto, a metà frase, che stava per dire davanti a cinquanta testimoni e a un ufficiale archadiano che era entrato nel palazzo per rubare, e che la cosa che aveva rubato era ancora sotto la sua camicia. I soldati l'avevano perquisito, nei canali, in fretta e male, con le mani che puzzavano di olio per armature, e avevano trovato la spada e le boccette di Kytes e la borsa del soldato con quello che restava dentro, e nient'altro. La pietra, chissà come, non l'avevano sentita. Vaan la sentiva benissimo. Era tornata tiepida, e quieta, e lui non si chiedeva perché.
+Vaan stette zitto. Non perché glielo avesse detto lei, si disse, ma perché si era accorto, a metà frase, che stava per dire davanti a cinquanta testimoni e a un ufficiale archadiano che era entrato nel palazzo per rubare, e che la cosa che aveva rubato era ancora sotto la sua camicia. Prima che i soldati scendessero dalle corde, l'aveva fatta scivolare nelle pieghe della fascia rossa, stretta sullo stomaco. L'avevano perquisito in fretta, con le mani che puzzavano di olio per armature: tasche, cintura, orli dei calzoni. Avevano preso la spada, le boccette e la borsa del soldato con quello che restava dentro, senza sciogliere la fascia. La pietra era tornata tiepida e quieta; Vaan la sentiva premere sotto la stoffa a ogni respiro.
 
 Sopra il cortile, su una delle scale esterne, si era fermato il console.
 
@@ -68,7 +68,7 @@ Qualcuno nella folla rise, e si zittì subito. La vedova Hanna, con il suo fazzo
 
 Vaan la guardò attraverso le teste dei soldati. Aveva i capelli in disordine e la faccia gonfia di sonno e i piedi nudi sulla pietra del cortile, e lo guardava con una faccia che lui non le aveva mai visto, nemmeno quando erano tornati da Giza e lui le aveva detto non vado da nessuna parte. Specialmente non allora.
 
-Avrebbe voluto dire tante cose. Che le dispiaceva. Che aveva una pietra sotto la camicia che valeva una flotta. Che c'era un pirata vero accanto a lui, e una viera, e una donna che diceva Resistenza e non insurrezione. Che aveva visto morire sette uomini nella camera dei tre canali e che uno aveva detto abbiamo visto solo topi. Non gli venne niente di tutto questo. Gli venne in mente un agnello.
+Avrebbe voluto dire che gli dispiaceva. Guardò Penelo attraverso le aste delle lance e gli venne in mente un agnello.
 
 «Mi sa» disse, e gli uscì con un mezzo sorriso storto «che stasera non ce la faccio, per la cena.»
 
@@ -120,7 +120,7 @@ La viera, dietro di lui, girò la testa verso Penelo. Non disse niente. Ma le su
 
 Poi la colonna partì. Due soldati sollevarono Vaan per le braccia e lo trascinarono, con la testa che gli ciondolava e i piedi che strisciavano sulla pietra del cortile; Amalia camminava dritta davanti a lui, senza voltarsi, e Penelo vide che teneva la mano sinistra chiusa a pugno contro il fianco, anche legata, anche così. Il pirata camminava fischiettando. La viera camminava senza fare rumore. Uscirono dal cortile per la via che sale verso la Porta Est, e la folla si aprì per lasciarli passare, e si richiuse dietro di loro, e cominciò a parlare.
 
-Penelo rimase dov'era, a piedi nudi sulla pietra, con il fazzoletto di un pirata in mano. Lo guardò. La F nell'angolo la guardò a sua volta, con tutti i suoi riccioli. Si chiese, per un momento, di chi fosse quella lettera, su un fazzoletto di un uomo che non le aveva detto il suo nome; poi Kytes arrivò con le scarpe, e lei non se lo chiese più.
+Penelo rimase dov'era, a piedi nudi sulla pietra, con il fazzoletto di un pirata in mano. Lo guardò. La F nell'angolo la guardò a sua volta, con tutti i suoi riccioli. Si chiese, per un momento, di chi fosse quella lettera, su un fazzoletto di un uomo che non le aveva detto il suo nome.
 
 Kytes arrivò accanto a lei con le sue scarpe. Gliele mise ai piedi, inginocchiato, una e poi l'altra, come si fa con i bambini piccoli, e lei lo lasciò fare. Poi le prese la mano. Non disse niente. Kytes non sapeva dire le bugie a Penelo, e quella mattina non trovò nemmeno una verità che valesse la pena di dire.
 
@@ -156,4 +156,4 @@ Bwagi tacque. Il più grosso, quello con la cicatrice, guardava la colonna che s
 
 Ba'Gamnan si frugò sotto il mantello e tirò fuori un foglio piegato, sporco, con un sigillo di ceralacca nera mezzo sbriciolato. Lo agitò davanti al muso di Bwagi.
 
-«Permesso di caccia dell'impero» disse. «Firmata dal governatore di Nalbina. Vale in tutti i territori di Sua Maestà Imperiale, comprese le cantine.» Il labbro tirato, adesso, sembrava davvero sul punto di ridere. «Noi entriamo dalla porta, Bwagi. Con il permesso. E poi vediamo chi esce.»
+«Permesso di caccia dell'impero» disse. «Firmato dal governatore di Nalbina. Vale in tutti i territori di Sua Maestà Imperiale, comprese le cantine.» Il labbro tirato, adesso, sembrava davvero sul punto di ridere. «Noi entriamo dalla porta, Bwagi. Con il permesso. E poi vediamo chi esce.»

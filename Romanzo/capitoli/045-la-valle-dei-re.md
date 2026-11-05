@@ -182,7 +182,7 @@ La principessa la lesse due volte. Poi alzò gli occhi verso la lastra, e verso 
 
 «Si è fermato» disse.
 
-«Era un uomo prudente» disse Basch. «Come suo nipote.»
+«Era un uomo prudente» disse Basch. «Come il marchese.»
 
 «Mio zio l'ha sempre saputo. Che c'era una porta, e dove.» Ashe arrotolò la carta. «E non me l'ha mai detto.»
 

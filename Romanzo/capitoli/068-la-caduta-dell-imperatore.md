@@ -1,6 +1,6 @@
 ## 68. La caduta dell'imperatore
 
-Il bollettino del Ministero della Legge che annunciava la morte dell'imperatore Gramis era lungo undici righe, ed era stato affisso su tutte le porte dei ministeri di Archades prima ancora che il corpo dell'imperatore fosse freddo. Aveva il timbro un poco sbavato e la firma di un funzionario che nessuno ricorda. Diceva che il sovrano si era spento serenamente. Diceva che un'indagine era stata aperta. Diceva che il responsabile aveva confessato. Per chi sa leggere i bollettini era un piccolo capolavoro: in undici righe riusciva a dire che la morte era stata serena e che qualcuno l'ha provocata, senza che le due cose sembrino litigare.
+Il bollettino del Ministero della Legge che annunciava la morte dell'imperatore Gramis era lungo undici righe, ed era stato affisso su tutte le porte dei ministeri di Archades prima ancora che il corpo dell'imperatore fosse freddo. Aveva il timbro un poco sbavato e la firma di un funzionario che nessuno ricorda. Diceva che il sovrano si era spento serenamente. Diceva che un'indagine era stata aperta. Diceva che il responsabile aveva confessato. Per chi sa leggere i bollettini era un piccolo capolavoro: in undici righe riusciva a dire che la morte era stata serena e che qualcuno l'aveva provocata, senza che le due cose sembrassero litigare.
 
 Quello che il bollettino non diceva era che cosa fosse successo nella sala del trono quella sera.
 
@@ -54,15 +54,15 @@ Zargabaath girò l'elmo verso di lei. «Drace» disse piano. «Non qui.»
 
 Vayne la guardava, e non diceva niente.
 
-«Ho visto morire i tuoi fratelli» disse Drace. «Tutti e due. Ero in fondo alla sala anch'io, quel giorno. Ti ho visto in piedi, e ti ho visto non battere ciglio. Ho sperato di essermi sbagliata. Ho sperato per anni.» Fece una pausa. «Non mi sbagliavo.»
+«Ho visto morire i tuoi fratelli» disse Drace. «Tutti e due. Ero nell'anticamera anch'io, quando tuo padre chiuse il caso. Ti ho visto in piedi, e ti ho visto non battere ciglio. Ho sperato di essermi sbagliata. Ho sperato per anni.» Fece una pausa. «Non mi sbagliavo.»
 
-Portò la mano all'elsa. La spada uscì dal fodero con un suono lungo e pulito, che riempì la sala e la fece tacere tutta, soldati, senatori, Giudici, come si fa tacere una stanza battendo un cucchiaio su un bicchiere.
+Portò la mano all'elsa. La spada uscì dal fodero con un suono lungo e pulito, che riempì la sala e la fece tacere tutta, soldati, senatori, Giudici, di colpo.
 
 «Vayne Carudas Solidor» disse Drace. «In nome della legge di Archadia, che servo da vent'anni, e dell'autorità che mi è stata conferita come Giudice Magister, ti dichiaro in arresto per l'omicidio dell'imperatore Gramis.»
 
 ---
 
-Nessuno si mosse. I soldati lungo le pareti non abbassarono le lance. I senatori non respirarono. Vayne non fece un passo indietro, né un passo avanti; rimase dov'era, davanti al seggio del padre, con le mani lungo i fianchi, e guardò la lama di Drace a due braccia dal suo petto come si guarda un ombrello aperto in casa: con una lieve, cortese disapprovazione.
+Nessuno si mosse. I soldati lungo le pareti non abbassarono le lance. I senatori non respirarono. Vayne non fece un passo indietro, né un passo avanti; rimase dov'era, davanti al seggio del padre, con le mani lungo i fianchi, e guardò la lama di Drace a due braccia dal suo petto con una lieve, cortese disapprovazione.
 
 Fu Bergan a muoversi.
 
@@ -84,11 +84,11 @@ Fu un colpo da maestro, e chi lo vide lo ricordò. Vent'anni di scherma, di guer
 
 Bergan non si spostò. Alzò la mano sinistra, la mano aperta, senza spada, e prese la lama.
 
-La prese al volo, con le dita guantate, come si prende una mosca. La lama si fermò. Drace spinse, con tutto il peso, e la lama non si mosse di un dito. E dalle giunture del guanto di Bergan, fra le placche d'acciaio delle dita, uscì una luce. Era sottile, viola, torbida, una luce che non illuminava niente intorno a sé, come quella di una brace vista attraverso una fessura; e con la luce venne un odore, che i senatori più vicini sentirono e che uno di loro descrisse più tardi come l'odore di una padella dimenticata sul fuoco.
+La prese al volo, serrandola fra le dita guantate. La lama si fermò. Drace spinse, con tutto il peso, e la lama non si mosse di un dito. E dalle giunture del guanto di Bergan, fra le placche d'acciaio delle dita, uscì una luce. Era sottile, viola, torbida, una luce che non illuminava niente intorno a sé, come quella di una brace vista attraverso una fessura; e con la luce venne un odore, che i senatori più vicini sentirono e che uno di loro descrisse più tardi come l'odore di una padella dimenticata sul fuoco.
 
 Bergan strinse. La lama di Drace si piegò.
 
-Poi, con la stessa mano, la stessa mano sinistra, lasciò la lama e prese Drace per il collo dell'armatura, sotto l'elmo, e la sollevò da terra. La sollevò come si solleva un bambino che non vuole andare a letto, con un braccio solo, senza sforzo; e Drace, che pesava con l'armatura quanto due uomini, rimase sospesa a mezz'aria per il tempo di un respiro, scalciando, con la spada piegata ancora in pugno.
+Poi, con la stessa mano, la stessa mano sinistra, lasciò la lama e prese Drace per il collo dell'armatura, sotto l'elmo, e la sollevò da terra. La tenne alta con un braccio solo, senza sforzo; e Drace, che pesava con l'armatura quanto due uomini, rimase sospesa a mezz'aria per il tempo di un respiro, scalciando, con la spada piegata ancora in pugno.
 
 Poi Bergan la scagliò sul pavimento.
 
@@ -98,7 +98,7 @@ La luce viola nel guanto di Bergan si spense.
 
 ---
 
-Vayne si chinò. Raccolse la spada piegata di Drace dal pavimento, la guardò per un istante, e la consegnò a un soldato, che la prese come si prende un serpente.
+Vayne si chinò. Raccolse la spada piegata di Drace dal pavimento, la guardò per un istante, e la consegnò a un soldato, che la tenne lontana dal corpo.
 
 «Zargabaath» disse.
 
@@ -172,7 +172,7 @@ Poi fece quello che gli era stato ordinato.
 
 Gabranth si rialzò. Pulì la lama, adagio, su un lembo del mantello blu che Drace aveva lasciato cadere, e la rimise nel fodero. Poi tornò al suo posto fra le colonne, accanto a Zargabaath, e si mise dritto, e guardò davanti a sé. Zargabaath non si voltò a guardarlo. Ma la sua mano destra, quella che stava dalla parte di Gabranth, si chiuse a pugno lungo il fianco e restò chiusa.
 
-Vayne aveva assistito senza muoversi. Ora si voltò, per la prima volta da quando Gabranth era entrato nella sala, verso il seggio di suo padre.
+Vayne aveva assistito senza muoversi. Ora si voltò verso il seggio di suo padre.
 
 Il vecchio imperatore era scivolato un poco, durante tutto quel trambusto. La testa gli era ricaduta più in basso sulla spalla, e la mano destra gli era scivolata dal grembo e pendeva oltre il bracciolo, con gli anelli larghi sulle dita.
 

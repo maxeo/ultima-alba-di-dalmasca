@@ -26,7 +26,7 @@ Vaan girò intorno alla statua una volta, poi un'altra.
 
 La sua voce tornò indietro dalle pareti, più piccola. Il re di pietra lo guardava dall'alto con la sua stanchezza.
 
-Era venuto fin lì. Aveva camminato una notte nella pianura e una notte nei canali, aveva caricato tre pietre con un bambino di dieci anni, aveva visto la Resistenza armata sotto la città e aveva mentito a Penelo, guardandola in faccia, all'incrocio della scalinata. Per una statua in una stanza vuota. Sentì salire una rabbia stupida, da bambino, e la lasciò salire, perché non c'era nessuno a vederlo. Diede un calcio al basamento. Si fece male al piede.
+Per questo aveva mentito a Penelo, guardandola in faccia all'incrocio della scalinata. Per una statua in una stanza vuota. Sentì salire una rabbia stupida, da bambino, e la lasciò salire, perché non c'era nessuno a vederlo. Diede un calcio al basamento. Si fece male al piede.
 
 Il basamento fece clic.
 
@@ -54,7 +54,7 @@ Gli durò poco.
 
 Vaan si girò così in fretta che per poco non gli cadde la pietra.
 
-Nel vano d'ingresso della camera, dove un momento prima non c'era nessuno, c'era un uomo. Stava appoggiato allo stipite con una spalla, le braccia incrociate, una gamba accavallata sull'altra all'altezza della caviglia, nella posa di chi aspetta un amico davanti a un teatro e l'amico è in ritardo. Era alto, giovane, poco più di vent'anni, con i capelli castani corti e un ciuffo che non stava al suo posto e che, si capiva, ci stava benissimo fuori. Aveva un naso dritto e sottile, di quelli che i disegnatori di manifesti sbagliano sempre. Aveva una camicia bianca con le maniche ampie, un panciotto di cuoio scuro su cui brillavano fibbie di ottone, pantaloni da viaggio infilati in stivali alti, e ai polsi, quando sciolse le braccia, Vaan vide due polsini di cuoio lavorato. Alla cintura portava un'arma da fuoco lunga, di quelle che a Rabanastre si vedevano solo in mano agli ufficiali archadiani e ai mercanti molto ricchi, con il calcio di legno lucido e la canna incisa. Sorrideva. Era un sorriso perfettamente educato, del tipo che si rivolge a un bambino che ha appena fatto una cosa sorprendente e un po' maleducata.
+Nel vano d'ingresso della camera, dove un momento prima non c'era nessuno, c'era un uomo. Stava appoggiato allo stipite con una spalla, le braccia incrociate, una gamba accavallata sull'altra all'altezza della caviglia, nella posa di chi aspetta un amico davanti a un teatro e l'amico è in ritardo. Era alto, giovane, poco più di vent'anni, con i capelli castani corti e un ciuffo che non stava al suo posto e che, si capiva, ci stava benissimo fuori. Aveva un naso dritto e sottile, di quelli che i disegnatori di manifesti sbagliano sempre. Aveva una camicia bianca con le maniche ampie, un panciotto ricamato d'oro e oliva su cui brillavano fibbie di ottone, pantaloni da viaggio infilati in stivali alti, e ai polsi, quando sciolse le braccia, Vaan vide due polsini di cuoio lavorato. Alla cintura portava un'arma da fuoco lunga, di quelle che a Rabanastre si vedevano solo in mano agli ufficiali archadiani e ai mercanti molto ricchi, con il calcio di legno lucido e la canna incisa. Sorrideva. Era un sorriso perfettamente educato, del tipo che si rivolge a un bambino che ha appena fatto una cosa sorprendente e un po' maleducata.
 
 «Chi sei?» disse Vaan.
 
@@ -76,7 +76,7 @@ Vaan sentì qualcosa alle sue spalle e si voltò di nuovo.
 
 Questa volta non era un uomo. Era una donna, o così parve sulle prime; poi Vaan vide le orecchie, e capì, e rimase con la bocca aperta, e si dimenticò per un lungo istante di tutto il resto, compresa la pietra che aveva in mano. Era alta, molto più alta di lui, più alta dell'uomo, e magra di una magrezza che non era fragile ma tesa, come una corda d'arco. Aveva la pelle scura e i capelli bianchi, lunghi fino alla vita, raccolti in una coda. Dalla testa si alzavano due orecchie lunghe, sottili, coperte di una peluria chiara, che si muovevano piano, ruotando, una verso di lui e l'altra verso il corridoio, come se ascoltassero due cose diverse. Portava una tenuta di cuoio scuro e metallo e degli stivali dal tacco alto, che sui piedi di una viera sembravano fatti apposta. Aveva gli occhi rossi. Non rosso sangue: rosso come le pietre del dente, nel deserto, al tramonto. E lo guardava senza nessuna espressione.
 
-Era una viera. Vaan non ne aveva mai vista una. Nessuno, nella Città Bassa, ne aveva mai vista una; le viere stavano nei boschi lontani, dall'altra parte del mondo, e da lì non uscivano, e quando una uscita la si vedeva al mercato, una volta ogni dieci anni, se ne parlava per tutta la stagione. Questa era lì. A due passi. Dentro la camera segreta di un re morto, era entrata senza fare rumore, e adesso tendeva verso di lui una mano lunga e scura, con il palmo in su.
+Era una viera. Vaan non ne aveva mai vista una. Nella Città Bassa se ne parlava per tutta la stagione se una compariva al mercato, una volta ogni dieci anni; le altre restavano nei boschi lontani, dall'altra parte del mondo. Questa era lì. A due passi. Dentro la camera segreta di un re morto, era entrata senza fare rumore, e adesso tendeva verso di lui una mano lunga e scura, con il palmo in su.
 
 «Dammela» disse.
 
@@ -138,7 +138,7 @@ Vaan rise. Non volle ridere, gli scappò, come la risata di Ashe nella carrozza 
 
 «Il mio amico re?»
 
-L'uomo indicò la statua con il mento, senza guardarla. «Raithwall. Il Re Dinasta. Settecento anni di polvere e ancora tiene le mani giunte come se dovesse giurare. Non lo conoscevi?»
+L'uomo indicò la statua con il mento, senza guardarla. «Raithwall. Il Re Dinasta. Settecento anni di polvere e ancora fa la guardia ai suoi tesori. Non lo conoscevi?»
 
 Vaan guardò la statua. Il Re Dinasta. Ne aveva sentito parlare come si sente parlare degli dèi: le statue nelle piazze, le feste, i nomi delle vie. Non aveva mai pensato che avesse una faccia.
 
@@ -164,7 +164,7 @@ Per la prima volta l'uomo non rispose subito. Lui e Fran si scambiarono uno sgua
 
 «Ma insomma, che importanza ha? Te l'ho detto chi sono.» Fece un gesto largo con la mano, che abbracciava la stanza, la statua, la notte. «Il resto è nei dettagli. E i dettagli, si sa, li dimentica chiunque.»
 
-Mentre lo diceva, si era avvicinato. Vaan non se n'era accorto: l'uomo aveva parlato, gesticolato, girato attorno alla statua per indicarla, e ogni gesto, ogni giro, ogni pausa a effetto lo aveva portato mezzo passo più vicino, con l'eleganza distratta di un ballerino che attraversa una sala senza che nessuno lo veda muoversi. Adesso era a un braccio. La sua mano destra, quella che non indicava il re, pendeva lungo il fianco con le dita sciolte, a un palmo dalla camicia di Vaan, dalla parte dove la pietra faceva il suo calore.
+Vaan si era infilato la pietra dentro la camicia, tenendo una mano sull'apertura. Mentre l'uomo parlava, quella mano si era abbassata. Il ladro aveva parlato, gesticolato, girato attorno alla statua per indicarla; ogni gesto lo aveva portato mezzo passo più vicino, con l'eleganza distratta di un ballerino che attraversa una sala senza che nessuno lo veda muoversi. Adesso era a un braccio. La sua mano destra, quella che non indicava il re, pendeva lungo il fianco con le dita sciolte, a un palmo dalla camicia di Vaan, dalla parte dove la pietra faceva il suo calore.
 
 «La mano» disse Fran.
 

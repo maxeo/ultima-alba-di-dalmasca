@@ -16,11 +16,11 @@ Era la finestra da cui re Raminas guardava la città, la sera, e il console la u
 
 Il console era alto e magro, con i capelli neri lunghi fino alle spalle e una faccia che i ritrattisti di Archades trovavano difficilissima da dipingere, perché era bella in un modo che non lasciava appigli. Indossava una giacca da camera scura, senza decorazioni. Aveva le mani dietro la schiena. Quando parlava non si voltava, e la sua voce, anche a bassa voce, arrivava in ogni angolo della stanza con una chiarezza che faceva pensare all'acqua di un pozzo profondo.
 
-«Il presidente Gregoroth» stava dicendo «mi scrive per la terza volta in un mese. È un record. In tre anni di consolato non mi aveva mai scritto più di una volta per stagione. Si vede che gli manco.»
+«Il presidente Gregoroth» stava dicendo «mi scrive per la terza volta in un mese. È un record. Nei miei incarichi precedenti non mi aveva mai scritto più di una volta per stagione. Si vede che gli manco.»
 
 «Si vede che ha paura» disse una donna.
 
-Era seduta, sola fra quelli che erano nella stanza, su una sedia dallo schienale dritto accanto alla scrivania, e sedeva come stanno sedute le persone che preferirebbero essere in piedi. Indossava l'armatura dei Giudici Magister, chiara, quasi bianca, con le linee dell'elmo più sobrie di quelle degli altri, e l'elmo l'aveva posato sulle ginocchia. Aveva i capelli castani lunghi fino alle spalle, gli occhi bruni e una faccia larga con le rughe agli angoli degli occhi di chi ha passato molto tempo all'aperto e ha riso spesso, prima. Si chiamava Drace. A palazzo era l'unica dei Giudici di cui Pukko conoscesse la faccia, perché era l'unica che ringraziava quando lui accendeva le lampade.
+Era seduta, sola fra quelli che erano nella stanza, su una sedia dallo schienale dritto accanto alla scrivania, e sedeva come stanno sedute le persone che preferirebbero essere in piedi. Indossava l'armatura dei Giudici Magister, chiara, quasi bianca, con le linee dell'elmo più sobrie di quelle degli altri, e l'elmo l'aveva posato sulle ginocchia. Aveva i capelli castani lunghi fino alle spalle, gli occhi bruni e una faccia larga con le rughe agli angoli degli occhi di chi ha passato molto tempo all'aperto e ha riso spesso, prima. Si chiamava Drace. Pukko la riconobbe subito: era l'unica dei Giudici che lo ringraziasse quando accendeva le lampade.
 
 «Paura di cosa?» Vayne non si girò. «Il Senato non ha mai paura. Il Senato ha preoccupazioni. È diverso. La paura fa agire. Le preoccupazioni fanno scrivere lettere.»
 
@@ -32,17 +32,17 @@ Drace non riprese la lettera. «Vuole sapere perché la guarnigione di Rabanastr
 
 «Larsa è a Bhujerba.»
 
-«Larsa è a Bhujerba da solo. Ha seminato la scorta tre giorni fa, Vayne. Tre giorni. E ce l'ha detto un rapporto di Ghis, non tu.»
+«Larsa è a Bhujerba da solo. Ha seminato la scorta ieri mattina, Vayne. Ieri mattina. E ce l'ha detto un rapporto di Ghis, non tu.»
 
 «Ghis lo ha ritrovato.»
 
-«Ghis lo ha ritrovato oggi, davanti a una miniera, dopo che il ragazzo era sceso da solo, con un nome falso, in mezzo a dei pirati, fino al settimo livello di Lhusu.» Drace si alzò. Non lo fece in fretta, ma tutto il suo corpo si alzò insieme, come se non avesse aspettato altro. «Ha dodici anni. Gli ho insegnato io a tenere una spada. Lo so di che cosa è capace. È capace di tutto, ed è proprio per questo che non deve andare in giro da solo in un paese che non è il suo, con il nome dei Solidor cucito sui bottoni.»
+«Ghis lo ha ritrovato ieri, davanti a una miniera, dopo che il ragazzo era sceso da solo, con un nome falso, in mezzo a dei pirati, fino al settimo livello di Lhusu.» Drace si alzò. Non lo fece in fretta, ma tutto il suo corpo si alzò insieme, come se non avesse aspettato altro. «Ha dodici anni. Gli ho insegnato io a tenere una spada. Lo so di che cosa è capace. È capace di tutto, ed è proprio per questo che non deve andare in giro da solo in un paese che non è il suo, con il nome dei Solidor cucito sui bottoni.»
 
 «Il nome dei Solidor lo protegge.»
 
 «Il nome dei Solidor lo rende un bersaglio. Ne abbiamo seppelliti due, di Solidor, che quel nome non ha protetto.»
 
-Nella stanza ci fu un piccolo silenzio. Pukko, che proprio allora era in cima alla pertica davanti alla lampada sopra la porta, rimase con il cristallo in mano senza infilarlo.
+Nella stanza ci fu un piccolo silenzio. Pukko, che proprio allora stava innestando un cristallo sulla pertica per la lampada sopra la porta, si fermò a metà del gesto.
 
 Vayne guardò Drace a lungo. Non disse niente di quello che avrebbe potuto dire. La sua faccia rimase gentile.
 
@@ -50,7 +50,7 @@ Vayne guardò Drace a lungo. Non disse niente di quello che avrebbe potuto dire.
 
 Drace non rispose. Si rimise a sedere, ma non come prima. Adesso sedeva come chi ha detto la sua e sa di non essere stata ascoltata.
 
-«Il presidente Gregoroth» disse una terza voce, una voce larga e grossa che sembrava venire da un barile «farebbe meglio a occuparsi della sua digestione. Ha sessantotto anni e mangia come un ventenne. Lo vedrei volentieri occuparsene a lungo. Molto per un pezzo.»
+«Il presidente Gregoroth» disse una terza voce, una voce larga e grossa che sembrava venire da un barile «farebbe meglio a occuparsi della sua digestione. Ha sessantotto anni e mangia come un ventenne. Lo vedrei volentieri occuparsene a lungo. Per un bel pezzo.»
 
 Il Giudice Bergan stava appoggiato al muro accanto a una delle carte geografiche, con le braccia incrociate. Era il più grosso di tutti, e la sua armatura era la più scura, nera con riflessi rossi, e il suo elmo, che teneva sotto il braccio, aveva una visiera larga e piatta, che lo faceva somigliare a una bocca di rana. Era biondo, con le basette lunghe, più giovane di quanto la voce facesse credere, e aveva due occhi piccoli, molto chiari, che si muovevano poco. Mentre parlava, giocherellava con un candeliere di ferro che aveva preso dalla mensola: un oggetto massiccio, a tre bracci, che due servi portavano insieme quando c'era da spostarlo. Bergan lo teneva in una mano sola. Lo girava fra le dita.
 
@@ -58,7 +58,7 @@ Il Giudice Bergan stava appoggiato al muro accanto a una delle carte geografiche
 
 Il braccio centrale del candeliere si piegò. Non molto. Di un dito. Bergan lo guardò, sorpreso, come se fosse stato il ferro a cedere di sua iniziativa, e lo rimise sulla mensola.
 
-Pukko infilò il cristallo nella lampada sopra la porta e scese dalla pertica molto in fretta.
+Pukko infilò il cristallo nella lampada sopra la porta e abbassò la pertica molto in fretta.
 
 ---
 
@@ -160,7 +160,7 @@ Il principe aveva aspettato. Poi aveva annuito, come se la risposta gli fosse st
 
 E se n'era tornato al palazzo con il libro sotto il braccio e il mantello che strisciava sulla ghiaia, e Gabranth gli era andato dietro, a dieci passi, come voleva il regolamento.
 
-La pastiglia di miele e menta, avvolta nella sua carta, Gabranth non l'aveva mai mangiata. Era in una tasca interna dell'armatura, contro il petto, quella sera, a Rabanastre, mentre guardava dalla finestra il deserto di Nalbina. Questo lo sappiamo perché anni più tardi, in quella stessa tasca, qualcuno la trovò.
+La pastiglia di miele e menta, avvolta nella sua carta, Gabranth non l'aveva mai mangiata. Era in una tasca interna dell'armatura, contro il petto, quella sera, a Rabanastre, mentre guardava dalla finestra il deserto di Nalbina. Questo lo sappiamo perché, più tardi, in quella stessa tasca qualcuno la trovò.
 
 ---
 
@@ -212,7 +212,7 @@ Cid si irrigidì. Fu un cambiamento rapidissimo, come quello di un cane da cacci
 
 «Non ancora? Sono due anni che dici non ancora.»
 
-«Sono due anni che è sparito.» Vayne si voltò, finalmente, verso il dottore. «La notte del banchetto qualcuno è entrato nel tesoro di questo palazzo. Ha aperto la porta col sigillo, che i miei uomini non erano riusciti ad aprire in due anni con tutti gli strumenti del tuo laboratorio, Cid. E dal tesoro ha preso una cosa sola.» Esitò. «Le guardie dicono che era un ladro della Città Bassa. Un ragazzo.»
+«Sono due anni che è chiuso nel tesoro.» Vayne si voltò, finalmente, verso il dottore. «La notte del banchetto qualcuno è entrato nel tesoro di questo palazzo. Ha aperto la porta col sigillo, che i miei uomini non erano riusciti ad aprire in due anni con tutti gli strumenti del tuo laboratorio, Cid. E dal tesoro ha preso una cosa sola.» Esitò. «Le guardie dicono che era un ladro della Città Bassa. Un ragazzo.»
 
 Il dottor Cid rimase immobile per un istante. Poi scoppiò a ridere, una risata alta, piena, quasi felice, e si batté una mano sul ginocchio.
 
@@ -228,6 +228,6 @@ Il moguri infilò l'ultimo cristallo nella lampada accanto alla scrivania, la la
 
 Quella stessa notte, nelle cucine del palazzo, davanti a una tazza di latte caldo con il miele, Pukko raccontò ogni cosa al nipote, che faceva il garzone alla bottega di Migelo e che di mestiere, il pomeriggio, portava i messaggi del Clan. Il nipote ascoltò con le orecchie dritte. Poi corse da Montblanc.
 
-E Montblanc, che a quell'ora stava già a letto con il berretto da notte, ascoltò a sua volta, e si grattò il pompon, e disse che quella roba valeva parecchio, kupò, e che c'era una nave corriera che partiva all'alba per raggiungere la flotta di Ghis, e che sulla nave corriera c'era un meccanico che era cugino del cugino di sua zia. E che il cugino del cugino gli doveva un favore. E che lui, Montblanc, non aveva mai visto bene quel ragazzo, Vaan, quando si era iscritto al Clan con quella faccia da pomodoro smarrito. Ma che un membro del Clan in catene sul Leviatano era pur sempre un membro del Clan.
+E Montblanc, che a quell'ora stava già a letto con il berretto da notte, ascoltò a sua volta, e si grattò il pompon, e disse che quella roba valeva parecchio, kupò, e che c'era una nave corriera che partiva quella notte per raggiungere la flotta di Ghis, e che sulla nave corriera c'era un meccanico che era cugino del cugino di sua zia. E che il cugino del cugino gli doveva un favore. E che lui, Montblanc, non aveva mai visto bene quel ragazzo, Vaan, quando si era iscritto al Clan con quella faccia da pomodoro smarrito. Ma che un membro del Clan in catene sul Leviatano era pur sempre un membro del Clan.
 
 E che i favori, kupò, si pagano dopo.

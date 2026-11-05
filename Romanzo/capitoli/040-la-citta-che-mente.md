@@ -14,19 +14,19 @@ Era pomeriggio. La flotta non c'era più. Il cielo sopra la città era di nuovo 
 
 Penelo fu la prima a scendere. Aveva dormito tutto il viaggio sulla spalla di Vaan, e Vaan aveva il braccio sinistro morto fino al gomito e non lo aveva detto a nessuno. Lei saltò giù dalla passerella, si stirò, guardò il cielo, e poi si girò verso il portello con un'espressione decisa, quella che a Rabanastre preannunciava sempre un conto da saldare.
 
-Balthier scendeva per ultimo, con il gilet sbottonato e l'aria di un uomo che ha passato la notte in una carriola con le ali e intende farlo sapere al mondo.
+Balthier scendeva per ultimo, con il gilet sbottonato e l'aria di un uomo che ha passato la mattinata in una carriola con le ali e intende farlo sapere al mondo.
 
 Penelo gli si piantò davanti.
 
 «Questo è tuo.»
 
-Gli tese il fazzoletto. Era piegato in quattro, con la F ricamata in vista, lavato dalla cameriera di Ondore e poi stropicciato da due giorni di tasca e da un hangar e da una scheggia di negalite che ci aveva dormito accanto. Penelo lo teneva con due dita, il braccio teso, la faccia seria.
+Gli tese il fazzoletto. Era piegato in quattro, con la F ricamata in vista, lavato dalla cameriera di Ondore e poi stropicciato dalle ore in tasca e da un hangar e da una scheggia di negalite che ci aveva dormito accanto. Penelo lo teneva con due dita, il braccio teso, la faccia seria.
 
 Balthier si fermò sull'ultimo gradino della passerella e lo guardò.
 
 «Me lo hai dato a Rabanastre» disse Penelo. «Quando hanno preso Vaan. Mi hai detto di tenerlo finché non te lo avessi riportato.» Indicò Vaan con il mento, senza voltarsi. «Te l'ho riportato. Cioè, l'hai riportato tu. Cioè...» Si fermò. «Insomma, è tuo.»
 
-Il pirata scese l'ultimo gradino. Prese il fazzoletto con due dita, con la stessa cerimonia con cui lei lo porgeva, e lo guardò, e lo spiegò, e lo ripiegò in quattro con molta cura, la F in vista. Era una lettera piccola, cucita in filo scuro in un angolo, con uno svolazzo da calligrafo. Penelo la guardò passare dalle sue dita a quelle di lui, e non disse niente. Poi se lo infilò nella tasca interna della giacca, a sinistra, e ci posò sopra la mano aperta.
+Il pirata scese l'ultimo gradino. Prese il fazzoletto con due dita, con la stessa cerimonia con cui lei lo porgeva, e lo guardò, e lo spiegò, e lo ripiegò in quattro con molta cura, la F in vista. Era una lettera piccola, cucita in filo scuro in un angolo, con uno svolazzo da calligrafo. Penelo la guardò passare dalle sue dita a quelle di lui, e non disse niente. Poi Balthier se lo infilò nella tasca interna della giacca, a sinistra, e ci posò sopra la mano aperta.
 
 «Lo terrò vicino al cuore» disse.
 
@@ -72,7 +72,7 @@ Ashe lo guardò, e Vaan pensò che stesse per dirgli di non nominare suo padre, 
 
 Era Vossler. Era sceso dall'Atomos con l'armatura imperiale ancora addosso, il pettorale slacciato, l'elmo appeso alla cintura, e si era fermato accanto a loro. Aveva la faccia di chi ha preso una decisione nella notte e la porta con sé come un sasso in tasca.
 
-«Ha ragione. E io avevo torto.» Lo disse senza girarci attorno, il che, in Vossler, era già una specie di confessione. «Per due anni ho tenuto il marchese lontano. Non mi fidavo di lui. Pensavo che chi tratta con l'impero finisce per somigliargli, e che ogni favore suo ci sarebbe costato il doppio. Ho tenuto la Resistenza nei canali e voi nelle cantine, e mi sono detto che era prudenza.» Una pausa breve. «La prudenza ci ha lasciati qui. Senza armi, senza esercito, senza il Frammento. Dalmasca è ancora occupata e voi siete ancora una morta. Bisogna cercare un'altra strada.»
+«Ha ragione. E io avevo torto.» Lo disse senza girarci attorno, il che, in Vossler, era già una specie di confessione. «Per due anni ho tenuto il marchese lontano. Non mi fidavo di lui. Pensavo che chi tratta con l'impero finisce per somigliargli, e che ogni favore suo ci sarebbe costato il doppio. Ho tenuto la Resistenza nei canali e voi nelle cantine, e mi sono detto che era prudenza.» Una pausa breve. «La prudenza ci ha lasciati qui. Senza esercito e senza il Frammento. Dalmasca è ancora occupata e voi siete ancora una morta. Bisogna cercare un'altra strada.»
 
 «Quale?» chiese Ashe.
 
@@ -118,11 +118,11 @@ Fran lo guardò andare finché non fu sparito oltre la prima curva.
 
 ---
 
-La casa del marchese era la stessa di tre giorni prima, ma questa volta entrarono dalla porta principale.
+La casa del marchese era la stessa della sera prima, ma questa volta entrarono dalla porta principale.
 
 Il maggiordomo dal viso lungo li ricevette in cima ai gradini. Guardò la principessa con il livido sullo zigomo e il corpetto strappato e il fango dei canali di Rabanastre seccato sull'orlo della gonna, e non batté ciglio; si inchinò, profondamente, come forse non si era inchinato da due anni, e la precedette lungo la galleria dei ritratti fino alla sala con il camino e la parete di finestre. Passando davanti al quadro della firma della resa, Ashe rallentò. Guardò l'uomo curvo sul foglio con la corona di Dalmasca, e poi tirò dritto più in fretta di prima.
 
-Il marchese li aspettava in piedi, come la volta precedente. Ma non accanto al tavolo delle carte. Era in mezzo alla sala, con il bastone d'ebano in mano e il soprabito giallo zafferano che il sole di traverso faceva quasi arancione, e quando la nipote entrò, la sua faccia fece una cosa che nessuno di loro gli aveva mai visto fare. Si sciolse. Per un istante, uno solo, il volto scavato di Halim Ondore IV non fu quello di un marchese ma quello di un vecchio che vede una persona che aveva pianto per morta, e se la trova davanti, viva, con un livido e il vestito sporco.
+Il marchese li aspettava in piedi, come la volta precedente. Ma non accanto al tavolo delle carte. Era in mezzo alla sala, con il bastone d'ebano in mano e il soprabito giallo zafferano che il sole di traverso faceva quasi arancione, e quando la nipote entrò, la sua faccia si distese. Per un istante, uno solo, il volto scavato di Halim Ondore IV non fu quello di un marchese ma quello di un vecchio che vede una persona che aveva pianto per morta, e se la trova davanti, viva, con un livido e il vestito sporco.
 
 «Ashelia» disse.
 
@@ -136,7 +136,7 @@ Fu lei a cominciare. Lo fece come cominciava tutto: dalla cosa più dura.
 
 Il marchese non abbassò gli occhi.
 
-«Quel proclama» disse «non l'ho scritto io. L'ho firmato. È diverso, anche se non te ne importa niente, e hai ragione che non te ne importi.» Si voltò verso le finestre. «Me lo portò un messo del console, già scritto, tre giorni dopo la caduta di Rabanastre. Con una lettera di accompagnamento molto cortese. Lord Vayne mi suggeriva che, data la confusione, la scomparsa della principessa fosse annunciata da una voce che i dalmaschi avrebbero creduto. La mia. Diceva che avrebbe evitato disordini. Diceva che avrebbe risparmiato vite.» Una pausa. «Forse ne ha risparmiate. Non lo so. Ma non capii subito perché lo volesse. Lo capisco adesso.»
+«Quel proclama» disse «non l'ho scritto io. L'ho firmato. È diverso, anche se non te ne importa niente, e hai ragione che non te ne importi.» Si voltò verso le finestre. «Me lo portò un messo di Vayne, già scritto, tre giorni dopo la caduta di Rabanastre. Con una lettera di accompagnamento molto cortese. Lord Vayne mi suggeriva che, data la confusione, la scomparsa della principessa fosse annunciata da una voce che i dalmaschi avrebbero creduto. La mia. Diceva che avrebbe evitato disordini. Diceva che avrebbe risparmiato vite.» Una pausa. «Forse ne ha risparmiate. Non lo so. Ma non capii subito perché lo volesse. Lo capisco adesso.»
 
 «Perché?»
 

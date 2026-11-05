@@ -100,7 +100,7 @@ Il Giudice si tolse l'elmo. Lo fece con due mani, come si toglie una cosa pesant
 
 Basch fon Ronsenburg si era tagliato i capelli corti, per portarli sotto il ferro. La barba se l'era rasata quasi del tutto, perché Noah non l'aveva, e ogni mattina, davanti allo specchio, si guardava e per un momento non era sicuro di chi stesse guardando. Ma sul sopracciglio sinistro c'era la sua cicatrice, che il fratello non aveva mai avuto, e quella lo rimetteva al suo posto.
 
-L'armatura era quella di Noah. Gliel'avevano tolta i medici della Strahl, quando l'avevano portato a terra; Basch l'aveva fatta raddrizzare da un fabbro di Archades che non aveva fatto domande, e se l'era messa addosso la mattina del funerale, quello senza nome, sotto una lapide dove era scritto soltanto *Noah*. La prima volta che aveva infilato la mano nella tasca interna del pettorale, contro il petto, ci aveva trovato una pastiglia di miele e menta avvolta in una carta sottile. L'aveva rimessa al suo posto. Era ancora lì. Non l'avrebbe mangiata nemmeno lui.
+L'armatura era quella di Noah. Gliel'avevano tolta i medici dell'aerodromo, dopo l'atterraggio; Basch l'aveva fatta raddrizzare da un fabbro di Archades che non aveva fatto domande, e se l'era messa addosso la mattina del funerale privato, sotto una lapide dove era scritto soltanto *Noah*. Infilando la mano nella tasca interna del pettorale, contro il petto, aveva ritrovato la pastiglia di miele e menta, ancora nella carta sottile: l'aveva rimessa lì lui, sul pavimento della Strahl. Non l'aveva più tolta. Non l'avrebbe mangiata nemmeno lui.
 
 Larsa gli tese la lettera.
 
@@ -118,7 +118,7 @@ Il forno della via delle Fontane. La bottega. Sahra e le focacce bruciate da una
 
 Il capitano alzò la testa.
 
-Larsa aprì il cassetto. Prese la pietra nera con la crepa e la posò sul tavolo, accanto alla busta di Penelo. Era la pietra che una volta le aveva regalato a Lhusu e che poi le aveva chiesto indietro, con molte scuse, perché non sapeva ancora abbastanza per lasciargliela; era la pietra che aveva bevuto le spade di vetro di suo fratello sopra un uomo disteso a terra.
+Larsa aprì il cassetto. Prese la pietra nera con la crepa e la posò sul tavolo, accanto alla busta di Penelo. L'azzurro di quando gliel'aveva regalata a Lhusu non c'era più.
 
 «Le ho scritto che non funziona più» disse. «Mi ha risposto che, per quello che doveva fare, ha funzionato abbastanza.»
 
@@ -134,7 +134,7 @@ Larsa gli indicò una sedia. Basch esitò, poi si sedette, e posò l'elmo sul ta
 
 Il capitano lo guardò. Larsa aveva già preso un foglio per la risposta, come se la decisione fosse così semplice da poter essere scritta in margine a una lettera. Forse lo era.
 
-«Se mi portate» disse Basch, e si accorse di aver detto una cosa che a dodici anni avrebbe detto Larsa a lui.
+«Se mi portate» disse Basch, e si accorse di aver detto una cosa che Larsa, a dodici anni, avrebbe detto a lui.
 
 «Ti porto» disse Larsa. «E tu la saluti.»
 

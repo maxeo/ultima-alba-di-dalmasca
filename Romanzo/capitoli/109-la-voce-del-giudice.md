@@ -36,7 +36,7 @@ Ondore abbassò la mano di colpo.
 
 ---
 
-Sulla Strahl, mezz'ora prima di diventare l'uomo più ascoltato di Ivalice, Basch fon Ronsenburg era rimasto seduto per terra, nella cabina, accanto al corpo di suo fratello, con la piccola scatola d'ottone di Balthier in mano.
+Sulla Strahl, poco prima di diventare l'uomo più ascoltato di Ivalice, Basch fon Ronsenburg era rimasto seduto per terra, nella cabina, accanto al corpo di suo fratello, con la piccola scatola d'ottone di Balthier in mano.
 
 Gliel'aveva data Vaan. Senza dire niente: si era voltato dalla barra, aveva tirato fuori la scatola dalla tasca e gliel'aveva tesa, all'indietro, senza staccare l'altra mano dai comandi. Basch l'aveva presa e l'aveva guardata a lungo, senza capire. Poi aveva capito.
 
@@ -46,7 +46,7 @@ Qualcuno doveva fermarla. Qualcuno a cui gli imperiali avrebbero obbedito.
 
 Basch girò la prima rotella della scatola. Poi si fermò.
 
-Non ne aveva bisogno. Lo sapeva da sempre, da quando erano bambini a Landis e la madre li chiamava dalla finestra e confondeva le loro voci quando rispondevano da lontano. Lo sapeva dal pozzo di Nalbina, dove un ragazzo di Rabanastre, nascosto dietro una cassa, aveva sentito due voci rispondersi attraverso le sbarre e aveva pensato che fosse lo stesso uomo che parlava da solo. Lo sapeva dalla piazza bianca del Faro. La sua voce e quella di Noah erano la stessa voce. Lo erano sempre state. Non serviva cambiarla.
+Non ne aveva bisogno. Lo sapeva da sempre, da quando erano bambini a Landis e la madre li chiamava dalla finestra e confondeva le loro voci quando rispondevano da lontano. La sua voce e quella di Noah erano la stessa voce. Lo erano sempre state. Non serviva cambiarla.
 
 Serviva soltanto rimetterle l'elmo.
 
@@ -96,7 +96,7 @@ Le abbassarono. Sulla corazzata accanto, qualcuno vide, e le abbassò anche lui.
 
 Ashe prese il tubo d'ottone dalle mani di Larsa.
 
-Il ragazzo glielo diede senza dire niente. Si guardarono un momento. Lei aveva diciannove anni, lui dodici, ed erano gli eredi di due nazioni che si erano fatte la guerra per tutta la loro vita; e in quella cabina, sul pavimento fra le casse, c'era un uomo morto che aveva ucciso il padre di lei e dato la vita per lui.
+Larsa glielo diede senza dire niente. Si guardarono un momento. Lei aveva diciannove anni, lui dodici, ed erano gli eredi di due nazioni che si erano fatte la guerra per tutta la loro vita; e in quella cabina, sul pavimento fra le casse, c'era un uomo morto che aveva ucciso il padre di Ashe e dato la vita per Larsa.
 
 Ashe si chinò sul tubo.
 

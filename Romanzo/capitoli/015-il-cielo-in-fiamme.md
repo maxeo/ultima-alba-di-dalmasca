@@ -18,7 +18,7 @@ L'Ifrit sparò.
 
 ---
 
-Vaan si ritrovò seduto per terra con la schiena contro il muro della terrazza e le orecchie piene di un fischio acuto, sottile, che copriva tutto il resto. Non sapeva come c'era arrivato. Gli bruciava una guancia. La pietra ce l'aveva ancora; se ne accorse perché la sentiva, tiepida e viva, premuta contro il petto sotto la camicia, dove l'aveva infilata senza ricordarsi di averlo fatto. Intorno a lui cadevano piccole cose, frammenti di tegola, polvere, una piuma di chocobo carbonizzata che scese davanti alla sua faccia ruotando piano, come una foglia d'autunno. Dal cortile saliva un fumo nero e denso, con un odore di pietra bruciata e di un'altra cosa che lui non volle riconoscere.
+Vaan si ritrovò seduto per terra con la schiena contro il muro della terrazza e le orecchie piene di un fischio acuto, sottile, che copriva tutto il resto. Non sapeva come c'era arrivato. Gli bruciava una guancia. La pietra ce l'aveva ancora; se ne accorse perché la sentiva, tiepida e viva, premuta contro il petto sotto la camicia, dove se l'era infilata nella camera segreta. Intorno a lui cadevano piccole cose, frammenti di tegola, polvere, una piuma di chocobo carbonizzata che scese davanti alla sua faccia ruotando piano, come una foglia d'autunno. Dal cortile saliva un fumo nero e denso, con un odore di pietra bruciata e di un'altra cosa che lui non volle riconoscere.
 
 Si tirò su. Guardò di nuovo oltre il parapetto.
 

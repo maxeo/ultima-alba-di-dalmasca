@@ -14,7 +14,7 @@ La bottega di Migelo stava sulla piazza bassa, all'incrocio fra la via dei Calde
 
 Quel giorno, sul bancone, c'era una lista. Era lunga quanto un braccio, scritta in archadiano da una mano di cancelleria, con un timbro in fondo. Migelo la toccava ogni tanto, come si tocca una ferita per vedere se fa ancora male.
 
-«Stasera» disse «al palazzo c'è il banchetto per il console nuovo. Lo sai, no? Tutta la città lo sa. Arriva dad Archades, arriva da Nalbina, non si sa bene da dove arriva, ma arriva, e il banchetto è stasera, e una parte di quello che si mangia stasera lo porto io.» Batté la lista con un artiglio. «Io. Migelo. Ci sono quattro mercanti in tutta Rabanastre che hanno avuto la lista, e uno sono io.»
+«Stasera» disse «al palazzo c'è il banchetto per il console nuovo. Lo sai, no? Tutta la città lo sa. Arriva da Archades, arriva da Nalbina, non si sa bene da dove arriva, ma arriva, e il banchetto è stasera, e una parte di quello che si mangia stasera lo porto io.» Batté la lista con un artiglio. «Io. Migelo. Ci sono quattro mercanti in tutta Rabanastre che hanno avuto la lista, e uno sono io.»
 
 «Congratulazioni.»
 
@@ -22,7 +22,7 @@ Quel giorno, sul bancone, c'era una lista. Era lunga quanto un braccio, scritta 
 
 Vaan non rispose. Era un discorso che aveva già sentito, e la cosa che lo irritava di più era che non sapeva come smontarlo.
 
-«Il problema» continuò Migelo «è la carovana. Doveva arrivare stamattina dal deserto orientale. Sale, datteri, il vino di palma di quelli di Dalan... no, non di Dalan, degli altri. Due carri. Niente. Non è arrivata. Il caravaniere è uno serio, non beve, non gioca. Se non è arrivato vuol dire che c'è qualcosa sulla strada.»
+«Il problema» continuò Migelo «è la carovana. Doveva arrivare stamattina da oriente. Sale, datteri, il vino di palma di quelli di Dalan... no, non di Dalan, degli altri. Due carri. Niente. Non è arrivata. Il caravaniere è uno serio, non beve, non gioca. Se non è arrivato vuol dire che c'è qualcosa sulla strada.»
 
 «Vado io a vedere.»
 
@@ -170,7 +170,7 @@ Vaan se la mise da parte, per Montblanc. Poi uscì nel deserto.
 
 ---
 
-Del deserto orientale si sa quello che sanno tutti quelli che ci sono passati: che è bello solo a guardarlo da lontano, e che chi lo attraversa non lo guarda, perché ha gli occhi pieni di sabbia. Il vento lo modella in dune basse e lunghe come le onde di un mare stanco, e fra le dune affiorano rocce rosse, consumate in forme che i bambini di Rabanastre chiamano col nome di animali: il cane, la vecchia, il dente. La strada per il primo pozzo passa fra il cane e il dente. Vaan la conosceva fino al cane, per averla fatta una volta con Reks, da bambino, a vedere una carovana di Bhujerba che portava gli elefanti di pietra per il tempio. Oltre il cane non era mai andato.
+Del deserto a est di Dalmasca si sa quello che sanno tutti quelli che ci sono passati: che è bello solo a guardarlo da lontano, e che chi lo attraversa non lo guarda, perché ha gli occhi pieni di sabbia. Il vento lo modella in dune basse e lunghe come le onde di un mare stanco, e fra le dune affiorano rocce rosse, consumate in forme che i bambini di Rabanastre chiamano col nome di animali: il cane, la vecchia, il dente. La strada per il primo pozzo passa fra il cane e il dente. Vaan la conosceva fino al cane, per averla fatta una volta con Reks, da bambino, a vedere una carovana di Bhujerba che portava gli elefanti di pietra per il tempio. Oltre il cane non era mai andato.
 
 Ci andò quel giorno, con la spada in mano e il sole sulla nuca, attento a ogni ombra. Vide un lupo del deserto in lontananza, magro come un attaccapanni, che lo studiò e decise di no. Vide le tracce di un carro uscire dalla strada e finire in un avvallamento, e in fondo all'avvallamento il carro rovesciato, con le ruote all'aria e una scia di gusci d'uovo intorno, che il sole stava cuocendo. Vide le impronte. Erano tonde, profonde, e saltellavano.
 
@@ -186,7 +186,7 @@ Fu una carica bassa, rotolante, con una velocità che una cosa di quella forma n
 
 Il Pomodoro decise che la cosa non gli piaceva. Si girò e scappò.
 
-Scappava saltellando, giù per il pendio della duna, con il ciuffo che sbatteva da una parte e dall'altra, e Vaan, che non aveva mai inseguito una pianta in vita sua, gli corse dietro gridando cose che non avevano senso, e scivolò nella sabbia, e rotolò, e si rialzò con la bocca piena di deserto, e corse ancora. Lo raggiunse in fondo al pendio, dove la bestia si era fermata a riprendere fiato, o quello che le piante del deserto riprendono quando si fermano. Si guardarono. Il Pomodoro ansimava. Vaan ansimava. Erano soli nel mezzo del deserto orientale, un ragazzo e un ortaggio, coperti di sabbia tutti e due.
+Scappava saltellando, giù per il pendio della duna, con il ciuffo che sbatteva da una parte e dall'altra, e Vaan, che non aveva mai inseguito una pianta in vita sua, gli corse dietro gridando cose che non avevano senso, e scivolò nella sabbia, e rotolò, e si rialzò con la bocca piena di deserto, e corse ancora. Lo raggiunse in fondo al pendio, dove la bestia si era fermata a riprendere fiato, o quello che le piante del deserto riprendono quando si fermano. Si guardarono. Il Pomodoro ansimava. Vaan ansimava. Erano soli fra le dune, un ragazzo e un ortaggio, coperti di sabbia tutti e due.
 
 Questa volta fu Vaan a caricare.
 
@@ -198,7 +198,7 @@ I gigli li vide mentre si alzava.
 
 Crescevano in una fessura della roccia, all'ombra del dente, dove forse un tempo c'era stata acqua e adesso c'era solo un'umidità che la pietra tratteneva come un ricordo. Erano tre. Avevano il gambo sottile, quasi grigio, e il fiore bianco con il cuore giallo, chiuso a metà per il caldo. Non avevano niente a che fare con quel posto. Erano gigli di Galbana, che di solito si trovano lungo i canali delle oasi, e a Rabanastre si vendevano a mazzetti alla Porta Sud nella stagione delle piogge, per due coppe, alle ragazze.
 
-La madre li teneva nel vaso verde, quello di terracotta smaltata con la crepa, sulla finestra. Vaan se lo ricordava appena, il profumo; Reks se lo ricordava benissimo, e la sera prima di partire per Nalbina, steso sulla branda con le mani dietro la testa, aveva detto che si aprivano di sera e la stanza si riempiva tutta, e che al ritorno sarebbero andati a prenderne insieme, sull'orlo del deserto orientale, dalla parte delle Pianure. Si va e si torna in un giorno, aveva detto. Il vaso era ancora sulla finestra sopra la bottega, con la crepa riparata col filo di ferro e lo stelo nero di una pianta morta dentro, e nessuno dei due fratelli l'aveva mai tolto di lì; poi i fratelli erano rimasti uno, e il vaso era rimasto lo stesso. Vaan non ci aveva più pensato, fino ad allora, in mezzo al deserto, con il succo di una pianta morta sulle mani.
+Vaan si chinò ad annusarli. Erano ancora chiusi e non seppe ritrovarci il profumo che ricordava Reks. Si va e si torna in un giorno, aveva detto suo fratello. Aveva il succo verde sulle mani; si pulì le dita nella sabbia prima di toccare i fiori.
 
 Li colse con attenzione, uno alla volta, tagliando il gambo vicino alla roccia con la lama della spada, perché non si spezzassero. Li avvolse in un lembo della camicia. Pensò alla stanza sopra la bottega, alla branda che c'era ancora, al vaso verde sulla finestra con la sua terra secca. Avrebbe tolto lo stelo nero e ci avrebbe messo l'acqua e i gigli. Non sapeva perché. Non avrebbe saputo spiegarlo a nessuno, e infatti non lo spiegò mai.
 
@@ -278,4 +278,4 @@ Vaan non la buttò. Non rispose neanche. Si era girato verso la piazza, da dove 
 
 Vaan era già partito. Correva verso la piazza con il ciuffo del Pomodoro in mano e la camicia aperta e vuota, senza fiori dentro, e Penelo gli gridò dietro il suo nome due volte, e poi, dopo un'occhiata a Migelo che le fece cenno di andare, gli corse dietro anche lei.
 
-Montblanc, quella sera, ebbe la sua notizia. Gliela portò Kytes, il giorno dopo, perché Vaan aveva altro per la testa: sei soldati alla Porta Est, arrivati da Nalbina, che chiamavano il loro console con una parola che voleva dire macellaio e la dicevano con ammirazione. Il moguri la scrisse nel quaderno, accanto alla piccola spiga, e ringraziò. Poi chiese a Kytes, con molto garbo, se il suo amico avesse trovato dei fiori, nel deserto. Kytes non seppe rispondere. Non sapeva come facesse il moguri a saperlo, e non lo seppe mai.
+Montblanc ebbe la sua notizia il giorno dopo. Gliela portò Kytes, perché Vaan aveva altro per la testa: sei soldati alla Porta Est, arrivati da Nalbina, che chiamavano il loro console con una parola che voleva dire macellaio e la dicevano con ammirazione. Il moguri la scrisse nel quaderno, accanto alla piccola spiga, e ringraziò. Poi chiese a Kytes, con molto garbo, se il suo amico avesse trovato dei fiori, nel deserto. Kytes non seppe rispondere. Non sapeva come facesse il moguri a saperlo, e non lo seppe mai.

@@ -26,9 +26,13 @@ Il fuoco crepitò. Balthier, che si era sistemato su una pila di pelli nell'ango
 
 ---
 
-Larsa spiegò. Lo fece bene, con ordine, senza alzare la voce, e quelli che lo ascoltavano capirono a metà del discorso che quel ragazzo aveva già fatto la stessa spiegazione molte volte, a persone più difficili di loro, in stanze più fredde di quella.
+«Il marchese Ondore arma navi» disse Larsa.
 
-Il marchese Ondore, disse, armava navi. Per due anni aveva tenuto Bhujerba neutrale, aveva sorriso agli ambasciatori archadiani e aveva pagato le tasse che l'Impero gli chiedeva per la sua neutralità, e intanto aveva lasciato che nelle sue miniere e nei suoi porti si radunassero uomini che con la neutralità non avevano niente a che fare. Esuli di Dalmasca. Superstiti di Nabradia. Mercenari. Capitani di ventura che fino all'anno prima facevano i pirati e adesso si facevano chiamare patrioti, perché pagava meglio. Ora, dopo la caduta dell'Ottava Flotta, quegli uomini erano diventati un esercito. Ondore credeva che l'Impero fosse ferito, e che una ferita si colpisce mentre sanguina.
+Ashe si scostò dalla porta. «Mio zio è neutrale.»
+
+«Nei documenti. Nei suoi porti si raccolgono esuli di Dalmasca, superstiti di Nabradia, mercenari. Adesso li sta riunendo. Dopo la perdita dell'Ottava Flotta crede di poter colpire l'Impero.»
+
+Ashe si avvicinò al fuoco. Larsa restò seduto, seguendola con gli occhi.
 
 «E a occidente» disse Larsa «c'è Rozarria.»
 
@@ -104,7 +108,7 @@ La porta ricadde dietro di lei. Larsa restò in piedi.
 
 «Le hai chiesto troppo» confermò Balthier, sdraiandosi di nuovo. «Ma lo hai chiesto bene. È già qualcosa. Molti chiedono troppo e lo chiedono male.»
 
-Basch guardò la porta, poi guardò Larsa. Era il primo Solidor con cui avesse mai parlato da vicino, se non si contava una vecchia udienza a Nalbina in cui un principe imperiale di sedici anni gli aveva chiesto quante sentinelle tenesse sulle mura, e lui non aveva risposto, e quel principe era Vayne.
+Basch guardò la porta, poi Larsa. L'ultima volta che aveva visto il principe, sul Leviatano, lo aveva lasciato tornare verso i suoi soldati. Ora era stato lui a mettersi nelle loro mani.
 
 «Siete coraggioso, altezza» disse il cavaliere.
 
@@ -144,7 +148,7 @@ Ashe strinse le corde.
 
 Ashe non si muoveva più.
 
-«Non l'ho detto a nessuno» disse Vaan. «Pensavo di essermelo immaginato. Pensavo che fosse la tomba, il buio, quelle cose. Poi tu hai allungato la mano, e la mano gli è passata attraverso. L'ho visto. Ti è passata attraverso come attraverso il fumo.»
+«Non l'ho detto a nessuno» disse Vaan. «Pensavo di essermelo immaginato. Pensavo che fosse la tomba, il buio, quelle cose. Poi tu hai allungato la mano, e la mano gli è passata attraverso. L'ho visto. Gli è passata attraverso come attraverso il fumo.»
 
 Il canto del Garif, da qualche parte sulla collina, si era fermato.
 

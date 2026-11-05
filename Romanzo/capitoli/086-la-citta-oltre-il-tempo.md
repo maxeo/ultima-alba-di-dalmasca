@@ -112,7 +112,7 @@ Le facce dei re erano tutte diverse, e tutte, in ogni riquadro, guardavano in al
 
 E poi, a un certo punto, a metà del muro, i riquadri finivano.
 
-Non erano rotti. Non erano stati scalpellati, come i nomi dei santuari dei Mosfora. Erano lisci. Riquadri vuoti, con la cornice scolpita e dentro la pietra levigata, pronta, uno dopo l'altro, fino alla fine del muro. Ce n'erano più vuoti che pieni.
+Nessuno li aveva scalpellati, come i nomi dei santuari dei Mosfora. La pietra era intera, liscia. Riquadri vuoti, con la cornice scolpita e dentro la pietra levigata, pronta, uno dopo l'altro, fino alla fine del muro. Ce n'erano più vuoti che pieni.
 
 Balthier li guardò a lungo.
 

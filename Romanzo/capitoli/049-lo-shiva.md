@@ -1,8 +1,14 @@
 ## 49. Lo Shiva
 
-Sullo Shiva le corde erano nuove. Avevano un odore di canapa che copriva per un poco quello del metallo e segnavano i polsi più in fretta dei ferri consumati di Nalbina. Vaan continuava a muovere le dita per non perderne la sensibilità. Davanti a lui Penelo faceva passi piccoli, perché la guardia le teneva una mano troppo vicina alla nuca. Balthier camminava senza voltarsi, lasciando che il sangue al collo si asciugasse.
+Sullo Shiva cambiarono le corde. Il marinaio incaricato del lavoro aveva un coltello ricurvo e un gomitolo di canapa ai piedi; tagliava un nodo, prendeva la misura e ne faceva uno nuovo, senza alzare gli occhi. Quando arrivò a Vaan, il ragazzo tenne i polsi un poco distanti. Il marinaio gli strinse la mano finché non li accostò.
 
-Vossler era al fianco di Ashe. Non portava più la spada in mano, ma i soldati gliel'avevano restituita. Il capitano teneva la destra lontana dall'elsa come se quel particolare potesse rendere più sopportabile il resto.
+«Le dita le devo ancora usare» disse Vaan.
+
+L'uomo provò il nodo tirando i due capi, poi passò a Penelo. La canapa nuova aveva un odore forte e graffiava più dei ferri consumati di Nalbina. Vaan mosse le dita una alla volta. Sul ponte di trasbordo restavano le loro armi, allineate sopra un carrello; vide una guardia contarle con la punta del coltello e spingerle verso un portello. Anche le sacche andarono da quella parte.
+
+Li fecero entrare due alla volta. A ogni soglia Penelo doveva abbassare il capo, perché il soldato dietro di lei le teneva una mano sulla nuca. Balthier rallentò finché la ragazza non gli fu accanto. Il sangue sopra il suo colletto si era seccato, ma bastò voltarsi perché il taglio ricominciasse a tirare. Fran gli guardò il collo. Lui mosse appena il mento, e lei tornò a sorvegliare la guardia.
+
+Vossler camminava al fianco di Ashe. La spada restituita sul Leviatano gli batteva contro la coscia; ogni volta che sentiva quel rumore, teneva la destra più lontana dall'elsa. Quando una corda della principessa si impigliò nella fibbia della cintura, fece per aiutarla. Ashe si liberò da sola.
 
 «A Rabanastre annunceremo che siete viva» disse. «Il popolo vi vedrà. Non potranno...»
 
@@ -12,7 +18,7 @@ Vossler era al fianco di Ashe. Non portava più la spada in mano, ma i soldati g
 
 Ashe si fermò. La guardia dietro di lei alzò la lancia, poi vide Vossler e la tenne bassa. «Larsa ti ha chiesto di consegnarmi a Ghis?»
 
-Il capitano serrò le labbra. «No.»
+Vossler serrò le labbra. «No.»
 
 «Allora lascia stare il suo nome.»
 
@@ -20,33 +26,49 @@ Vossler guardò i soldati nel corridoio. Erano troppo vicini per una supplica e 
 
 Ashe riprese a camminare. «Lo sono anche quelli che aspettano di sapere a chi appartengono.»
 
-Gli ingegneri di Archades hanno scritto molti trattati sulla magilite, e alcuni sono ottimi. In nessuno di essi, per quanto è dato sapere, compare il parere di una viera. Non è una dimenticanza: a nessuno, a Draklor, era mai venuto in mente di chiedere a una creatura che vive del Bosco che cosa provi quando qualcuno strappa il Mystes da una pietra e lo costringe a correre dentro un motore. Se lo avessero chiesto, quel giorno, avrebbero avuto una risposta.
-
-Fran si fermò dietro di loro. Il movimento fu improvviso: un piede lasciato a metà del passo, le spalle tese, la testa piegata di lato. Balthier se ne accorse prima della guardia e si girò.
+Fran si fermò davanti a una giuntura del pavimento. Aveva sollevato il piede per passarla, ma non riusciva più a posarlo. Dalle lastre le saliva una vibrazione troppo fitta per distinguervi il battito dei motori. Cercò con l'orecchio una direzione; la sentiva davanti, dietro, dentro i denti. Balthier si girò prima che la guardia tirasse la corda.
 
 «Fran.»
 
-Lei aprì la bocca per rispondere. Ne uscì soltanto un respiro corto. Il calore non veniva dal corridoio: le entrava dal petto e le saliva lungo il collo, come se il sangue fosse diventato troppo caldo per stare nel corpo. Strinse le mani legate. Sotto la pelle scura le vene si fecero più visibili, le unghie premettero nella canapa.
+Lei aprì la bocca per rispondere. Ne uscì soltanto un respiro corto. Il calore le entrava dal petto e le saliva lungo il collo; strinse le mani legate, cercando il dolore della corda per separarlo da quell'altro. Le unghie le entrarono nei palmi. Balthier vide le punte delle orecchie piegarsi indietro e fece un passo verso di lei.
 
 «Brucia» disse.
 
 La guardia le diede un colpo con l'asta. «Avanti.»
 
-Balthier tirò le corde per raggiungerla. Il soldato colpì di nuovo, e Fran gli afferrò l'arma con entrambe le mani. Il legno si spezzò. L'uomo urtò la parete dalla parte opposta del corridoio e cadde senza riuscire a mettere avanti le braccia.
+Balthier alzò le mani legate. «Lasciatela.»
+
+Il soldato guardò lui e colpì Fran una seconda volta. La viera prese l'asta fra le mani. Per un istante la guardia continuò a spingere, con i piedi piantati e la bocca aperta per darle un ordine. Il legno si spaccò sotto i pollici di Fran. Lei lo raggiunse con il moncone prima che potesse arretrare; il soldato urtò la paratia opposta e cadde senza mettere avanti le braccia.
 
 ---
 
-Il secondo soldato provò a prenderla da dietro. Fran si piegò, lo rovesciò sopra la propria spalla e gli strappò la cintura prima che toccasse terra. Non stava scegliendo i colpi. Balthier le chiamò il nome una seconda volta e dovette scostarsi per non essere raggiunto anche lui.
+Il secondo soldato le passò un braccio al collo. Fran si piegò, lo rovesciò sopra la spalla e gli strappò la cintura. Il coltello cadde ai piedi di Vaan, ancora nel fodero. Balthier la chiamò ancora. Dovette abbassarsi: il moncone gli passò sopra la testa e lasciò una tacca nel metallo. Fran lo guardò senza riconoscerlo. Poi gli occhi le corsero oltre la sua faccia e il braccio ricadde.
 
-Vaan raccolse il coltello della guardia con le mani ancora legate. Lo girò come poteva e cominciò a segare la corda di Penelo. Balthier si chinò accanto al corpo del primo soldato, trovò una lama e liberò Ashe. Lei la prese dalle sue dita e raggiunse Basch. In fondo al corridoio suonò un allarme.
+Vaan mise un piede sul fodero caduto e ne sfilò il coltello con le mani legate. La punta gli ballava fra le dita. Penelo si inginocchiò davanti a lui e gli tese i polsi.
 
-Fran aveva le spalle contro la paratia. Respirava attraverso i denti, gli occhi fissi sopra un punto che nessun altro vedeva. Balthier arrivò abbastanza vicino da farsi riconoscere senza toccarla. Le disse una frase brevissima; Vaan non la sentì. Vide soltanto la viera cercare il viso del compagno, perdere il punto e poi ritrovarlo.
+«Dalla parte del nodo» disse. «Piano.»
+
+Il filo prese la canapa, poi la pelle. Penelo non ritirò le mani. Quando il nodo cedette, tolse il coltello a Vaan e lo liberò a sua volta. Balthier era accovacciato presso il primo soldato: teneva stretta fra le ginocchia una seconda lama, con il filo in alto, e vi passava sopra la corda. Si tagliò un polsino prima di riuscire a sciogliersi. Liberò Ashe, le diede il coltello e si voltò verso Fran.
+
+Vossler si era fermato oltre la curva. Gridò qualcosa agli uomini in fondo al corridoio, ma l'allarme coprì le parole. Ashe tagliò i legami di Basch. Lui prese la lama e tornò indietro per Fran, che si era premuta contro la paratia. Le fibre resistevano ancora intorno ai suoi polsi; Basch le recise tenendo le proprie dita fra il filo e la pelle della viera.
+
+Fran respirava attraverso i denti. Balthier rimase davanti a lei, fuori dalla portata del braccio, finché gli occhi non gli si fermarono sulla faccia.
+
+«Guarda me» disse. Lei perse il punto, lo cercò di nuovo.
 
 «Non ce la faccio» disse lei.
 
 «Basta fino alla porta.»
 
-Penelo aveva liberato il ragazzo. Corsero verso il deposito delle armi, aperto in fretta dai soldati chiamati dall'allarme. Basch riprese la propria spada da una rastrelliera e ne diede un'altra a Vaan. Ashe trovò la sua senza guardare il fodero. Il capitano si rimise davanti al gruppo, ma Vossler gli aveva già chiuso l'uscita.
+Vaan vide riapparire il carrello dall'altra parte della curva. La guardia che lo spingeva stava distribuendo lance davanti a un deposito aperto. Riconobbe sopra il mucchio l'arco di Fran.
+
+«Le nostre armi.»
+
+Basch gli mise una mano sul petto per trattenerlo. Aspettò che il marinaio all'ingresso si voltasse verso il suono dell'allarme, poi gli fu addosso. Lo spinse contro il carrello e lo tenne piegato sulle aste mentre Ashe strappava dal mucchio la propria spada. Una lancia cadde di traverso sulla soglia. Gli uomini dentro provarono a uscire insieme e si ostacolarono; Basch si prese quel tempo per recuperare la propria lama e passare a Vaan la sua.
+
+Penelo tirò una sacca da sotto il carrello e vi trovò la borsa dei medicamenti. La mise a tracolla mentre Vaan teneva fermo il manico, poi raccolse l'asta spezzata lasciata da Fran. Balthier trascinava la compagna per un braccio. Lei riuscì a prendere l'arco, ma non a tenderlo; lo strinse contro il fianco per non lasciarlo cadere.
+
+Basch fece arretrare gli altri verso il passaggio libero. Vossler lo occupò prima che potessero raggiungerlo.
 
 «Fermi.»
 
@@ -56,7 +78,7 @@ Balthier tenne Fran per un braccio. «Avete sentito l'allarme? Non è una campan
 
 Ashe guardò Vossler. «Spostati.»
 
-Il capitano non si mosse. Dietro di lui arrivarono tre uomini in armatura. Basch scostò Vaan con un braccio e avanzò fino a fermarsi a distanza di spada dal vecchio compagno.
+Vossler non si mosse. Dietro di lui arrivarono tre uomini in armatura. Ashe si voltò a tenere il deposito; Vaan si mise al suo fianco. Basch scostò il ragazzo con un braccio e avanzò fino a fermarsi a distanza di spada dal vecchio compagno.
 
 «Sei un traditore» disse.
 
@@ -86,7 +108,7 @@ Vossler attaccò. Basch conosceva quel colpo, il breve abbassarsi della spalla p
 
 «È una strada.»
 
-«Non è la sua.» Basch abbassò la guardia di un dito, e Vossler non ne approfittò, e in quel dito che nessuno dei due usò c'erano vent'anni. «L'hai scelta tu per lei. Come ho fatto io, quando l'ho lasciata a Nalbina. Siamo uguali, Vossler. Abbiamo deciso tutti e due al posto suo.»
+«Non è la sua.» Basch abbassò la guardia di un dito, e Vossler non ne approfittò, e in quel dito che nessuno dei due usò c'erano vent'anni. «L'hai scelta tu per lei. Come ho fatto io, quando l'ho lasciata a Rabanastre. Siamo uguali, Vossler. Abbiamo deciso tutti e due al posto suo.»
 
 Vossler lo guardò. Per un momento la lama gli tremò. Poi strinse i denti e tornò ad attaccare, più forte di prima, come chi sente avvicinarsi una verità e preferisce correrle contro.
 
@@ -106,7 +128,7 @@ La frase non ebbe bisogno di un'altra spiegazione. Gli strumenti del motore prin
 
 ---
 
-Il primo soldato sullo Shiva cadde contro la rastrelliera. Vaan gli aveva deviato il braccio, Penelo lo aveva colpito agli stinchi con l'asta spezzata. Gli altri due cercarono di proteggere Vossler, ma Ashe li spinse verso il corridoio, abbastanza lontano dai capitani da lasciarli soli. Balthier mise Fran seduta contro il muro e tornò con la pistola in mano.
+Uno dei tre soldati passò accanto a Vossler e si gettò su Vaan. Il ragazzo gli deviò il braccio; Penelo tese l'asta fra i suoi stinchi e lo fece cadere contro la rastrelliera. Gli altri due provarono ad avvicinarsi al duello. Ashe li costrinse a ripararsi dietro il carrello, tenendo la punta all'altezza delle loro gole. Balthier fece sedere Fran contro la paratia, recuperò la pistola fra le cinghie delle sacche e la puntò sugli uomini che cercavano di uscire dal deposito.
 
 La nave tremò. Non un urto dall'esterno: una lunga inclinazione che fece correre sul pavimento le armi cadute. Vossler la sentì sotto il proprio passo e adattò il peso. Basch fece lo stesso. Per un istante tornarono a muoversi insieme, e quella memoria li portò troppo vicini.
 
@@ -136,7 +158,7 @@ Basch premette la stoffa sul fianco. «Vieni con noi.»
 
 «Posso portarti.»
 
-Vossler mosse appena la testa. Il sangue continuava a uscire da sotto la mano del capitano. Guardò la lama lasciata a terra e poi Ashe, che non si era ancora mossa. «Per Dalmasca» disse. Non aveva più forza per farne una difesa. «Credevo...»
+Vossler mosse appena la testa. Il sangue continuava a uscire da sotto la mano di Basch. Guardò la lama lasciata a terra e poi Ashe, che non si era ancora mossa. «Per Dalmasca» disse. Non aveva più forza per farne una difesa. «Credevo...»
 
 Basch gli sostenne la nuca. «Lo so.»
 
@@ -148,7 +170,7 @@ Vossler guardò oltre la sua spalla. «Adesso lei...»
 
 «La proteggerò.»
 
-La presa sulla manica si allentò. Basch aspettò il respiro successivo, con la mano ferma sotto la nuca. Arrivò appena, poi l'uomo gli si fece più pesante sul braccio. Il capitano gli disse il nome una volta. Non ebbe risposta. Gli posò due dita sulla gola e rimase così finché non fu certo.
+La presa sulla manica si allentò. Basch aspettò il respiro successivo, con la mano ferma sotto la nuca. Arrivò appena, poi Vossler gli si fece più pesante sul braccio. Basch gli disse il nome una volta. Non ebbe risposta. Gli posò due dita sulla gola e rimase così finché non fu certo.
 
 Ashe vide il movimento. Il viso le si fece immobile. Basch chiuse gli occhi del compagno e lo adagiò contro la parete, togliendosi piano la mano da sotto il capo. Lasciò la pezza sul fianco. Gli rimise vicino la spada, con l'elsa verso la destra.
 
@@ -158,17 +180,31 @@ Nessuno nel corridoio disse niente. La nave si inclinò ancora, piano, e una del
 
 «È morto?» chiese Vaan, dalla porta.
 
-Il capitano annuì. Si alzò soltanto dopo che Ashe ebbe voltato il viso verso l'hangar.
+Basch annuì. Si alzò soltanto dopo che Ashe ebbe voltato il viso verso l'hangar.
 
 ---
 
-Una navetta era rimasta sul sostegno di lancio. Il pilota era corso al posto di combattimento, gli addetti al carico cercavano di aprire un portello bloccato. Balthier ne spinse uno fuori dalla traiettoria di un carrello che scivolava e salì per primo. Penelo aiutò Fran a entrare. Vaan aspettava sulla passerella mentre Basch raggiungeva Ashe all'ultimo tratto del corridoio.
+L'hangar aveva perso l'orizzontale. I carrelli correvano verso la fiancata sinistra, urtando i sostegni delle navette, e due addetti al carico tiravano insieme la maniglia di un portello che non si apriva. Balthier vide un velivolo ancora vuoto sul sostegno di lancio. Ne raggiunse l'ala e dovette aggrapparsi al bordo per non scivolare sotto la carlinga.
 
-La principessa guardò indietro. Dalla curva non si vedeva più il corpo di Vossler. Lo aveva guardato morire senza muoversi, e adesso che non lo vedeva più le venne in mente una cosa piccola e inutile: che in due anni di cantine non gli aveva mai chiesto se avesse una famiglia, da qualche parte, qualcuno a cui scrivere. Non lo sapeva. Non lo avrebbe saputo più. Si vedeva soltanto una lunga striscia di sangue dove la nave aveva cominciato a inclinarsi. Il capitano le si mise accanto senza prenderla per il braccio. Lei si voltò da sola e salì.
+«Questa» disse. Indicò a Vaan la passerella ripiegata contro lo scafo.
 
-Balthier aveva già avviato i motori. Fran, accanto a lui, riuscì a sollevare una mano e a indicargli una leva che non aveva visto. La toccò, e il piccolo velivolo si staccò dal sostegno con uno strappo. La porta esterna dell'hangar era aperta per metà. Passarono nello spazio rimasto con un urto che piegò un bordo dell'ala.
+Il ragazzo la sganciò. Cadde troppo in basso, batté sul pavimento e tornò su di un palmo. Vaan vi salì con entrambe le mani strette alla ringhiera; dietro di lui Penelo teneva Fran alla vita. Un carrello si staccò dalla parete e prese velocità. Balthier tirò per il bavero un marinaio che gli dava le spalle, lo lasciò aggrappato a un sostegno e saltò sulla passerella prima dell'urto. Il carrello sfondò una cassa contro l'ala.
 
-Il cielo era pieno di navi troppo vicine. Il Leviatano scendeva senza cambiare assetto, come se qualcuno avesse tolto al mondo una parte della forza che lo teneva sospeso. Dalla sua sala motori uscì una luce che non somigliava al fuoco. Balthier tirò la navetta di lato e franò con la spalla contro il sedile.
+«Dentro, Vaan.»
+
+Il ragazzo fece passare Penelo e Fran, poi rimase sulla soglia. Basch stava raggiungendo Ashe all'ultimo tratto del corridoio.
+
+La principessa guardò indietro. Dalla curva non si vedeva più il corpo di Vossler. Lo aveva guardato morire senza muoversi, e adesso che non lo vedeva più le venne in mente una cosa piccola e inutile: che in due anni di cantine non gli aveva mai chiesto se avesse una famiglia, da qualche parte, qualcuno a cui scrivere. Non lo sapeva. Non lo avrebbe saputo più. Si vedeva soltanto una lunga striscia di sangue dove la nave aveva cominciato a inclinarsi. Basch le si mise accanto senza prenderla per il braccio. Lei si voltò da sola e salì.
+
+Balthier aveva già avviato i motori, ma un fermo continuava a trattenere la navetta. A ogni tentativo lo scafo tirava indietro i sedili e ricadeva sul sostegno. Fran era accanto a lui, piegata in avanti. Sollevò la mano verso una leva corta, sotto il quadro.
+
+«Quella.»
+
+Lui la tirò. Il velivolo si staccò con uno strappo; dietro, Basch afferrò il dorso del sedile di Ashe mentre lei cercava la cinghia. Vaan fece scattare il chiavistello del portello e cercò a tentoni la propria.
+
+La porta esterna dell'hangar era aperta a metà e continuava a scendere. Balthier tenne l'ala destra più bassa. Per un istante Vaan vide soltanto la lamiera della porta correre contro il vetro; poi ci fu un urto, il grido del metallo e il cielo. La punta dell'ala piegata batteva contro lo scafo.
+
+Il cielo era pieno di navi troppo vicine. Una prua attraversò il vetro da un bordo all'altro; Balthier le passò sotto e si ritrovò davanti il fianco del Leviatano. L'ammiraglia scendeva senza cambiare assetto. Dalla sala motori filtrava una luce bianca che cancellava oblò e rivetti. Balthier tirò la navetta di lato e batté la spalla contro il sedile. Il dolore gli fece perdere la presa per un istante; la riprese con entrambe le mani.
 
 Ghis vide il vetro del compartimento diventare bianco. Portava di nuovo l'elmo, rimesso quando era cominciato l'allarme; il metallo gli restituì il proprio respiro e un ordine che non riuscì a finire. Il pavimento gli salì incontro. Il dispositivo scomparve dentro la luce, e con esso la mano che ancora indicava di spegnerlo.
 
@@ -176,7 +212,7 @@ L'onda raggiunse lo Shiva mentre la navetta gli passava sotto la prua. Vaan vide
 
 Basch guardò finché non ci fu più niente da riconoscere. Aveva sangue secco sulla sinistra, dentro la cicatrice che Reks gli aveva lasciato. Non cercò di pulirlo.
 
-Balthier spinse il motore oltre il limite segnato. La navetta scosse tutti e sei contro le cinghie, poi guadagnò distanza. Dietro di loro una nave ne urtò un'altra, incapace di correggere la rotta; entrambe si accesero da dentro. I colori militari scomparivano prima degli scafi.
+Balthier spinse il motore oltre il limite segnato. La navetta scagliò tutti e sei contro le cinghie, poi guadagnò distanza. Dietro di loro una nave ne urtò un'altra, incapace di correggere la rotta; entrambe si accesero da dentro. I colori militari scomparivano prima degli scafi.
 
 Fran teneva gli occhi chiusi. «Ancora» disse.
 
@@ -184,6 +220,6 @@ Fran teneva gli occhi chiusi. «Ancora» disse.
 
 «Più lontano.»
 
-Il pirata non rispose. Liberò un fermo con l'unghia e portò la leva fino al metallo. Penelo teneva Fran per una spalla e l'acqua contro la fronte. Vaan smise di guardare il cielo per aiutarla a non rovesciarla.
+Il pirata non rispose. Liberò un fermo con l'unghia e portò la leva fino in fondo. Penelo si sporse dal sedile dietro Fran, le tenne una spalla e le premette sulla fronte un panno bagnato. Vaan prese la borraccia aperta fra le sue ginocchia e la richiuse prima che l'acqua finisse sul pavimento.
 
 Ashe era sola davanti al vetro laterale. L'ultima esplosione cancellò l'ombra del Leviatano e le illuminò le mani vuote. Non si coprì gli occhi. La luce restò anche quando la nave non c'era più.

@@ -2,7 +2,7 @@
 
 L'uomo della casa di Ondore arrivò alla taverna delle Nuvole un'ora dopo, da una porta che nessuno aveva visto aprirsi. Era un segretario, magro, con le dita macchiate d'inchiostro e la voce di chi passa la vita a leggere ad alta voce documenti che non ha scritto. Havharo gli disse tre parole all'orecchio. Il segretario guardò Basch. Poi guardò di nuovo Havharo, e Havharo annuì, e il segretario guardò Basch ancora una volta, più a lungo, come si guarda una data sbagliata in un registro che si è firmato.
 
-«Il marchese riceverà il capitano» disse. «Al tramonto. Con il suo seguito.» Esitò sulla parola *seguito*, e il suo sguardo passò su Vaan, sulla bocca unta, sui sandali, e si allontanò in fretta. «Sarete attesi alla porta delle cucine. La porta principale, stasera, è molto frequentata.»
+«Il marchese riceverà il capitano» disse. «Al tramonto. Con il suo seguito.» Esitò sulla parola *seguito*, e il suo sguardo passò su Vaan, sulla bocca unta, sugli stivali, e si allontanò in fretta. «Sarete attesi alla porta delle cucine. La porta principale, stasera, è molto frequentata.»
 
 Quando se ne fu andato, Vaan si lasciò cadere su una panca e si mise le mani sulla gola.
 
@@ -12,7 +12,7 @@ Quando se ne fu andato, Vaan si lasciò cadere su una panca e si mise le mani su
 
 «È lo stesso. Lo vediamo, gli diciamo di Penelo, lui ce la dà.»
 
-«Il marchese di Bhujerba» disse Balthier, sedendosi accanto a lui e accavallando le gambe «ha passato trent'anni fra due imperi senza farsi mangiare da nessuno dei due. Ha negoziato la resa di un regno senza perderci la faccia, ha annunciato la morte di una principessa e di un capitano senza perderci il sonno, e stamattina ha parlato di selle e di briglie con un Giudice Magister senza alzare la voce una volta. Non è un uomo che *dà*, ragazzo. È un uomo che *scambia*. E stasera gli porteremo l'unica merce che non possiamo permetterci di perdere.» Fece un cenno verso Basch. «Lui.»
+«Il marchese di Bhujerba» disse Balthier, sedendosi accanto a lui e accavallando le gambe «ha passato trent'anni fra due imperi senza farsi mangiare da nessuno dei due. Ha negoziato la resa di un regno senza perderci la faccia, ha annunciato la morte di una principessa e di un capitano senza perderci il sonno, e ieri ha parlato di selle e di briglie con un Giudice Magister senza alzare la voce una volta. Non è un uomo che *dà*, ragazzo. È un uomo che *scambia*. E stasera gli porteremo l'unica merce che non possiamo permetterci di perdere.» Fece un cenno verso Basch. «Lui.»
 
 Basch non disse niente. Stava in piedi contro il muro della stanza senza finestre, dove gli uomini di Havharo gli lasciavano tutto lo spazio che potevano, e guardava la lampada.
 
@@ -26,7 +26,7 @@ Il segretario aprì una porta a due battenti e si fece da parte.
 
 Il marchese li aspettava in piedi.
 
-Era la stessa persona delle miniere, ma vestita diversamente: il lungo soprabito giallo zafferano, i capelli bianchi pettinati all'indietro, e in mano un bastone d'ebano con il pomo d'argento, su cui appoggiava il peso senza averne bisogno. La sala era grande e quasi vuota. Un tavolo coperto di carte, due poltrone, un camino acceso con un fuoco piccolo, e una parete tutta di finestre da cui si vedevano, sospese nel cielo viola, le navi della flotta.
+Portava il lungo soprabito giallo zafferano delle miniere e aveva i capelli bianchi pettinati all'indietro. Teneva in mano un bastone d'ebano con il pomo d'argento, su cui appoggiava il peso senza averne bisogno. La sala era grande e quasi vuota. Un tavolo coperto di carte, due poltrone, un camino acceso con un fuoco piccolo, e una parete tutta di finestre da cui si vedevano, sospese nel cielo viola, le navi della flotta.
 
 Halim Ondore IV guardò entrare il suo seguito, uno per uno. Guardò Vaan senza curiosità, Fran con un'occhiata breve, Balthier con un'attenzione un po' più lunga, quella che si riserva a un nome che si è letto in un rapporto. Poi guardò Basch, e non disse niente per un tempo che parve a tutti molto lungo e che forse non lo era.
 
@@ -100,7 +100,7 @@ Si voltò verso Balthier. «Allora andiamo.»
 
 «Andiamo! Prendiamo la Strahl e andiamo lì. Ci hai portato a Bhujerba, puoi portarci su quella nave.»
 
-«Posso portarti a quella nave» disse Balthier, con una pazienza nuova, quasi gentile. «Su quella nave, no. Quella è una corazzata dell'impero, con ventidue navi di scorta e cannoni su ogni fianco. Prima di arrivare a metà strada saremmo una nuvola di fumo molto elegante. E se anche arrivassimo, che cosa faremmo? Busseremmo? Con lui?» Indicò Basch. «Con il capitano più ricercato di Dalmasca, che stasera mezza Bhujerba ha sentito gridare dalla bocca di un ragazzo con la zuppa sul mento?»
+«Posso portarti a quella nave» disse Balthier, con una pazienza nuova, quasi gentile. «Su quella nave, no. Quella è una corazzata dell'impero, con ventuno navi di scorta e cannoni su ogni fianco. Prima di arrivare a metà strada saremmo una nuvola di fumo molto elegante. E se anche arrivassimo, che cosa faremmo? Busseremmo? Con lui?» Indicò Basch. «Con il capitano più ricercato di Dalmasca, che stasera mezza Bhujerba ha sentito gridare dalla bocca di un ragazzo con la zuppa sul mento?»
 
 Vaan strinse i pugni. Sapeva che Balthier aveva ragione, e il saperlo non serviva a niente.
 
@@ -148,7 +148,7 @@ Una guardia gli aveva preso il braccio, a lui, e un'altra stava facendo lo stess
 
 Basch porse la spada all'elsa, perché la guardia non si tagliasse. Non rispose.
 
-A Vaan arrivò, piano, un pezzo alla volta. Il marchese non poteva portarli sulla nave. Non poteva dire al mondo che voleva aiutare una prigioniera dell'impero. Ma un marchese leale, che ha appena sventato un attentato nella propria casa e catturato un evaso famoso con tutti i suoi complici, quel marchese poteva consegnarli. Anzi: doveva. E l'impero lo avrebbe ringraziato. E li avrebbe portati, in catene, esattamente dove volevano andare.
+Vaan smise di tirare contro le manette. Cercò gli occhi del marchese; Ondore aveva già voltato la testa verso il segretario.
 
 Guardò Basch. Basch aveva già le manette ai polsi. Le guardava, quelle manette, con una calma terribile, la calma di un uomo che si rimette addosso un vestito vecchio che conosce troppo bene.
 
@@ -182,7 +182,7 @@ Il segretario scriveva. Vaan guardava il marchese, e il marchese non guardava ne
 
 Poi, quando le guardie si mossero per portarli via, Ondore fece un passo, uno solo, e si trovò accanto a Basch. Non lo toccò. Parlò senza girare la testa, così piano che lo sentirono soltanto Basch, e Vaan che gli era incatenato al fianco.
 
-«Stamattina, nelle miniere» disse il marchese «un carrello vuoto respirava. Ho pensato che fosse la montagna.» Esitò. «La montagna, a volte, ha ragione di respirare.»
+«Ieri, nelle miniere» disse il marchese «un carrello vuoto respirava. Ho pensato che fosse la montagna.» Esitò. «La montagna, a volte, ha ragione di respirare.»
 
 Basch non rispose.
 

@@ -52,7 +52,7 @@ Qualcuno le prese la spada di mano.
 
 Non con violenza. Con fermezza, come si prende un attrezzo a un apprendista che lo sta usando male. Ashe alzò gli occhi.
 
-Reddas era in piedi davanti a lei. Aveva il cranio rasato lucido di sudore e la barba bianca annerita dal fumo, il viso bruciato dal Mystes da un lato, come dal sole, e la spada corta che gli era rimasta l'aveva lasciata cadere da qualche parte. Teneva la Spada dei Re con tutte e due le mani, e la guardava, e sulla sua faccia non c'era più niente del signore dei pirati.
+Reddas era in piedi davanti a lei. Aveva il cranio rasato lucido di sudore e la barba bianca annerita dal fumo, il viso bruciato dal Mystes da un lato, come dal sole, e la spada che gli era rimasta l'aveva lasciata cadere da qualche parte. Teneva la Spada dei Re con tutte e due le mani, e la guardava, e sulla sua faccia non c'era più niente del signore dei pirati.
 
 «Andate via» disse. «Tutti. Subito.»
 
@@ -148,7 +148,7 @@ Balthier pilotava. Lo faceva da solo, senza Fran accanto: Fran era distesa sulle
 
 Più tardi, molti testimoni in molti luoghi raccontarono di aver visto la luce di Ridorana. A Eruyt, nel cuore del Bosco, una viera alta con i capelli bianchi si fermò a metà di un canto e guardò verso sud fra le fronde, e rimase così finché le altre non smisero di cantare. Nelle Pianure di Ozmone, a Jahara, i vecchi dei Garif uscirono dalle tende e restarono in piedi in silenzio, con le maschere rivolte verso il mare, e i bambini, che avevano cominciato a gridare, smisero. A Balfonheim la gente uscì sui moli. Videro un secondo sole alzarsi oltre l'orizzonte a sud, per il tempo di dieci respiri, e poi spegnersi. Sulla scalinata della dimora di Reddas una donna alta con le spalle da marinaio si sedette sui gradini e non si alzò più per tutta la sera.
 
-A bordo della Strahl, Vaan guardava indietro, verso la lisca spezzata che si allontanava. Teneva sulle ginocchia una spada corta, larga, con la guardia a ricciolo e l'impugnatura fasciata di cuoio nero consumato da un palmo che non c'era più.
+A bordo della Strahl, Vaan guardava indietro, verso la lisca spezzata che si allontanava. Teneva sulle ginocchia una spada lunga e sottile, con la guardia a ricciolo e l'impugnatura fasciata di cuoio nero consumato da un palmo che non c'era più.
 
 «Reddas» disse, una terza volta, piano.
 

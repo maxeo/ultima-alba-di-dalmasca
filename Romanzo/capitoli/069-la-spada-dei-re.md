@@ -1,6 +1,6 @@
 ## 69. La Spada dei Re
 
-Gli occhi del Gran Kiltias erano bianchi, ma guardavano. Nessuno dei sei che stavano davanti alla sua sedia, quel pomeriggio, nella Sala della Luce, avrebbe saputo dire come facesse; eppure lo sapevano tutti, con la pelle, come si sa di essere osservati da una finestra. Anastasis guardava Ashe. La guardava da capo a piedi, adagio, come un mercante di stoffe guarda una pezza contro la luce per vedere se ha difetti nella trama.
+Gli occhi del Gran Kiltias erano bianchi, ma guardavano. Nessuno dei sette compagni davanti alla sua sedia, quel pomeriggio, nella Sala della Luce, avrebbe saputo dire come facesse; eppure lo sapevano tutti, con la pelle, come si sa di essere osservati da una finestra. Anastasis guardava Ashe. La guardava da capo a piedi, adagio, come un mercante di stoffe guarda una pezza contro la luce per vedere se ha difetti nella trama.
 
 «Potere contro potere» disse. «Una pietra contro un'altra pietra. Una spada più lunga contro una spada lunga. È la cosa più vecchia del mondo, figlia di Raminas. Gli uomini la fanno da quando hanno imparato a raccogliere un sasso. Non me ne stupisco. Me ne rattristo un poco, ma non me ne stupisco.»
 
@@ -48,7 +48,7 @@ Chiuse gli occhi. La testa gli ricadde sulla spalla, adagio, e tornò com'era qu
 
 Larsa non venne con loro.
 
-Non lo disse subito. Lo disse dopo, fuori dalla Sala della Luce, sulla terrazza davanti alle porte, dove la neve aveva ricominciato a cadere a fiocchi radi e grandi, e il vento li portava di traverso. Al-Cid era rimasto dentro con Anastasis. I sei si erano fermati a guardare il cielo, che a sud, verso Paramina, era bianco e chiuso.
+Non lo disse subito. Lo disse dopo, fuori dalla Sala della Luce, sulla terrazza davanti alle porte, dove la neve aveva ricominciato a cadere a fiocchi radi e grandi, e il vento li portava di traverso. Al-Cid era rimasto dentro con Anastasis. Si erano fermati a guardare il cielo, che a sud, verso Paramina, era bianco e chiuso.
 
 «Resto qui» disse Larsa.
 
@@ -59,8 +59,6 @@ Penelo si voltò di scatto. «Cosa?»
 Lo disse con la voce composta, quella che aveva ritrovato dopo un'ora passata da solo in una cappella laterale della sala, dove nessuno lo aveva seguito tranne Penelo, che si era seduta sulla panca in fondo e non aveva detto una parola fino a che lui non si era alzato. Aveva gli occhi asciutti. Si vedeva che aveva pianto; si vedeva anche che non voleva che si vedesse, e tutti fecero finta di non vederlo.
 
 Ashe lo guardò a lungo.
-
-Erano arrivati insieme fino a lì. Dalle capanne di Jahara, attraverso Ozmone, nella giungla, sotto terra, sulla neve. Lui le aveva offerto se stesso come ostaggio, e lei lo aveva rifiutato, e poi lo aveva tenuto come compagno di strada, e in tutto quel tempo non gli aveva mai detto una parola gentile. Adesso il ragazzo non aveva più un padre, e la pace che era venuto a cercare era morta con il padre, e lui stava lì, nella neve, con il colletto bianco, a preoccuparsi che lei non venisse cercata per colpa sua.
 
 «Principe Larsa» disse Ashe.
 
@@ -96,7 +94,7 @@ Penelo fu l'ultima. Si fermò davanti a lui. Non aveva niente da dargli. Aveva d
 
 «Ci vediamo» disse Larsa.
 
-Lei si voltò e raggiunse gli altri senza guardarsi indietro, e Vaan, che la guardava, non disse niente per tutto il primo tratto di strada, e fu una cosa che nessuno gli aveva mai visto fare.
+Lei si voltò e raggiunse gli altri senza guardarsi indietro, e Vaan, che la guardava, non disse niente per tutto il primo tratto di strada, e Penelo non provò a farlo parlare.
 
 ---
 
@@ -128,17 +126,25 @@ Il Tempio di Miriam stava in fondo a una valle chiusa, dove la neve si fermava c
 
 Le porte si aprirono quando Ashe ci posò sopra la mano. Si aprirono adagio, senza un suono, come se l'avessero aspettata.
 
-Dentro, il tempio era una cosa che non si poteva raccontare, e che chi lo visitò poi non raccontò quasi mai. Era fatto di sale, una dopo l'altra, ognuna più grande della precedente, con soffitti che si perdevano nel buio e pavimenti di pietra lucida come acqua ferma. Non c'erano lampade. C'era una luce bianca e fredda che usciva dalle pareti stesse, dalle venature della pietra, e che non faceva ombre. In ogni sala c'erano statue. Statue di guerrieri, di re, di bestie, di cose che non erano né guerrieri né re né bestie. Alcune si muovevano. Alcune, quando passavano, giravano la testa a guardarli. E nella prima sala, la più grande, c'era un colosso.
+Dentro, il tempio era una cosa che non si poteva raccontare, e che chi lo visitò poi non raccontò quasi mai. Era fatto di sale, una dopo l'altra, ognuna più grande della precedente, con soffitti che si perdevano nel buio e pavimenti di pietra lucida come acqua ferma. Non c'erano lampade. C'era una luce bianca e fredda che usciva dalle pareti stesse, dalle venature della pietra, e che non faceva ombre. In ogni sala c'erano statue. Statue di guerrieri, di re, di bestie, di cose che non erano né guerrieri né re né bestie. Alcune si muovevano. Alcune, quando passavano, giravano la testa a guardarli. E nella sala d'ingresso c'era un colosso.
 
 Era un gigante di pietra seduto su un trono, con una spada di pietra sulle ginocchia, alto come la cattedrale di Rabanastre, e aveva la faccia di un uomo vecchio e severo, con gli occhi chiusi. Davanti a lui, su un piedistallo, c'era un incavo nella pietra, della forma esatta di un uovo d'anatra.
 
 Ashe ci mise il Frammento d'Aurora. Il colosso aprì gli occhi.
 
-Quello che venne dopo fu lungo, e in gran parte noioso, come lo sono tutte le prove inventate da un re morto per mettere alla prova i suoi discendenti. Basti dire che il tempio cambiava forma sotto i loro piedi ogni volta che il frammento toccava un altro piedistallo, e che scale apparivano dove non c'erano e sparivano dove c'erano state. Che c'erano tre statue di guerrieri in tre sale lontane, e che bisognava voltarle tutte e tre verso il colosso, e che una delle tre era sorvegliata da qualcosa che non voleva essere voltato, e che quel qualcosa fu convinto a cambiare idea. E che, quando l'ultima statua fu girata, il colosso alzò la sua spada di pietra dalle ginocchia, adagio, con un rumore di montagna che si sveglia, e la tenne alta, e sotto la spada si aprì una porta.
+Al primo piedistallo la scala dietro di loro sprofondò nel pavimento. Vaan si voltò al rumore e vide l'ultimo gradino sparire; ne era comparso un altro dall'altra parte della sala, proprio dove prima c'era il muro. Ashe riprese il frammento dall'incavo e la scala tornò su.
+
+«Dobbiamo portarcelo dietro» disse Basch.
+
+Nei passaggi che si aprivano trovarono tre statue di guerrieri, in tre sale lontane. La prima girò sul basamento sotto la spinta di Basch e Vaan, raschiando la pietra, finché il volto non fu rivolto verso il colosso. Per arrivare alla seconda dovettero aspettare che Ashe posasse il frammento su un altro piedistallo: la scala che Balthier aveva già imboccato si ritirò con lui ancora sul gradino più basso.
+
+«Avvertimi» disse, rimettendo il piede sul pavimento.
+
+Alla terza trovarono il guardiano. Dopo lo scontro Vaan aveva le mani così sudate che gli scivolavano sulla pietra. Spinse con la spalla contro il fianco della statua; Basch la prese dall'altro lato. Il volto del guerriero passò davanti a loro, lentamente, finché guardò nella stessa direzione degli altri due. Dalla sala d'ingresso venne un rumore profondo. Tornarono a vedere il colosso sollevare la spada dalle ginocchia, adagio; sotto la lama, nel muro, si apriva una porta.
 
 Di là dalla porta faceva freddo. Un freddo diverso da quello di Paramina, che entrava nelle ossa e si fermava lì; questo entrava nei pensieri. La sala era rotonda e vuota, con le pareti coperte di brina, e al centro, nell'aria, c'era qualcosa che si formava. Fran lo sentì per prima e si portò le mani alle orecchie.
 
-Era un'Esper, come quella della tomba. Si chiamava Mateus, secondo le iscrizioni sulle pareti che Fran lesse dopo, quando tutto era finito. Era fatto di ghiaccio e di buio, e aveva fra le braccia la figura di una donna chiusa in un cristallo di gelo, che teneva come si tiene un trofeo o una prigioniera, e la donna aveva gli occhi aperti e non si muoveva. Combatterono. Faceva così freddo che le dita si attaccavano all'elsa delle spade. A un certo punto la brina sulle pareti si staccò tutta insieme, e Penelo ne fu coperta dalla testa ai piedi e ne uscì bianca come una statua, e per un momento terribile nessuno sapeva se fosse viva; poi starnutì. Alla fine l'Esper si ruppe. Si ruppe come il ghiaccio di un lago a primavera, con un rumore enorme e lungo, e la donna nel cristallo si ruppe con lui, e non ne restò niente se non una nebbia gelata che si posò sul pavimento e si sciolse.
+Era un Esper, come quello della tomba. Si chiamava Mateus, secondo le iscrizioni sulle pareti che Fran lesse dopo, quando tutto era finito. Era fatto di ghiaccio e di buio, e aveva fra le braccia la figura di una donna chiusa in un cristallo di gelo, che teneva come si tiene un trofeo o una prigioniera, e la donna aveva gli occhi aperti e non si muoveva. Il freddo induriva le dita intorno all'elsa delle spade. Basch dovette aprire e richiudere la sinistra prima di riprendere la guardia; Ashe gli passò davanti, costringendo Mateus a voltarsi. La brina sulle pareti si staccò tutta insieme e seppellì Penelo. Vaan la chiamò. Dal mucchio bianco venne uno starnuto, poi spuntò una mano in cerca di appoggio. Vaan l'afferrò e la tirò fuori, mentre dietro di loro le lame riprendevano a battere sul ghiaccio. Quando l'Esper cedette, la prima crepa gli attraversò il petto. Si ruppe come il ghiaccio di un lago a primavera, con un rumore enorme e lungo, e la donna nel cristallo si ruppe con lui, e non ne restò niente se non una nebbia gelata che si posò sul pavimento e si sciolse.
 
 E dietro, in fondo alla sala, c'era un'altra porta. Aperta.
 

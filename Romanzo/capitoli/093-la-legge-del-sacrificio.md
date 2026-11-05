@@ -40,7 +40,7 @@ Ashe non si voltò. Era rimasta con le dita sul nome del suo antenato, e il nome
 
 *Chi crede di vedere, diffidi degli occhi.*
 
-Pensò a Rasler. Non lo volle pensare; le venne addosso da solo, come viene addosso una folata. Pensò al suo volto nella Tomba, al gesto con cui le aveva fermato la mano. Alla figura che l'aveva guidata tra gli alberi della Foresta Stregata, e che i suoi compagni non vedevano, tranne una volta, forse, Vaan, che aveva alzato gli occhi dove li alzava lei e poi non ne aveva parlato. Alla presenza che aveva sentito a Giruvegan, alle spalle degli Occuria, con il suo silenzio approvante. Tutte le volte che Rasler le era apparso, lei lo aveva creduto un dono. Non aveva mai pensato di chiedersi chi lo facesse.
+Pensò a Rasler, alla sua mano sull'elsa della Spada del Patto. Era rimasto in silenzio anche davanti agli Occuria. A lungo aveva creduto che quelle apparizioni fossero un dono. Adesso si chiedeva chi glielo mandasse.
 
 «Il sangue del Re Dinasta può aiutarti a leggere il resto» disse Fran. «Non qui. Dentro.»
 
@@ -74,7 +74,13 @@ La seguirono così, a occhi semichiusi, con la mano sulla spalla di quello davan
 
 Alla fine del sentiero c'era una roccia. Era una roccia tonda e bassa, grande come una casa, coperta di scaglie di pietra; la guardarono, la toccarono, e Reddas, che aveva fretta, ci appoggiò un piede per salirci sopra e vedere oltre. La roccia aprì un occhio.
 
-Il guardiano dell'illusione, quello che la porta di Raithwall annunciava per primo, era una bestia con il guscio di pietra e una testa piatta e lenta, e combatterlo fu come litigare con una montagna. Aveva uno sguardo che faceva diventare le gambe pesanti come colonne e una luce che accecava. Quando cominciò a cedere si chiuse in una specie di bolla d'aria dura, contro la quale le spade rimbalzavano, e per un poco non ci fu niente da fare se non aspettare a distanza, curarsi i lividi e guardarlo ansimare. Balthier ne approfittò per sedersi. Poi la bolla si spense, e Basch e Reddas lo presero dai due lati, insieme, uno con la spada lunga e l'altro con le sue due corte, e lo fecero in un modo così coordinato che Ashe, che li guardava, pensò che dovevano aver imparato nello stesso genere di scuola. Il guardiano sprofondò nella sabbia, la sabbia sprofondò nel nulla, e si ritrovarono in una sala di pietra grigia con un soffitto altissimo, in piedi, ammaccati, con le spade in mano e la polvere del deserto orientale ancora sulle scarpe.
+Reddas tolse il piede dal guscio. La testa della bestia uscì piano dalla pietra, piatta e larga, e i suoi occhi si posarono sulle gambe di Vaan. Il ragazzo provò ad arretrare; riuscì appena a sollevare un tallone. Basch lo tirò via per la giubba mentre Ashe colpiva il muso. Dall'occhio partì una luce che li accecò tutti. Sentirono il guscio raschiare sulla sabbia, vicinissimo.
+
+Quando tornarono a vedere, la bestia ansimava dentro una bolla d'aria dura. La spada di Basch vi rimbalzò con un colpo secco che gli torse il polso. Reddas fermò il proprio affondo.
+
+«Indietro» disse Basch. «Aspettiamo.»
+
+Penelo passò da uno all'altro, tastando braccia e ginocchia. Balthier si sedette nella sabbia e ricaricò. Alla prima crepa nella bolla Basch guardò Reddas; il pirata si era già spostato dall'altro lato del guscio. Colpirono insieme, la spada di Basch sul muso e le due lame di Reddas sotto il bordo di pietra, senza un ordine né un cenno. Ashe riconobbe il movimento: dovevano averlo imparato nello stesso genere di scuola. Il guardiano sprofondò nella sabbia, la sabbia sprofondò nel nulla, e si ritrovarono in una sala di pietra grigia con un soffitto altissimo, ammaccati, con le armi in mano e la polvere del deserto a est di Dalmasca ancora sulle scarpe.
 
 Vaan si guardò le scarpe a lungo. La polvere era vera. La toccò con un dito.
 
@@ -160,7 +166,7 @@ Dopo la neve, la luce che avevano lasciato sull'altare tornò. Tornò di colpo, 
 
 «Niente. Era tornata. La strada.» Ashe si appoggiò al muro un istante, poi si staccò. «Ce l'hanno resa. Lo aveva promesso.»
 
-«Raithwall mantiene le promesse» disse Balthier. «Settecento anni dopo, ma le mantiene. Mi piacerebbe dire lo stesso di certi miei creditori.»
+«Raithwall mantiene le promesse» disse Balthier. «Settecento anni dopo, ma le mantiene. Mi piacerebbe dire lo stesso di certi miei debitori.»
 
 ---
 

@@ -104,7 +104,7 @@ Fran era salita. Nessuno l'aveva sentita arrivare, nemmeno Basch, e adesso stava
 
 Le due viere si guardarono.
 
-Vaan, che non sapeva niente, capì una cosa sola, e la capì con la pelle, prima che con la testa. Si somigliavano. Non come si somigliano due viere fra loro, per la statura e le orecchie e il modo di stare. Si somigliavano nel taglio degli occhi, nella linea del mento, nel modo di tenere le mani lungo i fianchi, aperte. Si somigliavano come si somigliano due persone che sono cresciute nella stessa casa, mangiando allo stesso tavolo, ascoltando la stessa voce la sera. E fra loro c'era uno spazio di tre passi, e in quello spazio c'erano cinquant'anni.
+Vaan guardò il taglio degli occhi, la linea del mento. Le due viere avevano perfino lo stesso modo di tenere le mani aperte lungo i fianchi; una voltò appena il palmo e l'altra fece lo stesso. Non occorreva chiedere che parentela ci fosse. Fra loro rimase uno spazio di tre passi.
 
 «So che Mjrn non è qui» disse Fran. «Dov'è andata?»
 
@@ -184,4 +184,4 @@ Fran si voltò. Lo guardò per un istante, e qualcosa le si mosse all'angolo del
 
 «Bugiardo» disse.
 
-E scese per la passerella, e lui le andò dietro.
+Scese per la passerella. Balthier le andò dietro.

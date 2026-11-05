@@ -158,13 +158,13 @@ Reddas annuì una volta e tornò alla mappa, e il resto della conversazione rigu
 
 Fuori il sole aveva cominciato a scendere e la luce aveva preso il colore del vino annacquato. Sulla scalinata della dimora li aspettavano tre persone, o meglio, aspettavano qualcuno, e quando videro uscire la compagnia senza Reddas tutti e tre fecero la stessa faccia.
 
-Rikken parlò per primo. Rikken parlava sempre per primo, anche quando non sapeva cosa dire, e quella volta lo sapeva. Aveva un berretto in mano e lo girava.
+Rikken parlò per primo. Lo faceva anche quando non sapeva cosa dire, e quella volta lo sapeva. Aveva un berretto in mano e lo girava.
 
 «Allora è vero. Ci va lui.»
 
 «Ci andiamo tutti» disse Vaan.
 
-«Al Faro.» Rikken guardò Balthier, e Balthier guardò il mare. Fra i due c'era ancora in sospeso la faccenda delle bottiglie sul molo: cinque su sei per ciascuno, e la sesta portata via da una freccia di Fran, che a Balfonheim era diventata in pochi giorni un argomento da taverna con due partiti, nessuno dei quali era quello di Balthier. «Con la tua barchetta.»
+«Al Faro.» Rikken guardò Balthier, e Balthier guardò il mare. Fra i due c'era ancora in sospeso la faccenda delle bottiglie sul molo: cinque su sei per ciascuno, e la quarta portata via da una freccia di Fran, che a Balfonheim era diventata in pochi giorni un argomento da taverna con due partiti, nessuno dei quali era quello di Balthier. «Con la tua barchetta.»
 
 «Con la mia aeronave» disse Balthier. «Che, a differenza di certe pistole, non soffre di vento.»
 

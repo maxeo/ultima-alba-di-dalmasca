@@ -36,15 +36,17 @@ Balthier non rispose. Rialzò la pistola. Questa volta il braccio gli tremava.
 
 ---
 
-Lo scontro con Cid lo raccontarono poco, e male, perché non c'era niente in esso che valesse la pena di ricordare se non la fine.
+Cid scostò il soprabito e imbracciò un'arma lunga, con una canna di ottone e un serbatoio di vetro pieno di luce verde. Balthier riconobbe il lavoro di suo padre prima ancora che partisse il colpo: nessun armaiolo avrebbe lasciato del vetro così vicino alla mano di chi sparava. La scarica scheggiò il pilastro accanto ad Ashe.
 
-Lo scienziato combatteva come nessun uomo della sua età avrebbe dovuto. Aveva un'arma da fuoco lunga, di sua invenzione, con una canna di ottone e un serbatoio di vetro pieno di una luce verde, e la usava con una mira infallibile e un'allegria oscena. Si muoveva troppo in fretta. Ogni volta che la Crisalide pulsava il suo corpo sembrava gonfiarsi di qualcosa, e i suoi passi diventavano più lunghi, i suoi salti più alti; si capiva che non era lui, era il Mystes che passava attraverso di lui come l'acqua attraverso una spugna. Quando lo misero alle strette, contro un pilastro, Cid tirò fuori dalla giubba una pietra scura, artificiale, una di quelle che Draklor fabbricava a dozzine, e la sollevò sopra la testa.
+«Via da lì!» gridò Basch.
+
+Lo scienziato si muoveva troppo in fretta perché potessero circondarlo. Ogni volta che la Crisalide pulsava allungava il passo, saltava più in alto; il Mystes gli attraversava il corpo e lui rideva, senza più badare a dove metteva i piedi. Quando lo chiusero contro un pilastro, Cid tirò fuori dalla giubba una pietra scura, artificiale, e la sollevò sopra la testa.
 
 «Guardate!» gridò. «Guardate cosa sanno fare gli uomini, senza nessun dio!»
 
 Dalla pietra si levò una figura enorme, armata, con un grande vaso fra le mani. Quando il vaso si inclinò, ne uscì un'acqua scura e pesante che si rovesciò sulla piazza in un'onda alta come una casa. Travolse Penelo. Travolse Vaan, che si aggrappò alla spada di Reddas piantata in una giuntura del pavimento. Basch resse, e Ashe resse dietro di lui. Fran, già in ginocchio, la lasciò passare sopra di sé.
 
-Non durò. Il fuoco di Penelo, che aveva imparato a chiamare dalle dita in una stagione di fughe, e le spade degli altri, e la freccia di Fran che trovò la giuntura fra l'elmo e il collo del gigante, lo fecero tornare nella pietra da cui era venuto. La pietra, nella mano di Cid, si incrinò e andò in polvere. Cid la guardò con un'aria offesa, quella di un artigiano a cui si rompe un attrezzo nuovo.
+Penelo si rialzò sputando acqua. Aprì le mani e il fuoco le corse dalle dita contro il gigante, mentre Basch e Ashe gli arrivavano sotto le braccia. Fran tese l'arco dal pavimento. La sua freccia entrò fra l'elmo e il collo; la figura si ripiegò verso la pietra che Cid teneva alzata e vi scomparve. La pietra si incrinò e andò in polvere. Cid guardò il guanto sporco con un'aria offesa, quella di un artigiano a cui si rompe un attrezzo nuovo.
 
 Ogni tanto, fra un colpo e l'altro, Cid parlava al figlio. Non lo insultava. Lo correggeva.
 

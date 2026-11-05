@@ -22,7 +22,7 @@ La bestia urtò il sostegno della pensilina. La tettoia si abbassò di un palmo 
 
 «Adesso» disse Basch.
 
-Scese per primo, con la spada bassa, e non cercò il ventre. Colpì la zampa che minacciava di tornare verso la scala. La spada del ferroviere si piegò e rimase incastrata fra due placche. Il capitano lo lasciò, afferrò il braccio di Vaan e lo spinse verso il pilastro della banchina. Vaan si voltò per recuperare l'arma, poi vide che Basch aveva già raccolto un'asta di ferro dal pavimento.
+Scese per primo, con la spada bassa, e non cercò il ventre. Colpì la zampa che minacciava di tornare verso la scala. La spada del ferroviere si piegò e rimase incastrata fra due placche. Basch la lasciò, afferrò il braccio di Vaan e lo spinse verso il pilastro della banchina. Vaan si voltò per recuperare l'arma, poi vide che Basch aveva già raccolto un'asta di ferro dal pavimento.
 
 L'arco di Fran fece un suono breve. La freccia si conficcò sotto il cartello della banchina, dove uno dei cavi principali spariva nella pietra, e una luce bianca si allargò lungo il metallo. La brina corse sulla trave. Balthier saltò giù dal carrello, atterrò male e imprecò, ma ebbe il tempo di sparare ancora prima che la creatura gli piombasse addosso. Il corpo gelato a metà urtò la colonna, si rovesciò di fianco e spezzò il sostegno della pensilina.
 
@@ -36,7 +36,7 @@ La galleria saliva a gomiti. Il soffitto era basso, e a ogni scossa piovevano sc
 
 «Basch!» gridò Balthier.
 
-Il capitano era caduto su un ginocchio. Aveva messo il piede fra due traversine e lo stivale non usciva. Vaan tornò indietro prima di aver deciso di farlo; arrivò accanto a lui, prese il cuoio sopra la caviglia e tirò. Basch girò la gamba. Lo stivale venne via lasciando mezzo tacco nel legno. Il ragazzo lo lasciò andare, e il capitano si rialzò usando l'asta di ferro come appoggio.
+Il capitano era caduto su un ginocchio. Aveva messo il piede fra due traversine e lo stivale non usciva. Vaan tornò indietro prima di aver deciso di farlo; arrivò accanto a lui, prese il cuoio sopra la caviglia e tirò. Basch girò la gamba. Lo stivale venne via lasciando mezzo tacco nel legno. Il ragazzo lasciò lo stivale, e Basch si rialzò usando l'asta di ferro come appoggio.
 
 «Corri» disse Vaan.
 
@@ -54,7 +54,7 @@ Il sole era già alto. Sotto la parete si apriva un declivio di pietra gialla, a
 
 Basch inspirò e sentì il petto fermarsi prima di essere pieno. Riprovò, più lentamente. L'aria entrò con odore di terra calda e di capperi, e gli fece tossire via gli ultimi due anni di umidità. Chiuse gli occhi. Il sole gli scaldava le palpebre. Restò così, con la borraccia vuota fra le mani.
 
-I documenti dell'epoca non registrano quel respiro. Registrano, mesi dopo e con molta irritazione, che il capitano Basch fon Ronsenburg era «ricomparso» nell'estate del 706, come un debitore rientrato da un viaggio. Chi scrisse quei documenti non era sul pendio sotto la montagna, con l'odore dei capperi e del sole. Il respiro valeva di più.
+I documenti dell'epoca non registrano quel respiro. Registrano, mesi dopo e con molta irritazione, che il capitano Basch fon Ronsenburg era «ricomparso» nell'estate del 706, come un debitore rientrato da un viaggio. Chi scrisse quei documenti non era sul pendio sotto la montagna, con l'odore dei capperi e del sole.
 
 «Capitano» disse Balthier.
 

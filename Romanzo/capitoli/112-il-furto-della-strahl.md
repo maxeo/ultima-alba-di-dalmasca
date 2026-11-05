@@ -2,7 +2,7 @@
 
 Per un anno intero Vaan aveva tenuto la Strahl senza un graffio.
 
-Lo aveva fatto con un impegno che nessuno, a Rabanastre, gli aveva mai visto mettere in niente. La teneva nel secondo hangar dell'aerodromo della Porta Ovest, sotto un telone che lavava una volta al mese, e ogni mattina, prima di andare a lavorare sulla propria nave, ci passava sotto da prua a poppa, lentamente, con una mano che sfiorava la carena senza toccarla del tutto. Aveva imparato il gesto da qualcuno. Non lo sapeva. Lo aveva lucidato, oliato, ripulito dalla fuliggine di Bahamut con un panno di lana e con una pazienza da orafo. Aveva fatto controllare i motori a Nono, che era venuto apposta da Bhujerba e si era fermato tre settimane, ospite di Migelo, mangiando lenticchie e lamentandosene. Aveva fatto rifare i giunti del timone. Non aveva toccato la toppa più chiara sul fianco sinistro, perché quella non era un'ammaccatura: era la cicatrice, e le cicatrici non si toccano.
+Lo aveva fatto con un impegno che nessuno, a Rabanastre, gli aveva mai visto mettere in niente. La teneva nel secondo hangar dell'aerodromo della Porta Ovest, sotto un telone che lavava una volta al mese, e ogni mattina, prima di andare a lavorare sulla propria nave, ci passava sotto da prua a poppa, lentamente, con una mano che sfiorava la carena senza toccarla del tutto. Aveva imparato il gesto da qualcuno. Non lo sapeva. L'aveva lucidata, oliata, ripulita dalla fuliggine di Bahamut con un panno di lana e con una pazienza da orafo. Aveva fatto controllare i motori a Nono, che era venuto apposta da Bhujerba e si era fermato tre settimane, ospite di Migelo, mangiando lenticchie e lamentandosene. Aveva fatto rifare i giunti del timone. Non aveva toccato la toppa più chiara sul fianco sinistro, perché quella non era un'ammaccatura: era la cicatrice, e le cicatrici non si toccano.
 
 E non l'aveva mai portata fuori. Mai. La accendeva, qualche volta, la sera, per sentire il ronzio dei motori, e poi la spegneva. Penelo gli aveva chiesto perché, una volta, e lui le aveva detto che era una nave in prestito, e che con le cose in prestito non si va a fare i giri. Penelo non gli aveva chiesto altro. Sapeva benissimo che non era un prestito. Era una promessa: *ti aspetto*, gridata in un tubo d'ottone a una montagna di ferro che cadeva.
 
@@ -130,7 +130,7 @@ Tirò fuori da sotto la pelliccia un biglietto piegato in due. C'era scritto, ne
 
 Penelo guardò la lettera. Guardò la F, alta, intrecciata, piena di riccioli.
 
-L'aveva già vista, quella F. Ricamata in filo scuro nell'angolo di un fazzoletto di seta di Archades, che uno sconosciuto con le mani legate le aveva messo in mano una notte, in una piazza di Rabanastre, dicendole *tenetemelo finché non vi riporto il ragazzo*. Lei se l'era chiesto una volta, che cosa volesse dire quella lettera. Poi si era dimenticata di chiederselo. Adesso lo sapeva, e lo sapeva da un pezzo, e non disse niente a nessuno. Mise in tasca anche il biglietto di Nono, accanto all'altro fazzoletto, quello con l'iniziale azzurra, che teneva da Ridorana.
+L'aveva già vista, quella F. Ricamata in filo scuro nell'angolo di un fazzoletto di seta di Archades, che uno sconosciuto con le mani legate le aveva messo in mano una mattina, in un cortile di Rabanastre, dicendole *tenetemelo finché non vi riporto il ragazzo*. Lei se l'era chiesto una volta, che cosa volesse dire quella lettera. Poi si era dimenticata di chiederselo. Adesso lo sapeva, e lo sapeva da un pezzo, e non disse niente a nessuno. Mise in tasca anche il biglietto di Nono, accanto all'altro fazzoletto, quello con l'iniziale azzurra, che teneva da Ridorana.
 
 «Il conto dei giunti» disse Nono, guardando Vaan. «Kupo. Visto che la nave non c'è più, chi lo paga?»
 
@@ -172,7 +172,7 @@ Ashe lesse la lettera ancora una volta. C'erano molte cose che avrebbe voluto di
 
 «Naturalmente» disse alla fine.
 
-Prese la fede fra il pollice e l'indice. L'oro rosso di Dalmasca aveva una luce più calda dell'argento di Nabradia, e i due fili ritorti si incrociavano come il giorno in cui l'aveva vista per la prima volta, in una carrozza, sotto un baldacchino di garza. Le tacche agli incroci c'erano ancora, appena consumate dove le sue dita le avevano sfregate per due anni di lutto. L'interno era liscio. Nessuno ci aveva mai fatto incidere niente. *Le parole ce le mettiamo noi*, aveva detto qualcuno.
+Prese la fede fra il pollice e l'indice. L'oro rosso di Dalmasca aveva una luce più calda dell'argento di Nabradia, e i due fili ritorti si incrociavano come il giorno in cui l'aveva vista per la prima volta, all'altare della cattedrale, davanti a cinquecento persone. Le tacche agli incroci c'erano ancora, appena consumate dove le sue dita le avevano sfregate per due anni di lutto. L'interno era liscio. Nessuno ci aveva mai fatto incidere niente. *Le parole ce le mettiamo noi*, aveva detto qualcuno.
 
 La infilò all'anulare sinistro. Passò la nocca senza la minima resistenza e scivolò fino alla base del dito, larga, troppo larga, come la mattina delle nozze. La mano si chiuse da sola, a pugno, come aveva imparato a fare.
 
@@ -192,7 +192,7 @@ Non disse altro. Rimase a guardare l'anello largo sul dito, e lasciò che la ris
 
 Vaan quella sera tornò al magazzino della sua nave. La chiamava nave anche davanti a chi aveva visto la Strahl e gli chiedeva se fosse sicuro del termine. Era più piccola, più tozza, con un ronzio più acuto e meno elegante; l'aveva comprata con i risparmi di un anno di trasporti, con il lavoro di Kytes, con un prestito che Migelo giurava di non voler garantire e di cui ricordava a memoria ogni scadenza. Nono, la prima volta che l'aveva sentita, aveva detto che aveva un suono onesto. Vaan aveva deciso che era un complimento.
 
-Cercò il congegno della voce. Lo teneva da Bahamut in una custodia di stoffa, sotto il sedile. Basch glielo aveva ridato prima di partire per Archades, la mattina del funerale senza nome, quando la voce del Giudice non aveva più avuto bisogno di una scatola per diventare quella di un altro. Vaan lo tirò fuori, controllò che le due rotelle girassero, lo avvolse in una camicia pulita e lo mise in cima alla roba da portare. Questa volta lo avrebbe restituito di persona.
+Cercò il congegno della voce. Lo teneva da Bahamut in una custodia di stoffa, sotto il sedile. Basch glielo aveva ridato prima di partire per Archades, la mattina del funerale privato di Noah, quando la voce del Giudice non aveva più avuto bisogno di una scatola per diventare quella di un altro. Vaan lo tirò fuori, controllò che le due rotelle girassero, lo avvolse in una camicia pulita e lo mise in cima alla roba da portare. Questa volta lo avrebbe restituito di persona.
 
 Penelo arrivò con un foglio piegato. Glielo porse dalla passerella.
 

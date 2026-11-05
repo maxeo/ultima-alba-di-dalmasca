@@ -12,9 +12,9 @@ Larsa si fermò davanti a una parete dove la magilite era più fitta. La toccò 
 
 «Somiglia a Lhusu» disse.
 
-«Cos'è Lhusu?» chiese Vaan.
+«Anche lì c'erano le pietre di Draklor» disse Vaan.
 
-«Le miniere di Bhujerba. Ci sono stato.» Larsa non disse quando né perché, e Vaan, che a Lhusu c'era stato con lui, si ricordò solo dopo, e si sentì stupido. «Credo di aver capito cosa facevano qui. La magilite migliore di Ivalice viene da Bhujerba. Ma se il marchese Ondore entra in guerra, le miniere di Bhujerba si chiudono per l'Impero. E l'Impero senza magilite…» Fece un gesto verso le lampade, gli argani, le porte di ferro. «Cercavano altre vene. Altre miniere. Per prepararsi.»
+«Sì.» Larsa tenne le dita sulla vena chiara. «Credo di aver capito cosa facevano qui. La magilite migliore di Ivalice viene da Bhujerba. Ma se il marchese Ondore entra in guerra, le miniere di Bhujerba si chiudono per l'Impero. E l'Impero senza magilite…» Fece un gesto verso le lampade, gli argani, le porte di ferro. «Cercavano altre vene. Altre miniere. Per prepararsi.»
 
 Era una spiegazione ragionevole, e lui la disse con il tono ragionevole di chi vuole crederci. Nessuno gli rispose. Tutti pensavano alle quattro facce sullo spiazzo, fuori, e agli occhi aperti, e al quaderno che Balthier non aveva voluto leggere.
 
@@ -32,7 +32,7 @@ Dalla curva venne fuori una viera.
 
 ---
 
-Era giovane. Questo si capiva subito, anche a chi non sapeva distinguere l'età delle viere: aveva le membra lunghe e un poco sgraziate di chi ha finito di crescere da poco, i capelli argento tagliati a caschetto, le labbra pallide e un viso dai tratti più morbidi di quelli di Fran e di Jote. Ma si somigliava a loro. Si somigliava a loro nel modo di tenere la testa e negli occhi, scuri, che non guardavano niente. Camminava in mezzo alla galleria a passi lenti e storti, come chi cammina in sogno o su un ponte che oscilla, e muoveva le labbra, e parlava a qualcuno che non c'era.
+Era giovane. Questo si capiva subito, anche a chi non sapeva distinguere l'età delle viere: aveva le membra lunghe e un poco sgraziate di chi ha finito di crescere da poco, i capelli argento tagliati a caschetto, le labbra pallide e un viso dai tratti più morbidi di quelli di Fran e di Jote. Somigliava a loro nel modo di tenere la testa, ma gli occhi scuri non guardavano niente. Camminava in mezzo alla galleria a passi lenti e storti, come chi cammina in sogno o su un ponte che oscilla, e muoveva le labbra, e parlava a qualcuno che non c'era.
 
 «Mjrn» disse Fran.
 
@@ -68,9 +68,7 @@ Fran non rispose a lei. Guardava la porta chiusa.
 
 «Lo so cos'è» disse. Lo disse a se stessa. «Lo conosco.»
 
-Balthier la guardò, e capì prima degli altri.
-
-Sullo Shiva, quando il Frammento d'Aurora si era svegliato, il Mystes era uscito dalla pietra come l'acqua esce da una diga rotta, e Fran, che lo sentiva più di chiunque altro, ci si era trovata dentro. Nessuno di loro ne parlava. Ma tutti ricordavano la viera che si fermava a metà di un passo, con la testa piegata di lato, e poi spezzava fra le mani l'arma di un soldato, con negli occhi una cosa che non era lei.
+Balthier la guardò e abbassò la pistola.
 
 «È il Mystes» disse Fran. «Troppo. Dentro di lei. Non è lei che parla.»
 
@@ -84,13 +82,19 @@ Di là dalla porta c'era una sala. Era una camera di lavorazione, grande come la
 
 Nello spazio vuoto c'era la bestia.
 
-Di bestie, in quegli anni, ce ne furono molte, e nessuna cambiò il corso delle cose più di una tempesta di sabbia. Di questa basti dire che era grande, che aveva il corpo di un rettile e le ali di qualcosa che non avrebbe mai dovuto avere le ali, che stava lì come se la sala fosse sua, e che quando i sette entrarono si mise a ruggire con un suono che fece tremare le travi del soffitto e cadere una pioggia di polvere grigia. E che dietro di lei, contro la parete di fondo, c'era Mjrn.
+Aveva il corpo di un rettile e le ali di qualcosa che non avrebbe mai dovuto avere le ali. Quando i sette entrarono, si mise a ruggire; le travi del soffitto tremarono e lasciarono cadere una pioggia di polvere grigia. Dietro la bestia, contro la parete di fondo, c'era Mjrn.
 
-Combatterono. Lo fecero insieme, come avevano imparato a fare sulla pianura di Ozmone, schiena contro schiena, Basch davanti, Fran e Vaan con gli archi ai lati, Ashe e Balthier sotto le ali dove la bestia non arrivava. Fu lungo e faticoso. A un certo punto la bestia sollevò un vento dentro la sala, un vento vero, che strappò le frecce dall'aria e fece volare Penelo contro una tramoggia; Penelo si rialzò con il naso che sanguinava e disse una parola della Città Bassa che Larsa non conosceva. A un certo punto Larsa, che nessuno di loro aveva mai visto combattere, si mise in mezzo fra la bestia e Penelo, con una spada corta da cerimonia che portava alla cintura e che avevano tutti scambiato per un ornamento, e la bestia lo guardò, e lui non si spostò. Non fece niente di eroico. Si limitò a non spostarsi. Fu sufficiente: Basch arrivò di fianco, e la spada di Basch fece il resto.
+Basch si mise davanti; Fran e Vaan si separarono lungo le pareti, con gli archi, mentre Ashe e Balthier cercavano un varco sotto le ali. Le frecce picchiavano sulle scaglie e cadevano sulla lamiera. Vaan ne incoccò un'altra, aspettò che la bestia girasse la testa e tirò. Il battito delle ali gli rimandò la freccia ai piedi. Il vento prese Penelo in pieno e la scagliò contro una tramoggia.
 
-La bestia cadde. Lo fece con molto rumore, come fanno le bestie grandi, e poi smise di fare rumore. Nella grande sala tornò il silenzio delle macchine ferme.
+Penelo si tirò su aggrappandosi al bordo di ferro. Le sanguinava il naso; disse una parola della Città Bassa e cercò il bastone, che le era caduto lontano. La bestia voltò il collo verso di lei.
 
-E Mjrn era ancora lì.
+«Penelo, giù!» gridò Vaan.
+
+Larsa le si mise davanti con la spada corta da cerimonia che portava alla cintura. Vaan non gliel'aveva mai vista sguainare. Il principe tenne la punta alta, ma per coprire Penelo doveva restare fermo, e restò fermo. La bestia abbassò il capo verso di lui. Basch le arrivò di fianco e colpì sotto la mascella, dove le scaglie si aprivano sul collo.
+
+La bestia cadde sulla lamiera. La tramoggia dietro Penelo vibrò a lungo, poi nella sala si sentì soltanto il respiro dei sette.
+
+Mjrn era ancora contro la parete.
 
 ---
 
@@ -102,7 +106,7 @@ Mjrn alzò gli occhi. Non vedevano niente. Le dita le si aprirono, adagio, una a
 
 La pietra cadde.
 
-Rimbalzò sul pavimento di lamiera con un suono chiaro, di vetro, e rotolò per un palmo, e si fermò. E poi si spaccò. Non si ruppe: si spaccò in due, con un crepitio secco, come un guscio d'uovo sotto un pollice, e la luce viola che c'era dentro si spense.
+Rimbalzò sul pavimento di lamiera con un suono chiaro, di vetro. Rotolò per un palmo e si fermò. Si spaccò in due, con un crepitio secco, come un guscio d'uovo sotto un pollice, e la luce viola che c'era dentro si spense.
 
 E dalla viera uscì qualcosa.
 
@@ -116,13 +120,13 @@ Fran la prese prima che toccasse terra. La prese fra le braccia e si inginocchi�
 
 «Cos'era?» chiese Vaan, piano. Guardava il punto della volta dove l'ombra era sparita. «Quella cosa. Cos'era?»
 
-Nessuno rispose. Non perché non volessero. Perché non lo sapevano, e lo sapevano tutti di non saperlo, e la domanda rimase lì, sotto le travi, in attesa di una risposta che sarebbe arrivata molto tempo dopo e molto lontano, quando ormai quasi nessuno di loro si ricordava di averla fatta.
+Nessuno rispose. Fran teneva gli occhi su Mjrn; Vaan guardò gli altri e non ripeté la domanda.
 
 Mjrn aprì gli occhi.
 
 Erano i suoi, adesso. Lo si vedeva subito: erano occhi confusi, stanchi, spaventati, gli occhi di una ragazza che si sveglia in un posto che non conosce. Guardarono il soffitto, le travi, le lampade. Poi trovarono il viso di Fran, chino sopra il suo, a un palmo di distanza.
 
-Mjrn la guardò a lungo. Aggrottò la fronte, come chi cerca un nome che ha sulla punta della lingua.
+Mjrn la guardò a lungo. Aggrottò la fronte.
 
 «Sorella?» disse.
 

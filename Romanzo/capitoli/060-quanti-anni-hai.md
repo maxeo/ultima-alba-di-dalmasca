@@ -26,13 +26,13 @@ Si girarono tutti. Il principe aveva rallentato il passo, con gli occhi bassi, e
 
 «Soldati imperiali. Di guarnigione.»
 
-Ci fu un silenzio. Ashe guardò Larsa a lungo, come si guarda una persona che ha appena detto una cosa che le costa, e decidere se credere che le costi.
+Ci fu un silenzio. Ashe guardò Larsa a lungo, cercando di capire quanto gli fosse costato dirlo.
 
 «Una viera dentro una miniera imperiale» disse Balthier. «Con i soldati. Non suona come una gita.»
 
 «No» disse Larsa.
 
-«Bene.» Balthier si stirò. «Ho combattuto con un Giudice Magister, con una bestia alata in fondo a una tomba e con una principessa di cattivo umore. Qualche soldato di guarnigione non mi spaventa. Andiamo a Henne.»
+«Bene.» Balthier si stirò. «Ho combattuto con un Giudice Magister, con una bestia alata sulla scalinata di una tomba e con una principessa di cattivo umore. Qualche soldato di guarnigione non mi spaventa. Andiamo a Henne.»
 
 Fran si era già messa in cammino.
 
@@ -100,7 +100,7 @@ Fran non tornò mai sull'argomento. Ma quella sera, quando Penelo divise la cena
 
 ---
 
-Golmore li lasciò andare a occidente più facilmente di quanto li avesse lasciati entrare da oriente. La barriera di luce azzurra non c'era, da quella parte: c'erano i vecchi ponti di pietra, il muschio, le radici, e poi a un certo punto la luce cominciò a schiarirsi, gli alberi a diradarsi, e una mattina si ritrovarono sulla striscia di terra nuda dove non cresceva niente, e davanti a loro c'era di nuovo Ozmone, gialla e verde e immensa sotto un cielo pulito.
+Golmore li lasciò tornare a occidente. La barriera di luce azzurra restava sulla strada per il monte, più a est: da questa parte c'erano i vecchi ponti di pietra, il muschio, le radici. Poi la luce cominciò a schiarirsi, gli alberi a diradarsi, e una mattina si ritrovarono sulla striscia di terra nuda dove non cresceva niente. Davanti a loro c'era di nuovo Ozmone, gialla e verde e immensa sotto un cielo pulito.
 
 La attraversarono verso sud-ovest, per una strada che i mercanti chiamavano il Sentiero del Sole perché non aveva un solo albero per venti miglia. A metà giornata, presso un pozzo di pietra con una tettoia di paglia mezza crollata, che i viaggiatori usavano come stazione di sosta, trovarono due soldati archadiani.
 
@@ -112,7 +112,7 @@ Era giovane. Non molto più vecchio di Vaan. Aveva i capelli rossicci tagliati a
 
 Nessuno si mosse.
 
-Era una cosa curiosa a vedersi, per chi l'avesse vista da fuori. Il soldato non sapeva chi aveva davanti. Non sapeva che la donna alta con il mantello era la principessa del paese che il suo imperatore aveva conquistato; che l'uomo biondo con la barba era il regicida più famoso di Ivalice; che il ragazzo con il colletto bianco era il figlio del suo imperatore. Vedeva solo sette viaggiatori e un chocobo. E i sette viaggiatori, per un lungo istante, lo guardarono come si guarda la cosa che si è odiata per due anni, e scoprirono che aveva le lentiggini.
+Il soldato non sapeva chi aveva davanti. Non sapeva che la donna col mantello era la principessa del paese che il suo imperatore aveva conquistato; che l'uomo biondo con la barba era il regicida più famoso di Ivalice; che il ragazzo con il colletto bianco era il figlio del suo imperatore. Vedeva solo sette viaggiatori e un chocobo. Ashe guardava l'armatura, poi le lentiggini sul viso del ragazzo. La mano le rimase sull'elsa ancora un istante.
 
 Fu Ashe a muoversi.
 

@@ -6,7 +6,7 @@ La corazzata non finiva. La navetta le volò lungo il fianco per un tempo che a 
 
 «È più grande di Rabanastre» disse Vaan.
 
-«È più grande della parte di Rabanastre che conti» disse Balthier. «E ci vivono più soldati.»
+«È più grande della parte di Rabanastre che conosci» disse Balthier. «E ci vivono più soldati.»
 
 «Come fa a stare su?»
 
@@ -114,7 +114,7 @@ Lo fece a passi lunghi, rapidi, e i due soldati non fecero in tempo a trattenerl
 
 Il suono riempì la sala. Uno degli ufficiali ai banchi alzò la testa, finalmente.
 
-Basch non si mosse. La testa gli era andata di lato con il colpo e ci rimase un istante, e poi tornò dritta, e lui la guardò, e non rispose, e non alzò le mani ammanettate per pararsi, e non fece un passo indietro. Sulla guancia, sopra il taglio di Bhujerba, gli si stava allargando una macchia rossa con la forma di quattro nocche.
+Basch non si mosse. La testa gli era andata di lato con il colpo e ci rimase un istante, e poi tornò dritta, e lui la guardò, e non rispose, e non alzò le mani ammanettate per pararsi, e non fece un passo indietro. Sulla guancia, sopra il taglio di Rabanastre, gli si stava allargando una macchia rossa con la forma di quattro nocche.
 
 «Tu.» La voce della donna era bassa e piena di qualcosa che non si poteva chiamare soltanto odio. «Tu osi. Tu osi presentarti davanti a me. Tu, con quella faccia, con quella voce, tu mi chiami maestà.» Le tremavano le mani legate. Non le abbassò. «Dovevi essere morto. Me lo avevano scritto. Me lo avevano scritto e io avevo pregato perché fosse vero, l'unica preghiera esaudita in due anni, e adesso sei qui. Dopo quello che hai fatto. Dopo mio padre.»
 
@@ -202,7 +202,7 @@ Lo disse troppo forte. Tutti si girarono. Lui sentì il sangue salirgli in facci
 
 Ashe lo disse senza neanche guardarlo. Una parola sola, buttata lì, come si butta un mantello su una sedia.
 
-E Vaan, che aveva sentito quella stessa parola, detta con quello stesso tono, il giorno prima, davanti alle miniere, dal Giudice a Penelo, sentì una vampata di rabbia così violenta che aprì la bocca per gridare.
+E Vaan, che aveva sentito quella stessa parola, detta con quello stesso tono, due giorni prima, davanti alle miniere, dal Giudice a Penelo, sentì una vampata di rabbia così violenta che aprì la bocca per gridare.
 
 Non gridò. Gli si era acceso uno stivale.
 
@@ -224,7 +224,7 @@ Vaan non riusciva a staccare gli occhi dal piede. «Nel palazzo. La notte del ba
 
 Basch abbassò lo sguardo.
 
-Lo fece per un istante appena, ma Vaan lo vide, e vide che non era stanchezza. Era la faccia di un uomo che per due anni, in fondo a un pozzo, ha tenuto a mente un posto, un nascondiglio, un sigillo, una promessa fatta a un re morente, e che scopre in un momento che quel posto era vuoto da giorni, e che la cosa che doveva salvare la sua principessa era passata per le fogne di Rabanastre e per le prigioni di Nalbina e per la Via di Barheim e per le miniere di Lhusu e per la casa del marchese, nella tasca di un ladro e nella giacca di un pirata, e adesso brillava dentro uno stivale.
+Lo fece per un istante appena, ma Vaan lo vide, e vide che non era stanchezza. Guardò lo stivale, poi la faccia di Vaan. Le mani gli si strinsero nelle manette; la sinistra sparì sotto il polsino.
 
 «Il Frammento» disse Basch. «È quello.»
 

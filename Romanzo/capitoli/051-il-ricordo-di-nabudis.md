@@ -18,9 +18,9 @@ Quattro giorni dopo la caduta del Leviatano, il cielo sopra Rabanastre era basso
 
 Nessuno, al mercato, parlava della flotta. O meglio, ne parlavano tutti, ma in un modo che uno straniero non avrebbe riconosciuto. Si diceva che i prezzi del ferro sarebbero scesi. Si diceva che la guarnigione aveva raddoppiato i turni e che le pattuglie, da quattro giorni, entravano nelle case senza bussare. Si diceva che nel cielo del Jagd Yensa, quattro sere prima, un pastore di Giza aveva visto una luce più grande del sole. Gli imperiali avevano fatto affiggere un proclama sul muro della porta est: un incidente tecnico, una disgrazia, nessun nemico coinvolto. Il proclama era stato strappato in un angolo, e sotto qualcuno aveva disegnato col carbone una nave che cadeva. Lo avevano ricoperto la mattina dopo. Il giorno dopo la nave era tornata.
 
-La stanza era nella casa di Dalan, in fondo alla Città Bassa, dove i corridoi scendevano sotto il livello della strada e si incrociavano tante volte che chi ci entrava per la prima volta era costretto a fidarsi di chi lo accompagnava. Dalan aveva portato una lampada e una brocca d'acqua, aveva guardato le sei persone sedute attorno al suo tavolo, e aveva detto che lui era vecchio e sordo e sarebbe andato a fare il sordo nella stanza accanto. Penelo aveva portato le focacce. Le aveva portate in un panno pulito, ancora calde, e le aveva messe in mezzo al tavolo come si mette in mezzo un argomento, e nessuno le aveva toccate, tranne Vaan.
+La stanza era nella casa di Dalan, in fondo alla Città Bassa, dove i corridoi scendevano sotto il livello della strada e si incrociavano tante volte che chi ci entrava per la prima volta era costretto a fidarsi di chi lo accompagnava. Dalan aveva portato una lampada e una brocca d'acqua, aveva guardato le sei persone riunite attorno al suo tavolo, e aveva detto che lui era vecchio e sordo e sarebbe andato a fare il sordo nella stanza accanto. Penelo aveva portato le focacce. Le aveva portate in un panno pulito, ancora calde, e le aveva messe in mezzo al tavolo, e nessuno le aveva toccate, tranne Vaan.
 
-Il Frammento d'Aurora stava accanto alle focacce. Era stato Basch a recuperarlo, fra le lamiere, e lo aveva riportato ad Ashe avvolto in un pezzo di mantello. Da allora la principessa non lo aveva più tirato fuori, e adesso che era lì, sul legno nudo, alla luce della lampada, tutti lo guardavano. Non brillava. Era una pietra scura grande come un uovo d'anatra, e sembrava più piccola di quanto fosse stata nella Tomba.
+Il Frammento d'Aurora stava accanto alle focacce, sul mantello aperto di Basch. Tutti lo guardavano. Non brillava. Era una pietra scura grande come un uovo d'anatra, e sembrava più piccola di quanto fosse stata nella Tomba.
 
 «È spenta» disse Penelo.
 
@@ -54,7 +54,7 @@ Penelo si strinse le braccia attorno al corpo.
 
 Ashe chiuse gli occhi per un istante.
 
-«Quattro giorni fa» disse Basch, più piano «la notte in cui lo Shiva bruciò e il Leviatano si spezzò, ho rivisto la stessa alba dalla parte sbagliata.»
+«Quattro giorni fa» disse Basch, più piano «quando lo Shiva si spezzò nella luce del Leviatano, ho rivisto quella luce di Nabudis.»
 
 Il silenzio che seguì fu lungo. Di là dal muro si sentiva Dalan tossire, e poi spostare qualcosa di pesante, con la discrezione di un sordo che vuole far sapere di esserci.
 
@@ -134,7 +134,7 @@ Lo chiese senza malizia. Era la domanda che avrebbe fatto a un compagno di furti
 
 «Come?»
 
-«La pietra. Sai come si fa? Perché sul Leviatano è successo da sola, mi pare. Nessuno l'ha usata. Si è usata lei.» Vaan si guardò attorno, cercando aiuto, e non ne trovò. «Volevo solo sapere se c'è un modo. Se c'è un modo, bene. Se no, è come avere una spada che non sai da che parte si prende.»
+«La pietra. Sai come si fa? Perché sul Leviatano è successo da solo, mi pare. Nessuno l'ha usata. Si è usata lei.» Vaan si guardò attorno, cercando aiuto, e non ne trovò. «Volevo solo sapere se c'è un modo. Se c'è un modo, bene. Se no, è come avere una spada che non sai da che parte si prende.»
 
 Ashe aprì la bocca e la richiuse.
 

@@ -1,8 +1,8 @@
 ## 62. Il segreto di Draklor
 
-Mjrn si svegliò all'aperto, sotto le stelle, sullo spiazzo davanti alla miniera, dove gli altri l'avevano portata perché nessuno di loro voleva passare una notte in più sotto quelle travi. Avevano spostato i corpi. Basch e Balthier li avevano allineati dietro una delle baracche e li avevano coperti con dei teli trovati nell'argano, e Larsa aveva chiesto di poter restare un momento solo con loro, e nessuno gli aveva chiesto perché. Quando era tornato al fuoco aveva gli occhi asciutti e la faccia molto composta, la faccia di un ragazzo a cui hanno insegnato che un principe non piange davanti ai sudditi, e che non sa ancora se quelli che ha davanti siano sudditi o no.
+Mjrn si svegliò all'aperto, sotto le stelle, sullo spiazzo davanti alla miniera, dove gli altri l'avevano portata perché nessuno di loro voleva passare una notte in più sotto quelle travi. Avevano spostato i corpi. Basch e Balthier li avevano allineati dietro una delle baracche e li avevano coperti con dei teli trovati accanto all'argano, e Larsa aveva chiesto di poter restare un momento solo con loro, e nessuno gli aveva chiesto perché. Quando era tornato al fuoco aveva gli occhi asciutti e la faccia molto composta, la faccia di un ragazzo a cui hanno insegnato che un principe non piange davanti ai sudditi, e che non sa ancora se quelli che ha davanti siano sudditi o no.
 
-Il fuoco era piccolo, fatto con le assi di una cassa. Mjrn si mise a sedere adagio, con la schiena contro un sasso, avvolta nel mantello di Fran. Guardò le facce intorno a sé una per una. Poi guardò la sorella, che le sedeva accanto, e restò a guardarla a lungo, come chi controlla che una cosa sia ancora al suo posto.
+Il fuoco era piccolo, fatto con le assi di una cassa. Mjrn si mise a sedere adagio, con la schiena contro un sasso, avvolta nel mantello di Fran. Guardò le facce intorno a sé una per una. Poi guardò la sorella, che le sedeva accanto, e non distolse più gli occhi.
 
 «Sei vera» disse.
 
@@ -68,7 +68,7 @@ Larsa si voltò verso di lui. Balthier stava seduto a un passo dal fuoco, con un
 
 Larsa esitò. «Il dottor Cidolfus Bunansa. È il più grande scienziato dell'Impero. Mio fratello lo stima molto.»
 
-«Cid» disse Balthier. Lo disse così piano che solo Fran, che gli stava più vicina, lo sentì davvero. «Dicono che parli con i fantasmi.»
+«Cid» disse Balthier. Lo disse piano, guardando il fuoco. «Dicono che parli con i fantasmi.»
 
 «Lo conoscete?» chiese Larsa.
 
@@ -78,7 +78,7 @@ Fran non lo seguì. Ma lo guardò andare, e lo guardò per molto tempo.
 
 ---
 
-Larsa rimase in silenzio. Poi si voltò di scatto, come chi si è appena ricordato di aver lasciato una porta aperta in una casa dove ci sono dei bambini.
+Larsa rimase in silenzio. Poi si voltò di scatto verso Penelo.
 
 «Signorina Penelo» disse.
 
@@ -90,7 +90,7 @@ Penelo alzò la testa.
 
 Larsa si alzò, attraversò il cerchio del fuoco, e gliela prese di mano.
 
-Non lo fece in modo brusco. Ma lo fece in fretta, con la mano che si chiudeva sulla pietra prima ancora che Penelo potesse aprire la sua per dargliela, e Penelo restò con il palmo vuoto in aria e la bocca aperta.
+Non lo fece in modo brusco. Ma lo fece in fretta, con la mano che si chiudeva sulla pietra prima ancora che Penelo decidesse se ridargliela, e Penelo restò con il palmo vuoto in aria. Il laccio le tirò sul collo; se lo sfilò e liberò la pietra, poi lo rimise sotto il colletto.
 
 «Perdonatemi» disse Larsa. Teneva la pietra stretta nel pugno, contro il petto. «Perdonatemi. Non avrei mai dovuto darvela. Non sapevo. Credevo che fosse una protezione, una cosa per difendersi, e invece è…» Guardò Mjrn. «È la stessa cosa. Potrebbe fare la stessa cosa. A voi. Se io avessi saputo…»
 
@@ -98,7 +98,7 @@ Non lo fece in modo brusco. Ma lo fece in fretta, con la mano che si chiudeva su
 
 Larsa la guardò.
 
-«Sul Leviatano» disse lei. «Quando il Giudice ha alzato la mano e ha lanciato quella cosa contro di noi, quella luce. Ti ricordi? La pietra se l'è mangiata. Tutta. Io l'avevo in tasca e l'ho sentita diventare calda, e poi niente, e il Giudice è rimasto lì con la mano alzata e la faccia stupita. Se non c'era la pietra, adesso non saremmo qui. Né io, né Vaan, né la principessa.» Fece una pausa. «Allora non può essere solo una cosa cattiva. No?»
+«Sul Leviatano» disse lei. «Ha fermato la magia di Ghis. Io l'avevo in tasca e l'ho sentita diventare calda. Se non c'era la pietra, adesso non saremmo qui. Né io, né Vaan, né la principessa.» Fece una pausa. «Allora non può essere solo una cosa cattiva. No?»
 
 Larsa non rispose. Guardava la pietra nel pugno chiuso.
 

@@ -8,7 +8,7 @@ Vide Basch, dentro, a un palmo dalla sua faccia. Basch non gridava. Si era piega
 
 Sopra di loro, due ombre si staccarono dalla galleria. Una era alta e saltava senza fare rumore. L'altra saltava con le braccia larghe e diceva qualcosa che il vento si portò via, ma che a giudicare dal tono era una protesta formale contro il destino. Atterrarono sul tetto della gabbia, uno dopo l'altra, e la gabbia sobbalzò e girò su se stessa, e continuò a cadere.
 
-Caddero a lungo. Più a lungo di quanto una caduta debba durare. Le pareti del pozzo scorrevano accanto, nere, lucide d'acqua, e a tratti passavano davanti a vecchie aperture, a gallerie murate, a una scala di ferro che finiva nel nulla, e poi di nuovo roccia, e il respiro freddo che saliva dal fondo diventava un vento. Vaan sentì Balthier, sopra, dire qualcosa che questa volta arrivò fino a lui: «La seconda volta in una notte, Fran. La seconda. E almeno la prima volta avevamo una barca.» E Fran, sopra, che non rispose.
+Caddero a lungo. Più a lungo di quanto una caduta debba durare. Le pareti del pozzo scorrevano accanto, nere, lucide d'acqua, e a tratti passavano davanti a vecchie aperture, a gallerie murate, a una scala di ferro che finiva nel nulla, e poi di nuovo roccia, e il respiro freddo che saliva dal fondo diventava un vento. Vaan sentì Balthier, sopra, dire qualcosa che questa volta arrivò fino a lui: «La seconda volta, Fran. La seconda. E almeno la prima volta avevamo una barca.» E Fran, sopra, che non rispose.
 
 Poi il fondo.
 
@@ -104,7 +104,13 @@ Vaan inserì il fusibile. Toccò a lui, perché era il più leggero e il generat
 
 ---
 
-Della Via di Barheim si raccontano molte cose, e chi la percorse quella notte ne raccontò poche. Durò ore. Fu una sequenza di gallerie, di stazioni deserte con le panche di pietra e gli orari ancora dipinti sui muri, di cancelli da aprire e di lampade da difendere; perché Burrogh aveva detto il vero, e i mangiatori c'erano. Erano bestie corazzate, basse, con troppe zampe, che si aggrappavano ai cavi con le mandibole e succhiavano la luce come i bambini succhiano il miele dal favo, e intorno a loro le lampade si spegnevano una alla volta, e il buio si allargava, e nel buio si sentiva qualcosa muoversi. Ogni volta bisognava trovarle e staccarle. Ogni volta, staccata la bestia, la luce tornava. Alcune di quelle bestie, quando ci si avvicinava, si fingevano casse abbandonate, o pezzi di macchinario; Balthier le chiamava mimi, con un certo rispetto professionale, e diceva che erano le uniche creature di Ivalice a recitare meglio di lui.
+Al primo scambio una lampada si spense sopra la testa di Vaan. La successiva impallidì. Sul cavo, fra due ganci, stava attaccata una bestia bassa e corazzata, con le mandibole piantate nella guaina; le zampe le si confondevano con i fili. Vaan la staccò con la punta della spada. Cadde fra le rotaie e cercò subito di risalire lungo il muro. Fran la inchiodò con una freccia, e la lampada riprese a ronzare.
+
+«Una» disse Vaan.
+
+«Ce n'è un'altra» disse Fran.
+
+La cassa accanto al binario si aprì prima che lui capisse dove guardare. Balthier sparò nelle mandibole e lo tirò indietro per la giubba. «Mimi» disse, osservando i cardini che si piegavano come zampe. «Le uniche creature di Ivalice che recitano meglio di me.» Da allora nessuno toccò più una cassa. Per ore passarono da una stazione deserta all'altra, difendendo le poche lampade ancora accese; oltre il loro chiarore si sentivano corpi trascinarsi sulla pietra.
 
 Vaan combatteva. Combatteva come aveva imparato con i topi del condotto, svelto e senza metodo, e accanto a lui, a volte, si trovava Basch. Non se lo cercava. Succedeva. Erano in quattro in una galleria stretta, e chi combatte in una galleria stretta finisce accanto a chi capita. Basch combatteva in un altro modo. Era debole, si vedeva; il fiato gli mancava presto, e dopo ogni scontro doveva appoggiarsi al muro con una mano e aspettare. Ma quando la spada arrugginita si muoveva, si muoveva come una cosa che sapeva dove andare, senza un gesto in più, e arrivava sempre dove doveva arrivare, un istante prima che servisse. Una volta una delle bestie si staccò dal soffitto e cadde verso la testa di Vaan, che non l'aveva vista. Non arrivò. La spada di Basch la prese a mezz'aria.
 

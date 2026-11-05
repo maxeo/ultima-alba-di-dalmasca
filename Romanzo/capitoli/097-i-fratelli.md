@@ -58,7 +58,7 @@ Il dottor Cidolfus Demen Bunansa scendeva la scala della terrazza con il passo s
 
 «Indegno» ripeté, arrivando in fondo. «Due fratelli che si prendono a sciabolate davanti alla cosa più bella dell'universo. Settecento anni che questa pietra aspetta qualcuno all'altezza, e chi arriva? Una famiglia di Landis che regola i conti di cortile.» Si fermò e si guardò intorno. «Ah, e anche tu. Ffamran. Che piacere. Hai le scarpe sporche.»
 
-Balthier non rispose. Aveva la pistola alzata, puntata su suo padre, e il braccio non gli tremava, e questo era forse la cosa più triste di tutte.
+Balthier non rispose. Aveva la pistola alzata, puntata su suo padre. Il braccio non gli tremava, e questa era forse la cosa più triste di tutte.
 
 Cid si avvicinò a Gabranth disteso. Lo guardò dall'alto, senza chinarsi, come si guarda un attrezzo rotto.
 
@@ -90,11 +90,9 @@ Respirava. L'armatura si alzava e si abbassava, piano.
 
 «Venat» disse Cid, con l'affetto con cui si presenta un vecchio amico a una cena. «Vi conoscete già, credo. Di vista.»
 
-La figura non disse niente. Ma Balthier, che la guardava, sentì qualcosa: un tocco, una pressione dietro gli occhi, come quando si entra in una stanza dove qualcuno ha appena smesso di parlare di noi. Per anni aveva sentito suo padre parlare con l'aria. Nella biblioteca di casa, nella serra, a cena, con la forchetta sospesa a mezz'aria: *sì, sì, hai ragione, non ci avevo pensato*. Lo aveva creduto pazzo. Lo aveva creduto pazzo per tutta l'adolescenza, ed era scappato anche per quello, perché non sopportava di vivere con un uomo che rideva alle battute del vuoto.
+La figura non disse niente. Balthier riconobbe la pressione dietro gli occhi che aveva già sentito a Draklor. Venat tornò accanto a Cid; suo padre gli fece posto senza neppure voltarsi, con la confidenza di chi divide una stanza da anni.
 
-Il vuoto aveva una forma. Era lì.
-
-«Allora è vero» disse Balthier. La sua voce suonò strana a lui stesso. «Non era la follia. Era peggio. Ti sei fatto comprare.»
+«È a lui che lasci decidere» disse Balthier. La sua voce suonò strana a lui stesso. «Ti sei fatto comprare.»
 
 «Comprare?» Cid rise, e la risata gli uscì dal fondo della gola, sincera. «Ffamran, Ffamran. Non hai mai capito niente di affari. Comprare vuol dire che uno paga e l'altro dà. Noi non ci paghiamo. Noi siamo compagni.» Alzò la mano libera verso la figura, senza toccarla. «Lui vuole togliere la storia dalle mani di quei vecchi barbagianni di Giruvegan. Io voglio dimostrare che gli uomini non hanno bisogno delle loro pietre per reggersi in piedi. Vogliamo la stessa cosa da due strade diverse. È la definizione di un buon matrimonio.»
 
@@ -126,7 +124,7 @@ Cid si voltò verso la Crisalide. La guardò a lungo, con la testa piegata di la
 
 Rimise gli occhiali. Scostò il panno di seta da quello che teneva in mano.
 
-Era nero e lucido, a facce irregolari, e anche spento aveva una specie di profondità, come un pozzo visto dall'alto. Ashe lo riconobbe, e il cuore le si fermò. Lo aveva visto una sola volta, da bambina, in una stanza del palazzo di Rabanastre dove suo padre l'aveva portata per mano la sera prima della sua presentazione a corte. Le aveva detto: questo è nostro, e non lo useremo mai. Era il Frammento del Crepuscolo.
+Era nero e lucido, a facce irregolari, e anche spento aveva una specie di profondità, come un pozzo visto dall'alto. Ashe lo riconobbe, e il cuore le si fermò. Ricordò la stanza del palazzo di Rabanastre dove suo padre l'aveva portata per mano, da bambina, la sera prima della sua presentazione a corte. Le aveva detto: questo è nostro, e non lo useremo mai. Era il Frammento del Crepuscolo.
 
 Vaan lo riconobbe nello stesso istante, per un'altra strada. L'aveva avuto in tasca. L'aveva preso con le sue mani dal tesoro del palazzo, una notte, credendo di rubare una pietra preziosa da rivendere, e da quella tasca era cominciato tutto. Fece un passo avanti senza volerlo, come si fa verso un portafogli che si riconosce nella mano di un borsaiolo.
 

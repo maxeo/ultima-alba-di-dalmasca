@@ -14,7 +14,7 @@ Vaan avrebbe voluto tirare dritto. Ma Basch si era già seduto, e Balthier aveva
 
 «Cento anni?» disse Vaan.
 
-«Novantotto. Ho cominciato presto.» Il vecchio si chiamava Hadu, disse, e prima di andare in pensione era stato caposquadra al quinto livello per trentun anni, e adesso stava qui a fare il tè perché il consiglio dei minatori aveva deciso che uno che conosce le gallerie come lui serve più vivo al terzo livello che morto al quinto. Lo disse senza amarezza. Poi guardò il gruppo, uno per uno, con quegli occhi annacquati e acutissimi dei vecchi che hanno passato la vita al buio e hanno imparato a vedere con poco. «Non siete minatori. Non siete mercanti, perché i mercanti non scendono. E non siete di quelli dell'impero, perché quelli non si fermano a bere il tè.»
+«Centotto. Ho cominciato presto.» Il vecchio si chiamava Hadu, disse, e prima di andare in pensione era stato caposquadra al quinto livello per trentun anni, e adesso stava qui a fare il tè perché il consiglio dei minatori aveva deciso che uno che conosce le gallerie come lui serve più vivo al terzo livello che morto al quinto. Lo disse senza amarezza. Poi guardò il gruppo, uno per uno, con quegli occhi annacquati e acutissimi dei vecchi che hanno passato la vita al buio e hanno imparato a vedere con poco. «Non siete minatori. Non siete mercanti, perché i mercanti non scendono. E non siete di quelli dell'impero, perché quelli non si fermano a bere il tè.»
 
 «Quelli dell'impero» ripeté Lamont, con la tazza a mezz'aria.
 
@@ -44,15 +44,15 @@ Hadu staccò la gabbietta dalla parete e la tese a Vaan, che era il più vicino.
 
 ---
 
-Più in basso le gallerie diventavano un'altra cosa. Al quarto e al quinto livello si lavorava ancora, e si sentivano i picconi lontani e i canti dei minatori, canzoni lente in bhujerbano che si rispondevano da un pozzo all'altro; al sesto non si sentiva più niente, e i binari cominciavano a essere arrugginiti. I ponti si facevano più lunghi e più stretti. Uno, che i cartelli chiamavano Oltam e che attraversava una voragine così profonda che il fondo era soltanto un'idea, era fatto di travi di ferro sospese a catene, e oscillava sotto i piedi con un dondolio lento, da culla, che faceva venire la nausea a tutti tranne a Fran.
+Al quarto e al quinto livello si lavorava ancora. I picconi battevano lontano, accompagnati da canzoni lente in bhujerbano che si rispondevano da un pozzo all'altro.
 
 Al quinto livello, dove i canti si sentivano ancora, Vaan si sorprese a camminare a tempo. Era una di quelle canzoni a due voci in cui una squadra fa la domanda e un'altra, lontana, risponde, e anche senza capire le parole si capiva che la risposta arrivava sempre un poco in ritardo e che il ritardo faceva parte della canzone. A Rabanastre i facchini del mercato di Muthru cantavano così, quando scaricavano i carri all'alba, e Penelo, da bambina, si metteva sotto il portico di Migelo e rispondeva lei al posto della seconda squadra, con la voce stonata e le parole sbagliate, finché i facchini non ridevano e smettevano. Lo faceva per farli ridere. Vaan lo aveva capito soltanto da grande. Lei faceva sempre così: trovava il punto in cui una cosa pesante si poteva prendere da un lato diverso, e la prendeva da lì, e la portava, e non lo diceva a nessuno.
 
-Era stata lei a tirarlo fuori dalla stanza sopra la bottega, dopo Reks. Non con le parole. Era salita una mattina con due ceste vuote e gliene aveva messa una in mano e aveva detto che Migelo aveva bisogno di datteri dal mercato e che lei da sola non ce la faceva, e lui ci era andato perché era più facile andarci che spiegarle perché no, e il giorno dopo lei era tornata con le ceste, e quello dopo ancora. Per un mese intero Migelo aveva avuto più datteri di quanti ne potesse vendere. Non si era lamentato una volta.
+Era stata lei a tirarlo fuori dalla stanza sopra la bottega, dopo Reks. Era salita una mattina con due ceste vuote e gliene aveva messa una in mano e aveva detto che Migelo aveva bisogno di datteri dal mercato e che lei da sola non ce la faceva, e lui ci era andato perché era più facile andarci che spiegarle perché no, e il giorno dopo lei era tornata con le ceste, e quello dopo ancora. Per un mese intero Migelo aveva avuto più datteri di quanti ne potesse vendere. Non si era lamentato una volta.
 
 Vaan smise di camminare a tempo. Accelerò il passo fino a camminare sui talloni di Basch, che non disse niente.
 
-Vaan attraversò l'Oltam con le mani strette sulle catene e gli occhi fissi sulla schiena di Basch, che camminava davanti come su una strada di campagna. Lamont gli veniva dietro. A metà ponte, dove il dondolio era più forte, il ragazzo parlò, e Vaan capì solo dopo che lo faceva per distrarlo.
+Al sesto livello i canti cessarono. I binari erano arrugginiti e la galleria finiva su un ponte di travi di ferro sospese a catene, che i cartelli chiamavano Oltam. Il fondo della voragine era soltanto un'idea. Vaan lo attraversò con le mani strette sulle catene e gli occhi fissi sulla schiena di Basch, che camminava davanti come su una strada di campagna. Lamont gli veniva dietro. A metà ponte, dove il dondolio era più forte, il ragazzo parlò, e Vaan capì solo dopo che lo faceva per distrarlo.
 
 «A Rabanastre» disse Lamont «com'è, adesso?»
 
@@ -114,7 +114,7 @@ Alla galleria sette arrivarono da un ingresso secondario, uno di quelli che i mi
 
 Vaan entrò per primo, a carponi. Lamont subito dopo. Uscirono in una caverna fredda.
 
-Era davvero più fredda. Dopo il tepore umido dei livelli di mezzo, l'aria qui era secca e immobile e pungeva il naso, e le pareti, che altrove brillavano di magilite viva, erano spente. Il cristallo c'era: Vaan lo vedeva, a vene e a grumi, lo stesso azzurro e lo stesso verde. Ma non mandava luce. Sembrava vetro sporco. La lampada da miniera che Hadu aveva insistito per prestargli, e che Vaan si era appeso alla cintura per non sembrare scortese, fece una cosa che lui non aveva mai visto fare a una lampada: il cristallo giallo dentro la gabbietta impallidì, piano, e diventò grigio, e la luce si ritirò dalle pareti un palmo alla volta finché non restò che il chiarore delle torce, quelle a olio, che Basch accese con l'acciarino.
+Era davvero più fredda. Dopo il tepore umido dei livelli di mezzo, l'aria qui era secca e immobile e pungeva il naso, e le pareti, che altrove brillavano di magilite viva, erano spente. Il cristallo c'era: Vaan lo vedeva, a vene e a grumi, lo stesso azzurro e lo stesso verde. Ma non mandava luce. Sembrava vetro sporco. La lampada da miniera che Hadu aveva insistito per prestargli, e che Vaan si era appeso alla cintura per non sembrare scortese, fece una cosa che lui non aveva mai visto fare a una lampada: il cristallo giallo dentro la gabbietta impallidì, piano, e diventò grigio. Basch accese con l'acciarino le torce che avevano preso ai livelli superiori; la fiamma fumò, ma tenne.
 
 «Si è spenta» disse Vaan, scuotendo la lampada.
 
@@ -138,7 +138,7 @@ Lamont si chinò. Sul pavimento, ai piedi della rastrelliera più bassa, c'erano
 
 Fran ci pensò. «Mi dà fastidio» disse. «Come un rumore che non si sente.»
 
-Poi girò la testa, lentamente, e guardò la sacca di Vaan, dove da quando avevano lasciato Rabanastre stava avvolta in un panno la pietra che il ragazzo aveva offerto a Balthier in pagamento e che il pirata gli aveva lasciato in custodia fino a Bhujerba: la pietra del palazzo, quella che si era accesa nelle mani della donna in rosso e che aveva fatto tossire i motori della Strahl la notte del furto.
+Poi girò lentamente la testa verso la sacca di Vaan. Il ragazzo abbassò gli occhi sulla fibbia che tratteneva il panno della pietra.
 
 «Anche quella» disse Fran. «Beve.»
 

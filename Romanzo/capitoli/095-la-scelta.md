@@ -2,7 +2,7 @@
 
 La Spada del Patto non aveva filo. Ashe lo aveva notato a Giruvegan, nella sala degli Occuria, e se n'era stupita; adesso, con l'elsa nella mano sinistra e la luce della Crisalide che le scendeva addosso, lo notò di nuovo, e non se ne stupì più. Era una spada che non era fatta per tagliare la carne. La lama era chiara, di un metallo che non si vedeva in nessuna fucina, e lungo il piatto aveva una venatura sottile che si accendeva e si spegneva al ritmo della pietra sopra di lei, come se le due cose si stessero parlando.
 
-Nella destra teneva la Spada dei Re. Quella sì, aveva il filo. L'aveva presa dalla Tomba, l'aveva portata attraverso mezzo mondo, ci aveva ucciso e si era difesa, e il suo peso le era ormai familiare come quello del proprio braccio.
+Nella destra teneva la Spada dei Re. Quella sì, aveva il filo. L'aveva presa a Miriam, l'aveva portata attraverso mezzo mondo, ci aveva ucciso e si era difesa, e il suo peso le era ormai familiare come quello del proprio braccio.
 
 Stava in piedi sotto la Crisalide con una spada per mano, e le due spade, alla luce della pietra, sembravano fatte una per l'altra, e forse lo erano.
 
@@ -44,7 +44,7 @@ Ashe si voltò di scatto. Basch era a una decina di passi, fermo, con la mano su
 
 Lo vedevano tutti.
 
-Ashe sentì la cosa arrivarle addosso da due parti insieme. Da una parte c'era un sollievo enorme, assurdo: non era pazza, non se l'era inventato, era lì. Dall'altra c'era un freddo che le saliva dalle ginocchia, e non avrebbe saputo dire da dove venisse, se non dal fatto stesso che lo vedevano tutti. Per due anni Rasler era stato suo. Adesso era di chiunque fosse in quella piazza.
+Ashe sentì la cosa arrivarle addosso da due parti insieme. Da una parte c'era un sollievo enorme, assurdo: non era pazza, non se l'era inventato, era lì. Dall'altra c'era un freddo che le saliva dalle ginocchia, e non avrebbe saputo dire da dove venisse, se non dal fatto stesso che lo vedevano tutti. Fino ad allora Rasler era stato suo. Adesso era di chiunque fosse in quella piazza.
 
 *Chi crede di vedere, diffidi degli occhi.*
 
@@ -56,7 +56,7 @@ Non era il gesto della Tomba, quello che le aveva fermato il polso. Era un altro
 
 «Vuoi questo?» disse Ashe.
 
-La voce le uscì più alta di quanto volesse. Rasler non rispose. Non aveva mai risposto, in nessuna delle sue apparizioni, e lei se n'era fatta una ragione dicendosi che i morti non parlano. Adesso le parve una ragione molto povera.
+La voce le uscì più alta di quanto volesse. Rasler non rispose. Era lo stesso silenzio di Giruvegan.
 
 «Vuoi che la tagli? Che me ne prenda un pezzo, e che lo porti ad Archades, e che faccia ad Archades quello che hanno fatto a Nabudis? È questo?» Strinse l'elsa. «È questo che devo a te? A mio padre? A tutti quelli che sono morti a Nalbina e a Rabanastre, a quelli che sono morti dopo, nei vicoli, di fame?»
 
@@ -104,7 +104,7 @@ La frase cadde nella piazza e restò lì.
 
 Gabranth lo disse ad Ashe. Lo disse senza alzare la voce, con un tono piatto, da verbale, come si legge una sentenza già scritta da altri.
 
-«A Rabanastre, due anni fa, la notte della firma. Sono entrato nella sala con la faccia di mio fratello, la sua armatura, il suo passo. Le guardie mi hanno lasciato passare, perché era il capitano Basch, e il capitano Basch poteva andare dovunque. Il vostro re era alla finestra. Si è voltato. Ha visto chi credeva di vedere, e gli ha sorriso.» Gabranth si fermò, e per un attimo, sotto il metallo, la voce gli mancò; la riprese subito. «Gli ha sorriso. Poi l'ho ucciso.»
+«A Nalbina, due anni fa, la notte della firma. Sono entrato nella sala con la faccia di mio fratello, la sua armatura, il suo passo. Le guardie mi hanno lasciato passare, perché era il capitano Basch, e il capitano Basch poteva andare dovunque. Il vostro re era seduto al tavolo. Ha alzato gli occhi. Ha visto chi credeva di vedere, e gli ha sorriso.» Gabranth si fermò, e per un attimo, sotto il metallo, la voce gli mancò; la riprese subito. «Gli ha sorriso. Poi l'ho ucciso.»
 
 Ashe non si mosse. Teneva le due spade alzate a metà, e le braccia le tremavano, e non lo sapeva.
 
@@ -114,7 +114,7 @@ Sapeva già che non era stato Basch. Lo sapeva da molti mesi; lo aveva capito, p
 
 Era Vaan. Aveva scavalcato la distanza che Ashe gli aveva imposto senza accorgersene ed era a metà fra lei e il Giudice, con le mani vuote, i pugni chiusi.
 
-«C'era un ragazzo» disse Vaan. «Quella notte. Era nella sala. Ha visto. Ha visto Basch, cioè, ha visto te, ha visto la faccia di Basch che ammazzava il re, e lui... lui Basch lo adorava. Lo chiamava come un santo. E qualcuno l'ha colpito. Gli hanno dato una coltellata e l'hanno lasciato lì, e me l'hanno riportato su un carro e io l'ho guardato morire per giorni.» La voce gli si spezzò e lui non la riprese. Gridò con la voce spezzata. «Si chiamava Reks. Hai visto un ragazzo, quella notte? Te lo ricordi?»
+«C'era un ragazzo» disse Vaan. «Quella notte. Era nella sala. Ha visto. Ha visto Basch, cioè, ha visto te, ha visto la faccia di Basch che ammazzava il re, e lui... lui Basch lo adorava. Lo chiamava come un santo. E qualcuno l'ha colpito. Gli hanno piantato una spada nel ventre e l'hanno lasciato lì, e me l'hanno riportato su un carro e io l'ho guardato morire per giorni.» La voce gli si spezzò e lui non la riprese. Gridò con la voce spezzata. «Si chiamava Reks. Hai visto un ragazzo, quella notte? Te lo ricordi?»
 
 Gabranth lo guardò. L'elmo non mostrava niente. Ma il Giudice tacque un tempo lungo, troppo lungo per un uomo che non ricorda.
 
@@ -146,7 +146,7 @@ Ashe sollevò la Spada dei Re per parare. Basch si mosse. Vaan si mosse. Erano t
 
 Le lame di Gabranth scesero, e a un palmo dal collo della principessa incontrarono altro acciaio.
 
-Il colpo risuonò nella piazza come una campana. Fra Ashe e il Giudice c'era un uomo, arrivato da un lato senza che nessuno lo vedesse partire, a gambe larghe, con le due spade corte incrociate davanti al viso a reggere il peso delle due spade lunghe. Gli tremavano le braccia per l'urto. Non indietreggiò di un pollice.
+Il colpo risuonò nella piazza come una campana. Fra Ashe e il Giudice c'era Reddas, arrivato da un lato senza che nessuno lo vedesse partire, a gambe larghe, con le due lame incrociate davanti al viso a reggere il peso delle spade di Gabranth. Gli tremavano le braccia per l'urto. Non indietreggiò di un pollice.
 
 «No» disse Reddas.
 

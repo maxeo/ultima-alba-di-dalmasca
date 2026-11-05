@@ -16,7 +16,7 @@ Camminarono fino all'incrocio senza parlare. Basch guardava le porte: alcune era
 
 Il capitano si girò così in fretta che il ragazzo fece un passo indietro. «La conosci?»
 
-«Te l'avevo detto. Nei canali. La donna che parla con Vossler, no? È lei quella che vogliono andare a prendere.»
+«Era con noi nei canali. La donna che parla con Vossler, no? È lei quella che vogliono andare a prendere.»
 
 Basch misurò la risposta. «Sì.»
 
@@ -182,7 +182,7 @@ Il baule teneva indumenti ricevuti in cambio di crediti mai saldati. Migelo se n
 
 Vaan sospese la mano sopra una camicia. «Meglio se non glielo dici adesso.»
 
-Trovarono calzoni che al capitano arrivavano corti ma meno di quelli della ferrovia e una giacca larga sulle spalle. Gli stivali erano un problema che il baule non poteva risolvere. Vaan prese un pezzo di cuoio dal cassetto dei lacci, si inginocchiò prima che Basch potesse protestare e lo fece passare intorno al tacco rotto. Lo aveva visto fare da Doran ai sandali di Penelo. Non era un lavoro bello; avrebbe retto fino alla Sandsea.
+Trovarono calzoni che al capitano arrivavano corti ma meno di quelli della prigione e una giacca larga sulle spalle. Gli stivali erano un problema che il baule non poteva risolvere. Vaan prese un pezzo di cuoio dal cassetto dei lacci, si inginocchiò prima che Basch potesse protestare e lo fece passare intorno al tacco rotto. Lo aveva visto fare da Doran ai sandali di Penelo. Non era un lavoro bello; avrebbe retto fino alla Sandsea.
 
 «Non ti ho chiesto le scarpe» disse Basch.
 
@@ -194,7 +194,7 @@ Il capitano stette fermo, lasciando che lavorasse. Poi gli tolse dalle mani la s
 
 «Tu?»
 
-Nessuno dei due aveva mangiato. Kytes portò due pezzi di pane senza che glielo chiedessero e li posò su un coperchio. Vaan avrebbe voluto prendere il pane e uscire, ma le gambe, sentendo l'odore, scelsero una cassa su cui sedersi. Basch si appoggiò al muro. Mangiarono piano. Dal piano di sopra venne un rumore di imposta che sbatteva.
+Basch non aveva mangiato dalla sera prima; a Vaan la focaccia di Sahra sembrava già lontana. Kytes portò due pezzi di pane senza che glielo chiedessero e li posò su un coperchio. Vaan avrebbe voluto prendere il pane e uscire, ma le gambe, sentendo l'odore, scelsero una cassa su cui sedersi. Basch si appoggiò al muro. Mangiarono piano. Dal piano di sopra venne un rumore di imposta che sbatteva.
 
 Vaan salì per fermarla. Il capitano rimase sotto. Il ragazzo aveva la mano già sul legno quando si girò, lo vide accanto alla scala e disse: «Puoi venire.»
 
@@ -308,7 +308,7 @@ Il capitano guardò le mani sul grembo. La sinistra era aperta, la cicatrice bia
 
 «Non te l'ho chiesto.»
 
-La risposta lasciò Vaan senza la frase seguente. Si era preparato a difendersi e a respingere un perdono, a dire che non aveva bisogno che quell'uomo lo perdonasse. Basch non lo faceva. Era seduto sulla sedia di Migelo con una giacca che gli stava larga, e teneva la mano ferita da Reks aperta sotto la luce della stessa finestra.
+La risposta lasciò Vaan senza la frase seguente. Si era preparato a difendersi e a respingere un perdono, a dire che non aveva bisogno che quell'uomo lo perdonasse. Basch non lo faceva. Era seduto sulla sedia di Migelo con una giacca che gli stava larga, e teneva la mano fasciata da Reks aperta sotto la luce della stessa finestra.
 
 «Fammi vedere» disse Vaan.
 

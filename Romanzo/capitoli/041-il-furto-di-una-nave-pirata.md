@@ -1,6 +1,6 @@
 ## 41. Il furto di una nave pirata
 
-Il pasto, Ondore lo mantenne. Si servì in una sala piccola, con le pareti di legno e un solo lampadario, e durò tre ore, e c'erano undici portate, e Balthier le commentò tutte con la serietà di un giudice di gara: la zuppa di lenticchie gialle con lo zafferano, che approvò; l'agnello delle isole basse cotto nel fieno, davanti al quale tacque per un lungo momento, con gli occhi chiusi; le piccole torte di miele e noci, di cui ne mangiò sei, una dopo l'altra, con un'espressione di malinconia crescente, perché sapeva che la sesta sarebbe stata l'ultima. Penelo mangiò tutto e contò i cucchiai. Vaan mangiò tutto due volte. Fran mangiò pochissimo e soltanto le cose verdi. Basch mangiò in piedi, accanto alla porta.
+Il pasto, Ondore lo mantenne. Si servì in una sala piccola, con le pareti di legno e un solo lampadario, e durò tre ore, e c'erano undici portate, e Balthier le commentò tutte con la serietà di un giudice di gara: la zuppa di lenticchie gialle con lo zafferano, che approvò; l'agnello delle isole basse cotto nel fieno, davanti al quale tacque per un lungo momento, con gli occhi chiusi; le piccole torte di miele e noci, di cui mangiò sei, una dopo l'altra, con un'espressione di malinconia crescente, perché sapeva che la sesta sarebbe stata l'ultima. Penelo mangiò tutto e contò i cucchiai. Vaan mangiò tutto due volte. Fran mangiò pochissimo e soltanto le cose verdi. Basch mangiò in piedi, accanto alla porta.
 
 La principessa non venne. Il maggiordomo disse che si era ritirata nelle sue stanze e che chiedeva di non essere disturbata, e lo disse con il tono di chi ha bussato tre volte e ha ricevuto tre risposte di lunghezza decrescente.
 
@@ -66,7 +66,7 @@ Ashe si voltò, finalmente. Aveva gli occhi azzurri e rossi ai bordi, e Vaan cap
 
 «Ho imparato a usare la spada in una notte.»
 
-«No che non è vero. Vossler ha detto che ti allenavi contro un palo per mesi.»
+«No che non è vero. Vossler ha detto che ti esercitavi di notte contro un palo.»
 
 La principessa diventò rossa. Non di vergogna. Di rabbia, e di qualcos'altro che le andava di traverso.
 
@@ -86,7 +86,7 @@ E dalla porta della cabina, alle sue spalle, una voce disse:
 
 Era una voce d'uomo, bassa, autoritaria, con l'accento di Archades. Era la voce di un ufficiale abituato a essere obbedito. Vaan si voltò di scatto con la mano alla spada, convinto di trovarsi davanti un Giudice, e si trovò davanti Balthier.
 
-Il pirata stava appoggiato allo stipite della porta, in camicia, senza il gilet, con i capelli spettinati dal cuscino, e teneva davanti alla bocca, fra il pollice e l'indice, un oggetto piccolo. Era un disco d'ottone grande quanto una moneta d'oro grossa, con una grata finissima sul davanti e una piccola rotella zigrinata sul bordo, appeso a una catenella. Balthier abbassò la mano. Sorrise.
+Il pirata stava appoggiato allo stipite della porta, in camicia, senza il gilet, con i capelli spettinati, e teneva davanti alla bocca, fra il pollice e l'indice, un oggetto piccolo. Era un disco d'ottone grande quanto una moneta d'oro grossa, con una grata finissima sul davanti e una piccola rotella zigrinata sul bordo, appeso a una catenella. Balthier abbassò la mano. Sorrise.
 
 «Forse ho esagerato un poco» disse, con la sua voce. «Ma non resisto mai. È la mia debolezza.»
 
@@ -102,7 +102,7 @@ Ashe lo fissava. «Che cos'è quello?»
 
 Con la voce di Ashe.
 
-Non era un'imitazione. Era lei. Il timbro basso, la pronuncia di corte con le vocali un poco strette, perfino quel modo di dire *ragionevole* staccando le sillabe come si stacca un'unghia, che Vaan le aveva sentito usare quel pomeriggio con lo zio. Vaan scoppiò a ridere. Non riuscì a trattenersi. Era la cosa più strana e più divertente che avesse mai sentito, e rise piegato in due contro la paratia finché non gli fecero male le costole.
+Non era un'imitazione. Era lei. Il timbro basso, la pronuncia di corte con le vocali un poco strette, perfino quel modo di dire *ragionevole* scandendo ogni sillaba, che Vaan le aveva sentito usare quel pomeriggio con lo zio. Vaan scoppiò a ridere. Non riuscì a trattenersi. Era la cosa più strana e più divertente che avesse mai sentito, e rise piegato in due contro la paratia finché non gli fecero male le costole.
 
 La principessa non rise. Guardò il disco, poi Balthier. La sua faccia era di pietra.
 
@@ -188,7 +188,7 @@ Uno era Basch. Stava fermo davanti alla porta grande dell'hangar, con la spada i
 
 L'altro era un gigante.
 
-Era il più grande essere umano, o almeno umanoide, che Vaan avesse mai visto. Superava Basch di una testa e mezza ed era largo il doppio. Indossava un'armatura completa, rossa e arancione e oro, piena di borchie e di decorazioni e di placche sovrapposte, come se un armaiolo avesse ricevuto l'ordine di metterci sopra tutto quello che aveva in bottega. L'elmo gli copriva tutta la faccia, con una visiera a griglia e due piume, una rossa e una gialla, che il vento piegava. Sulle spalle portava un mantello rosso, lunghissimo, che gli arrivava ai talloni e lo copriva tutto, e sotto il mantello, a ogni movimento, qualcosa si muoveva in punti strani, come se ci fosse un sacco di gatti. E sulla schiena, sopra il mantello, legato con una grossa corda di canapa annodata sul petto, portava un fascio di spade.
+Era il più grande essere umano, o almeno umanoide, che Vaan avesse mai visto. Superava Basch di una testa e mezza ed era largo il doppio. Indossava un'armatura completa, rossa e arancione e oro, piena di borchie e di decorazioni e di placche sovrapposte, come se un armaiolo avesse ricevuto l'ordine di metterci sopra tutto quello che aveva in bottega. L'elmo gli copriva tutta la faccia, con una visiera a griglia, corna ricurve e due ciuffi di capelli bianchi che il vento piegava. Sulle spalle portava un mantello rosso, lunghissimo, che gli arrivava ai talloni e lo copriva tutto, e sotto il mantello, a ogni movimento, qualcosa si muoveva in punti strani, come se ci fosse un sacco di gatti. E sulla schiena, sopra il mantello, legato con una grossa corda di canapa annodata sul petto, portava un fascio di spade.
 
 Erano tante. Vaan non riuscì a contarle. Spade lunghe e corte, dritte e curve, con elsa d'osso e d'argento e di legno, con i foderi e senza, infilate nel fascio alla rinfusa come le canne in un cesto, e quando il gigante si muoveva il fascio tintinnava tutto, con un suono di campanile scordato.
 
@@ -202,7 +202,7 @@ Il gigante si girò verso di lui. «Una parte di capra. Non è questo il punto.�
 
 Basch non si mosse. «La mia spada.»
 
-«La spada dell'uomo che ha ucciso un re! La spada con cui il cavaliere più famoso di Dalmasca si è macchiato del delitto più famoso di Ivalice! Non c'è collezione al mondo che non darebbe un braccio per averla!» Il mantello, all'altezza delle costole, ebbe un fremito. «Io ne ho alcuni da dare, ma non ce n'è bisogno. Io sono Gilgamesh. Il più grande collezionista di lame di tutta Ivalice. Il duellante leggendario. Il terrore delle armerie. E quella spada la voglio.»
+«La spada dell'uomo che ha ucciso un re! La spada con cui il cavaliere più famoso di Dalmasca si è macchiato del delitto più famoso di Ivalice! Non c'è collezione al mondo che non darebbe un braccio per averla!» Il mantello, all'altezza delle costole, ebbe un fremito. «Ma non ce n'è bisogno. Io sono Gilgamesh. Il più grande collezionista di lame di tutta Ivalice. Il duellante leggendario. Il terrore delle armerie. E quella spada la voglio.»
 
 «Non ho ucciso il re» disse Basch.
 
@@ -242,11 +242,11 @@ Poi ruggì.
 
 «È la tua corda» disse Basch.
 
-Gilgamesh si rialzò. Lo fece con un'agilità sorprendente per la sua stazza, e nel rialzarsi il mantello gli si aprì da un lato, appena, e Vaan vide per un istante una cosa grigia, una mano, che spuntava dal fianco del gigante all'altezza delle costole e si richiudeva subito sotto la stoffa. Sbatté le palpebre. Il mantello era di nuovo chiuso. Pensò di essersi sbagliato. Si disse che era stato il buio.
+Gilgamesh si rialzò con un'agilità sorprendente per la sua stazza. Il mantello s'impigliò in un'elsa; lui se lo tirò addosso con uno strattone, tenendolo chiuso sul petto.
 
 Il gigante guardò le sue spade sparse sulla piattaforma. Guardò Basch. Guardò la garitta, dove la guardia russava. Guardò Balthier con la pistola, Fran con l'arco tirato e la principessa con la spada mezzo sguainata, e parve fare un conto.
 
-Cominciò a raccogliere le spade. Le raccoglieva in fretta, a bracciate, e le bracciate erano stranamente grandi, più di quanto due braccia avrebbero dovuto contenere, e il mantello si gonfiava e si muoveva sotto le spade come se lui avesse il doppio delle mani che aveva. Vaan lo guardò e decise di non pensarci.
+Cominciò a raccogliere le spade. Le raccoglieva in fretta, a bracciate, perdendone due ogni volta che ne raccoglieva tre. Vaan si scostò da una punta e decise di lasciarlo lavorare.
 
 «Ci rivedremo!» tuonò Gilgamesh, mentre raccoglieva. «Ci rivedremo, capitano Basch! Questo non è un addio, è un arrivederci! La tua spada sarà mia! È scritto! Tutte le spade famose di Ivalice finiscono nella mia collezione, prima o poi! Tutte!»
 
@@ -256,7 +256,7 @@ Corse verso il bordo della piattaforma. Verso il vuoto. E prima che chiunque pot
 
 Vaan corse al parapetto, con il cuore in gola. Guardò giù.
 
-Dieci passi più in basso, legata a un anello di ferro nella parete della montagna, dondolava una barca dell'aria, una di quelle piccole con la vela e il cristallo azzurro sotto lo scafo, e il gigante ci era atterrato sopra di schiena, con tutte le sue spade, e la barca era sprofondata di un braccio buono sotto il peso e poi era risalita, ondeggiando. Gilgamesh si tirò su a sedere. Sciolse la cima. Afferrò il remo con una mano, o con due, o con quattro, nel buio non si capiva, e cominciò a remare via nell'aria, lento, pesante, verso le isole basse, con le spade che sporgevano dalla barca come gli aculei di un porcospino.
+Dieci passi più in basso, legata a un anello di ferro nella parete della montagna, dondolava una barca dell'aria, una di quelle piccole con la vela e il cristallo azzurro sotto lo scafo, e il gigante ci era atterrato sopra di schiena, con tutte le sue spade, e la barca era sprofondata di un braccio buono sotto il peso e poi era risalita, ondeggiando. Gilgamesh si tirò su a sedere. Sciolse la cima. Afferrò il remo e cominciò a remare via nell'aria, lento, pesante, verso le isole basse, con le spade che sporgevano dalla barca come gli aculei di un porcospino.
 
 «Ci rivedremo!» gridò ancora, da lontano.
 
@@ -294,7 +294,7 @@ Ashe non rispose. Prese la carta dalle mani di Basch, la arrotolò di nuovo con 
 
 ---
 
-Basch rinfoderò la spada che non aveva mai sguainato e si voltò verso Balthier.
+Basch si assicurò al fianco la spada che non aveva mai sguainato e si voltò verso Balthier.
 
 «Ho sentito» disse. «Dalla porta. Il rapimento.»
 
@@ -324,7 +324,7 @@ Fran guardò Vaan.
 
 «E tu?» disse.
 
-Vaan non ebbe bisogno di pensarci. Non ebbe bisogno di niente. Aveva diciassette anni ed era nato a Rabanastre e fino a una settimana prima il punto più lontano dove fosse stato era una duna del deserto orientale dove aveva ammazzato un lupo per una taglia da trenta gil. Poi aveva visto Nalbina, e Barheim, e il cielo dall'alto, e una città appesa alle nuvole, e una nave grande come un quartiere. E adesso c'era una principessa morta con una carta di cent'anni fa e un tesoro in fondo a una tomba e una nave pirata con i motori pronti, e tornare indietro, alla bottega di Migelo, alle casse da scaricare, ai soldati alle porte, gli sembrava una cosa che non sarebbe più riuscito a fare nemmeno se lo avesse voluto. E non lo voleva.
+Vaan guardò la carta stretta contro il petto di Ashe, poi la passerella della Strahl. Per tornare da Migelo avrebbe dovuto lasciarla lì, voltarsi e scendere la scalinata da solo. Fece invece un passo verso la nave.
 
 «Vengo» disse.
 
@@ -346,7 +346,7 @@ Vaan la guardò. Poi sorrise, il suo sorriso largo di sempre.
 
 «Lo so.»
 
-Balthier si guardò attorno: un cavaliere morto, una principessa morta, due ragazzi della Città Bassa, uno in camicia da notte, una viera con l'arco e un pirata spettinato, alle tre di notte su una piattaforma di Bhujerba, con una carta antica e una spada piantata in una cassa.
+Balthier si guardò attorno: un cavaliere morto, una principessa morta, due ragazzi della Città Bassa, Penelo in camicia da notte, una viera con l'arco e un pirata spettinato, alle tre di notte su una piattaforma di Bhujerba, con una carta antica e una spada piantata in una cassa.
 
 «Il mio equipaggio» disse a nessuno «ha superato ogni aspettativa.»
 

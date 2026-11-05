@@ -46,11 +46,7 @@ Balthier sospirò. «Ba'Gamnan, sei di una volgarità commovente.»
 
 ---
 
-Quello che accadde dopo durò il tempo di un respiro, e i cinque che c'erano lo raccontarono in seguito in cinque modi diversi.
-
-Vaan avrebbe giurato che Lamont aveva preso la mira. Balthier sostenne sempre che aveva lanciato a caso, per paura, e che a caso aveva fatto il lancio migliore che si fosse mai visto in una miniera. Basch, interrogato, disse che il ragazzo aveva il braccio di uno che ha giocato a palla per anni in un cortile grande, e non aggiunse altro. Fran non disse niente, perché nessuno glielo chiese. E Ba'Gamnan, per quanto risulta, non lo raccontò mai a nessuno, e questo è forse il racconto più eloquente.
-
-Il fatto, comunque, è questo. Mentre i quattro Bangaa si muovevano, Lamont tirò fuori dalla tasca la scheggia di negalite e la lanciò. Era grande quanto una noce e pesante quanto un sasso di fiume, e attraversò la caverna in linea retta e prese Ba'Gamnan in mezzo agli occhi, nel punto esatto in cui il muso si allarga. Si sentì un suono sordo, come quello di un mestolo su una zucca. Il Bangaa si portò le mani alla faccia e barcollò all'indietro di due passi, e il terzo passo lo mise in fallo su un binario, e cadde.
+Mentre i quattro Bangaa si muovevano, Lamont tirò fuori dalla tasca la scheggia di negalite. Vaan lo vide portare il gomito indietro, tenere gli occhi sul muso di Ba'Gamnan e lanciare. La pietra, grande quanto una noce e pesante quanto un sasso di fiume, attraversò la caverna in linea retta e prese Ba'Gamnan in mezzo agli occhi, nel punto esatto in cui il muso si allarga. Si sentì un suono sordo, come quello di un mestolo su una zucca. Il Bangaa si portò le mani alla faccia e barcollò all'indietro di due passi, e il terzo passo lo mise in fallo su un binario, e cadde.
 
 Non era molto. Ma i suoi tre si girarono a guardarlo, perché era il capo e il capo non cade, ed era tutto ciò che serviva.
 
@@ -64,9 +60,17 @@ Basch lo prese per il colletto e se lo tirò dietro.
 
 ---
 
-La fuga dalle miniere di Lhusu non ha bisogno di molte parole, e del resto chi la fece non ne ebbe il fiato. Fu una corsa in salita. I ponti oscillavano. I binari erano sempre dove non dovevano essere. Dietro, a distanza variabile, venivano le grida dei Bangaa, che erano grida di rabbia nella lingua dei Bangaa e quindi molto lunghe e molto ricche di consonanti, e ogni tanto un sasso lanciato che colpiva la roccia vicino alle loro teste, perché Ba'Gamnan aveva capito il valore dei sassi.
+Sull'Oltam Vaan perse la presa alla catena. Il ponte si abbassava sotto i passi degli altri e risaliva prima che lui potesse posare il piede; arrivò in fondo contro la schiena di Balthier. Un sasso batté sulla roccia accanto alla sua testa. Dietro, i Bangaa gridavano, e dal fracasso dei passi pareva che fossero diventati otto.
 
-Corsero sull'Oltam, che oscillò più che mai. Corsero sul Twinspan, che ne aveva due, di ponti, uno sopra l'altro, e presero quello sbagliato e dovettero tornare indietro per una scala di ferro che tremava. A un incrocio Vaan si fermò di colpo e fece per voltarsi, con la spada alzata, e Balthier lo afferrò per il braccio e gli disse in faccia, senza più nessuna eleganza, che se voleva farsi ammazzare per una ragazza che non c'era poteva farlo più tardi, con calma, e Vaan lo guardò con odio e ricominciò a correre. Lamont correva davanti a tutti. Aveva tolto la giacca e la teneva in mano come uno straccio, e i bottoni d'argento sbattevano tra loro con un suono di campanelli. Basch chiudeva la fila e ogni tanto si fermava, si girava, ascoltava, e poi riprendeva.
+«Su!» disse Fran.
+
+Il Twinspan aveva due ponti, uno sopra l'altro. Imboccarono quello inferiore e trovarono le travi mancanti oltre la curva. Dovettero risalire per una scala di ferro che si staccava dal muro a ogni gradino. Lamont vi si arrampicò con la giacca stretta sotto un braccio; i bottoni d'argento battevano sui pioli. All'incrocio successivo Vaan alzò la spada e si voltò verso le grida.
+
+Balthier lo afferrò per il braccio. «Lei non è qui.»
+
+«Lui sa dov'è.»
+
+«E tu vuoi tornare a chiederglielo da solo?» Il pirata lo spinse verso la salita. Vaan gli rivolse uno sguardo pieno d'odio, ma riprese a correre. Basch aspettò che avessero superato l'incrocio e si rimise in coda.
 
 Al terzo livello passarono di corsa davanti al posto di ristoro. Hadu era ancora seduto sulla panca di destra con le gambe allungate.
 

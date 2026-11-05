@@ -14,7 +14,7 @@ Spingeva con tutte e due le zampe e con la testa, il pompon rosso schiacciato co
 
 «Dove sono gli apprendisti?» chiese Vaan, che era educato.
 
-«Non lo so!» Il capomastro si strappò il pompon con tutte e due le zampe, senza riuscire a staccarlo. «In pausa. Tre giorni fa hanno detto: capomastro, facciamo una pausa. Io ho detto: va bene, una pausa. Una! E sono spariti per il bosco. Nove apprendisti. Hanno i rifugi sugli alberi, con le amache e le provviste, e io sono qui da tre giorni a spingere un cancello che si apre solo tirando.»
+«Non lo so!» Il capomastro si tirò il pompon con tutte e due le zampe. «In pausa. Tre giorni fa hanno detto: capomastro, facciamo una pausa. Io ho detto: va bene, una pausa. Una! E sono spariti per il bosco. Nove apprendisti. Hanno i rifugi sugli alberi, con le amache e le provviste, e io sono qui da tre giorni a spingere un cancello che si apre solo tirando.»
 
 Ci fu un breve silenzio.
 
@@ -58,9 +58,9 @@ Il quinto era innamorato. Non disse di chi, ma piangeva, e non voleva lavorare, 
 
 Il sesto e il settimo li trovò Balthier, che non voleva saperne di arrampicarsi e girava per il sottobosco da solo con le mani dietro la schiena; li trovò perché giocavano a dadi in una radura e uno dei due barava. Balthier se ne accorse al primo tiro. Si sedette, giocò tre mani, vinse tutto, e restituì tutto a condizione che tornassero al cancello. I due moguri lo seguirono con un rispetto che non avevano mai avuto per il capomastro.
 
-L'ottavo era il più giovane e aveva paura del buio, e il suo rifugio era nel cavo di un albero morto, e lui non era uscito per tre giorni perché era sceso il buio e poi era tornata la luce e poi era sceso di nuovo il buio e lui non era riuscito a decidere il momento giusto. Penelo gli diede la lanterna di Basch. Il moguri la tenne con tutte e due le zampe fino al cancello, anche se era pieno giorno, e non la restituì più.
+L'ottavo era il più giovane e aveva paura del buio, e il suo rifugio era nel cavo di un albero morto, e lui non era uscito per tre giorni perché era sceso il buio e poi era tornata la luce e poi era sceso di nuovo il buio e lui non era riuscito a decidere il momento giusto. Penelo gli diede la lanterna di Basch. Il moguri la tenne con tutte e due le zampe fino al cancello, anche se era pieno giorno, e la tenne accesa anche tornando dagli altri.
 
-Il nono era Ashe a trovarlo, per caso, quasi al tramonto. Stava seduto sull'ultimo ramo di un albero che dava sulla gola, da solo, e guardava a nord, dove il bosco finiva e cominciava un chiarore che non era più verde.
+Fu Ashe a trovare il nono, per caso, quasi al tramonto. Stava seduto sull'ultimo ramo di un albero che dava sulla gola, da solo, e guardava a nord, dove il bosco finiva e cominciava un chiarore che non era più verde.
 
 «Ti aspettano» gli disse Ashe dal basso.
 

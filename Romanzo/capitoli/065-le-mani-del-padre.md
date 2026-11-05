@@ -1,6 +1,6 @@
 ## 65. Le mani del padre
 
-L'imperatore Gramis aveva un orologio che nessuno doveva toccare. Era un orologio d'ottone e di cristallo, alto quanto un bambino, che stava sul pavimento della sua camera da letto accanto alla finestra, e aveva dentro un pendolo e una sfera di magilite che girava piano su se stessa e faceva luce, così che di notte, quando l'imperatore non dormiva, poteva guardare l'ora senza chiamare nessuno. Glielo aveva regalato sua moglie, molti anni prima, quando nessuno dei loro figli era ancora nato. L'imperatrice era morta da trent'anni. L'orologio andava avanti di quattro minuti al giorno, e ogni mattina un servitore apposito, un vecchio che non aveva altro compito a palazzo, veniva a rimetterlo, e da trent'anni l'imperatore gli diceva di lasciarlo stare, e il vecchio lo rimetteva lo stesso.
+L'imperatore Gramis aveva un orologio che nessuno doveva toccare. Era un orologio d'ottone e di cristallo, alto quanto un bambino, che stava sul pavimento della sua camera da letto accanto alla finestra, e aveva dentro un pendolo e una sfera di magilite che girava piano su se stessa e faceva luce, così che di notte, quando l'imperatore non dormiva, poteva guardare l'ora senza chiamare nessuno. Glielo aveva regalato sua moglie, molti anni prima, quando nessuno dei loro figli era ancora nato. L'imperatrice era morta da anni. L'orologio andava avanti di quattro minuti al giorno, e ogni mattina un servitore apposito, un vecchio che non aveva altro compito a palazzo, veniva a rimetterlo, e l'imperatore gli diceva ogni volta di lasciarlo stare, e il vecchio lo rimetteva lo stesso.
 
 Quel pomeriggio l'orologio segnava le quattro e un quarto, ed erano le quattro e undici.
 
@@ -56,7 +56,7 @@ Gramis non rispose.
 
 «Non ho dimenticato niente di quello che mi avete insegnato» disse Vayne. «Ho soltanto imparato bene.»
 
-Il vecchio rimase a guardarlo, e in quello sguardo c'era qualcosa che nessuno degli scrivani di corte, che pure stenografavano ogni udienza imperiale da cent'anni, avrebbe saputo mettere su carta. Fu proprio per questo, forse, che quella conversazione non fu stenografata.
+Il vecchio rimase a guardarlo.
 
 «È vendetta?» chiese Gramis.
 
@@ -64,11 +64,11 @@ Vayne si irrigidì. Fu un movimento minimo, che un estraneo non avrebbe notato.
 
 «Vendetta di cosa?»
 
-«Di tutto.» L'imperatore fece un gesto vago con la mano magra, verso la porta, il palazzo, gli anni. «Dei tuoi fratelli. Di me. Del giorno in cui ho firmato la loro sentenza e ti ho guardato, e tu eri in piedi in fondo alla sala, e non hai battuto ciglio.»
+«Di tutto.» L'imperatore fece un gesto vago con la mano magra, verso la porta, il palazzo, gli anni. «Dei tuoi fratelli. Di me. Del giorno in cui ho chiuso l'inchiesta sulla loro morte e ti ho guardato, e tu eri in piedi in fondo alla sala, e non hai battuto ciglio.»
 
-«Erano traditori. Voi li avete giudicati.»
+«Erano traditori. Voi avete chiuso il caso.»
 
-«Io li ho giudicati» disse Gramis. «Sì. Io.»
+«Io l'ho chiuso» disse Gramis. «Sì. Io.»
 
 Il silenzio, nella camera dell'imperatore, durò abbastanza a lungo perché l'orologio facesse un altro piccolo rumore.
 
@@ -92,7 +92,7 @@ Vayne guardò le proprie mani, posate sul fascicolo legato con il nastro rosso. 
 
 «Padre» disse. «Le mie mani sono sporche da molto tempo. Non vedo perché dovrei fermarmi adesso.»
 
-Lo disse senza enfasi. Lo disse come si dice una cosa vera che non fa più nessun effetto a chi la dice, e che proprio per questo ne fa moltissimo a chi la sente.
+Lo disse senza enfasi, tenendo ancora le mani aperte.
 
 L'imperatore lo guardò. Guardò quel figlio che gli somigliava più di tutti gli altri, più dei due morti e più del piccolo, nella fronte, nella bocca, nel modo di stare seduto con la schiena dritta e le mani ferme. Il figlio che aveva vinto Nalbina e preso Rabanastre, che i soldati salutavano senza che glielo ordinassero, che parlava alla folla come un sacerdote e al Senato come un maestro di scherma. Il figlio che aveva in mano la spada della casa, e che l'aveva presa, si capiva adesso, da molto tempo, senza chiedere a nessuno il permesso.
 
@@ -104,7 +104,7 @@ Il vecchio volse di nuovo la testa verso la finestra. Fuori, le aeronavi della f
 
 «E con quel sangue» disse l'imperatore, piano, così piano che Vayne dovette chinarsi per sentirlo «la casa Solidor va avanti.»
 
-Non era un permesso. Non era un divieto. Era la constatazione di un vecchio che guarda il proprio giardino e vede che le piante crescono, e sa con che cosa sono state concimate, e non ha più la forza di andare a strapparle.
+Gramis lasciò la frase senza aggiunte e rimase voltato verso la finestra.
 
 Vayne si alzò. Prese il fascicolo. Fece il piccolo cenno con la testa, quello da figlio a padre. Si avviò alla porta.
 

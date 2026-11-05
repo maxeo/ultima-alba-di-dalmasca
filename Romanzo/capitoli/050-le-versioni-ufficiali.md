@@ -14,7 +14,7 @@ Fran aprì gli occhi. Guardò il punto indicato e poi Ashe. La principessa si al
 
 «Il frammento.»
 
-Balthier lasciò passare un intero battito del motore prima di rispondere. «Naturalmente. Fra tutte le cose che potevano andare perdute.»
+Balthier lasciò passare un intero battito del motore prima di rispondere. «Basch. Prepara una cima.»
 
 Virò. La navetta tornò verso la nube, abbastanza vicina da far vibrare il vetro senza entrarci. Fran riuscì a muovere il comando di destra, aiutandolo a restare fuori dalla corrente. La luce galleggiava fra due lamiere; quando si avvicinarono, videro la pietra incastrata in un sostegno spezzato del dispositivo.
 
@@ -22,9 +22,9 @@ Virò. La navetta tornò verso la nube, abbastanza vicina da far vibrare il vetr
 
 Basch si era già tolto la cinghia. «Tieni questa distanza.»
 
-Vaan aprì il portello laterale e sentì il vento strappargli il respiro. Il capitano si legò una cima alla cintura, ne diede il capo al ragazzo e si sporse sul pattino esterno. La lamiera andava giù di fianco, troppo lenta per precipitare e troppo veloce per essere afferrata a lungo. Balthier scese con lei.
+Vaan aprì il portello laterale e sentì il vento strappargli il respiro. Basch si legò una cima alla cintura, ne diede il capo al ragazzo e si sporse sul pattino esterno. La lamiera andava giù di fianco, troppo lenta per precipitare e troppo veloce per essere afferrata a lungo. Balthier scese con lei.
 
-Basch allungò la spada fra due sbarre del sostegno. Il metallo era ancora caldo. Vaan lo sentì attraverso il fianco quando il capitano tirò il corpo indietro per fare leva. Il sostegno cedette di colpo; il frammento rotolò sulla lamiera e Basch lo prese con un lembo del mantello prima che scivolasse oltre il bordo.
+Basch allungò la spada fra due sbarre del sostegno. Dal metallo arroventato saliva un tremolio d'aria. Quando Basch si tirò indietro per fare leva, la cima strappò le mani a Vaan e gli premette contro il fianco. Il sostegno cedette di colpo; il frammento rotolò sulla lamiera e Basch lo prese con un lembo del mantello prima che scivolasse oltre il bordo.
 
 «Dentro!» gridò Vaan.
 
@@ -94,7 +94,7 @@ Gramis lasciò il foglio sul tavolo. «Dunque il comando è colpevole anche di c
 
 Gregoroth lo guardò senza piegare il capo. «È la natura del comando, maestà.»
 
-Il vecchio pensò al sigillo di Nabudis, alla voce di Zargabaath che glielo aveva ricordato nella stanza privata. Non poteva respingere quella formula soltanto perché adesso veniva usata contro suo figlio. Posò entrambe le mani sul bordo della cartella.
+Il vecchio pensò a Nabudis, alle parole di Gabranth nella stanza privata. Non poteva respingere quella formula soltanto perché adesso veniva usata contro suo figlio. Posò entrambe le mani sul bordo della cartella.
 
 «Volete Vayne qui.»
 
@@ -150,7 +150,7 @@ La versione del Senato, che non fu mai resa pubblica, si trova nei verbali di un
 
 La versione della Città Bassa di Rabanastre, raccolta al mercato di Muthru da chiunque avesse orecchie, era la più ricca. Diceva che nel cielo del deserto occidentale era apparso il fantasma del re Raminas su un carro di fuoco e aveva incenerito le navi una per una. Un venditore di datteri, lo stesso che anni prima aveva nutrito i chocobo della carrozza nuziale, aggiungeva che il fantasma teneva per mano una donna velata, e che la donna era la principessa. Lo diceva a voce bassa, guardandosi attorno, e poi vendeva i datteri a prezzo pieno. Fu l'unica versione che, senza saperlo, ci prese su un punto.
 
-La quinta versione è quella che sta in queste pagine, e la raccontarono sei persone sedute in una navetta rubata che perdeva colpi. Per molto tempo non la raccontarono a nessuno.
+La quinta versione è quella che sta in queste pagine. Le sei persone che la conoscevano erano sedute in una navetta rubata. Per molto tempo non la raccontarono a nessuno.
 
 La navetta rubata raggiunse il margine del Jagd con il motore che perdeva colpi. Balthier la fece posare oltre le rocce, lontano dalla conca della Strahl. Non serviva lasciare a chi avesse cercato i relitti una freccia diritta verso la propria nave.
 

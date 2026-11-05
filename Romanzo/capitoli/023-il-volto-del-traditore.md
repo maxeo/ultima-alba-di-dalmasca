@@ -42,7 +42,7 @@ Lo disse forte. La stazione glielo restituì dalla volta, dai binari, dal casott
 
 Basch si girò.
 
-Fu un movimento semplice, ma Vaan lo ricordò sempre, perché era la prima volta, da quando lo conosceva, che quell'uomo si girava verso di lui per sua scelta. Nella gabbia lo aveva guardato perché Vaan gli stava davanti; nella caverna lo aveva guardato perché Vaan gli era venuto addosso. Adesso si girò, con la spada abbassata e la giacca di un ferroviere morto addosso, e lo guardò, e c'era sulla sua faccia un'espressione che Vaan non aveva mai visto su nessuna faccia: come se qualcuno, dopo due anni, gli avesse detto finalmente una cosa che aspettava, e non fosse la cosa che sperava.
+Si girò con la spada abbassata e la giacca del ferroviere addosso. Vaan strinse le ginocchia contro il bordo della panca, ma non si alzò. Basch rimase a qualche passo da lui.
 
 «Reks» disse Basch.
 
@@ -56,13 +56,7 @@ Vaan non rispose. Aveva la gola chiusa.
 
 «Sì.»
 
-Basch annuì, piano, come chi conferma a se stesso un conto che aveva già fatto. Poi chiese la cosa che Vaan sapeva che avrebbe chiesto, la cosa che nella gabbia non aveva chiesto perché nella gabbia non c'era stato spazio per chiedere niente.
-
-«Che cosa gli è successo?»
-
-«È morto.»
-
-Basch chiuse gli occhi. Li tenne chiusi il tempo di un respiro.
+Basch annuì. Abbassò gli occhi sulle mani di Vaan, strette sul bordo della panca.
 
 «Mi dispiace» disse.
 
@@ -88,11 +82,11 @@ Parlava piano, con quella sua voce roca di chi la usa poco, e metteva ogni parol
 
 «Lo so che era fra i venti» disse Vaan.
 
-«Lo so che lo sai. Ti dico quello che ho visto.» Basch non alzò la voce. «Sui cammini di ronda ci ha attaccati un'aeronave. Una piccola, da guardia, con una lama sotto la chiglia, che volava bassa sulle mura. Abbiamo perso uomini. Tuo fratello è caduto, una volta, e si è rialzato. Quando l'aeronave è tornata indietro, gli altri si sono buttati a terra. Lui no. È rimasto in piedi accanto a me.» Una pausa. «Non so perché. Non gliel'ho chiesto. Forse aveva paura, e la paura, certe volte, tiene in piedi. Forse no.»
+«Lo so che lo sai. Ti dico quello che ho visto.» Basch non alzò la voce. «In un corridoio un soldato lo ha colpito alla tempia con l'elsa. È caduto. Mi sono fermato finché non si è rialzato. Più tardi, sui cammini di ronda, ci ha attaccati una tagliavento. Gli altri si sono buttati dietro un torrione. Lui no. È rimasto in piedi accanto a me.» Una pausa. «Non so perché. Non gliel'ho chiesto. Forse aveva paura, e la paura, certe volte, tiene in piedi. Forse no.»
 
 Vaan guardava il pavimento.
 
-«Poi siamo entrati. Nella fortezza. Ai piedi della scala che portava agli appartamenti del re, abbiamo sentito arrivare i soldati da dietro. Molti. Qualcuno doveva tenerli lì, alla base della scala, mentre gli altri salivano. Si è offerto lui. Da solo. Ha detto che il corridoio era stretto, che ne passavano due alla volta, che il re era più importante di un ragazzo.» Basch disse la frase senza fermarsi, e poi si fermò. «E io l'ho lasciato fare. «Gli ho detto di tenere la schiena al muro. Gli ho detto: quando non ce la fai più, scendi verso le cisterne. Non verso di noi. Verso le cisterne. Era un ordine. È l'ultima cosa che gli ho detto.»
+«Poi siamo entrati. Nella fortezza. Ai piedi della scala che portava agli appartamenti del re, abbiamo sentito arrivare i soldati da dietro. Molti. Qualcuno doveva tenerli lì, alla base della scala, mentre gli altri salivano. Si è offerto lui. Da solo. Ha detto che il corridoio era stretto, che ne passavano due alla volta, che il re era più importante di un ragazzo.» Basch disse la frase senza fermarsi, e poi si fermò. «E io l'ho lasciato fare. Gli ho detto di tenere la schiena al muro. Gli ho detto: quando non ce la fai più, scendi verso le cisterne. Non verso di noi. Verso le cisterne. Era un ordine. È l'ultima cosa che gli ho detto.»
 
 «Non è andato alle cisterne» disse Vaan. Non era una domanda.
 
@@ -174,11 +168,11 @@ Ci fu un silenzio lungo.
 
 Fu Basch a romperlo, e lo ruppe con un gesto, non con una parola. Alzò la mano sinistra, quella che Vaan aveva visto alla luce delle lampade nella galleria, e la girò, con il dorso verso di lui. La cicatrice era lì: lunga, bianca, di traverso, dalla nocca dell'indice al polso.
 
-«Sui cammini di ronda» disse «quando l'aeronave è passata la prima volta, mi ha tagliato. Qui. Non me n'ero accorto. Se n'è accorto tuo fratello.» Guardò la mano, come se la vedesse per la prima volta. «Non mi ha chiesto il permesso. Si è strappato la manica della giubba, quella nuova, alla cucitura della spalla, con uno strattone solo. Ne ha fatto una striscia con i denti e me l'ha girata attorno alla mano, sopra il guanto, tre giri. E l'ha chiusa con un nodo doppio. Gli ho chiesto chi gli aveva insegnato a fare un nodo così. Mi ha detto: le casse di Migelo.»
+«Nel corridoio dove era caduto» disse «mi sono tagliato la mano combattendo. Qui. Non me ne curavo. Se n'è accorto tuo fratello, quando l'ho aiutato ad alzarsi.» Guardò la mano. «Non mi ha chiesto il permesso. Si è strappato la manica della giubba, quella nuova, alla cucitura della spalla, con uno strattone solo. Ne ha fatto una striscia con i denti e me l'ha girata attorno alla mano, sopra il guanto, tre giri. L'ha chiusa con un nodo doppio. Quello delle casse di Migelo.»
 
 Vaan smise di respirare.
 
-Non lo decise. Gli successe. Sentì il fiato fermarsi da qualche parte sotto lo sterno e restare lì, come il fiato di Reks sulla sua guancia nel sogno, caldo e senza parole. E vide, senza volerlo, la giubba. La giubba azzurra di Reks, quella nuova, che era tornata da Nalbina sul carro insieme a lui, ripiegata sotto la sua testa come un cuscino. La giubba che Vaan aveva lavato nel cortile del pozzo, un giorno, mentre Reks guardava il soffitto, e aveva steso ad asciugare sulla corda, e aveva guardato lì appesa, al sole, con una manica sola. Aveva pensato che si fosse strappata in battaglia. Non ci aveva pensato più. La giubba era ancora nella cassa, sotto la branda, nella stanza sopra la bottega. Con una manica sola.
+Non lo decise. Gli successe. Sentì il fiato fermarsi da qualche parte sotto lo sterno e restare lì, come il fiato di Reks sulla sua guancia nel sogno, caldo e senza parole. E vide, senza volerlo, la giubba. La giubba azzurra di Reks, quella nuova, che era tornata da Nalbina sul carro insieme a lui, ripiegata sotto la sua testa come un cuscino. La giubba che Vaan aveva lavato nel cortile del pozzo, un giorno, mentre Reks guardava il soffitto, e aveva steso ad asciugare sulla corda, e aveva guardato lì appesa, al sole, con una manica sola. Aveva pensato che si fosse strappata in battaglia. Non ci aveva pensato più. La giubba era ancora nella cassapanca della stanza sopra la bottega. Con una manica sola.
 
 Le casse di Migelo. Era il nodo che Reks gli aveva insegnato, quando Vaan aveva dieci anni, per le casse che non si devono aprire nemmeno se le butti dal tetto.
 
@@ -190,11 +184,11 @@ Lo disse piano. Lo disse a se stesso più che a Basch.
 
 «E allora perché me lo dici?»
 
-«Perché c'è un'altra cosa che ti posso chiedere, e che non riguarda me.» Basch lo guardò, e la sua voce, adesso, era quasi gentile, di una gentilezza scomoda, faticosa, che non sapeva dove mettere le mani. «Non credere a me. Credi a lui. A tuo fratello. Era un buon soldato. È rimasto in piedi accanto a me quando gli altri si buttavano a terra. Mi ha fasciato la mano senza chiedere. È salito per una scala quando gli avevo ordinato di scendere, perché aveva sentito che il re era in pericolo. Questo era tuo fratello. Non quello che hanno letto in piazza. Questo.» Una pausa. «Se vuoi odiarmi, odiami. Ne hai tutte le ragioni. Io l'ho portato là dentro. Ma non odiare me al posto suo. Lui non si è sbagliato su niente, quella notte. Si è sbagliato solo su una faccia. E chiunque si sarebbe sbagliato.»
+«Perché c'è un'altra cosa che ti posso chiedere, e che non riguarda me.» Basch lo guardò, e parlò con una gentilezza esitante, tenendo le mani lungo i fianchi. «Non credere a me. Credi a lui. A tuo fratello. Era un buon soldato. È rimasto in piedi accanto a me quando gli altri si buttavano a terra. Mi ha fasciato la mano senza chiedere. È salito per una scala quando gli avevo ordinato di scendere, perché aveva sentito che il re era in pericolo. Questo era tuo fratello. Non quello che hanno letto in piazza. Questo.» Una pausa. «Se vuoi odiarmi, odiami. Ne hai tutte le ragioni. Io l'ho portato là dentro. Ma non odiare me al posto suo. Lui non si è sbagliato su niente, quella notte. Si è sbagliato solo su una faccia. E chiunque si sarebbe sbagliato.»
 
 Vaan si alzò. Era bianco.
 
-«Non parlare di lui» disse. «Non lo conoscevi. Lo hai conosciuto una notte. Una. Io l'ho conosciuto diciassette anni. Tu non sai niente di lui. Non sai come si arrabbiava quando gli prendevo le cose. Non sai che cantava male. Non sai che aveva promesso di portarmi dal barbiere, e che non l'ha fatto, e che io...» Si fermò. Si portò una mano alla testa, sopra l'orecchio sinistro, dove due colpi di lancia e di bastone gli avevano lasciato un livido. La tenne lì. «Non parlare di lui.»
+«Non parlare di lui» disse. «Non lo conoscevi. Lo hai conosciuto una notte. Una. Io l'ho conosciuto tutta la vita. Tu non sai niente di lui. Non sai come si arrabbiava quando gli prendevo le cose. Non sai che cantava male.» Si fermò e strinse le mani lungo i fianchi. «Non parlare di lui.»
 
 Basch non parlò più.
 

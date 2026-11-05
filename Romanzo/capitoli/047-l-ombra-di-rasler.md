@@ -12,7 +12,7 @@ Lo riconobbe prima di vederlo intero. Le bastarono il modo in cui teneva il capo
 
 «Rasler» disse.
 
-La voce uscì tanto bassa che Vossler la sentì soltanto come un respiro. Il capitano guardò la pietra, poi la faccia di Ashe. Lei aveva smesso di tenere il braccio nella posizione del gesto. La mano si era aperta, le dita tese verso uno spazio vuoto sopra il piedistallo.
+La voce uscì tanto bassa che Vossler la sentì soltanto come un respiro. Vossler guardò la pietra, poi la faccia di Ashe. Lei aveva smesso di tenere il braccio nella posizione del gesto. La mano si era aperta, le dita tese verso uno spazio vuoto sopra il piedistallo.
 
 «Altezza?»
 
@@ -34,7 +34,7 @@ Il principe non rispose. Il suo viso rimase rivolto verso di lei, senza muovere 
 
 Non disse niente.
 
-La principessa mosse la sinistra. La fede scivolò fino alla nocca e lei chiuse le dita, per abitudine. Vide la luce prenderle le piccole tacche dell'oro rosso e dell'argento; il gesto le parve così domestico, davanti a lui, da farle tremare il mento. Era rimasto largo. Doveva sapere anche questo. C'era una fila di cose piccole che non aveva potuto dirgli, e tutte le si affollarono davanti alla più grande.
+La principessa mosse la sinistra. La fede scivolò fino alla nocca e lei chiuse le dita, per abitudine. Vide la luce prenderle le piccole tacche dell'oro rosso e dell'argento; il gesto le parve così domestico, davanti a lui, da farle tremare il mento. L'anello era rimasto largo. Doveva sapere anche questo. C'era una fila di cose piccole che non aveva potuto dirgli, e tutte le si affollarono davanti alla più grande.
 
 «Non l'ho fatto...» cominciò.
 
@@ -60,11 +60,7 @@ Vaan lo vide bene. Non arrivò a un palmo, non si fermò contro qualcosa che gli
 
 Lo ritrasse lentamente. La destra era vuota. La guardò con un'attenzione quasi severa, come se avesse sbagliato un movimento imparato da anni. Poi cercò ancora il viso del marito.
 
-Vaan non fece un altro passo.
-
-Lo aveva già visto. Ci mise un momento a capire dove, e quando lo capì gli venne freddo alle mani. Una mattina di primavera di due anni prima, sul bordo di una cisterna della Città Bassa, con una pesca rubata in mano e Reks che gli diceva di rimetterla a posto. Una carrozza bianca e oro dietro un chocobo che si era fermato a mangiare i petali. Un principe con i capelli chiari che salutava la folla a destra e rideva con tutta la faccia, e accanto a lui una ragazza col velo che non rideva. Vaan allora aveva guardato il principe per due secondi e aveva deciso che uno che ride così a un matrimonio era uno di cui fidarsi, e poi era tornato alla pesca.
-
-Era lui. Non rideva più. Ma era lui.
+«Altezza» disse Basch, dalla scala. Ashe non si voltò. Vaan non fece un altro passo.
 
 Vaan pensò a Reks, che quel giorno aveva indicato i cavalieri e non il principe, e che non avrebbe mai saputo niente di tutto questo. Pensò che di quella mattina, oltre a lui, a ricordarsela intera erano rimasti in pochi, e che uno di quei pochi stava adesso davanti a una pietra, con la mano alzata verso un uomo che non c'era.
 
@@ -78,7 +74,7 @@ Ashe si passò la destra sul palmo sinistro. Il metallo della fede era solido, i
 
 L'uomo cominciò ad allontanarsi. Non camminava nello stesso modo in cui sarebbero scesi loro; la distanza cresceva senza un rumore di suole. Ashe lo seguì per un gradino. Vossler fece per prenderle un braccio, ma Basch gli mise una mano sulla spalla e lo trattenne.
 
-«Che cosa...» cominciò il capitano.
+«Che cosa...» cominciò Vossler.
 
 Basch scosse la testa. Non sapeva rispondergli. Aveva visto la faccia di Ashe abbastanza da capire che un ordine, adesso, sarebbe stato una violenza inutile.
 
@@ -104,7 +100,7 @@ La scala tornò vuota. Una striscia di luce rimase per un istante dove era stato
 
 «Altezza. Guardatemi.»
 
-Ashe si girò verso il capitano. Lo riconobbe, ma impiegò un istante a ricordarsi perché fosse lì. Aveva una bruciatura sul mantello, la stessa che aveva visto pochi minuti prima nella sala di Belias. Non erano passate ore. Non erano passati anni. La pietra era ancora sul piedistallo e lei non l'aveva presa.
+Ashe si girò verso Vossler. Lo riconobbe, ma impiegò un istante a ricordarsi perché fosse lì. Aveva una bruciatura sul mantello, la stessa che aveva visto pochi minuti prima nella sala di Belias. La pietra era ancora sul piedistallo e lei non l'aveva presa.
 
 «Siete ferita?» domandò Vossler.
 
@@ -114,7 +110,7 @@ Lei scosse la testa. Il movimento le portò una fitta dietro le orecchie.
 
 «Lasciami.»
 
-Il capitano non la stava toccando. Abbassò ugualmente la mano che teneva sollevata. Basch rimase vicino alla scala, dando alla principessa il tempo di tornare da sola. Vaan si spostò per non bloccarle la strada. Ashe lo vide e per un istante si fermò su di lui.
+Vossler non la stava toccando. Abbassò ugualmente la mano che teneva sollevata. Basch rimase vicino alla scala, dando alla principessa il tempo di tornare da sola. Vaan si spostò per non bloccarle la strada. Ashe lo vide e per un istante si fermò su di lui.
 
 Il ragazzo aveva gli occhi sulla scala. Li tolse troppo tardi per fingere di aver guardato altro. Lei lo fissò, ma Vossler era ancora al suo fianco, Balthier stava venendo verso il piedistallo e Penelo aveva già in mano la borraccia. La domanda non trovò spazio fra tutte quelle persone vive.
 
@@ -146,7 +142,7 @@ Basch le offrì una pezza pulita per avvolgerla. Ashe non la prese subito. Stava
 
 Basch aspettò di capire a chi fosse rivolta la domanda. Lei aveva gli occhi sulla pietra. «Il richiamo?» disse.
 
-Ashe non rispose. Il capitano lasciò la pezza sul bordo del piedistallo, senza ritirarla come un'offerta rifiutata. Guardò la scala da cui lei era tornata. Non vide nulla oltre la luce.
+Ashe non rispose. Basch lasciò la pezza sul bordo del piedistallo, senza ritirarla come un'offerta rifiutata. Guardò la scala da cui lei era tornata. Non vide nulla oltre la luce.
 
 «Volevate andare lì» disse. «Non vi ho fermata.»
 
@@ -160,13 +156,13 @@ La principessa alzò il viso. Avrebbe potuto chiedergli se avesse visto Rasler, 
 
 «Vi ho chiamata prima.»
 
-Ashe guardò il capitano più giovane, che controllava la porta. Aveva ricevuto da lui cibo, riparo, notizie sbagliate, notizie buone. Due anni di vita erano passati per le sue mani. Lo vedeva ancora cercare una strada sicura anche lì, dove l'unica strada era quella da cui erano venuti. Gli fu grata senza riuscire a dirglielo.
+Ashe guardò Vossler, che controllava la porta. Aveva ricevuto da lui cibo, riparo, notizie sbagliate, notizie buone. Due anni di vita erano passati per le sue mani. Lo vedeva ancora cercare una strada sicura anche lì, dove l'unica strada era quella da cui erano venuti. Gli fu grata senza riuscire a dirglielo.
 
 «Non sono caduta» disse infine a Basch.
 
 «No, altezza.»
 
-Prese la pezza e la avvolse intorno alla pietra. Nel farlo dovette aprire la sinistra; l'anello scivolò di nuovo e lei lo fermò con il mignolo. Il capitano guardò il gesto soltanto un istante, poi distolse gli occhi. Ricordava il pavimento del palazzo, la notte delle nozze, un bagliore che correva verso lo scolo. Non le offrì l'orafo che non aveva più potuto aspettare.
+Prese la pezza e la avvolse intorno alla pietra. Nel farlo dovette aprire la sinistra; l'anello scivolò di nuovo e lei lo fermò con il mignolo. Basch guardò il gesto soltanto un istante, poi distolse gli occhi. Ricordava il pavimento del palazzo, la notte delle nozze, un bagliore che correva verso lo scolo. Non le offrì l'orafo che non aveva più potuto aspettare.
 
 ---
 
@@ -240,13 +236,13 @@ Basch non insistette. Il loro modo di parlare era rimasto quello di uomini che s
 
 «Io resto davanti.»
 
-Il capitano si spostò dal varco. Ashe era già tornata verso gli altri e i due le lasciarono il passaggio senza trasformarlo in un annuncio. La principessa li guardò, riconoscendo per un istante la scorta della propria casa in quelle due posizioni familiari. Poi vide i vestiti bruciati, la camicia del pirata, la sacca sulle spalle di Penelo. Fece cenno a tutti di avvicinarsi.
+Vossler si spostò dal varco. Ashe era già tornata verso gli altri e i due le lasciarono il passaggio senza trasformarlo in un annuncio. La principessa li guardò, riconoscendo per un istante la scorta della propria casa in quelle due posizioni familiari. Poi vide i vestiti bruciati, la camicia del pirata, la sacca sulle spalle di Penelo. Fece cenno a tutti di avvicinarsi.
 
-Basch rimase accanto al piedistallo. Ashe lo superò e raggiunse il congegno, ma prima di toccarlo dovette aprire la mano per far passare un laccio sotto la stoffa. Il capitano le offrì la propria sacca. Lei la guardò, esitò, poi scosse la testa.
+Basch rimase accanto al piedistallo. Ashe lo superò e raggiunse il congegno, ma prima di toccarlo dovette aprire la mano per far passare un laccio sotto la stoffa. Basch le offrì la propria sacca. Lei la guardò, esitò, poi scosse la testa.
 
 «La tengo io.»
 
-Balthier era fermo vicino al passaggio. Aveva ripulito la pistola e rimesso nella cintura il coltello della tomba, ma non sembrava aspettare la partenza con la consueta impazienza. Ashe gli incontrò gli occhi mentre tirava il laccio dell'involto.
+Balthier era fermo vicino al passaggio. Aveva ripulito la pistola e rimesso il coltello nella cintura, ma non sembrava aspettare la partenza con la consueta impazienza. Ashe gli incontrò gli occhi mentre tirava il laccio dell'involto.
 
 «Non hai trovato monete» disse.
 
@@ -284,7 +280,7 @@ Ashe rimase a guardarlo. Il pirata aveva trovato una frase abbastanza irritante 
 
 Raminas le aveva fatto studiare i debiti della corona su tavolette piccole, una per ogni distretto. A lei piacevano quelle dove il conto tornava; il padre le aveva mostrato soprattutto le altre. «Queste sono persone che aspettano» diceva, e le lasciava la tavoletta finché non faceva una domanda meno comoda del perché mancassero monete. Per anni Ashe aveva creduto che fosse una lezione di governo inventata per tenerla lontana dalle lezioni di spada. Ora sentiva sulla schiena il peso delle sacche di chi l'aveva seguita.
 
-La pietra non lo cancellava. Poteva mostrarla al Gran Kiltias, costringere il marchese a chiamarla per nome davanti al mondo; i passi fatti da Penelo sulla sabbia sarebbero rimasti suoi, come il sangue lasciato da Vaan sulla corda del trasporto. Il pensiero la irritò perché le toglieva la semplicità appena ritrovata. Strinse l'involto e raggiunse la ragazza.
+La pietra non lo cancellava. Poteva mostrarla al Gran Kiltias, costringere il marchese a chiamarla per nome davanti al mondo; i passi fatti da Penelo sulla sabbia sarebbero rimasti suoi, come i tagli sul palmo di Vaan. Il pensiero la irritò perché le toglieva la semplicità appena ritrovata. Strinse l'involto e raggiunse la ragazza.
 
 «Hai ancora acqua?» le domandò.
 
@@ -296,15 +292,11 @@ La ragazza guardò la pietra nella sua mano. «Quella non pesa?»
 
 «Meno della sacca.»
 
-Penelo esitò, poi le passò la piccola borsa dei medicamenti, alleggerendo il carico senza fingere di averlo consegnato tutto. Ashe se la mise sulla spalla libera. Un laccio le premette sul punto della bruciatura lasciata dal muro; lo spostò e lasciò che il dolore trovasse un posto sopportabile.
+Penelo esitò, poi le passò la piccola borsa dei medicamenti, alleggerendo il carico senza fingere di averlo consegnato tutto. Ashe se la mise sulla spalla libera. Nel tirare il laccio sentì bruciare di nuovo il palmo scottato contro il pomo della spada; allentò la presa e sistemò la borsa con l'altra mano.
 
 Vaan vide lo scambio senza avvicinarsi. Aveva ancora addosso la certezza di aver visto il principe, ma ormai le persone nella camera avevano ripreso a compiere gesti che conosceva: un conto rimandato, una borraccia controllata, il peso diviso fra due spalle. Si aggrappò a quelli. Quando Penelo gli indicò il capo del laccio che penzolava dalla propria sacca, lo annodò senza fare domande.
 
 Ashe guardò un'ultima volta il piedistallo. Era vuoto in una maniera che il sepolcro sembrava aver previsto, con la scanalatura chiara pronta a raccogliere altra polvere. Pensò alla mano attraversata dal corpo di Rasler e poi al freddo esatto della pietra. Il primo gesto non aveva trattenuto nulla. Il secondo le aveva dato un peso da portare fino a casa. Tirò il laccio sul petto e tornò davanti al congegno.
-
-«Altezza.»
-
-Non c'era una correzione nel titolo. Ashe lo sentì e sollevò gli occhi. Il capitano aveva già ritirato la sacca, accettando la scelta. Lei annuì una volta, senza sapere se fosse un ringraziamento o soltanto il modo di continuare.
 
 Vaan arrivò per ultimo al segno di trasporto. Si voltò ancora verso la scala e vide soltanto pietra. Rimise lo sguardo davanti. La destra di Ashe era chiusa sulla reliquia; la sinistra sul cerchio di metallo troppo largo. Il ragazzo si spostò abbastanza vicino da starle accanto quando la luce si aprì sotto i loro piedi.
 

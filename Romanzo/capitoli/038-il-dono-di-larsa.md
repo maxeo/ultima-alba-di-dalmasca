@@ -1,6 +1,6 @@
 ## 38. Il dono di Larsa
 
-Gli hangar del Leviatano stavano sotto la pancia della nave, e per arrivarci bisognava scendere quattro ponti. Le sirene, a un certo punto, smisero. Non perché qualcuno avesse ritrovato la calma: Balthier, in una sala piena di cristalli dove i soldati di guardia erano corsi via all'allarme lasciando una tazza di tè ancora fumante sul banco, aveva messo le mani sulla chiave che Vossler aveva preso agli ufficiali delle celle, aveva guardato il pannello per tre secondi, ci aveva girato due manopole e ne aveva abbassata una terza, e le sirene si erano spente come un gallo a cui si tira il collo.
+Gli hangar del Leviatano stavano sotto la pancia della nave, e per arrivarci bisognava scendere quattro ponti. Le sirene, a un certo punto, smisero. Non perché qualcuno avesse ritrovato la calma: Balthier, in una sala piena di cristalli dove i soldati di guardia erano corsi via all'allarme lasciando una tazza di tè ancora fumante sul banco, aveva messo le mani sulla chiave che Vossler aveva preso agli ufficiali delle celle, aveva guardato il pannello per tre secondi, ci aveva girato due manopole e abbassato una leva, e le sirene si erano spente come un gallo a cui si tira il collo.
 
 Vaan lo fissò.
 
@@ -156,7 +156,7 @@ Non capiva niente di negalite. Non sapeva che quel sasso grigio beveva la luce d
 
 Se la mise nella tasca della gonna, accanto al fazzoletto di seta color crema.
 
-Poi si girò di colpo verso Balthier, perché il fazzoletto, toccandolo, le aveva ricordato il fazzoletto, e il pirata era lì, a cinque passi, quello vero, con il gilet ricamato e gli anelli e l'aria di uno che aspetta un carro in ritardo. Mise la mano in tasca. Aprì la bocca.
+Le dita sfiorarono la seta nella tasca. Penelo si girò di colpo verso Balthier: era lì, a cinque passi, con il gilet ricamato e gli anelli e l'aria di uno che aspetta un carro in ritardo. Mise la mano in tasca. Aprì la bocca.
 
 «Dobbiamo andare» disse Vossler.
 

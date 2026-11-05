@@ -22,7 +22,7 @@ Vaan lo conosceva. Lo aveva visto da lontano, sul balcone del palazzo, il giorno
 
 «Con il fratello di quello che...» Non trovò un modo di finire la frase che non fosse troppo lungo. Indicò la città con tutto il braccio. «Che ci ha fatto tutto questo.»
 
-«Lo tratterà bene» disse Fran.
+«La tratterà bene» disse Fran.
 
 Vaan si girò verso di lei, pronto a litigare. Ma la viera non aveva detto la frase per consolarlo. L'aveva detta come diceva tutto, come un fatto, guardando la scalinata con le orecchie tese verso il punto in cui i due ragazzi erano spariti.
 
@@ -168,7 +168,7 @@ Dietro il tavolo sedeva un uomo magro, sui cinquant'anni, con la barba grigia e 
 
 «È lui, Havharo. Quello che dice di essere il capitano.»
 
-Havharo lo squadrò. Dalla testa ai piedi, e poi dai piedi alla testa, senza fretta. Si soffermò sui sandali, sulle mani graffiate, sulla bocca ancora unta di zuppa.
+Havharo lo squadrò. Dalla testa ai piedi, e poi dai piedi alla testa, senza fretta. Si soffermò sugli stivali, sulle mani graffiate, sulla bocca ancora unta di zuppa.
 
 «Questo» disse alla fine «potrebbe spacciarsi per il re di Dalmasca con altrettanta credibilità. Forse di più. Il re almeno era basso.»
 
@@ -194,7 +194,7 @@ L'uomo con la mano nella veste fece un passo verso di lui.
 
 Non lo disse a Balthier. Lo disse al suo uomo, e lo disse con una voce diversa, quasi un respiro, perché dietro Balthier, nel corridoio dove si passava solo di lato, era entrato qualcun altro. Fran venne avanti e si scostò. E dietro Fran c'era un uomo alto, che dovette chinarsi sotto l'architrave, e che una volta dentro si raddrizzò e si tolse il cappuccio.
 
-Aveva i capelli biondi, lunghi, legati sulla nuca. Aveva un taglio fresco sotto lo zigomo e una cicatrice sul sopracciglio sinistro. Aveva una giacca da mercante che gli stava stretta di spalle. Stava fermo, con le mani lungo i fianchi, e guardava Havharo senza dire niente, perché non aveva niente da dire che la sua faccia non stesse già dicendo.
+Aveva i capelli biondi, lunghi, legati sulla nuca. Aveva un taglio fresco sotto lo zigomo e una cicatrice sul sopracciglio sinistro. Aveva una giacca da mercante che gli stava larga di spalle. Stava fermo, con le mani lungo i fianchi, e guardava Havharo senza dire niente, perché non aveva niente da dire che la sua faccia non stesse già dicendo.
 
 Havharo si alzò.
 
@@ -206,7 +206,7 @@ Non era una domanda. Era la parola che si dice quando ci si accorge di averla se
 
 Basch inclinò appena la testa. «Non più.»
 
-Havharo lo guardò ancora per un lungo momento. Poi si girò verso Vaan, che stava in mezzo alla stanza con la bocca unta e i sandali impolverati e la gola che bruciava, e lo guardò in un modo completamente diverso, con una specie di rispetto riluttante, come si guarda un cane randagio che ha appena riportato a casa un bambino smarrito.
+Havharo lo guardò ancora per un lungo momento. Poi si girò verso Vaan, che stava in mezzo alla stanza con la bocca unta e gli stivali impolverati e la gola che bruciava, e lo guardò in un modo completamente diverso, con una specie di rispetto riluttante, come si guarda un cane randagio che ha appena riportato a casa un bambino smarrito.
 
 «Allora non mentivi» disse.
 

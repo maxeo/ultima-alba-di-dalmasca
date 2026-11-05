@@ -10,7 +10,7 @@ Questo capitolo è quella riga, e quello che il cancelliere non scrisse.
 
 ---
 
-L'anticamera delle stanze dell'imperatore era una sala lunga, con le pareti di marmo verde scuro e una fila di finestre strette che davano sulle torri, e dalle finestre, a quell'altezza, si vedevano le navi passare sotto. C'erano panche di legno lungo le pareti. Nessuno ci si sedeva. Era una sala fatta per aspettare in piedi.
+L'anticamera delle stanze dell'imperatore era una sala lunga, con le pareti di marmo verde scuro e una fila di finestre strette che davano sulle torri, e dalle finestre, a quell'altezza, si vedevano le navi passare sotto. C'erano panche di legno con i sedili di velluto lungo le pareti. Restavano quasi sempre vuote. Era una sala fatta per aspettare in piedi.
 
 Quel pomeriggio aspettavano in quattro.
 
@@ -152,7 +152,7 @@ Non lo aveva visto arrivare. Non c'era stato nessun passaggio, nessuna preparazi
 
 «Sì, Maestà.»
 
-«Landis era una repubblica. Piccola, ostinata, fiera. Aveva un senato che funzionava meglio del mio e un esercito che non funzionava affatto.» L'imperatore parlava piano, guardando fuori. «Gliel'ho presa io. Avevo quarantacinque anni e mi pareva una buona idea. Era sulla strada per le miniere del nord. Ho mandato tre legioni e un Giudice, e in una stagione Landis non c'era più.» Si voltò verso il Giudice. «Tu dov'eri?»
+«Landis era una repubblica. Piccola, ostinata, fiera. Aveva un senato che funzionava meglio del mio e un esercito che non funzionava affatto.» L'imperatore parlava piano, guardando fuori. «Gliel'ho presa io. Avevo quarantatré anni e mi pareva una buona idea. Era sulla strada per le miniere del nord. Ho mandato tre legioni e un Giudice, e in una stagione Landis non c'era più.» Si voltò verso il Giudice. «Tu dov'eri?»
 
 «Avevo sedici anni, Maestà.»
 

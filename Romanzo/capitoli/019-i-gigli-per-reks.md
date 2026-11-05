@@ -24,7 +24,7 @@ Reks guardava il soffitto.
 
 Reks non si mosse.
 
-Il cucchiaio. Vaan si accorse che aveva anche il cucchiaio, nell'altra mano, accanto ai gigli; ce l'aveva sempre avuto. Lo guardò. Era il cucchiaio di stagno con il manico piegato che Migelo gli aveva dato il primo giorno, quando avevano portato su Reks dal carro, e gli aveva detto: dagli l'acqua così, un poco alla volta, sulle labbra, che non si affoghi. Vaan glielo aveva dato così per tutte quelle settimane, un poco alla volta. E ogni volta, all'inizio, aveva detto qualcosa. Bevi. Dai. Un altro. Poi aveva smesso di dirlo, perché Reks non rispondeva mai, e aveva cominciato a raccontargli le cose invece, quello che succedeva fuori, i soldati, la bottega, Penelo, e non aveva più smesso.
+Il cucchiaio. Vaan si accorse che aveva anche il cucchiaio, nell'altra mano, accanto ai gigli; ce l'aveva sempre avuto. Lo guardò. Era il cucchiaio di stagno con il manico piegato che Migelo gli aveva dato il primo giorno, quando avevano portato su Reks dal carro, e gli aveva detto: dagli l'acqua così, un poco alla volta, sulle labbra, che non si affoghi. Vaan gli aveva dato da bere così per tutte quelle settimane, un poco alla volta. E ogni volta, all'inizio, aveva detto qualcosa. Bevi. Dai. Un altro. Poi aveva smesso di dirlo, perché Reks non rispondeva mai, e aveva cominciato a raccontargli le cose invece, quello che succedeva fuori, i soldati, la bottega, Penelo, e non aveva più smesso.
 
 «Reks» disse. «C'è una cosa che devo chiederti.»
 
@@ -36,7 +36,7 @@ Reks non rispose.
 
 «Perché se l'hai visto» disse Vaan, e la voce gli si fece più veloce, più bassa «se l'hai visto, allora va bene, allora è così e basta. Ma se non l'hai visto, se è stato qualcun altro, se lui ti ha preso in giro, se ti ha portato là dentro perché eri un ragazzo e i ragazzi non fanno domande, allora... allora dimmelo. Dimmelo e io lo so. Io non so niente, Reks. Sono due anni che non so niente. Mi hanno portato a casa te, su un carro, e tu non parlavi, e io non sapevo cosa ti era successo, e poi lo hanno letto in piazza e io ci ho creduto perché era scritto su un foglio. Ma tu c'eri. Tu lo sai.»
 
-Gli prese la mano. Era la sinistra, quella dalla parte della manica mancante. Era tiepida.
+Gli prese la mano. Era la destra, quella dalla parte della manica mancante. Era tiepida.
 
 «Dimmelo e basta.»
 
@@ -74,7 +74,7 @@ Vaan seguì lo sguardo. Accanto al suo piede, a un palmo, c'era una mano. Usciva
 
 «Abituati» disse Balthier. Non lo disse duro. Lo disse come un'informazione utile. «Non te lo dico per cattiveria. Te lo dico perché se fai un salto così ogni volta, qui dentro, non arrivi a domani. Ti stanchi. E chi si stanca, qui, finisce sotto gli stracci.»
 
-Vaan guardò la mano. Poi guardò Balthier. Poi si portò una mano al petto, sotto la camicia, e la pietra c'era ancora, tiepida, quieta. Nessuno gliel'aveva presa. Non capiva perché, e decise che non era il momento di capirlo.
+Vaan guardò la mano. Poi guardò Balthier. Infilò le dita sotto la camicia, nella fascia, e trovò la pietra ancora incastrata fra le pieghe. La spilla di Reks gli scivolò fuori dal colletto; la rimise dentro.
 
 «E Fran?»
 
@@ -126,7 +126,7 @@ Il colpo gli arrivò sopra l'orecchio sinistro. Di nuovo lì.
 
 ---
 
-Si svegliò in mezzo alla conca. Lo avevano trascinato al centro, per le caviglie; aveva la camicia tirata su fino alle ascelle e la schiena graffiata dalla pietra. Il cancello di ferro era chiuso. Intorno a lui, in piedi, c'erano i tre Seeq; il quarto era tornato sul bordo, con gli spettatori, ad assistere. Vaan si portò la mano al fianco, dove c'era la spada, e la spada non c'era, naturalmente, l'avevano presa i soldati nei canali; si portò la mano al petto, e la pietra c'era. Se ne ricordò come ci si ricorda di una cosa assurda in un momento sbagliato.
+Si svegliò in mezzo alla conca. Lo avevano trascinato al centro, per le caviglie; aveva la camicia tirata su fino alle ascelle e la schiena graffiata dalla pietra. Il cancello di ferro era chiuso. Intorno a lui, in piedi, c'erano i tre Seeq; il quarto era tornato sul bordo, con gli spettatori, ad assistere. Vaan cercò la spada al fianco e trovò solo la fascia rossa, con la pietra ancora stretta dentro. Si tirò giù la camicia prima che i Seeq la vedessero.
 
 Il primo Seeq fece schioccare il bastone nel palmo. Gli altri due risero.
 
