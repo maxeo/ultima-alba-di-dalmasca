@@ -68,9 +68,9 @@ Basch aprì gli occhi.
 
 «Il Mystes non conosce i confini» disse Fran.
 
-«Appunto. È il suo difetto principale.» Balthier si sedette su una pietra, si guardò gli stivali e li trovò, a giudicare dalla faccia, irrecuperabili. «Sapete qual è la regola, in questi casi? Il protagonista esce per ultimo dalla montagna che crolla, con la polvere addosso ma il ciuffo al suo posto. Io sono uscito per terzo. Con il ciuffo nella sabbia.» Si toccò la testa. «Qualcuno, qui, sta scrivendo male questa storia.»
+«Appunto. È il suo difetto principale.» Balthier si sedette su una pietra, si guardò gli stivali e li trovò, a giudicare dalla faccia, irrecuperabili. «Sapete qual è la regola, in questi casi? Il protagonista esce per ultimo dalla montagna che crolla, con la polvere addosso ma il ciuffo al suo posto. Io sono uscito per secondo, dietro una viera. Con il ciuffo nella sabbia.» Si toccò la testa. «Qualcuno, qui, sta scrivendo male questa storia.»
 
-«Sei uscito per secondo» disse Fran. «Correvi.»
+«Dietro di me» disse Fran. «Correvi.»
 
 «Correvo con stile.»
 
