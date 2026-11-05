@@ -1,0 +1,650 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>L'ultima alba di Dalmasca</title>
+<meta name="description" content="Audiolibro del romanzo di fan tratto da Final Fantasy XII.">
+<meta name="theme-color" content="#14121c">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icona.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icona.svg">
+<style>
+:root {
+  color-scheme: dark;
+  --sfondo: #14121c; --pannello: #1e1b29; --rilievo: #2a2638; --linea: #383247;
+  --testo: #f1ece3; --tenue: #a9a2b5; --accento: #e9a65b; --su-accento: #241607; --evid: #e9a65b2e;
+  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+:root[data-tema="chiaro"] {
+  color-scheme: light;
+  --sfondo: #f8f3ea; --pannello: #fffcf6; --rilievo: #efe7d9; --linea: #dcd1bf;
+  --testo: #2a2230; --tenue: #6d6474; --accento: #a4590f; --su-accento: #fff; --evid: #e9a65b4d;
+}
+@media (prefers-color-scheme: light) {
+  :root:not([data-tema="scuro"]) {
+    color-scheme: light;
+    --sfondo: #f8f3ea; --pannello: #fffcf6; --rilievo: #efe7d9; --linea: #dcd1bf;
+    --testo: #2a2230; --tenue: #6d6474; --accento: #a4590f; --su-accento: #fff; --evid: #e9a65b4d;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--sfondo); color: var(--testo); font: 16px/1.45 var(--sans); padding-bottom: 190px; }
+button, select, input { font: inherit; color: inherit; }
+button { background: none; border: 0; cursor: pointer; border-radius: 10px; }
+button:focus-visible, summary:focus-visible, select:focus-visible, input:focus-visible { outline: 2px solid var(--accento); outline-offset: 2px; }
+.nascosto { display: none !important; }
+main, header.alto { max-width: 760px; margin: 0 auto; padding: 0 16px; }
+header.alto { padding-top: 44px; padding-bottom: 8px; }
+h1 { font: 500 clamp(32px, 8vw, 50px)/1.08 var(--serif); margin: 0 0 8px; text-wrap: balance; }
+.sotto { color: var(--tenue); margin: 0; }
+.totale { margin-top: 22px; }
+.totale .riga { display: flex; justify-content: space-between; gap: 12px; font-size: 14px; color: var(--tenue); margin-bottom: 6px; }
+.barra { height: 4px; background: var(--rilievo); border-radius: 2px; overflow: hidden; }
+.barra i { display: block; height: 100%; background: var(--accento); width: 0; }
+.riprendi { display: block; width: 100%; text-align: left; margin-top: 20px; padding: 14px 16px; background: var(--accento); color: var(--su-accento); border-radius: 14px; }
+.riprendi small { display: block; opacity: .8; font-size: 13px; }
+.riprendi b { font: 500 19px/1.25 var(--serif); }
+nav.filtri { display: flex; gap: 8px; overflow-x: auto; padding: 22px 0 6px; scrollbar-width: none; }
+nav.filtri button { white-space: nowrap; padding: 7px 13px; border: 1px solid var(--linea); border-radius: 999px; font-size: 14px; color: var(--tenue); min-height: 38px; }
+nav.filtri button[aria-pressed="true"] { background: var(--testo); color: var(--sfondo); border-color: var(--testo); }
+details.parte { border-bottom: 1px solid var(--linea); }
+details.parte summary { list-style: none; cursor: pointer; display: flex; justify-content: space-between; align-items: baseline; gap: 12px; padding: 16px 0; font: 500 20px/1.25 var(--serif); }
+details.parte summary::-webkit-details-marker { display: none; }
+details.parte summary small { font: 13px var(--sans); color: var(--tenue); white-space: nowrap; }
+.cap { display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 4px; border-top: 1px solid var(--linea); }
+.cap .apri { display: grid; grid-template-columns: 34px 1fr; gap: 6px; text-align: left; padding: 11px 0; min-height: 48px; border-radius: 6px; width: 100%; }
+.cap .num { color: var(--tenue); font-variant-numeric: tabular-nums; font-size: 14px; padding-top: 2px; }
+.cap .tit { font: 17px/1.3 var(--serif); }
+.cap .inf { display: block; font: 13px var(--sans); color: var(--tenue); margin-top: 2px; }
+.cap .barra { margin-top: 7px; height: 3px; }
+.cap.corrente .tit { color: var(--accento); }
+.cap.fatto .tit { color: var(--tenue); }
+.cap.assente { opacity: .45; }
+.salva { width: 44px; height: 44px; display: grid; place-items: center; color: var(--tenue); font-size: 12px; font-variant-numeric: tabular-nums; }
+.salva[aria-pressed="true"] { color: var(--accento); }
+svg.ic { width: 22px; height: 22px; fill: currentColor; display: block; }
+.vuoto { color: var(--tenue); padding: 24px 0; }
+.segno { display: grid; grid-template-columns: 1fr 44px; align-items: center; border-top: 1px solid var(--linea); }
+.segno button.vai { text-align: left; padding: 11px 0; }
+.segno small { display: block; color: var(--tenue); font-size: 13px; }
+.strumenti { margin-top: 28px; padding-top: 14px; border-top: 1px solid var(--linea); color: var(--tenue); font-size: 14px; }
+.strumenti .az { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0; }
+.strumenti button, .strumenti label.btn { padding: 8px 12px; border: 1px solid var(--linea); border-radius: 10px; min-height: 40px; color: var(--testo); cursor: pointer; display: inline-flex; align-items: center; }
+.avviso { font-size: 13px; margin-top: 16px; }
+
+/* Lettore fisso */
+.lettore { position: fixed; left: 0; right: 0; bottom: 0; background: var(--pannello); border-top: 1px solid var(--linea); padding: 10px 16px calc(10px + env(safe-area-inset-bottom)); z-index: 5; }
+.lettore > div { max-width: 760px; margin: 0 auto; }
+.ora { display: flex; justify-content: space-between; align-items: center; gap: 8px; min-width: 0; }
+.ora .nome { min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font: 16px/1.3 var(--serif); }
+.tempo { display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 10px; font-size: 12px; color: var(--tenue); font-variant-numeric: tabular-nums; }
+input[type=range] { width: 100%; accent-color: var(--accento); height: 28px; margin: 0; }
+.comandi { display: flex; justify-content: space-between; align-items: center; gap: 2px; }
+.comandi button, .comandi select { min-width: 44px; height: 44px; display: grid; place-items: center; }
+.comandi select { background: var(--pannello); border: 0; border-radius: 10px; font-size: 14px; color: var(--tenue); padding: 0 2px; width: 58px; }
+.comandi .sec { font-size: 12px; font-weight: 600; font-variant-numeric: tabular-nums; }
+.comandi .play { width: 54px; height: 54px; border-radius: 50%; background: var(--accento); color: var(--su-accento); }
+.comandi button:disabled { opacity: .35; cursor: default; }
+.comandi button.attivo { color: var(--accento); }
+
+/* Testo che segue la voce */
+.pagina { position: fixed; inset: 0 0 auto 0; bottom: 0; background: var(--sfondo); z-index: 4; display: flex; flex-direction: column; }
+.pagina header { display: flex; align-items: center; gap: 6px; padding: 8px 12px; border-bottom: 1px solid var(--linea); }
+.pagina header .t { flex: 1; min-width: 0; font: 16px var(--serif); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.pagina header button { min-width: 44px; height: 44px; display: grid; place-items: center; }
+.pagina header button.lett { font: 600 15px var(--serif); }
+.corpo { flex: 1; overflow-y: auto; padding: 20px 16px 200px; }
+.corpo article { max-width: 640px; margin: 0 auto; font: var(--dim, 19px)/1.6 var(--serif); }
+.corpo p { margin: 0 0 .9em; }
+.corpo p.h { font-size: 1.25em; text-align: center; margin: 1.2em 0; line-height: 1.25; }
+.corpo span { cursor: pointer; border-radius: 3px; transition: background .2s; }
+.corpo span.ora-qui { background: var(--evid); }
+.segui { position: fixed; right: 16px; bottom: 186px; z-index: 6; padding: 9px 14px; background: var(--testo); color: var(--sfondo); border-radius: 999px; font-size: 14px; }
+.annuncio { position: fixed; left: 50%; transform: translateX(-50%); bottom: 186px; background: var(--testo); color: var(--sfondo); padding: 8px 14px; border-radius: 10px; font-size: 14px; z-index: 7; max-width: calc(100vw - 32px); }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
+</style>
+</head>
+<body>
+<svg style="display:none" aria-hidden="true">
+  <symbol id="i-play" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></symbol>
+  <symbol id="i-pausa" viewBox="0 0 24 24"><path d="M7 5h4v14H7zM13 5h4v14h-4z"/></symbol>
+  <symbol id="i-prec" viewBox="0 0 24 24"><path d="M6 5h2v14H6zM20 5v14L9 12z"/></symbol>
+  <symbol id="i-succ" viewBox="0 0 24 24"><path d="M16 5h2v14h-2zM4 5v14l11-7z"/></symbol>
+  <symbol id="i-testo" viewBox="0 0 24 24"><path d="M4 5h16v2H4zM4 9h16v2H4zM4 13h16v2H4zM4 17h10v2H4z"/></symbol>
+  <symbol id="i-segno" viewBox="0 0 24 24"><path d="M6 3h12v18l-6-4-6 4z"/></symbol>
+  <symbol id="i-scarica" viewBox="0 0 24 24"><path d="M11 3h2v10l4-4 1.4 1.4L12 16.8l-6.4-6.4L7 9l4 4zM5 19h14v2H5z"/></symbol>
+  <symbol id="i-ok" viewBox="0 0 24 24"><path d="M9.5 17.2 4.8 12.5l1.4-1.4 3.3 3.3 8.3-8.3 1.4 1.4z"/></symbol>
+  <symbol id="i-chiudi" viewBox="0 0 24 24"><path d="m6.4 5 5.6 5.6L17.6 5 19 6.4 13.4 12l5.6 5.6-1.4 1.4-5.6-5.6L6.4 19 5 17.6l5.6-5.6L5 6.4z"/></symbol>
+  <symbol id="i-luna" viewBox="0 0 24 24"><path d="M14 3a9 9 0 1 0 7 14.6A8 8 0 0 1 14 3z"/></symbol>
+</svg>
+
+<header class="alto">
+  <h1>L'ultima alba di Dalmasca</h1>
+  <p class="sotto">Romanzo di fan tratto da <i>Final Fantasy XII</i>. Audiolibro.</p>
+  <div class="totale">
+    <div class="riga"><span id="tot-a"></span><span id="tot-b"></span></div>
+    <div class="barra"><i id="tot-barra"></i></div>
+  </div>
+  <button id="riprendi" class="riprendi nascosto"></button>
+</header>
+
+<main>
+  <nav class="filtri" aria-label="Filtra i capitoli">
+    <button data-f="tutti" aria-pressed="true">Tutti</button>
+    <button data-f="corso" aria-pressed="false">Da finire</button>
+    <button data-f="salvati" aria-pressed="false">Sul dispositivo</button>
+    <button data-f="segni" aria-pressed="false">Segnalibri</button>
+  </nav>
+  <div id="elenco"></div>
+  <section class="strumenti">
+    <div id="spazio"></div>
+    <div class="az">
+      <button id="salva-prossimi">Salva i prossimi 5</button>
+      <button id="tema">Cambia tema</button>
+      <button id="esporta">Esporta progressi</button>
+      <label class="btn">Importa progressi<input id="importa" type="file" accept="application/json" class="nascosto"></label>
+    </div>
+    <p>I progressi restano in questo browser. Per passarli a un altro dispositivo, esportali e importali.</p>
+    <p class="avviso">Opera di fan, non ufficiale e non commerciale, senza legami con Square Enix. <i>Final Fantasy XII</i>, la sua trama, i suoi personaggi e il suo mondo appartengono a Square Enix. Voce sintetica. <a href="https://github.com/maxeo/ultima-alba-di-dalmasca" style="color:inherit">Progetto su GitHub</a>.</p>
+  </section>
+</main>
+
+<section id="pagina" class="pagina nascosto" aria-label="Testo del capitolo">
+  <header>
+    <button id="chiudi-pagina" aria-label="Chiudi il testo"><svg class="ic"><use href="#i-chiudi"/></svg></button>
+    <div class="t" id="pagina-t"></div>
+    <button class="lett" id="piu-piccolo" aria-label="Testo più piccolo">A−</button>
+    <button class="lett" id="piu-grande" aria-label="Testo più grande">A+</button>
+  </header>
+  <div class="corpo" id="corpo"><article id="articolo"></article></div>
+</section>
+<button id="segui" class="segui nascosto">Segui la voce</button>
+<div id="annuncio" class="annuncio nascosto" role="status"></div>
+
+<section class="lettore" aria-label="Lettore audio">
+  <div>
+    <div class="ora"><div class="nome" id="nome">Scegli un capitolo</div></div>
+    <div class="tempo">
+      <span id="t-ora">0:00</span>
+      <input id="cursore" type="range" min="0" max="1000" value="0" aria-label="Posizione nel capitolo">
+      <span id="t-resto">0:00</span>
+    </div>
+    <div class="comandi">
+      <button id="testo" aria-label="Mostra il testo"><svg class="ic"><use href="#i-testo"/></svg></button>
+      <button id="prec" aria-label="Capitolo precedente"><svg class="ic"><use href="#i-prec"/></svg></button>
+      <button id="indietro" class="sec" aria-label="Indietro di 15 secondi">−15</button>
+      <button id="play" class="play" aria-label="Riproduci"><svg class="ic"><use id="play-ic" href="#i-play"/></svg></button>
+      <button id="avanti" class="sec" aria-label="Avanti di 30 secondi">+30</button>
+      <button id="succ" aria-label="Capitolo successivo"><svg class="ic"><use href="#i-succ"/></svg></button>
+      <select id="velocita" aria-label="Velocità">
+        <option value="0.8">0,8×</option><option value="0.9">0,9×</option><option value="1" selected>1×</option>
+        <option value="1.1">1,1×</option><option value="1.25">1,25×</option><option value="1.5">1,5×</option><option value="1.75">1,75×</option><option value="2">2×</option>
+      </select>
+    </div>
+    <div class="comandi">
+      <button id="segna" aria-label="Aggiungi un segnalibro"><svg class="ic"><use href="#i-segno"/></svg></button>
+      <button id="sonno" class="sec" aria-label="Timer di spegnimento: spento" style="width:auto;padding:0 10px"><svg class="ic"><use href="#i-luna"/></svg></button>
+      <button id="fatto" class="sec" style="width:auto;padding:0 10px;font-weight:500">Segna come ascoltato</button>
+    </div>
+  </div>
+</section>
+<audio id="a" preload="metadata"></audio>
+
+<script>
+'use strict';
+const $ = id => document.getElementById(id);
+const a = $('a');
+const CHIAVE = 'alba-stato-v1', CACHE = 'alba-audio-v1';
+const leggi = () => { try { return JSON.parse(localStorage.getItem(CHIAVE)) || {}; } catch { return {}; } };
+let stato = Object.assign({ cap: {}, segni: [], ultimo: null, velocita: 1, dim: 19, tema: null }, leggi());
+const salvaStato = () => { try { localStorage.setItem(CHIAVE, JSON.stringify(stato)); } catch {} };
+
+let capitoli = [], parti = [], corrente = null, salvati = new Set(), inCorso = new Map(), filtro = 'tutti';
+let cue = [], cueOra = -1, seguiVoce = true, trascinando = false, timerSonno = null, fineSonno = 0, ultimoSalvataggio = 0;
+
+const pad = n => String(n).padStart(2, '0');
+function hms(s) {
+  s = Math.max(0, Math.floor(s || 0));
+  const h = Math.floor(s / 3600), m = Math.floor(s / 60) % 60;
+  return h ? `${h}:${pad(m)}:${pad(s % 60)}` : `${m}:${pad(s % 60)}`;
+}
+function durataTesto(s) {
+  const h = Math.floor(s / 3600), m = Math.round((s % 3600) / 60);
+  return h ? `${h} h ${m} min` : `${m} min`;
+}
+const mb = b => (b / 1048576).toFixed(0).replace('.', ',') + ' MB';
+const pronti = () => capitoli.filter(c => c.durata);
+const sc = n => stato.cap[n] || (stato.cap[n] = { pos: 0, fatto: false });
+const percorso = (c, cart, est) => `${cart}/${String(c.n).padStart(3, '0')}.${est}`;
+const assoluto = p => new URL(p, location.href).href;
+
+function annuncia(t) {
+  const el = $('annuncio');
+  el.textContent = t;
+  el.classList.remove('nascosto');
+  clearTimeout(annuncia.t);
+  annuncia.t = setTimeout(() => el.classList.add('nascosto'), 2600);
+}
+
+function el(tag, attr = {}, ...figli) {
+  const e = document.createElement(tag);
+  for (const k in attr) {
+    if (k === 'class') e.className = attr[k];
+    else if (k.startsWith('on')) e.addEventListener(k.slice(2), attr[k]);
+    else e.setAttribute(k, attr[k]);
+  }
+  figli.flat().forEach(f => f != null && e.append(f));
+  return e;
+}
+const icona = id => { const s = document.createElementNS('http://www.w3.org/2000/svg', 'svg'); s.setAttribute('class', 'ic'); const u = document.createElementNS('http://www.w3.org/2000/svg', 'use'); u.setAttribute('href', '#' + id); s.append(u); return s; };
+
+function rigaCapitolo(c) {
+  const s = stato.cap[c.n] || {};
+  const pct = s.fatto ? 100 : (c.durata && s.pos ? Math.min(100, s.pos / c.durata * 100) : 0);
+  let inf = 'In arrivo';
+  if (c.durata) {
+    inf = s.fatto ? `Ascoltato · ${durataTesto(c.durata)}`
+      : s.pos > 5 ? `Restano ${durataTesto(c.durata - s.pos)}` : durataTesto(c.durata);
+  }
+  const inf2 = el('span', { class: 'inf' }, inf);
+  const apri = el('button', { class: 'apri', onclick: () => c.durata && carica(c.n, true), ...(c.durata ? {} : { disabled: '' }) },
+    el('span', { class: 'num' }, String(c.n)),
+    el('span', {}, el('span', { class: 'tit' }, c.titolo), inf2, pct > 0 && !s.fatto ? barra(pct) : null));
+  const r = el('div', { class: 'cap' + (corrente === c.n ? ' corrente' : '') + (s.fatto ? ' fatto' : '') + (c.durata ? '' : ' assente'), id: 'c' + c.n }, apri);
+  if (c.durata) r.append(bottoneSalva(c));
+  return r;
+}
+function barra(p) { const i = el('i'); i.style.width = p + '%'; return el('div', { class: 'barra' }, i); }
+function bottoneSalva(c) {
+  const sal = salvati.has(c.n), prog = inCorso.get(c.n);
+  const nome = sal ? `Togli dal dispositivo il capitolo ${c.n}` : `Salva sul dispositivo il capitolo ${c.n}`;
+  return el('button', { class: 'salva', 'aria-label': nome, 'aria-pressed': String(sal), title: `${mb(c.byte)}`, onclick: () => (sal ? togli(c) : salva(c)) },
+    prog != null ? prog + '%' : icona(sal ? 'i-ok' : 'i-scarica'));
+}
+
+function disegna() {
+  const box = $('elenco');
+  const aperte = new Set([...box.querySelectorAll('details[open]')].map(d => d.dataset.p));
+  box.replaceChildren();
+  if (filtro === 'segni') return disegnaSegni(box);
+  const passa = c => filtro === 'tutti' ? true
+    : filtro === 'salvati' ? salvati.has(c.n)
+    : c.durata && !stato.cap[c.n]?.fatto && stato.cap[c.n]?.pos > 5;
+  let quanti = 0;
+  for (const p of parti) {
+    const lista = capitoli.filter(c => c.parte === p && passa(c));
+    if (!lista.length) continue;
+    quanti += lista.length;
+    const fatti = lista.filter(c => stato.cap[c.n]?.fatto).length;
+    const contiene = lista.some(c => c.n === corrente);
+    const d = el('details', { class: 'parte', 'data-p': p }, el('summary', {}, p, el('small', {}, `${fatti}/${lista.length}`)), lista.map(rigaCapitolo));
+    d.open = filtro !== 'tutti' || aperte.has(p) || contiene || (!aperte.size && !corrente && p === parti[0]);
+    box.append(d);
+  }
+  if (!quanti) box.append(el('p', { class: 'vuoto' }, filtro === 'salvati' ? 'Nessun capitolo salvato su questo dispositivo.' : 'Nessun capitolo da finire.'));
+  disegnaTotale();
+}
+function disegnaSegni(box) {
+  if (!stato.segni.length) return box.append(el('p', { class: 'vuoto' }, 'Nessun segnalibro. Aggiungine uno dal lettore mentre ascolti.'));
+  [...stato.segni].sort((x, y) => x.n - y.n || x.t - y.t).forEach(s => {
+    const c = capitoli.find(k => k.n === s.n);
+    box.append(el('div', { class: 'segno' },
+      el('button', { class: 'vai', onclick: () => carica(s.n, true, s.t) }, s.frase || `Capitolo ${s.n}`, el('small', {}, `${s.n}. ${c ? c.titolo : ''} · ${hms(s.t)}`)),
+      el('button', { class: 'salva', 'aria-label': 'Togli il segnalibro', onclick: () => { stato.segni = stato.segni.filter(x => x !== s); salvaStato(); disegna(); } }, icona('i-chiudi'))));
+  });
+}
+function disegnaTotale() {
+  const p = pronti();
+  const tot = p.reduce((x, c) => x + c.durata, 0);
+  const asc = p.reduce((x, c) => { const s = stato.cap[c.n]; return x + (s?.fatto ? c.durata : Math.min(s?.pos || 0, c.durata)); }, 0);
+  const fatti = p.filter(c => stato.cap[c.n]?.fatto).length;
+  $('tot-a').textContent = `${fatti} di ${p.length} capitoli ascoltati`;
+  $('tot-b').textContent = p.length < capitoli.length ? `${p.length} pronti su ${capitoli.length}` : durataTesto(tot);
+  $('tot-barra').style.width = (tot ? asc / tot * 100 : 0) + '%';
+  const u = stato.ultimo && capitoli.find(c => c.n === stato.ultimo);
+  const r = $('riprendi');
+  if (u && u.durata && a.paused) {
+    const s = sc(u.n);
+    r.replaceChildren(el('small', {}, s.fatto ? 'Ricomincia' : `Riprendi da ${hms(s.pos)}`), el('b', {}, `${u.n}. ${u.titolo}`));
+    r.onclick = () => { carica(u.n, true); };
+    r.classList.remove('nascosto');
+  } else r.classList.add('nascosto');
+}
+
+// Riproduzione
+function carica(n, avvia, da) {
+  const c = capitoli.find(k => k.n === n);
+  if (!c || !c.durata) return;
+  salvaPosizione(true);
+  const stesso = corrente === n;
+  corrente = n;
+  stato.ultimo = n;
+  const s = sc(n);
+  const inizio = da != null ? da : (s.fatto ? 0 : s.pos);
+  if (!stesso) {
+    a.src = percorso(c, 'audio', 'mp3');
+    a.playbackRate = stato.velocita;
+    a.addEventListener('loadedmetadata', () => { a.currentTime = inizio; a.playbackRate = stato.velocita; }, { once: true });
+    caricaTesto(c);
+  } else a.currentTime = inizio;
+  if (s.fatto && da == null) { s.fatto = false; s.pos = 0; }
+  $('nome').textContent = `${c.n}. ${c.titolo}`;
+  $('pagina-t').textContent = `${c.n}. ${c.titolo}`;
+  aggiornaFatto();
+  aggiornaMedia(c);
+  salvaStato();
+  if (avvia) a.play().catch(() => annuncia('Premi play per iniziare.'));
+  location.hash = String(n);
+  disegna();
+  aggiornaTempo();
+}
+function adiacente(d) {
+  const p = pronti(), i = p.findIndex(c => c.n === corrente);
+  return p[i + d];
+}
+function salvaPosizione(forza) {
+  if (corrente == null || !isFinite(a.currentTime)) return;
+  const ora = Date.now();
+  if (!forza && ora - ultimoSalvataggio < 4000) return;
+  ultimoSalvataggio = ora;
+  if (a.currentTime > 0) { sc(corrente).pos = a.currentTime; salvaStato(); }
+}
+function aggiornaTempo() {
+  const c = capitoli.find(k => k.n === corrente);
+  const d = isFinite(a.duration) && a.duration ? a.duration : (c?.durata || 0);
+  const t = a.currentTime || (c ? sc(c.n).pos : 0) || 0;
+  $('t-ora').textContent = hms(t);
+  $('t-resto').textContent = '−' + hms(d - t);
+  if (!trascinando) $('cursore').value = d ? t / d * 1000 : 0;
+  segnaCue(t);
+}
+function aggiornaFatto() {
+  const s = corrente != null ? sc(corrente) : null;
+  $('fatto').textContent = s?.fatto ? 'Segna come da ascoltare' : 'Segna come ascoltato';
+}
+function aggiornaMedia(c) {
+  if (!('mediaSession' in navigator)) return;
+  navigator.mediaSession.metadata = new MediaMetadata({
+    title: `${c.n}. ${c.titolo}`, artist: "L'ultima alba di Dalmasca", album: c.parte,
+    artwork: [{ src: assoluto('icona.svg'), sizes: '512x512', type: 'image/svg+xml' }]
+  });
+}
+function posizioneMedia() {
+  if ('mediaSession' in navigator && isFinite(a.duration) && a.duration) {
+    try { navigator.mediaSession.setPositionState({ duration: a.duration, position: Math.min(a.currentTime, a.duration), playbackRate: a.playbackRate }); } catch {}
+  }
+}
+const salta = d => { if (corrente != null) { a.currentTime = Math.max(0, a.currentTime + d); aggiornaTempo(); } };
+
+a.addEventListener('play', () => { $('play-ic').setAttribute('href', '#i-pausa'); $('play').setAttribute('aria-label', 'Pausa'); disegnaTotale(); });
+a.addEventListener('pause', () => { $('play-ic').setAttribute('href', '#i-play'); $('play').setAttribute('aria-label', 'Riproduci'); salvaPosizione(true); disegna(); });
+a.addEventListener('timeupdate', () => { aggiornaTempo(); salvaPosizione(); });
+a.addEventListener('loadedmetadata', posizioneMedia);
+a.addEventListener('seeked', posizioneMedia);
+a.addEventListener('error', () => { if (a.src) annuncia('Audio non disponibile. Controlla la connessione.'); });
+a.addEventListener('ended', () => {
+  const s = sc(corrente); s.fatto = true; s.pos = 0; salvaStato(); aggiornaFatto();
+  const n = adiacente(1);
+  if (n) carica(n.n, true, 0); else disegna();
+});
+
+$('play').onclick = () => {
+  if (corrente == null) { const u = stato.ultimo || pronti()[0]?.n; if (u) carica(u, true); return; }
+  a.paused ? a.play() : a.pause();
+};
+$('indietro').onclick = () => salta(-15);
+$('avanti').onclick = () => salta(30);
+$('prec').onclick = () => { const p = adiacente(-1); if (p) carica(p.n, !a.paused, 0); };
+$('succ').onclick = () => { const p = adiacente(1); if (p) carica(p.n, !a.paused, 0); };
+$('velocita').onchange = e => { stato.velocita = +e.target.value; a.playbackRate = stato.velocita; salvaStato(); posizioneMedia(); };
+const cur = $('cursore');
+cur.addEventListener('input', () => {
+  trascinando = true;
+  const c = capitoli.find(k => k.n === corrente);
+  const d = isFinite(a.duration) && a.duration ? a.duration : c?.durata || 0;
+  $('t-ora').textContent = hms(cur.value / 1000 * d);
+});
+cur.addEventListener('change', () => {
+  trascinando = false;
+  const c = capitoli.find(k => k.n === corrente);
+  const d = isFinite(a.duration) && a.duration ? a.duration : c?.durata || 0;
+  if (corrente != null) a.currentTime = cur.value / 1000 * d;
+});
+$('fatto').onclick = () => {
+  if (corrente == null) return;
+  const s = sc(corrente); s.fatto = !s.fatto; if (s.fatto) s.pos = 0;
+  salvaStato(); aggiornaFatto(); disegna();
+};
+$('segna').onclick = () => {
+  if (corrente == null) return;
+  const t = a.currentTime || 0, frase = cue[cueOra]?.testo || '';
+  stato.segni.push({ n: corrente, t, frase: frase.slice(0, 120) });
+  salvaStato();
+  annuncia('Segnalibro aggiunto.');
+  if (filtro === 'segni') disegna();
+};
+const SONNO = [0, 15, 30, 45, 60];
+$('sonno').onclick = () => {
+  const i = SONNO.indexOf(timerSonno ? timerSonno.min : 0);
+  const min = SONNO[(i + 1) % SONNO.length];
+  if (timerSonno) { clearTimeout(timerSonno.id); timerSonno = null; }
+  const b = $('sonno');
+  if (min) {
+    timerSonno = { min, id: setTimeout(() => { a.pause(); timerSonno = null; b.classList.remove('attivo'); b.replaceChildren(icona('i-luna')); b.setAttribute('aria-label', 'Timer di spegnimento: spento'); }, min * 60000) };
+    b.classList.add('attivo'); b.replaceChildren(icona('i-luna'), ` ${min}′`);
+    b.style.display = 'inline-flex';
+    b.setAttribute('aria-label', `Timer di spegnimento: ${min} minuti`);
+    annuncia(`Si ferma fra ${min} minuti.`);
+  } else {
+    b.classList.remove('attivo'); b.replaceChildren(icona('i-luna'));
+    b.setAttribute('aria-label', 'Timer di spegnimento: spento');
+    annuncia('Timer spento.');
+  }
+};
+if ('mediaSession' in navigator) {
+  const ms = navigator.mediaSession;
+  ms.setActionHandler('play', () => a.play());
+  ms.setActionHandler('pause', () => a.pause());
+  ms.setActionHandler('seekbackward', () => salta(-15));
+  ms.setActionHandler('seekforward', () => salta(30));
+  ms.setActionHandler('previoustrack', () => $('prec').click());
+  ms.setActionHandler('nexttrack', () => $('succ').click());
+  try { ms.setActionHandler('seekto', d => { a.currentTime = d.seekTime; }); } catch {}
+}
+addEventListener('pagehide', () => salvaPosizione(true));
+document.addEventListener('visibilitychange', () => { if (document.hidden) salvaPosizione(true); });
+addEventListener('keydown', e => {
+  if (e.target.matches('input,select')) return;
+  if (e.code === 'Space' && !e.target.matches('button,summary')) { e.preventDefault(); $('play').click(); }
+  if (e.code === 'ArrowLeft') salta(-15);
+  if (e.code === 'ArrowRight') salta(30);
+});
+
+// Testo che segue la voce
+async function caricaTesto(c) {
+  cue = []; cueOra = -1;
+  const art = $('articolo');
+  art.replaceChildren(el('p', {}, 'Carico il testo…'));
+  try {
+    const r = await fetch(percorso(c, 'testi', 'json'));
+    if (!r.ok) throw 0;
+    const par = await r.json();
+    if (corrente !== c.n) return;
+    art.replaceChildren();
+    par.forEach(q => {
+      const p = el('p', q.h ? { class: 'h' } : {});
+      q.c.forEach(([t, testo]) => {
+        const s = el('span', { 'data-i': cue.length }, testo);
+        cue.push({ t, testo, el: s });
+        p.append(s, ' ');
+      });
+      art.append(p);
+    });
+  } catch {
+    if (corrente === c.n) art.replaceChildren(el('p', {}, 'Testo non disponibile senza rete. Salva il capitolo per averlo sempre.'));
+  }
+}
+function segnaCue(t) {
+  if (!cue.length) return;
+  let lo = 0, hi = cue.length - 1, i = 0;
+  while (lo <= hi) { const m = (lo + hi) >> 1; if (cue[m].t <= t + .05) { i = m; lo = m + 1; } else hi = m - 1; }
+  if (i === cueOra) return;
+  cue[cueOra]?.el.classList.remove('ora-qui');
+  cueOra = i;
+  cue[i].el.classList.add('ora-qui');
+  if (seguiVoce && !$('pagina').classList.contains('nascosto')) cue[i].el.scrollIntoView({ block: 'center', behavior: 'smooth' });
+}
+$('articolo').addEventListener('click', e => {
+  const i = e.target.dataset?.i;
+  if (i != null && !getSelection().toString()) { a.currentTime = cue[+i].t; if (a.paused) a.play(); seguiVoce = true; $('segui').classList.add('nascosto'); }
+});
+function altezzaLettore() {
+  const h = document.querySelector('.lettore').offsetHeight;
+  $('pagina').style.bottom = h + 'px';
+  document.body.style.paddingBottom = h + 24 + 'px';
+  $('segui').style.bottom = $('annuncio').style.bottom = h + 12 + 'px';
+  $('corpo').style.paddingBottom = '40px';
+}
+addEventListener('resize', altezzaLettore);
+$('testo').onclick = () => {
+  if (corrente == null) { const u = stato.ultimo || pronti()[0]?.n; if (u) carica(u, false); else return; }
+  const pg = $('pagina');
+  const ora = pg.classList.toggle('nascosto');
+  $('testo').classList.toggle('attivo', !ora);
+  if (!ora) { seguiVoce = true; altezzaLettore(); setTimeout(() => cue[cueOra]?.el.scrollIntoView({ block: 'center' }), 60); }
+};
+$('chiudi-pagina').onclick = () => { $('pagina').classList.add('nascosto'); $('testo').classList.remove('attivo'); $('segui').classList.add('nascosto'); };
+const staccaSegui = () => { if (seguiVoce && !$('pagina').classList.contains('nascosto')) { seguiVoce = false; $('segui').classList.remove('nascosto'); } };
+$('corpo').addEventListener('wheel', staccaSegui, { passive: true });
+$('corpo').addEventListener('touchmove', staccaSegui, { passive: true });
+$('segui').onclick = () => { seguiVoce = true; $('segui').classList.add('nascosto'); cue[cueOra]?.el.scrollIntoView({ block: 'center', behavior: 'smooth' }); };
+function dimensione(d) {
+  stato.dim = Math.min(30, Math.max(14, stato.dim + d));
+  document.documentElement.style.setProperty('--dim', stato.dim + 'px');
+  salvaStato();
+}
+$('piu-piccolo').onclick = () => dimensione(-1);
+$('piu-grande').onclick = () => dimensione(1);
+
+// Salvataggio sul dispositivo
+async function salva(c) {
+  if (!('caches' in window)) return annuncia('Questo browser non può salvare i capitoli.');
+  if (inCorso.has(c.n)) return;
+  inCorso.set(c.n, 0); disegna();
+  try {
+    if (navigator.storage?.persist) navigator.storage.persist().catch(() => {});
+    const cache = await caches.open(CACHE);
+    const url = assoluto(percorso(c, 'audio', 'mp3'));
+    const r = await fetch(url, { cache: 'no-store' });
+    if (!r.ok) throw new Error(r.status);
+    const lettore = r.body.getReader(), pezzi = [];
+    let letti = 0, ultimo = -1;
+    for (;;) {
+      const { done, value } = await lettore.read();
+      if (done) break;
+      pezzi.push(value); letti += value.length;
+      const pct = Math.floor(letti / c.byte * 100);
+      if (pct !== ultimo) { ultimo = pct; inCorso.set(c.n, Math.min(pct, 99)); aggiornaRiga(c); }
+    }
+    await cache.put(url, new Response(new Blob(pezzi, { type: 'audio/mpeg' }), { headers: { 'Content-Type': 'audio/mpeg', 'Content-Length': String(letti) } }));
+    const urlT = assoluto(percorso(c, 'testi', 'json'));
+    const t = await fetch(urlT, { cache: 'no-store' });
+    if (t.ok) await cache.put(urlT, t);
+    salvati.add(c.n);
+    annuncia(`Capitolo ${c.n} salvato.`);
+  } catch {
+    annuncia(`Salvataggio del capitolo ${c.n} non riuscito.`);
+  }
+  inCorso.delete(c.n);
+  disegna(); spazio();
+}
+function aggiornaRiga(c) {
+  const r = $('c' + c.n);
+  const b = r?.querySelector('.salva');
+  if (b) b.replaceWith(bottoneSalva(c));
+}
+async function togli(c) {
+  const cache = await caches.open(CACHE);
+  await cache.delete(assoluto(percorso(c, 'audio', 'mp3')));
+  await cache.delete(assoluto(percorso(c, 'testi', 'json')));
+  salvati.delete(c.n);
+  annuncia(`Capitolo ${c.n} tolto dal dispositivo.`);
+  disegna(); spazio();
+}
+async function leggiSalvati() {
+  if (!('caches' in window)) return;
+  const cache = await caches.open(CACHE);
+  const chiavi = await cache.keys();
+  salvati = new Set(chiavi.map(r => /audio\/(\d+)\.mp3$/.exec(r.url)).filter(Boolean).map(m => +m[1]));
+}
+function spazio() {
+  const byte = pronti().filter(c => salvati.has(c.n)).reduce((x, c) => x + c.byte, 0);
+  $('spazio').textContent = salvati.size ? `Sul dispositivo: ${salvati.size} capitoli, ${mb(byte)}.` : 'Salva un capitolo con la freccia per ascoltarlo senza rete.';
+}
+$('salva-prossimi').onclick = async () => {
+  const p = pronti(), i = Math.max(0, p.findIndex(c => c.n === (corrente ?? stato.ultimo)));
+  const lista = p.slice(i).filter(c => !salvati.has(c.n)).slice(0, 5);
+  if (!lista.length) return annuncia('Niente da salvare.');
+  for (const c of lista) await salva(c);
+};
+
+// Tema e progressi
+function applicaTema() { if (stato.tema) document.documentElement.dataset.tema = stato.tema; else delete document.documentElement.dataset.tema; }
+$('tema').onclick = () => {
+  const scuroOra = getComputedStyle(document.documentElement).colorScheme.includes('dark');
+  stato.tema = scuroOra ? 'chiaro' : 'scuro';
+  salvaStato(); applicaTema();
+};
+$('esporta').onclick = () => {
+  salvaPosizione(true);
+  const u = URL.createObjectURL(new Blob([JSON.stringify(stato, null, 1)], { type: 'application/json' }));
+  const l = el('a', { href: u, download: 'ultima-alba-progressi.json' });
+  l.click();
+  setTimeout(() => URL.revokeObjectURL(u), 2000);
+};
+$('importa').onchange = async e => {
+  const f = e.target.files[0];
+  if (!f) return;
+  try {
+    const d = JSON.parse(await f.text());
+    if (typeof d !== 'object' || !d.cap) throw 0;
+    stato = Object.assign(stato, { cap: d.cap, segni: Array.isArray(d.segni) ? d.segni : [], ultimo: d.ultimo ?? null });
+    salvaStato(); disegna(); annuncia('Progressi importati.');
+  } catch { annuncia('File non valido.'); }
+  e.target.value = '';
+};
+document.querySelectorAll('nav.filtri button').forEach(b => {
+  b.onclick = () => {
+    filtro = b.dataset.f;
+    document.querySelectorAll('nav.filtri button').forEach(x => x.setAttribute('aria-pressed', String(x === b)));
+    disegna();
+  };
+});
+
+(async function avvia() {
+  applicaTema();
+  document.documentElement.style.setProperty('--dim', stato.dim + 'px');
+  $('velocita').value = String(stato.velocita);
+  altezzaLettore();
+  if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
+  try {
+    const r = await fetch('capitoli.json');
+    ({ capitoli, parti } = await r.json());
+  } catch {
+    $('elenco').replaceChildren(el('p', { class: 'vuoto' }, 'Indice non disponibile. Controlla la connessione e ricarica.'));
+    return;
+  }
+  await leggiSalvati();
+  spazio();
+  const dalLink = parseInt(location.hash.slice(1), 10);
+  const inizio = capitoli.find(c => c.n === dalLink && c.durata) ? dalLink : stato.ultimo;
+  disegna();
+  if (inizio && capitoli.find(c => c.n === inizio)?.durata) carica(inizio, false);
+  addEventListener('hashchange', () => { const n = parseInt(location.hash.slice(1), 10); if (n && n !== corrente) carica(n, false); });
+})();
+</script>
+</body>
+</html>

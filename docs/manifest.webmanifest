@@ -1,0 +1,14 @@
+{
+  "name": "L'ultima alba di Dalmasca",
+  "short_name": "Dalmasca",
+  "description": "Audiolibro del romanzo di fan tratto da Final Fantasy XII.",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#14121c",
+  "theme_color": "#14121c",
+  "icons": [
+    { "src": "icona.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
