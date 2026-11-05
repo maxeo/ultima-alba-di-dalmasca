@@ -411,7 +411,7 @@ Il quarto giorno le aeronavi cambiarono tattica. Smisero di bombardare la barrie
 
 Lo fecero dove nessuno se lo aspettava, sulle torri stesse. Le aeronavi più piccole, quelle rapide che gli archadiani usavano per la ricognizione, scesero rasenti alla cupola fino al punto dove questa toccava la pietra, là dove l'incantesimo era più debole perché doveva piegarsi; lì gettarono funi, e lungo le funi scivolarono soldati in armatura leggera, uno dopo l'altro, a decine. Toccavano le mura già con la spada in mano. Andavano dritti verso i cerchi di gesso.
 
-Basch lo vide dalla piazza d'armi, dove stava riordinando la cavalleria per una sortita. Vide i primi soldati archadiani arrivare sulla torre di nord-est, vide i difensori correre loro incontro e cadere, vide il mago dentro il cerchio continuare a muovere le labbra con le mani alzate mentre la lama lo raggiungeva. Il mago non si difese. Non poteva difendersi senza abbassare le mani. Cadde con la bocca ancora aperta sull'ultima parola.
+Basch lo vide dalla piazza d'armi, dove stava riordinando la cavalleria per una carica. Vide i primi soldati archadiani arrivare sulla torre di nord-est, vide i difensori correre loro incontro e cadere, vide il mago dentro il cerchio continuare a muovere le labbra con le mani alzate mentre la lama lo raggiungeva. Il mago non si difese. Non poteva difendersi senza abbassare le mani. Cadde con la bocca ancora aperta sull'ultima parola.
 
 Sopra la torre di nord-est, la cupola tremò. Per la prima volta in quattro giorni la si vide tutta: una pelle sottile di luce azzurra che andava da un orizzonte all'altro, attraversata da rughe. Poi cadde il mago della torre di nord-ovest. Poi quello della porta grande. Sulle mura, gli altri continuavano a recitare, sempre più in fretta, con le voci che si alzavano e si spezzavano, e uno dopo l'altro venivano raggiunti, e la luce sopra Nalbina si strappò come un velo vecchio e cadde in pezzi che si spensero prima di toccare terra.
 
@@ -427,7 +427,7 @@ Rasler era a venti passi da lui, sulla strada che dalla piazza d'armi portava al
 
 «Di là ci sono tre legioni. Altezza, vi prego.»
 
-Rasler girò il chocobo verso la porta nord. Basch non seppe mai, e non volle mai sapere, se il principe intendesse davvero fare una sortita da solo in quella direzione, o se il suo corpo stesse soltanto andando dove andava il suo pensiero da quattro giorni. Rasler gridò qualcosa. Una parola sola, a voce altissima, che si perse nel fragore delle esplosioni. Basch era abbastanza vicino da capire quale fosse. Era la parola che i figli usano per i padri.
+Rasler girò il chocobo verso la porta nord. Basch non seppe mai, e non volle mai sapere, se il principe intendesse davvero caricare da solo in quella direzione, o se il suo corpo stesse soltanto andando dove andava il suo pensiero da quattro giorni. Rasler gridò qualcosa. Una parola sola, a voce altissima, che si perse nel fragore delle esplosioni. Basch era abbastanza vicino da capire quale fosse. Era la parola che i figli usano per i padri.
 
 Sulla torre di guardia sopra la porta, un arciere archadiano aveva incoccato una freccia.
 
