@@ -82,7 +82,7 @@ Dal fumo uscì una voce.
 
 La voce era enorme, allegra, e la conoscevano.
 
-Dal fumo uscì un uomo grande come un armadio, in un'armatura rossa e oro tutta ammaccata, con un elmo cornuto e un mantello strappato che gli svolazzava dietro. Teneva in mano una spada. Ne teneva anche un'altra. Ne teneva, a contarle, otto: perché dalle sue spalle, dove un uomo normale avrebbe avuto due braccia, ne uscivano otto, quattro per parte, ciascuna con la sua lama, che si muovevano tutte insieme e tutte in direzioni diverse, come le zampe di un ragno ubriaco. Sulla schiena, legato con la solita corda, aveva il solito fascio di spade.
+Dal fumo uscì un uomo grande come un armadio, in un'armatura rossa e oro tutta ammaccata, con un elmo cornuto e un mantello strappato che gli svolazzava dietro. Teneva in mano una spada. Ne teneva anche un'altra. Ne teneva, a contarle, sei: perché dalle sue spalle, dove un uomo normale avrebbe avuto due braccia, ne uscivano sei, tre per parte, ciascuna con la sua lama, che si muovevano tutte insieme e tutte in direzioni diverse, come le zampe di un insetto ubriaco. La pelle che si vedeva fra l'elmo e il collare era grigia. Sulla schiena, legato con la solita corda, aveva il solito fascio di spade.
 
 Vaan si fermò di colpo. Penelo gli finì contro la schiena.
 
@@ -90,7 +90,7 @@ Vaan si fermò di colpo. Penelo gli finì contro la schiena.
 
 «Sì» disse Fran.
 
-«Otto...»
+«Sei...»
 
 «Sì.»
 
@@ -98,7 +98,7 @@ Vaan si fermò di colpo. Penelo gli finì contro la schiena.
 
 «Ad Archades aveva il mantello chiuso» disse Balthier, con l'aria di un uomo che ha appena capito una cosa che lo aveva tormentato a lungo. «Ecco perché si muoveva in quel modo. Pensavo fosse lo stile.»
 
-Le guardie della fortezza fecero un tentativo. Lo fecero tutte insieme, con le lance basse, e Gilgamesh le aspettò con le otto braccia aperte e un grido di gioia, e per qualche momento la piattaforma fu un turbine di metallo e di scudi che volavano e di soldati che si ritrovavano seduti per terra senza sapere come. Non uccise nessuno. Si capiva che non gli interessava. Gli interessavano le spade: ogni volta che una guardia perdeva la sua, una delle otto mani la raccoglieva al volo, la guardava, la soppesava, e la buttava via con disprezzo, oppure la infilava nel fascio sulla schiena con un piccolo verso di approvazione.
+Le guardie della fortezza fecero un tentativo. Lo fecero tutte insieme, con le lance basse, e Gilgamesh le aspettò con le sei braccia aperte e un grido di gioia, e per qualche momento la piattaforma fu un turbine di metallo e di scudi che volavano e di soldati che si ritrovavano seduti per terra senza sapere come. Non uccise nessuno. Si capiva che non gli interessava. Gli interessavano le spade: ogni volta che una guardia perdeva la sua, una delle sei mani la raccoglieva al volo, la guardava, la soppesava, e la buttava via con disprezzo, oppure la infilava nel fascio sulla schiena con un piccolo verso di approvazione.
 
 «Ciarpame!» gridava. «Ciarpame di caserma! Dov'è l'armeria? Dov'è l'armeria dei Giudici? Mi hanno detto che quassù c'è l'armeria dei Giudici!» Si girò, vide la compagnia, e si illuminò. «Tu!»
 
@@ -112,11 +112,11 @@ Indicava Basch. Con quattro spade.
 
 «Dei vigliacchi, lo so» disse Basch. «Me l'hai già detto.»
 
-Gilgamesh restò un momento a bocca aperta, sotto l'elmo, offeso che qualcuno gli avesse rubato la battuta. Balthier ne approfittò. Fece un passo avanti, si sistemò un polsino, e alzò la voce sopra il rumore della battaglia.
+Gilgamesh restò un momento a bocca aperta, sotto l'elmo, offeso che qualcuno gli avesse rubato la battuta. Balthier ne approfittò. Fece un passo avanti e alzò la voce sopra il rumore della battaglia.
 
 «Mio caro amico. Ti dispiacerebbe spostarti? Questa è la nostra entrata. Il protagonista deve passare.»
 
-Gilgamesh si voltò lentamente verso di lui. Lo guardò dall'alto in basso, tutto, dai capelli castani alle scarpe sporche di calce. Poi guardò le proprie otto braccia, una alla volta, come per contarle.
+Gilgamesh si voltò lentamente verso di lui. Lo guardò dall'alto in basso, tutto, dai capelli castani alle scarpe sporche di calce. Poi guardò le proprie sei braccia, una alla volta, come per contarle.
 
 «Il protagonista» disse. «Tu.»
 
@@ -130,7 +130,7 @@ Balthier aprì la bocca.
 
 Gilgamesh scoppiò a ridere. Fu una risata enorme, da caverna, che fece tremare l'elmo e le corna, e mentre rideva mise giù altre tre guardie senza nemmeno guardarle.
 
-«Due! Il protagonista con due braccia! Non si è mai visto!» Si asciugò una lacrima immaginaria con la manopola di una delle mani. «Ascoltami, pirata. Io ho conosciuto molti protagonisti. Li colleziono, quasi come le spade. Durano poco. Hanno sempre due braccia, una faccia carina e un destino tragico. Io invece ho otto braccia, una faccia che nessuno ha mai visto e nessun destino. È per questo che io duro.» Si girò di nuovo verso le guardie. «Passa, passa, protagonista. Ti lascio la scena. Io ho un'armeria da trovare.»
+«Due! Il protagonista con due braccia! Non si è mai visto!» Si asciugò una lacrima immaginaria con la manopola di una delle mani. «Ascoltami, pirata. Io ho conosciuto molti protagonisti. Li colleziono, quasi come le spade. Durano poco. Hanno sempre due braccia, una faccia carina e un destino tragico. Io invece ho sei braccia, una faccia che nessuno ha mai visto e nessun destino. È per questo che io duro.» Si girò di nuovo verso le guardie. «Passa, passa, protagonista. Ti lascio la scena. Io ho un'armeria da trovare.»
 
 E si buttò dentro l'ingresso della fortezza, alla testa di quello che restava delle guardie, che scappavano davanti a lui. Il suo grido si allontanò nei corridoi: «L'armeria! Dov'è l'armeria? Rispondete o vi tolgo le cinture!» Poi si spense, inghiottito dal metallo.
 

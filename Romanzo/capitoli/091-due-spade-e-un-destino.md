@@ -10,7 +10,7 @@ Le barche da pesca di Balfonheim hanno lo scafo dipinto di blu fino alla linea d
 
 Dopo il Grande Cristallo il porto sembrava fatto di cose troppo precise. Il catrame puzzava di catrame, il pesce lasciato al sole puzzava di pesce, e una fune bagnata, se la toccavi, era una fune bagnata e restava tale. A Giruvegan nessuno di loro aveva saputo dire per quanto tempo avesse camminato, né se le scale salissero o scendessero; qui un gabbiano rubò mezza sardina dalla mano di un facchino e il facchino lo maledisse per nome, e Vaan fu così contento di quel gabbiano che quasi lo ringraziò.
 
-Ashe camminava davanti. Portava due spade, e chi la guardava avrebbe detto che ne portava una sola, perché la seconda l'aveva avvolta in un mantello e legata di traverso alla schiena. La Spada dei Re le batteva sul fianco come sempre. L'altra, quella che gli Occuria le avevano messo in mano con la loro gentilezza di marmo, pesava meno di quanto avrebbe dovuto. Ashe se n'era accorta già in discesa, e il fatto di accorgersene la irritava.
+Ashe camminava davanti. Portava due spade di traverso sulla schiena, e chi la guardava avrebbe detto che ne portava una sola, perché la seconda l'aveva avvolta in un mantello accanto alla prima. La Spada dei Re la portava lì da mesi. L'altra, quella che gli Occuria le avevano messo in mano con la loro gentilezza di marmo, pesava meno di quanto avrebbe dovuto. Ashe se n'era accorta già in discesa, e il fatto di accorgersene la irritava.
 
 La dimora di Reddas era aperta. Lo era di solito, perché un signore dei pirati che chiude la porta dà l'idea di avere paura di qualcuno, ma quel giorno era aperta in un altro modo: gente che entrava senza bussare, gente che usciva di corsa, un ragazzo con un rotolo di carte sotto il braccio che per poco non travolse Basch sulla soglia e gli chiese scusa chiamandolo «capitano», senza sapere di avere ragione. Nel salone il grande tavolo era coperto di mappe tenute ferme da tutto quello che c'era a portata di mano: un calamaio, un pugnale, una bottiglia vuota, una scarpa.
 
@@ -164,13 +164,13 @@ Rikken parlò per primo. Rikken parlava sempre per primo, anche quando non sapev
 
 «Ci andiamo tutti» disse Vaan.
 
-«Al Faro.» Rikken guardò Balthier, e Balthier guardò il mare. Fra i due c'era ancora in sospeso la faccenda della gara dell'altra volta, sulla quale ciascuno dava una versione dei fatti che escludeva l'altra, e che a Balfonheim era diventata in pochi giorni un argomento da taverna con due partiti. «Con la tua barchetta.»
+«Al Faro.» Rikken guardò Balthier, e Balthier guardò il mare. Fra i due c'era ancora in sospeso la faccenda delle bottiglie sul molo: cinque su sei per ciascuno, e la sesta portata via da una freccia di Fran, che a Balfonheim era diventata in pochi giorni un argomento da taverna con due partiti, nessuno dei quali era quello di Balthier. «Con la tua barchetta.»
 
-«Con la mia aeronave» disse Balthier. «Che ha vinto.»
+«Con la mia aeronave» disse Balthier. «Che, a differenza di certe pistole, non soffre di vento.»
 
-«Questo è da vedere.»
+«Il vento dentro, dicevi.»
 
-«L'hai visto.»
+«Una condizione dell'anima. Passa.»
 
 Raz, un Seeq dal collo largo e dalle mani piccolissime, spiegò a Penelo che le prime barche erano già fuori dalle secche, che una era tornata con quattro uomini mezzi morti di freddo, che il freddo laggiù era la cosa più strana di tutte, perché c'era il sole e l'acqua gelava lo stesso intorno ai remi. Lo raccontava con un piacere da cronista, e a ogni dettaglio terribile annuiva tra sé, soddisfatto della propria memoria.
 

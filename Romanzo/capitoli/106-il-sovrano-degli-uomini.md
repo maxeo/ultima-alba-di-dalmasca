@@ -44,7 +44,7 @@ Vayne lo guardò. Qualcosa passò sulla sua faccia, rapido come un'ombra di nuvo
 
 «Hai scelto» disse.
 
-Si tolse la giubba. La piegò, con cura, e la posò sul bracciolo del trono vuoto.
+Si tolse il mantello e i guanti bianchi. Li piegò, con cura, e li posò sul bracciolo del trono vuoto.
 
 ---
 

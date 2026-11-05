@@ -164,7 +164,7 @@ Gli altri si erano avviati verso la grande scalinata che portava al Faro. Balthi
 
 «Perché quello che sto per dirti è riservato.» Balthier diede un'occhiata alla scalinata, dove Fran saliva con il passo leggero delle viere, già lontana. «Ecco. Così.»
 
-Vaan aspettò. Balthier si sistemò un polsino, poi l'altro, poi si accorse di averlo fatto e smise.
+Vaan aspettò. Balthier guardò ancora una volta la scalinata, come chi controlla che una porta sia chiusa.
 
 «Se mi succede qualcosa» disse «la Strahl è tua.»
 

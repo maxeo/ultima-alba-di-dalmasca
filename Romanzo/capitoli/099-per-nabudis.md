@@ -52,7 +52,7 @@ Qualcuno le prese la spada di mano.
 
 Non con violenza. Con fermezza, come si prende un attrezzo a un apprendista che lo sta usando male. Ashe alzò gli occhi.
 
-Reddas era in piedi davanti a lei. Aveva perso il cappello. Aveva il viso bruciato dal Mystes da un lato, come dal sole, e la spada corta che gli era rimasta l'aveva lasciata cadere da qualche parte. Teneva la Spada dei Re con tutte e due le mani, e la guardava, e sulla sua faccia non c'era più niente del signore dei pirati.
+Reddas era in piedi davanti a lei. Aveva il cranio rasato lucido di sudore e la barba bianca annerita dal fumo, il viso bruciato dal Mystes da un lato, come dal sole, e la spada corta che gli era rimasta l'aveva lasciata cadere da qualche parte. Teneva la Spada dei Re con tutte e due le mani, e la guardava, e sulla sua faccia non c'era più niente del signore dei pirati.
 
 «Andate via» disse. «Tutti. Subito.»
 
@@ -70,7 +70,7 @@ Reddas non le lasciò il tempo. Si voltò.
 
 ---
 
-Per un istante restò fermo, di spalle, a guardare la Crisalide. Il vento di luce gli gonfiava la camicia e gli scompigliava i capelli, e la Spada dei Re, nelle sue mani, aveva cominciato a brillare di una luce bianca e fredda, diversa da quella della pietra, che non si mescolava con essa.
+Per un istante restò fermo, di spalle, a guardare la Crisalide. Il vento di luce gli gonfiava la camicia color cammello e gli scompigliava la barba, e la Spada dei Re, nelle sue mani, aveva cominciato a brillare di una luce bianca e fredda, diversa da quella della pietra, che non si mescolava con essa.
 
 Chi lo guardava allora, e Vaan lo guardava, vide una cosa che non seppe spiegare finché non fu molto più vecchio. Reddas si raddrizzò. Non di molto: di un palmo, forse. Raddrizzò le spalle, alzò il mento, mise i piedi in un modo diverso sulla pietra, uno avanti e uno indietro, come si mettono i piedi sulle lastre di un'aula di tribunale. E per quell'istante non fu più l'uomo che Vaan aveva conosciuto. Fu un altro, più rigido, più vecchio, più solo, con un'armatura nera che non portava più e un elmo che non aveva in testa. Fu il Giudice Magister Zecht, per l'ultima volta, in piedi davanti all'imputato.
 

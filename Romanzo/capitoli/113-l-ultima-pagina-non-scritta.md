@@ -242,7 +242,7 @@ Dal tubo delle comunicazioni arrivava la storia di una fortezza sul mare e di un
 
 «E la tua età?»
 
-Il pirata controllò il motore, poi la linea del mare. «Un protagonista dovrebbe avere il diritto di correggere la propria scheda.»
+Il pirata controllò il motore, poi la linea del mare. «Un protagonista dovrebbe avere il diritto di correggere la propria età negli archivi.»
 
 Fran gli indicò il comando che stava trascurando. Lui lo sistemò e cambiò rotta soltanto dopo aver chiesto quanta acqua avessero a bordo.
 
