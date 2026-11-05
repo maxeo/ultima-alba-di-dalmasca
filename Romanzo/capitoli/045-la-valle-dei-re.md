@@ -14,6 +14,20 @@ La tomba apparve alla fine di una curva. Non emerse poco alla volta: una parete 
 
 Ashe si fermò. Per tutto il mare aveva avuto davanti un punto sulla carta; ora il punto le chiedeva di alzare la testa fino a sentire male al collo. Basch si mise accanto a lei senza dire nulla. Vaan, qualche passo più avanti, cercava con gli occhi il luogo in cui avrebbero potuto entrare.
 
+Sulla storia dei saccheggiatori della tomba di Raithwall esiste una letteratura abbondante, e quasi tutta è stata scritta da persone che alla tomba non ci sono mai arrivate. Racconta di carovane di cercatori partite da Nalbina, da Rabanastre, perfino da Archades, con mappe comprate a caro prezzo nei vicoli; racconta di un principe rozarriano che ci mandò una compagnia intera e ne vide tornare il cuoco. Su un punto le fonti sono d'accordo, e il lettore può tenerlo per buono: di nessuno si sa con certezza che sia entrato e uscito. Della compagnia rozarriana, il cuoco raccontò per il resto della vita di un uccello grande come una nave, e nessuno gli credette, perché era un cuoco.
+
+Penelo guardava i gradini. Erano migliaia, alti ciascuno come un ginocchio, e il sole li aveva cotti per settecento anni.
+
+«Se l'hanno costruita per non farci entrare» disse «potevano almeno mettere un corrimano.»
+
+Vossler, accanto a lei, quasi sorrise. Era la prima volta dal Leviatano che qualcuno glielo vedeva fare.
+
+«I re non salgono le scale» disse. «Le fanno salire agli altri.»
+
+«Allora erano re scomodi.»
+
+«Lo sono tutti» disse Vossler, e guardò Ashe, che stava già salendo il primo gradino senza aspettare nessuno, e per un istante, sulla sua faccia larga e dura, passò qualcosa che Penelo non seppe nominare e che in seguito, quando ci ripensò, le sembrò tenerezza.
+
 Una lama d'ombra gli attraversò i piedi. Fran alzò l'arco prima degli altri.
 
 ---
@@ -31,6 +45,18 @@ Vaan non aspettò abbastanza. Corse per tre gradini e lanciò. La pezza si aprì
 Fran tirò di nuovo. Balthier sparò. Ashe alzò una mano e il freddo raccolto nell'aria chiuse di bianco la punta di un'ala. Il rapace urtò la scalinata, trascinando con sé un'intera lastra. Basch prese Vaan per la spalla e lo portò dietro il parapetto; Vossler trattenne con la propria lama l'artiglio che cercava di afferrarlo. Per un istante il mostro rimase basso, abbastanza vicino perché le sette ombre degli intrusi gli si raccogliessero intorno.
 
 Il colpo di Ashe e la freccia di Fran arrivarono insieme. Il Garuda si contrasse, aprì una volta le ali senza sollevarsi e cadde contro la pietra. Vaan sentì l'ultimo respiro come una folata calda sul viso. Quando poté raddrizzarsi, una grande penna di rame gli si era fermata contro lo stivale.
+
+Balthier la raccolse prima di lui. La girò alla luce, la soppesò, ne fece scorrere il bordo sotto il pollice e ne staccò, con l'unghia, una piccola scaglia che brillava come una moneta nuova.
+
+«Rame vero» disse. «Non dipinto. Un collezionista di Archades ne darebbe cento gil a penna, e quella bestia ne aveva almeno...» Alzò gli occhi verso il corpo enorme disteso sui gradini. «Siamo a un milione e cinquecentoventimila. Per ora.»
+
+«Non hai preso niente» disse Fran.
+
+«Ho preso una penna.»
+
+«Hai preso una penna.» Fran la guardò. «Una.»
+
+Il pirata se la infilò nel gilet, con la punta che gli spuntava dal colletto come la piuma di un cappello che non aveva, e non ne parlò più.
 
 La scalinata tremò. Dietro il portale si udì scorrere qualcosa di pesante, poi le incisioni attorno a una lastra circolare cominciarono a illuminarsi. Vossler si voltò subito verso la tomba. Basch, prima, contò le persone.
 
@@ -147,6 +173,20 @@ Fran si fermò davanti al centro della lastra. «Porta altrove.»
 «Dove?»
 
 «Dentro.»
+
+Ashe aveva riaperto la carta un'ultima volta. Nel margine, sotto la piccola corona d'inchiostro, c'era una riga che nessuno aveva notato, scritta più in fretta delle altre e con un inchiostro più scuro, come aggiunta dopo, al ritorno.
+
+*Qui mi sono fermato. Ho visto la porta. Il resto non è per gli Ondore.*
+
+La principessa la lesse due volte. Poi alzò gli occhi verso la lastra, e verso la facciata, e verso le figure di pietra con le loro ginocchia e le loro spade, e per un momento sembrò di nuovo la bambina che chiedeva al consiglio dei minatori se le capre cadevano dalle isole.
+
+«Si è fermato» disse.
+
+«Era un uomo prudente» disse Basch. «Come suo nipote.»
+
+«Mio zio l'ha sempre saputo. Che c'era una porta, e dove.» Ashe arrotolò la carta. «E non me l'ha mai detto.»
+
+«Ve l'ha detto adesso» disse Balthier. «Tramite un ladro di spade con le piume. Ci sono famiglie che si parlano in modi più strani.»
 
 Vaan guardò Basch, che gli restituì l'astuccio perché potesse chiuderlo nella sacca. La carta aveva fatto il proprio lavoro fino a lì; oltre la lastra, Halim Ondore II non aveva tracciato nessuna strada. Il ragazzo strinse i lacci e si avvicinò agli altri.
 
