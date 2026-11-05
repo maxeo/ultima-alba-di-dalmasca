@@ -32,7 +32,7 @@ Il testo completo è in [`Romanzo/romanzo.md`](Romanzo/romanzo.md): circa 320.00
 
 **[Apri il lettore](https://maxeo.github.io/ultima-alba-di-dalmasca/)**
 
-L'audiolibro è in lavorazione, un file per capitolo: il lettore mostra i capitoli pronti e quelli in arrivo. Ricorda dove sei arrivato, segue il testo mentre la voce legge, gestisce i segnalibri e salva i capitoli sul dispositivo per ascoltarli senza rete.
+L'audiolibro è in lavorazione, un file per capitolo: il lettore mostra i capitoli pronti e quelli in arrivo. Ricorda dove sei arrivato, segue il testo mentre la voce legge, gestisce i segnalibri e salva i capitoli sul dispositivo per ascoltarli senza rete. Puoi anche scaricarli come file mp3.
 
 Dal menu puoi cambiare:
 
