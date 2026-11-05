@@ -164,13 +164,13 @@ Rikken parlò per primo. Rikken parlava sempre per primo, anche quando non sapev
 
 «Ci andiamo tutti» disse Vaan.
 
-«Al Faro.» Rikken guardò Balthier, e Balthier guardò il mare. Fra i due c'era ancora in sospeso la faccenda della gara dell'altra volta, sulla quale ciascuno dava una versione dei fatti che escludeva l'altra, e che a Balfonheim era diventata in pochi giorni un argomento da taverna con due partiti. «Con la tua barchetta.»
+«Al Faro.» Rikken guardò Balthier, e Balthier guardò il mare. Fra i due c'era ancora in sospeso la faccenda delle bottiglie sul molo: cinque su sei per ciascuno, e la sesta portata via da una freccia di Fran, che a Balfonheim era diventata in pochi giorni un argomento da taverna con due partiti, nessuno dei quali era quello di Balthier. «Con la tua barchetta.»
 
-«Con la mia aeronave» disse Balthier. «Che ha vinto.»
+«Con la mia aeronave» disse Balthier. «Che, a differenza di certe pistole, non soffre di vento.»
 
-«Questo è da vedere.»
+«Il vento dentro, dicevi.»
 
-«L'hai visto.»
+«Una condizione dell'anima. Passa.»
 
 Raz, un Seeq dal collo largo e dalle mani piccolissime, spiegò a Penelo che le prime barche erano già fuori dalle secche, che una era tornata con quattro uomini mezzi morti di freddo, che il freddo laggiù era la cosa più strana di tutte, perché c'era il sole e l'acqua gelava lo stesso intorno ai remi. Lo raccontava con un piacere da cronista, e a ogni dettaglio terribile annuiva tra sé, soddisfatto della propria memoria.
 
