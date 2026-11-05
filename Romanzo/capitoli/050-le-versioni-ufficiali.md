@@ -54,6 +54,16 @@ Lo tirò fuori dopo aver riletto il rapporto. La calligrafia ferma della nipote 
 
 Il segretario esitò con la penna sollevata. Ondore gli indicò il rapporto della flotta. «La medicina, questa volta, dovremo cercarla lontano.»
 
+Quando il segretario se ne fu andato, il marchese restò solo nella sala con il camino e la parete di finestre. Fuori il cielo era vuoto. Le isole giravano. Una capra, su quella più piccola, brucava sul bordo come se il bordo non ci fosse.
+
+Prese dal tavolo il quaderno rilegato in cui da trent'anni annotava, la sera, le cose che un giorno sarebbero diventate le Memorie. Lo aprì all'ultima pagina scritta. C'era la frase del giorno prima: *Mia nipote è mia ospite, e riposa.* La guardò per un pezzo. Poi intinse la penna e scrisse sotto, in una calligrafia più piccola, che non era quella delle lettere ufficiali:
+
+*Non riposa. Non ha mai riposato. Ha preso la carta del bisnonno, un pirata e la mia nave migliore di notte, che poi non era la mia, ed è andata a fare quello che io ho avuto paura di fare per trent'anni. Se torna, glielo dirò. Se non torna, lo dirò a qualcuno.*
+
+Rilesse. Poi, con un tratto di penna netto, cancellò tutto, frase per frase, finché la pagina non fu che una griglia nera. Il quaderno lo rimise sul tavolo.
+
+Il tratto, a guardarlo bene controluce, non copre del tutto le parole. Gli Ondore hanno sempre avuto una penna leggera.
+
 Partì con poco seguito. Le casse ufficiali contenevano indumenti per una cura che avrebbe richiesto un clima diverso; dentro quelle meno visibili viaggiavano elenchi di comandanti, lettere non firmate e una mappa dei territori in cui l'Impero aveva lasciato più superstiti che amici. Il marchese non aveva ancora un esercito. Aveva persone da incontrare prima che ciascuna decidesse di combattere da sola.
 
 La notizia che Ashe era viva rimase dove era stata, fra chi lo sapeva già. Non bastava possedere una pietra per mettere una regina sopra le mura di Rabanastre. Sotto quelle mura c'erano ancora la guarnigione, i magazzini imperiali e le famiglie che avrebbero pagato la prima risposta. Ondore aveva firmato una menzogna per separare la nipote dai suoi alleati; adesso ne rinviava la smentita per provare a restituirglieli.
@@ -129,6 +139,18 @@ Gregoroth si inchinò da seduto, quanto bastava a riconoscere una decisione già
 Gramis si appoggiò al bastone e si alzò. «Scrivete Vayne Solidor. Il resto lo conoscete.»
 
 ---
+
+Della perdita dell'Ottava Flotta, nelle settimane seguenti, circolarono almeno cinque versioni, e chi oggi volesse metterle in fila ne ricaverebbe un'utile lezione sul modo in cui si scrive la storia, e una meno utile sul Leviatano.
+
+La versione di Archades, letta dagli araldi agli incroci delle torri, parlò di un incidente tecnico durante un'esercitazione nel cielo del Jagd, di un guasto ai motori di un'unità di nuova concezione, di perdite dolorose ma contenute. Il bollettino si chiudeva con un elogio dello spirito di sacrificio del Giudice Magister Ghis, che era morto, e con una nota sulla salute eccellente dell'imperatore, che tossiva.
+
+La versione di Rozarria, stampata a spese di un mercante di Ivalice occidentale che non firmò, sostenne che la flotta era stata distrutta da un'arma segreta che l'impero stava sperimentando contro di loro, e che l'arma era sfuggita di mano ai suoi stessi inventori. Era la versione più vicina al vero, e per questo nessuno ci credette.
+
+La versione del Senato, che non fu mai resa pubblica, si trova nei verbali di una seduta riservata e occupa tre parole: *responsabilità del console*.
+
+La versione della Città Bassa di Rabanastre, raccolta al mercato di Muthru da chiunque avesse orecchie, era la più ricca. Diceva che nel cielo del deserto occidentale era apparso il fantasma del re Raminas su un carro di fuoco e aveva incenerito le navi una per una. Un venditore di datteri, lo stesso che anni prima aveva nutrito i chocobo della carrozza nuziale, aggiungeva che il fantasma teneva per mano una donna velata, e che la donna era la principessa. Lo diceva a voce bassa, guardandosi attorno, e poi vendeva i datteri a prezzo pieno. Fu l'unica versione che, senza saperlo, ci prese su un punto.
+
+La quinta versione è quella che sta in queste pagine, e la raccontarono sei persone sedute in una navetta rubata che perdeva colpi. Per molto tempo non la raccontarono a nessuno.
 
 La navetta rubata raggiunse il margine del Jagd con il motore che perdeva colpi. Balthier la fece posare oltre le rocce, lontano dalla conca della Strahl. Non serviva lasciare a chi avesse cercato i relitti una freccia diritta verso la propria nave.
 
