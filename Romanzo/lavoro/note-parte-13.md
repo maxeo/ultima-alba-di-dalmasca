@@ -72,3 +72,6 @@
 - Balthier e Fran scendono dal pilone al ventre della fortezza; il quadro ha la calligrafia di Cid e una nota a margine "qui F. si annoierebbe"; l'alloggiamento centrale si chiama "cuore".
 - Paga del filo del protagonista: "non muore alla fine, al massimo lo credono morto per un capitolo o due"; Fran ferita: "una parte più piccola di quanto pensavi"; Balthier ride piangendo.
 - Strahl a Vaan, "niente graffi"; Vaan: "Ti aspetto". Bahamut cade a una lega e mezza a est della Porta Est.
+- Fusione con `main`: esisteva una seconda stesura del cap. 110 (altro modello). In revisione si tiene quella del blocco-e, coerente con i cap. 108-109; dai fatti dell'altra si conservano Fran ferita e mai dichiarata morta, il congegno sulla Strahl, la salvezza dei pirati senza conferma fino al 112.
+
+FINE PARTE

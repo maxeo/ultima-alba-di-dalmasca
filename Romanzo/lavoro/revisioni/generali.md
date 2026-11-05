@@ -13,18 +13,15 @@ Valgono per tutti i capitoli, anche per quelli già scritti: correggi i tuoi.
 
 ## Aspetto dei personaggi
 
-Correggi le descrizioni difformi nei tuoi capitoli.
-
-- **Ashe**: occhi azzurri, come il padre. Capelli biondo cenere.
-- **Raminas**: occhi azzurri, gli stessi di Ashe.
-- **Basch e Gabranth**: biondi, occhi chiari.
-- **Vaan**: capelli biondo cenere. **Reks**: stessa famiglia, chiaro di capelli.
-- **Penelo**: capelli rossi.
-- **Balthier**: capelli castani. **Fran**: capelli bianchi, pelle scura, orecchie lunghe.
+Vedi `aspetto.md`, in questa cartella: è vincolante.
 
 ## Dalla revisione delle Parti VI e IX
 
 - **Huma**, mai "hume".
-- **Gilgamesh**: al cap. 78 riconosce la spada di Basch; lascia quattordici spade rubate con lo stemma del Ministero della Legge. Il cap. 41 deve essere coerente: armatura, elmo, collezione, corda. Niente dettagli sul numero di braccia prima del cap. 104.
+- **Gilgamesh**: al cap. 78 riconosce la spada di Basch; lascia quattordici spade rubate con lo stemma del Ministero della Legge. Il cap. 41 deve essere coerente: armatura, elmo, collezione, corda. Ha sei braccia (`aspetto.md`): tenerle nascoste al cap. 41 e rivelarle al cap. 78 o al cap. 104.
 - **Anello**: dopo il cap. 52 Balthier lo tiene nella tasca interna della giacca, sul petto. Ashe lo sa e non ne parla. Non restituirlo prima del cap. 112.
 - **I compagni si conoscono**: evita domande su cose note da mesi, come il nome di Fran chiesto da Ashe.
+
+## Nomi di luogo
+
+- **Mai "Estersand".** Decisione dell'autore. Usa più termini, variandoli: "il Deserto Orientale" come nome geografico, con la maiuscola; "il deserto a est di Dalmasca", "il deserto orientale" e "a oriente" nel parlato e nel racconto. Scegli in base al contesto. Correggi i tuoi capitoli.

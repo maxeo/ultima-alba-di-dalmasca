@@ -122,7 +122,7 @@ Vaan non disse niente. Guardava anche lui il vaso.
 
 «Non mi ricordo l'odore.»
 
-«Io sì. Di sera. Si aprivano di sera, quando faceva meno caldo, e la stanza si riempiva tutta. Sembrava di stare in un posto più ricco.» Reks si stese sulla branda, con le mani dietro la testa, e guardò le tacche sulla trave sopra la porta. «Quando torno, andiamo a prenderne. Crescono sull'orlo dell'Estersand, dalla parte delle Pianure. Si va e si torna in un giorno. Ne prendiamo con le radici e li rimettiamo nel vaso.»
+«Io sì. Di sera. Si aprivano di sera, quando faceva meno caldo, e la stanza si riempiva tutta. Sembrava di stare in un posto più ricco.» Reks si stese sulla branda, con le mani dietro la testa, e guardò le tacche sulla trave sopra la porta. «Quando torno, andiamo a prenderne. Crescono sull'orlo del deserto orientale, dalla parte delle Pianure. Si va e si torna in un giorno. Ne prendiamo con le radici e li rimettiamo nel vaso.»
 
 «Il vaso è crepato.»
 

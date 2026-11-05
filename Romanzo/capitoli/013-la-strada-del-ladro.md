@@ -128,7 +128,7 @@ Erano uomini. Cinque o sei, in piedi, con le spade alla cintura e corazze di cuo
 
 «Forse non sanno.»
 
-«Forse.» L'uomo si voltò verso la luce, e Vaan lo vide in faccia. Era alto, con le spalle larghe e i capelli scuri, lunghi, legati dietro la nuca. Aveva un volto duro, con le guance scavate e le sopracciglia folte, e una cicatrice sottile sul mento. Portava un'armatura che era stata buona e che era stata riparata molte volte, da mani diverse. Teneva la mano sinistra appoggiata al pomo della spada, non stretta, appoggiata, come si tiene la mano sulla spalla di un amico. «Va' dagli altri. Al tramonto voglio tutti dove devono essere. Nessuno si muove prima del segnale. Nessuno, anche se vede il console in persona che passa da solo con le chiavi in mano.»
+«Forse.» L'uomo si voltò verso la luce, e Vaan lo vide in faccia. Era alto, con le spalle larghe, la pelle cotta dal sole e i capelli scuri, cosa che fra i dalmaschi, quasi tutti biondi, si notava. Aveva un volto duro, con le sopracciglia folte e una barba di qualche giorno, e un collare di cuoio attorno al collo. Portava un'armatura che era stata buona e che era stata riparata molte volte, da mani diverse. Teneva la mano sinistra appoggiata al pomo della spada, non stretta, appoggiata, come si tiene la mano sulla spalla di un amico. «Va' dagli altri. Al tramonto voglio tutti dove devono essere. Nessuno si muove prima del segnale. Nessuno, anche se vede il console in persona che passa da solo con le chiavi in mano.»
 
 «Sì, capitano Vossler.»
 

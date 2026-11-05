@@ -64,5 +64,6 @@
 - Gag della Parte: stivali da ponte (74-76, 78), vita civile e attestati (80-81), cartelli e scatole degli impiegati (79-80). Nessun riuso di Pancia, guanti o "guarda i tetti".
 - Fili toccati: Nabudis e il visitatore senza nome (75); protocolli imperiali e rivelazione (77); fede di Ashe e anello in tasca a Balthier (75, 77); "Ffamran" (81); Clan (79); Gilgamesh (78-79); Ba'Gamnan (80).
 - Da verificare dal regista: Reks alla porta di fondo (74), richiesta di Rasler a Basch (75), Gilgamesh compatibile con il cap. 41.
+- Dopo la revisione `aspetto.md`: al cap. 78 Gilgamesh ha la pelle grigia e rivela le sei braccia nel balzo.
 
 FINE PARTE

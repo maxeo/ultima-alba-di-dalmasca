@@ -22,7 +22,7 @@ Vaan si fermò sulla soglia, con la tenda che gli ricadeva sulle spalle in un fr
 
 «Come lo sai?»
 
-«Lo sa mezza Rabanastre, ragazzo. L'altra mezza lo saprà domani.» Il vecchio si voltò. Era piccolo, curvo, con una barba bianca a punta e due occhi che non erano vecchi affatto, chiari, divertiti, attentissimi. Portava una veste di lana sbiadita che doveva essere stata blu e uno zucchetto di feltro. «Il moguri della Sandsea ha messo il tuo nome nel suo quaderno, e quando quel moguri mette un nome nel quaderno, il nome comincia a camminare da solo. Sterminatore di topi. Te lo porterai dietro per anni, temo. Ci sono nomi peggiori.»
+«Lo sa mezza Rabanastre, ragazzo. L'altra mezza lo saprà domani.» Il vecchio si voltò. Era magro, curvo, con i capelli bianchi come l'argento, i baffi e un pizzetto lungo, e due occhi che non erano vecchi affatto, divertiti, attentissimi. Aveva orecchini d'oro e collane di perline, una veste sbiadita e uno zucchetto di feltro, ed era scalzo; ai suoi piedi, su un cuscino, dormiva una bestiola dalle orecchie lunghe che aprì un occhio su Vaan e lo richiuse, come se lo conoscesse già. «Il moguri della Sandsea ha messo il tuo nome nel suo quaderno, e quando quel moguri mette un nome nel quaderno, il nome comincia a camminare da solo. Sterminatore di topi. Te lo porterai dietro per anni, temo. Ci sono nomi peggiori.»
 
 «Non è un nome. È uno scherzo.»
 

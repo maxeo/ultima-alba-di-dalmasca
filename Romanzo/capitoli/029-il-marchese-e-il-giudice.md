@@ -32,9 +32,9 @@ Dalla galleria laterale uscirono quattro persone.
 
 ---
 
-Il primo era un Giudice Magister. Vaan riconobbe la forma prima ancora dell'uomo: l'armatura alta e lavorata, le spalle larghe, l'elmo chiuso con le sue linee di metallo che salivano come fiamme. Ma non era quello di Nalbina. L'elmo era diverso, più stretto e più alto, con una cresta che si apriva a ventaglio, e l'uomo dentro era più magro e camminava con un passo più lungo, quasi ballato, con le mani intrecciate dietro la schiena come un ospite che passeggia nel giardino di un altro. Il mantello era verde scuro. Due soldati lo seguivano a distanza.
+Il primo era un Giudice Magister. Vaan riconobbe la forma prima ancora dell'uomo: l'armatura alta e lavorata, le spalle larghe, l'elmo chiuso con le sue linee di metallo che salivano come fiamme. Ma non era quello di Nalbina. L'elmo era diverso, più stretto e più alto, con due corna che si piegavano all'indietro, e l'armatura era più leggera, d'oro, bianco e rosso, e l'uomo dentro era più magro e camminava con un passo più lungo, quasi ballato, con le mani intrecciate dietro la schiena come un ospite che passeggia nel giardino di un altro. Due soldati lo seguivano a distanza.
 
-Accanto a lui camminava un vecchio. Aveva una barba bianca tagliata corta e una veste lunga color tabacco, con un colletto alto ricamato d'oro, e un turbante bianco come quello delle guardie dell'aerodromo ma con una pietra azzurra appuntata sul davanti. Non era alto. Non era imponente. Camminava con una lentezza che poteva essere età o calcolo, e teneva le mani nelle maniche. Lo seguivano due servitori in livrea, carichi di registri.
+Accanto a lui camminava un vecchio. Era alto e magro, con i capelli bianchi e un volto scavato che lo faceva sembrare più vecchio dei suoi anni, e portava un lungo soprabito giallo zafferano con il colletto alto ricamato d'oro. Era alto, ma non imponente: la magrezza gli toglieva peso. Camminava con una lentezza che poteva essere età o calcolo, e teneva le mani nelle maniche. Lo seguivano due servitori in livrea, carichi di registri.
 
 «Un viaggio istruttivo, marchese» stava dicendo il Giudice. Aveva una voce piacevole, perfino calda, con quella cadenza un po' strascicata che i nobili di Archades usano per far capire che non hanno fretta. «Le vostre gallerie sono uno spettacolo. Si capisce perché le teniate così care. Io stesso, se fossi nato quassù, credo che non dormirei la notte all'idea che qualcuno me le portasse via.»
 
@@ -98,7 +98,7 @@ Basch non disse niente.
 
 «Di voci ne girano molte» disse Lamont.
 
-«È vero. Io stesso ne sento parecchie.» Balthier si staccò dal carrello. «Per esempio, adesso ne sento una che dice che un ragazzo di tredici anni con un vestito da viaggio da duecento gil sa a memoria gli articoli del trattato di Bhujerba, sa chi ha negoziato la resa di Dalmasca, sa come si chiama un Giudice Magister dal suono del suo passo, perché lo sapevi, Lamont, non fingere, ho visto che lo sapevi prima che il marchese lo dicesse, e adesso ha la faccia di un gatto che ha sentito il suo nome chiamato dalla cucina.»
+«È vero. Io stesso ne sento parecchie.» Balthier si staccò dal carrello. «Per esempio, adesso ne sento una che dice che un ragazzo di dodici anni con un vestito da viaggio da duecento gil sa a memoria gli articoli del trattato di Bhujerba, sa chi ha negoziato la resa di Dalmasca, sa come si chiama un Giudice Magister dal suono del suo passo, perché lo sapevi, Lamont, non fingere, ho visto che lo sapevi prima che il marchese lo dicesse, e adesso ha la faccia di un gatto che ha sentito il suo nome chiamato dalla cucina.»
 
 «Non ho la faccia di un gatto.»
 
