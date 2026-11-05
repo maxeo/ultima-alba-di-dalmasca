@@ -1,6 +1,6 @@
-# Final Fantasy XII. Il romanzo
+# L'ultima alba di Dalmasca
 
-*Opera di fan, privata e non commerciale. Trama, personaggi e mondo appartengono a Square Enix.*
+*Romanzo di fan tratto da Final Fantasy XII. Opera non ufficiale e non commerciale. Trama, personaggi e mondo appartengono a Square Enix.*
 
 # Parte I. Il crepuscolo di Dalmasca
 
@@ -5279,7 +5279,7 @@ Partirono all'alba. Le ore della notte furono occupate da lavori così piccoli c
 
 Nella stanza sopra la bottega il ragazzo lasciò sul cuscino una moneta che apparteneva a lei. L'aveva presa dal tavolo prima del furto al palazzo e poi dimenticata nella fodera. Non bastava a pagare un pane. La posò ugualmente dove Penelo l'avrebbe vista entrando. Dopo un istante la spostò accanto al vaso, perché il cuscino poteva essere rifatto prima del suo ritorno. Le aveva promesso, con i piedi nel canale sotto la Porta Sud, che quando fosse partito glielo avrebbe detto prima. Non poteva dirglielo. Era il primo biglietto che lasciava in vita sua, e non c'era scritto niente.
 
-Migelo li raggiunse alla porta. Aveva trovato per Basch una giacca e un cambio più decorosi, che il capitano portava sotto il braccio. Guardò la sua faccia appena rasata e indugiò sulla cicatrice senza pronunciare il nome. Basch chinò il capo. Il mercante gli strinse la mano con una forza che non serviva a presentarsi.
+Migelo li raggiunse alla porta. Aveva trovato per Basch una giacca e un cambio più decorosi, che il capitano portava sotto il braccio. Guardò la sua faccia ripulita e indugiò sulla cicatrice senza pronunciare il nome. Basch chinò il capo. Il mercante gli strinse la mano con una forza che non serviva a presentarsi.
 
 «Riportamela» disse poi a Vaan.
 
