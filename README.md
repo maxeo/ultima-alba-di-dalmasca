@@ -8,7 +8,7 @@ La trama principale e i suoi finali seguono il gioco. Scene, dialoghi e collegam
 
 ## Leggere
 
-Il testo completo è in [`Romanzo/romanzo.md`](Romanzo/romanzo.md): circa 320.000 parole in 113 capitoli. I singoli capitoli sono in [`Romanzo/capitoli/`](Romanzo/capitoli).
+Il testo completo è in [`Romanzo/romanzo.md`](Romanzo/romanzo.md): circa 320.000 parole in 113 capitoli, divisi in un Prologo, dodici Parti, un Epilogo e un'Appendice. I singoli capitoli sono in [`Romanzo/capitoli/`](Romanzo/capitoli).
 
 | Parte | Titolo | Capitoli |
 |---|---|---|
@@ -34,6 +34,15 @@ Il testo completo è in [`Romanzo/romanzo.md`](Romanzo/romanzo.md): circa 320.00
 
 L'audiolibro è in lavorazione, un file per capitolo: il lettore mostra i capitoli pronti e quelli in arrivo. Ricorda dove sei arrivato, segue il testo mentre la voce legge, gestisce i segnalibri e salva i capitoli sul dispositivo per ascoltarli senza rete.
 
+Dal menu puoi cambiare:
+
+- **Aspetto:** tema chiaro, scuro o di sistema, luce notturna regolabile e colore.
+- **Lettura:** dimensione, carattere, interlinea ed evidenziazione della frase.
+- **Ascolto:** velocità da 0,5× a 3×, uno o più pulsanti di salto e passaggio automatico al capitolo successivo.
+- **Lettore:** barre e pulsanti da mostrare. Solo play e pausa restano sempre.
+
+Le impostazioni e i progressi restano nel browser; i progressi si possono esportare e importare. I caratteri Literata, Lora, EB Garamond e Atkinson Hyperlegible si scaricano da Google Fonts solo se li scegli.
+
 L'audio è generato in locale con [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) e il modello XTTS. È una voce sintetica: qualche pronuncia può risultare imprecisa.
 
 ## Com'è fatto
@@ -44,7 +53,7 @@ Il romanzo è stato scritto con modelli di intelligenza artificiale sotto la dir
 |---|---|
 | `Original/` | La cronaca di partenza, lasciata intatta, e l'elenco di correzioni e mancanze |
 | `Romanzo/capitoli/` | I capitoli, uno per file |
-| `Romanzo/lavoro/` | Materiali di lavoro: scaletta, personaggi, agganci e note di revisione. Contengono anticipazioni |
+| `Romanzo/lavoro/` | Materiali di lavoro: scaletta, personaggi, agganci e note di revisione. Contengono anticipazioni e usano la vecchia numerazione delle Parti, da I a XIII |
 | `Audiolibro/` | Script per generare e pubblicare l'audio, dizionario di pronuncia dei nomi |
 | `docs/` | Il lettore web pubblicato su GitHub Pages, con audio compresso e testi sincronizzati |
 
