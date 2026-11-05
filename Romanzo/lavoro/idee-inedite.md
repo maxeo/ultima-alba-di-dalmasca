@@ -69,3 +69,11 @@ Stati: proposta, approvata, scritta, scartata.
 - **Collocazione**: Parte IX.
 - **Collegamenti**: `file15` sez. II, `file27`, `file32` sez. III, `file36:30`.
 - **Stato**: approvata, scritta: cap. 74-75
+
+## Il ballo di Raminas al posto dell'anello perduto
+
+- **Idea**: al cap. 1 l'anello non vola più via durante la danza e Basch non lo raccoglie. Al suo posto Raminas chiede alla figlia un ballo lento, con il dispaccio di Nalbina nella manica.
+- **Proposta**: l'anello scivola fino alla nocca, Ashe chiude il pugno e il padre continua a ballare tenendole il pugno chiuso. Battuta: "Le cose che contano, quando scappano, si tengono così. Finché non c'è il modo di sistemarle." L'orafo di via dei Calderai resta, consigliato da Basch e riferito da Rasler.
+- **Collocazione**: cap. 1; ricordo aggiornato al cap. 70.
+- **Collegamenti**: dispaccio della guarnigione orientale (cap. 1-2), pugno chiuso (cap. 2-3, 6, 52, 112), unico ballo di Raminas con Ashe prima della sua morte (cap. 5).
+- **Stato**: richiesta dall'autore il 5 novembre 2026, scritta: cap. 1 e 70

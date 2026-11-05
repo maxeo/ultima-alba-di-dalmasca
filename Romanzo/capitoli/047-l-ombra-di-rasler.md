@@ -162,7 +162,7 @@ Ashe guardò Vossler, che controllava la porta. Aveva ricevuto da lui cibo, ripa
 
 «No, altezza.»
 
-Prese la pezza e la avvolse intorno alla pietra. Nel farlo dovette aprire la sinistra; l'anello scivolò di nuovo e lei lo fermò con il mignolo. Basch guardò il gesto soltanto un istante, poi distolse gli occhi. Ricordava il pavimento del palazzo, la notte delle nozze, un bagliore che correva verso lo scolo. Non le offrì l'orafo che non aveva più potuto aspettare.
+Prese la pezza e la avvolse intorno alla pietra. Nel farlo dovette aprire la sinistra; l'anello scivolò di nuovo e lei lo fermò con il mignolo. Basch guardò il gesto soltanto un istante, poi distolse gli occhi. Ricordava la notte delle nozze vista dalla sua colonna: il re che ballava con la figlia tenendole il pugno chiuso, e il principe che la mattina stessa gli aveva chiesto il nome di un orafo onesto. Non le offrì l'orafo che non aveva più potuto aspettare.
 
 ---
 
