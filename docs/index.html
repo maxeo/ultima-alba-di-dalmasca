@@ -206,15 +206,40 @@ label.spunta span { flex: 1; }
 label.spunta svg { color: var(--tenue); flex: none; }
 label.spunta input { width: 20px; height: 20px; accent-color: var(--accento); flex: none; }
 .trag-numeri { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 2px 0 6px; }
-.trag-numeri div { padding: 10px 12px; background: var(--rilievo); border-radius: 10px; min-width: 0; }
+.trag-numeri div { position: relative; padding: 10px 12px; background: var(--rilievo); border-radius: 10px; min-width: 0; }
+.trag-numeri svg.ic { position: absolute; top: 10px; right: 10px; width: 18px; height: 18px; color: var(--tenue); }
 .trag-numeri b { display: block; font: 500 19px/1.25 var(--serif); }
 .trag-numeri small { font-size: 12px; color: var(--tenue); }
-.traguardo { display: grid; grid-template-columns: 26px 1fr; gap: 10px; align-items: start; padding: 10px 0; border-top: 1px solid var(--linea); }
+.traguardo { width: 100%; text-align: left; border-radius: 0; display: grid; grid-template-columns: 26px 1fr; gap: 10px; align-items: start; padding: 10px 0; border-top: 1px solid var(--linea); }
 .traguardo svg.ic { color: var(--tenue); opacity: .55; }
 .traguardo.preso svg.ic { color: var(--accento); opacity: 1; }
 .traguardo b { display: block; font: 500 15px/1.3 var(--sans); }
 .traguardo small { display: block; font-size: 13px; color: var(--tenue); }
 .traguardo .barra { margin-top: 6px; height: 3px; }
+.traguardo small.trag-quanto { margin-top: 4px; color: var(--testo); font-variant-numeric: tabular-nums; }
+.celebra-corpo .quanto { color: var(--testo); font-size: 18px; font-variant-numeric: tabular-nums; }
+dialog.celebra { position: fixed; inset: 0; width: 100vw; height: 100vh; height: 100dvh; max-width: none; max-height: none; margin: 0; padding: 0; border: 0; overflow: hidden; background: var(--sfondo); color: var(--testo); }
+dialog.celebra[open] { display: grid; place-items: center; }
+dialog.celebra::backdrop { background: var(--sfondo); }
+.celebra-chiudi { position: absolute; top: calc(8px + env(safe-area-inset-top)); right: 8px; z-index: 2; width: 48px; height: 48px; display: grid; place-items: center; }
+.celebra-corpo { position: relative; z-index: 1; width: min(420px, 100vw - 48px); text-align: center; }
+.celebra-corpo h2 { margin: 26px 0 6px; font: 500 32px/1.2 var(--serif); }
+.celebra-corpo p { margin: 0; color: var(--tenue); font-size: 16px; }
+.celebra-corpo .data { margin-top: 12px; font-size: 14px; color: var(--accento); }
+.celebra-corpo .barra { margin: 18px auto 8px; max-width: 280px; height: 6px; border-radius: 3px; }
+.celebra-corpo > * { animation: celebra-sale .5s .35s both; }
+.celebra-corpo > .celebra-icona { width: 148px; height: 148px; margin: 0 auto; display: grid; place-items: center; border-radius: 50%; background: var(--rilievo); color: var(--accento); box-shadow: 0 0 0 2px var(--accento), 0 0 60px color-mix(in srgb, var(--accento) 55%, transparent); animation: celebra-entra .7s cubic-bezier(.2, 1.5, .4, 1) both; }
+.celebra-icona svg.ic { width: 76px; height: 76px; }
+.celebra.bloccato .celebra-icona { color: var(--tenue); box-shadow: 0 0 0 2px var(--linea); }
+.celebra-raggi { position: absolute; top: 50%; left: 50%; width: 170vmax; height: 170vmax; margin: -85vmax 0 0 -85vmax; background: repeating-conic-gradient(var(--accento) 0 7deg, transparent 7deg 22deg); opacity: .16; -webkit-mask-image: radial-gradient(circle, #000 0, transparent 45%); mask-image: radial-gradient(circle, #000 0, transparent 45%); animation: celebra-gira 26s linear infinite; }
+.celebra-scintille { position: absolute; top: 50%; left: 50%; }
+.celebra-scintille i { position: absolute; width: 9px; height: 9px; margin: -4px; border-radius: 2px; background: var(--accento); opacity: 0; animation: celebra-vola 1.5s ease-out both; }
+.celebra-scintille i:nth-child(3n) { background: var(--testo); border-radius: 50%; }
+@keyframes celebra-entra { from { transform: scale(.2) rotate(-25deg); opacity: 0; } to { transform: none; opacity: 1; } }
+@keyframes celebra-sale { from { transform: translateY(14px); opacity: 0; } to { transform: none; opacity: 1; } }
+@keyframes celebra-gira { to { transform: rotate(360deg); } }
+@keyframes celebra-vola { 0% { transform: translate(0, 0) scale(.4); opacity: 0; } 12% { opacity: 1; } 100% { transform: translate(var(--dx), var(--dy)) rotate(var(--r)) scale(1); opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .celebra * { animation: none !important; } .celebra-scintille { display: none; } }
 .ripristina { display: inline-flex; align-items: center; gap: 8px; margin-top: 12px; padding: 8px 12px; min-height: 40px; border: 1px solid var(--linea); border-radius: 10px; color: var(--tenue); }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
 </style>
@@ -233,6 +258,15 @@ label.spunta input { width: 20px; height: 20px; accent-color: var(--accento); fl
   <symbol id="i-luna" viewBox="0 0 24 24"><path d="M14 3a9 9 0 1 0 7 14.6A8 8 0 0 1 14 3z"/></symbol>
   <symbol id="i-su" viewBox="0 0 24 24"><path d="m12 8 7 7-1.4 1.4-5.6-5.6-5.6 5.6L5 15z"/></symbol>
   <symbol id="i-vuoto" viewBox="0 0 24 24"></symbol>
+  <symbol id="i-meta" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zm0 2a8 8 0 0 1 0 16z"/></symbol>
+  <symbol id="i-clessidra" viewBox="0 0 24 24"><path d="M6 2h12v2h-1v3.500L13.500 12l3.500 4.500V20h1v2H6v-2h1v-3.500l3.500-4.500L7 7.500V4H6z"/></symbol>
+  <symbol id="i-fiamma" viewBox="0 0 24 24"><path d="M13 2s1 3.500-2 6.500C9 10.500 6 12.500 6 16a6 6 0 0 0 12 0c0-3-1.500-5-3-6.500 0 2-1 3-2 3 1-3.500 1-7 0-10.500z"/></symbol>
+  <symbol id="i-calendario" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M7 2h2v2h6V2h2v2h4v17H3V4h4zM5 9v10h14V9zm2 2h4v4H7z"/></symbol>
+  <symbol id="i-alba" viewBox="0 0 24 24"><path d="M11 3h2v4h-2zM4.200 7.600l1.400-1.400 2.800 2.800-1.400 1.400zM15.600 9l2.800-2.800 1.400 1.400-2.800 2.800zM6 17a6 6 0 0 1 12 0zM2 18.500h20v2H2z"/></symbol>
+  <symbol id="i-prossimi" viewBox="0 0 24 24"><path d="M3 6v12l8.500-6zM12.500 6v12l8.500-6z"/></symbol>
+  <symbol id="i-libro" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M12 6C10 4.500 7 4 3 4v15c4 0 7 .5 9 2 2-1.500 5-2 9-2V4c-4 0-7 .5-9 2zm-1 12.300c-1.800-.8-3.700-1.100-6-1.200v-11c2.600.1 4.700.6 6 1.600zm8-1.200c-2.300.1-4.200.4-6 1.200V7.700c1.300-1 3.400-1.500 6-1.600z"/></symbol>
+  <symbol id="i-opera" viewBox="0 0 24 24"><path d="M2 4h4v16H2zm6 0h4v16H8zm6.300.900 3.900-1L22 19.400l-3.900 1z"/></symbol>
+  <symbol id="i-cestino" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M9 3h6l1 2h4v2H4V5h4zM6 9h12l-1 12H7zm3.500 2v8H11v-8zm3.500 0v8h1.500v-8z"/></symbol>
   <symbol id="i-trofeo" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M7 3h10v2h4v3a4 4 0 0 1-4.3 4A5 5 0 0 1 13 14.9V18h3v3H8v-3h3v-3.1A5 5 0 0 1 7.300 12 4 4 0 0 1 3 8V5h4zM5 7v1a2 2 0 0 0 2 2zm14 0h-2v3a2 2 0 0 0 2-2z"/></symbol>
   <symbol id="i-file" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6 2h9l5 5v15H4V2zm0 2v16h12V8h-4V4zm5 6h2v5l2-2 1.4 1.4L12 18.8l-4.4-4.4L9 13l2 2z"/></symbol>
   <symbol id="i-casella" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M5 4h14a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1zm1 2v12h12V6z"/></symbol>
@@ -332,6 +366,7 @@ label.spunta input { width: 20px; height: 20px; accent-color: var(--accento); fl
     </div>
   </div>
 </section>
+<dialog id="celebra" class="celebra" aria-label="Traguardo"></dialog>
 <dialog id="pannello" class="pannello" aria-label="Menu">
   <div>
     <header><b>Menu</b><button id="chiudi-pannello" aria-label="Chiudi"><svg class="ic"><use href="#i-chiudi"/></svg></button></header>
@@ -1007,12 +1042,12 @@ function corpoOffline() {
       numero(pesoLista(presenti), 'Spazio occupato')),
     el('p', { id: 'offline-prog' }, testoProgresso()),
     prossimi.length || parte.length || mancanti.length ? el('h3', {}, 'Salva') : null,
-    prossimi.length ? voce('i-scarica', `Salva ${prossimi.length === 1 ? 'il prossimo' : `i prossimi ${prossimi.length}`}`, `Dal capitolo ${prossimi[0].n}: ${pesoLista(prossimi)}`, () => salvaLista(prossimi)) : null,
-    parte.length ? voce('i-scarica', `Salva ${qui.parte}`, `${testoCapitoli(parte.length)}, ${pesoLista(parte)}`, () => salvaLista(parte)) : null,
-    mancanti.length ? conConferma('i-scarica', "Salva tutta l'opera", `${tutti.length < capitoli.length ? `Audio pronto per ${tutti.length} capitoli su ${capitoli.length}: ` : ''}${testoCapitoli(mancanti.length)} da salvare, ${pesoLista(mancanti)}`, `Salvare ${testoCapitoli(mancanti.length)}? Occupano ${pesoLista(mancanti)}.`, 'Salva', () => { salvaLista(mancanti); spazio(); }) : null,
+    prossimi.length ? voce('i-prossimi', `Salva ${prossimi.length === 1 ? 'il prossimo' : `i prossimi ${prossimi.length}`}`, `Dal capitolo ${prossimi[0].n}: ${pesoLista(prossimi)}`, () => salvaLista(prossimi)) : null,
+    parte.length ? voce('i-libro', `Salva ${qui.parte}`, `${testoCapitoli(parte.length)}, ${pesoLista(parte)}`, () => salvaLista(parte)) : null,
+    mancanti.length ? conConferma('i-opera', "Salva tutta l'opera", `${tutti.length < capitoli.length ? `Audio pronto per ${tutti.length} capitoli su ${capitoli.length}: ` : ''}${testoCapitoli(mancanti.length)} da salvare, ${pesoLista(mancanti)}`, `Salvare ${testoCapitoli(mancanti.length)}? Occupano ${pesoLista(mancanti)}.`, 'Salva', () => { salvaLista(mancanti); spazio(); }) : null,
     presenti.length ? el('h3', {}, 'Libera spazio') : null,
-    ascoltati.length ? voce('i-chiudi', 'Togli i capitoli già ascoltati', `${testoCapitoli(ascoltati.length)}, ${pesoLista(ascoltati)}`, () => togliLista(ascoltati)) : null,
-    presenti.length ? conConferma('i-chiudi', 'Togli tutti i capitoli', `${testoCapitoli(presenti.length)}, ${pesoLista(presenti)}`, `Togliere dal dispositivo ${testoCapitoli(presenti.length)}? I progressi restano.`, 'Togli', () => togliLista(presenti)) : null,
+    ascoltati.length ? voce('i-ok', 'Togli i capitoli già ascoltati', `${testoCapitoli(ascoltati.length)}, ${pesoLista(ascoltati)}`, () => togliLista(ascoltati)) : null,
+    presenti.length ? conConferma('i-cestino', 'Togli tutti i capitoli', `${testoCapitoli(presenti.length)}, ${pesoLista(presenti)}`, `Togliere dal dispositivo ${testoCapitoli(presenti.length)}? I progressi restano.`, 'Togli', () => togliLista(presenti)) : null,
     el('h3', {}, 'Capitoli salvati'),
     ...(presenti.length
       ? presenti.map(c => el('div', { class: 'salvato' },
@@ -1242,19 +1277,19 @@ function statistiche() {
 }
 const ORA = 3600;
 const TRAGUARDI = [
-  ['first', 'Primo capitolo', 'Finisci un capitolo', st => [st.finiti, 1]],
-  ['prologue', 'Il crepuscolo', 'Finisci il Prologo', st => [st.prologo, st.capitoliPrologo || 1]],
-  ['halfway', 'A metà strada', 'Finisci metà dei capitoli', st => [st.finiti, Math.ceil(st.capitoli / 2) || 1]],
-  ['finale', "L'ultima alba", 'Finisci tutti i capitoli', st => [st.finiti, st.capitoli || 1]],
-  ['hour1', 'La prima ora', 'Ascolta per 1 ora', st => [st.totale, ORA]],
-  ['hour10', 'Dieci ore', 'Ascolta per 10 ore', st => [st.totale, 10 * ORA]],
-  ['hour24', 'Un giorno intero', 'Ascolta per 24 ore', st => [st.totale, 24 * ORA]],
-  ['streak3', 'Tre giorni di fila', 'Ascolta per 3 giorni di fila', st => [st.migliore, 3]],
-  ['streak7', 'Una settimana di fila', 'Ascolta per 7 giorni di fila', st => [st.migliore, 7]],
-  ['streak30', 'Un mese di fila', 'Ascolta per 30 giorni di fila', st => [st.migliore, 30]],
-  ['marathon', 'Maratona', 'Ascolta per 3 ore in un giorno', st => [st.record, 3 * ORA]],
-  ['night', 'Nottambulo', 'Ascolta per 1 ora tra mezzanotte e le 5', () => [stato.notte, ORA]],
-  ['dawn', "Prima dell'alba", 'Ascolta per 30 minuti tra le 5 e le 7', () => [stato.alba, ORA / 2]]
+  ['first', 'Primo capitolo', 'Finisci un capitolo', st => [st.finiti, 1], 'i-segno'],
+  ['prologue', 'Il crepuscolo', 'Finisci il Prologo', st => [st.prologo, st.capitoliPrologo || 1], 'i-libro'],
+  ['halfway', 'A metà strada', 'Finisci metà dei capitoli', st => [st.finiti, Math.ceil(st.capitoli / 2) || 1], 'i-meta'],
+  ['finale', "L'ultima alba", 'Finisci tutti i capitoli', st => [st.finiti, st.capitoli || 1], 'i-trofeo'],
+  ['hour1', 'La prima ora', 'Ascolta per 1 ora', st => [st.totale, ORA], 'i-cuffie'],
+  ['hour10', 'Dieci ore', 'Ascolta per 10 ore', st => [st.totale, 10 * ORA], 'i-timer'],
+  ['hour24', 'Un giorno intero', 'Ascolta per 24 ore', st => [st.totale, 24 * ORA], 'i-clessidra'],
+  ['streak3', 'Tre giorni di fila', 'Ascolta per 3 giorni di fila', st => [st.migliore, 3], 'i-fiamma'],
+  ['streak7', 'Una settimana di fila', 'Ascolta per 7 giorni di fila', st => [st.migliore, 7], 'i-fiamma'],
+  ['streak30', 'Un mese di fila', 'Ascolta per 30 giorni di fila', st => [st.migliore, 30], 'i-calendario'],
+  ['marathon', 'Maratona', 'Ascolta per 3 ore in un giorno', st => [st.record, 3 * ORA], 'i-velocita'],
+  ['night', 'Nottambulo', 'Ascolta per 1 ora tra mezzanotte e le 5', () => [stato.notte, ORA], 'i-luna'],
+  ['dawn', "Prima dell'alba", 'Ascolta per 30 minuti tra le 5 e le 7', () => [stato.alba, ORA / 2], 'i-alba']
 ];
 function verificaTraguardi() {
   if (!capitoli.length) return;
@@ -1265,27 +1300,59 @@ function verificaTraguardi() {
   salvaStato();
   annuncia(nuovi.length === 1 ? `Traguardo: ${nuovi[0][1]}` : `Nuovi traguardi: ${nuovi.length}`);
 }
-const tempoTesto = s => { const m = Math.floor(s / 60), o = Math.floor(m / 60); return o ? `${o} h ${m % 60} min` : `${m} min`; };
+const tempoTesto = s => { const m = Math.floor(s / 60), o = Math.floor(m / 60); return o ? (m % 60 ? `${o} h ${m % 60} min` : `${o} h`) : `${m} min`; };
 const giorniTesto = n => n === 1 ? '1 giorno' : `${n} giorni`;
+const quantoTraguardo = (id, v, o) => /^(hour|marathon|night|dawn)/.test(id) ? `${tempoTesto(Math.min(v, o))} di ${tempoTesto(o)}`
+  : /^streak/.test(id) ? `${Math.min(v, o)} di ${giorniTesto(o)}`
+  : `${Math.min(v, o)} di ${testoCapitoli(o)}`;
+function mostraTraguardo(nome, descr, ic, preso, quota, quanto) {
+  const d = $('celebra');
+  d.classList.toggle('bloccato', !preso);
+  d.setAttribute('aria-label', 'Traguardo: ' + nome);
+  const scintille = preso ? el('div', { class: 'celebra-scintille', 'aria-hidden': 'true' }, Array.from({ length: 36 }, (_, i) => {
+    const angolo = i / 36 * Math.PI * 2 + Math.random() * .3, raggio = 140 + Math.random() * Math.max(innerWidth, innerHeight) * .42;
+    const p = el('i');
+    p.style.setProperty('--dx', Math.cos(angolo) * raggio + 'px');
+    p.style.setProperty('--dy', Math.sin(angolo) * raggio + 'px');
+    p.style.setProperty('--r', Math.round(Math.random() * 720 - 360) + 'deg');
+    p.style.animationDelay = Math.random() * .45 + 's';
+    return p;
+  })) : null;
+  const pct = Math.min(100, Math.floor(quota * 100));
+  d.replaceChildren(...[
+    preso ? el('div', { class: 'celebra-raggi', 'aria-hidden': 'true' }) : null,
+    scintille,
+    el('button', { class: 'celebra-chiudi', 'aria-label': 'Chiudi', onclick: () => d.close() }, icona('i-chiudi')),
+    el('div', { class: 'celebra-corpo' },
+      el('div', { class: 'celebra-icona' }, icona(ic)),
+      el('h2', {}, nome),
+      el('p', {}, descr),
+      preso
+        ? el('p', { class: 'data' }, 'Ottenuto il ' + new Date(preso).toLocaleDateString('it-IT', { day: 'numeric', month: 'long', year: 'numeric' }))
+        : barra(pct),
+      preso ? null : el('p', { class: 'quanto' }, quanto))
+  ].filter(Boolean));
+  d.showModal();
+}
 function corpoTraguardi() {
   verificaTraguardi();
   const st = statistiche();
-  const numero = (v, t) => el('div', {}, el('b', {}, v), el('small', {}, t));
-  const riga = ([id, nome, descr, val]) => {
+  const numero = (v, t, ic) => el('div', {}, icona(ic), el('b', {}, v), el('small', {}, t));
+  const riga = ([id, nome, descr, val, ic]) => {
     const preso = stato.traguardi[id], [v, o] = val(st);
-    return el('div', { class: 'traguardo' + (preso ? ' preso' : '') }, icona('i-trofeo'),
+    return el('button', { class: 'traguardo' + (preso ? ' preso' : ''), onclick: () => mostraTraguardo(nome, descr, ic, preso, v / o, quantoTraguardo(id, v, o)) }, icona(ic),
       el('div', {}, el('b', {}, nome), el('small', {}, descr),
-        preso ? el('small', {}, 'Ottenuto il ' + new Date(preso).toLocaleDateString('it-IT', { day: 'numeric', month: 'long', year: 'numeric' })) : barra(Math.min(100, v / o * 100))));
+        preso ? el('small', {}, 'Ottenuto il ' + new Date(preso).toLocaleDateString('it-IT', { day: 'numeric', month: 'long', year: 'numeric' })) : [barra(Math.min(100, v / o * 100)), el('small', { class: 'trag-quanto' }, quantoTraguardo(id, v, o))]));
   };
   const presi = TRAGUARDI.filter(([id]) => stato.traguardi[id]).length;
   return [
     el('div', { class: 'trag-numeri' },
-      numero(tempoTesto(st.totale), 'Tempo ascoltato'),
-      numero(`${st.finiti}/${st.capitoli}`, 'Capitoli finiti'),
-      numero(giorniTesto(st.serie), 'Serie attuale'),
-      numero(giorniTesto(st.migliore), 'Serie migliore'),
-      numero(giorniTesto(st.attivi), 'Giorni di ascolto'),
-      numero(tempoTesto(st.record), 'Giorno record')),
+      numero(tempoTesto(st.totale), 'Tempo ascoltato', 'i-cuffie'),
+      numero(`${st.finiti}/${st.capitoli}`, 'Capitoli finiti', 'i-libro'),
+      numero(giorniTesto(st.serie), 'Serie attuale', 'i-fiamma'),
+      numero(giorniTesto(st.migliore), 'Serie migliore', 'i-trofeo'),
+      numero(giorniTesto(st.attivi), 'Giorni di ascolto', 'i-calendario'),
+      numero(tempoTesto(st.record), 'Giorno record', 'i-velocita')),
     el('h3', {}, `Traguardi: ${presi} su ${TRAGUARDI.length}`),
     TRAGUARDI.map(riga),
     el('p', { class: 'nota' }, 'Azzerare un capitolo non toglie il tempo ascoltato né i traguardi. Conta dal momento in cui questa voce è arrivata, su questo browser.')
@@ -1395,6 +1462,7 @@ document.querySelectorAll('[data-menu-btn]').forEach(b => { b.onclick = () => { 
 $('chiudi-pannello').onclick = () => $('pannello').close();
 $('flotta-play').onclick = () => $('play').click();
 $('flotta-su').onclick = () => { stato.ui.noBarra = false; salvaStato(); applicaUi(); altezzaLettore(); };
+$('celebra').addEventListener('click', e => { if (!e.target.closest('.celebra-corpo')) $('celebra').close(); });
 $('pannello').addEventListener('click', e => { if (e.target === $('pannello')) $('pannello').close(); });
 const CHIAVI_UI = { accento: 'accent', evid: 'highlight', font: 'font', inter: 'lineHeight', indietro: 'skipBack', avanti: 'skipForward', continua: 'autoNext', scambia: 'swapControls', autoRiga: 'autoRow', nascosti: 'hiddenButtons', notteOn: 'nightLightOn', notte: 'nightLight', noBarra: 'hideBar', noIcone: 'hideIconRow', noAvanz: 'hideProgress', noTitolo: 'hideTitle' };
 const perEsporta = () => ({
