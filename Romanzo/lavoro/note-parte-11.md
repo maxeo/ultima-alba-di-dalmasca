@@ -39,3 +39,22 @@
 - **Balthier capisce**: Cid non è mai venuto; voleva Ashe scelta e armata. "Tu sei l'esperimento"; "è la prima volta che gli dèi e mio padre sono d'accordo". Poi, da solo con Ashe: Cid non era pazzo, quindi ha scelto tutto da sano, "è peggio".
 - Ashe prende la Spada del Patto ma non promette niente: deciderà davanti alla Crisalide. La avvolge nel mantello accanto alla Spada dei Re, coerente con l'inizio del cap. 91; la spada "più leggera di quanto avrebbe dovuto".
 - Fran: "Non se ne vanno mai. Smettono di farsi sentire".
+
+## Cap. 90
+- Apertura sui centoquattordici orologi del palazzo, tutti regolati da Vayne su quello del suo studio: primo ordine dopo i funerali di Gramis.
+- Vayne (27, capelli neri, occhi azzurri, guanti bianchi mai tolti, mantello blu scuro) e Larsa (12, stemma azzurro dei Solidor), secondo `aspetto.md`. "Il maestro Hesper", precettore di Larsa, inventato.
+- Larsa: "Anche tu fai lo stesso"; Vayne: "Allora scopriamolo". Ordine a Gabranth di seguire Ashe; "devo ucciderla?"; Larsa: fiducia in tutti e due, "mi avete trattato sempre come una persona" (mancanza `file08:1056`).
+- **Voci dei gemelli**: Larsa sente nella voce di Gabranth quella di Basch "vicino a un fuoco" e se lo spiega con la stanchezza. Gabranth chiude le mani. Elmo sempre chiuso.
+- Cid era nella stanza dall'inizio, nell'ombra. Venat riferisce il patto di Giruvegan; Cid: "gli dèi sono dei vecchi che hanno smesso di imparare". Vayne ricorda il prezzo di Nabradia e Dalmasca; Cid: "Non da me, certo. Ma è stato pagato".
+- Venat: "Io ho lasciato il mio seggio" (il tredicesimo del cap. 88). "Chi ha dato a Gerun il diritto di scrivere la storia degli uomini?": la stessa domanda di Vaan al cap. 89, detta dal nemico.
+- Vayne si toglie un guanto per la prima volta e posa la mano nuda sul vetro: "Che vengano tutti, nello stesso cielo", prepara Bahamut senza nominarlo.
+- Chiusura su Larsa e Gabranth nel corridoio, il Giudice che adegua il passo a quello del principe.
+
+## Rilettura della Parte XI
+- Ridotti i "Nessuno parlò", "senza enfasi" e la formula "la faccia aperta che faceva fidare la gente" (ora solo ai cap. 77 e 85, in eco al cap. 1).
+- Controllate le formule vietate in tutta la Parte; tolte una "Fu allora che" camuffata e un "in quel momento" al cap. 88.
+- Scontri: solo Shemhazai (87), in un paragrafo; Rafflesia, Daedalus e Tyrant fuori.
+- Fili toccati: dubbio sulla storia scritta dai prescelti (86 muro dei re, 88 scalpelli, 89 "chi gliel'ha chiesto", 90 Venat); voci dei gemelli (87, 90); Rasler come illusione che non parla (85, 88, 89); anello e pugno vuoto di Ashe (85, 88).
+- Da verificare: numero dei seggi degli Occuria (tredici); il cap. 91 deve trovare Ashe con due spade, la seconda nel mantello, come al cap. 89.
+
+FINE PARTE

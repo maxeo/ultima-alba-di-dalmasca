@@ -108,7 +108,7 @@ Poi pensò a Nalbina, alla finestra sola dietro la torre. A suo padre. A Rasler 
 
 Gerun non aveva finito di dirlo, che accanto a lei comparve Rasler.
 
-Non lo vide arrivare. Era lì, alla sua destra, a mezzo passo, come se ci fosse sempre stato. Il mantello verde, i capelli chiarissimi, la faccia aperta che faceva fidare la gente. Ashe si voltò, e lui non guardava lei. Guardava la spada.
+Non lo vide arrivare. Era lì, alla sua destra, a mezzo passo, come se ci fosse sempre stato. Il mantello verde, i capelli chiarissimi, gli occhi grigi. Ashe si voltò, e lui non guardava lei. Guardava la spada.
 
 Fece un passo avanti, fino al bordo della piattaforma. Alzò la mano destra. E chiuse le dita sull'elsa della Spada del Patto, e la tenne, sospesa nel violetto, senza tirarla a sé. Poi si voltò verso di lei, finalmente, e aspettò.
 
