@@ -58,3 +58,11 @@
 - Plancia dell'Alexander (fix 2, `file24:632`): Zargabaath al comando ordina batterie fredde e "con cortesia"; la battuta sui debiti è di Bergan ("quel monte ha un debito con l'Impero da settecento anni"). Gabranth presente e muto. Bergan si guarda la mano sinistra. Zargabaath tocca l'elmo come per stropicciarsi la faccia (gesto di misura, torna al cap. 110).
 - Tre giorni di marcia forzata; legna intatta al rifugio. Tenda dei Fratelli Haddur calpestata, una scarpa da bambino: la donna è data per dispersa, ritrovata al cap. 73.
 - Il sacerdote con i geloni (cap. 66) morto sui gradini. Balthier: "non hanno sparato, sono scesi e l'hanno fatto a mano".
+
+## Cap. 72
+- Anastasis morto accanto alla sedia rovesciata, con il pane e l'acqua non toccati (ripresa dal cap. 66); Ashe rimette il pane nella ciotola alla fine.
+- Bergan: "la vendetta va dove c'è una spada, lo sapeva il mio signore". Il volto d'ombra sopra di lui visto da Vaan, identico a quello di Henne (semina coerente, fix 4).
+- Discorso del "nuovo Re Dinasta": Raithwall "mendicante con la ciotola tesa"; Vayne "prenderà agli dèi la storia". La luce viola e l'odore di metallo bruciato come al cap. 68.
+- Scontro compresso: tre Giudici minori, uno si arrende ("ha una figlia ad Archades"). Ashe questa volta non manca: la Spada dei Re spegne la luce viola dove affonda.
+- Negalite nelle ossa: righe violacee lungo le ossa della mano. Balthier: "qualcuno che chiama tutto ricerca" (ripresa dal cap. 62).
+- Penelo chiede di Larsa; voce di Al-Cid in chiusura.
