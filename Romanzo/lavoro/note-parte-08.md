@@ -70,7 +70,8 @@
 ## Cap. 73
 - Al-Cid ferito, retto da Tavina (inventata, una delle sue accompagnatrici); galante anche a metà inchino (fix 2, `file32:1522` vale come tratto). Racconto: Zargabaath cortese, Gabranth con i due ordini, Larsa sale sulla nave per non far combattere in un luogo sacro; Bergan scende dopo. Anastasis rifiuta di fuggire.
 - Proposta di Rozarria e rifiuto di Ashe; Balthier indica Draklor e il dottor Cid, nominato da Ghis sul Leviatano. Messaggio di Larsa riferito da Al-Cid.
-- Strada a piedi: Nalbina, Mosfora, Salika, Costa Phon (Fran). La Strahl resta a Rabanastre. Raccorda con l'apertura del cap. 74 (borgo di Nalbina, spada nella coperta).
+- Strada a piedi: si decide solo di scendere a Nalbina; il percorso Mosfora-Halny-Salika-Costa Phon lo spiega Balthier al cap. 74. La Strahl resta a Rabanastre.
+- Esisteva su main un'altra stesura del cap. 73, scritta mentre questa sessione era ferma: tenuta la mia, che ne conserva i fatti (Larsa con Gabranth, rifiuto di Rozarria, lutto, donna Haddur); vedi note di revisione.
 - Lutto sui gradini (fix 3, `file25:610`): accoliti e Kiltias sotto la pioggia, candele spente, ciotola vuota; Ashe fa portare un lenzuolo per Anastasis.
 - Ritrovata la donna della tenda Haddur con il bambino scalzo; Vaan le riporta la scarpa.
 

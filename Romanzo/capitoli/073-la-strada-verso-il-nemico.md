@@ -136,11 +136,7 @@ Vaan lo guardò come si guarda un pazzo.
 
 «A piedi. Fino ad Archades.»
 
-«Fino quasi ad Archades. Il resto si vedrà.» Balthier si voltò verso Fran. «C'è una strada. Da Nalbina, verso nord, si salgono i Monti Mosfora. Di là dai monti c'è il Bosco di Salika. È una terra di nessuno, un po' di qua e un po' di là della frontiera, e nessuno la sorveglia, perché nessuno ci vuole andare.»
-
-«E oltre il Bosco» disse Fran «c'è la costa. Costa Phon. Dentro l'Impero. Ci sono cacciatori. Pochi soldati.»
-
-«Da lì si cerca un passaggio.» Balthier guardò gli altri. «È lunga. È faticosa. Ed è più pericolosa di qualunque rotta in volo, tranne quelle in cui ti sparano. Ma è l'unica in cui nessuno ci aspetta.»
+«Fino a dove serve.» Balthier si voltò verso Fran, e lei gli restituì uno sguardo che diceva che aveva già capito quale strada avesse in mente e che non le piaceva. «Si comincia da Nalbina. Il resto ve lo spiego là, davanti a un bicchiere. Certe strade si raccontano meglio quando si ha qualcosa da bere, perché chi le sente ha bisogno di coraggio.»
 
 Ashe annuì.
 
@@ -172,4 +168,4 @@ Vaan alzò la sua. Poi, senza dire niente a nessuno, tornò indietro di corsa, s
 
 La donna la guardò. La prese. La infilò al piede del bambino, adagio, come si fa una cosa importante.
 
-Poi Vaan raggiunse gli altri, e la compagnia, in sei, scese dal monte sacro verso sud, verso Paramina, verso Nalbina e i Monti Mosfora e il Bosco di Salika e l'Impero. Nessuno parlò per un lungo tratto. Ma Penelo, che camminava accanto a lui, gli prese la mano dentro il guanto di lana, e questa volta Vaan la strinse per primo.
+Poi Vaan raggiunse gli altri, e la compagnia, in sei, scese dal monte sacro verso sud, verso Paramina e Nalbina, e oltre Nalbina verso l'Impero. Nessuno parlò per un lungo tratto. Ma Penelo, che camminava accanto a lui, gli prese la mano dentro il guanto di lana, e questa volta Vaan la strinse per primo.
