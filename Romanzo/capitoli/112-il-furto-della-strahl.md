@@ -116,11 +116,11 @@ Mentre ridevano, dal fondo dell'hangar arrivò un rumore di zampe.
 
 Era Nono. Non era a Bhujerba. Era arrivato la sera prima con la nave corriera, per discutere di persona la fattura che Vaan voleva contestare, e aveva dormito sopra la bottega di Migelo senza che Vaan lo sapesse, perché Vaan era rientrato tardi. Aveva il pompon storto e la chiave inglese sotto il braccio. E aveva le spalle nude.
 
-«Se l'è preso» disse Nono. Era offeso fino in fondo alle orecchie. «Kupo. Se l'è ripreso.»
+«Se l'è preso» disse Nono. Era offeso fino in fondo alle orecchie. «Kupò. Se l'è ripreso.»
 
 «Chi? Cosa?»
 
-«Il mantello! Il suo mantello. Quello che mi ha lasciato a Balfonheim. Tienilo finché non torno, mi ha detto. È un ordine, mi ha detto.» Nono batté la chiave inglese sul pavimento. «Un anno l'ho tenuto. L'ho fatto lavare due volte. Ci ho messo una toppa sulla spalla, perché si era rotto, con una stoffa di Bhujerba che costa. Stanotte sono venuto a vedere la nave, perché non dormivo, e lui era lì, kupo, che controllava i giunti di babordo, e mi ha guardato, e ha detto: ah, Nono, il mio mantello, grazie. E me lo ha tolto dalle spalle. Così. Come si prende il cappello all'ingresso.»
+«Il mantello! Il suo mantello. Quello che mi ha lasciato a Balfonheim. Tienilo finché non torno, mi ha detto. È un ordine, mi ha detto.» Nono batté la chiave inglese sul pavimento. «Un anno l'ho tenuto. L'ho fatto lavare due volte. Ci ho messo una toppa sulla spalla, perché si era rotto, con una stoffa di Bhujerba che costa. Stanotte sono venuto a vedere la nave, perché non dormivo, e lui era lì, kupò, che controllava i giunti di babordo, e mi ha guardato, e ha detto: ah, Nono, il mio mantello, grazie. E me lo ha tolto dalle spalle. Così. Come si prende il cappello all'ingresso.»
 
 «E ti ha detto qualcosa?» Penelo si asciugava gli occhi.
 
@@ -132,7 +132,7 @@ Penelo guardò la lettera. Guardò la F, alta, intrecciata, piena di riccioli.
 
 L'aveva già vista, quella F. Ricamata in filo scuro nell'angolo di un fazzoletto di seta di Archades, che uno sconosciuto con le mani legate le aveva messo in mano una mattina, in un cortile di Rabanastre, dicendole *tenetemelo finché non vi riporto il ragazzo*. Lei se l'era chiesto una volta, che cosa volesse dire quella lettera. Poi si era dimenticata di chiederselo. Adesso lo sapeva, e lo sapeva da un pezzo, e non disse niente a nessuno. Mise in tasca anche il biglietto di Nono, accanto all'altro fazzoletto, quello con l'iniziale azzurra, che teneva da Ridorana.
 
-«Il conto dei giunti» disse Nono, guardando Vaan. «Kupo. Visto che la nave non c'è più, chi lo paga?»
+«Il conto dei giunti» disse Nono, guardando Vaan. «Kupò. Visto che la nave non c'è più, chi lo paga?»
 
 Vaan aprì la bocca. La richiuse.
 

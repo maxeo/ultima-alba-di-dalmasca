@@ -17711,7 +17711,7 @@ Lo disse senza malizia, constatando una cosa che sapevano tutti e che nessuno di
 
 Dalla strada del porto, intanto, arrivò di corsa una figura piccola, bianca, con un pompon rosso che rimbalzava sopra la testa e una chiave inglese più lunga del braccio che la teneva. Nono non correva come i moguri delle favole, che sembrano galleggiare. Correva come uno che ha passato tre giorni sotto un motore e si è dimenticato di avere le gambe.
 
-«È pronta, kupo! È pronta!» Si fermò davanti a Balthier, ansimò, raddrizzò il pompon, che non ne aveva bisogno. «La Strahl. Ho rifatto i giunti del timone e tutti e due i condotti di babordo. Ho pulito i filtri. Ho trovato una cosa dentro il serbatoio di destra che non vi dico, kupo, ma l'ho trovata. Vola. Vola meglio di prima.»
+«È pronta, kupò! È pronta!» Si fermò davanti a Balthier, ansimò, raddrizzò il pompon, che non ne aveva bisogno. «La Strahl. Ho rifatto i giunti del timone e tutti e due i condotti di babordo. Ho pulito i filtri. Ho trovato una cosa dentro il serbatoio di destra che non vi dico, kupò, ma l'ho trovata. Vola. Vola meglio di prima.»
 
 «Era già perfetta, prima.»
 
@@ -17721,11 +17721,11 @@ Balthier mise una mano in tasca e tirò fuori la pietra di Draklor, ancora avvol
 
 Nono la guardò. Le orecchie gli si drizzarono, poi si piegarono, poi si drizzarono di nuovo. Si avvicinò fino a toccarla con il naso, la annusò, guardò i tre innesti di rame, e quando alzò gli occhi aveva la faccia che fanno i bambini davanti a un dolce che non costa niente.
 
-«Archades» disse, piano. «Montatura di Archades, kupo. Questi innesti li ho visti solo una volta, sui disegni.»
+«Archades» disse, piano. «Montatura di Archades, kupò. Questi innesti li ho visti solo una volta, sui disegni.»
 
 «Puoi montarla?»
 
-«Posso montarla.» La prese con tutte e due le zampe, con un rispetto da reliquia, e già si voltava verso il porto. «Stanotte. Mi serve una lampada. Mi servono due lampade. E nessuno che mi parli, kupo.»
+«Posso montarla.» La prese con tutte e due le zampe, con un rispetto da reliquia, e già si voltava verso il porto. «Stanotte. Mi serve una lampada. Mi servono due lampade. E nessuno che mi parli, kupò.»
 
 Partì con la stessa corsa con cui era arrivato, la pietra stretta al petto e la chiave inglese sotto il braccio, e per un poco lo si vide scendere a balzi la strada fra le reti, finché le case non se lo presero.
 
@@ -19096,7 +19096,7 @@ Poi si tolse il mantello, lo piegò male, e lo porse a Balthier con tutte e due 
 
 «Tienilo» disse Balthier.
 
-«Kupo, è vostro...»
+«Kupò, è vostro...»
 
 «Tienilo finché non torno a riprenderlo.» Balthier gli posò una mano sulla testa, fra le orecchie, un attimo. «È un ordine. Il primo che ti do da quando ti conosco, e guarda che ne approfitto.»
 
@@ -19250,7 +19250,7 @@ Se ne andò con il suo passo morbido, salutando sulla soglia, e lasciò nel salo
 
 ---
 
-Partirono quella sera stessa. Nono aveva già fatto il pieno, controllato i giunti, pulito i filtri; aveva fatto tutto prima che qualcuno glielo chiedesse, e ora stava sulla pista con il mantello di Balthier sulle spalle e la chiave inglese sotto il braccio, e non diceva kupo.
+Partirono quella sera stessa. Nono aveva già fatto il pieno, controllato i giunti, pulito i filtri; aveva fatto tutto prima che qualcuno glielo chiedesse, e ora stava sulla pista con il mantello di Balthier sulle spalle e la chiave inglese sotto il braccio, e non diceva kupò.
 
 Prima di salire, Balthier si fermò sotto il portello e guardò verso il porto. Le barche con l'occhio coperto rientravano a due a due nella luce rossa. Elza era in cima alla scalinata della dimora vuota. Rikken e Raz erano sulla banchina, in mezzo agli uomini, e davano ordini, e gli uomini li ascoltavano. Il porto si teneva.
 
@@ -21309,11 +21309,11 @@ Mentre ridevano, dal fondo dell'hangar arrivò un rumore di zampe.
 
 Era Nono. Non era a Bhujerba. Era arrivato la sera prima con la nave corriera, per discutere di persona la fattura che Vaan voleva contestare, e aveva dormito sopra la bottega di Migelo senza che Vaan lo sapesse, perché Vaan era rientrato tardi. Aveva il pompon storto e la chiave inglese sotto il braccio. E aveva le spalle nude.
 
-«Se l'è preso» disse Nono. Era offeso fino in fondo alle orecchie. «Kupo. Se l'è ripreso.»
+«Se l'è preso» disse Nono. Era offeso fino in fondo alle orecchie. «Kupò. Se l'è ripreso.»
 
 «Chi? Cosa?»
 
-«Il mantello! Il suo mantello. Quello che mi ha lasciato a Balfonheim. Tienilo finché non torno, mi ha detto. È un ordine, mi ha detto.» Nono batté la chiave inglese sul pavimento. «Un anno l'ho tenuto. L'ho fatto lavare due volte. Ci ho messo una toppa sulla spalla, perché si era rotto, con una stoffa di Bhujerba che costa. Stanotte sono venuto a vedere la nave, perché non dormivo, e lui era lì, kupo, che controllava i giunti di babordo, e mi ha guardato, e ha detto: ah, Nono, il mio mantello, grazie. E me lo ha tolto dalle spalle. Così. Come si prende il cappello all'ingresso.»
+«Il mantello! Il suo mantello. Quello che mi ha lasciato a Balfonheim. Tienilo finché non torno, mi ha detto. È un ordine, mi ha detto.» Nono batté la chiave inglese sul pavimento. «Un anno l'ho tenuto. L'ho fatto lavare due volte. Ci ho messo una toppa sulla spalla, perché si era rotto, con una stoffa di Bhujerba che costa. Stanotte sono venuto a vedere la nave, perché non dormivo, e lui era lì, kupò, che controllava i giunti di babordo, e mi ha guardato, e ha detto: ah, Nono, il mio mantello, grazie. E me lo ha tolto dalle spalle. Così. Come si prende il cappello all'ingresso.»
 
 «E ti ha detto qualcosa?» Penelo si asciugava gli occhi.
 
@@ -21325,7 +21325,7 @@ Penelo guardò la lettera. Guardò la F, alta, intrecciata, piena di riccioli.
 
 L'aveva già vista, quella F. Ricamata in filo scuro nell'angolo di un fazzoletto di seta di Archades, che uno sconosciuto con le mani legate le aveva messo in mano una mattina, in un cortile di Rabanastre, dicendole *tenetemelo finché non vi riporto il ragazzo*. Lei se l'era chiesto una volta, che cosa volesse dire quella lettera. Poi si era dimenticata di chiederselo. Adesso lo sapeva, e lo sapeva da un pezzo, e non disse niente a nessuno. Mise in tasca anche il biglietto di Nono, accanto all'altro fazzoletto, quello con l'iniziale azzurra, che teneva da Ridorana.
 
-«Il conto dei giunti» disse Nono, guardando Vaan. «Kupo. Visto che la nave non c'è più, chi lo paga?»
+«Il conto dei giunti» disse Nono, guardando Vaan. «Kupò. Visto che la nave non c'è più, chi lo paga?»
 
 Vaan aprì la bocca. La richiuse.
 

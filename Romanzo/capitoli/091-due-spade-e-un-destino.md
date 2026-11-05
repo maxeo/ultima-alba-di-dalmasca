@@ -190,7 +190,7 @@ Lo disse senza malizia, constatando una cosa che sapevano tutti e che nessuno di
 
 Dalla strada del porto, intanto, arrivò di corsa una figura piccola, bianca, con un pompon rosso che rimbalzava sopra la testa e una chiave inglese più lunga del braccio che la teneva. Nono non correva come i moguri delle favole, che sembrano galleggiare. Correva come uno che ha passato tre giorni sotto un motore e si è dimenticato di avere le gambe.
 
-«È pronta, kupo! È pronta!» Si fermò davanti a Balthier, ansimò, raddrizzò il pompon, che non ne aveva bisogno. «La Strahl. Ho rifatto i giunti del timone e tutti e due i condotti di babordo. Ho pulito i filtri. Ho trovato una cosa dentro il serbatoio di destra che non vi dico, kupo, ma l'ho trovata. Vola. Vola meglio di prima.»
+«È pronta, kupò! È pronta!» Si fermò davanti a Balthier, ansimò, raddrizzò il pompon, che non ne aveva bisogno. «La Strahl. Ho rifatto i giunti del timone e tutti e due i condotti di babordo. Ho pulito i filtri. Ho trovato una cosa dentro il serbatoio di destra che non vi dico, kupò, ma l'ho trovata. Vola. Vola meglio di prima.»
 
 «Era già perfetta, prima.»
 
@@ -200,11 +200,11 @@ Balthier mise una mano in tasca e tirò fuori la pietra di Draklor, ancora avvol
 
 Nono la guardò. Le orecchie gli si drizzarono, poi si piegarono, poi si drizzarono di nuovo. Si avvicinò fino a toccarla con il naso, la annusò, guardò i tre innesti di rame, e quando alzò gli occhi aveva la faccia che fanno i bambini davanti a un dolce che non costa niente.
 
-«Archades» disse, piano. «Montatura di Archades, kupo. Questi innesti li ho visti solo una volta, sui disegni.»
+«Archades» disse, piano. «Montatura di Archades, kupò. Questi innesti li ho visti solo una volta, sui disegni.»
 
 «Puoi montarla?»
 
-«Posso montarla.» La prese con tutte e due le zampe, con un rispetto da reliquia, e già si voltava verso il porto. «Stanotte. Mi serve una lampada. Mi servono due lampade. E nessuno che mi parli, kupo.»
+«Posso montarla.» La prese con tutte e due le zampe, con un rispetto da reliquia, e già si voltava verso il porto. «Stanotte. Mi serve una lampada. Mi servono due lampade. E nessuno che mi parli, kupò.»
 
 Partì con la stessa corsa con cui era arrivato, la pietra stretta al petto e la chiave inglese sotto il braccio, e per un poco lo si vide scendere a balzi la strada fra le reti, finché le case non se lo presero.
 

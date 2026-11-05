@@ -10,7 +10,7 @@ Poi si tolse il mantello, lo piegò male, e lo porse a Balthier con tutte e due 
 
 «Tienilo» disse Balthier.
 
-«Kupo, è vostro...»
+«Kupò, è vostro...»
 
 «Tienilo finché non torno a riprenderlo.» Balthier gli posò una mano sulla testa, fra le orecchie, un attimo. «È un ordine. Il primo che ti do da quando ti conosco, e guarda che ne approfitto.»
 
@@ -164,7 +164,7 @@ Se ne andò con il suo passo morbido, salutando sulla soglia, e lasciò nel salo
 
 ---
 
-Partirono quella sera stessa. Nono aveva già fatto il pieno, controllato i giunti, pulito i filtri; aveva fatto tutto prima che qualcuno glielo chiedesse, e ora stava sulla pista con il mantello di Balthier sulle spalle e la chiave inglese sotto il braccio, e non diceva kupo.
+Partirono quella sera stessa. Nono aveva già fatto il pieno, controllato i giunti, pulito i filtri; aveva fatto tutto prima che qualcuno glielo chiedesse, e ora stava sulla pista con il mantello di Balthier sulle spalle e la chiave inglese sotto il braccio, e non diceva kupò.
 
 Prima di salire, Balthier si fermò sotto il portello e guardò verso il porto. Le barche con l'occhio coperto rientravano a due a due nella luce rossa. Elza era in cima alla scalinata della dimora vuota. Rikken e Raz erano sulla banchina, in mezzo agli uomini, e davano ordini, e gli uomini li ascoltavano. Il porto si teneva.
 
