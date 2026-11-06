@@ -137,7 +137,7 @@ input[type=range] { width: 100%; accent-color: var(--accento); height: 28px; mar
 .pagina header button { min-width: 44px; height: 44px; display: grid; place-items: center; }
 .pagina header button.lett { font: 600 15px var(--serif); }
 .corpo { flex: 1; overflow-y: auto; padding: 20px 16px 200px; }
-.corpo article { max-width: 640px; margin: 0 auto; font: var(--dim, 19px)/var(--inter, 1.6) var(--font-testo, var(--serif)); }
+.corpo article { max-width: 640px; margin: 0 auto; overflow-wrap: break-word; hyphens: auto; font: var(--dim, 19px)/var(--inter, 1.6) var(--font-testo, var(--serif)); }
 .corpo p { margin: 0 0 .9em; }
 .corpo p.h { font-size: 1.25em; text-align: center; margin: 1.2em 0; line-height: 1.25; }
 .corpo span { cursor: pointer; border-radius: 3px; transition: background .2s; }
@@ -1016,12 +1016,23 @@ function tieniPunto(cambia) {
 }
 function impostaDim(v) {
   tieniPunto(() => {
-    stato.dim = Math.min(30, Math.max(14, v));
+    stato.dim = Math.min(DIM_MAX, Math.max(DIM_MIN, v));
     document.documentElement.style.setProperty('--dim', stato.dim + 'px');
   });
   salvaStato();
 }
-const dimensione = d => impostaDim(stato.dim + d);
+// Scala geometrica: ogni passo cambia la dimensione della stessa percentuale, quindi i passi crescono
+// salendo e si stringono scendendo. Il cursore va da 0 a 100 e copre 8–60 px. Si mostra in percentuale
+// della dimensione predefinita (19 px = 100%), così i valori fra un pixel e l'altro non hanno decimali.
+const DIM_MIN = 8, DIM_MAX = 60, DIM_PASSO = 1.08, DIM_BASE = 19;
+const dimDaCursore = p => Math.round(DIM_MIN * Math.pow(DIM_MAX / DIM_MIN, p / 100) * 10) / 10;
+const dimPercento = d => Math.round(d / DIM_BASE * 100) + '%';
+const cursoreDaDim = d => Math.round(100 * Math.log(d / DIM_MIN) / Math.log(DIM_MAX / DIM_MIN));
+const dimensione = d => {
+  // I passi stanno su una scala fissa che passa per 19 px (100%): tornando indietro si ritrova il valore di partenza.
+  const k = Math.round(Math.log(stato.dim / DIM_BASE) / Math.log(DIM_PASSO)) + d;
+  impostaDim(Math.round(DIM_BASE * Math.pow(DIM_PASSO, k) * 10) / 10);
+};
 $('piu-piccolo').onclick = () => dimensione(-1);
 $('piu-grande').onclick = () => dimensione(1);
 
@@ -1500,10 +1511,10 @@ function disegnaPannello() {
   const voceComando = ([id, nome, ic]) => spunta(nome, !u.nascosti.includes(id), on => {
     u.nascosti = on ? u.nascosti.filter(x => x !== id) : [...u.nascosti, id];
   }, ic);
-  const valore = el('span', {}, stato.dim + ' px');
-  const dim = el('input', { type: 'range', min: '14', max: '30', step: '1', 'aria-label': 'Dimensione del testo' });
-  dim.value = stato.dim;
-  dim.oninput = () => { impostaDim(+dim.value); valore.textContent = stato.dim + ' px'; };
+  const valore = el('span', {}, dimPercento(stato.dim));
+  const dim = el('input', { type: 'range', min: '0', max: '100', step: '1', 'aria-label': 'Dimensione del testo' });
+  dim.value = cursoreDaDim(stato.dim);
+  dim.oninput = () => { impostaDim(dimDaCursore(+dim.value)); valore.textContent = dimPercento(stato.dim); };
   const sotto = t => el('h3', {}, t);
   $('pannello-corpo').replaceChildren(
     sezione('aspetto', 'i-goccia', 'Aspetto', 'Tema, luce notturna, colore',
