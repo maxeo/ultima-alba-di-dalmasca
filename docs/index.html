@@ -143,6 +143,8 @@ input[type=range] { width: 100%; accent-color: var(--accento); height: 28px; mar
 .corpo span { cursor: pointer; border-radius: 3px; transition: background .2s; }
 .corpo span.ora-qui, .anteprima mark { background: var(--evid); }
 @supports (color: color-mix(in srgb, red 50%, blue)) { .corpo span.ora-qui, .anteprima mark { background: color-mix(in srgb, var(--accento) var(--evid-forza, 38%), transparent); } }
+.corpo span.w { transition: none; }
+.corpo article.parole span.ora-qui span.ora-parola { background: color-mix(in srgb, var(--accento) calc(var(--evid-forza, 38%) + 32%), transparent); box-shadow: 0 0 0 1px color-mix(in srgb, var(--accento) 55%, transparent); }
 .segui { position: fixed; right: 16px; bottom: 186px; z-index: 6; padding: 9px 14px; background: var(--testo); color: var(--sfondo); border-radius: 999px; font-size: 14px; }
 .annuncio { position: fixed; left: 50%; transform: translateX(-50%); bottom: 186px; background: var(--testo); color: var(--sfondo); padding: 8px 14px; border-radius: 10px; font-size: 14px; z-index: 7; max-width: calc(100vw - 32px); }
 /* Menu */
@@ -392,7 +394,7 @@ const $ = id => document.getElementById(id);
 const a = $('a');
 const CHIAVE = 'alba-stato-v1', CACHE = 'alba-audio-v1';
 const leggi = () => { try { return JSON.parse(localStorage.getItem(CHIAVE)) || {}; } catch { return {}; } };
-const UI_BASE = { accento: 'ambra', evid: 38, font: 'serif', inter: 1.6, indietro: [15], avanti: [30], continua: true, scambia: false, autoRiga: true, nascosti: ['scarica-file'], scaricaNascosto: true, notteOn: false, notte: 50, noBarra: false, noIcone: false, noAvanz: false, noTitolo: false };
+const UI_BASE = { accento: 'ambra', evid: 38, parole: false, font: 'serif', inter: 1.6, indietro: [15], avanti: [30], continua: true, scambia: false, autoRiga: true, nascosti: ['scarica-file'], scaricaNascosto: true, notteOn: false, notte: 50, noBarra: false, noIcone: false, noAvanz: false, noTitolo: false };
 let stato = Object.assign({ cap: {}, segni: [], ultimo: null, velocita: 1, dim: 19, tema: null, giorni: {}, notte: 0, alba: 0, traguardi: {} }, leggi());
 if (stato.ui && !stato.ui.scaricaNascosto) stato.ui.nascosti = [...(stato.ui.nascosti || []), 'scarica-file'];
 stato.ui = Object.assign({}, UI_BASE, stato.ui);
@@ -882,9 +884,22 @@ async function caricaTesto(c) {
     art.replaceChildren();
     par.forEach(q => {
       const p = el('p', q.h ? { class: 'h' } : {});
-      q.c.forEach(([t, testo]) => {
-        const s = el('span', { 'data-i': cue.length }, testo);
-        cue.push({ t, testo, el: s });
+      q.c.forEach(([t, testo, tp]) => {
+        const s = el('span', { 'data-i': cue.length });
+        const c = { t, testo, el: s };
+        // Se ci sono i tempi delle parole, ogni parola ha il suo elemento per l'evidenziazione parola per parola.
+        const pezzi = testo.split(/(\s+)/), conta = pezzi.filter(x => x && !/^\s+$/.test(x)).length;
+        if (Array.isArray(tp) && tp.length === conta) {
+          c.w = [];
+          for (const x of pezzi) {
+            if (!x) continue;
+            if (/^\s+$/.test(x)) { s.append(x); continue; }
+            const w = el('span', { class: 'w', 'data-w': c.w.length }, x);
+            c.w.push({ t: tp[c.w.length], el: w });
+            s.append(w);
+          }
+        } else s.textContent = testo;
+        cue.push(c);
         p.append(s, ' ');
       });
       art.append(p);
@@ -903,9 +918,33 @@ function segnaCue(t) {
   cue[i].el.classList.add('ora-qui');
   if (seguiVoce && !$('pagina').classList.contains('nascosto')) cue[i].el.scrollIntoView({ block: 'center', behavior: 'smooth' });
 }
+// Parola per parola (opzione in Impostazioni > Lettura): timeupdate arriva solo 4 volte al secondo, quindi si segue a ogni fotogramma.
+let parolaOra = null, fotogramma = 0;
+function segnaParola(t) {
+  const w = stato.ui.parole && cue[cueOra]?.w;
+  let x = null;
+  if (w) { for (const p of w) { if (p.t <= t + .04) x = p; else break; } }
+  if (x === parolaOra) return;
+  parolaOra?.el.classList.remove('ora-parola');
+  parolaOra = x;
+  x?.el.classList.add('ora-parola');
+}
+function seguiParole() {
+  cancelAnimationFrame(fotogramma);
+  const giro = () => {
+    if (!stato.ui.parole) { segnaParola(-1); return; }
+    if (corrente != null && !a.paused) { segnaCue(a.currentTime); segnaParola(a.currentTime); }
+    fotogramma = requestAnimationFrame(giro);
+  };
+  if (stato.ui.parole) fotogramma = requestAnimationFrame(giro);
+}
+a.addEventListener('seeked', () => segnaParola(a.currentTime));
 $('articolo').addEventListener('click', e => {
-  const i = e.target.dataset?.i;
-  if (i != null && !getSelection().toString()) { a.currentTime = cue[+i].t; if (a.paused) a.play(); seguiVoce = true; $('segui').classList.add('nascosto'); }
+  const s = e.target.closest?.('[data-i]'), i = s?.dataset.i;
+  if (i == null || getSelection().toString()) return;
+  const w = e.target.closest('[data-w]'), c = cue[+i];
+  a.currentTime = stato.ui.parole && w && c.w ? c.w[+w.dataset.w].t : c.t;
+  if (a.paused) a.play(); seguiVoce = true; $('segui').classList.add('nascosto');
 });
 // I comandi principali stanno su una riga se ci entrano; altrimenti salti e play sopra, gli altri sotto.
 // Con la disposizione automatica, le altre icone li seguono finché c'è spazio; le restanti vanno sotto.
@@ -1211,6 +1250,8 @@ function applicaUi() {
   const u = stato.ui, r = document.documentElement.style;
   r.setProperty('--evid-forza', u.evid + '%');
   r.setProperty('--inter', u.inter);
+  $('articolo').classList.toggle('parole', !!u.parole);
+  if (u.parole) seguiParole(); else cue[cueOra]?.w?.forEach(x => x.el.classList.remove('ora-parola'));
   const carattere = CARATTERI[u.font] || CARATTERI.serif;
   caricaCarattere(carattere);
   r.setProperty('--font-testo', carattere.css);
@@ -1481,7 +1522,9 @@ function disegnaPannello() {
       el('div', { class: 'op' }, el('div', { class: 'et' }, el('span', {}, 'Dimensione'), valore), dim),
       scelte('Carattere', Object.entries(CARATTERI).map(([k, c]) => [k, c.nome]), u.font, v => { u.font = v; }),
       scelte('Interlinea', [[1.45, 'Stretta'], [1.6, 'Normale'], [1.85, 'Ampia']], u.inter, v => { u.inter = v; }),
-      scelte('Evidenziazione della frase', [[22, 'Leggera'], [38, 'Media'], [50, 'Forte']], u.evid, v => { u.evid = v; })),
+      scelte('Evidenziazione della frase', [[22, 'Leggera'], [38, 'Media'], [50, 'Forte']], u.evid, v => { u.evid = v; }),
+      spunta('Segui anche parola per parola', !!u.parole, on => { u.parole = on; }, 'i-testo'),
+      el('p', { class: 'nota' }, 'Dentro la frase evidenziata, la parola letta in quel momento ha un colore più marcato.')),
     sezione('ascolto', 'i-cuffie', 'Ascolto', 'Salti, capitolo successivo',
       spunta('Passa da solo al capitolo successivo', u.continua, on => { u.continua = on; }, 'i-continua'),
       sotto('Salti'),
