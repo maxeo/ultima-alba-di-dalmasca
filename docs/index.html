@@ -138,7 +138,7 @@ input[type=range] { width: 100%; accent-color: var(--accento); height: 28px; mar
 .pagina header button.lett { font: 600 15px var(--serif); }
 .corpo { flex: 1; overflow-y: auto; padding: 20px 16px 200px; }
 .corpo article { max-width: 640px; margin: 0 auto; overflow-wrap: break-word; hyphens: auto; font: var(--dim, 19px)/var(--inter, 1.6) var(--font-testo, var(--serif)); }
-.corpo p { margin: 0 0 .9em; }
+.corpo p { margin: 0 0 .9em; text-align: var(--allinea, justify); }
 .corpo p.h { font-size: 1.25em; text-align: center; margin: 1.2em 0; line-height: 1.25; }
 .corpo span { cursor: pointer; border-radius: 3px; transition: background .2s; }
 .corpo span.ora-qui, .anteprima mark { background: var(--evid); }
@@ -394,7 +394,7 @@ const $ = id => document.getElementById(id);
 const a = $('a');
 const CHIAVE = 'alba-stato-v1', CACHE = 'alba-audio-v1';
 const leggi = () => { try { return JSON.parse(localStorage.getItem(CHIAVE)) || {}; } catch { return {}; } };
-const UI_BASE = { accento: 'ambra', evid: 38, parole: false, font: 'serif', inter: 1.6, indietro: [15], avanti: [30], continua: true, scambia: false, autoRiga: true, nascosti: ['scarica-file'], scaricaNascosto: true, notteOn: false, notte: 50, noBarra: false, noIcone: false, noAvanz: false, noTitolo: false };
+const UI_BASE = { accento: 'ambra', evid: 38, parole: false, allinea: 'justify', font: 'serif', inter: 1.6, indietro: [15], avanti: [30], continua: true, scambia: false, autoRiga: true, nascosti: ['scarica-file'], scaricaNascosto: true, notteOn: false, notte: 50, noBarra: false, noIcone: false, noAvanz: false, noTitolo: false };
 let stato = Object.assign({ cap: {}, segni: [], ultimo: null, velocita: 1, dim: 19, tema: null, giorni: {}, notte: 0, alba: 0, traguardi: {} }, leggi());
 if (stato.ui && !stato.ui.scaricaNascosto) stato.ui.nascosti = [...(stato.ui.nascosti || []), 'scarica-file'];
 stato.ui = Object.assign({}, UI_BASE, stato.ui);
@@ -1261,6 +1261,7 @@ function applicaUi() {
   const u = stato.ui, r = document.documentElement.style;
   r.setProperty('--evid-forza', u.evid + '%');
   r.setProperty('--inter', u.inter);
+  r.setProperty('--allinea', u.allinea || 'justify');
   $('articolo').classList.toggle('parole', !!u.parole);
   if (u.parole) seguiParole(); else cue[cueOra]?.w?.forEach(x => x.el.classList.remove('ora-parola'));
   const carattere = CARATTERI[u.font] || CARATTERI.serif;
@@ -1532,6 +1533,7 @@ function disegnaPannello() {
       el('div', { class: 'anteprima', 'aria-hidden': 'true' }, 'Le nozze della principessa Ashelia furono, ', el('mark', {}, 'prima di ogni altra cosa, un atto di prudenza.'), ' Due case antiche scelsero di presentarsi al mondo come una cosa sola.'),
       el('div', { class: 'op' }, el('div', { class: 'et' }, el('span', {}, 'Dimensione'), valore), dim),
       scelte('Carattere', Object.entries(CARATTERI).map(([k, c]) => [k, c.nome]), u.font, v => { u.font = v; }),
+      scelte('Allineamento', [['justify', 'Giustificato'], ['left', 'A sinistra']], u.allinea || 'justify', v => { u.allinea = v; }),
       scelte('Interlinea', [[1.45, 'Stretta'], [1.6, 'Normale'], [1.85, 'Ampia']], u.inter, v => { u.inter = v; }),
       scelte('Evidenziazione della frase', [[22, 'Leggera'], [38, 'Media'], [50, 'Forte']], u.evid, v => { u.evid = v; }),
       spunta('Segui anche parola per parola', !!u.parole, on => { u.parole = on; }, 'i-testo'),
