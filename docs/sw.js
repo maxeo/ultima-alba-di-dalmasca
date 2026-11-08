@@ -1,7 +1,7 @@
 // Tiene il lettore disponibile senza rete e serve l'audio salvato con le richieste a intervalli.
 const SHELL = 'alba-shell-v1';
 const AUDIO = 'alba-audio-v1';
-const FILE = ['./', 'index.html', 'manifest.webmanifest', 'icona.svg'];
+const FILE = ['./', 'index.html', 'manifest.webmanifest', 'icona.svg', 'caratteri/pinyon-script-latin.woff2'];
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(SHELL).then(c => c.addAll(FILE)).then(() => self.skipWaiting()));

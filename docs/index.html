@@ -140,6 +140,12 @@ input[type=range] { width: 100%; accent-color: var(--accento); height: 28px; mar
 .corpo article { max-width: 640px; margin: 0 auto; overflow-wrap: break-word; hyphens: auto; font: var(--dim, 19px)/var(--inter, 1.6) var(--font-testo, var(--serif)); }
 .corpo p { margin: 0 0 .9em; text-align: var(--allinea, justify); }
 .corpo p.h { font-size: 1.25em; text-align: center; margin: 1.2em 0; line-height: 1.25; }
+/* Carattere della firma: salvato con il lettore, così c'è anche senza rete e nell'app installata. */
+@font-face { font-family: "Pinyon Script"; src: url(caratteri/pinyon-script-latin.woff2) format("woff2"); font-display: swap; }
+/* Citazioni (le Memorie di Ondore e simili): corsivo e rientro; la firma va a destra. Lo stacco fra scene ha tre asterischi. */
+.corpo p.cit { font-style: italic; margin-left: 1.4em; margin-right: 1.4em; }
+.corpo p.firma { font: 1.3em/1.3 "Pinyon Script", var(--serif); color: var(--tenue); text-align: right; margin: -.2em 1.2em 1.6em; }
+.corpo p.st::before { content: '⁂'; display: block; text-align: center; font-style: normal; margin: .4em 0 1em; opacity: .55; }
 .corpo span { cursor: pointer; border-radius: 3px; transition: background .2s; }
 .corpo span.ora-qui, .anteprima mark { background: var(--evid); }
 @supports (color: color-mix(in srgb, red 50%, blue)) { .corpo span.ora-qui, .anteprima mark { background: color-mix(in srgb, var(--accento) var(--evid-forza, 38%), transparent); } }
@@ -883,7 +889,8 @@ async function caricaTesto(c) {
     if (corrente !== c.n) return;
     art.replaceChildren();
     par.forEach(q => {
-      const p = el('p', q.h ? { class: 'h' } : {});
+      const cl = q.h ? 'h' : ['cit', 'firma', 'st'].filter(k => q[k]).join(' ');
+      const p = el('p', cl ? { class: cl } : {});
       q.c.forEach(([t, testo, tp]) => {
         const s = el('span', { 'data-i': cue.length });
         const c = { t, testo, el: s };
