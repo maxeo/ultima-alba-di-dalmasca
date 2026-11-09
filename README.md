@@ -56,7 +56,7 @@ Il romanzo è stato scritto con modelli di intelligenza artificiale sotto la dir
 | `Romanzo/capitoli/` | I capitoli, uno per file |
 | `Romanzo/lavoro/` | Materiali di lavoro: scaletta, personaggi, agganci e note di revisione. Contengono anticipazioni e usano la vecchia numerazione delle Parti, da I a XIII |
 | `Audiolibro/` | Script per generare e pubblicare l'audio, dizionario di pronuncia dei nomi |
-| `docs/` | Il lettore web pubblicato su GitHub Pages, con audio compresso e testi sincronizzati |
+| `docs/` | Il sito pubblicato su GitHub Pages: audio compresso, testi sincronizzati e il lettore [Leggio](https://github.com/maxeo/leggio) |
 
 Per rigenerare il testo unico:
 

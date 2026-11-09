@@ -52,6 +52,7 @@ h1 { font: 500 clamp(32px, 8vw, 50px)/1.08 var(--serif); margin: 0 0 8px; text-w
 nav.filtri { display: flex; gap: 8px; overflow-x: auto; padding: 22px 0 6px; scrollbar-width: none; }
 nav.filtri button { white-space: nowrap; padding: 7px 13px; border: 1px solid var(--linea); border-radius: 999px; font-size: 14px; color: var(--tenue); min-height: 38px; }
 nav.filtri button[aria-pressed="true"] { background: var(--testo); color: var(--sfondo); border-color: var(--testo); }
+nav.filtri .sep { flex: 0 0 1px; background: var(--linea); margin: 6px 3px; }
 details.parte { border-bottom: 1px solid var(--linea); }
 details.parte summary { list-style: none; cursor: pointer; display: flex; justify-content: space-between; align-items: baseline; gap: 12px; padding: 16px 0; font: 500 20px/1.25 var(--serif); }
 details.parte summary::-webkit-details-marker { display: none; }
@@ -88,6 +89,41 @@ svg.ic { width: 22px; height: 22px; fill: currentColor; display: block; }
 .strumenti .az { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0; }
 .strumenti button, .strumenti label.btn { padding: 8px 12px; border: 1px solid var(--linea); border-radius: 10px; min-height: 40px; color: var(--testo); cursor: pointer; display: inline-flex; align-items: center; }
 .avviso { font-size: 13px; margin-top: 16px; }
+.sotto:empty, .avviso:empty { display: none; }
+
+/* Scaffale */
+.libri { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 14px; padding: 22px 0 6px; }
+.libro { display: grid; grid-template-columns: 62px 1fr; gap: 12px; align-items: start; width: 100%; text-align: left; padding: 12px; border: 1px solid var(--linea); border-radius: 14px; }
+.libro:hover { background: var(--pannello); }
+.libro .cop { width: 62px; height: 88px; display: grid; place-items: center; overflow: hidden; border-radius: 6px; background: var(--rilievo); color: var(--accento); }
+.libro .cop img { width: 100%; height: 100%; object-fit: cover; }
+.libro .cop svg.ic { width: 30px; height: 30px; }
+.libro b { display: block; font: 500 17px/1.25 var(--serif); }
+.libro small { display: block; font-size: 13px; color: var(--tenue); margin-top: 2px; }
+.libro .barra { margin-top: 8px; height: 3px; }
+.libro .tipo { display: inline-block; margin-top: 7px; padding: 1px 8px; border: 1px solid var(--linea); border-radius: 999px; font-size: 12px; color: var(--tenue); }
+.sc-strumenti { display: flex; gap: 8px; align-items: center; padding: 22px 0 0; }
+.sc-cerca { position: relative; flex: 1; min-width: 0; display: flex; align-items: center; }
+.sc-cerca svg.ic { position: absolute; left: 10px; width: 18px; height: 18px; color: var(--tenue); pointer-events: none; }
+.sc-cerca input { width: 100%; min-height: 44px; padding: 8px 12px 8px 36px; background: var(--pannello); border: 1px solid var(--linea); border-radius: 10px; }
+.sc-cerca input::-webkit-search-cancel-button { filter: invert(.5); }
+.sc-strumenti select { min-height: 44px; padding: 0 6px; background: var(--pannello); border: 1px solid var(--linea); border-radius: 10px; color: var(--tenue); font-size: 14px; max-width: 46vw; }
+.sc-strumenti .btn-tema { border: 1px solid var(--linea); border-radius: 10px; }
+.libri.elenco { grid-template-columns: 1fr; gap: 0; }
+.libri.elenco .libro { grid-template-columns: 34px 1fr; gap: 10px; align-items: center; padding: 12px 0; border: 0; border-top: 1px solid var(--linea); border-radius: 0; }
+.libri.elenco .cop { width: 34px; height: 46px; }
+.libri.elenco .cop svg.ic { width: 18px; height: 18px; }
+.libri.elenco .tipo { display: none; }
+.libri.copertine { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
+.libri.copertine .libro { grid-template-columns: 1fr; }
+.libri.copertine .cop { width: 100%; height: 200px; }
+.libri.copertine .cop svg.ic { width: 46px; height: 46px; }
+.libri.copertine .tipo { display: none; }
+
+/* Modi del libro: senza audio non c'e' il lettore, senza testo non c'e' il pulsante del testo */
+:root[data-modo="testo"] .lettore, :root[data-modo="testo"] .flotta, :root[data-modo="testo"] #segui,
+:root[data-modo="scaffale"] .lettore, :root[data-modo="scaffale"] .flotta, :root[data-modo="scaffale"] #segui { display: none !important; }
+:root[data-modo="audio"] #testo, :root[data-modo="testo"] #scarica-file { display: none !important; }
 
 /* Lettore fisso */
 .lettore { position: fixed; left: 0; right: 0; bottom: 0; background: var(--pannello); border-top: 1px solid var(--linea); padding: 10px 16px calc(10px + env(safe-area-inset-bottom)); z-index: 5; }
@@ -216,6 +252,12 @@ label.spunta input { -webkit-appearance: none; appearance: none; position: relat
 label.spunta input::before { content: ''; position: absolute; top: 3px; left: 3px; width: 20px; height: 20px; border-radius: 50%; background: var(--pannello); box-shadow: 0 1px 2px #0005; transition: transform .15s; }
 label.spunta input:checked { background: var(--accento); }
 label.spunta input:checked::before { transform: translateX(18px); }
+.tabs { display: flex; gap: 6px; margin: 2px 0 12px; padding: 3px; background: var(--rilievo); border-radius: 12px; }
+.tabs button { flex: 1; min-width: 0; min-height: 38px; padding: 8px 10px; border-radius: 9px; font-size: 14px; color: var(--tenue); }
+.tabs button[aria-selected="true"] { background: var(--pannello); color: var(--testo); box-shadow: 0 1px 3px rgba(0, 0, 0, .18); }
+.trag-scelta { margin: 2px 0 10px; }
+.trag-scelta select { width: 100%; min-height: 42px; padding: 0 8px; background: var(--pannello); border: 1px solid var(--linea); border-radius: 10px; color: var(--testo); font-size: 14px; }
+.trag-libro { margin: 16px 0 6px; }
 .trag-numeri { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 2px 0 6px; }
 .trag-numeri div { position: relative; padding: 10px 12px; background: var(--rilievo); border-radius: 10px; min-width: 0; }
 .trag-numeri svg.ic { position: absolute; top: 10px; right: 10px; width: 18px; height: 18px; color: var(--tenue); }
@@ -273,6 +315,11 @@ dialog.celebra::backdrop { background: var(--sfondo); }
   <symbol id="i-luna" viewBox="0 0 24 24"><path d="M14 3a9 9 0 1 0 7 14.6A8 8 0 0 1 14 3z"/></symbol>
   <symbol id="i-su" viewBox="0 0 24 24"><path d="m12 8 7 7-1.4 1.4-5.6-5.6-5.6 5.6L5 15z"/></symbol>
   <symbol id="i-vuoto" viewBox="0 0 24 24"></symbol>
+  <symbol id="i-indietro" viewBox="0 0 24 24"><path d="M11 4 4 11v2l7 7 1.4-1.4L7.8 13H20v-2H7.8l4.6-4.6z"/></symbol>
+  <symbol id="i-griglia" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M3 3h8v8H3zm2 2v4h4V5zm8-2h8v8h-8zm2 2v4h4V5zM3 13h8v8H3zm2 2v4h4v-4zm8-2h8v8h-8zm2 2v4h4v-4z"/></symbol>
+  <symbol id="i-elenco" viewBox="0 0 24 24"><path d="M3 5h3v3H3zm5 .5h13v2H8zM3 10.5h3v3H3zm5 .5h13v2H8zM3 16h3v3H3zm5 .5h13v2H8z"/></symbol>
+  <symbol id="i-copertina" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M4 3h7v12H4zm2 2v8h3V5zm7-2h7v12h-7zm2 2v8h3V5zM4 17h16v2H4zm0 3h11v2H4z"/></symbol>
+  <symbol id="i-cerca" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M10.5 3a7.5 7.5 0 1 0 4.6 13.4l4.2 4.3 1.4-1.4-4.2-4.3A7.5 7.5 0 0 0 10.5 3zm0 2a5.5 5.5 0 1 1 0 11 5.5 5.5 0 0 1 0-11z"/></symbol>
   <symbol id="i-meta" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zm0 2a8 8 0 0 1 0 16z"/></symbol>
   <symbol id="i-clessidra" viewBox="0 0 24 24"><path d="M6 2h12v2h-1v3.500L13.500 12l3.500 4.500V20h1v2H6v-2h1v-3.500l3.500-4.500L7 7.500V4H6z"/></symbol>
   <symbol id="i-fiamma" viewBox="0 0 24 24"><path d="M13 2s1 3.500-2 6.500C9 10.500 6 12.500 6 16a6 6 0 0 0 12 0c0-3-1.500-5-3-6.500 0 2-1 3-2 3 1-3.500 1-7 0-10.500z"/></symbol>
@@ -304,14 +351,37 @@ dialog.celebra::backdrop { background: var(--sfondo); }
   <symbol id="i-personalizza" viewBox="0 0 24 24"><path d="M3 6h9.2a3 3 0 0 1 5.6 0H21v2h-3.2a3 3 0 0 1-5.6 0H3zM3 16h3.2a3 3 0 0 1 5.6 0H21v2h-9.2a3 3 0 0 1-5.6 0H3z"/></symbol>
 </svg>
 
-<header class="alto">
+<header class="alto nascosto" id="alto-scaffale">
   <div class="alto-az">
+    <button class="btn-tema" id="condividi-sito-sc" aria-label="Condividi la pagina" title="Condividi la pagina"><svg class="ic"><use href="#i-condividi"/></svg></button>
+    <button class="btn-tema" data-menu-btn aria-label="Apri il menu" title="Apri il menu"><svg class="ic"><use href="#i-personalizza"/></svg></button>
+    <button class="btn-tema" data-tema-btn></button>
+  </div>
+  <h1 id="sc-titolo">L'ultima alba di Dalmasca</h1>
+  <p class="sotto" id="sc-sotto">Romanzo di fan tratto da <i>Final Fantasy XII</i>. Audiolibro.</p>
+</header>
+<main class="nascosto" id="main-scaffale">
+  <div class="sc-strumenti">
+    <label class="sc-cerca"><svg class="ic"><use href="#i-cerca"/></svg><input id="sc-cerca" type="search" placeholder="Cerca fra i libri" aria-label="Cerca fra i libri" autocomplete="off"></label>
+    <select id="sc-ordine" aria-label="Ordine dei libri"></select>
+    <button class="btn-tema" id="sc-vista"></button>
+  </div>
+  <nav class="filtri" id="sc-filtri" aria-label="Filtra i libri"></nav>
+  <div class="libri" id="libri"></div>
+  <section class="strumenti">
+    <p class="avviso" id="sc-avviso">Opera di fan, non ufficiale e non commerciale, senza legami con Square Enix. <i>Final Fantasy XII</i>, la sua trama, i suoi personaggi e il suo mondo appartengono a Square Enix. Voce sintetica. <a href="https://github.com/maxeo/ultima-alba-di-dalmasca" style="color:inherit">Progetto su GitHub</a>.</p>
+  </section>
+</main>
+
+<header class="alto" id="alto-libro">
+  <div class="alto-az">
+    <button class="btn-tema nascosto" id="allo-scaffale" aria-label="Torna allo scaffale" title="Torna allo scaffale"><svg class="ic"><use href="#i-indietro"/></svg></button>
     <button class="btn-tema" id="condividi-sito" aria-label="Condividi la pagina" title="Condividi la pagina"><svg class="ic"><use href="#i-condividi"/></svg></button>
     <button class="btn-tema" data-menu-btn aria-label="Apri il menu" title="Apri il menu"><svg class="ic"><use href="#i-personalizza"/></svg></button>
     <button class="btn-tema" data-tema-btn></button>
   </div>
-  <h1>L'ultima alba di Dalmasca</h1>
-  <p class="sotto">Romanzo di fan tratto da <i>Final Fantasy XII</i>. Audiolibro.</p>
+  <h1 id="titolo-libro">L'ultima alba di Dalmasca</h1>
+  <p class="sotto" id="sotto-libro">Romanzo di fan tratto da <i>Final Fantasy XII</i>. Audiolibro.</p>
   <div class="totale">
     <div class="riga"><span id="tot-a"></span><span id="tot-b"></span></div>
     <div class="barra"><i id="tot-barra"></i></div>
@@ -319,7 +389,7 @@ dialog.celebra::backdrop { background: var(--sfondo); }
   <button id="riprendi" class="riprendi nascosto"></button>
 </header>
 
-<main>
+<main id="main-libro">
   <nav class="filtri" aria-label="Filtra i capitoli">
     <button data-f="tutti" aria-pressed="true">Tutti</button>
     <button data-f="corso" aria-pressed="false">Da finire</button>
@@ -328,7 +398,7 @@ dialog.celebra::backdrop { background: var(--sfondo); }
   </nav>
   <div id="elenco"></div>
   <section class="strumenti">
-    <p class="avviso">Opera di fan, non ufficiale e non commerciale, senza legami con Square Enix. <i>Final Fantasy XII</i>, la sua trama, i suoi personaggi e il suo mondo appartengono a Square Enix. Voce sintetica. <a href="https://github.com/maxeo/ultima-alba-di-dalmasca" style="color:inherit">Progetto su GitHub</a>.</p>
+    <p class="avviso" id="avviso-libro">Opera di fan, non ufficiale e non commerciale, senza legami con Square Enix. <i>Final Fantasy XII</i>, la sua trama, i suoi personaggi e il suo mondo appartengono a Square Enix. Voce sintetica. <a href="https://github.com/maxeo/ultima-alba-di-dalmasca" style="color:inherit">Progetto su GitHub</a>.</p>
   </section>
 </main>
 
@@ -396,20 +466,52 @@ dialog.celebra::backdrop { background: var(--sfondo); }
 
 <script>
 'use strict';
+// Il libro di un sito con un libro solo, scritto da strumenti/crea-sito.js a partire da libro.json.
+// Con un catalogo (catalogo.json) vale null e i libri arrivano da li'.
+const LIBRO_SOLO = {"titolo":"L'ultima alba di Dalmasca","autore":"","chiave":"alba","modo":"sincronizzato","traguardi":{"primaParte":"Il crepuscolo","fine":"L'ultima alba"}};
+let LIBRO = LIBRO_SOLO || { titolo: '', chiave: 'leggio', traguardi: {} };
+// Libro aperto: catalogo, cartella dei dati, modo (sincronizzato, audio, testo), chiave.
+let CATALOGO = null, BASE = '', MODO = 'sincronizzato', libroAperto = null;
 const $ = id => document.getElementById(id);
 const a = $('a');
-const CHIAVE = 'alba-stato-v1', CACHE = 'alba-audio-v1';
-const leggi = () => { try { return JSON.parse(localStorage.getItem(CHIAVE)) || {}; } catch { return {}; } };
-const UI_BASE = { accento: 'ambra', evid: 38, parole: false, allinea: 'justify', font: 'serif', inter: 1.6, indietro: [15], avanti: [30], continua: true, scambia: false, autoRiga: true, nascosti: ['scarica-file'], scaricaNascosto: true, notteOn: false, notte: 50, noBarra: false, noIcone: false, noAvanz: false, noTitolo: false };
-let stato = Object.assign({ cap: {}, segni: [], ultimo: null, velocita: 1, dim: 19, tema: null, giorni: {}, notte: 0, alba: 0, traguardi: {} }, leggi());
-if (stato.ui && !stato.ui.scaricaNascosto) stato.ui.nascosti = [...(stato.ui.nascosti || []), 'scarica-file'];
-stato.ui = Object.assign({}, UI_BASE, stato.ui);
-if (stato.tema === 'notte') { stato.tema = null; stato.ui.notteOn = true; }
+// Le impostazioni valgono per tutti i libri; progressi, segnalibri e traguardi stanno per libro.
+const CH_UI = 'leggio-impostazioni-v1';
+const COMUNI = ['ui', 'tema', 'dim', 'velocita', 'aperti', 'trofei'];
+let CHIAVE = '', CACHE = '';
+const leggi = k => { try { return JSON.parse(localStorage.getItem(k)) || {}; } catch { return {}; } };
+const UI_BASE = { accento: 'ambra', evid: 38, parole: false, allinea: 'justify', font: 'serif', inter: 1.6, indietro: [15], avanti: [30], continua: true, scambia: false, autoRiga: true, nascosti: ['scarica-file'], scaricaNascosto: true, notteOn: false, notte: 50, noBarra: false, noIcone: false, noAvanz: false, noTitolo: false, vista: 'carte', ordine: 'catalogo' };
 const normalizzaCap = cap => { Object.values(cap).forEach(s => { if (s.ascoltati == null) s.ascoltati = s.pos > 5 ? s.pos : 0; if (s.giro == null) s.giro = s.ascoltati; if (s.finito == null) s.finito = !!s.fatto; else if (s.sentito == null) s.finito = false; if (s.sentito == null) s.sentito = []; }); };
-normalizzaCap(stato.cap);
-stato.ui.indietro = [].concat(stato.ui.indietro);
-stato.ui.avanti = [].concat(stato.ui.avanti);
-const salvaStato = () => { try { localStorage.setItem(CHIAVE, JSON.stringify(stato)); } catch {} };
+// "aperti" tiene quando ogni libro e' stato aperto l'ultima volta: serve all'ordine dello scaffale.
+// "trofei" sono i traguardi generali: valgono per tutto lo scaffale, non per un libro solo.
+const vuoto = () => ({ cap: {}, segni: [], ultimo: null, velocita: 1, dim: 19, tema: null, giorni: {}, notte: 0, alba: 0, traguardi: {}, aperti: {}, trofei: {} });
+let stato = vuoto();
+function sistemaStato() {
+  if (stato.ui && !stato.ui.scaricaNascosto) stato.ui.nascosti = [...(stato.ui.nascosti || []), 'scarica-file'];
+  stato.ui = Object.assign({}, UI_BASE, stato.ui);
+  if (stato.tema === 'notte') { stato.tema = null; stato.ui.notteOn = true; }
+  normalizzaCap(stato.cap);
+  stato.ui.indietro = [].concat(stato.ui.indietro);
+  stato.ui.avanti = [].concat(stato.ui.avanti);
+}
+const soloComuni = o => Object.fromEntries(COMUNI.filter(k => k in o).map(k => [k, o[k]]));
+// Prima di aprire un libro servono gia' tema e impostazioni: lo scaffale usa le stesse.
+function caricaComuni() {
+  CHIAVE = ''; CACHE = '';
+  stato = Object.assign(vuoto(), soloComuni(leggi(CH_UI)));
+  sistemaStato();
+}
+function caricaStato(chiave) {
+  CHIAVE = chiave + '-stato-v1'; CACHE = chiave + '-audio-v1';
+  // Nei siti con un libro solo le impostazioni stavano nello stato del libro: restano valide.
+  stato = Object.assign(vuoto(), leggi(CHIAVE), soloComuni(leggi(CH_UI)));
+  sistemaStato();
+}
+const salvaStato = () => {
+  try {
+    if (CHIAVE) localStorage.setItem(CHIAVE, JSON.stringify(stato));
+    localStorage.setItem(CH_UI, JSON.stringify(soloComuni(stato)));
+  } catch {}
+};
 
 let capitoli = [], parti = [], corrente = null, salvati = new Set(), inCorso = new Map(), filtro = 'tutti';
 let cue = [], cueOra = -1, seguiVoce = true, trascinando = false, timerSonno = null, fineSonno = 0, ultimoSalvataggio = 0;
@@ -425,9 +527,22 @@ function durataTesto(s) {
   return h ? `${h} h ${m} min` : `${m} min`;
 }
 const mb = b => b >= 1073741824 ? (b / 1073741824).toFixed(1).replace('.', ',') + ' GB' : (b / 1048576).toFixed(0) + ' MB';
-const pronti = () => capitoli.filter(c => c.durata);
+// Un capitolo e' pronto se c'e' quello che il modo del libro richiede: l'audio, oppure il testo.
+const prontoCap = (c, m = MODO) => (m === 'testo' ? c.parole > 0 : c.durata > 0);
+// Durata in secondi: quella dell'audio, oppure la lettura stimata a 200 parole al minuto.
+const quanto = (c, m = MODO) => (m === 'testo' ? Math.max(60, Math.round(c.parole / 200) * 60) : c.durata || 0);
+// Quanta parte del capitolo e' stata fatta, da 0 a 1. Solo testo: la posizione e' gia' una frazione.
+const fattaParte = (c, s, m = MODO) => (s && s.fatto ? 1 : m === 'testo' ? Math.min(1, (s && s.pos) || 0) : Math.min(1, ((s && s.pos) || 0) / (quanto(c, m) || 1)));
+const pronti = () => capitoli.filter(c => prontoCap(c));
 const sc = n => stato.cap[n] || (stato.cap[n] = { pos: 0, fatto: false, ascoltati: 0, giro: 0, finito: false, sentito: [] });
-const percorso = (c, cart, est) => `${cart}/${String(c.n).padStart(3, '0')}.${est}`;
+// Dove sta il file del capitolo: di solito "audio/001.mp3" dentro la cartella del libro, ma il capitolo
+// puo' anche indicare il suo file con "file" (audio) o "testo", pure su un altro sito.
+const percorsoIn = (base, c, cart, est) => {
+  const suo = cart === 'audio' ? c.file : c.testo;
+  return suo ? new URL(suo, new URL(base || './', location.href)).href
+    : `${base}${cart}/${String(c.n).padStart(3, '0')}.${est}`;
+};
+const percorso = (c, cart, est) => percorsoIn(BASE, c, cart, est);
 const assoluto = p => new URL(p, location.href).href;
 
 function annuncia(t) {
@@ -451,22 +566,28 @@ function el(tag, attr = {}, ...figli) {
 }
 const icona = id => { const s = document.createElementNS('http://www.w3.org/2000/svg', 'svg'); s.setAttribute('class', 'ic'); const u = document.createElementNS('http://www.w3.org/2000/svg', 'use'); u.setAttribute('href', '#' + id); s.append(u); return s; };
 
+function infoCap(c, s) {
+  if (!prontoCap(c)) return 'In arrivo';
+  const d = quanto(c);
+  if (MODO === 'testo') {
+    const f = Math.min(1, s.pos || 0);
+    return s.fatto ? `Letto · ${durataTesto(d)}` : f > .02 ? `Restano ${durataTesto(d * (1 - f))}` : durataTesto(d);
+  }
+  return s.fatto ? `Ascoltato · ${durataTesto(d)}`
+    : s.pos > 5 ? `Restano ${durataTesto(d - s.pos)}` : durataTesto(d);
+}
 function rigaCapitolo(c) {
   const s = stato.cap[c.n] || {};
-  const pct = s.fatto ? 100 : (c.durata && s.pos ? Math.min(100, s.pos / c.durata * 100) : 0);
-  let inf = 'In arrivo';
-  if (c.durata) {
-    inf = s.fatto ? `Ascoltato · ${durataTesto(c.durata)}`
-      : s.pos > 5 ? `Restano ${durataTesto(c.durata - s.pos)}` : durataTesto(c.durata);
-  }
-  const inf2 = el('span', { class: 'inf' }, inf);
-  const apri = el('button', { class: 'apri', onclick: () => c.durata && carica(c.n, true), ...(c.durata ? {} : { disabled: '' }) },
+  const ok = prontoCap(c);
+  const pct = Math.min(100, fattaParte(c, s) * 100);
+  const inf2 = el('span', { class: 'inf' }, infoCap(c, s));
+  const apri = el('button', { class: 'apri', onclick: () => ok && carica(c.n, true), ...(ok ? {} : { disabled: '' }) },
     el('span', { class: 'num' }, String(c.n)),
     el('span', {}, el('span', { class: 'tit' }, c.titolo), inf2, pct > 0 && !s.fatto ? barra(pct) : null));
   const fronte = el('div', { class: 'cap-fronte' }, apri);
   const scorri = el('div', { class: 'cap-scorri' }, fronte);
-  const r = el('div', { class: 'cap' + (corrente === c.n ? ' corrente' : '') + (s.fatto ? ' fatto' : '') + (c.durata ? '' : ' assente'), id: 'c' + c.n }, scorri);
-  if (c.durata) {
+  const r = el('div', { class: 'cap' + (corrente === c.n ? ' corrente' : '') + (s.fatto ? ' fatto' : '') + (ok ? '' : ' assente'), id: 'c' + c.n }, scorri);
+  if (ok) {
     fronte.append(bottoneSalva(c));
     scorri.prepend(azioneAzzera(c, r));
     gestiRiga(c, r, fronte);
@@ -517,6 +638,7 @@ function chiudiSlider() {
   nodoSlider = null;
 }
 function apriSlider(c, r) {
+  if (MODO === 'testo') return;
   if (nodoSlider && +nodoSlider.dataset.n === c.n) return;
   chiudiSlider();
   chiudiScorsa();
@@ -651,26 +773,41 @@ function disegnaSegni(box) {
 }
 function disegnaTotale() {
   const p = pronti();
-  const tot = p.reduce((x, c) => x + c.durata, 0);
-  const asc = p.reduce((x, c) => { const s = stato.cap[c.n]; return x + (s?.fatto ? c.durata : Math.min(s?.pos || 0, c.durata)); }, 0);
+  const tot = p.reduce((x, c) => x + quanto(c), 0);
+  const asc = p.reduce((x, c) => x + quanto(c) * fattaParte(c, stato.cap[c.n]), 0);
   const fatti = p.filter(c => stato.cap[c.n]?.fatto).length;
-  $('tot-a').textContent = `${fatti} di ${p.length} capitoli ascoltati`;
+  $('tot-a').textContent = `${fatti} di ${p.length} capitoli ${MODO === 'testo' ? 'letti' : 'ascoltati'}`;
   $('tot-b').textContent = p.length < capitoli.length ? `${p.length} pronti su ${capitoli.length}` : durataTesto(tot);
   $('tot-barra').style.width = (tot ? asc / tot * 100 : 0) + '%';
   const u = stato.ultimo && capitoli.find(c => c.n === stato.ultimo);
   const r = $('riprendi');
-  if (u && u.durata && a.paused) {
+  if (u && prontoCap(u) && (MODO === 'testo' || a.paused)) {
     const s = sc(u.n);
-    r.replaceChildren(el('small', {}, s.fatto ? 'Ricomincia' : `Riprendi da ${hms(s.pos)}`), el('b', {}, `${u.n}. ${u.titolo}`));
+    const da = MODO === 'testo' ? `Riprendi dal ${Math.round(Math.min(1, s.pos || 0) * 100)}%` : `Riprendi da ${hms(s.pos)}`;
+    r.replaceChildren(el('small', {}, s.fatto ? 'Ricomincia' : da), el('b', {}, `${u.n}. ${u.titolo}`));
     r.onclick = () => { carica(u.n, true); };
     r.classList.remove('nascosto');
   } else r.classList.add('nascosto');
 }
 
 // Riproduzione
+// Porta il testo alla frazione di pagina gia' letta (solo testo).
+function vaiAlPunto(f) {
+  const box = $('corpo');
+  requestAnimationFrame(() => {
+    const m = box.scrollHeight - box.clientHeight;
+    box.scrollTop = m > 0 ? Math.min(1, f || 0) * m : 0;
+  });
+}
+function apriPagina() {
+  $('pagina').classList.remove('nascosto');
+  $('testo').classList.add('attivo');
+  seguiVoce = true;
+  altezzaLettore();
+}
 function carica(n, avvia, da) {
   const c = capitoli.find(k => k.n === n);
-  if (!c || !c.durata) return;
+  if (!c || !prontoCap(c)) return;
   salvaPosizione(true);
   const stesso = corrente === n;
   chiudiSerieSalti();
@@ -679,20 +816,24 @@ function carica(n, avvia, da) {
   stato.ultimo = n;
   const s = sc(n);
   const inizio = da != null ? da : (s.fatto ? 0 : s.pos);
-  if (!stesso) {
+  if (s.fatto && da == null) { s.fatto = false; s.pos = 0; s.giro = 0; s.sentito = []; }
+  if (MODO === 'testo') {
+    apriPagina();
+    if (!stesso) caricaTesto(c).then(() => { if (corrente === n) vaiAlPunto(inizio); });
+    else vaiAlPunto(inizio);
+  } else if (!stesso) {
     a.src = percorso(c, 'audio', 'mp3');
     a.playbackRate = stato.velocita;
     a.addEventListener('loadedmetadata', () => { a.currentTime = inizio; a.playbackRate = stato.velocita; }, { once: true });
-    caricaTesto(c);
+    if (MODO === 'sincronizzato') caricaTesto(c);
   } else a.currentTime = inizio;
-  if (s.fatto && da == null) { s.fatto = false; s.pos = 0; s.giro = 0; s.sentito = []; }
   $('nome').textContent = `${c.n}. ${c.titolo}`;
   $('pagina-t').textContent = `${c.n}. ${c.titolo}`;
   aggiornaFatto();
-  aggiornaMedia(c);
+  if (MODO !== 'testo') aggiornaMedia(c);
   salvaStato();
-  if (avvia) a.play().catch(() => annuncia('Premi play per iniziare.'));
-  location.hash = String(n);
+  if (avvia && MODO !== 'testo') a.play().catch(() => annuncia('Premi play per iniziare.'));
+  scriviHash(c.n);
   disegna();
   aggiornaTempo();
 }
@@ -701,14 +842,18 @@ function adiacente(d) {
   return p[i + d];
 }
 function salvaPosizione(forza) {
-  if (corrente == null || !isFinite(a.currentTime)) return;
+  if (corrente == null) return;
+  if (MODO !== 'testo' && !isFinite(a.currentTime)) return;
   const ora = Date.now();
   if (!forza && ora - ultimoSalvataggio < 4000) return;
   ultimoSalvataggio = ora;
   verificaTraguardi();
+  // Solo testo: la posizione la scrive lo scorrimento della pagina.
+  if (MODO === 'testo') { salvaStato(); return; }
   if (a.currentTime > 0) { sc(corrente).pos = a.currentTime; salvaStato(); }
 }
 function aggiornaTempo() {
+  if (MODO === 'testo') return;
   const c = capitoli.find(k => k.n === corrente);
   const d = isFinite(a.duration) && a.duration ? a.duration : (c?.durata || 0);
   const t = a.currentTime || (c ? sc(c.n).pos : 0) || 0;
@@ -719,7 +864,7 @@ function aggiornaTempo() {
   aggiornaRigaInAscolto(c, t);
 }
 function aggiornaRigaInAscolto(c, t) {
-  if (!c || !c.durata || sc(c.n).fatto) return;
+  if (!c || !prontoCap(c) || sc(c.n).fatto) return;
   const r = $('c' + c.n);
   const barra = r?.querySelector('.barra i'), inf = r?.querySelector('.inf');
   if (barra) barra.style.width = Math.min(100, t / c.durata * 100) + '%';
@@ -728,7 +873,8 @@ function aggiornaRigaInAscolto(c, t) {
 }
 function aggiornaFatto() {
   const s = corrente != null ? sc(corrente) : null;
-  const nome = s?.fatto ? 'Segna come da ascoltare' : 'Segna come ascoltato';
+  const verbo = MODO === 'testo' ? 'leggere' : 'ascoltare';
+  const nome = s?.fatto ? `Segna come da ${verbo}` : (MODO === 'testo' ? 'Segna come letto' : 'Segna come ascoltato');
   const b = $('fatto');
   b.setAttribute('aria-label', nome); b.title = nome;
   b.classList.toggle('attivo', !!s?.fatto);
@@ -736,7 +882,7 @@ function aggiornaFatto() {
 function aggiornaMedia(c) {
   if (!('mediaSession' in navigator)) return;
   navigator.mediaSession.metadata = new MediaMetadata({
-    title: `${c.n}. ${c.titolo}`, artist: "L'ultima alba di Dalmasca", album: c.parte,
+    title: `${c.n}. ${c.titolo}`, artist: LIBRO.autore || LIBRO.titolo, album: c.parte || LIBRO.titolo,
     artwork: [{ src: assoluto('icona.svg'), sizes: '512x512', type: 'image/svg+xml' }]
   });
 }
@@ -871,7 +1017,7 @@ if ('mediaSession' in navigator) {
 addEventListener('pagehide', () => salvaPosizione(true));
 document.addEventListener('visibilitychange', () => { if (document.hidden) salvaPosizione(true); });
 addEventListener('keydown', e => {
-  if (e.target.matches('input,select') || $('pannello').open) return;
+  if (e.target.matches('input,select') || $('pannello').open || MODO === 'testo') return;
   if (e.code === 'Space' && !e.target.matches('button,summary')) { e.preventDefault(); $('play').click(); }
   if (e.code === 'ArrowLeft') salta(-passo('indietro'));
   if (e.code === 'ArrowRight') salta(passo('avanti'));
@@ -891,6 +1037,8 @@ async function caricaTesto(c) {
     par.forEach(q => {
       const cl = q.h ? 'h' : ['cit', 'firma', 'st'].filter(k => q[k]).join(' ');
       const p = el('p', cl ? { class: cl } : {});
+      // Libri di solo testo: il paragrafo e' una stringa, senza frasi ne' tempi.
+      if (!q.c) { p.textContent = q.s || ''; art.append(p); return; }
       q.c.forEach(([t, testo, tp]) => {
         const s = el('span', { 'data-i': cue.length });
         const c = { t, testo, el: s };
@@ -956,6 +1104,7 @@ $('articolo').addEventListener('click', e => {
 // I comandi principali stanno su una riga se ci entrano; altrimenti salti e play sopra, gli altri sotto.
 // Con la disposizione automatica, le altre icone li seguono finché c'è spazio; le restanti vanno sotto.
 function disponiComandi() {
+  if (MODO === 'testo' || !libroAperto) return;
   const u = stato.ui, r = $('riga-principale'), ri = $('riga-icone'), menu = $('personalizza');
   const icone = [...COMANDI.map(([id]) => $(id)), menu];
   icone.forEach(e => ri.append(e));
@@ -989,7 +1138,8 @@ function disponiComandi() {
 }
 function altezzaLettore() {
   disponiComandi();
-  const h = $('lettore').offsetHeight, senza = stato.ui.noBarra;
+  const senzaLettore = MODO === 'testo' || !libroAperto;
+  const h = senzaLettore ? 0 : $('lettore').offsetHeight, senza = stato.ui.noBarra || senzaLettore;
   $('pagina').style.bottom = h + 'px';
   document.body.style.paddingBottom = (senza ? 80 : h + 24) + 'px';
   $('segui').style.bottom = $('annuncio').style.bottom = (senza ? 80 : h + 12) + 'px';
@@ -1008,6 +1158,29 @@ const staccaSegui = () => { if (seguiVoce && !$('pagina').classList.contains('na
 $('corpo').addEventListener('wheel', staccaSegui, { passive: true });
 $('corpo').addEventListener('touchmove', staccaSegui, { passive: true });
 $('segui').onclick = () => { seguiVoce = true; $('segui').classList.add('nascosto'); cue[cueOra]?.el.scrollIntoView({ block: 'center', behavior: 'smooth' }); };
+// Solo testo: la posizione e' la frazione di pagina scorsa, e il tempo passato a leggere conta come ascolto.
+let fermoScorrimento = null;
+$('corpo').addEventListener('scroll', () => {
+  if (MODO !== 'testo' || corrente == null) return;
+  clearTimeout(fermoScorrimento);
+  fermoScorrimento = setTimeout(() => {
+    if (MODO !== 'testo' || corrente == null) return;
+    const box = $('corpo'), m = box.scrollHeight - box.clientHeight;
+    const f = m > 0 ? Math.min(1, box.scrollTop / m) : 1;
+    const s = sc(corrente);
+    if (f >= .98) { s.fatto = true; s.finito = true; s.pos = 0; }
+    else s.pos = Math.round(f * 1000) / 1000;
+    salvaStato(); verificaTraguardi(); aggiornaFatto(); disegna();
+  }, 400);
+}, { passive: true });
+setInterval(() => {
+  if (MODO !== 'testo' || corrente == null || document.hidden || $('pagina').classList.contains('nascosto')) return;
+  const s = sc(corrente);
+  s.ascoltati = (s.ascoltati || 0) + 1;
+  s.giro = (s.giro || 0) + 1;
+  registraGiorno(1);
+  if (Date.now() - ultimoSalvataggio >= 5000) salvaPosizione(true);
+}, 1000);
 // Cambiando il testo, la frase a metà pagina resta a metà pagina
 function tieniPunto(cambia) {
   const c = $('corpo');
@@ -1051,22 +1224,27 @@ async function salva(c) {
   try {
     if (navigator.storage?.persist) navigator.storage.persist().catch(() => {});
     const cache = await caches.open(CACHE);
-    const url = assoluto(percorso(c, 'audio', 'mp3'));
-    const r = await fetch(url, { cache: 'no-store' });
-    if (!r.ok) throw new Error(r.status);
-    const lettore = r.body.getReader(), pezzi = [];
-    let letti = 0, ultimo = -1;
-    for (;;) {
-      const { done, value } = await lettore.read();
-      if (done) break;
-      pezzi.push(value); letti += value.length;
-      const pct = Math.floor(letti / c.byte * 100);
-      if (pct !== ultimo) { ultimo = pct; inCorso.set(c.n, Math.min(pct, 99)); aggiornaRiga(c); }
+    if (MODO !== 'testo') {
+      const url = assoluto(percorso(c, 'audio', 'mp3'));
+      const r = await fetch(url, { cache: 'no-store' });
+      if (!r.ok) throw new Error(r.status);
+      const lettore = r.body.getReader(), pezzi = [];
+      let letti = 0, ultimo = -1;
+      for (;;) {
+        const { done, value } = await lettore.read();
+        if (done) break;
+        pezzi.push(value); letti += value.length;
+        const pct = Math.floor(letti / (c.byte || letti) * 100);
+        if (pct !== ultimo) { ultimo = pct; inCorso.set(c.n, Math.min(pct, 99)); aggiornaRiga(c); }
+      }
+      await cache.put(url, new Response(new Blob(pezzi, { type: 'audio/mpeg' }), { headers: { 'Content-Type': 'audio/mpeg', 'Content-Length': String(letti) } }));
     }
-    await cache.put(url, new Response(new Blob(pezzi, { type: 'audio/mpeg' }), { headers: { 'Content-Type': 'audio/mpeg', 'Content-Length': String(letti) } }));
-    const urlT = assoluto(percorso(c, 'testi', 'json'));
-    const t = await fetch(urlT, { cache: 'no-store' });
-    if (t.ok) await cache.put(urlT, t);
+    if (MODO !== 'audio') {
+      const urlT = assoluto(percorso(c, 'testi', 'json'));
+      const t = await fetch(urlT, { cache: 'no-store' });
+      if (t.ok) await cache.put(urlT, t);
+      else if (MODO === 'testo') throw new Error(t.status);
+    }
     salvati.add(c.n);
     annuncia(`Capitolo ${c.n} salvato.`);
   } catch {
@@ -1091,10 +1269,13 @@ async function togli(c) {
   disegna(); spazio();
 }
 async function leggiSalvati() {
-  if (!('caches' in window)) return;
+  salvati = new Set();
+  if (!('caches' in window) || !CACHE) return;
   const cache = await caches.open(CACHE);
-  const chiavi = await cache.keys();
-  salvati = new Set(chiavi.map(r => /audio\/(\d+)\.mp3$/.exec(r.url)).filter(Boolean).map(m => +m[1]));
+  // I file possono avere un nome qualsiasi: il capitolo salvato si riconosce dal suo indirizzo.
+  const avuti = new Set((await cache.keys()).map(r => r.url));
+  const cart = MODO === 'testo' ? 'testi' : 'audio', est = MODO === 'testo' ? 'json' : 'mp3';
+  salvati = new Set(capitoli.filter(c => avuti.has(assoluto(percorso(c, cart, est)))).map(c => c.n));
 }
 function spazio() {
   const box = $('offline-corpo');
@@ -1228,11 +1409,13 @@ $('continua').onclick = () => {
   salvaStato(); applicaUi();
   annuncia(stato.ui.continua ? 'Alla fine passa al capitolo successivo.' : 'Alla fine del capitolo si ferma.');
 };
-$('condividi-sito').onclick = async () => {
-  const url = location.origin + location.pathname, titolo = document.title;
+const condividiPagina = async () => {
+  const url = location.href, titolo = document.title;
   if (navigator.share) { try { await navigator.share({ title: titolo, url }); } catch {} return; }
   try { await navigator.clipboard.writeText(url); annuncia('Link copiato.'); } catch { annuncia('Copia non riuscita.'); }
 };
+$('condividi-sito').onclick = condividiPagina;
+$('condividi-sito-sc').onclick = condividiPagina;
 $('condividi').onclick = async () => {
   const c = capitoli.find(k => k.n === corrente);
   if (!c) return annuncia('Scegli prima un capitolo.');
@@ -1312,6 +1495,51 @@ function spunta(testo, attiva, fn, ic) {
 }
 const testoSalto = s => s <= 60 || s % 60 ? String(s) : s / 60 + 'm';
 const altroAperto = {};
+// Dallo scaffale i capitoli salvati si contano libro per libro: ogni libro ha la sua cache.
+async function libriSalvati() {
+  if (!('caches' in window)) return null;
+  const fuori = [];
+  for (const v of (CATALOGO ? CATALOGO.libri : [])) {
+    const nome = v.chiave + '-audio-v1';
+    if (!(await caches.has(nome))) continue;
+    const avuti = new Set((await (await caches.open(nome)).keys()).map(r => r.url));
+    if (!avuti.size) continue;
+    const m = modoDi(v), cart = m === 'testo' ? 'testi' : 'audio', est = m === 'testo' ? 'json' : 'mp3';
+    const dentro = (v.dati?.capitoli || []).filter(c => avuti.has(assoluto(percorsoIn(v.base || '', c, cart, est))));
+    fuori.push({ v, nome, quanti: dentro.length || avuti.size, byte: dentro.reduce((x, c) => x + (c.byte || 0), 0) });
+  }
+  return fuori;
+}
+async function riempiOffScaffale(box) {
+  const lista = await libriSalvati();
+  if (!lista) return box.replaceChildren(el('p', { class: 'nota' }, 'Questo browser non salva i capitoli sul dispositivo.'));
+  const totCap = lista.reduce((x, r) => x + r.quanti, 0), totByte = lista.reduce((x, r) => x + r.byte, 0);
+  const libero = el('p', { class: 'nota' });
+  if (navigator.storage?.estimate) navigator.storage.estimate().then(t => { if (t.quota) libero.textContent = `Spazio ancora disponibile per il browser: circa ${mb(t.quota - (t.usage || 0))}.`; }).catch(() => {});
+  const riga = r => {
+    const b = el('button', { class: 'dati-voce', onclick: () => {
+      b.replaceWith(el('div', { class: 'dati-conferma' }, el('p', {}, `Togliere dal dispositivo ${testoCapitoli(r.quanti)} di «${r.v.titolo}»? I progressi restano.`),
+        el('div', {}, el('button', { class: 'si', onclick: async () => { await caches.delete(r.nome); if (r.v.chiave === libroAperto) { salvati.clear(); disegna(); } annuncia(`Tolti dal dispositivo: ${testoCapitoli(r.quanti)}.`); riempiOffScaffale(box); } }, 'Togli'),
+          el('button', { onclick: () => riempiOffScaffale(box) }, 'Annulla'))));
+    } }, icona(ICONA_MODO[modoDi(r.v)] || 'i-libro'),
+      el('span', {}, el('b', {}, r.v.titolo), el('small', {}, `${testoCapitoli(r.quanti)}${r.byte ? ', ' + mb(r.byte) : ''} · tocca per liberare lo spazio`)));
+    return b;
+  };
+  box.replaceChildren(...[
+    el('div', { class: 'trag-numeri' },
+      el('div', {}, el('b', {}, String(totCap)), el('small', {}, 'Capitoli salvati')),
+      el('div', {}, el('b', {}, mb(totByte)), el('small', {}, 'Spazio occupato'))),
+    lista.length ? el('h3', {}, 'Libri sul dispositivo') : el('p', { class: 'nota' }, 'Nessun capitolo salvato. Apri un libro e salva i capitoli che ti servono senza rete.'),
+    ...lista.map(riga),
+    libero
+  ].filter(Boolean));
+}
+function corpoOffScaffale() {
+  const box = el('div', {}, el('p', { class: 'nota' }, 'Conto i capitoli salvati…'));
+  riempiOffScaffale(box);
+  return box;
+}
+
 // Accetta 90, -90, 5*60, 5x60, 1,5*60: il segno non conta, la direzione la dà il gruppo
 function leggiSecondi(t) {
   const pezzi = t.trim().replace(/^[-−+] */, '').split(/ *[*x×] */i);
@@ -1362,42 +1590,112 @@ function registraGiorno(d) {
   if (ora < 5) stato.notte += d;
   else if (ora < 7) stato.alba += d;
 }
-function statistiche() {
-  const finito = c => !!stato.cap[c.n]?.finito;
-  const giorni = Object.keys(stato.giorni).filter(k => stato.giorni[k] >= 60).map(numeroGiorno).sort((x, y) => x - y);
+// Giorni attivi, serie in corso, serie migliore e giorno record da una mappa giorno -> secondi.
+function serieDa(giorni) {
+  const attivi = Object.keys(giorni).filter(k => giorni[k] >= 60).map(numeroGiorno).sort((x, y) => x - y);
   let corsa = 0, migliore = 0, prima = null;
-  for (const g of giorni) { corsa = g === prima + 1 ? corsa + 1 : 1; prima = g; migliore = Math.max(migliore, corsa); }
+  for (const g of attivi) { corsa = g === prima + 1 ? corsa + 1 : 1; prima = g; migliore = Math.max(migliore, corsa); }
   const oggi = numeroGiorno(chiaveGiorno(new Date()));
   return {
+    attivi: attivi.length,
+    serie: prima !== null && oggi - prima <= 1 ? corsa : 0,
+    migliore,
+    record: Math.max(0, ...Object.values(giorni))
+  };
+}
+function statistiche() {
+  const finito = c => !!stato.cap[c.n]?.finito;
+  return Object.assign({
     totale: Object.values(stato.cap).reduce((t, s) => t + (s.ascoltati || 0), 0),
     finiti: capitoli.filter(finito).length,
     capitoli: capitoli.length,
     prologo: capitoli.filter(c => c.parte === parti[0]).filter(finito).length,
-    capitoliPrologo: capitoli.filter(c => c.parte === parti[0]).length,
-    attivi: giorni.length,
-    serie: prima !== null && oggi - prima <= 1 ? corsa : 0,
-    migliore,
-    record: Math.max(0, ...Object.values(stato.giorni))
-  };
+    capitoliPrologo: capitoli.filter(c => c.parte === parti[0]).length
+  }, serieDa(stato.giorni));
+}
+// Le stesse statistiche per un libro qualsiasi dello scaffale, prese dai suoi progressi salvati.
+// Il libro aperto ha i dati freschi in memoria, quindi per quello vale statistiche().
+function statLibro(v) {
+  if (v.chiave === libroAperto && capitoli.length) return statistiche();
+  const s = leggi(v.chiave + '-stato-v1'), cap = s.cap || {};
+  const caps = v.dati?.capitoli || [], prima = (v.dati?.parti || [])[0];
+  const finito = c => !!cap[c.n]?.finito;
+  return Object.assign({
+    totale: Object.values(cap).reduce((t, x) => t + (x.ascoltati || 0), 0),
+    finiti: caps.filter(finito).length,
+    capitoli: caps.length,
+    prologo: prima ? caps.filter(c => c.parte === prima).filter(finito).length : 0,
+    capitoliPrologo: prima ? caps.filter(c => c.parte === prima).length : 0
+  }, serieDa(s.giorni || {}));
+}
+// Lo scaffale intero: tempo, giorni, libri finiti. I giorni dei libri si sommano fra loro.
+function statGenerali() {
+  const libri = CATALOGO ? CATALOGO.libri : [];
+  const giorni = {};
+  let totale = 0, notte = 0, alba = 0, fatti = 0, iniziati = 0, capFiniti = 0, conIndice = 0;
+  for (const v of libri) {
+    const st = statLibro(v);
+    const s = v.chiave === libroAperto ? stato : leggi(v.chiave + '-stato-v1');
+    totale += st.totale;
+    capFiniti += st.finiti;
+    notte += s.notte || 0;
+    alba += s.alba || 0;
+    for (const [k, n] of Object.entries(s.giorni || {})) giorni[k] = (giorni[k] || 0) + n;
+    if (st.totale > 0 || st.finiti > 0) iniziati++;
+    if (st.capitoli) { conIndice++; if (st.finiti >= st.capitoli) fatti++; }
+  }
+  return Object.assign({ totale, notte, alba, libri: fatti, iniziati, capFiniti, libriTot: conIndice || libri.length },
+    serieDa(giorni));
 }
 const ORA = 3600;
-const TRAGUARDI = [
-  ['first', 'Primo capitolo', 'Finisci un capitolo', st => [st.finiti, 1], 'i-segno'],
-  ['prologue', 'Il crepuscolo', 'Finisci il Prologo', st => [st.prologo, st.capitoliPrologo || 1], 'i-libro'],
-  ['halfway', 'A metà strada', 'Finisci metà dei capitoli', st => [st.finiti, Math.ceil(st.capitoli / 2) || 1], 'i-meta'],
-  ['finale', "L'ultima alba", 'Finisci tutti i capitoli', st => [st.finiti, st.capitoli || 1], 'i-trofeo'],
-  ['hour1', 'La prima ora', 'Ascolta per 1 ora', st => [st.totale, ORA], 'i-cuffie'],
-  ['hour10', 'Dieci ore', 'Ascolta per 10 ore', st => [st.totale, 10 * ORA], 'i-timer'],
-  ['hour24', 'Un giorno intero', 'Ascolta per 24 ore', st => [st.totale, 24 * ORA], 'i-clessidra'],
-  ['streak3', 'Tre giorni di fila', 'Ascolta per 3 giorni di fila', st => [st.migliore, 3], 'i-fiamma'],
-  ['streak7', 'Una settimana di fila', 'Ascolta per 7 giorni di fila', st => [st.migliore, 7], 'i-fiamma'],
-  ['streak30', 'Un mese di fila', 'Ascolta per 30 giorni di fila', st => [st.migliore, 30], 'i-calendario'],
-  ['marathon', 'Maratona', 'Ascolta per 3 ore in un giorno', st => [st.record, 3 * ORA], 'i-velocita'],
-  ['night', 'Nottambulo', 'Ascolta per 1 ora tra mezzanotte e le 5', () => [stato.notte, ORA], 'i-luna'],
-  ['dawn', "Prima dell'alba", 'Ascolta per 30 minuti tra le 5 e le 7', () => [stato.alba, ORA / 2], 'i-alba']
+// I traguardi di un libro riguardano i suoi capitoli e portano i nomi scelti dal libro.
+// Tempo, serie e giorni valgono invece per tutto lo scaffale: stanno in TRAGUARDI_GEN.
+let TRAGUARDI = [];
+function traguardiDi(nomi, dueParti) {
+  const t = nomi || {};
+  return [
+    ['first', 'Primo capitolo', 'Finisci un capitolo', st => [st.finiti, 1], 'i-segno'],
+    ...(dueParti ? [['prologue', t.primaParte || 'La prima parte', 'Finisci la prima parte', st => [st.prologo, st.capitoliPrologo || 1], 'i-libro']] : []),
+    ['halfway', 'A metà strada', 'Finisci metà dei capitoli', st => [st.finiti, Math.ceil(st.capitoli / 2) || 1], 'i-meta'],
+    ['finale', t.fine || "Fino all'ultima pagina", 'Finisci tutti i capitoli', st => [st.finiti, st.capitoli || 1], 'i-trofeo']
+  ];
+}
+function creaTraguardi() { TRAGUARDI = traguardiDi(LIBRO.traguardi, parti.length > 1); }
+const TRAGUARDI_GEN = [
+  ['hour1', 'La prima ora', "Un'ora fra lettura e ascolto", st => [st.totale, ORA], 'i-timer'],
+  ['hour10', 'Dieci ore', 'Dieci ore in tutto', st => [st.totale, 10 * ORA], 'i-timer'],
+  ['hour24', 'Un giorno intero', 'Ventiquattro ore in tutto', st => [st.totale, 24 * ORA], 'i-clessidra'],
+  ['streak3', 'Tre giorni di fila', 'Tre giorni di fila con almeno un minuto', st => [st.migliore, 3], 'i-fiamma'],
+  ['streak7', 'Una settimana di fila', 'Sette giorni di fila', st => [st.migliore, 7], 'i-fiamma'],
+  ['streak30', 'Un mese di fila', 'Trenta giorni di fila', st => [st.migliore, 30], 'i-calendario'],
+  ['marathon', 'Maratona', 'Tre ore in un giorno solo', st => [st.record, 3 * ORA], 'i-velocita'],
+  ['night', 'Nottambulo', "Un'ora tra mezzanotte e le 5", st => [st.notte, ORA], 'i-luna'],
+  ['dawn', "Prima dell'alba", "Mezz'ora tra le 5 e le 7", st => [st.alba, ORA / 2], 'i-alba'],
+  ['book1', 'Il primo libro', 'Finisci un libro', st => [st.libri, 1], 'i-libro'],
+  ['book3', 'Tre libri', 'Finisci tre libri', st => [st.libri, 3], 'i-trofeo'],
+  ['shelf', 'Tutto lo scaffale', 'Finisci ogni libro dello scaffale', st => [st.libri, st.libriTot || 1], 'i-trofeo']
 ];
+// Con pochi libri certi traguardi non hanno senso: "Tre libri" ne vuole almeno tre.
+const traguardiGen = () => {
+  const n = CATALOGO ? CATALOGO.libri.length : 1;
+  return TRAGUARDI_GEN.filter(([id]) => id === 'book3' ? n >= 3 : id === 'shelf' ? n >= 2 : true);
+};
+// I traguardi generali stanno con le impostazioni, non con i progressi di un libro.
+function verificaGenerali() {
+  if (!CATALOGO) return;
+  const st = statGenerali();
+  if (!stato.trofei) stato.trofei = {};
+  const t = stato.trofei, lista = traguardiGen();
+  lista.forEach(([id, , , val]) => { const [v, o] = val(st); if (t[id] && v < o) delete t[id]; });
+  const nuovi = lista.filter(([id, , , val]) => { const [v, o] = val(st); return !t[id] && v >= o; });
+  if (!nuovi.length) return;
+  nuovi.forEach(([id]) => { t[id] = new Date().toISOString(); });
+  salvaStato();
+  annuncia(nuovi.length === 1 ? `Traguardo: ${nuovi[0][1]}` : `Nuovi traguardi: ${nuovi.length}`);
+}
 function verificaTraguardi() {
-  if (!capitoli.length) return;
+  verificaGenerali();
+  if (!capitoli.length || !TRAGUARDI.length) return;
   const st = statistiche();
   TRAGUARDI.forEach(([id, , , val]) => { const [v, o] = val(st); if (stato.traguardi[id] && v < o) delete stato.traguardi[id]; });
   const nuovi = TRAGUARDI.filter(([id, , , val]) => { const [v, o] = val(st); return !stato.traguardi[id] && v >= o; });
@@ -1408,12 +1706,16 @@ function verificaTraguardi() {
 }
 const tempoTesto = s => { const m = Math.floor(s / 60), o = Math.floor(m / 60); return o ? (m % 60 ? `${o} h ${m % 60} min` : `${o} h`) : `${m} min`; };
 const giorniTesto = n => n === 1 ? '1 giorno' : `${n} giorni`;
-const quantoTraguardo = (id, v, o) => /^(hour|marathon|night|dawn)/.test(id) ? `${tempoTesto(Math.min(v, o))} di ${tempoTesto(o)}`
-  : /^streak/.test(id) ? `${Math.min(v, o)} di ${giorniTesto(o)}`
-  : `${Math.min(v, o)} di ${testoCapitoli(o)}`;
+const libriTesto = n => n === 1 ? '1 libro' : `${n} libri`;
+// L'unita' del traguardo si capisce dal suo nome: tempo, giorni di fila, libri o capitoli.
+const unitaTraguardo = id => /^(hour|marathon|night|dawn)/.test(id) ? tempoTesto
+  : /^streak/.test(id) ? giorniTesto
+  : /^(book|shelf)/.test(id) ? libriTesto
+  : testoCapitoli;
+const quantoTraguardo = (id, v, o) => { const t = unitaTraguardo(id); return `${t === tempoTesto ? t(Math.min(v, o)) : Math.min(v, o)} di ${t(o)}`; };
 function righeTraguardo(id, v, o) {
   const tempo = /^(hour|marathon|night|dawn)/.test(id);
-  const testo = x => tempo ? tempoTesto(x) : /^streak/.test(id) ? giorniTesto(x) : testoCapitoli(x);
+  const testo = unitaTraguardo(id);
   const resto = testo(tempo ? Math.ceil(Math.max(0, o - v) / 60) * 60 : Math.max(0, o - v));
   return [['Finora', testo(Math.min(v, o))], ['Obiettivo', testo(o)], [/^1 [a-z]+$/.test(resto) ? 'Ti rimane' : 'Ti rimangono', resto]];
 }
@@ -1446,29 +1748,76 @@ function mostraTraguardo(nome, descr, ic, preso, quota, righe) {
   ].filter(Boolean));
   d.showModal();
 }
-function corpoTraguardi() {
-  verificaTraguardi();
-  const st = statistiche();
-  const numero = (v, t, ic) => el('div', {}, icona(ic), el('b', {}, v), el('small', {}, t));
-  const riga = ([id, nome, descr, val, ic]) => {
-    const preso = stato.traguardi[id], [v, o] = val(st);
-    return el('button', { class: 'traguardo' + (preso ? ' preso' : ''), onclick: () => mostraTraguardo(nome, descr, ic, preso, v / o, righeTraguardo(id, v, o)) }, icona(ic),
-      el('div', {}, el('b', {}, nome), el('small', {}, descr),
-        preso ? el('small', {}, 'Ottenuto il ' + new Date(preso).toLocaleDateString('it-IT', { day: 'numeric', month: 'long', year: 'numeric' })) : [barra(Math.min(100, v / o * 100)), el('small', { class: 'trag-quanto' }, quantoTraguardo(id, v, o))]));
-  };
-  const presi = TRAGUARDI.filter(([id]) => stato.traguardi[id]).length;
+const numeroTrag = (v, t, ic) => el('div', {}, icona(ic), el('b', {}, v), el('small', {}, t));
+// Una riga di traguardo: presi dice quali sono gia' ottenuti, st da' i valori da confrontare.
+const rigaTrag = (presi, st) => ([id, nome, descr, val, ic]) => {
+  const preso = presi[id], [v, o] = val(st);
+  return el('button', { class: 'traguardo' + (preso ? ' preso' : ''), onclick: () => mostraTraguardo(nome, descr, ic, preso, v / o, righeTraguardo(id, v, o)) }, icona(ic),
+    el('div', {}, el('b', {}, nome), el('small', {}, descr),
+      preso ? el('small', {}, 'Ottenuto il ' + new Date(preso).toLocaleDateString('it-IT', { day: 'numeric', month: 'long', year: 'numeric' })) : [barra(Math.min(100, v / o * 100)), el('small', { class: 'trag-quanto' }, quantoTraguardo(id, v, o))]));
+};
+const contaPresi = (lista, presi) => `Traguardi: ${lista.filter(([id]) => presi[id]).length} su ${lista.length}`;
+// Tab "Generali": tempo, giorni e libri finiti di tutto lo scaffale.
+function corpoGenerali() {
+  verificaGenerali();
+  const st = statGenerali(), presi = stato.trofei || {}, lista = traguardiGen();
   return [
     el('div', { class: 'trag-numeri' },
-      numero(tempoTesto(st.totale), 'Tempo ascoltato', 'i-cuffie'),
-      numero(`${st.finiti}/${st.capitoli}`, 'Capitoli finiti', 'i-libro'),
-      numero(giorniTesto(st.serie), 'Serie attuale', 'i-fiamma'),
-      numero(giorniTesto(st.migliore), 'Serie migliore', 'i-trofeo'),
-      numero(giorniTesto(st.attivi), 'Giorni di ascolto', 'i-calendario'),
-      numero(tempoTesto(st.record), 'Giorno record', 'i-velocita')),
-    el('h3', {}, `Traguardi: ${presi} su ${TRAGUARDI.length}`),
-    TRAGUARDI.map(riga),
-    el('p', { class: 'nota' }, 'Azzerare un capitolo non toglie il tempo ascoltato né i traguardi. Conta dal momento in cui questa voce è arrivata, su questo browser.')
+      numeroTrag(tempoTesto(st.totale), 'Tempo in tutto', 'i-timer'),
+      numeroTrag(`${st.libri}/${st.libriTot}`, 'Libri finiti', 'i-libro'),
+      numeroTrag(giorniTesto(st.serie), 'Serie attuale', 'i-fiamma'),
+      numeroTrag(giorniTesto(st.migliore), 'Serie migliore', 'i-trofeo'),
+      numeroTrag(giorniTesto(st.attivi), 'Giorni attivi', 'i-calendario'),
+      numeroTrag(tempoTesto(st.record), 'Giorno record', 'i-velocita')),
+    el('h3', {}, contaPresi(lista, presi)),
+    lista.map(rigaTrag(presi, st)),
+    el('p', { class: 'nota' }, 'Valgono per tutti i libri dello scaffale e contano su questo browser.')
   ];
+}
+// Tab "Libri in corso": prima si sceglie il libro, poi si vedono i traguardi dei suoi capitoli.
+// Dentro un libro quello aperto e' gia' scelto; dallo scaffale si parte dai libri iniziati.
+let libroTrag = null, ridisegnaTrag = () => {};
+function corpoInCorso() {
+  const libri = (CATALOGO ? CATALOGO.libri : []).filter(v => statoLibro(v) === 'corso' || v.chiave === libroAperto);
+  if (!libri.length) return [el('p', { class: 'nota' }, 'Nessun libro in corso: aprine uno e i suoi traguardi compaiono qui.')];
+  if (!libri.some(v => v.chiave === libroTrag)) libroTrag = libri.some(v => v.chiave === libroAperto) ? libroAperto : libri[0].chiave;
+  const v = libri.find(x => x.chiave === libroTrag);
+  const sel = el('select', { 'aria-label': 'Libro dei traguardi' }, libri.map(x => el('option', { value: x.chiave }, x.titolo)));
+  sel.value = libroTrag;
+  sel.onchange = () => { libroTrag = sel.value; ridisegnaTrag(); };
+  const suo = v.chiave === libroAperto;
+  const st = suo ? statistiche() : statLibro(v);
+  const presi = suo ? stato.traguardi : (leggi(v.chiave + '-stato-v1').traguardi || {});
+  const lista = suo ? TRAGUARDI : traguardiDi(v.traguardi, (v.dati?.parti || []).length > 1);
+  const testo = modoDi(v) === 'testo';
+  return [
+    libri.length > 1 ? el('div', { class: 'trag-scelta' }, sel) : null,
+    el('div', { class: 'trag-numeri' },
+      numeroTrag(tempoTesto(st.totale), testo ? 'Tempo di lettura' : 'Tempo ascoltato', testo ? 'i-testo' : 'i-cuffie'),
+      numeroTrag(`${st.finiti}/${st.capitoli}`, 'Capitoli finiti', 'i-libro'),
+      numeroTrag(giorniTesto(st.attivi), testo ? 'Giorni di lettura' : 'Giorni di ascolto', 'i-calendario'),
+      numeroTrag(tempoTesto(st.record), 'Giorno record', 'i-velocita')),
+    el('h3', {}, contaPresi(lista, presi)),
+    lista.map(rigaTrag(presi, st)),
+    suo ? el('p', { class: 'nota' }, `Azzerare un capitolo non toglie il tempo ${testo ? 'di lettura' : 'ascoltato'} né i traguardi. Conta dal momento in cui questo libro è arrivato, su questo browser.`) : null
+  ].filter(Boolean);
+}
+// Due tab: prima i libri in corso, poi i traguardi di tutto lo scaffale.
+let tabTrag = null;
+function corpoTraguardi() {
+  if (libroAperto) { tabTrag = 'libro'; libroTrag = libroAperto; }
+  else if (!tabTrag) tabTrag = 'generali';
+  const corpo = el('div', {});
+  const tab = el('div', { class: 'tabs', role: 'tablist' });
+  const disegna = () => {
+    [...tab.children].forEach(b => b.setAttribute('aria-selected', String(b.dataset.t === tabTrag)));
+    corpo.replaceChildren(...(tabTrag === 'generali' ? corpoGenerali() : corpoInCorso()).flat());
+  };
+  ridisegnaTrag = disegna;
+  tab.replaceChildren(...[['libro', 'Libri in corso'], ['generali', 'Generali']].map(([v, n]) =>
+    el('button', { role: 'tab', 'data-t': v, 'aria-selected': String(tabTrag === v), onclick: () => { tabTrag = v; disegna(); } }, n)));
+  disegna();
+  return [tab, corpo];
 }
 const DATI = document.querySelector('.pannello-dati');
 function sezione(id, ic, titolo, sotto, ...figli) {
@@ -1516,6 +1865,8 @@ function regolaNotte() {
 }
 function disegnaPannello() {
   const u = stato.ui, scuro = temaScuro();
+  // Nello scaffale nessun libro e' aperto: restano le impostazioni comuni.
+  const conLibro = !!libroAperto;
   const voceComando = ([id, nome, ic]) => spunta(nome, !u.nascosti.includes(id), on => {
     u.nascosti = on ? u.nascosti.filter(x => x !== id) : [...u.nascosti, id];
   }, ic);
@@ -1524,7 +1875,7 @@ function disegnaPannello() {
   dim.value = cursoreDaDim(stato.dim);
   dim.oninput = () => { impostaDim(dimDaCursore(+dim.value)); valore.textContent = dimPercento(stato.dim); };
   const sotto = t => el('h3', {}, t);
-  $('pannello-corpo').replaceChildren(
+  const voci = [
     sezione('aspetto', 'i-goccia', 'Aspetto', 'Tema, luce notturna, colore',
       scelte('Tema', [[null, 'Sistema', 'i-monitor'], ['chiaro', 'Chiaro', 'i-sole'], ['scuro', 'Scuro', 'i-luna']], stato.tema, v => { stato.tema = v; }),
       spuntaNotte(),
@@ -1545,14 +1896,14 @@ function disegnaPannello() {
       scelte('Evidenziazione della frase', [[22, 'Leggera'], [38, 'Media'], [50, 'Forte']], u.evid, v => { u.evid = v; }),
       spunta('Segui anche parola per parola', !!u.parole, on => { u.parole = on; }, 'i-testo'),
       el('p', { class: 'nota' }, 'Dentro la frase evidenziata, la parola letta in quel momento ha un colore più marcato.')),
-    sezione('ascolto', 'i-cuffie', 'Ascolto', 'Salti, capitolo successivo',
+    !conLibro || MODO !== 'testo' ? sezione('ascolto', 'i-cuffie', 'Ascolto', 'Salti, capitolo successivo',
       spunta('Passa da solo al capitolo successivo', u.continua, on => { u.continua = on; }, 'i-continua'),
       sotto('Salti'),
       el('p', { class: 'nota' }, 'Ogni valore spuntato diventa un pulsante. Ecco come appare ora il lettore:'),
       anteprimaSalti(),
       sceltaSalti('Indietro', 'indietro'),
-      sceltaSalti('Avanti', 'avanti')),
-    sezione('lettore', 'i-barra', 'Lettore', 'Barre, pulsanti, disposizione',
+      sceltaSalti('Avanti', 'avanti')) : null,
+    !conLibro || MODO !== 'testo' ? sezione('lettore', 'i-barra', 'Lettore', 'Barre, pulsanti, disposizione',
       sotto('Barre'),
       spunta('Barra inferiore', !u.noBarra, on => { u.noBarra = !on; }, 'i-barra'),
       spunta('Titolo del capitolo', !u.noTitolo, on => { u.noTitolo = !on; }, 'i-testo'),
@@ -1566,12 +1917,18 @@ function disegnaPannello() {
       COMANDI.map(voceComando),
       sotto('Disposizione'),
       spunta("Metti i pulsanti in linea finché c'è spazio", u.autoRiga, on => { u.autoRiga = on; }, 'i-riga'),
-      spunta('Velocità a destra, testo a sinistra', u.scambia, on => { u.scambia = on; }, 'i-scambia')),
-    sezione('traguardi', 'i-trofeo', 'Traguardi', 'Tempo ascoltato, serie, medaglie', ...corpoTraguardi()),
-    sezione('offline', 'i-scarica', 'Ascolto senza rete', 'Capitoli salvati, spazio occupato', el('div', { id: 'offline-corpo' }, ...corpoOffline())),
-    sezione('progressi', 'i-esporta', 'Progressi', 'Esporta, importa', DATI),
+      spunta('Velocità a destra, testo a sinistra', u.scambia, on => { u.scambia = on; }, 'i-scambia')) : null,
+    sezione('traguardi', 'i-trofeo', 'Traguardi', conLibro ? (MODO === 'testo' ? 'Tempo di lettura, serie, medaglie' : 'Tempo ascoltato, serie, medaglie') : 'Tempo, serie, libri finiti', ...corpoTraguardi()),
+    conLibro
+      ? sezione('offline', 'i-scarica', MODO === 'testo' ? 'Lettura senza rete' : 'Ascolto senza rete', 'Capitoli salvati, spazio occupato', el('div', { id: 'offline-corpo' }, ...corpoOffline()))
+      : sezione('offline', 'i-scarica', 'Senza rete', 'Capitoli salvati, spazio occupato', corpoOffScaffale()),
+    conLibro ? sezione('progressi', 'i-esporta', 'Progressi', 'Esporta, importa', DATI) : null,
     el('div', { class: 'menu-piede' }, bottoneRipristina())
-  );
+  ];
+  // Senza un libro aperto non ci sono progressi da esportare: la sezione sta nel markup,
+  // quindi va tolta a mano, altrimenti resta nel menu sotto il piede.
+  if (!conLibro) DATI.remove();
+  $('pannello-corpo').replaceChildren(...voci.filter(Boolean));
 }
 document.querySelectorAll('[data-menu-btn]').forEach(b => { b.onclick = () => { disegnaPannello(); $('pannello').showModal(); }; });
 $('chiudi-pannello').onclick = () => $('pannello').close();
@@ -1579,7 +1936,7 @@ $('flotta-play').onclick = () => $('play').click();
 $('flotta-su').onclick = () => { stato.ui.noBarra = false; salvaStato(); applicaUi(); altezzaLettore(); };
 $('celebra').addEventListener('click', e => { if (!e.target.closest('.celebra-corpo')) $('celebra').close(); });
 $('pannello').addEventListener('click', e => { if (e.target === $('pannello')) $('pannello').close(); });
-const CHIAVI_UI = { accento: 'accent', evid: 'highlight', font: 'font', inter: 'lineHeight', indietro: 'skipBack', avanti: 'skipForward', continua: 'autoNext', scambia: 'swapControls', autoRiga: 'autoRow', nascosti: 'hiddenButtons', notteOn: 'nightLightOn', notte: 'nightLight', noBarra: 'hideBar', noIcone: 'hideIconRow', noAvanz: 'hideProgress', noTitolo: 'hideTitle' };
+const CHIAVI_UI = { accento: 'accent', evid: 'highlight', font: 'font', inter: 'lineHeight', indietro: 'skipBack', avanti: 'skipForward', continua: 'autoNext', scambia: 'swapControls', autoRiga: 'autoRow', nascosti: 'hiddenButtons', notteOn: 'nightLightOn', notte: 'nightLight', noBarra: 'hideBar', noIcone: 'hideIconRow', noAvanz: 'hideProgress', noTitolo: 'hideTitle', vista: 'shelfView', ordine: 'shelfSort' };
 const perEsporta = () => ({
   chapters: Object.fromEntries(Object.entries(stato.cap).map(([n, s]) => [n, { position: s.pos, listened: s.fatto, finished: !!s.finito, listenedSeconds: Math.round((s.ascoltati || 0) * 10) / 10, currentRunSeconds: Math.round((s.giro || 0) * 10) / 10, heardRanges: s.sentito || [] }])),
   bookmarks: stato.segni.map(s => ({ chapter: s.n, time: s.t, text: s.frase })),
@@ -1588,6 +1945,7 @@ const perEsporta = () => ({
   nightSeconds: stato.notte,
   dawnSeconds: stato.alba,
   badges: stato.traguardi,
+  shelfBadges: stato.trofei,
   speed: stato.velocita,
   fontSize: stato.dim,
   theme: stato.tema,
@@ -1603,13 +1961,14 @@ const daImportare = d => {
     ...(d.days ? { giorni: d.days } : {}),
     ...(d.nightSeconds != null ? { notte: +d.nightSeconds || 0 } : {}),
     ...(d.dawnSeconds != null ? { alba: +d.dawnSeconds || 0 } : {}),
-    ...(d.badges ? { traguardi: d.badges } : {})
+    ...(d.badges ? { traguardi: d.badges } : {}),
+    ...(d.shelfBadges ? { trofei: d.shelfBadges } : {})
   };
 };
 $('esporta').onclick = () => {
   salvaPosizione(true);
   const u = URL.createObjectURL(new Blob([JSON.stringify(perEsporta(), null, 1)], { type: 'application/json' }));
-  const l = el('a', { href: u, download: 'ultima-alba-progressi.json' });
+  const l = el('a', { href: u, download: LIBRO.chiave + '-progressi.json' });
   l.click();
   setTimeout(() => URL.revokeObjectURL(u), 2000);
 };
@@ -1624,36 +1983,274 @@ $('importa').onchange = async e => {
   } catch { annuncia('File non valido.'); }
   e.target.value = '';
 };
-document.querySelectorAll('nav.filtri button').forEach(b => {
+document.querySelectorAll('#main-libro nav.filtri button').forEach(b => {
   b.onclick = () => {
     filtro = b.dataset.f;
-    document.querySelectorAll('nav.filtri button').forEach(x => x.setAttribute('aria-pressed', String(x === b)));
+    document.querySelectorAll('#main-libro nav.filtri button').forEach(x => x.setAttribute('aria-pressed', String(x === b)));
     disegna();
   };
 });
 
-(async function avvia() {
+// Scaffale: i libri del catalogo. Con un libro solo lo scaffale non compare.
+const NOME_MODO = { sincronizzato: 'Audio e testo', audio: 'Solo audio', testo: 'Solo testo' };
+const ICONA_MODO = { sincronizzato: 'i-libro', audio: 'i-cuffie', testo: 'i-testo' };
+const indirizzo = (v, f) => new URL(f, new URL(v.base || './', location.href)).href;
+function cardLibro(v) {
+  const m = v.modo || 'sincronizzato';
+  const st = leggi(v.chiave + '-stato-v1'), cap = st.cap || {};
+  const p = (v.dati?.capitoli || []).filter(c => prontoCap(c, m));
+  const fatti = p.filter(c => cap[c.n]?.fatto).length;
+  const tot = p.reduce((x, c) => x + quanto(c, m), 0);
+  const fatto = p.reduce((x, c) => x + quanto(c, m) * fattaParte(c, cap[c.n], m), 0);
+  const riga = p.length
+    ? `${fatti} di ${p.length} capitoli · ${durataTesto(tot)}`
+    : (v.dati ? 'Nessun capitolo pronto' : 'Capitoli non ancora caricati');
+  const cop = el('div', { class: 'cop' }, v.copertina
+    ? el('img', { src: indirizzo(v, v.copertina), alt: '', loading: 'lazy' })
+    : icona(ICONA_MODO[m] || 'i-libro'));
+  return el('button', { class: 'libro', onclick: () => { location.hash = v.chiave; } },
+    cop,
+    el('span', {},
+      el('b', {}, v.titolo),
+      v.autore ? el('small', {}, v.autore) : null,
+      el('small', {}, riga),
+      el('span', { class: 'tipo' }, NOME_MODO[m] || m),
+      tot && fatto > 0 ? barra(Math.min(100, fatto / tot * 100)) : null));
+}
+// Ricerca, filtro per modo, ordine e vista. La ricerca dura quanto la visita; il resto si ricorda.
+const VISTE = [['carte', 'Carte', 'i-griglia'], ['elenco', 'Elenco', 'i-elenco'], ['copertine', 'Copertine', 'i-copertina']];
+const ORDINI = [['catalogo', 'Ordine del catalogo'], ['titolo', 'Titolo'], ['autore', 'Autore'], ['durata', 'Durata'], ['recenti', 'Aperti di recente'], ['avanti', 'Da finire']];
+const FILTRI_LIBRI = [['sincronizzato', 'Audio e testo'], ['audio', 'Solo audio'], ['testo', 'Solo testo']];
+const FILTRI_STATO = [['nuovo', 'Da iniziare'], ['corso', 'In corso'], ['finito', 'Finiti']];
+let cerca = '', filtroLibri = 'tutti', filtroStato = 'tutti';
+const modoDi = v => v.modo || 'sincronizzato';
+const sciolto = t => String(t || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+// Quanto manca del libro, da 0 a 1: serve all'ordine "Da finire".
+function restaLibro(v) {
+  const m = modoDi(v), cap = (leggi(v.chiave + '-stato-v1').cap) || {};
+  const p = (v.dati?.capitoli || []).filter(c => prontoCap(c, m));
+  const tot = p.reduce((x, c) => x + quanto(c, m), 0);
+  if (!tot) return 0;
+  return 1 - p.reduce((x, c) => x + quanto(c, m) * fattaParte(c, cap[c.n], m), 0) / tot;
+}
+// A che punto e' il libro: "nuovo" se non e' mai stato aperto, "finito" se e' tutto fatto.
+function statoLibro(v) {
+  const m = modoDi(v), cap = leggi(v.chiave + '-stato-v1').cap || {};
+  const iniziato = Object.values(cap).some(x => x && (x.fatto || x.pos > 0));
+  const pronti = (v.dati?.capitoli || []).filter(c => prontoCap(c, m));
+  const tot = pronti.reduce((x, c) => x + quanto(c, m), 0);
+  if (!tot) return iniziato ? 'corso' : 'nuovo';
+  const fatta = pronti.reduce((x, c) => x + quanto(c, m) * fattaParte(c, cap[c.n], m), 0) / tot;
+  if (fatta >= .99) return 'finito';
+  return fatta > 0 || iniziato ? 'corso' : 'nuovo';
+}
+const durataLibro = v => (v.dati?.capitoli || []).filter(c => prontoCap(c, modoDi(v))).reduce((x, c) => x + quanto(c, modoDi(v)), 0);
+function libriVisti() {
+  const q = sciolto(cerca).trim();
+  let l = CATALOGO.libri.filter(v => (filtroLibri === 'tutti' || modoDi(v) === filtroLibri)
+    && (filtroStato === 'tutti' || statoLibro(v) === filtroStato));
+  if (q) l = l.filter(v => sciolto(`${v.titolo} ${v.autore || ''} ${v.sottotitolo || ''}`).includes(q));
+  const ordine = stato.ui.ordine, aperti = stato.aperti || {};
+  const per = {
+    titolo: (x, y) => sciolto(x.titolo).localeCompare(sciolto(y.titolo), 'it'),
+    autore: (x, y) => sciolto(x.autore).localeCompare(sciolto(y.autore), 'it') || sciolto(x.titolo).localeCompare(sciolto(y.titolo), 'it'),
+    durata: (x, y) => durataLibro(y) - durataLibro(x),
+    recenti: (x, y) => (aperti[y.chiave] || 0) - (aperti[x.chiave] || 0),
+    avanti: (x, y) => restaLibro(x) - restaLibro(y)
+  }[ordine];
+  return per ? [...l].sort(per) : l;
+}
+function disegnaScaffale() {
+  const u = stato.ui;
+  const vista = VISTE.find(x => x[0] === u.vista) || VISTE[0];
+  const prossima = VISTE[(VISTE.indexOf(vista) + 1) % VISTE.length];
+  const b = $('sc-vista');
+  b.replaceChildren(icona(vista[2]));
+  b.setAttribute('aria-label', `Vista: ${vista[1]}. Passa a ${prossima[1].toLowerCase()}`);
+  b.title = b.getAttribute('aria-label');
+  b.onclick = () => { stato.ui.vista = prossima[0]; salvaStato(); disegnaScaffale(); };
+  const sel = $('sc-ordine');
+  if (!sel.options.length) {
+    sel.replaceChildren(...ORDINI.map(([v, n]) => el('option', { value: v }, n)));
+    sel.onchange = () => { stato.ui.ordine = sel.value; salvaStato(); disegnaScaffale(); };
+  }
+  sel.value = u.ordine;
+  // Filtri rapidi: il modo del libro e il punto a cui e' la lettura. I modi compaiono
+  // solo se nello scaffale ce n'e' piu' di uno; gli stati solo se ci sono libri da smistare.
+  const modi = new Set(CATALOGO.libri.map(modoDi));
+  const stati = new Set(CATALOGO.libri.map(statoLibro));
+  const perModo = FILTRI_LIBRI.filter(([v]) => modi.size > 1 && modi.has(v));
+  const perStato = FILTRI_STATO.filter(([v]) => stati.size > 1 && stati.has(v));
+  const chip = (attivo, n, al) => el('button', { 'aria-pressed': String(attivo), onclick: al }, n);
+  const filtri = $('sc-filtri');
+  filtri.classList.toggle('nascosto', !perModo.length && !perStato.length);
+  filtri.replaceChildren(
+    chip(filtroLibri === 'tutti' && filtroStato === 'tutti', 'Tutti',
+      () => { filtroLibri = 'tutti'; filtroStato = 'tutti'; disegnaScaffale(); }),
+    ...perModo.map(([v, n]) => chip(filtroLibri === v, n, () => { filtroLibri = v; disegnaScaffale(); })),
+    ...(perModo.length && perStato.length ? [el('span', { class: 'sep', 'aria-hidden': 'true' })] : []),
+    ...perStato.map(([v, n]) => chip(filtroStato === v, n, () => { filtroStato = v; disegnaScaffale(); })));
+  const lista = libriVisti();
+  const box = $('libri');
+  box.className = 'libri' + (vista[0] === 'carte' ? '' : ' ' + vista[0]);
+  box.replaceChildren(...(lista.length
+    ? lista.map(cardLibro)
+    : [el('p', { class: 'vuoto' }, cerca ? `Nessun libro per «${cerca}».`
+      : filtroLibri !== 'tutti' || filtroStato !== 'tutti' ? 'Nessun libro con questi filtri.'
+      : 'Nessun libro in questo scaffale.')]));
+}
+$('sc-cerca').addEventListener('input', e => { cerca = e.target.value; if (!libroAperto) disegnaScaffale(); });
+$('sc-cerca').addEventListener('keydown', e => { if (e.key === 'Escape' && cerca) { e.stopPropagation(); cerca = ''; e.target.value = ''; disegnaScaffale(); } });
+// Le carte mostrano quanti capitoli ci sono: lo dice l'indice di ogni libro, letto a parte.
+async function arricchisci() {
+  await Promise.all(CATALOGO.libri.map(async v => {
+    if (v.dati) return;
+    try {
+      const r = await fetch((v.base || '') + 'capitoli.json', { cache: 'no-cache' });
+      if (!r.ok) return;
+      const d = await r.json();
+      v.dati = d;
+      if (!v.modo && d.modo) v.modo = d.modo;
+    } catch {}
+  }));
+  verificaGenerali();
+  if (!libroAperto) disegnaScaffale();
+}
+// Cambiando libro il lettore riparte pulito: niente capitolo, tempo e testo di quello di prima.
+function svuotaLettore() {
+  a.pause(); a.removeAttribute('src');
+  $('nome').textContent = 'Scegli un capitolo';
+  $('pagina-t').textContent = '';
+  $('articolo').replaceChildren();
+  $('t-ora').textContent = '0:00';
+  $('t-resto').textContent = '0:00';
+  $('cursore').value = 0;
+  $('segui').classList.add('nascosto');
+}
+function mostraScaffale() {
+  if (corrente != null) salvaPosizione(true);
+  svuotaLettore();
+  libroAperto = null; corrente = null; capitoli = []; parti = []; cue = []; cueOra = -1;
+  caricaComuni();
+  document.documentElement.dataset.modo = 'scaffale';
+  $('pagina').classList.add('nascosto');
+  $('testo').classList.remove('attivo');
+  $('alto-libro').classList.add('nascosto');
+  $('main-libro').classList.add('nascosto');
+  $('alto-scaffale').classList.remove('nascosto');
+  $('main-scaffale').classList.remove('nascosto');
+  document.title = CATALOGO.titolo || 'Leggio';
+  disegnaScaffale();
+  altezzaLettore();
+  if (location.hash) history.replaceState(null, '', location.pathname + location.search);
+  scrollTo(0, 0);
+}
+async function apriLibro(v) {
+  if (corrente != null) salvaPosizione(true);
+  svuotaLettore();
+  corrente = null; capitoli = []; parti = []; cue = []; cueOra = -1; filtro = 'tutti';
+  LIBRO = v; BASE = v.base || ''; MODO = v.modo || 'sincronizzato';
+  libroAperto = v.chiave;
+  caricaStato(v.chiave);
+  stato.aperti = { ...stato.aperti, [v.chiave]: Date.now() };
+  document.documentElement.dataset.modo = MODO;
+  $('alto-scaffale').classList.add('nascosto');
+  $('main-scaffale').classList.add('nascosto');
+  $('alto-libro').classList.remove('nascosto');
+  $('main-libro').classList.remove('nascosto');
+  $('pagina').classList.add('nascosto');
+  $('testo').classList.remove('attivo');
+  $('allo-scaffale').classList.toggle('nascosto', CATALOGO.libri.length < 2);
+  document.querySelectorAll('#main-libro nav.filtri button').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.f === 'tutti')));
+  // In un sito con un libro solo titolo, sottotitolo e avviso sono gia' nella pagina, anche con l'HTML.
+  if (!CATALOGO.solo) {
+    document.title = v.titolo;
+    $('titolo-libro').textContent = v.titolo;
+    $('sotto-libro').textContent = v.sottotitolo || v.autore || '';
+    $('avviso-libro').textContent = v.avviso || '';
+  }
   applicaTema();
   applicaUi();
   document.documentElement.style.setProperty('--dim', stato.dim + 'px');
   $('velocita').value = String(stato.velocita);
   aggiornaFatto();
   altezzaLettore();
-  if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
+  $('elenco').replaceChildren(el('p', { class: 'vuoto' }, 'Carico i capitoli…'));
   try {
-    const r = await fetch('capitoli.json', { cache: 'no-cache' });
-    ({ capitoli, parti } = await r.json());
+    const r = await fetch(BASE + 'capitoli.json', { cache: 'no-cache' });
+    if (!r.ok) throw 0;
+    const d = await r.json();
+    if (libroAperto !== v.chiave) return false;
+    v.dati = d;
+    capitoli = d.capitoli || [];
+    parti = d.parti || [];
+    if (!parti.length) { parti = ['Capitoli']; capitoli.forEach(c => { c.parte = 'Capitoli'; }); }
   } catch {
     $('elenco').replaceChildren(el('p', { class: 'vuoto' }, 'Indice non disponibile. Controlla la connessione e ricarica.'));
-    return;
+    return false;
   }
+  creaTraguardi();
   await leggiSalvati();
   spazio();
-  const dalLink = parseInt(location.hash.slice(1), 10);
-  const inizio = capitoli.find(c => c.n === dalLink && c.durata) ? dalLink : stato.ultimo;
   disegna();
-  if (inizio && capitoli.find(c => c.n === inizio)?.durata) carica(inizio, false);
-  addEventListener('hashchange', () => { const n = parseInt(location.hash.slice(1), 10); if (n && n !== corrente) carica(n, false); });
+  return true;
+}
+// Indirizzo: "#chiave" apre un libro, "#chiave/12" un capitolo. Con un libro solo basta "#12".
+const scriviHash = n => {
+  const h = CATALOGO && CATALOGO.libri.length > 1 ? `${LIBRO.chiave}/${n}` : String(n);
+  if (decodeURIComponent(location.hash.slice(1)) !== h) location.hash = h;
+};
+function apriCapitolo(n) {
+  if (n && capitoli.find(c => c.n === n && prontoCap(c))) carica(n, false);
+}
+function instrada() {
+  if (!CATALOGO) return;
+  const pezzi = decodeURIComponent(location.hash.slice(1)).replace(/^\/+|\/+$/g, '').split('/');
+  const uno = CATALOGO.libri.length === 1;
+  let v = null, n = null;
+  if (/^\d+$/.test(pezzi[0]) && uno) { v = CATALOGO.libri[0]; n = +pezzi[0]; }
+  else if (pezzi[0]) { v = CATALOGO.libri.find(x => x.chiave === pezzi[0]) || null; n = pezzi[1] ? +pezzi[1] : null; }
+  if (!v && uno) v = CATALOGO.libri[0];
+  if (!v) return mostraScaffale();
+  if (libroAperto === v.chiave) { if (n && n !== corrente) apriCapitolo(n); return; }
+  apriLibro(v).then(ok => {
+    if (!ok) return;
+    if (n) apriCapitolo(n);
+    else if (stato.ultimo) apriCapitolo(stato.ultimo);
+  });
+}
+$('allo-scaffale').onclick = () => mostraScaffale();
+// Catalogo: catalogo.json, oppure il libro solo del sito.
+async function leggiCatalogo() {
+  let d = null;
+  try {
+    const r = await fetch('catalogo.json', { cache: 'no-cache' });
+    if (r.ok) d = await r.json();
+  } catch {}
+  if (d && Array.isArray(d.libri)) {
+    const libri = d.libri.filter(v => v && v.chiave && v.titolo)
+      .map(v => ({ ...v, base: v.base ? v.base.replace(/\/?$/, '/') : '' }));
+    if (libri.length) return { ...d, libri };
+  }
+  if (LIBRO_SOLO) return { titolo: LIBRO_SOLO.titolo, solo: true, libri: [{ ...LIBRO_SOLO, base: '', modo: LIBRO_SOLO.modo || 'sincronizzato' }] };
+  return null;
+}
+
+(async function avvia() {
+  caricaComuni();
+  applicaTema();
+  applicaUi();
+  document.documentElement.style.setProperty('--dim', stato.dim + 'px');
+  $('velocita').value = String(stato.velocita);
+  if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
+  CATALOGO = await leggiCatalogo();
+  if (!CATALOGO) {
+    $('elenco').replaceChildren(el('p', { class: 'vuoto' }, 'Catalogo non disponibile. Controlla la connessione e ricarica.'));
+    return;
+  }
+  instrada();
+  if (CATALOGO.libri.length > 1) arricchisci();
+  addEventListener('hashchange', instrada);
 })();
 </script>
 </body>

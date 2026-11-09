@@ -1,0 +1,11 @@
+{
+  "titolo": "L'ultima alba di Dalmasca",
+  "titoloBreve": "Dalmasca",
+  "sottotitolo": "Romanzo di fan tratto da <i>Final Fantasy XII</i>. Audiolibro.",
+  "descrizione": "Audiolibro del romanzo di fan tratto da Final Fantasy XII.",
+  "lingua": "it",
+  "chiave": "alba",
+  "modo": "sincronizzato",
+  "avviso": "Opera di fan, non ufficiale e non commerciale, senza legami con Square Enix. <i>Final Fantasy XII</i>, la sua trama, i suoi personaggi e il suo mondo appartengono a Square Enix. Voce sintetica. <a href=\"https://github.com/maxeo/ultima-alba-di-dalmasca\" style=\"color:inherit\">Progetto su GitHub</a>.",
+  "traguardi": { "primaParte": "Il crepuscolo", "fine": "L'ultima alba" }
+}
