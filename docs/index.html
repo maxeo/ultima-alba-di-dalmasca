@@ -1675,10 +1675,11 @@ const TRAGUARDI_GEN = [
   ['book3', 'Tre libri', 'Finisci tre libri', st => [st.libri, 3], 'i-trofeo'],
   ['shelf', 'Tutto lo scaffale', 'Finisci ogni libro dello scaffale', st => [st.libri, st.libriTot || 1], 'i-trofeo']
 ];
-// Con pochi libri certi traguardi non hanno senso: "Tre libri" ne vuole almeno tre.
+// Con pochi libri certi traguardi non hanno senso: "Tre libri" ne vuole almeno tre, e con un libro solo
+// "Il primo libro" ripeterebbe il traguardo finale dei capitoli.
 const traguardiGen = () => {
   const n = CATALOGO ? CATALOGO.libri.length : 1;
-  return TRAGUARDI_GEN.filter(([id]) => id === 'book3' ? n >= 3 : id === 'shelf' ? n >= 2 : true);
+  return TRAGUARDI_GEN.filter(([id]) => id === 'book3' ? n >= 3 : id === 'shelf' || id === 'book1' ? n >= 2 : true);
 };
 // I traguardi generali stanno con le impostazioni, non con i progressi di un libro.
 function verificaGenerali() {
@@ -1802,9 +1803,30 @@ function corpoInCorso() {
     suo ? el('p', { class: 'nota' }, `Azzerare un capitolo non toglie il tempo ${testo ? 'di lettura' : 'ascoltato'} né i traguardi. Conta dal momento in cui questo libro è arrivato, su questo browser.`) : null
   ].filter(Boolean);
 }
+// Con un libro solo le tab non servono: i traguardi dei capitoli e quelli generali stanno in una lista sola.
+function corpoSolo() {
+  verificaTraguardi();
+  const st = statistiche(), presi = stato.traguardi;
+  const stG = statGenerali(), presiG = stato.trofei || {}, listaG = traguardiGen();
+  const testo = MODO === 'testo';
+  return [
+    el('div', { class: 'trag-numeri' },
+      numeroTrag(tempoTesto(st.totale), testo ? 'Tempo di lettura' : 'Tempo ascoltato', testo ? 'i-testo' : 'i-cuffie'),
+      numeroTrag(`${st.finiti}/${st.capitoli}`, 'Capitoli finiti', 'i-libro'),
+      numeroTrag(giorniTesto(st.serie), 'Serie attuale', 'i-fiamma'),
+      numeroTrag(giorniTesto(st.migliore), 'Serie migliore', 'i-trofeo'),
+      numeroTrag(giorniTesto(st.attivi), testo ? 'Giorni di lettura' : 'Giorni di ascolto', 'i-calendario'),
+      numeroTrag(tempoTesto(st.record), 'Giorno record', 'i-velocita')),
+    el('h3', {}, contaPresi([...TRAGUARDI, ...listaG], { ...presi, ...presiG })),
+    TRAGUARDI.map(rigaTrag(presi, st)),
+    listaG.map(rigaTrag(presiG, stG)),
+    el('p', { class: 'nota' }, `Azzerare un capitolo non toglie il tempo ${testo ? 'di lettura' : 'ascoltato'} né i traguardi. Contano su questo browser, da quando il libro è arrivato.`)
+  ];
+}
 // Due tab: prima i libri in corso, poi i traguardi di tutto lo scaffale.
 let tabTrag = null;
 function corpoTraguardi() {
+  if (CATALOGO?.solo) return corpoSolo();
   if (libroAperto) { tabTrag = 'libro'; libroTrag = libroAperto; }
   else if (!tabTrag) tabTrag = 'generali';
   const corpo = el('div', {});
