@@ -73,6 +73,37 @@ function creaAudio(root) {
       s?.occupato && s.lavoro?.includes(`/app/testo/${nome}.txt`))) await pausa(2000);
   }
 
+  // Avanzamento della generazione: il server TTS scrive nel registro del capitolo righe con
+  // "frase fatte/totali". Si legge la coda del registro toccato dopo l'avvio del lavoro.
+  function progresso(j) {
+    const avvio = Date.parse(j.avviato || '');
+    if (!Number.isFinite(avvio)) return undefined;
+    const id = numero(j.capitolo);
+    let scelto;
+    for (const nome of [`rifai-${id}.txt`, `log-${id}.txt`]) {
+      const f = path.join(base, 'audio', nome);
+      const info = fs.statSync(f, { throwIfNoEntry: false });
+      if (info?.isFile() && info.mtimeMs >= avvio && (!scelto || info.mtimeMs > scelto.tempo)) scelto = { f, tempo: info.mtimeMs };
+    }
+    if (!scelto) return undefined;
+    const fd = fs.openSync(scelto.f, 'r');
+    try {
+      const info = fs.fstatSync(fd);
+      const lungo = Math.min(info.size, 16384);
+      const buffer = Buffer.alloc(lungo);
+      fs.readSync(fd, buffer, 0, lungo, info.size - lungo);
+      const righe = buffer.toString('utf8');
+      const ultimo = [...righe.matchAll(/(\d+)\/(\d+)/g)].at(-1);
+      if (!ultimo) return undefined;
+      const [, fatte, totali] = ultimo.map(Number);
+      if (!totali || fatte > totali) return undefined;
+      // Dopo l'ultima frase restano montaggio ed esportazione: il conteggio non sale più.
+      const coda = righe.slice(ultimo.index + ultimo[0].length);
+      const fase = /Combining sentences|Get duration|Export|monto l'audio/i.test(coda) ? 'montaggio' : undefined;
+      return { fatte, totali, ...(fase && { fase }), aggiornato: new Date(scelto.tempo).toISOString() };
+    } finally { fs.closeSync(fd); }
+  }
+
   function filePresa(j, k) {
     return path.join(autore, 'prese', j.id, `${numero(j.capitolo)}-${j.indice}-${k}.mp3`);
   }
@@ -100,10 +131,11 @@ function creaAudio(root) {
     const mp3 = path.join(base, 'audiobooks', `${j.nome}.mp3`);
     const vtt = path.join(base, 'audiobooks', `${j.nome}.vtt`);
     const blocco = sessione(j.nome);
-    if (j.tipo === 'modifica' && !blocco) {
+    const testuale = ['modifica', 'stacco'].includes(j.tipo);
+    if (testuale && !blocco) {
       if (fs.existsSync(mp3)) fs.renameSync(mp3, path.join(autore, `${j.id}-prima.mp3`));
       await esegui(j, bash, ['genera.sh', id, id]);
-    } else if (j.tipo === 'modifica') {
+    } else if (testuale) {
       const prima = fs.statSync(mp3, { throwIfNoEntry: false })?.mtimeMs;
       await rifai(['--testo']);
       const dopo = fs.statSync(mp3, { throwIfNoEntry: false });
@@ -161,6 +193,20 @@ function creaAudio(root) {
     }
   }
 
+  // Su Windows il file non si puo' sostituire mentre il lettore lo sta leggendo: si riprova per qualche secondo.
+  async function rinomina(da, a) {
+    for (let tentativo = 0; ; tentativo++) {
+      try { return fs.renameSync(da, a); }
+      catch (e) {
+        if (tentativo >= 60 || !['EPERM', 'EBUSY', 'EACCES'].includes(e.code)) {
+          if (tentativo >= 60) throw new Error(`Il lettore sta usando ${path.basename(a)}: ricarica la pagina del lettore e riprova.`);
+          throw e;
+        }
+        await pausa(250);
+      }
+    }
+  }
+
   async function aggiornaLettore(j) {
     const dest = path.join(autore, `lettore-${j.id}`);
     await esegui(j, process.execPath, ['pubblica.js', `--capitolo=${j.capitolo}`, `--destino=${dest}`]);
@@ -173,7 +219,7 @@ function creaAudio(root) {
     const cambiati = [];
     try {
       for (const f of files) {
-        fs.renameSync(f.nuovo, f.file);
+        await rinomina(f.nuovo, f.file);
         cambiati.push(f);
       }
     } catch (e) {
@@ -185,7 +231,7 @@ function creaAudio(root) {
     }
   }
 
-  return { segmento, filePresa, lavora, pubblica };
+  return { segmento, filePresa, lavora, pubblica, progresso };
 }
 
 module.exports = { creaAudio, indiceVtt };

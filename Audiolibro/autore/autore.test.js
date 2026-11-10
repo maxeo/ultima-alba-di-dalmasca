@@ -233,3 +233,105 @@ test('un riavvio completa un salvataggio interrotto prima di accodare la voce', 
   const stato = JSON.parse(fs.readFileSync(path.join(dir, 'lavori.json'), 'utf8'));
   assert.deepEqual(stato.map(x => [x.id, x.stato]), [['ripresa', 'pronto']]);
 });
+
+test('durante la generazione il lettore vede l’avanzamento e non può ripristinare il testo', async t => {
+  const { creaServer } = require('./server');
+  const { creaAudio } = require('./audio');
+  const root = fs.mkdtempSync(path.join(os.tmpdir(), 'leggio-generazione-'));
+  t.after(() => fs.rmSync(root, { recursive: true, force: true }));
+  fs.mkdirSync(path.join(root, 'Romanzo/capitoli'), { recursive: true });
+  fs.mkdirSync(path.join(root, 'Audiolibro/audio'), { recursive: true });
+  fs.writeFileSync(path.join(root, 'Romanzo/capitoli/004-reks.md'), '## 4. Reks\n\nTesto prima.\n');
+  fs.writeFileSync(path.join(root, 'Romanzo/romanzo.md'), '# Libro\n\n## 4. Reks\n\nTesto prima.\n');
+  const registro = path.join(root, 'Audiolibro/audio/rifai-004.txt');
+  let sblocca;
+  const inCorso = new Promise(resolve => { sblocca = resolve; });
+  let avvia;
+  const avviato = new Promise(resolve => { avvia = resolve; });
+  const vero = creaAudio(root);
+  const server = creaServer({ root, audio: {
+    progresso: vero.progresso,
+    async lavora() { avvia(); await inCorso; },
+    async pubblica() {},
+  } });
+  server.listen(0, '127.0.0.1');
+  t.after(() => server.close());
+  await once(server, 'listening');
+  const url = `http://127.0.0.1:${server.address().port}/__autore/`;
+  const api = (p, body) => fetch(url + p, body && {
+    method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body),
+  });
+  const capitolo = async () => (await api('capitolo/4')).json();
+  const prima = await capitolo();
+  assert.equal((await api('modifica', { capitolo: 4, revisione: prima.revisione, riga: 2, testo: 'Testo dopo.' })).status, 202);
+  await avviato;
+  fs.writeFileSync(registro, 'avvio\n12.79%: : 22/172 13.37%: : 22/172  : Una frase.\n');
+  const durante = await capitolo();
+  const lavoro = durante.lavori.find(j => j.tipo === 'modifica');
+  assert.equal(lavoro.stato, 'in generazione');
+  assert.deepEqual({ fatte: lavoro.progresso.fatte, totali: lavoro.progresso.totali }, { fatte: 22, totali: 172 });
+  const rifiuto = await api('ripristina', { id: lavoro.id, indice: 0 });
+  assert.equal(rifiuto.status, 409);
+  assert.match((await rifiuto.json()).errore, /generazione/);
+  assert.equal((await capitolo()).passaggi[0].testo, 'Testo dopo.');
+  sblocca();
+  const scadenza = Date.now() + 3000;
+  let finale;
+  do {
+    finale = await capitolo();
+    if (finale.lavori.every(j => j.stato !== 'in generazione')) break;
+    await new Promise(resolve => setTimeout(resolve, 20));
+  } while (Date.now() < scadenza);
+  assert.equal(finale.lavori.find(j => j.tipo === 'modifica').progresso, undefined);
+  assert.equal((await api('ripristina', { id: lavoro.id, indice: 0 })).status, 202);
+  assert.equal((await capitolo()).passaggi[0].testo, 'Testo prima.');
+});
+
+test('lo stacco di scena si sposta dal lettore e vale in tutte le copie', async t => {
+  const { creaServer } = require('./server');
+  const root = fs.mkdtempSync(path.join(os.tmpdir(), 'leggio-stacco-'));
+  t.after(() => fs.rmSync(root, { recursive: true, force: true }));
+  const copie = ['Romanzo', '.claude/worktrees/revisione-ia/Romanzo'];
+  for (const copia of copie) {
+    fs.mkdirSync(path.join(root, copia, 'capitoli'), { recursive: true });
+    fs.writeFileSync(path.join(root, copia, 'capitoli/004-reks.md'), '## 4. Reks\n\nPrimo.\n\n---\n\nSecondo.\n\nTerzo.\n');
+    fs.writeFileSync(path.join(root, copia, 'romanzo.md'), '# Libro\n\n## 4. Reks\n\nPrimo.\n\n---\n\nSecondo.\n\nTerzo.\n\n## 5. Dopo\n\nAltro.\n');
+  }
+  const accodati = [];
+  const server = creaServer({ root, audio: { async lavora(j) { accodati.push(j.tipo); }, async pubblica() {} } });
+  server.listen(0, '127.0.0.1');
+  t.after(() => server.close());
+  await once(server, 'listening');
+  const url = `http://127.0.0.1:${server.address().port}/__autore/`;
+  const api = (p, body) => fetch(url + p, body && {
+    method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body),
+  });
+  const capitolo = async () => (await api('capitolo/4')).json();
+  const prima = await capitolo();
+  assert.deepEqual(prima.passaggi.map(p => [p.testo, !!p.stacco]), [['Primo.', false], ['Secondo.', true], ['Terzo.', false]]);
+  const riga = p => prima.passaggi.find(x => x.testo === p).riga;
+  assert.equal((await api('stacco', { capitolo: 4, revisione: prima.revisione, riga: riga('Secondo.'), stacco: true })).status, 409);
+  const tolto = await api('stacco', { capitolo: 4, revisione: prima.revisione, riga: riga('Secondo.'), stacco: false });
+  assert.equal(tolto.status, 202);
+  assert.equal((await tolto.json()).tipo, 'stacco');
+  const senza = await capitolo();
+  assert.deepEqual(senza.passaggi.map(p => [p.testo, !!p.stacco]), [['Primo.', false], ['Secondo.', false], ['Terzo.', false]]);
+  const messo = await api('stacco', { capitolo: 4, revisione: senza.revisione, riga: senza.passaggi[2].riga, stacco: true });
+  assert.equal(messo.status, 202);
+  const dopo = await capitolo();
+  assert.deepEqual(dopo.passaggi.map(p => [p.testo, !!p.stacco]), [['Primo.', false], ['Secondo.', false], ['Terzo.', true]]);
+  for (const copia of copie) {
+    assert.match(fs.readFileSync(path.join(root, copia, 'capitoli/004-reks.md'), 'utf8'), /Primo\.\n\nSecondo\.\n\n---\n\nTerzo\./);
+    assert.match(fs.readFileSync(path.join(root, copia, 'romanzo.md'), 'utf8'), /Primo\.\n\nSecondo\.\n\n---\n\nTerzo\.\n\n## 5\. Dopo/);
+  }
+  const spostato = await api('stacco', { capitolo: 4, revisione: dopo.revisione, riga: dopo.passaggi[2].riga, a: dopo.passaggi[1].riga });
+  assert.equal(spostato.status, 202);
+  const mosso = await capitolo();
+  assert.deepEqual(mosso.passaggi.map(p => [p.testo, !!p.stacco]), [['Primo.', false], ['Secondo.', true], ['Terzo.', false]]);
+  for (const copia of copie) {
+    assert.match(fs.readFileSync(path.join(root, copia, 'capitoli/004-reks.md'), 'utf8'), /Primo\.\n\n---\n\nSecondo\.\n\nTerzo\./);
+  }
+  const scadenza = Date.now() + 3000;
+  while (accodati.length < 3 && Date.now() < scadenza) await new Promise(r => setTimeout(r, 20));
+  assert.deepEqual(accodati, ['stacco', 'stacco', 'stacco']);
+});

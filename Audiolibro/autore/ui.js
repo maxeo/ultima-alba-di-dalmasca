@@ -228,6 +228,9 @@ else (() => {
   barra.append(titolo, chiudi);
   const stato = el('p', 'autore-stato');
   stato.setAttribute('role', 'status');
+  const lavorazione = el('p', 'autore-lavorazione');
+  lavorazione.setAttribute('role', 'status');
+  lavorazione.hidden = true;
   const avvisoCarico = el('p', 'autore-didascalia');
   avvisoCarico.setAttribute('role', 'status');
   const area = el('textarea');
@@ -246,10 +249,10 @@ else (() => {
   const azioniInLinea = el('span', 'autore-azioni');
   azioniInLinea.append(salva, annulla, riscontro);
   inLinea.append(griglia, azioniInLinea);
-  const bottoneIcona = (etichetta, disegno, clic, mostraEtichetta = false) => {
+  const bottoneIcona = (etichetta, disegno, clic, mostraEtichetta = false, descrizione = etichetta) => {
     const b = bottone('', clic);
     b.className = 'autore-icona-azione';
-    tooltipSu(b, etichetta);
+    tooltipSu(b, descrizione);
     b.setAttribute('aria-label', etichetta);
     disegno.setAttribute('aria-hidden', 'true');
     b.append(disegno);
@@ -277,7 +280,7 @@ else (() => {
   const conferma = el('footer', 'autore-azioni autore-conferma');
   conferma.append(applicaBozza, aggiornaAudio, richiestaConferma);
   const elenco = el('div', 'autore-lavori');
-  pannello.append(barra, stato, avvisoCarico, elenco, conferma);
+  pannello.append(barra, stato, lavorazione, avvisoCarico, elenco, conferma);
   const apri = bottone('Autore', apriRiepilogo);
   apri.className = 'autore-apri';
   apri.setAttribute('aria-expanded', 'false');
@@ -292,7 +295,8 @@ else (() => {
   const meno = el('span', 'autore-meno');
   const stimaAudio = el('span', 'autore-stima-audio');
   const carico = el('span', 'autore-caricamento');
-  pendenti.append(carico, piu, meno, stimaAudio);
+  const avanzamento = el('span', 'autore-avanzamento');
+  pendenti.append(carico, avanzamento, piu, meno, stimaAudio);
   const titoloContatore = 'Parole aggiunte e rimosse rispetto all’audio in uso. La stima audio conta le parole nelle frasi interessate.';
   tooltipSu(pendenti, () => pendenti.dataset.tooltip);
   pagina?.querySelector('header')?.append(pendenti);
@@ -309,7 +313,7 @@ else (() => {
   const minuti = t => `${Math.floor(t / 60)}:${String(Math.floor(t % 60)).padStart(2, '0')}`;
   const paragrafi = () => [...articolo.querySelectorAll(':scope > p:not(.h, .autore-sostituito, .autore-solo-diff)')];
   const paragrafiAudio = () => [...articolo.querySelectorAll(':scope > p:not(.h, .autore-proiezione)')];
-  const ornamentiDiff = '.autore-rimozione, .autore-controllo-diff, .autore-paragrafo-rimosso';
+  const ornamentiDiff = '.autore-rimozione, .autore-controlli-paragrafo, .autore-controllo-diff, .autore-paragrafo-rimosso';
   function testoSenzaRimozioni(nodo) {
     if (nodo.matches?.(ornamentiDiff)) return '';
     if (!nodo.querySelector?.(ornamentiDiff)) return nodo.textContent;
@@ -470,22 +474,32 @@ else (() => {
 
   function marcaParagrafo(p, chiave, haDiff) {
     p.classList.add('autore-paragrafo-modificato');
-    if (!haDiff) return;
-    const aggiorna = aperto => {
-      p.classList.toggle('autore-diff-aperto', aperto);
-      controllo.textContent = aperto ? 'Nascondi diff inline' : 'Mostra diff inline';
-      controllo.setAttribute('aria-expanded', String(aperto));
-    };
-    const controllo = bottone('', () => {
-      const apri = !diffAperti.has(chiave);
-      if (apri) diffAperti.add(chiave);
-      else diffAperti.delete(chiave);
-      aggiorna(apri);
-      aggiornaEvidenze();
-    });
-    controllo.className = 'autore-controllo-diff';
-    p.append(controllo);
-    aggiorna(diffAperti.has(chiave));
+    const controlli = el('span', 'autore-controlli-paragrafo');
+    if (haDiff) {
+      const aggiorna = aperto => {
+        p.classList.toggle('autore-diff-aperto', aperto);
+        controllo.textContent = aperto ? 'Nascondi diff inline' : 'Mostra diff inline';
+        controllo.setAttribute('aria-expanded', String(aperto));
+      };
+      const controllo = bottone('', () => {
+        const apri = !diffAperti.has(chiave);
+        if (apri) diffAperti.add(chiave);
+        else diffAperti.delete(chiave);
+        aggiorna(apri);
+        aggiornaEvidenze();
+      });
+      controllo.className = 'autore-controllo-diff';
+      controlli.append(controllo);
+      aggiorna(diffAperti.has(chiave));
+    }
+    // Il paragrafo rimosso non esiste piu' nel testo: non c'e' niente da correggere.
+    if (!p.classList.contains('autore-solo-diff')) {
+      const modifica = bottone('Modifica', () => apriPassaggio(contestoPassaggio(p.querySelector('[data-i]') || p, null)));
+      modifica.className = 'autore-controllo-diff';
+      modifica.title = 'Correggi il passaggio';
+      controlli.append(modifica);
+    }
+    if (controlli.childElementCount) p.append(controlli);
   }
 
   function mostraModifiche() {
@@ -501,19 +515,21 @@ else (() => {
     articolo.querySelectorAll(':scope > .autore-proiezione').forEach(p => p.remove());
     const elencoParagrafi = paragrafiAudio();
     elencoParagrafi.forEach(p => {
-      p.classList.remove('autore-sostituito', 'autore-senza-stacco', 'autore-con-stacco', 'autore-paragrafo-modificato', 'autore-diff-aperto');
+      p.classList.remove('autore-sostituito', 'autore-senza-stacco', 'autore-con-stacco', 'autore-paragrafo-modificato', 'autore-diff-aperto', 'autore-audio-in-corso');
       p.querySelectorAll(ornamentiDiff).forEach(n => { if (!n.closest('.autore-versione')) n.remove(); });
     });
     if (dati?.capitolo === cap() && articolo.querySelector('[data-i]')) {
       if (dati.bozza?.blocchi.length || dati.lavori.some(j => j.tipo === 'modifica' && j.blocchi?.length)) {
         mostraProiezione(elencoParagrafi, evidenze);
+        segnaLavorazione();
         aggiornaEvidenze();
         aggiornaContatori();
         return;
       }
       const perRiga = new Map();
       for (const j of dati.lavori) {
-        if (j.tipo !== 'modifica') continue;
+        // Con l'audio già rifatto non c'è più niente da confrontare: la modifica è storia.
+        if (j.tipo !== 'modifica' || ['pronto', 'superato'].includes(j.stato)) continue;
         const primo = perRiga.get(j.riga);
         if (!primo) perRiga.set(j.riga, { dopo: j.dopo, prima: j.prima, versioni: new Set([j.prima]) });
         else if (j.dopo === primo.prima) { primo.prima = j.prima; primo.versioni.add(j.prima); }
@@ -549,8 +565,33 @@ else (() => {
         }
       });
     }
+    segnaLavorazione();
     aggiornaEvidenze();
     aggiornaContatori();
+  }
+
+  // I paragrafi la cui voce si sta rifacendo si distinguono da quelli ancora da accodare.
+  function righeInLavorazione() {
+    const righe = new Set();
+    for (const j of dati?.lavori || []) {
+      if (!['bozza', 'modifica'].includes(j.tipo) || j.revisione !== dati.revisione) continue;
+      if (!['in coda', 'in generazione'].includes(j.stato)) continue;
+      if (j.riga !== undefined) { righe.add(j.riga); continue; }
+      let scarto = 0;
+      for (const b of j.blocchi || []) {
+        for (const p of dati.passaggi.slice(b.ordine + scarto, b.ordine + scarto + b.dopo.length)) righe.add(p.riga);
+        scarto += b.dopo.length - b.prima.length;
+      }
+    }
+    return righe;
+  }
+
+  function segnaLavorazione() {
+    const righe = righeInLavorazione();
+    for (const p of paragrafi()) {
+      const r = passaggioDi(p)?.riga;
+      p.classList.toggle('autore-audio-in-corso', r !== undefined && righe.has(r));
+    }
   }
 
   function mostraProiezione(letti, evidenze) {
@@ -566,7 +607,8 @@ else (() => {
     const corrispondenze = new Map(gruppi.filter(g => g.letto !== undefined && fonte[g.fonte].fine === undefined)
       .map(g => [fonte[g.fonte].riga, prima[g.letto]]));
     const storico = new Map();
-    const applicata = dati.lavori.find(j => j.tipo === 'modifica' && j.revisione === dati.revisione && j.blocchi?.length);
+    const applicata = dati.lavori.find(j => j.tipo === 'modifica' && j.revisione === dati.revisione && j.blocchi?.length
+      && !['pronto', 'superato'].includes(j.stato));
     let scarto = 0;
     for (const b of applicata?.blocchi || []) {
       const passaggi = dati.passaggi.slice(b.ordine + scarto, b.ordine + scarto + b.dopo.length);
@@ -639,6 +681,9 @@ else (() => {
     pendenti.setAttribute('aria-busy', String(fase === 'caricamento'));
     carico.hidden = pronto || fase === 'nessun-capitolo';
     piu.hidden = meno.hidden = stimaAudio.hidden = !pronto;
+    const g = pronto ? generazione() : null;
+    lavorazione.hidden = avanzamento.hidden = !g;
+    if (g) lavorazione.textContent = avanzamento.textContent = g.testo;
     if (!pronto) {
       const etichetta = fase === 'caricamento' ? 'Caricamento modifiche…' : 'Modifiche non disponibili';
       if (carico.textContent !== etichetta) carico.textContent = etichetta;
@@ -648,15 +693,16 @@ else (() => {
       apri.hidden = !pendenti.hidden && !pagina?.classList.contains('nascosto');
       return;
     }
-    pendenti.dataset.tooltip = titoloContatore;
+    pendenti.dataset.tooltip = g ? `${g.testo}. ${titoloContatore}` : titoloContatore;
     const conteggi = new Map(conteggiSalvati);
     if (inLinea.isConnected && area.value.trim() !== originale) {
       for (const n of bloccoEditor.righe) conteggi.delete(n);
       conteggi.set(riga, riepilogoParole(bloccoEditor.prima, testoVisibile(area.value.trim())));
     }
-    pendenti.hidden = conteggi.size === 0;
+    piu.hidden = meno.hidden = stimaAudio.hidden = conteggi.size === 0;
+    pendenti.hidden = conteggi.size === 0 && !g;
     apri.hidden = !pendenti.hidden && !pagina?.classList.contains('nascosto');
-    if (pendenti.hidden) return;
+    if (conteggi.size === 0) return;
     const totale = { piu: 0, meno: 0, audio: 0 };
     for (const c of conteggi.values()) for (const chiave of Object.keys(totale)) totale[chiave] += c[chiave];
     piu.textContent = `+${totale.piu}`;
@@ -712,7 +758,7 @@ else (() => {
   }
 
   function lavoroAudio() {
-    return dati?.lavori.find(x => ['modifica', 'rigenera', 'scegli'].includes(x.tipo));
+    return dati?.lavori.find(x => ['modifica', 'stacco', 'rigenera', 'scegli'].includes(x.tipo));
   }
 
   function chiediConferma(origine, comando, id, domanda) {
@@ -900,13 +946,14 @@ else (() => {
     return riferimentoDelCue(cue[Number(p.querySelector('[data-i]')?.dataset.i)]);
   }
 
-  function bloccoConAzioni(anteprima, j, indice, dopo, righe) {
+  function bloccoConAzioni(anteprima, j, indice, dopo, righe, offset = 0, paragrafiBlocco = 1) {
     const locale = j.tipo === 'bozza';
     const blocco = el('div', 'autore-blocco-diff');
     const comandi = el('div', 'autore-azioni-blocco');
     const richiesta = el('div', 'autore-ripristino');
     richiesta.hidden = true;
-    const domanda = el('span', '', locale ? 'Scartare questo blocco della bozza?' : 'Ripristinare il testo precedente di questo blocco?');
+    const insieme = paragrafiBlocco > 1 ? ' Riguarda tutti i paragrafi del blocco.' : '';
+    const domanda = el('span', '', (locale ? 'Scartare questo blocco della bozza?' : 'Ripristinare il testo precedente di questo blocco?') + insieme);
     const svg = 'http://www.w3.org/2000/svg';
     const matita = document.createElementNS(svg, 'svg');
     matita.setAttribute('class', 'ic');
@@ -918,7 +965,7 @@ else (() => {
       if (bozzaAperta()) return;
       if (inLinea.isConnected) chiudiEditor();
       const tutti = paragrafi();
-      const nodi = dopo.map((t, i) => paragrafoDelDiff(t, righe[i], locale ? i : 0));
+      const nodi = dopo.map((t, i) => paragrafoDelDiff(t, righe[i], locale ? offset + i : 0));
       const da = tutti.indexOf(nodi[0]);
       const a = tutti.indexOf(nodi.at(-1));
       if (da < 0 || a < da || nodi.some(p => !p)) { stato.textContent = 'Il blocco non è disponibile nel testo corrente.'; return; }
@@ -929,11 +976,13 @@ else (() => {
       modificaInLinea('', undefined, { da, a });
     });
     const ripristina = bottoneIcona('Ripristina', icona('i-ripristina'), () => {
-      if (bozzaAperta()) return;
+      if (bozzaAperta() || ripristina.disabled) return;
       richiesta.hidden = false;
       comandi.hidden = true;
       annulla.focus();
-    });
+    }, false, () => ripristina.disabled ? 'Audio in generazione: attendi la fine' : 'Ripristina');
+    ripristina.classList.add('autore-ripristina-blocco');
+    ripristina.dataset.tipo = j.tipo;
     const conferma = bottone('Conferma', async () => {
       conferma.disabled = annulla.disabled = true;
       try {
@@ -958,67 +1007,241 @@ else (() => {
     return blocco;
   }
 
+  const nomiLavoro = { bozza: 'Testo', modifica: 'Testo', stacco: 'Stacco di scena', prese: 'Prese audio', rigenera: 'Nuova lettura', scegli: 'Presa scelta', proposta: 'Proposta di testo' };
+  const dataBreve = iso => {
+    const d = new Date(iso || '');
+    return Number.isNaN(d.getTime()) ? '' : d.toLocaleString('it-IT', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' });
+  };
+
+  // Le frasi valgono fino al 90%: il montaggio che segue non ha avanzamento, quindi sale da solo verso il 99%.
+  const montaggioDa = new Map();
+  function percentuale(j) {
+    const p = j.stato === 'in generazione' ? j.progresso : undefined;
+    if (!p?.totali) { montaggioDa.delete(j.id); return undefined; }
+    if (!p.fase) {
+      montaggioDa.delete(j.id);
+      return Math.min(90, Math.round(p.fatte / p.totali * 90));
+    }
+    if (!montaggioDa.has(j.id)) montaggioDa.set(j.id, Date.now());
+    const secondi = (Date.now() - montaggioDa.get(j.id)) / 1000;
+    return Math.min(99, Math.round(90 + 9 * (1 - Math.exp(-secondi / 60))));
+  }
+
+  function etichettaLavoro(j) {
+    const valido = j.revisione === dati?.revisione;
+    const stato = !valido && ['prese', 'proposta'].includes(j.tipo) ? 'superato' : j.stato;
+    const percento = percentuale(j);
+    const avanzamento = percento === undefined ? '' : ` ${percento}%`;
+    const data = dataBreve(j.aggiornato || j.creato);
+    return `${nomiLavoro[j.tipo]} · ${stato}${avanzamento}${j.segnalazioni?.length ? ' · da controllare' : ''}${data ? ' · ' + data : ''}`;
+  }
+
+  // Stato della generazione del capitolo aperto: serve al contatore in testata e al pannello.
+  // Windows non lascia sostituire l'MP3 finche' il lettore lo tiene aperto: mentre c'e' un lavoro sul capitolo,
+  // se l'audio e' fermo lo si stacca, e torna al suo posto appena il lavoro finisce o si rimette mano al lettore.
+  let audioFermo;
+  function staccaAudio(inCorso) {
+    const a = document.querySelector('audio');
+    if (!a) return;
+    if (!inCorso) return rimettiAudio();
+    if (audioFermo || !a.paused || !a.getAttribute('src')) return;
+    audioFermo = { src: a.getAttribute('src'), tempo: a.currentTime };
+    a.removeAttribute('src');
+    a.load();
+  }
+  function rimettiAudio() {
+    if (!audioFermo) return;
+    const { src, tempo } = audioFermo;
+    audioFermo = undefined;
+    const a = document.querySelector('audio');
+    if (!a || a.getAttribute('src')) return;
+    if (tempo) a.addEventListener('loadedmetadata', () => { a.currentTime = tempo; }, { once: true });
+    a.setAttribute('src', src);
+    a.load();
+  }
+  document.addEventListener('pointerdown', e => { if (e.target.closest?.('.barra')) rimettiAudio(); }, true);
+  document.addEventListener('keydown', e => { if (e.key === ' ' || e.key.startsWith('Arrow')) rimettiAudio(); }, true);
+  function generazione() {
+    const elencoLavori = dati?.lavori || [];
+    const inCorso = elencoLavori.find(j => j.stato === 'in generazione');
+    const inCoda = elencoLavori.filter(j => j.stato === 'in coda').length;
+    if (!inCorso && !inCoda) return null;
+    const percento = inCorso ? percentuale(inCorso) : undefined;
+    const testoBase = inCorso
+      ? `audio in corso${percento === undefined ? '' : ` · ${percento}%`}`
+      : 'audio in coda';
+    return { inCorso, inCoda, testo: inCoda ? `${testoBase} · ${inCoda} in coda` : testoBase };
+  }
+
+  // Le righe di stato e i comandi cambiano a ogni lettura, senza ridisegnare i diff.
+  function aggiornaStatiLavori() {
+    const g = generazione();
+    staccaAudio(!!g?.inCorso);
+    for (const nodo of elenco.querySelectorAll('[data-lavoro]')) {
+      const j = dati?.lavori.find(x => x.id === nodo.dataset.lavoro);
+      if (!j) continue;
+      const testo = etichettaLavoro(j);
+      if (nodo.textContent !== testo) nodo.textContent = testo;
+    }
+    for (const b of elenco.querySelectorAll('.autore-ripristina-blocco')) {
+      const bloccato = !!g?.inCorso && b.dataset.tipo === 'modifica';
+      if (b.disabled !== bloccato) {
+        b.disabled = bloccato;
+        b.setAttribute('aria-label', bloccato ? 'Ripristina, non disponibile durante la generazione' : 'Ripristina');
+      }
+    }
+  }
+
+  const ordineDiRiga = r => {
+    const i = dati.passaggi.findIndex(p => p.riga === r);
+    return i < 0 ? Infinity : i;
+  };
+
+  function cartaTesto(j, valido, prima, dopo, righe, indice, offset, paragrafiBlocco, extra) {
+    const carta = el('section', 'autore-voce');
+    const intestazione = el('p', 'autore-riga-stato');
+    intestazione.dataset.lavoro = j.id;
+    intestazione.textContent = etichettaLavoro(j);
+    const anteprima = confrontoModifiche(unisci(prima), unisci(dopo),
+      p => vaiAllaModifica(p, valido ? righe[p.indice] : undefined, j.tipo === 'bozza' ? offset + p.indice : 0));
+    carta.append(intestazione, indice === undefined ? anteprima
+      : bloccoConAzioni(anteprima, j, indice, dopo, righe, offset, paragrafiBlocco));
+    if (extra) carta.append(extra);
+    return carta;
+  }
+
+  // Le segnalazioni di Whisper si mostrano una volta sola per lavoro, sul primo blocco.
+  function avvisiLavoro(j, visti) {
+    if (!j.segnalazioni?.length || visti.has(j.id)) return null;
+    visti.add(j.id);
+    const avvisi = el('ul', 'autore-segnalazioni');
+    for (const p of j.segnalazioni) avvisi.append(el('li', '', `${p.tempo} · ${p.audio || p.testo}`));
+    return avvisi;
+  }
+
   function disegnaLavori() {
-    const firma = JSON.stringify([dati.revisione, dati.lavori]);
+    const firma = JSON.stringify([dati.revisione, dati.lavori.map(j => ({ ...j, progresso: undefined }))]);
     if (firma === sigla) return false;
     sigla = firma;
     elenco.replaceChildren();
     const attuale = dati.lavori.find(j => j.tipo === 'modifica' && j.revisione === dati.revisione);
     const ripristinati = new Set(dati.lavori.map(j => j.ripristinaDi));
+    const voci = [];
+    const inLavorazione = [];
+    const storico = [];
+    const segnalati = new Set();
+    let avvisiPronto = false;
     for (const j of dati.lavori) {
       if (j.tipo === 'bozza' && (j.id !== dati.bozza?.id || !j.blocchi.length)) continue;
       if (ripristinati.has(j.id) || j.ripristinaDi && !j.blocchi.length) continue;
       if (['rigenera', 'scegli'].includes(j.tipo) && j.stato === 'pronto' && !j.segnalazioni?.length) continue;
-      const box = el('details');
-      const nomi = { bozza: 'Testo', modifica: 'Testo', prese: 'Prese audio', rigenera: 'Nuova lettura', scegli: 'Presa scelta', proposta: 'Proposta di testo' };
       const valido = j.revisione === dati.revisione;
-      const stato = !valido && ['prese', 'proposta'].includes(j.tipo) ? 'superato' : j.stato;
-      box.open = j.tipo === 'bozza' || valido && (j.tipo === 'modifica' || ['prese', 'proposta'].includes(j.tipo) && ['pronto', 'proposta'].includes(j.stato));
-      box.append(el('summary', '', `${nomi[j.tipo]} · ${stato}${j.segnalazioni?.length ? ' · da controllare' : ''}`));
       const azionabile = j.tipo === 'bozza' || j === attuale;
-      if (j.prima) {
-        const anteprima = confrontoModifiche(j.prima, j.dopo, p => vaiAllaModifica(p, valido ? j.riga : undefined));
-        box.append(azionabile ? bloccoConAzioni(anteprima, j, 0, [j.dopo], [j.riga]) : anteprima);
+      const testuale = ['bozza', 'modifica', 'stacco'].includes(j.tipo) && !j.errore;
+      // Le modifiche già nel testo che aspettano l'audio stanno tutte in una riga sola, senza diff.
+      if (testuale && ['in coda', 'in generazione'].includes(j.stato)) { inLavorazione.push(j); continue; }
+      // Superate o già pubblicate: il diff è storia, l'audio è già quello. Restano le segnalazioni dell'ultimo controllo.
+      if (testuale && (j.stato === 'superato' || j.stato === 'pronto')) {
+        if (j.stato !== 'pronto' || !j.segnalazioni?.length || avvisiPronto) { storico.push(j); continue; }
+        avvisiPronto = true;
+        voci.push({ ordine: Infinity, creato: j.creato, nodo: () => {
+          const carta = el('section', 'autore-voce');
+          const intestazione = el('p', 'autore-riga-stato');
+          intestazione.dataset.lavoro = j.id;
+          intestazione.textContent = etichettaLavoro(j);
+          carta.append(intestazione, avvisiLavoro(j, segnalati));
+          return carta;
+        } });
+        continue;
       }
-      let scarto = 0;
-      for (const [i, b] of (j.blocchi || []).entries()) {
-        const righe = j.tipo === 'bozza' ? b.dopo.map(() => b.riga) : valido
-          ? dati.passaggi.slice(b.ordine + scarto, b.ordine + scarto + b.dopo.length).map(p => p.riga) : [];
-        const anteprima = confrontoModifiche(unisci(b.prima), unisci(b.dopo), p => vaiAllaModifica(p, righe[p.indice], j.tipo === 'bozza' ? p.indice : 0));
-        box.append(azionabile ? bloccoConAzioni(anteprima, j, i, b.dopo, righe) : anteprima);
-        scarto += b.dopo.length - b.prima.length;
+      if (testuale && j.prima) {
+        voci.push({ ordine: ordineDiRiga(j.riga), creato: j.creato,
+          nodo: () => cartaTesto(j, valido, [j.prima], [j.dopo], [j.riga], azionabile ? 0 : undefined, 0, 1,
+            avvisiLavoro(j, segnalati)) });
+        continue;
       }
-      if (j.frase) box.append(el('p', 'autore-didascalia', j.frase.replace(/\[[^\]]*\]/g, ' ')));
-      if (j.errore) {
-        box.append(el('p', 'autore-errore', j.errore));
-        if (valido) box.append(bottone('Riprova', () => azione('riprova', { id: j.id })));
+      if (testuale && j.blocchi?.length) {
+        let scarto = 0;
+        for (const [i, b] of j.blocchi.entries()) {
+          const righe = j.tipo === 'bozza' ? b.dopo.map(() => b.riga) : valido
+            ? dati.passaggi.slice(b.ordine + scarto, b.ordine + scarto + b.dopo.length).map(p => p.riga) : [];
+          // Un blocco può coprire più paragrafi: si mostra un diff per paragrafo, come nel testo.
+          const gruppi = allineaParagrafi(b.prima.map(compatto), b.dopo.map(compatto)).filter(g => g.letto === undefined);
+          const parti = gruppi.length ? gruppi : [{ da: 0, a: b.prima.length, inizio: 0, fine: b.dopo.length }];
+          const posizione = b.ordine + scarto;
+          for (const g of parti) {
+            voci.push({ ordine: posizione + g.inizio, creato: j.creato,
+              nodo: () => cartaTesto(j, valido, b.prima.slice(g.da, g.a), b.dopo.slice(g.inizio, g.fine),
+                righe.slice(g.inizio, g.fine), azionabile ? i : undefined, g.inizio, parti.length,
+                avvisiLavoro(j, segnalati)) });
+          }
+          scarto += b.dopo.length - b.prima.length;
+        }
+        continue;
       }
-      if (j.segnalazioni?.length) {
-        const avvisi = el('ul');
-        for (const p of j.segnalazioni) avvisi.append(el('li', '', `${p.tempo} · ${p.audio || p.testo}`));
-        box.append(avvisi);
-      }
-      if (valido && j.tipo === 'proposta') box.append(bottone('Usa come bozza', () => {
-        if (bozzaAperta()) return;
-        riferimento = audioDelPassaggio(j.riga);
-        scegliPassaggio(j.riga);
-        modificaInLinea('', j.dopo);
-      }));
-      if (j.prese) for (const k of j.prese) {
-        const r = el('div', 'autore-presa');
-        const etichetta = k === 0 ? 'Lettura attuale' : `Presa ${k}`;
-        const sample = el('audio');
-        sample.controls = true;
-        sample.preload = 'none';
-        sample.src = `${apiBase}prese/${j.id}/${k}.mp3`;
-        sample.setAttribute('aria-label', etichetta);
-        sample.addEventListener('play', () => {
-          voce.pause();
-          for (const altro of elenco.querySelectorAll('audio')) if (altro !== sample) altro.pause();
-        });
-        r.append(el('span', '', etichetta), sample);
-        if (k && valido) r.append(bottone(`Usa presa ${k}`, () => azione('scegli', { id: j.id, presa: k })));
-        box.append(r);
+      voci.push({ ordine: j.riga !== undefined ? ordineDiRiga(j.riga) : Infinity, creato: j.creato, nodo: () => {
+        const box = el('details');
+        const sommario = el('summary', '', etichettaLavoro(j));
+        sommario.dataset.lavoro = j.id;
+        box.open = valido && (['bozza', 'modifica'].includes(j.tipo) || ['prese', 'proposta'].includes(j.tipo) && ['pronto', 'proposta'].includes(j.stato));
+        box.append(sommario);
+        if (j.prima) box.append(confrontoModifiche(j.prima, j.dopo, p => vaiAllaModifica(p, valido ? j.riga : undefined)));
+        for (const b of j.blocchi || []) box.append(confrontoModifiche(unisci(b.prima), unisci(b.dopo), p => vaiAllaModifica(p, undefined)));
+        if (j.tipo === 'stacco') box.append(el('p', 'autore-didascalia',
+          `${j.stacco ? 'Stacco messo' : 'Stacco tolto'} prima di: ${(dati.passaggi.find(p => p.riga === j.riga)?.testo || '').slice(0, 60)}…`));
+        if (j.frase) box.append(el('p', 'autore-didascalia', j.frase.replace(/\[[^\]]*\]/g, ' ')));
+        if (j.errore) {
+          box.append(el('p', 'autore-errore', j.errore));
+          if (valido) box.append(bottone('Riprova', () => azione('riprova', { id: j.id })));
+        }
+        if (j.segnalazioni?.length) {
+          const avvisi = el('ul');
+          for (const p of j.segnalazioni) avvisi.append(el('li', '', `${p.tempo} · ${p.audio || p.testo}`));
+          box.append(avvisi);
+        }
+        if (valido && j.tipo === 'proposta') box.append(bottone('Usa come bozza', () => {
+          if (bozzaAperta()) return;
+          riferimento = audioDelPassaggio(j.riga);
+          scegliPassaggio(j.riga);
+          modificaInLinea('', j.dopo);
+        }));
+        if (j.prese) for (const k of j.prese) {
+          const r = el('div', 'autore-presa');
+          const etichetta = k === 0 ? 'Lettura attuale' : `Presa ${k}`;
+          const sample = el('audio');
+          sample.controls = true;
+          sample.preload = 'none';
+          sample.src = `${apiBase}prese/${j.id}/${k}.mp3`;
+          sample.setAttribute('aria-label', etichetta);
+          sample.addEventListener('play', () => {
+            voce.pause();
+            for (const altro of elenco.querySelectorAll('audio')) if (altro !== sample) altro.pause();
+          });
+          r.append(el('span', '', etichetta), sample);
+          if (k && valido) r.append(bottone(`Usa presa ${k}`, () => azione('scegli', { id: j.id, presa: k })));
+          box.append(r);
+        }
+        return box;
+      } });
+    }
+    if (inLavorazione.length) voci.push({ ordine: -1, creato: inLavorazione[0].creato, nodo: () => {
+      const carta = el('section', 'autore-voce autore-in-lavorazione');
+      const blocchi = inLavorazione.reduce((n, j) => n + (j.blocchi?.length || 1), 0);
+      carta.append(el('p', 'autore-didascalia', blocchi === 1
+        ? 'Una modifica è già nel testo e aspetta l’audio: il diff si rivede quando la voce è pronta.'
+        : `${blocchi} modifiche sono già nel testo e aspettano l’audio: i diff si rivedono quando la voce è pronta.`));
+      return carta;
+    } });
+    voci.sort((a, b) => (a.ordine === b.ordine ? 0 : a.ordine - b.ordine) || Date.parse(a.creato) - Date.parse(b.creato));
+    for (const v of voci) elenco.append(v.nodo());
+    if (storico.length) {
+      const box = el('details', 'autore-storico');
+      box.append(el('summary', '', storico.length === 1 ? '1 modifica precedente' : `${storico.length} modifiche precedenti`));
+      for (const j of storico.slice().reverse()) {
+        const riga = el('p', 'autore-didascalia');
+        riga.dataset.lavoro = j.id;
+        riga.textContent = etichettaLavoro(j);
+        box.append(riga);
       }
       elenco.append(box);
     }
@@ -1036,6 +1259,7 @@ else (() => {
       erroreCaricamento = undefined;
       dati = nuovo;
       if (disegnaLavori()) mostraModifiche();
+      aggiornaStatiLavori();
       aggiornaComandi();
       aggiornaContatori();
     } catch (e) {
@@ -1136,6 +1360,45 @@ else (() => {
     } catch (e) { stato.textContent = e.message; return false; }
   }
 
+  // Incolla sulla selezione: il testo degli appunti prende il posto di quello scelto dentro l'editor,
+  // con la stessa sintassi del capitolo, cioe' un paragrafo per riga e una riga vuota fra un paragrafo e l'altro.
+  async function incollaSulTesto(contesto) {
+    // Se il browser non lascia leggere gli appunti si apre comunque l'editor sulla selezione: basta Ctrl+V.
+    let appunti = '';
+    try { appunti = await navigator.clipboard.readText(); } catch { appunti = ''; }
+    const pezzi = appunti.replace(/\r\n?/g, '\n').split(/\n{2,}/).map(t => t.replace(/\s*\n\s*/g, ' ').trim()).filter(Boolean);
+    const stacchi = pezzi.some(t => /^-{3,}$/.test(t));
+    const testo = pezzi.filter(t => !/^-{3,}$/.test(t)).join('\n\n');
+    if (!await apriPassaggio(contesto)) return;
+    if (!testo) { stato.textContent = 'Premi Ctrl+V per incollare al posto della selezione.'; return; }
+    area.setRangeText(testo, area.selectionStart, area.selectionEnd, 'end');
+    area.dispatchEvent(new Event('input', { bubbles: true }));
+    area.focus({ preventScroll: true });
+    if (stacchi) stato.textContent = 'Lo stacco di scena non si incolla: mettilo dal menu del tasto destro.';
+  }
+  // Spostare uno stacco di scena: prima si dice da dove, poi si sceglie il paragrafo davanti al quale rimetterlo.
+  let staccoDaSpostare;
+  function armaStacco(riga) {
+    staccoDaSpostare = riga;
+    document.body.classList.toggle('autore-sposta-stacco', riga !== undefined);
+    if (riga !== undefined) stato.textContent = 'Scegli il paragrafo davanti al quale mettere lo stacco.';
+  }
+  async function spostaStacco(riga) {
+    const da = staccoDaSpostare;
+    armaStacco();
+    if (da === undefined || riga === undefined || riga === da) return;
+    if (await apriRiepilogo()) azione('stacco', { capitolo: dati.capitolo, revisione: dati.revisione, riga: da, a: riga });
+  }
+  articolo.addEventListener('click', e => {
+    if (staccoDaSpostare === undefined) return;
+    const p = e.target.closest?.('p');
+    if (!p || !paragrafi().includes(p)) return;
+    e.preventDefault();
+    e.stopPropagation();
+    spostaStacco(passaggioDi(p)?.riga);
+  }, true);
+  addEventListener('keydown', e => { if (e.key === 'Escape' && staccoDaSpostare !== undefined) armaStacco(); });
+
   const menu = el('div', 'autore-menu');
   menu.hidden = true;
   menu.setAttribute('role', 'menu');
@@ -1147,8 +1410,9 @@ else (() => {
 
   articolo.addEventListener('contextmenu', e => {
     if (e.target.closest('.autore-in-linea, .autore-confronto, .autore-controllo-diff')) return;
+    // Anche senza frasi sincronizzate il menu dell'autore deve uscire: si ripiega sul paragrafo.
     const frase = e.target.closest('[data-i], .autore-proiezione:not(.autore-solo-diff)') || e.target.closest('p')?.querySelector('[data-i]') ||
-      (e.target === articolo && e.button === 0 ? articolo.querySelector('[data-i].ora-qui') : null);
+      e.target.closest('p:not(.h)') || (e.target === articolo && e.button === 0 ? articolo.querySelector('[data-i].ora-qui') : null);
     if (!frase || !cap()) return;
     e.preventDefault();
     const selezione = getSelection();
@@ -1161,22 +1425,38 @@ else (() => {
       const frammento = intervallo.cloneContents();
       copia = [...frammento.childNodes].map(n => testoSenzaRimozioni(n) + (n.nodeName === 'P' ? '\n\n' : '')).join('').trim() || copia;
     }
+    const passaggioMenu = passaggioDi(paragrafi()[contesto.ordine]);
+    const stacco = { riga: passaggioMenu?.riga, haStacco: !!passaggioMenu?.stacco };
     const voceMenu = (etichetta, esegui, disabilitato = false) => {
       const b = bottone(etichetta, () => { chiudiMenu(); esegui(); });
       b.setAttribute('role', 'menuitem');
       b.disabled = disabilitato;
       return b;
     };
+    const bloccato = stacco.riga === undefined || !!dati?.bozza?.blocchi.length;
+    const vociStacco = staccoDaSpostare !== undefined ? [
+      voceMenu('Metti qui lo stacco di scena', () => spostaStacco(stacco.riga), bloccato || stacco.riga === staccoDaSpostare),
+      voceMenu('Lascia lo stacco dov’è', () => armaStacco()),
+    ] : [
+      voceMenu(stacco.haStacco ? 'Togli lo stacco di scena' : 'Stacco di scena prima di qui', async () => {
+        if (!await apriRiepilogo()) return;
+        azione('stacco', { capitolo: dati.capitolo, revisione: dati.revisione, riga: stacco.riga, stacco: !stacco.haStacco });
+      }, bloccato),
+      ...(stacco.haStacco ? [voceMenu('Sposta lo stacco di scena', () => armaStacco(stacco.riga), bloccato)] : []),
+    ];
+    const selezionato = !!(contesto.evidenziata || contesto.blocco);
     menu.replaceChildren(
       el('div', 'autore-menu-frase', contesto.riferimento ? `Frase a ${minuti(contesto.riferimento.tempo)} · ${fraseVisibile}` : 'Testo modificato · audio precedente'),
       voceMenu(contesto.blocco?.a > contesto.blocco?.da ? 'Correggi paragrafi selezionati' : 'Correggi passaggio', () => apriPassaggio(contesto), contesto.ordine < 0),
-      voceMenu('Rigenera la frase', async () => {
-        if (await apriRiepilogo()) azione('rigenera', { capitolo: dati.capitolo, revisione: dati.revisione, ...contesto.riferimento });
-      }, !contesto.riferimento),
       voceMenu('Copia testo', async () => {
         try { await navigator.clipboard.writeText(copia); }
         catch { if (await apriRiepilogo()) stato.textContent = 'Copia non riuscita.'; }
       }),
+      ...(selezionato ? [voceMenu('Incolla sulla selezione', () => incollaSulTesto(contesto), contesto.ordine < 0)] : []),
+      ...vociStacco,
+      voceMenu('Rigenera la frase', async () => {
+        if (await apriRiepilogo()) azione('rigenera', { capitolo: dati.capitolo, revisione: dati.revisione, ...contesto.riferimento });
+      }, !contesto.riferimento),
     );
     menu.hidden = false;
     const rettangolo = frase.getBoundingClientRect();

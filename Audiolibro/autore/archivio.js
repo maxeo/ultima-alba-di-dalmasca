@@ -129,4 +129,46 @@ function sostituisci(root, n, capitolo, blocchi) {
   return file;
 }
 
-module.exports = { errore, scrivi, numero, testoValido, leggiCapitolo, analizzaCapitolo, bloccoValido, sostituisci };
+// Mette, toglie o sposta la riga --- che separa le scene prima di un paragrafo, in tutte le copie.
+// I cambi sono [{riga, stacco}]: per spostare lo stacco si toglie da un paragrafo e si mette su un altro.
+function cambiaStacco(root, n, capitolo, cambi) {
+  const richieste = cambi.map(({ riga, stacco }) => {
+    const ordine = capitolo.passaggi.findIndex(p => p.riga === riga);
+    if (ordine < 0) throw errore(400, 'Scegli un paragrafo del capitolo.');
+    return { ordine, stacco, atteso: capitolo.passaggi[ordine].testo };
+  });
+  if (!richieste.length) throw errore(400, 'Scegli un paragrafo del capitolo.');
+  if (new Set(richieste.map(r => r.ordine)).size !== richieste.length) throw errore(400, 'Scegli un altro paragrafo.');
+  function aggiorna(righe, nome) {
+    const indice = righe.findIndex(x => new RegExp(`^## ${n}\. `).test(x));
+    const fine = righe.findIndex((x, i) => i > indice && /^## \d+\. |^# /.test(x));
+    const limite = fine < 0 ? righe.length : fine;
+    const posizioni = righe.flatMap((x, i) => i % 2 === 0 && i > indice && i < limite && ePassaggio(x.trim()) ? [i] : []);
+    if (posizioni.length !== capitolo.passaggi.length) throw errore(409, `Passaggio divergente in ${path.relative(root, nome)}.`);
+    // Dal fondo verso l'inizio, cosi' le righe aggiunte o tolte non spostano i punti ancora da sistemare.
+    for (const { ordine, stacco, atteso } of [...richieste].sort((x, y) => y.ordine - x.ordine)) {
+      const i = posizioni[ordine];
+      if (righe[i]?.trim() !== atteso) throw errore(409, `Passaggio divergente in ${path.relative(root, nome)}.`);
+      let j = i - 2;
+      while (j >= 0 && !righe[j].trim()) j -= 2;
+      const separatore = /^-{3,}$/.test(righe[j]?.trim() || '');
+      if (separatore === stacco) throw errore(409, 'Lo stacco è già così.');
+      const fineRiga = righe[i + 1] || (righe.includes('\r\n') ? '\r\n' : '\n');
+      if (stacco) righe.splice(i, 0, '---', fineRiga, '', fineRiga);
+      else righe.splice(j, Math.min(4, i - j));
+    }
+    return righe.join('');
+  }
+  const file = [{ file: capitolo.file, prima: capitolo.fonte, dopo: aggiorna([...capitolo.righe], capitolo.file) }];
+  const copia = path.join(root, '.claude', 'worktrees', 'revisione-ia', 'Romanzo');
+  const copie = [path.join(root, 'Romanzo', 'romanzo.md')];
+  if (fs.existsSync(copia)) copie.push(path.join(copia, 'capitoli', `${capitolo.nome}.md`), path.join(copia, 'romanzo.md'));
+  for (const c of copie) {
+    if (!fs.existsSync(c)) throw errore(409, `Copia mancante: ${path.relative(root, c)}`);
+    const fonte = fs.readFileSync(c, 'utf8');
+    file.push({ file: c, prima: fonte, dopo: aggiorna(fonte.split(/(\r?\n)/), c) });
+  }
+  return file;
+}
+
+module.exports = { errore, scrivi, numero, testoValido, leggiCapitolo, analizzaCapitolo, bloccoValido, sostituisci, cambiaStacco };

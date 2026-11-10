@@ -2,7 +2,7 @@ const http = require('node:http');
 const fs = require('node:fs');
 const path = require('node:path');
 const { createHash, randomUUID } = require('node:crypto');
-const { errore, scrivi, numero, testoValido, leggiCapitolo, analizzaCapitolo, bloccoValido, sostituisci } = require('./archivio');
+const { errore, scrivi, numero, testoValido, leggiCapitolo, analizzaCapitolo, bloccoValido, sostituisci, cambiaStacco } = require('./archivio');
 
 const prefisso = '/__autore/';
 const mime = { '.html': 'text/html', '.js': 'text/javascript', '.css': 'text/css', '.json': 'application/json',
@@ -82,7 +82,21 @@ function creaServer({ root = path.resolve(__dirname, '../..'), audio } = {}) {
   audio ??= require('./audio').creaAudio(root);
   let attivo = false;
   let chiuso = false;
-  for (const j of lavori) if (j.stato === 'in generazione') j.stato = 'in coda';
+  for (const j of lavori) if (j.stato === 'in generazione') { j.stato = 'in coda'; delete j.avviato; }
+
+  // Al lettore i lavori arrivano con l'avanzamento della frase in corso, che sta nei registri del TTS.
+  function conAvanzamento(elenco) {
+    return elenco.map(j => {
+      if (j.stato !== 'in generazione') return j;
+      let progresso;
+      try { progresso = audio.progresso?.(j); } catch { progresso = undefined; }
+      return progresso ? { ...j, progresso } : j;
+    });
+  }
+
+  function generazioneInCorso(n) {
+    return lavori.some(j => j.capitolo === n && ['in coda', 'in generazione'].includes(j.stato));
+  }
 
   function corrente(j) {
     try { return leggiCapitolo(root, j.capitolo).revisione === j.revisione; }
@@ -98,6 +112,7 @@ function creaServer({ root = path.resolve(__dirname, '../..'), audio } = {}) {
         try {
           if (!corrente(j)) { j.stato = 'superato'; continue; }
           j.stato = 'in generazione';
+          j.avviato = new Date().toISOString();
           salva();
           const risultato = await audio.lavora(j);
           if (!corrente(j)) { j.stato = 'superato'; continue; }
@@ -158,13 +173,14 @@ function creaServer({ root = path.resolve(__dirname, '../..'), audio } = {}) {
   }
 
   function trova(id, tipo) {
-    const j = lavori.find(x => x.id === id && (!tipo || x.tipo === tipo));
+    const tipi = tipo === undefined ? undefined : [tipo].flat();
+    const j = lavori.find(x => x.id === id && (!tipi || tipi.includes(x.tipo)));
     if (!j) throw errore(404, 'Lavoro non trovato.');
     return j;
   }
 
   function verificaAudio(n) {
-    const ultimo = lavori.findLast(j => j.capitolo === n && ['modifica', 'scegli', 'rigenera'].includes(j.tipo));
+    const ultimo = lavori.findLast(j => j.capitolo === n && ['modifica', 'stacco', 'scegli', 'rigenera'].includes(j.tipo));
     if (ultimo && ultimo.stato !== 'pronto') throw errore(409, 'Attendi l’aggiornamento dell’audio di questo capitolo.');
   }
 
@@ -204,12 +220,13 @@ function creaServer({ root = path.resolve(__dirname, '../..'), audio } = {}) {
       const n = Number(cap[1]);
       const { nome, revisione, passaggi } = leggiCapitolo(root, n);
       const bozza = ultimaBozza(n, revisione) || null;
-      return json(res, 200, { capitolo: n, nome, revisione, passaggi, bozza, salvaSoloTesto: true, lavori: lavori.filter(j => j.capitolo === n).reverse() });
+      return json(res, 200, { capitolo: n, nome, revisione, passaggi, bozza, salvaSoloTesto: true,
+        lavori: conAvanzamento(lavori.filter(j => j.capitolo === n)).reverse() });
     }
     if (get && route === 'lavori') {
       const n = url.searchParams.get('capitolo');
       if (n !== null) numero(Number(n));
-      return json(res, 200, lavori.filter(j => n === null || j.capitolo === Number(n)).reverse());
+      return json(res, 200, conAvanzamento(lavori.filter(j => n === null || j.capitolo === Number(n))).reverse());
     }
     if (get && route === 'selezione') return json(res, 200, selezione?.dati || null);
     if (req.method !== 'POST') throw errore(404, 'Comando non trovato.');
@@ -254,6 +271,7 @@ function creaServer({ root = path.resolve(__dirname, '../..'), audio } = {}) {
     if (route === 'ripristina') {
       const j = trova(d.id);
       if (j.tipo !== 'bozza' && j.tipo !== 'modifica') throw errore(400, 'Scegli una modifica del testo.');
+      if (j.tipo === 'modifica' && generazioneInCorso(j.capitolo)) throw errore(409, 'Audio in generazione: attendi la fine prima di ripristinare il testo.');
       const c = verificaVersione(j);
       const bozza = ultimaBozza(j.capitolo, c.revisione);
       const corrente = j.tipo === 'bozza' ? bozza : lavori.findLast(x =>
@@ -287,8 +305,20 @@ function creaServer({ root = path.resolve(__dirname, '../..'), audio } = {}) {
       const stato = d.audio === false ? 'audio da aggiornare' : 'in coda';
       return json(res, 202, aggiungi(d, 'modifica', c, { riga: d.riga, prima, dopo, stato }, file));
     }
+    if (route === 'stacco') {
+      const c = verificaVersione(d);
+      const sposta = d.a !== undefined;
+      if (!sposta && typeof d.stacco !== 'boolean') throw errore(400, 'Indica se mettere o togliere lo stacco.');
+      if (d.audio !== undefined && typeof d.audio !== 'boolean') throw errore(400, 'Indica se aggiornare anche l’audio.');
+      // Spostare lo stacco e' toglierlo da dov'e' e rimetterlo prima di un altro paragrafo, in un colpo solo.
+      const cambi = sposta ? [{ riga: d.riga, stacco: false }, { riga: d.a, stacco: true }] : [{ riga: d.riga, stacco: d.stacco }];
+      const file = cambiaStacco(root, d.capitolo, c, cambi);
+      const stato = d.audio === false ? 'audio da aggiornare' : 'in coda';
+      const extra = sposta ? { riga: d.a, da: d.riga, stacco: true, stato } : { riga: d.riga, stacco: d.stacco, stato };
+      return json(res, 202, aggiungi(d, 'stacco', c, extra, file));
+    }
     if (route === 'aggiorna-audio') {
-      const j = trova(d.id, 'modifica');
+      const j = trova(d.id, ['modifica', 'stacco']);
       verificaVersione(j);
       if (j.stato !== 'audio da aggiornare') throw errore(409, 'Questo aggiornamento audio è già stato richiesto.');
       j.stato = 'in coda';
@@ -315,8 +345,14 @@ function creaServer({ root = path.resolve(__dirname, '../..'), audio } = {}) {
     }
     if (route === 'riprova') {
       const j = trova(d.id);
-      verificaVersione(j);
       if (j.stato !== 'errore') throw errore(400, 'Il lavoro non è in errore.');
+      // Se intanto il capitolo è cambiato il lavoro non si può più rifare: finisce nello storico.
+      if (!corrente(j)) {
+        j.stato = 'superato';
+        delete j.errore;
+        salva();
+        return json(res, 202, j);
+      }
       j.stato = 'in coda';
       delete j.errore;
       salva();
