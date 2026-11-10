@@ -335,3 +335,38 @@ test('lo stacco di scena si sposta dal lettore e vale in tutte le copie', async 
   while (accodati.length < 3 && Date.now() < scadenza) await new Promise(r => setTimeout(r, 20));
   assert.deepEqual(accodati, ['stacco', 'stacco', 'stacco']);
 });
+
+test('un lavoro in errore si mette da parte e lo storico si pulisce', async t => {
+  const { creaServer } = require('./server');
+  const root = fs.mkdtempSync(path.join(os.tmpdir(), 'leggio-pulisci-'));
+  t.after(() => fs.rmSync(root, { recursive: true, force: true }));
+  fs.mkdirSync(path.join(root, 'Romanzo', 'capitoli'), { recursive: true });
+  fs.writeFileSync(path.join(root, 'Romanzo', 'capitoli', '004-reks.md'), '## 4. Reks\n\nPrimo.\n\nSecondo.\n');
+  fs.writeFileSync(path.join(root, 'Romanzo', 'romanzo.md'), '# Libro\n\n## 4. Reks\n\nPrimo.\n\nSecondo.\n');
+  const server = creaServer({ root, audio: { async lavora() { throw new Error('XTTS fermo'); }, async pubblica() {} } });
+  server.listen(0, '127.0.0.1');
+  t.after(() => server.close());
+  await once(server, 'listening');
+  const url = `http://127.0.0.1:${server.address().port}/__autore/`;
+  const api = (p, body) => fetch(url + p, body && {
+    method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body),
+  });
+  const lavori = async () => (await api('lavori?capitolo=4')).json();
+  const c = await (await api('capitolo/4')).json();
+  const modifica = await (await api('modifica', { capitolo: 4, revisione: c.revisione, riga: c.passaggi[0].riga, testo: 'Primo cambiato.' })).json();
+  const scadenza = Date.now() + 3000;
+  let j;
+  while (Date.now() < scadenza && (j = (await lavori()).find(x => x.id === modifica.id))?.stato !== 'errore') {
+    await new Promise(r => setTimeout(r, 20));
+  }
+  assert.equal(j.stato, 'errore');
+  assert.equal(j.errore, 'XTTS fermo');
+  assert.equal((await api('ignora', { id: modifica.id })).status, 202);
+  const messoDaParte = (await lavori()).find(x => x.id === modifica.id);
+  assert.equal(messoDaParte.stato, 'superato');
+  assert.equal(messoDaParte.errore, undefined);
+  assert.equal((await (await api('pulisci', { capitolo: 4 })).json()).tolti, 1);
+  assert.deepEqual(await lavori(), []);
+  // Il testo gia' scritto nel capitolo resta dov'e': si pulisce lo storico, non il romanzo.
+  assert.match(fs.readFileSync(path.join(root, 'Romanzo', 'capitoli', '004-reks.md'), 'utf8'), /Primo cambiato\./);
+});

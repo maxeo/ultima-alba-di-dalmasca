@@ -294,3 +294,5 @@ body.autore-sposta-stacco .corpo p:not(.h) { cursor: copy; }
 body.autore-sposta-stacco .corpo p:not(.h):hover {
   box-shadow: 0 -2px 0 0 var(--accento);
 }
+.autore-azioni-errore { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+.autore-pulisci { margin-top: 8px; }

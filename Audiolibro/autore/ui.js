@@ -1119,6 +1119,16 @@ else (() => {
     return avvisi;
   }
 
+  // Di un lavoro andato male si puo' riprendere il testo e rimetterlo a mano dove va,
+  // se il paragrafo di partenza e' ancora quello di prima.
+  function testoDelLavoro(j) {
+    const blocchi = j.blocchi?.length ? j.blocchi : j.prima && j.dopo ? [{ prima: [j.prima], dopo: [j.dopo] }] : [];
+    for (const b of blocchi) {
+      const p = dati?.passaggi.find(x => compatto(x.testo) === compatto(b.prima[0]));
+      if (p) return { riga: p.riga, testo: unisci(b.dopo) };
+    }
+    return undefined;
+  }
   function disegnaLavori() {
     const firma = JSON.stringify([dati.revisione, dati.lavori.map(j => ({ ...j, progresso: undefined }))]);
     if (firma === sigla) return false;
@@ -1192,7 +1202,17 @@ else (() => {
         if (j.frase) box.append(el('p', 'autore-didascalia', j.frase.replace(/\[[^\]]*\]/g, ' ')));
         if (j.errore) {
           box.append(el('p', 'autore-errore', j.errore));
-          if (valido) box.append(bottone('Riprova', () => azione('riprova', { id: j.id })));
+          const comandi = el('div', 'autore-azioni-errore');
+          if (valido) comandi.append(bottone('Riprova', () => azione('riprova', { id: j.id })));
+          const aMano = testoDelLavoro(j);
+          if (aMano) comandi.append(bottone('Applica a mano', () => {
+            if (bozzaAperta()) return;
+            riferimento = audioDelPassaggio(aMano.riga);
+            scegliPassaggio(aMano.riga);
+            modificaInLinea('', aMano.testo);
+          }));
+          comandi.append(bottone('Ignora', () => azione('ignora', { id: j.id })));
+          box.append(comandi);
         }
         if (j.segnalazioni?.length) {
           const avvisi = el('ul');
@@ -1243,6 +1263,9 @@ else (() => {
         riga.textContent = etichettaLavoro(j);
         box.append(riga);
       }
+      const pulisci = bottone('Pulisci lo storico', () => azione('pulisci', { capitolo: dati.capitolo }));
+      pulisci.className = 'autore-pulisci';
+      box.append(pulisci);
       elenco.append(box);
     }
     if (!elenco.childElementCount) elenco.append(el('p', 'autore-didascalia', 'Per iniziare, seleziona il testo nel capitolo e scegli Correggi dal menu del clic destro. Qui troverai i diff e le azioni disponibili.'));

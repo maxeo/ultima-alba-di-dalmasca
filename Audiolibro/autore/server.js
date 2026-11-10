@@ -359,6 +359,28 @@ function creaServer({ root = path.resolve(__dirname, '../..'), audio } = {}) {
       avviaCoda();
       return json(res, 202, j);
     }
+    if (route === 'ignora') {
+      const j = trova(d.id);
+      if (j.stato !== 'errore') throw errore(400, 'Si mettono da parte solo i lavori in errore.');
+      j.stato = 'superato';
+      delete j.errore;
+      salva();
+      return json(res, 202, j);
+    }
+    if (route === 'pulisci') {
+      // Toglie dallo storico i lavori chiusi e i file che si portavano dietro.
+      const finiti = lavori.filter(j => j.capitolo === d.capitolo &&
+        (['superato', 'errore'].includes(j.stato) || j.stato === 'pronto' && !corrente(j) ||
+         j.tipo === 'bozza' && !j.blocchi?.length && ultimaBozza(j.capitolo, j.revisione) !== j));
+      for (const j of finiti) {
+        lavori.splice(lavori.indexOf(j), 1);
+        for (const resto of [`${j.id}.log`, `${j.id}-prima.mp3`, `lettore-${j.id}`, path.join('prese', j.id)]) {
+          fs.rmSync(path.join(dir, resto), { recursive: true, force: true });
+        }
+      }
+      salva();
+      return json(res, 202, { capitolo: d.capitolo, tolti: finiti.length });
+    }
     throw errore(404, 'Comando non trovato.');
   }
 

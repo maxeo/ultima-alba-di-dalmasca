@@ -145,7 +145,8 @@ const codaAutore = path.join(QUI, 'audio', 'autore', 'lavori.json');
 const sospesi = new Map();
 if (solo === null && fs.existsSync(codaAutore)) {
   for (const j of JSON.parse(fs.readFileSync(codaAutore, 'utf8'))) {
-    if (['modifica', 'scegli', 'rigenera'].includes(j.tipo)) sospesi.set(j.capitolo, j.stato !== 'pronto');
+    // Un lavoro chiuso, anche superato, non tiene piu' fermo il capitolo: solo quelli ancora da finire.
+    if (['modifica', 'scegli', 'rigenera', 'stacco'].includes(j.tipo)) sospesi.set(j.capitolo, !['pronto', 'superato'].includes(j.stato));
   }
 }
 // Capitolo in rigenerazione (mp3 tolto da audiobooks): resta ascoltabile la versione già pubblicata.
