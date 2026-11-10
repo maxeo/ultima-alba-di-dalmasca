@@ -28,7 +28,7 @@ Basch misurò la risposta. «Sì.»
 
 Basch avrebbe voluto chiedere altro. Dove l'avevano presa, chi aveva pronunciato il suo nome, se Vayne l'aveva guardata in faccia. Quasi tutte le risposte potevano essere pericolose in una strada con finestre aperte. Aspettò il passaggio di due uomini con una portantina, poi domandò: «Sai dove trovare Balthier?»
 
-«Alla Sandsea, credo.»
+«Al Mare di sabbia, credo.»
 
 «Puoi accompagnarmi?»
 
@@ -182,7 +182,7 @@ Il baule teneva indumenti ricevuti in cambio di crediti mai saldati. Migelo se n
 
 Vaan sospese la mano sopra una camicia. «Meglio se non glielo dici adesso.»
 
-Trovarono calzoni che al capitano arrivavano corti ma meno di quelli della prigione e una giacca larga sulle spalle. Gli stivali erano un problema che il baule non poteva risolvere. Vaan prese un pezzo di cuoio dal cassetto dei lacci, si inginocchiò prima che Basch potesse protestare e lo fece passare intorno al tacco rotto. Lo aveva visto fare da Doran ai sandali di Penelo. Non era un lavoro bello; avrebbe retto fino alla Sandsea.
+Trovarono calzoni che al capitano arrivavano corti ma meno di quelli della prigione e una giacca larga sulle spalle. Gli stivali erano un problema che il baule non poteva risolvere. Vaan prese un pezzo di cuoio dal cassetto dei lacci, si inginocchiò prima che Basch potesse protestare e lo fece passare intorno al tacco rotto. Lo aveva visto fare da Doran ai sandali di Penelo. Non era un lavoro bello; avrebbe retto fino al Mare di sabbia.
 
 «Non ti ho chiesto le scarpe» disse Basch.
 
@@ -326,7 +326,7 @@ Basch non ritrasse la mano finché Vaan non ebbe abbassato la propria. Fuori, ne
 
 Basch rimase fermo.
 
-«Non dico che adesso so tutto. Di tuo fratello, di quello che è successo là. Non c'ero.» Vaan si passò una mano sopra l'orecchio sinistro, dove la ciocca era ricresciuta storta. «Ma non sei stato tu a rimandarmelo così.»
+«Non dico che adesso so tutto. Di tuo fratello, di quello che è successo là. Non c'ero.» Vaan si passò una mano sopra l'orecchio sinistro, dove i capelli erano ricresciuti storti. «Ma non sei stato tu a rimandarmelo così.»
 
 Il capitano guardò il posto accanto al letto. Avrebbe potuto ripetere che lo aveva condotto a Nalbina, che non lo aveva riportato a casa, e avrebbe potuto farne una forma di nobiltà. Non lo fece. Il ragazzo gli aveva dato una cosa precisa; correggerlo sarebbe stato un altro modo di decidere al suo posto.
 
@@ -350,4 +350,4 @@ Vaan annuì appena. Avrebbe voluto chiedergli per cosa, per il cuoio sullo stiva
 
 Scesero insieme. Kytes alzò il capo dal registro; Vaan gli chiese un'ultima volta se fossero arrivate notizie, pur sapendo che il ragazzo sarebbe corso su a chiamarlo. Kytes scosse la testa. Basch aspettò sulla soglia, poi si fece da parte quando Vaan uscì.
 
-Al cortile della pompa non c'era più nessuno. I bambini avevano lasciato la corda e portato via la tazza. Vaan si fermò a sciogliere il capo dal chiodo: qualcuno, passando al buio, ci avrebbe lasciato un piede. Basch tenne l'altra estremità finché il nodo venne via. Poi ripresero la strada della Sandsea, e il ragazzo gli camminò accanto.
+Al cortile della pompa non c'era più nessuno. I bambini avevano lasciato la corda e portato via la tazza. Vaan si fermò a sciogliere il capo dal chiodo: qualcuno, passando al buio, ci avrebbe lasciato un piede. Basch tenne l'altra estremità finché il nodo venne via. Poi ripresero la strada del Mare di sabbia, e il ragazzo gli camminò accanto.

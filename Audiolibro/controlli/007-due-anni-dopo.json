@@ -1,24 +1,24 @@
 {
  "capitolo": "007-due-anni-dopo",
- "somiglianza": 0.9736,
+ "somiglianza": 0.9709,
  "problemi": [
   {
-   "tempo": "5:33",
-   "secondi": 333.7,
+   "tempo": "5:12",
+   "secondi": 313.0,
    "tipo": "diverso",
    "testo": "fortuna in code caits rise poi si ricordo",
    "audio": "fortuna in code e it's it's easy poi si ricordò"
   },
   {
-   "tempo": "19:37",
-   "secondi": 1177.8,
+   "tempo": "19:17",
+   "secondi": 1157.0,
    "tipo": "in più",
    "testo": "imperiali hanno rubato a dalmasca lo",
    "audio": "imperiali hanno rubato ad almasca lo dice a miguelo lo"
   },
   {
-   "tempo": "19:42",
-   "secondi": 1182.2,
+   "tempo": "19:21",
+   "secondi": 1161.5,
    "tipo": "diverso",
    "testo": "a mighelo lo dici a caits lo dici ai topi hanno",
    "audio": "a kites lo dice ai topi hanno"

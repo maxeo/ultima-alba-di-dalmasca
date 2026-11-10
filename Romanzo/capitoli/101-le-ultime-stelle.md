@@ -48,7 +48,7 @@ Kytes arrivò di corsa dal vicolo, con una brocca vuota in mano, e quando vide V
 
 «Cosa?»
 
-«Il mare è salato. Me l'hai scritto tu. Il moguri della Sandsea mi ha portato il foglio, c'era scritto: di' a Kytes che il mare è salato.» Kytes aveva le guance rosse. «Io l'ho detto a tutti. Nessuno ci credeva. Il vecchio Ammar ha detto che era una storia da pirati. È vero?»
+«Il mare è salato. Me l'hai scritto tu. Il moguri del Mare di sabbia mi ha portato il foglio, c'era scritto: di' a Kytes che il mare è salato.» Kytes aveva le guance rosse. «Io l'ho detto a tutti. Nessuno ci credeva. Il vecchio Ammar ha detto che era una storia da pirati. È vero?»
 
 «È vero» disse Vaan. «L'ho assaggiato.»
 
@@ -82,7 +82,7 @@ Vaan guardò Penelo. Penelo stava parlando con Fran in fondo alla bottega e non 
 
 ---
 
-La Sandsea, la sera prima della guerra, era piena come una nave di profughi. Tomaj spillava birra di Bhujerba con tutte e due le mani e non faceva pagare nessuno, cosa che a memoria d'uomo non era mai successa, e quando Vaan glielo fece notare rispose che se domani la taverna non c'era più preferiva che la birra fosse nella pancia dei clienti invece che sotto le macerie. Si parlavano cinque o sei dialetti alla volta. Le pareti erano coperte di avvisi, come sempre; ma gli avvisi di caccia erano stati coperti da altri fogli, scritti a mano, con nomi e indirizzi. *Cerco mio figlio Haddas, soldato della guarnigione di Nalbina.* *Chi ha notizie della carovana di Bur-Omisace.* *La famiglia del tintore della via dei Tessitori è partita per Giza: dite a chi chiede.*
+Il Mare di sabbia, la sera prima della guerra, era pieno come una nave di profughi. Tomaj spillava birra di Bhujerba con tutte e due le mani e non faceva pagare nessuno, cosa che a memoria d'uomo non era mai successa, e quando Vaan glielo fece notare rispose che se domani la taverna non c'era più preferiva che la birra fosse nella pancia dei clienti invece che sotto le macerie. Si parlavano cinque o sei dialetti alla volta. Le pareti erano coperte di avvisi, come sempre; ma gli avvisi di caccia erano stati coperti da altri fogli, scritti a mano, con nomi e indirizzi. *Cerco mio figlio Haddas, soldato della guarnigione di Nalbina.* *Chi ha notizie della carovana di Bur-Omisace.* *La famiglia del tintore della via dei Tessitori è partita per Giza: dite a chi chiede.*
 
 Montblanc era al suo tavolo, nell'angolo, da solo, con il quaderno aperto e la penna dietro l'orecchio. Quando vide Vaan non si alzò. Girò una pagina, trovò un nome, e ci passò sopra il dito.
 
@@ -108,7 +108,7 @@ Vaan lo guardò.
 
 «Non ho detto questo.» Montblanc si rimise la penna dietro l'orecchio. «Io non dico mai niente. Io scrivo.»
 
-In quel punto la porta della Sandsea si aprì e lasciò entrare il vento del deserto, la polvere, e un uomo con un berretto storto in testa e la faccia di chi ha volato per un giorno intero senza fermarsi.
+In quel punto la porta del Mare di sabbia si aprì e lasciò entrare il vento del deserto, la polvere, e un uomo con un berretto storto in testa e la faccia di chi ha volato per un giorno intero senza fermarsi.
 
 «Balthier!» gridò Rikken, dalla soglia, sopra il rumore di cinque dialetti. «Dov'è quel bellimbusto? Ho fatto Balfonheim-Rabanastre in diciannove ore. Diciannove! La sua barchetta quanto ci ha messo?»
 

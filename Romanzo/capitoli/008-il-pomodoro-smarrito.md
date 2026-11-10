@@ -30,11 +30,11 @@ Vaan non rispose. Era un discorso che aveva già sentito, e la cosa che lo irrit
 
 «Conosco la strada fino al primo pozzo...»
 
-«No. Tu nel deserto non ci vai. Il deserto non è una fogna. Nel deserto i topi sono grossi come carri e hanno le corna.» Migelo fece un gesto con la mano, a chiudere la questione. «Ho già trovato la soluzione. Tomaj, alla Sandsea, ha delle scorte. Me ne cede un po' a prezzo d'amico, cioè a prezzo di ladro, ma va bene, oggi va bene. Ho mandato Kytes a prenderle.»
+«No. Tu nel deserto non ci vai. Il deserto non è una fogna. Nel deserto i topi sono grossi come carri e hanno le corna.» Migelo fece un gesto con la mano, a chiudere la questione. «Ho già trovato la soluzione. Tomaj, al Mare di sabbia, ha delle scorte. Me ne cede un po' a prezzo d'amico, cioè a prezzo di ladro, ma va bene, oggi va bene. Ho mandato Kytes a prenderle.»
 
 «E allora?»
 
-«E allora Kytes è partito tre ore fa.» La coda fece tac. «La Sandsea è a dieci minuti. Kytes ha nove anni e le gambe buone. Dov'è Kytes?»
+«E allora Kytes è partito tre ore fa.» La coda fece tac. «Il Mare di sabbia è a dieci minuti. Kytes ha nove anni e le gambe buone. Dov'è Kytes?»
 
 Vaan aveva l'idea che Kytes, tre ore prima, fosse in fondo a un condotto con una lanterna fra le ginocchia, e decise che non era un'idea da condividere.
 
@@ -48,7 +48,7 @@ Vaan aveva l'idea che Kytes, tre ore prima, fosse in fondo a un condotto con una
 
 ---
 
-La Sandsea era la taverna dei forestieri, e lo si capiva dal modo in cui la gente ci entrava: piano, guardandosi attorno, con la mano vicino alla borsa. Stava sulla via principale, a due passi dalla Porta Est, con una sala bassa e fresca piena di tavoli di legno scuro, una scala che portava al piano di sopra e un bancone dove Tomaj spillava birra di Bhujerba e vino di Nabradia per gente che arrivava da tutte le direzioni e ci restava poco. Si parlavano cinque o sei dialetti alla volta. Le pareti erano coperte di avvisi.
+Il Mare di sabbia era la taverna dei forestieri, e lo si capiva dal modo in cui la gente ci entrava: piano, guardandosi attorno, con la mano vicino alla borsa. Stava sulla via principale, a due passi dalla Porta Est, con una sala bassa e fresca piena di tavoli di legno scuro, una scala che portava al piano di sopra e un bancone dove Tomaj spillava birra di Bhujerba e vino di Nabradia per gente che arrivava da tutte le direzioni e ci restava poco. Si parlavano cinque o sei dialetti alla volta. Le pareti erano coperte di avvisi.
 
 Kytes stava davanti alla bacheca. Aveva le mani dietro la schiena e il naso a un palmo da un foglio, e muoveva le labbra mentre leggeva, perché aveva imparato da poco.
 
@@ -106,7 +106,7 @@ Kytes ci pensò, con la serietà dei bambini che fanno i conti con la propria co
 
 «Non ringraziare me. Ringrazia lui.» Tomaj indicò col mento l'angolo più buio della sala, dove un tavolo era rimasto apparecchiato per una persona sola.
 
-Al tavolo sedeva un moguri. Era piccolo anche per un moguri, con il pelo color crema spazzolato con cura e il pompon rosso in cima all'antenna che si muoveva appena, come un fiore al vento. Davanti a sé aveva un bicchierino di liquore d'erbe, un quaderno aperto e una penna. Scriveva. Ogni tanto alzava la testa, guardava la sala con due occhietti neri e attentissimi, e tornava a scrivere. Nessuno, nella Sandsea, si sedeva ai tavoli accanto al suo.
+Al tavolo sedeva un moguri. Era piccolo anche per un moguri, con il pelo color crema spazzolato con cura e il pompon rosso in cima all'antenna che si muoveva appena, come un fiore al vento. Davanti a sé aveva un bicchierino di liquore d'erbe, un quaderno aperto e una penna. Scriveva. Ogni tanto alzava la testa, guardava la sala con due occhietti neri e attentissimi, e tornava a scrivere. Nessuno, nel Mare di sabbia, si sedeva ai tavoli accanto al suo.
 
 «Chi è?»
 

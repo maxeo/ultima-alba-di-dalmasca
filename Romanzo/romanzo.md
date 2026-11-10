@@ -629,29 +629,25 @@ Poi il capitano prese la penna dalle mani del furiere, non scrisse niente, e dis
 
 Lo disse come aveva detto gli altri quattordici. Reks andò a mettersi contro il muro del pozzo, accanto a un sergente grosso che sbadigliava.
 
----
-
 In caserma andava da tre anni, ma fino a un mese prima ci era entrato soltanto dalla porta di servizio, con le consegne della bottega di Migelo sulle spalle, di solito olio per le lampade e cuoio per le cinghie. Lasciava le casse in magazzino, si faceva firmare la ricevuta e intanto ascoltava. Di Basch fon Ronsenburg dicevano poche cose, e sempre le stesse. Era di Landis e non sorrideva mai, ma i suoi uomini li riportava a casa. Reks, a forza di sentirlo, aveva cominciato a pronunciare quel nome come in Città Bassa si pronunciano i nomi dei santi, cioè con un po' di rispetto e senza sapere bene che cosa avessero fatto.
 
-Le ragioni per cui si era arruolato le aveva, e ne dava una diversa a seconda di chi gliele chiedeva. A Migelo aveva parlato della paga, perché Migelo era un mercante e la paga la capiva. A Penelo non aveva detto niente: i fratelli di lei, Kel e Doran, erano partiti per Nalbina con il principe Rasler e non erano tornati, e lei andava ogni mattina alla Porta Est a leggere le liste. A Vaan aveva detto che qualcuno doveva pur andare.
+Reks aveva diverse ragioni per essersi arruolato, ma non raccontava a tutti le stesse. A Migelo aveva parlato della paga, perché Migelo era un mercante e la paga la capiva. Con Penelo, un'amica d'infanzia sua e di Vaan, aveva preferito non affrontare l'argomento. I suoi due fratelli maggiori, Kel e Doran, erano partiti con il principe Rasler per difendere Nalbina e non erano più tornati. Da allora, Penelo andava ogni mattina alla Porta Est a leggere le liste dei soldati. A Vaan, invece, Reks aveva detto soltanto che qualcuno doveva pur andare.
 
-Ce n'era un'altra, che non diceva a nessuno. Tre anni prima, quando era venuta la peste, a decidere le cose in casa era rimasto lui. Aveva quattordici anni. Aveva deciso lui quando chiamare il medico e quali cuscini buttare dalla finestra. Da allora decideva lui anche il resto. In caserma, invece, decideva qualcun altro, e Reks obbediva con un sollievo di cui un po' si vergognava. Un capitano come Basch, che a sentire la caserma non sbagliava mai, gli sembrava il meglio che potesse capitargli.
+C'era un'altra ragione per cui Reks si era arruolato, una che non avrebbe saputo spiegare facilmente nemmeno a Vaan. La peste gli aveva portato via i genitori tre anni prima, quando aveva appena quattordici anni. Da allora si era occupato del fratello e della casa, cercando di comportarsi come avrebbe fatto suo padre, anche se spesso non aveva idea di cosa fosse giusto fare. Aveva imparato a nascondere le proprie incertezze, perché Vaan era ancora un ragazzino e aveva bisogno di credere che suo fratello maggiore sapesse sempre come cavarsela. Ma Reks non era molto più grande di lui. Quando aveva deciso di arruolarsi, aveva pensato anche a questo: alla possibilità di seguire qualcuno, anziché essere sempre quello che gli altri seguivano. Nell'esercito avrebbe avuto degli ordini, dei compagni più esperti e, soprattutto, un capitano come Basch, al quale poter affidare almeno una parte delle proprie paure.
 
-C'era anche la divisa, a dire il vero. Gli piaceva. Anche di questo si vergognava, ma meno.
-
-Dopo l'appello il furiere distribuì le giubbe ai venti, prendendole da una cassa senza guardare le misure. A Reks toccò una giubba nuova, di tela azzurra, con le cuciture ancora rigide e l'odore della tintoria, tagliata per un uomo molto più grosso di lui: le maniche gli coprivano le nocche. Il furiere scrisse il suo nome su un registro e gli spiegò che ogni cosa dell'Ordine che tornava rotta, o che non tornava, si pagava, e la cifra si toglieva dalla paga.
+Terminato l'appello, il furiere aprì una cassa e cominciò a distribuire le giubbe ai soldati scelti, senza preoccuparsi troppo delle taglie. A Reks ne capitò una nuova, di tela azzurra, decisamente troppo grande per lui. Le maniche gli coprivano le mani e le spalle gli cadevano larghe. Il furiere annotò il suo nome sul registro e lo avvertì che ogni oggetto dell'Ordine danneggiato o smarrito sarebbe stato addebitato alla sua paga.
 
 «Anche la giubba?» chiese Reks.
 
-«Soprattutto la giubba.» Il furiere chiuse il registro. «Si parte a mezzanotte, da questo cortile. Fino ad allora andate a casa, e non dite a nessuno dove andate.»
+«Soprattutto la giubba.» Il furiere chiuse il registro. «Partenza a mezzanotte. Presentatevi qui e non parlate della missione con nessuno.»
 
-«Non lo sappiamo, dove andiamo.»
+«Ma non sappiamo nemmeno dove andiamo.»
 
-«Ecco. Così è più facile.»
+«E non avete bisogno di saperlo.»
 
 ---
 
-Vaan era al banco della bottega a pesare datteri. Quando vide entrare il fratello con la giubba azzurra addosso e le maniche fino alle dita, smise di pesare.
+Vaan era intento a pesare dei datteri quando Reks entrò nella bottega con la sua nuova giubba azzurra. Alzò lo sguardo, sorpreso, e rimase a fissarlo.
 
 «Sei scemo» disse.
 
@@ -659,29 +655,47 @@ Reks fece un giro su se stesso, per mostrargliela tutta.
 
 «Sei scemo» disse ancora Vaan.
 
-Reks rise, e si guardò le maniche, e le tirò su fino ai gomiti. Ricaddero.
+Reks rise, si tirò su le maniche fino ai gomiti, ma quelle ricaddero subito.
 
 «Migelo me la stringe.»
 
 «Sei scemo, Reks.»
 
-«Non hai capito niente.» Reks si sedette sul bordo del banco. «Si va con il capitano Basch. Te lo ricordi? Alle nozze. Quello che guardava i tetti.»
+«Non hai capito niente.» Reks si sedette sul bordo del banco. «Vado con il capitano Basch! Te lo ricordi? Quello che abbiamo visto alle nozze, la settimana scorsa. Guardava sempre i tetti.»
 
-«Mi ricordo che non sorrideva.»
+«Chi, quello che non sorrideva mai?»
 
-«Appunto.»
+«Esatto! Proprio lui.»
 
-Migelo, il vecchio bangaa padrone della bottega, sentì le voci dal magazzino e venne a vedere. Girò attorno a Reks due volte, tirò le maniche e mandò Vaan a prendere l'ago grosso, quello per i sacchi. Passò tutto il pomeriggio al banco a stringere la giubba, fra un cliente e l'altro. Rifece le cuciture delle maniche, dalla spalla al polso, e ogni tanto chiamava Reks per provargliela e lo pungeva senza chiedere scusa, perché a suo dire un soldato si deve abituare.
+Vaan gli afferrò una manica e gliela tirò ancora più giù.
 
-Era stato Migelo a scrivere la lettera con cui Reks si era presentato all'Ordine. Garantiva per il ragazzo e diceva che legava le casse meglio di chiunque in tutta la Città Bassa. Reks lo aveva pregato di togliere almeno quella frase. Migelo aveva risposto che era l'unica cosa sicura di tutta la lettera, e l'aveva lasciata. L'ufficiale che l'aveva letta in caserma aveva riso proprio a quel punto, e poi lo aveva preso.
+«Con queste non riesci nemmeno a tenere una spada. Magari ti rimandano a casa.»
 
-Verso sera passò Penelo con un involto di focaccia per Migelo. Guardò Reks, che provava la giubba per l'ultima volta, e gli disse che con la camicia buona sotto sarebbe sembrato un ufficiale. Reks andò di sopra a mettersi la camicia buona. Quando tornò giù pensò di dirle che a Nalbina, se ci fosse passato, avrebbe chiesto di Kel e di Doran. Non glielo disse, perché non sapeva se ci sarebbe passato, e una promessa che non sapeva di poter mantenere gli sembrò peggio di niente.
+«Piantala, Vaan.»
+
+«Dico sul serio!»
+
+«Anch'io! E poi con la paga potrò aiutarti. Non dovrai stare sempre in bottega.»
+
+«Non te l'ho chiesto io di partire!»
+
+Migelo, il vecchio bangaa padrone della bottega, uscì dal magazzino attirato dalle voci. Guardò i due fratelli, poi la giubba di Reks, e scosse la testa.
+
+«Vaan, invece di tormentare tuo fratello, va' a prendere ago e filo.»
+
+«Così può partire ancora meglio?»
+
+«Così almeno non inciampa prima di arrivare alla caserma.»
+
+Vaan obbedì controvoglia. Migelo si sistemò dietro il banco e trascorse buona parte del pomeriggio a stringere la giubba, tra un cliente e l'altro, brontolando ogni volta che Reks si muoveva durante le prove.
+
+Non era la prima volta che Migelo lo aiutava a diventare soldato. Era stato lui a scrivergli la lettera di raccomandazione per l'Ordine, assicurando che Reks era un ragazzo affidabile e un gran lavoratore. Aveva anche aggiunto che nessuno nella Città Bassa sapeva legare le casse meglio di lui. Reks gli aveva chiesto di togliere quella parte, ma Migelo si era rifiutato: era la cosa di cui poteva essere più sicuro.
 
 ---
 
-La stanza sopra la bottega sapeva di cumino, di cuoio e di olio per lampade, che salivano dal magazzino attraverso le fessure del pavimento. C'erano due brande, una cassapanca, una sedia e una finestra con un vaso. Il vaso era di terracotta smaltata di verde, con una crepa riparata col filo di ferro, e dentro c'era della terra secca con lo stelo nero di una pianta morta da tre anni. Era stato della madre, e nessuno dei due fratelli lo aveva mai svuotato. Sulla trave sopra la porta c'erano delle tacche incise col coltello, a coppie, con accanto le date. Le più basse le aveva fatte la madre, in un'altra casa, su un'altra trave, e Reks le aveva ricopiate a memoria la prima settimana. Le altre le aveva fatte lui.
+La stanza che Reks e Vaan dividevano sopra la bottega era piccola, con appena lo spazio per due brande e pochi mobili. Gli odori del magazzino salivano attraverso il pavimento, mescolando il cuoio all'olio per le lampade. Sulla finestra c'era ancora il vecchio vaso verde della madre, con la crepa che avevano riparato anni prima e lo stelo ormai secco di una pianta che nessuno dei due aveva avuto il coraggio di togliere. Sopra la porta, una serie di tacche segnava quanto erano cresciuti. Reks aveva ricopiato le prime dalla vecchia casa, dove era stata la madre a misurarli. Le altre le aveva aggiunte lui, anno dopo anno.
 
-Dopo cena Reks accese la lampada, mise la sedia in mezzo alla stanza, ci fece sedere Vaan e gli legò un lenzuolo attorno al collo. Vaan aveva i capelli sugli occhi da un mese, e Reks voleva lasciarlo in ordine almeno in quello.
+Tra le tante cose che Reks aveva imparato a fare da quando erano rimasti soli c'era anche tagliare i capelli a Vaan. Non era particolarmente bravo, ma suo fratello si era sempre accontentato, almeno fino a quando aveva cominciato a interessarsi al proprio aspetto. Quella sera Reks gli propose di dargli una sistemata prima della partenza. Vaan esitò, poi accettò, non senza qualche raccomandazione. Dopo cena Reks preparò la sedia e il solito lenzuolo, accese la lampada e lo fece accomodare.
 
 «Non così corti» disse Vaan.
 
@@ -693,13 +707,45 @@ Dopo cena Reks accese la lampada, mise la sedia in mezzo alla stanza, ci fece se
 
 «Quello della taglia. Il manifesto è sulla porta della tua caserma, l'hai visto cento volte.»
 
-Reks l'aveva visto. Gli aviopirati erano ladri con una nave propria, che assaltavano in volo le navi da carico e sparivano fra le nuvole prima che arrivasse qualcuno. Quello del manifesto aveva una faccia sola, di profilo, con un naso lungo e dritto e una macchia d'inchiostro proprio sul nome.
+Gli aviopirati erano ladri con una nave propria, che assaltavano in volo le navi da carico e sparivano fra le nuvole prima che arrivasse qualcuno. Quello del manifesto aveva una faccia sola, di profilo, con un naso lungo e dritto e una macchia d'inchiostro proprio sul nome.
 
-«Sul manifesto non si capisce che capelli ha» disse Reks. «E poi tu sei biondo, e lui ce li ha neri.»
+«Ho capito a quale ti riferisci. Sul manifesto non si capisce bene il taglio» disse Reks. «E poi tu sei biondo, e lui ha i capelli neri.»
 
 «È inchiostro, Reks. Sui manifesti sono tutti neri.»
 
-Reks prese le forbici, che erano di Migelo e servivano di solito per tagliare le corde dei pacchi, e cominciò. Lavorava con serietà, con la lingua fra i denti, come aveva visto fare al barbiere di via dei Tessitori. Vaan stava fermo per dieci o quindici secondi alla volta, poi si girava per dire qualcosa. Disse che Penelo li voleva lunghi davanti, perché così aveva l'aria pericolosa. Disse che le forbici gli avevano tagliato l'orecchio. Al terzo commento si girò mentre Reks stava tagliando sopra la tempia sinistra.
+Reks recuperò dal cassetto le vecchie forbici di Migelo, quelle che usavano per tagliare le corde dei pacchi. Non erano proprio forbici da barbiere, ma avevano sempre fatto il loro dovere.
+
+Si mise dietro Vaan, gli pettinò i capelli con le dita e cominciò ad accorciarli sulla nuca. Era abituato a tagliarglieli, anche se suo fratello non era mai stato un cliente facile.
+
+«Non schiacciarli» disse Vaan.
+
+«Me l'hai già detto.»
+
+«È che Penelo dice che mi stanno meglio all'insù.»
+
+«Ah, se lo dice Penelo...»
+
+«Dice che mi danno un'aria più pericolosa.»
+
+Reks trattenne una risata. «Pericolosissima. Soprattutto quando ti nascondi dietro Migelo perché ne hai combinata una delle tue»
+
+«Non mi nascondo dietro Migelo!»
+
+«Certo che no. Adesso sta' fermo.»
+
+Vaan obbedì per qualche istante, poi cominciò a lamentarsi perché una ciocca gli solleticava il naso. Reks gliela tolse con le dita e riprese a tagliare, tenendogli la testa ferma con una mano.
+
+«Ahi! Mi hai preso l'orecchio!»
+
+«Non ti ho nemmeno sfiorato.»
+
+«L'ho sentito!»
+
+«Vaan, se continui così e ti muovi alla fine capiterà che per sbaglio te lo taglio davvero l'orecchio!»
+
+«Ma io voglio solo vedere come stai facen...»
+
+Si voltò proprio mentre Reks chiudeva le forbici accanto alla tempia sinistra.
 
 Ci fu un silenzio. Vaan si portò una mano sotto il lenzuolo, fino alla tempia, e tastò.
 
@@ -707,15 +753,23 @@ Ci fu un silenzio. Vaan si portò una mano sotto il lenzuolo, fino alla tempia, 
 
 «Te la sistemo.»
 
-Non c'era molto da sistemare. Sopra l'orecchio sinistro di suo fratello, in mezzo a una testa tagliata quasi bene, era rimasta una ciocca bionda lunga il doppio delle altre, che puntava in fuori. Reks provò ad appiattirla con il palmo. Tornò su.
+Reks si chinò a guardare il danno. Sopra l'orecchio sinistro di Vaan, dove le forbici erano scivolate troppo vicino alla testa, era rimasta una chiazza di capelli tagliati quasi a zero. In mezzo al resto della capigliatura sembrava un piccolo buco. Provò a coprirlo spostando le ciocche vicine, ma appena tolse la mano tornarono al loro posto.
 
-«Gli aviopirati ce l'hanno, un tocco personale» disse.
+«Be', almeno adesso hai un tocco personale. Come i veri aviopirati.»
 
-«Tagliala.»
+«Che cosa hai fatto?»
 
-«Se la taglio devo tagliare anche tutto il resto, e poi sembri un coscritto.» Reks posò le forbici sulla cassapanca e slegò il lenzuolo. «Quando torno ti porto dal barbiere vero, quello di via dei Tessitori, con i soldi della paga, e te la sistema lui. Te lo prometto.»
+«Niente che non ricresca.»
 
-Vaan si guardò nella padella di rame appesa al chiodo, che era l'unico specchio della stanza e allargava tutto, e nella padella la ciocca era ancora più lunga. Decise di essere offeso, e andò alla finestra con le braccia incrociate, voltando la schiena al fratello.
+«Reks! Sistemalo!»
+
+«Se voglio pareggiarli devo accorciare anche tutto il resto. E poi sì che sembreresti un coscritto.» Reks posò le forbici sulla cassapanca e slegò il lenzuolo. «Quando torno ti porto da un barbiere vero, con i soldi della paga. Te lo prometto.»
+
+Vaan si precipitò davanti alla padella di rame appesa al chiodo, l'unico specchio della stanza. La superficie curva deformava il riflesso, facendo sembrare quella chiazza ancora più grande. Provò a coprirla con una mano, poi guardò il fratello con aria indignata.
+
+«Sembro un chocobo spennato!»
+
+Reks scoppiò a ridere, ma smise quando vide l'espressione di Vaan. Quello incrociò le braccia e andò a sedersi vicino alla finestra, voltandogli ostinatamente le spalle.
 
 Migelo salì le scale con il passo pesante e cauto dei bangaa, che hanno le ginocchia piegate al contrario e non si fidano dei gradini. Bussò, cosa che faceva solo nelle occasioni importanti, ed entrò con un fagotto di tela cerata in una mano e la lampada nell'altra. Il fagotto conteneva datteri secchi, pane di semola, una fiaschetta di vino delle Pianure e un rotolo di bende pulite. Lo posò sulla branda di Reks senza dire niente. Poi alzò la lampada verso la testa di Vaan e la guardò da vicino per un bel pezzo.
 
@@ -735,7 +789,7 @@ Vaan non rispose. Dopo un po' venne a sedersi sulla branda accanto a lui, di pes
 
 «Perché parti tu?» chiese. «Ci vanno quelli che non sanno fare niente. Tu sai fare i conti. Sai legare le casse. Lo dice anche Migelo.»
 
-Reks ci pensò. Delle ragioni che aveva, nessuna era adatta a un fratello di quindici anni con una ciocca storta sopra l'orecchio. Scelse quella che gli parve più vera fra quelle che si potevano dire.
+Reks ci pensò. Delle ragioni che aveva, nessuna era adatta a un fratello di quindici anni con un gradino nei capelli sopra l'orecchio. Scelse quella che gli parve più vera fra quelle che si potevano dire.
 
 «Tu stai qui» disse. «Aiuti Migelo, non rubi niente a nessuno...»
 
@@ -895,7 +949,7 @@ Basch rimase zitto per il tempo di due respiri. A Reks sembrò molto di più. I 
 
 Basch gli mise la mano fasciata sulla spalla, quella senza manica, e la tenne lì un momento. Poi si voltò e salì la scala di corsa con gli altri sette, senza guardare indietro.
 
-Reks rimase solo ai piedi della scala. Si mise con la schiena contro la pietra, come gli era stato detto, e strinse la spada con tutte e due le mani. Si accorse che la spilla del padre era ancora al suo posto, sul petto, storta, e che aveva tenuto per tutta la notte. Al ritorno lo avrebbe detto a Vaan, che la spilla non era caduta. Pensò alla ciocca sopra l'orecchio sinistro di suo fratello, e quasi rise.
+Reks rimase solo ai piedi della scala. Si mise con la schiena contro la pietra, come gli era stato detto, e strinse la spada con tutte e due le mani. Si accorse che la spilla del padre era ancora al suo posto, sul petto, storta, e che aveva tenuto per tutta la notte. Al ritorno lo avrebbe detto a Vaan, che la spilla non era caduta. Pensò al gradino sopra l'orecchio sinistro di suo fratello, e quasi rise.
 
 Le torce arrivarono.
 
@@ -1041,9 +1095,9 @@ Reks voleva alzare la testa. Voleva guardare. Non ci riuscì. Riusciva a vedere 
 
 Non pensò al re. Non pensò al capitano, né all'Impero, né a Dalmasca, né al trattato, né alla parola tradimento, che la voce del capitano continuava a gridare da qualche parte sopra di lui, sempre più lontana, mentre lo portavano via.
 
-Pensò a una ciocca di capelli.
+Pensò ai capelli di suo fratello.
 
-Una ciocca bionda, sopra l'orecchio sinistro di suo fratello, lunga il doppio delle altre, che puntava in fuori e non voleva saperne di stare giù. Pensò che gliel'aveva promesso. Pensò al barbiere di via dei Tessitori, ai soldi della paga, alla faccia offesa di Vaan nella padella di rame. Pensò che Vaan, adesso, stava dormendo con la bocca aperta e una gamba fuori dalla branda, e che quando si fosse svegliato, la mattina, si sarebbe toccato la testa e avrebbe trovato la ciocca ancora lì, e si sarebbe arrabbiato, e lo avrebbe maledetto, e avrebbe aspettato.
+Un gradino, sopra l'orecchio sinistro di suo fratello, dove le forbici erano andate troppo giù e i capelli erano rimasti più corti di tutti gli altri. Pensò che gliel'aveva promesso. Pensò al barbiere di via dei Tessitori, ai soldi della paga, alla faccia offesa di Vaan nella padella di rame. Pensò che Vaan, adesso, stava dormendo con la bocca aperta e una gamba fuori dalla branda, e che quando si fosse svegliato, la mattina, si sarebbe toccato la testa e avrebbe trovato il gradino ancora lì, e si sarebbe arrabbiato, e lo avrebbe maledetto, e avrebbe aspettato.
 
 Pensò anche all'altra cosa che Vaan gli aveva detto, al buio, con la bocca contro il cuscino: che se il capitano non lo riportava a casa, sarebbe venuto a Nalbina ad ammazzarlo. Avrebbe voluto dirgli di non venire. Di non venire mai, per nessuna ragione, né per il capitano né per lui. Di restare dov'era, sopra la bottega, con il vaso crepato sulla finestra. Qualcuno doveva restare a casa. Glielo aveva spiegato. Sperò di averglielo spiegato bene.
 
@@ -1094,7 +1148,7 @@ Diceva che Basch fon Ronsenburg, già capitano dell'Ordine dei Cavalieri di Dalm
 
 Qualche giorno dopo la stessa notizia arrivò da Bhujerba, in un secondo proclama del marchese, che la riportava parola per parola e non vi aggiungeva niente di suo.
 
-L'araldo arrotolò il foglio. La piazza era piena. Una donna accanto alla fontana, quella con il re di pietra, disse «Bene» ad alta voce, e la parola rimbalzò sulle facciate, e qualcuno intorno a lei ripeté «bene», e poi un altro, e per un poco la piazza fu piena di gente che diceva bene senza guardarsi in faccia. Fra loro c'era un ragazzo magro, con le gambe troppo lunghe e una ciocca di capelli storta sopra l'orecchio, che non disse niente ad alta voce ma lo pensò con tanta forza che gli fece male la testa. Poi se ne tornò di corsa verso la Città Bassa, perché c'era qualcuno, nella stanza sopra la bottega di Migelo, che non poteva essere lasciato solo troppo a lungo.
+L'araldo arrotolò il foglio. La piazza era piena. Una donna accanto alla fontana, quella con il re di pietra, disse «Bene» ad alta voce, e la parola rimbalzò sulle facciate, e qualcuno intorno a lei ripeté «bene», e poi un altro, e per un poco la piazza fu piena di gente che diceva bene senza guardarsi in faccia. Fra loro c'era un ragazzo magro, con le gambe troppo lunghe e i capelli tagliati male sopra un orecchio, che non disse niente ad alta voce ma lo pensò con tanta forza che gli fece male la testa. Poi se ne tornò di corsa verso la Città Bassa, perché c'era qualcuno, nella stanza sopra la bottega di Migelo, che non poteva essere lasciato solo troppo a lungo.
 
 ---
 
@@ -1151,7 +1205,7 @@ Quella mattina, nel tratto di fogna sotto la via dei Calderai, le code ancora at
 
 «Chi vuoi che arrivi? Qui sotto non ci viene nessuno. Per questo i topi sono così grossi.»
 
-Erano grossi davvero. I topi delle fogne di Rabanastre mangiano quello che la città butta via, e una città che ha perso una guerra butta via meno di prima ma butta via cose più strane, e i topi si erano adattati. Quei tre arrivavano al ginocchio. Giravano attorno a Vaan sull'orlo dello scolo, a distanza di una spada e mezza, perché avevano capito qualcosa sulla lunghezza della spada; erano topi che avevano già incontrato altri ragazzi. Vaan teneva la lama bassa e la testa un poco di lato, per abitudine, perché sopra l'orecchio sinistro gli cresceva una ciocca bionda più lunga delle altre che gli cadeva sugli occhi; era lì da due anni, da quando suo fratello aveva provato a tagliargli i capelli con le forbici delle corde e aveva promesso, ridendo, di farla sistemare dal barbiere al ritorno. Vaan non l'aveva mai fatta tagliare. La spada era corta, da soldato, con l'impugnatura fasciata di cuoio nuovo sopra il cuoio vecchio, e lui la usava con una sicurezza che non veniva da nessun maestro: due anni di topi, di cani randagi, di bastoni contro un palo nel cortile di Migelo, quando Migelo non guardava.
+Erano grossi davvero. I topi delle fogne di Rabanastre mangiano quello che la città butta via, e una città che ha perso una guerra butta via meno di prima ma butta via cose più strane, e i topi si erano adattati. Quei tre arrivavano al ginocchio. Giravano attorno a Vaan sull'orlo dello scolo, a distanza di una spada e mezza, perché avevano capito qualcosa sulla lunghezza della spada; erano topi che avevano già incontrato altri ragazzi. Vaan teneva la lama bassa e la testa un poco di lato, per abitudine. La spada era corta, da soldato, con l'impugnatura fasciata di cuoio nuovo sopra il cuoio vecchio, e lui la usava con una sicurezza che non veniva da nessun maestro: due anni di topi, di cani randagi, di bastoni contro un palo nel cortile di Migelo, quando Migelo non guardava.
 
 Sotto la camicia, la spilla azzurra di Reks gli batteva sullo sterno, appesa a un laccio infilato nella chiusura. Vaan l'aveva staccata dalla giubba del fratello al ritorno da Nalbina; lo spillo storto non teneva più. Strinse la fascia rossa in vita e tornò a guardare i topi.
 
@@ -5193,7 +5247,7 @@ Basch non ritrasse la mano finché Vaan non ebbe abbassato la propria. Fuori, ne
 
 Basch rimase fermo.
 
-«Non dico che adesso so tutto. Di tuo fratello, di quello che è successo là. Non c'ero.» Vaan si passò una mano sopra l'orecchio sinistro, dove la ciocca era ricresciuta storta. «Ma non sei stato tu a rimandarmelo così.»
+«Non dico che adesso so tutto. Di tuo fratello, di quello che è successo là. Non c'ero.» Vaan si passò una mano sopra l'orecchio sinistro, dove i capelli erano ricresciuti storti. «Ma non sei stato tu a rimandarmelo così.»
 
 Il capitano guardò il posto accanto al letto. Avrebbe potuto ripetere che lo aveva condotto a Nalbina, che non lo aveva riportato a casa, e avrebbe potuto farne una forma di nobiltà. Non lo fece. Il ragazzo gli aveva dato una cosa precisa; correggerlo sarebbe stato un altro modo di decidere al suo posto.
 

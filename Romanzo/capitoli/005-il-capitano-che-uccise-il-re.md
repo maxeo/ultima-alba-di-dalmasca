@@ -140,9 +140,9 @@ Reks voleva alzare la testa. Voleva guardare. Non ci riuscì. Riusciva a vedere 
 
 Non pensò al re. Non pensò al capitano, né all'Impero, né a Dalmasca, né al trattato, né alla parola tradimento, che la voce del capitano continuava a gridare da qualche parte sopra di lui, sempre più lontana, mentre lo portavano via.
 
-Pensò a una ciocca di capelli.
+Pensò ai capelli di suo fratello.
 
-Una ciocca bionda, sopra l'orecchio sinistro di suo fratello, lunga il doppio delle altre, che puntava in fuori e non voleva saperne di stare giù. Pensò che gliel'aveva promesso. Pensò al barbiere di via dei Tessitori, ai soldi della paga, alla faccia offesa di Vaan nella padella di rame. Pensò che Vaan, adesso, stava dormendo con la bocca aperta e una gamba fuori dalla branda, e che quando si fosse svegliato, la mattina, si sarebbe toccato la testa e avrebbe trovato la ciocca ancora lì, e si sarebbe arrabbiato, e lo avrebbe maledetto, e avrebbe aspettato.
+Un gradino, sopra l'orecchio sinistro di suo fratello, dove le forbici erano andate troppo giù e i capelli erano rimasti più corti di tutti gli altri. Pensò che gliel'aveva promesso. Pensò al barbiere di via dei Tessitori, ai soldi della paga, alla faccia offesa di Vaan nella padella di rame. Pensò che Vaan, adesso, stava dormendo con la bocca aperta e una gamba fuori dalla branda, e che quando si fosse svegliato, la mattina, si sarebbe toccato la testa e avrebbe trovato il gradino ancora lì, e si sarebbe arrabbiato, e lo avrebbe maledetto, e avrebbe aspettato.
 
 Pensò anche all'altra cosa che Vaan gli aveva detto, al buio, con la bocca contro il cuscino: che se il capitano non lo riportava a casa, sarebbe venuto a Nalbina ad ammazzarlo. Avrebbe voluto dirgli di non venire. Di non venire mai, per nessuna ragione, né per il capitano né per lui. Di restare dov'era, sopra la bottega, con il vaso crepato sulla finestra. Qualcuno doveva restare a casa. Glielo aveva spiegato. Sperò di averglielo spiegato bene.
 

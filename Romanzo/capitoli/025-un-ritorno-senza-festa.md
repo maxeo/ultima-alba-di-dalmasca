@@ -42,7 +42,7 @@ Vaan tirò fuori la pietra da sotto la camicia. Alla luce del pomeriggio sembrav
 
 Vaan la rimise subito al sicuro. «Non ve la stavo dando.»
 
-«Me ne ero accorto. Sei generoso con le domande, molto meno con le risposte.» Balthier indicò la salita verso la Sandsea. «Restiamo a Rabanastre ancora un poco. Se dovessero chiederti di due aviopirati, non li conosci.»
+«Me ne ero accorto. Sei generoso con le domande, molto meno con le risposte.» Balthier indicò la salita verso il Mare di sabbia. «Restiamo a Rabanastre ancora un poco. Se dovessero chiederti di due aviopirati, non li conosci.»
 
 «E se chiedo io?»
 
@@ -150,7 +150,7 @@ Vaan non sorrise. Dalan gli mise la spada fra le mani. Pesava molto più di quan
 
 «Chi?»
 
-«Il moguri della Sandsea, per esempio. Ha già mandato due dei suoi alla Porta Sud e uno all'aerodromo, prima ancora che tu bussassi.» Dalan riprese la pipa. «Non per bontà, intendiamoci. Montblanc non fa niente per bontà. Ma ha scritto il tuo nome nel suo quaderno, con la sua spiga accanto, e quelli con la spiga, quando si perdono, li cerca. Poi ti presenterà il conto. Lo presenta sempre, e sempre in una moneta che non ti aspetti.»
+«Il moguri del Mare di sabbia, per esempio. Ha già mandato due dei suoi alla Porta Sud e uno all'aerodromo, prima ancora che tu bussassi.» Dalan riprese la pipa. «Non per bontà, intendiamoci. Montblanc non fa niente per bontà. Ma ha scritto il tuo nome nel suo quaderno, con la sua spiga accanto, e quelli con la spiga, quando si perdono, li cerca. Poi ti presenterà il conto. Lo presenta sempre, e sempre in una moneta che non ti aspetti.»
 
 «Quale moneta?»
 

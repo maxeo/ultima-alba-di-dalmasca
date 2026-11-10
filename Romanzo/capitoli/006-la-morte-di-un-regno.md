@@ -38,7 +38,7 @@ Diceva che Basch fon Ronsenburg, già capitano dell'Ordine dei Cavalieri di Dalm
 
 Qualche giorno dopo la stessa notizia arrivò da Bhujerba, in un secondo proclama del marchese, che la riportava parola per parola e non vi aggiungeva niente di suo.
 
-L'araldo arrotolò il foglio. La piazza era piena. Una donna accanto alla fontana, quella con il re di pietra, disse «Bene» ad alta voce, e la parola rimbalzò sulle facciate, e qualcuno intorno a lei ripeté «bene», e poi un altro, e per un poco la piazza fu piena di gente che diceva bene senza guardarsi in faccia. Fra loro c'era un ragazzo magro, con le gambe troppo lunghe e una ciocca di capelli storta sopra l'orecchio, che non disse niente ad alta voce ma lo pensò con tanta forza che gli fece male la testa. Poi se ne tornò di corsa verso la Città Bassa, perché c'era qualcuno, nella stanza sopra la bottega di Migelo, che non poteva essere lasciato solo troppo a lungo.
+L'araldo arrotolò il foglio. La piazza era piena. Una donna accanto alla fontana, quella con il re di pietra, disse «Bene» ad alta voce, e la parola rimbalzò sulle facciate, e qualcuno intorno a lei ripeté «bene», e poi un altro, e per un poco la piazza fu piena di gente che diceva bene senza guardarsi in faccia. Fra loro c'era un ragazzo magro, con le gambe troppo lunghe e i capelli tagliati male sopra un orecchio, che non disse niente ad alta voce ma lo pensò con tanta forza che gli fece male la testa. Poi se ne tornò di corsa verso la Città Bassa, perché c'era qualcuno, nella stanza sopra la bottega di Migelo, che non poteva essere lasciato solo troppo a lungo.
 
 ---
 

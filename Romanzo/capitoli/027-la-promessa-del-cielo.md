@@ -1,6 +1,6 @@
 ## 27. La promessa del cielo
 
-Migelo teneva un foglio sopra un piatto. La salsa aveva già raggiunto un angolo della carta, ma lui non se ne accorgeva: lo agitava sotto il naso di Balthier, che arretrava con la sedia finché le gambe posteriori non incontravano il muro. Al piano alto della Sandsea la discussione aveva fermato il servizio. Un cameriere attendeva sul penultimo gradino con due coppe; Fran, seduta di lato, gli fece cenno di posarle e andarsene.
+Migelo teneva un foglio sopra un piatto. La salsa aveva già raggiunto un angolo della carta, ma lui non se ne accorgeva: lo agitava sotto il naso di Balthier, che arretrava con la sedia finché le gambe posteriori non incontravano il muro. Al piano alto del Mare di sabbia la discussione aveva fermato il servizio. Un cameriere attendeva sul penultimo gradino con due coppe; Fran, seduta di lato, gli fece cenno di posarle e andarsene.
 
 «Non è una spiegazione» disse Migelo.
 

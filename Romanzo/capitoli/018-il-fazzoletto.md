@@ -136,7 +136,7 @@ Non tutti, quella mattina, avevano guardato la colonna con gli stessi occhi.
 
 In fondo al cortile, all'imbocco di un vicolo che scendeva verso la cisterna vecchia, due Bangaa stavano appoggiati al muro all'ombra, con le braccia incrociate e i mantelli da viaggio ancora coperti di polvere. Erano grossi, con le squame grigio-verdi e le zanne lunghe, e portavano alla cintura armi che a Rabanastre non si vedevano spesso, nemmeno addosso ai soldati: lame curve, ricurve due volte, e una specie di balestra corta con il calcio fasciato di cuoio. Uno dei due, il più grosso e il più vecchio, aveva sul muso una cicatrice che gli tirava il labbro all'insù da un lato, così che sembrava sempre sul punto di ridere di qualcosa che non era divertente.
 
-«È lui» disse il più giovane. Parlava troppo e troppo in fretta, con la voce sibilante della sua gente. «Hai visto, capo? È lui. L'aviopirata. Quello del manifesto. Te l'avevo detto, che era a Rabanastre. Te l'avevo detto ieri, alla Sandsea, quando quel moguri...»
+«È lui» disse il più giovane. Parlava troppo e troppo in fretta, con la voce sibilante della sua gente. «Hai visto, capo? È lui. L'aviopirata. Quello del manifesto. Te l'avevo detto, che era a Rabanastre. Te l'avevo detto ieri, al Mare di sabbia, quando quel moguri...»
 
 «Bwagi.»
 
