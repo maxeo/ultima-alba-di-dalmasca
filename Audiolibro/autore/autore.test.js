@@ -370,3 +370,42 @@ test('un lavoro in errore si mette da parte e lo storico si pulisce', async t =>
   // Il testo gia' scritto nel capitolo resta dov'e': si pulisce lo storico, non il romanzo.
   assert.match(fs.readFileSync(path.join(root, 'Romanzo', 'capitoli', '004-reks.md'), 'utf8'), /Primo cambiato\./);
 });
+
+test('una correzione può attraversare lo stacco di scena, anche incollata', async t => {
+  const { creaServer } = require('./server');
+  const root = fs.mkdtempSync(path.join(os.tmpdir(), 'leggio-scene-'));
+  t.after(() => fs.rmSync(root, { recursive: true, force: true }));
+  const testo = '## 4. Reks\n\nPrimo.\n\nSecondo.\n\n---\n\nTerzo.\n\nQuarto.\n';
+  fs.mkdirSync(path.join(root, 'Romanzo', 'capitoli'), { recursive: true });
+  fs.writeFileSync(path.join(root, 'Romanzo', 'capitoli', '004-reks.md'), testo);
+  fs.writeFileSync(path.join(root, 'Romanzo', 'romanzo.md'), '# Libro\n\n' + testo + '\n## 5. Dopo\n\nAltro.\n');
+  const server = creaServer({ root, audio: { async lavora() {}, async pubblica() {} } });
+  server.listen(0, '127.0.0.1');
+  t.after(() => server.close());
+  await once(server, 'listening');
+  const url = `http://127.0.0.1:${server.address().port}/__autore/`;
+  const api = (p, body) => fetch(url + p, body && {
+    method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body),
+  });
+  const capitolo = async () => (await api('capitolo/4')).json();
+  const capitoloFile = () => fs.readFileSync(path.join(root, 'Romanzo', 'capitoli', '004-reks.md'), 'utf8');
+  const c = await capitolo();
+  assert.deepEqual(c.passaggi.map(p => [p.testo, !!p.stacco]),
+    [['Primo.', false], ['Secondo.', false], ['Terzo.', true], ['Quarto.', false]]);
+  // Il pezzo incollato arriva con lo stacco scritto come capita negli appunti.
+  const bozza = await api('bozza', { capitolo: 4, revisione: c.revisione, bozza: null,
+    riga: c.passaggi[1].riga, fine: c.passaggi[2].riga, testo: 'Secondo nuovo.\n\n***\n\nTerzo nuovo.' });
+  assert.equal(bozza.status, 202);
+  const salvata = await bozza.json();
+  assert.deepEqual(salvata.blocchi[0].prima, ['Secondo.', '---', 'Terzo.']);
+  assert.deepEqual(salvata.blocchi[0].dopo, ['Secondo nuovo.', '---', 'Terzo nuovo.']);
+  const modifica = await (await api('applica-bozza', { id: salvata.id })).json();
+  assert.match(capitoloFile(), /Primo\.\n\nSecondo nuovo\.\n\n---\n\nTerzo nuovo\.\n\nQuarto\./);
+  assert.match(fs.readFileSync(path.join(root, 'Romanzo', 'romanzo.md'), 'utf8'), /Secondo nuovo\.\n\n---\n\nTerzo nuovo\./);
+  const dopo = await capitolo();
+  assert.deepEqual(dopo.passaggi.map(p => [p.testo, !!p.stacco]),
+    [['Primo.', false], ['Secondo nuovo.', false], ['Terzo nuovo.', true], ['Quarto.', false]]);
+  // Tornando indietro lo stacco di scena resta al suo posto.
+  assert.equal((await api('ripristina', { id: modifica.id, indice: 0 })).status, 202);
+  assert.equal(capitoloFile(), testo);
+});

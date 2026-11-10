@@ -2,7 +2,8 @@ const http = require('node:http');
 const fs = require('node:fs');
 const path = require('node:path');
 const { createHash, randomUUID } = require('node:crypto');
-const { errore, scrivi, numero, testoValido, leggiCapitolo, analizzaCapitolo, bloccoValido, sostituisci, cambiaStacco } = require('./archivio');
+const { errore, scrivi, numero, testoValido, leggiCapitolo, analizzaCapitolo, bloccoValido, sostituisci, cambiaStacco,
+  soloParagrafi } = require('./archivio');
 
 const prefisso = '/__autore/';
 const mime = { '.html': 'text/html', '.js': 'text/javascript', '.css': 'text/css', '.json': 'application/json',
@@ -192,10 +193,10 @@ function creaServer({ root = path.resolve(__dirname, '../..'), audio } = {}) {
   function riallineaBozza(bozza, inverso, fonte) {
     if (!bozza?.blocchi.length) return [];
     const c = analizzaCapitolo(fonte);
-    const fine = inverso.ordine + inverso.prima.length;
-    const scarto = inverso.dopo.length - inverso.prima.length;
+    const fine = inverso.ordine + soloParagrafi(inverso.prima).length;
+    const scarto = soloParagrafi(inverso.dopo).length - soloParagrafi(inverso.prima).length;
     return bozza.blocchi.map(b => {
-      let da = b.ordine, a = da + b.prima.length;
+      let da = b.ordine, a = da + soloParagrafi(b.prima).length;
       if (da >= fine) { da += scarto; a += scarto; }
       else if (a > inverso.ordine && scarto) {
         if (da > inverso.ordine || a < fine) throw errore(409, 'La bozza locale tocca solo una parte del blocco. Ripristina prima quella bozza.');
@@ -282,10 +283,11 @@ function creaServer({ root = path.resolve(__dirname, '../..'), audio } = {}) {
       if (!b) throw errore(400, 'Scegli il blocco da ripristinare.');
       const rimanenti = blocchi.filter((_, i) => i !== d.indice);
       if (j.tipo === 'bozza') return json(res, 202, aggiungi(j, 'bozza', c, { blocchi: rimanenti, stato: 'bozza locale' }));
-      const scarto = blocchi.slice(0, d.indice).reduce((n, x) => n + x.dopo.length - x.prima.length, 0);
+      const scarto = blocchi.slice(0, d.indice).reduce((n, x) => n + soloParagrafi(x.dopo).length - soloParagrafi(x.prima).length, 0);
       const ordine = b.ordine + scarto;
-      const attuali = c.passaggi.slice(ordine, ordine + b.dopo.length);
-      if (ordine < 0 || attuali.length !== b.dopo.length || attuali.some((p, i) => p.testo !== b.dopo[i])) {
+      const dopoBlocco = soloParagrafi(b.dopo);
+      const attuali = c.passaggi.slice(ordine, ordine + dopoBlocco.length);
+      if (ordine < 0 || attuali.length !== dopoBlocco.length || attuali.some((p, i) => p.testo !== dopoBlocco[i])) {
         throw errore(409, 'Il blocco è cambiato. Riapri il pannello.');
       }
       const inverso = bloccoValido(c, attuali[0].riga, attuali.at(-1).riga, b.prima.join('\n\n'));

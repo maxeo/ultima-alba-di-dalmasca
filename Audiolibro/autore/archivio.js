@@ -4,6 +4,9 @@ const { createHash, randomUUID } = require('node:crypto');
 const { execFileSync } = require('node:child_process');
 
 const ePassaggio = t => t && !/^#{1,6}\s|^-{3,}$/.test(t);
+// Lo stacco di scena vale come un paragrafo a se': si scrive e si incolla insieme al testo.
+const eStacco = t => /^\s*(?:-{3,}|\*{3,}|_{3,})\s*$/.test(t || '');
+const soloParagrafi = v => v.filter(t => !eStacco(t));
 
 function errore(status, messaggio) {
   return Object.assign(new Error(messaggio), { status });
@@ -25,10 +28,11 @@ function numero(n) {
 }
 
 function testoValido(testo) {
-  if (typeof testo !== 'string' || !testo.trim() || testo.length > 25000 || /[\r\n\0]/.test(testo) || /^\s*(?:#|---)/.test(testo)) {
+  if (typeof testo !== 'string' || !testo.trim() || testo.length > 25000 || /[\r\n\0]/.test(testo) ||
+      /^\s*#/.test(testo) || /^\s*-{3,}/.test(testo) && !eStacco(testo)) {
     throw errore(400, 'Scrivi un paragrafo su una riga.');
   }
-  return testo.trim();
+  return eStacco(testo) ? '---' : testo.trim();
 }
 
 function leggiCapitolo(root, n) {
@@ -62,20 +66,20 @@ function bloccoValido(capitolo, riga, fine, testo) {
   const ultimo = capitolo.passaggi.findIndex(p => p.riga === fine);
   if (ordine < 0 || ultimo < ordine || typeof testo !== 'string') throw errore(400, 'Seleziona i paragrafi da correggere.');
   const righe = capitolo.passaggi.slice(ordine, ultimo + 1);
-  const prima = righe.map(p => p.testo);
+  const prima = righe.flatMap((p, i) => i && p.stacco ? ['---', p.testo] : [p.testo]);
   const blocco = capitolo.righe.slice(riga * 2, fine * 2 + 1).join('');
-  if (/^(?:#{1,6}\s|-{3,}\s*$)/m.test(blocco)) throw errore(400, 'Seleziona paragrafi nella stessa scena.');
+  if (/^#{1,6}\s/m.test(blocco)) throw errore(400, 'Seleziona paragrafi dello stesso capitolo.');
   const dopo = testo.trim().split(/\r?\n(?:[ \t]*\r?\n)+/).map(t => testoValido(t.replace(/\s*\r?\n\s*/g, ' ')));
   return { riga, fine, ordine, prima, dopo };
 }
 
 function sostituisci(root, n, capitolo, blocchi) {
-  const indiciBase = blocchi.map(b => capitolo.passaggi.slice(b.ordine, b.ordine + b.prima.length).map(p => p.riga * 2));
+  const indiciBase = blocchi.map(b => capitolo.passaggi.slice(b.ordine, b.ordine + soloParagrafi(b.prima).length).map(p => p.riga * 2));
   function aggiorna(righe, indici, nome) {
     const occupati = new Set();
     const cambi = indici.map((v, k) => {
       const da = v[0], a = v.at(-1);
-      const indiciAttesi = righe.flatMap((t, i) => i % 2 === 0 && i >= da && i <= a && t.trim() ? [i] : []);
+      const indiciAttesi = righe.flatMap((t, i) => i % 2 === 0 && i >= da && i <= a && t.trim() && !eStacco(t) ? [i] : []);
       if (v.includes(-1) || v.some((i, j) => i !== indiciAttesi[j] || occupati.has(i)) || indiciAttesi.length !== v.length) {
         throw errore(409, `Passaggio divergente in ${path.relative(root, nome)}.`);
       }
@@ -112,7 +116,7 @@ function sostituisci(root, n, capitolo, blocchi) {
     const fine = righe.findIndex((x, i) => i > indice && /^## \d+\. |^# /.test(x));
     const limite = fine < 0 ? righe.length : fine;
     const posizioni = righe.flatMap((x, i) => i % 2 === 0 && i > indice && i < limite && ePassaggio(x.trim()) ? [i] : []);
-    const indici = blocchi.map(b => b.prima.map((prima, j) => {
+    const indici = blocchi.map(b => soloParagrafi(b.prima).map((prima, j) => {
       const ordine = b.ordine + j;
       const uguali = posizioni.filter(i => righe[i].trim() === prima);
       const corrispondente = posizioni[ordine];
@@ -171,4 +175,4 @@ function cambiaStacco(root, n, capitolo, cambi) {
   return file;
 }
 
-module.exports = { errore, scrivi, numero, testoValido, leggiCapitolo, analizzaCapitolo, bloccoValido, sostituisci, cambiaStacco };
+module.exports = { errore, scrivi, numero, testoValido, leggiCapitolo, analizzaCapitolo, bloccoValido, sostituisci, cambiaStacco, eStacco, soloParagrafi };

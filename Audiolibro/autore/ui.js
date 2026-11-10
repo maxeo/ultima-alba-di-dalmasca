@@ -325,6 +325,10 @@ else (() => {
   const testoVisibile = t => t.replace(/[*_]/g, '');
   const compatto = t => testoVisibile(t).replace(/\s/g, '');
   const unisci = v => v.join('\n\n');
+  // Dentro un blocco lo stacco di scena e' una voce '---' fra i paragrafi.
+  const eStacco = t => /^\s*(?:-{3,}|\*{3,}|_{3,})\s*$/.test(t || '');
+  const soloParagrafi = v => v.filter(t => !eStacco(t));
+  const conStacchi = v => v.flatMap((p, i) => i && p.stacco ? ['---', p.testo] : [p.testo]);
   const passaggioDi = p => mappaVisiva.get(p) || dati?.passaggi[paragrafiAudio().indexOf(p)];
 
   function colora(nodo, testo, intervalli) {
@@ -579,8 +583,9 @@ else (() => {
       if (j.riga !== undefined) { righe.add(j.riga); continue; }
       let scarto = 0;
       for (const b of j.blocchi || []) {
-        for (const p of dati.passaggi.slice(b.ordine + scarto, b.ordine + scarto + b.dopo.length)) righe.add(p.riga);
-        scarto += b.dopo.length - b.prima.length;
+        const quanti = soloParagrafi(b.dopo).length;
+        for (const p of dati.passaggi.slice(b.ordine + scarto, b.ordine + scarto + quanti)) righe.add(p.riga);
+        scarto += quanti - soloParagrafi(b.prima).length;
       }
     }
     return righe;
@@ -599,7 +604,14 @@ else (() => {
     const fonte = [...dati.passaggi];
     for (const b of [...(dati.bozza?.blocchi || [])].reverse()) {
       const stacco = fonte[b.ordine]?.stacco;
-      fonte.splice(b.ordine, b.prima.length, ...b.dopo.map((testo, i) => ({ testo, riga: b.riga, fine: b.fine, stacco: i === 0 && stacco })));
+      const nuovi = [];
+      let seguente = stacco;
+      for (const t of b.dopo) {
+        if (eStacco(t)) { seguente = true; continue; }
+        nuovi.push({ testo: t, riga: b.riga, fine: b.fine, stacco: seguente });
+        seguente = false;
+      }
+      fonte.splice(b.ordine, soloParagrafi(b.prima).length, ...nuovi);
     }
     const prima = letti.map(testoLetto);
     const dopo = fonte.map(p => testoVisibile(p.testo));
@@ -611,17 +623,19 @@ else (() => {
       && !['pronto', 'superato'].includes(j.stato));
     let scarto = 0;
     for (const b of applicata?.blocchi || []) {
-      const passaggi = dati.passaggi.slice(b.ordine + scarto, b.ordine + scarto + b.dopo.length);
+      const dopoBlocco = soloParagrafi(b.dopo);
+      const primaBlocco = soloParagrafi(b.prima);
+      const passaggi = dati.passaggi.slice(b.ordine + scarto, b.ordine + scarto + dopoBlocco.length);
       const testi = passaggi.map(p => corrispondenze.get(p.riga));
-      if (testi.length === b.dopo.length && testi.every((t, i) => t !== undefined && compatto(t) === compatto(b.dopo[i]))) {
-        const diff = diffConRimozioni(unisci(b.prima.map(testoVisibile)), unisci(testi));
+      if (testi.length === dopoBlocco.length && testi.every((t, i) => t !== undefined && compatto(t) === compatto(dopoBlocco[i]))) {
+        const diff = diffConRimozioni(unisci(primaBlocco.map(testoVisibile)), unisci(testi));
         let offset = 0;
         for (const [i, p] of passaggi.entries()) {
           storico.set(p.riga, fettaDiff(diff, offset, offset + testi[i].length));
           offset += testi[i].length + 2;
         }
       }
-      scarto += b.dopo.length - b.prima.length;
+      scarto += dopoBlocco.length - primaBlocco.length;
     }
     for (const g of gruppi) {
       if (g.letto !== undefined) {
@@ -882,8 +896,8 @@ else (() => {
     riga = primo.riga;
     const base = dati.passaggi.filter(p => p.riga >= riga && p.riga <= ultimaRiga);
     bloccoEditor = { inizio, lunghezza: nodi.length, fine: ultimaRiga, righe: base.map(p => p.riga),
-      prima: unisci(base.map(p => testoVisibile(p.testo))), bozza: dati.bozza?.id ?? null };
-    originale = unisci(voci.map(p => p.testo));
+      prima: unisci(conStacchi(base).map(testoVisibile)), bozza: dati.bozza?.id ?? null };
+    originale = unisci(conStacchi(voci));
     capitoloEditor = cap();
     area.value = bozza ?? originale;
     area.disabled = false;
@@ -892,7 +906,9 @@ else (() => {
     aggiornaBozza();
     const valore = area.value;
     const trovato = evidenziata ? valore.indexOf(evidenziata) : -1;
-    const offset = i => voci.slice(0, i - inizio).reduce((n, p) => n + p.testo.length + 2, 0);
+    // Nel testo dell'editor ogni stacco di scena occupa una riga in piu'.
+    const offset = i => voci.slice(0, i - inizio).reduce((n, p, k) => n + p.testo.length + 2 + (k && p.stacco ? 5 : 0), 0)
+      + ((i - inizio) && voci[i - inizio]?.stacco ? 5 : 0);
     const haSelezione = selezione?.inizio !== undefined;
     const sinistra = haSelezione ? offset(da) + posizioneNelTesto(primo.testo, selezione.inizio, true) : trovato;
     const destra = haSelezione ? offset(a) + posizioneNelTesto(ultimo.testo, selezione.fine, false) : trovato + evidenziata.length;
@@ -1173,19 +1189,21 @@ else (() => {
       if (testuale && j.blocchi?.length) {
         let scarto = 0;
         for (const [i, b] of j.blocchi.entries()) {
-          const righe = j.tipo === 'bozza' ? b.dopo.map(() => b.riga) : valido
-            ? dati.passaggi.slice(b.ordine + scarto, b.ordine + scarto + b.dopo.length).map(p => p.riga) : [];
+          const primaBlocco = soloParagrafi(b.prima);
+          const dopoBlocco = soloParagrafi(b.dopo);
+          const righe = j.tipo === 'bozza' ? dopoBlocco.map(() => b.riga) : valido
+            ? dati.passaggi.slice(b.ordine + scarto, b.ordine + scarto + dopoBlocco.length).map(p => p.riga) : [];
           // Un blocco può coprire più paragrafi: si mostra un diff per paragrafo, come nel testo.
-          const gruppi = allineaParagrafi(b.prima.map(compatto), b.dopo.map(compatto)).filter(g => g.letto === undefined);
-          const parti = gruppi.length ? gruppi : [{ da: 0, a: b.prima.length, inizio: 0, fine: b.dopo.length }];
+          const gruppi = allineaParagrafi(primaBlocco.map(compatto), dopoBlocco.map(compatto)).filter(g => g.letto === undefined);
+          const parti = gruppi.length ? gruppi : [{ da: 0, a: primaBlocco.length, inizio: 0, fine: dopoBlocco.length }];
           const posizione = b.ordine + scarto;
           for (const g of parti) {
             voci.push({ ordine: posizione + g.inizio, creato: j.creato,
-              nodo: () => cartaTesto(j, valido, b.prima.slice(g.da, g.a), b.dopo.slice(g.inizio, g.fine),
+              nodo: () => cartaTesto(j, valido, primaBlocco.slice(g.da, g.a), dopoBlocco.slice(g.inizio, g.fine),
                 righe.slice(g.inizio, g.fine), azionabile ? i : undefined, g.inizio, parti.length,
                 avvisiLavoro(j, segnalati)) });
           }
-          scarto += b.dopo.length - b.prima.length;
+          scarto += dopoBlocco.length - primaBlocco.length;
         }
         continue;
       }
@@ -1390,14 +1408,12 @@ else (() => {
     let appunti = '';
     try { appunti = await navigator.clipboard.readText(); } catch { appunti = ''; }
     const pezzi = appunti.replace(/\r\n?/g, '\n').split(/\n{2,}/).map(t => t.replace(/\s*\n\s*/g, ' ').trim()).filter(Boolean);
-    const stacchi = pezzi.some(t => /^-{3,}$/.test(t));
-    const testo = pezzi.filter(t => !/^-{3,}$/.test(t)).join('\n\n');
+    const testo = pezzi.map(t => eStacco(t) ? '---' : t).join('\n\n');
     if (!await apriPassaggio(contesto)) return;
     if (!testo) { stato.textContent = 'Premi Ctrl+V per incollare al posto della selezione.'; return; }
     area.setRangeText(testo, area.selectionStart, area.selectionEnd, 'end');
     area.dispatchEvent(new Event('input', { bubbles: true }));
     area.focus({ preventScroll: true });
-    if (stacchi) stato.textContent = 'Lo stacco di scena non si incolla: mettilo dal menu del tasto destro.';
   }
   // Spostare uno stacco di scena: prima si dice da dove, poi si sceglie il paragrafo davanti al quale rimetterlo.
   let staccoDaSpostare;
