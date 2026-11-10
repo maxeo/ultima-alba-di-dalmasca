@@ -1,0 +1,20 @@
+{
+ "capitolo": "107-l-immortale",
+ "somiglianza": 0.9817,
+ "problemi": [
+  {
+   "tempo": "0:03",
+   "secondi": 3.9,
+   "tipo": "saltato",
+   "testo": "pause2 capitolo centosettesimo l immortale pause2 la passerella esterna",
+   "audio": "Capitolo centosettesimo. La passerella esterna"
+  },
+  {
+   "tempo": "10:45",
+   "secondi": 645.9,
+   "tipo": "in più",
+   "testo": "notte da bambino sapeva dove era",
+   "audio": "notte da bambino. Sapeva dove era debole. Sapeva dove era"
+  }
+ ]
+}

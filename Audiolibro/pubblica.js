@@ -156,7 +156,14 @@ for (const file of fs.readdirSync(CAP).filter(x => x.endsWith('.md')).sort()) {
         '-v', `${SRC}:/in:ro`, '-v', `${AUDIO}:/out`, 'e2a-locale:cu126',
         '-y', '-loglevel', 'error', '-i', `/in/${f}.mp3`, '-vn', '-map_metadata', '-1',
         '-ac', '1', '-ar', '24000', '-c:a', 'libmp3lame', '-b:a', BITRATE, `/out/${tmp}`], { stdio: 'inherit' });
-      fs.renameSync(path.join(AUDIO, tmp), out);
+      // Su Windows il file può essere aperto per un momento (lettore locale, antivirus): si riprova, poi si copia.
+      for (let k = 0; ; k++) {
+        try { fs.renameSync(path.join(AUDIO, tmp), out); break; } catch (e) {
+          if (e.code !== 'EPERM' && e.code !== 'EBUSY') throw e;
+          if (k < 10) { Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, 500); continue; }
+          fs.copyFileSync(path.join(AUDIO, tmp), out); fs.unlinkSync(path.join(AUDIO, tmp)); break;
+        }
+      }
       nuovi.push(n);
     }
     const cue = leggiVtt(vtt);

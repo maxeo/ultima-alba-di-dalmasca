@@ -1,0 +1,20 @@
+{
+ "capitolo": "111-la-lettera-di-penelo",
+ "somiglianza": 0.9693,
+ "problemi": [
+  {
+   "tempo": "12:42",
+   "secondi": 762.7,
+   "tipo": "diverso",
+   "testo": "con le altre pause2 ad arcaades la posta privata",
+   "audio": "con le altre arcades la posta privata"
+  },
+  {
+   "tempo": "19:08",
+   "secondi": 1148.6,
+   "tipo": "diverso",
+   "testo": "leggere l incoronazione disse basch sarebbe possibile andiamo",
+   "audio": "leggere l 'incoronazione di sé basso sarebbe possibile andiamo"
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 # Parte VII. Il santuario fra le nuvole
 
-*L'imperatore Gramis morì nel suo letto, a palazzo, mentre io armavo le mie navi. Il Senato di Archades ne diede notizia con la sobrietà che gli era abituale: un malore, poi un'indagine, poi una confessione. Il presidente Gregoroth, che per molti anni avevo stimato come uomo di legge, fu riconosciuto colpevole di aver avvelenato il sovrano e si tolse la vita prima del processo. La successione passò al principe Vayne senza disordini.*
+*L'imperatore Gramis morì nel suo letto, a palazzo, mentre io armavo le mie navi. Il Senato di Archades ne diede notizia con la sobrietà che gli era abituale: un malore, poi un'indagine, poi una confessione. Il presidente Gregoroth, che per molti anni avevo stimato come uomo di legge, fu ritenuto colpevole di aver avvelenato il sovrano e si tolse la vita prima del processo. La successione passò al principe Vayne senza disordini.*
 
 *Mi fu chiesto in seguito se avessi creduto a quella versione. Rispondo che non avevo ragioni per non crederci, e che un marchese il cui cielo è sorvegliato da una flotta straniera impara presto a distinguere fra ciò che crede e ciò che gli conviene dire di credere. Al Bur-Omisace, in quei giorni, la principessa Ashelia era al sicuro. Così mi dissero, e così scrissi a Rozarria.*
 
@@ -58,13 +58,13 @@ La donna si voltò. Aveva la faccia scura e screpolata dal freddo, e lo guardò 
 
 Riprese a camminare. Vaan restò fermo sulla pista con la bocca aperta, e Penelo gli prese la mano dentro il guanto di lana, e non disse niente.
 
-C'era gente da ogni parte. Lo si capiva dalle voci, che parlavano lingue e dialetti che Vaan non conosceva; dai vestiti, che sotto le pellicce erano di tagli e colori diversi; dalle facce. C'erano contadini delle colline di Nabradia, con i cappelli di feltro a punta. C'erano dalmaschi del deserto, che il freddo faceva soffrire più di tutti e che camminavano curvi, a testa bassa, come se la neve fosse sabbia da attraversare in fretta. E c'era un gruppo, più avanti, di gente alta e chiara di capelli, che camminava in fila più ordinata degli altri e parlava fra sé in una lingua dalle consonanti dure.
+C'era gente da ogni parte. Lo si capiva dalle voci, che avevano accenti e dialetti che Vaan non conosceva; dai vestiti, che sotto le pellicce erano di tagli e colori diversi; dalle facce. C'erano contadini delle colline di Nabradia, con i cappelli di feltro a punta. C'erano dalmaschi del deserto, che il freddo faceva soffrire più di tutti e che camminavano curvi, a testa bassa, come se la neve fosse sabbia da attraversare in fretta. E c'era un gruppo, più avanti, di gente alta e chiara di capelli, che camminava in fila più ordinata degli altri e parlava fra sé in un dialetto dalle consonanti dure.
 
 Basch li sentì. Si fermò di colpo.
 
 Era la prima volta che lo vedevano fermarsi così, senza una ragione di pericolo, con la testa voltata e il corpo rigido, come un cane che sente il nome del padrone gridato in una strada affollata. Ascoltò. Poi lasciò la sua posizione accanto ad Ashe, senza chiedere il permesso, e risalì la fila fino al gruppo.
 
-Gli altri lo videro avvicinarsi a un vecchio che camminava con un bastone in testa al gruppo, e dirgli qualcosa in quella lingua dalle consonanti dure. Il vecchio si fermò. Lo guardò dal basso, con gli occhi socchiusi nella luce bianca. Disse qualcosa. Basch rispose. Il vecchio disse un'altra cosa, più lunga, e indicò con il bastone la valle alle loro spalle, il sud, il fiume, e poi l'est, dove non c'era niente da vedere se non montagne. Basch ascoltò senza muoversi.
+Gli altri lo videro avvicinarsi a un vecchio che camminava con un bastone in testa al gruppo, e dirgli qualcosa in quel dialetto dalle consonanti dure. Il vecchio si fermò. Lo guardò dal basso, con gli occhi socchiusi nella luce bianca. Disse qualcosa. Basch rispose. Il vecchio disse un'altra cosa, più lunga, e indicò con il bastone la valle alle loro spalle, il sud, il fiume, e poi l'est, dove non c'era niente da vedere se non montagne. Basch ascoltò senza muoversi.
 
 Alla fine il vecchio gli fece una domanda. Era breve. Basch non rispose subito. Poi scosse la testa, una volta, e disse una parola sola. Il vecchio lo guardò ancora un momento, poi annuì, adagio, come chi riceve una risposta che si aspettava, e riprese a camminare.
 
@@ -108,7 +108,7 @@ Ashe aveva smesso di mangiare.
 
 «E quella notte» disse Erith «verso la terza ora, la città si è accesa.»
 
-Il fuoco crepitò. Intorno, fra i profughi degli altri fuochi, qualcuno parlava a bassa voce, un bambino piangeva, una donna cantava una ninnananna in nabradiano. Erith non alzò la voce.
+Il fuoco crepitò. Intorno, fra i profughi degli altri fuochi, qualcuno parlava a bassa voce, un bambino piangeva, una donna cantava una ninnananna in dialetto nabradiano. Erith non alzò la voce.
 
 «Non è stato come un incendio. Un incendio comincia da una parte e va da un'altra. Questo no. Era tutta. Tutta insieme. Una luce bianca, poi viola, che usciva dal palazzo e si allargava, e non faceva rumore. Questo me lo ricordo meglio di tutto. Non faceva rumore. Mio cognato è uscito in camicia e si è messo a guardare e non ha detto niente, e io neanche. I buoi si sono messi a muggire e non smettevano più.» Fece una pausa. «Poi il rumore è arrivato. Tardi. Come un tuono che arriva dopo il lampo. E dopo il rumore niente. Né campane, né grida. Niente.»
 

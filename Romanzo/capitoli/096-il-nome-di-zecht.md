@@ -40,7 +40,7 @@ Gabranth non attaccava più. Stava fermo, con le spade basse, e l'elmo era girat
 
 Lo disse forte. Il nome attraversò la piazza e salì fino ai pilastri, e tornò giù.
 
-Reddas non lo negò. Non disse niente per un momento. Poi fece una cosa che nessuno si aspettava: abbassò del tutto le spade, le punte sulla pietra, e chinò la testa davanti al Giudice di Archades, con un piccolo inchino breve e senza svolazzi, quello che non era di un pirata e non era di un cortigiano. Adesso si capiva di chi era. Era l'inchino che i Giudici si scambiano fra pari, prima di un'udienza.
+Reddas non lo negò. Non disse niente per un momento. Poi fece una cosa che nessuno si aspettava: abbassò del tutto le spade, le punte sulla pietra, e chinò la testa davanti al Giudice di Archades, con un piccolo inchino breve e senza svolazzi, quello che non era di un aviopirata e non era di un cortigiano. Adesso si capiva di chi era. Era l'inchino che i Giudici si scambiano fra pari, prima di un'udienza.
 
 «Era il mio nome» disse. «Ne ho un altro, adesso. Mi sta meglio.»
 

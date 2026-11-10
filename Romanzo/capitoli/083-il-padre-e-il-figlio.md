@@ -24,7 +24,7 @@ Per un momento la faccia di Cid non fece niente. Nessuna sorpresa, nessuna commo
 
 Balthier non si mosse.
 
-«Ffamran! Ma guardalo.» Cid allargò le braccia, e il soprabito si aprì sul petto. «Il pirata dei cieli. Il ladro. Il famoso, l'unico, il terribile...» Si interruppe, e si voltò di lato, verso un angolo vuoto della camera, accanto a una delle lavagne. «Come si chiama adesso? Balthier, sì. Balthier. Un nome da cantastorie di fiera. Lo sapevo che ti sarebbe piaciuto.» Tornò a guardare il figlio. «Sei vestito malissimo.»
+«Ffamran! Ma guardalo.» Cid allargò le braccia, e il soprabito si aprì sul petto. «Il pirata del cielo. Il ladro. Il famoso, l'unico, il terribile...» Si interruppe, e si voltò di lato, verso un angolo vuoto della camera, accanto a una delle lavagne. «Come si chiama adesso? Balthier, sì. Balthier. Un nome da cantastorie di fiera. Lo sapevo che ti sarebbe piaciuto.» Tornò a guardare il figlio. «Sei vestito malissimo.»
 
 «E tu sei invecchiato» disse Balthier. «Ma la voce è la stessa. Ti si sente dal sessantasettesimo piano.»
 
@@ -38,7 +38,7 @@ Balthier non si mosse.
 
 «Un tesoro!»
 
-«Sono un pirata. I pirati cercano tesori.» Balthier fece due passi nella camera, con le mani dietro la schiena e il mento alto. «Il Frammento del Crepuscolo. Ce l'hai tu. Lo voglio.»
+«Sono un aviopirata. Gli aviopirati cercano tesori.» Balthier fece due passi nella camera, con le mani dietro la schiena e il mento alto. «Il Frammento del Crepuscolo. Ce l'hai tu. Lo voglio.»
 
 Cid lo fissò. Poi rise di nuovo, ma questa volta era una risata più corta e più acuta, e c'era dentro qualcosa che somigliava alla delusione.
 

@@ -88,7 +88,7 @@ Il piccolo tornò alla corda, dove gli altri protestavano già perché aveva chi
 
 La precisazione rimase lì finché Basch non si voltò. Il ragazzo aveva le braccia incrociate e lo sguardo fisso sui bambini; pareva che stesse aspettando un'obiezione. Basch non gliela diede. Aspettò anche lui.
 
-«I miei sono morti prima» disse Vaan. «Cinque anni fa. La febbre.»
+«I miei sono morti prima» disse Vaan. «Cinque anni fa. La peste.»
 
 Il capitano si portò la mano ferita contro il fianco. Ricordava le case segnate con la calce, le guardie mandate alle cisterne per impedire che la gente si radunasse, i carri che passavano all'alba. Aveva servito in una guarnigione fuori città durante una parte dell'epidemia. I dispacci arrivavano con cifre, richieste di acqua, richieste di uomini. Adesso aveva davanti un ragazzo che a quelle cifre era sopravvissuto.
 
@@ -156,7 +156,7 @@ Non concluse. Il capitano non gli chiese di farlo. La guardia della pattuglia, n
 
 ---
 
-Fecero una deviazione per la bottega. Vaan disse che voleva sapere se Migelo fosse rientrato; Basch non oppose la fretta di raggiungere il pirata. Il negozio era aperto. Kytes aveva acceso due lampade e stava contando le monete davanti a un uomo che pretendeva di avergli dato il doppio. Quando vide Vaan chiuse il pugno sulla ciotola.
+Fecero una deviazione per la bottega. Vaan disse che voleva sapere se Migelo fosse rientrato; Basch non oppose la fretta di raggiungere l'aviopirata. Il negozio era aperto. Kytes aveva acceso due lampade e stava contando le monete davanti a un uomo che pretendeva di avergli dato il doppio. Quando vide Vaan chiuse il pugno sulla ciotola.
 
 «Ancora niente» disse, prima che gli venisse chiesto.
 

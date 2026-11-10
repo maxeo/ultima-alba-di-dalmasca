@@ -40,11 +40,11 @@ Vaan arrossì. Era la terza volta in una settimana, e cominciava a pensare che f
 
 «Non scusarti con me. Io ci sono abituato. La gente la guarda e io guardo la gente che la guarda, ed è uno dei piaceri della vita.» L'uomo si alzò, si stirò la schiena, riprese il panciotto dalla sporgenza e lo esaminò controluce con aria critica. «Le viere non escono dai loro boschi. Lo sai, no? Stanno là dentro da secoli, con i loro alberi e i loro silenzi, e guardano il mondo degli uomini come si guarda un formicaio: con interesse e da lontano. Una viera che viaggia è una cosa rara. Una viera che viaggia con un Huma, poi...»
 
-«È una cosa che non si spiega» disse Fran, dalla barca. «Come un pirata dei cieli che entra in un palazzo dalle fogne.»
+«È una cosa che non si spiega» disse Fran, dalla barca. «Come un aviopirata che entra in un palazzo dalle fogne.»
 
 Lo disse con la stessa voce con cui aveva detto beve, sulla barca volante, piatta e un po' roca, senza alzare la testa. Ma Vaan non la sentì così. Vaan sentì soltanto due parole, e le due parole gli entrarono dentro come l'acqua del canale gli era entrata in bocca, tutte in una volta.
 
-«Pirata» disse. «Pirata dei cieli. Siete pirati dei cieli?»
+«Pirata» disse. «Pirata del cielo. Siete pirati del cielo?»
 
 L'uomo si girò verso Fran con un'espressione di rimprovero.
 
@@ -64,7 +64,7 @@ L'uomo lo guardò a lungo. Sulla sua faccia, per un istante, passò qualcosa che
 
 «E l'aeronave? Dov'è? Com'è? Quanto è veloce?»
 
-«Calma. Calma, per carità.» L'uomo alzò le mani. «Una cosa alla volta. Prima ci presentiamo, come la gente educata. Poi usciamo da questa fogna. Poi, se sarai molto fortunato e molto zitto, forse ti dirò di che colore è.» Si mise una mano sul petto e fece un piccolo inchino, perfetto, da sala da ballo, che in quella galleria piena d'acqua e di muschio fece uno strano effetto. «Balthier. Pirata dei cieli, come la mia socia ha voluto rivelare. Lei è Fran.»
+«Calma. Calma, per carità.» L'uomo alzò le mani. «Una cosa alla volta. Prima ci presentiamo, come la gente educata. Poi usciamo da questa fogna. Poi, se sarai molto fortunato e molto zitto, forse ti dirò di che colore è.» Si mise una mano sul petto e fece un piccolo inchino, perfetto, da sala da ballo, che in quella galleria piena d'acqua e di muschio fece uno strano effetto. «Balthier. Aviopirata, come la mia socia ha voluto rivelare. Lei è Fran.»
 
 «Fran» disse Vaan.
 
@@ -114,7 +114,7 @@ Vaan guardò lei, poi lui, e capì che non aveva capito niente e che, in compens
 
 Camminarono a favore di corrente. Le gallerie erano diverse da quelle che Vaan aveva percorso all'andata: più basse, più vecchie, e in molti punti segnate dal bombardamento. Il colpo dell'Ifrit, sopra, aveva fatto tremare tutto; c'erano tratti di volta crollati, mucchi di pietre in mezzo alle passerelle, crepe nuove nei muri da cui l'acqua usciva a spruzzi, come da una botte forata. In un punto la passerella era sparita del tutto, e dovettero passare uno alla volta su una trave di ferro che attraversava il canale, e Balthier passò per primo con le braccia larghe, come un funambolo in piazza, e Fran passò per ultima senza guardare dove metteva i piedi, e Vaan passò in mezzo, guardando dove metteva i piedi con tutta l'attenzione di cui era capace.
 
-Balthier parlava. Parlava quasi sempre, con quella sua voce di uno che racconta una storia a tavola, e diceva cose di cui la metà erano vere e l'altra metà erano più divertenti. Disse che le fogne di Rabanastre erano le più eleganti che avesse mai visitato, e ne aveva visitate molte. Disse che a Bhujerba le fogne non c'erano, perché la città stava sospesa nel cielo e quello che si buttava cadeva in testa a qualcun altro, molto più in basso, che di solito non si lamentava perché era un mercante archadiano. Disse che a Balfonheim, la città dei pirati, le fogne erano la parte più pulita del porto. Vaan ascoltava tutto, con la bocca mezza aperta, e ogni nome di città gli si accendeva dentro come una lanterna.
+Balthier parlava. Parlava quasi sempre, con quella sua voce di uno che racconta una storia a tavola, e diceva cose di cui la metà erano vere e l'altra metà erano più divertenti. Disse che le fogne di Rabanastre erano le più eleganti che avesse mai visitato, e ne aveva visitate molte. Disse che a Bhujerba le fogne non c'erano, perché la città stava sospesa nel cielo e quello che si buttava cadeva in testa a qualcun altro, molto più in basso, che di solito non si lamentava perché era un mercante archadiano. Disse che a Balfonheim, la città degli aviopirati, le fogne erano la parte più pulita del porto. Vaan ascoltava tutto, con la bocca mezza aperta, e ogni nome di città gli si accendeva dentro come una lanterna.
 
 Fran non parlava. Camminava, e ascoltava, e ogni tanto si fermava e girava le orecchie verso un punto del buio, e allora si fermavano anche gli altri; una volta dal buio uscì una bestia, una specie di rospo grosso come un cane con la pelle che luccicava di muco, e Fran la abbatté con una freccia sola prima che Vaan avesse finito di tirare fuori la spada. L'arco lo portava sulla schiena. Vaan non l'aveva visto prenderlo.
 
@@ -182,7 +182,7 @@ Fran si era avvicinata al bordo della passerella. Stava guardando l'acqua del vo
 
 Non spiegò perché. Nessuno glielo chiese.
 
-Ripresero il cammino. Lasciarono la camera rotonda da una galleria che saliva, piano, verso un rumore che all'inizio sembrava l'acqua di una chiusa e che poi, a mano a mano che si avvicinavano, diventava un'altra cosa: metallo contro metallo, colpi, passi su una passerella di ferro, e grida in archadiano. Qualcuno, più avanti, stava ancora combattendo.
+Ripresero il cammino. Lasciarono la camera rotonda da una galleria che saliva, piano, verso un rumore che all'inizio sembrava l'acqua di una chiusa e che poi, a mano a mano che si avvicinavano, diventava un'altra cosa: metallo contro metallo, colpi, passi su una passerella di ferro, e grida con l'accento archadiano. Qualcuno, più avanti, stava ancora combattendo.
 
 E sopra tutte quelle voci, nitida, una voce di donna, giovane, che non chiedeva niente a nessuno.
 

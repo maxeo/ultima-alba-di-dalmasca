@@ -11,7 +11,7 @@ for n in $(seq "$PRIMO" "$ULTIMO"); do
   node prepara.js "$n" >/dev/null || exit 2
   for tentativo in 1 2; do
     S=$(date +%s)
-    bash tts.sh "audio/log-$id.txt" --script_mode full_docker --headless --ebook "/app/testo/$f.txt" --language ita --tts_engine xtts --device CUDA --output_format mp3 --output_dir /app/audiobooks
+    TTS_OPERAZIONE="cap. ${id#00}: capitolo intero" bash tts.sh "audio/log-$id.txt" --script_mode full_docker --headless --ebook "/app/testo/$f.txt" --language ita --tts_engine xtts --device CUDA --output_format mp3 --output_dir /app/audiobooks
     e=$?
     if [ $e -eq 0 ] && [ -s "audiobooks/$f.mp3" ]; then
       echo "$(date '+%F %T') $f OK $(( $(date +%s)-S ))s" >> audio/stato.txt; ERRORI=0

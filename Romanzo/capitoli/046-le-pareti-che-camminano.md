@@ -88,7 +88,7 @@ Balthier si voltò verso Ashe. Non protestò: lasciò che fosse lei a vedere il 
 
 «L'accordo è mio» disse.
 
-«Avete promesso ai pirati di depredare il vostro antenato?»
+«Avete promesso agli aviopirati di depredare il vostro antenato?»
 
 «Ho promesso un compenso a chi mi ha portata qui.»
 
@@ -104,7 +104,7 @@ Vossler non rispose. Balthier si scostò dalla nicchia; non aveva trovato nulla 
 
 La risposta era sincera, e per questo Ashe dovette aspettare prima di parlare. «Allora fallo con le persone che abbiamo. Non con quelle che avresti voluto.»
 
-Vossler la guardò. Si era abituato a difenderla decidendo a chi fosse lecito avvicinarsi; due anni di cantine avevano fatto di quella scelta quasi tutta la sua autorità. Dietro di lei stavano un pirata, una viera e due ragazzi, con la polvere della strada ancora addosso. Basch non prese la parola a suo favore. Aspettò che fosse lui a spostarsi.
+Vossler la guardò. Si era abituato a difenderla decidendo a chi fosse lecito avvicinarsi; due anni di cantine avevano fatto di quella scelta quasi tutta la sua autorità. Dietro di lei stavano un pirata del cielo, una viera e due ragazzi, con la polvere della strada ancora addosso. Basch non prese la parola a suo favore. Aspettò che fosse lui a spostarsi.
 
 Vossler si spostò. Ashe tornò a guardare il passaggio in fondo alla sala, dove due scale scendevano in direzioni opposte. Non aprì la carta. L'astuccio degli Ondore non serviva più.
 
@@ -192,7 +192,7 @@ Balthier si toccò il bordo bruciato della manica. Rimase abbastanza in silenzio
 
 «Un milione e cinquecentoventimila» disse Fran.
 
-«Meno tutto.» Il pirata si toccò il colletto, dove la penna di rame del Garuda spuntava ancora dal gilet. «Più una penna. Non è una cifra che si possa raccontare in una taverna senza essere presi a sassate.»
+«Meno tutto.» L'aviopirata si toccò il colletto, dove la penna di rame del Garuda spuntava ancora dal gilet. «Più una penna. Non è una cifra che si possa raccontare in una taverna senza essere presi a sassate.»
 
 «Allora non raccontarla.»
 

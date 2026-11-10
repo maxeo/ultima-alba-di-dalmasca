@@ -92,7 +92,7 @@ Vossler lo guardò come se quella parola, proprio in quella voce, fosse un colpo
 
 «Allora perché le hai tolto anche questo?»
 
-Basch lo guardò, e per un istante non vide il corridoio dello Shiva. Vide un cortile di caserma a Rabanastre, vent'anni prima, con la polvere rossa e il sole a picco e un pozzo nell'angolo. Un ragazzo di Landis appena arrivato, che parlava il dalmasco come si mastica un pane troppo duro e non conosceva nessuno, e che i cadetti chiamavano "il forestiero" perché non sapevano ancora come chiamarlo. E un altro ragazzo, bruno, più largo di spalle, che la prima sera gli aveva lasciato metà della sua razione sulla branda senza dire niente e la mattina dopo, in cortile, lo aveva battuto tre volte di fila con la stessa finta: la spalla che si abbassa, la lama che arriva di lato. Alla quarta Basch l'aveva parata. Vossler aveva riso e gli aveva detto *adesso sei dei nostri*, e aveva sputato nella polvere per suggellare la cosa, perché a quell'età si suggellano così.
+Basch lo guardò, e per un istante non vide il corridoio dello Shiva. Vide un cortile di caserma a Rabanastre, vent'anni prima, con la polvere rossa e il sole a picco e un pozzo nell'angolo. Un ragazzo di Landis appena arrivato, che masticava le parole con il suo accento di Landis come un pane troppo duro e non conosceva nessuno, e che i cadetti chiamavano "il forestiero" perché non sapevano ancora come chiamarlo. E un altro ragazzo, bruno, più largo di spalle, che la prima sera gli aveva lasciato metà della sua razione sulla branda senza dire niente e la mattina dopo, in cortile, lo aveva battuto tre volte di fila con la stessa finta: la spalla che si abbassa, la lama che arriva di lato. Alla quarta Basch l'aveva parata. Vossler aveva riso e gli aveva detto *adesso sei dei nostri*, e aveva sputato nella polvere per suggellare la cosa, perché a quell'età si suggellano così.
 
 Era la stessa finta. Vossler non ne aveva mai imparata un'altra, perché non ne aveva mai avuto bisogno.
 
@@ -220,6 +220,6 @@ Fran teneva gli occhi chiusi. «Ancora» disse.
 
 «Più lontano.»
 
-Il pirata non rispose. Liberò un fermo con l'unghia e portò la leva fino in fondo. Penelo si sporse dal sedile dietro Fran, le tenne una spalla e le premette sulla fronte un panno bagnato. Vaan prese la borraccia aperta fra le sue ginocchia e la richiuse prima che l'acqua finisse sul pavimento.
+L'aviopirata non rispose. Liberò un fermo con l'unghia e portò la leva fino in fondo. Penelo si sporse dal sedile dietro Fran, le tenne una spalla e le premette sulla fronte un panno bagnato. Vaan prese la borraccia aperta fra le sue ginocchia e la richiuse prima che l'acqua finisse sul pavimento.
 
 Ashe era sola davanti al vetro laterale. L'ultima esplosione cancellò l'ombra del Leviatano e le illuminò le mani vuote. Non si coprì gli occhi. La luce restò anche quando la nave non c'era più.

@@ -27,7 +27,7 @@ Prese dal regista su delega. Dettagli in `regia.md`.
 | 2 | La barriera di Nalbina | 01 II-III | Nabudis cade, senza spiegazione e con voci strane. Morte di Rasler |
 | 3 | Due cerimonie | 01 IV-V | Funerale nella stessa cattedrale. Ondore in forma di memoria, breve |
 | 4 | Reks | 01 VI-VII | Legame Basch-Reks. Scontro col Remora ridotto alla scelta di Reks |
-| 5 | Il capitano che uccise il re | 01 VIII | Espanso. Reks, falso Basch, ultimo pensiero a Vaan |
+| 5 | L'uomo che uccise il re | 01 VIII | Espanso. Reks, falso Basch, ultimo pensiero a Vaan |
 | 6 | La morte di un regno | 01 IX | Menzogne ufficiali: suicidio di Ashe, condanna di Basch |
 
 ## Parte II. Il ladro di Rabanastre

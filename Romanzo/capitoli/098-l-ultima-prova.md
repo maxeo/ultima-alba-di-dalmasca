@@ -84,7 +84,7 @@ La figura di luce restò un momento ancora. Poi si ritirò, scivolando verso il 
 
 Balthier rimase solo con suo padre.
 
-Aveva pensato molte volte a questo momento. Lo aveva pensato a bordo della Strahl, di notte, quando Fran dormiva e lui restava sveglio ai comandi a guardare le stelle; lo aveva pensato in molte taverne, in molte lingue. Si era preparato frasi. Ne aveva avute di ogni genere, crudeli, ironiche, dignitose, una perfino tenera, che non avrebbe mai confessato a nessuno. Le aveva provate ad alta voce, una volta, davanti allo specchio di una locanda di Nalbina, e poi aveva riso di sé stesso per tutta la sera. Voleva chiedergli della stanza con la scrivania sotto la finestra. Voleva chiedergli della madre, che era morta quando Ffamran aveva sei anni e di cui in quella casa nessuno parlava più. Voleva chiedergli perché le pietre, perché sempre le pietre, perché una pietra era più interessante di un bambino seduto da solo a tavola.
+Aveva pensato molte volte a questo momento. Lo aveva pensato a bordo della Strahl, di notte, quando Fran dormiva e lui restava sveglio ai comandi a guardare le stelle; lo aveva pensato in molte taverne, in molti porti. Si era preparato frasi. Ne aveva avute di ogni genere, crudeli, ironiche, dignitose, una perfino tenera, che non avrebbe mai confessato a nessuno. Le aveva provate ad alta voce, una volta, davanti allo specchio di una locanda di Nalbina, e poi aveva riso di sé stesso per tutta la sera. Voleva chiedergli della stanza con la scrivania sotto la finestra. Voleva chiedergli della madre, che era morta quando Ffamran aveva sei anni e di cui in quella casa nessuno parlava più. Voleva chiedergli perché le pietre, perché sempre le pietre, perché una pietra era più interessante di un bambino seduto da solo a tavola.
 
 Disse soltanto una cosa.
 
@@ -96,13 +96,13 @@ Cid aprì gli occhi. Lo guardò, e lo vide, forse per la prima volta da molti an
 
 «Padre...»
 
-«Vattene.» Cid chiuse gli occhi di nuovo. «Scappa, Ffamran. Fai quello che sai fare. Sei un pirata, no? I pirati scappano. È il loro mestiere.» Una piccola smorfia gli passò sulla bocca, che poteva essere un sorriso. «Almeno quello fallo bene.»
+«Vattene.» Cid chiuse gli occhi di nuovo. «Scappa, Ffamran. Fai quello che sai fare. Sei un aviopirata, no? I pirati scappano. È il loro mestiere.» Una piccola smorfia gli passò sulla bocca, che poteva essere un sorriso. «Almeno quello fallo bene.»
 
 Balthier non disse niente.
 
 Il corpo di suo padre cominciò a sciogliersi. Fu una cosa lenta e quasi silenziosa. Prima le mani, che diventarono trasparenti sulla pietra, poi le braccia, poi il viso. Non c'era sangue e non c'era dolore; c'era una luce minuta, a granelli, che si staccava dalla carne come la polvere si stacca da un tappeto battuto, e saliva. Saliva verso la Crisalide, e la Crisalide la prendeva, e la luce dentro la grande pietra ebbe per un attimo un lampo un po' più caldo degli altri. Poi Cid non c'era più. Sulla pietra della piazza restò la forma vuota del soprabito, e la catena d'ottone con i suoi strumenti, e un fazzoletto ricamato che doveva essere stato nella tasca della giubba.
 
-Balthier rimase inginocchiato. Aveva in mano le lenti di suo padre, quelle con il vetro incrinato. Le guardò. Le chiuse con cura, piegando le due stanghette una sull'altra come si chiude un libro, e le mise nella tasca interna della giacca, dalla parte del cuore, dove da mesi teneva un'altra cosa che non era sua: un anello largo, di due fili ritorti, oro rosso e argento bianco.
+Balthier rimase inginocchiato. Aveva in mano le lenti di suo padre, quelle con il vetro incrinato. Le guardò. Le chiuse con cura, piegando le due stanghette una sull'altra come si chiude un libro, e le mise nella tasca interna della giacca, dalla parte del cuore, dove da mesi teneva un'altra cosa che non era sua: un anello di due fili ritorti, oro rosso e argento bianco.
 
 Non pianse. Gli altri, a distanza, lo guardavano e non si avvicinavano. Basch aveva fatto un passo e si era fermato. Penelo si era coperta la bocca con la mano. Vaan teneva la spada di Reddas e guardava a terra. Ashe, sotto la Crisalide, aveva abbassato tutte e due le spade, e la sua faccia, per la prima volta, non era la faccia di una principessa.
 

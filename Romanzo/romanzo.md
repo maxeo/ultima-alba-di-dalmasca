@@ -12,41 +12,41 @@
 
 ## 1. Le nozze dell'ultima primavera
 
-A Rabanastre il prezzo dei petali salì all'alba e non scese più fino a sera. Le venditrici della Città Bassa lo sapevano da settimane, e avevano passato le notti a staccare corolle di bouganvillea dai muri dei cortili, a riempire ceste di gelsomino e di quel fiore di cardo rosso che cresce sull'orlo del deserto orientale e non profuma di niente, ma tinge le dita. Una manciata costava due gil il giorno prima. La mattina delle nozze ne costava cinque, e nessuno protestava, perché la principessa si sposava una volta sola e un popolo che lesina sui petali al matrimonio della sua erede non merita di averne una.
+A Rabanastre il prezzo dei petali salì all'alba e non scese più fino a sera. Le venditrici della Città Bassa lo sapevano da settimane, e avevano passato le notti a staccare corolle di buganvillea dai muri dei cortili, a riempire ceste di gelsomino e di quel fiore di cardo rosso che cresce sull'orlo del deserto orientale e non profuma di niente, ma tinge le dita. Una manciata costava due gil il giorno prima. La mattina delle nozze ne costava cinque, e nessuno protestava, perché una principessa si sposa una volta sola.
 
-La città si era lavata come si lava una casa prima di una visita importante, cioè nei punti dove la visita avrebbe guardato. Le facciate lungo la via del corteo erano state imbiancate di fresco e la calce, che sotto quel sole asciuga in un'ora, aveva ancora l'odore di cantina bagnata. Dai balconi pendevano drappi azzurri e bianchi di Dalmasca, alternati ai verdi di Nabradia, che i tintori della città avevano dovuto imparare in fretta e che erano usciti di tre sfumature diverse, a seconda della bottega.
+La città si era lavata come si lava una casa prima di una visita importante, cioè nei punti dove gli ospiti avrebbero guardato. Le facciate lungo la via del corteo erano state imbiancate di fresco e la calce, che sotto quel sole fa presa in un'ora, mandava ancora un odore di cantina bagnata. Dai balconi pendevano drappi azzurri e bianchi di Dalmasca, alternati a quelli verdi di Nabradia. Quel verde i tintori della città non l'avevano mai fatto, e avevano dovuto impararlo in fretta, ogni bottega a modo suo, tanto che lungo la via se ne contavano tre sfumature diverse.
 
-C'era un pensiero che tutti avevano e che pochi dicevano, e si poteva riconoscerlo dal modo in cui la gente abbassava la voce. Al mercato di Muthru, fra un banco di spezie e uno di lame, un mercante di tappeti diceva al vicino che quel matrimonio era la cosa più intelligente che il re avesse fatto in vent'anni. Il vicino annuiva e chiedeva perché. Il mercante si guardava attorno, si chinava, e la parola che diceva era «Archadia», detta piano, come si nomina una malattia in casa di un malato. Poi si raddrizzava e parlava d'altro, del caldo, del prezzo dei petali. Rozarria, invece, la si nominava a voce normale, con una certa speranza, come un cugino ricco che forse un giorno avrebbe aiutato. I due imperi stavano uno a oriente e uno a occidente, e a Rabanastre si capiva quale dei due facesse più paura dal volume con cui lo si diceva.
+Al mercato di Muthru, fra un banco di spezie e uno di lame, un mercante di tappeti diceva al vicino che quel matrimonio era la cosa più intelligente che il re avesse fatto in vent'anni. Il vicino annuiva e chiedeva perché. Il mercante si guardava attorno, si chinava, e la parola che diceva era «Archadia», detta a mezza voce, come in casa di un malato si nomina il suo male, perché lui dall'altra stanza non senta. Poi si raddrizzava e parlava d'altro, del caldo, del prezzo dei petali. Rozarria, invece, la si nominava a voce normale, con una certa speranza, come un cugino ricco che forse un giorno avrebbe aiutato. I due imperi stavano uno a oriente e uno a occidente, e a Rabanastre si capiva quale dei due facesse più paura dal volume con cui lo si nominava.
 
-Sopra la città, nel cielo bianco del mattino, passavano le aeronavi dei mercanti, lente e panciute. Una, più alta delle altre, non portava colori. Andava verso ovest senza fretta. Un ragazzino la indicò al fratello, e il fratello alzò le spalle.
+Sopra la città, nel cielo bianco del mattino, passavano le aeronavi dei mercanti, lente e panciute. Una, più alta delle altre, non portava colori, e andava verso ovest senza fretta. Un ragazzino la indicò al fratello, e il fratello alzò le spalle.
 
 Il ragazzino si chiamava Vaan, aveva quindici anni e quella mattina aveva in tasca una pesca che non era sua. Il fratello si chiamava Reks, ne aveva diciassette, e se ne accorse.
 
-«Rimettila a posto.»
+«Rimettila a posto!»
 
 «Il banco è a tre strade da qui.»
 
-«Allora vai a tre strade da qui.»
+«Allora vai a tre strade da qui!»
 
 «E perdo il corteo per una pesca?» Vaan la tirò fuori, la guardò con rispetto e le diede un morso. «Adesso non posso più rimetterla a posto. Sarebbe peggio.»
 
-Reks lo fissò con l'espressione che i fratelli maggiori riservano ai fratelli minori quando questi hanno ragione per i motivi sbagliati, poi lasciò perdere, perché le trombe avevano cominciato a suonare in fondo alla via e perché era salito sul bordo di una cisterna per vedere meglio, e da lassù vide i cavalieri. Erano in testa al corteo, in armatura leggera, con i mantelli azzurri che il sole rendeva quasi bianchi. Reks li contò. Poi ne indicò uno.
+Reks lo fissò, poi lasciò perdere, perché le trombe avevano cominciato a suonare in fondo alla via. Era salito sul bordo di una cisterna per vedere meglio, e da lassù vide i cavalieri in testa al corteo, in armatura leggera, con i mantelli azzurri che il sole rendeva quasi bianchi. Li contò. Poi ne indicò uno.
 
 «Quello è il capitano Basch.»
 
 «Come fai a saperlo?»
 
-«Lo so.» Reks non lo sapeva affatto con certezza; lo aveva sentito dire alla caserma dove andava a portare le consegne della bottega, e da allora lo sapeva. «È quello che guarda i tetti.»
+«Lo so.» Reks non ne era affatto sicuro: lo aveva sentito dire alla caserma dove andava a portare le consegne della bottega, e tanto gli bastava. «È quello che guarda i tetti.»
 
-Era vero. Fra tutti quegli uomini che sorridevano alla folla, il cavaliere biondo in testa alla scorta destra guardava i tetti, uno per uno, e le finestre aperte, e le mani della gente. Era l'unico che non si divertiva, e lo faceva con tanta serietà che chi lo notava finiva per sentirsi più tranquillo. Vaan lo guardò per due secondi, decise che uno che non sorride a un matrimonio non poteva essere interessante, e tornò alla pesca.
+Era vero: il cavaliere biondo in testa alla scorta destra guardava i tetti, uno per uno, e le finestre aperte, e le mani della gente. Vaan lo guardò per due secondi, decise che uno che non sorride a un matrimonio non poteva essere interessante, e tornò alla pesca. Era matura al punto giusto, e il succo gli colò fino al polso; se lo leccò via mentre i cavalieri finivano di sfilare.
 
-Dietro i cavalieri venivano i chocobo.
+Dietro i cavalieri venivano i chocobo. Le cronache di palazzo giurano che erano dodici, tutti dorati, tutti appaiati per altezza e per tono di piuma. Un venditore di datteri della Città Bassa, molti anni dopo, ne contava otto e ricordava i nomi di ciascuno, perché li aveva nutriti lui nelle stalle reali durante la settimana delle prove. Sulla questione dei numeri lascio che litighino fra loro; sui nomi il venditore di datteri è più credibile, perché nessuna cronaca di palazzo avrebbe chiamato Pancia un uccello della casa reale. I chocobo avevano finimenti di cuoio rosso e campanelli d'argento sotto il becco, e camminavano con quel passo un po' offeso che i chocobo assumono quando li si costringe ad andare piano. La carrozza che tiravano era aperta, bianca e oro, con le ruote alte e un baldacchino di garza, inutile contro il sole, e comodissimo per farsi guardare.
 
-Le cronache di palazzo giurano che erano dodici, tutti dorati, tutti appaiati per altezza e per tono di piuma. Un venditore di datteri della Città Bassa, molti anni dopo, ne contava otto e ricordava i nomi di ciascuno, perché li aveva nutriti lui nelle stalle reali durante la settimana delle prove. Sulla questione dei numeri lascio che litighino fra loro; sui nomi il venditore di datteri è più credibile, perché nessuna cronaca di palazzo avrebbe chiamato Pancia un uccello della casa reale. I chocobo avevano finimenti di cuoio rosso e campanelli d'argento sotto il becco, e camminavano con quel passo un po' offeso che i chocobo assumono quando li si costringe ad andare piano. La carrozza che tiravano era aperta, bianca e oro, con le ruote alte e un baldacchino di garza che non riparava dal sole ma serviva a farsi guardare attraverso.
-
-Ai petali i chocobo non erano preparati. La prima manciata arrivò da un balcone sopra la via dei Tessitori, e Pancia, che stava in seconda fila a sinistra, si fermò di colpo per beccarla. Il chocobo dietro gli finì addosso. Per un lungo istante la carrozza reale di Dalmasca, con gli sposi a bordo, restò immobile in mezzo alla folla, mentre un uccello grande come un cavallo mangiava gelsomino con la gravità di un prelato.
+Ai petali i chocobo non erano preparati. La prima manciata arrivò da un balcone sopra la via dei Tessitori, e Pancia, che stava in seconda fila a sinistra, si fermò di colpo per beccarla. Il chocobo dietro gli finì addosso. La carrozza reale di Dalmasca, con gli sposi a bordo, restò immobile in mezzo alla folla, mentre un uccello grande come un cavallo mangiava gelsomino con la serietà di un vescovo a pranzo.
 
 La folla rise. La principessa, sotto il velo, no.
+
+Sotto il velo faceva caldo, e il mondo le arrivava attraverso la garza come da dietro una tenda: facce, braccia alzate, petali che le si impigliavano nel tessuto e restavano lì, rossi e bianchi, a un dito dagli occhi. Una sposa che ride piace al popolo, lo sapeva; ma se avesse cominciato non avrebbe più smesso, e le istitutrici avrebbero passato la sera a scrivere lettere di scuse a qualcuno.
 
 «Non ridere» disse Ashe senza muovere le labbra.
 
@@ -60,17 +60,17 @@ La folla rise. La principessa, sotto il velo, no.
 
 «Era lunga, per una benedizione.»
 
-«Era una benedizione dettagliata.» Ashe salutò a sinistra con il gesto che le avevano insegnato le istitutrici, la mano a mezz'altezza, il polso morbido, il palmo mai del tutto aperto, perché una principessa saluta e non chiede niente. Aveva diciassette anni ed era bravissima a quel gesto. Lo detestava. «Mi avevano detto che i chocobo erano addestrati.»
+«Era una benedizione dettagliata.» Ashe salutò a sinistra con il gesto che le avevano insegnato le istitutrici, la mano a mezz'altezza, il polso morbido, il palmo mai del tutto aperto. Aveva diciassette anni, era bravissima a quel gesto, e lo detestava. «Mi avevano detto che i chocobo erano addestrati.»
 
 «Lo sono. Sono addestrati a mangiare.»
 
 «Rasler.»
 
-«Ti giuro che lo stalliere mi ha detto: altezza, sono addestratissimi. E io gli ho creduto, perché era il giorno del mio matrimonio e volevo credere a tutti.» Pancia si decise a ripartire, la carrozza diede uno strattone, e Ashe dovette afferrargli il braccio per non scivolare dal sedile. Lui le coprì la mano con la sua e la lasciò lì. «Vedi? Anche questo era previsto. Un piano perfetto.»
+«Ti giuro che lo stalliere mi ha detto: altezza, sono addestratissimi. E io gli ho creduto, perché è il giorno del mio matrimonio e voglio credere a tutti.» Pancia si decise a ripartire, la carrozza diede uno strattone, e Ashe dovette afferrargli il braccio per non scivolare dal sedile. Lui le coprì la mano con la sua, e la lasciò lì. «Vedi? Anche questo era previsto. Un piano perfetto.»
 
-Rasler Heios Nabradia aveva il dono, raro nei principi, di non prendersi sul serio senza per questo smettere di essere preso sul serio dagli altri. Era alto, aveva i capelli quasi bianchi a forza di essere biondi, gli occhi grigi della gente del nord-est e una faccia aperta che invitava alla confidenza, e i soldati di Dalmasca, che lo avevano conosciuto da pochi mesi, lo trattavano già come uno dei loro, cosa che i soldati non fanno con chiunque. Sapeva ascoltare, e con Ashe non fingeva mai di farlo, e lei se n'era accorta fin dalla prima settimana, e lo considerava un segno di grande forza o di grande ingenuità; non aveva ancora deciso quale, e il non saperlo la irritava in un modo che le piaceva.
+Rasler Heios Nabradia era alto, con i capelli quasi bianchi a forza di essere biondi, gli occhi grigi della gente del nord-est e una faccia aperta che invitava alla confidenza. I soldati di Dalmasca lo conoscevano da pochi mesi e lo trattavano già come uno dei loro. Ashe lo punzecchiava dal giorno in cui si erano conosciuti, e lui la lasciava finire, ogni volta, e poi rideva, senza offendersi mai; lei non aveva ancora deciso se fosse sicurezza o ingenuità, e il non saperlo la irritava in un modo che le piaceva.
 
-Lei era un'altra cosa. Ashelia B'nargin Dalmasca, unica erede di re Raminas, era cresciuta in un palazzo dove le si insegnava a essere una regina e a non esserlo ancora, e aveva sviluppato per difesa una lingua che tagliava. Rispondeva prima che la domanda fosse finita. Correggeva gli ambasciatori sulla pronuncia dei loro stessi nomi. Il suo maestro di spada, un veterano che aveva servito sotto suo nonno, diceva che non aveva mai avuto un allievo così rapido e così incapace di aspettare, e lo diceva con orgoglio. Sotto il velo, quella mattina, aveva un'acconciatura che le avevano fatto in tre ore, e la testa le doleva in sei punti precisi, e non lo avrebbe ammesso con nessuno.
+Ashelia B'nargin Dalmasca, unica erede di re Raminas, era cresciuta in un palazzo dove le si insegnava a essere una regina e a non esserlo ancora, e per difendersi si era fatta una lingua estremamente tagliente. Rispondeva prima che la domanda fosse finita. Correggeva gli ambasciatori sulla pronuncia dei loro stessi nomi. Il suo maestro di spada, un veterano che aveva servito sotto suo nonno, diceva che non aveva mai avuto un allievo così rapido e così incapace di aspettare, e lo diceva con orgoglio. Sotto il velo, quella mattina, aveva un'acconciatura che le avevano fatto in tre ore, e la testa le doleva in sei punti precisi, e non lo avrebbe ammesso con nessuno.
 
 «Ho una domanda» disse lei, voltandosi a salutare la via delle Fontane.
 
@@ -80,13 +80,13 @@ Lei era un'altra cosa. Ashelia B'nargin Dalmasca, unica erede di re Raminas, era
 
 «Ce l'ha tuo padre.»
 
-«Lo so dove ce l'ha. Ti ho chiesto se è della misura giusta. Ieri non hai voluto mostrarmelo, e la mia sarta dice che una sposa deve...»
+«Lo so dov'è. Ti ho chiesto se è della misura giusta. Ieri non hai voluto mostrarmelo, e la mia sarta dice che una sposa deve...»
 
-«La tua sarta dice molte cose.» Rasler salutò un soldato di guarnigione che piangeva apertamente, appoggiato alla lancia. «È della misura giusta. L'ho fatta prendere con la massima discrezione.»
+«La tua sarta dice molte cose.» Rasler salutò un soldato di guarnigione che piangeva apertamente, appoggiato alla lancia. «È della misura giusta. L'ho presa io, con la massima discrezione.»
 
 «Come?»
 
-Lui esitò, e fu un errore, perché Ashe conosceva quelle esitazioni.
+Lui esitò.
 
 «Come, Rasler?»
 
@@ -94,27 +94,27 @@ Lui esitò, e fu un errore, perché Ashe conosceva quelle esitazioni.
 
 Lei si voltò verso di lui, dimenticando la folla. «Un mio guanto.»
 
-«La tua cameriera è stata molto collaborativa. Le ho promesso che non te l'avrei detto.»
+«La tua cameriera me ne ha prestato uno. Ho girato un filo attorno all'anulare, ci ho fatto un nodo e l'ho portato all'orafo. Le ho promesso che non te l'avrei detto.»
 
-«Hai fatto misurare il mio dito su un guanto.»
+«Hai misurato il mio dito su un guanto.»
 
 «Era un guanto tuo, non di un'altra. Mi è sembrato un dettaglio importante.»
 
-«I guanti sono più larghi delle dita» disse Ashe, con la pazienza che si usa con i bambini e con i forestieri. «È il loro mestiere. Altrimenti non ci entreresti.»
+«I guanti sono più larghi delle dita» disse Ashe, con la pazienza che si usa con i bambini e con i forestieri. «È il loro mestiere. Altrimenti non ci si entrerebbe.»
 
-Rasler ci pensò. Si vedeva che ci stava pensando davvero, che si stava immaginando un guanto e un dito e il rapporto fra le due cose, e che la conclusione lo coglieva impreparato. «Ah» disse.
+Rasler guardò la mano di lei. «Ah» disse.
 
 «Ah» ripeté lei.
 
 «Be', nella peggiore delle ipotesi non ti stringerà.»
 
-Ashe tenne duro per tre case. Alla quarta, davanti a una fontana dove dei ragazzini si erano arrampicati sulla statua di un antico re per vedere meglio, e uno di loro aveva messo il proprio cappello in testa al re, la risata le sfuggì. Fu breve, alta, del tutto fuori protocollo, e la folla che la sentì cominciò ad applaudire senza sapere perché. Ashe si coprì la bocca con la mano. Rasler la guardava come se avesse vinto una battaglia.
+Ashe tenne duro per tre case. Alla quarta, davanti a una fontana dove dei ragazzini si erano arrampicati sulla statua di un antico re per vedere meglio, e uno di loro aveva messo il proprio cappello in testa al re, la risata le sfuggì. Fu breve, alta, del tutto fuori protocollo, e la folla che la sentì cominciò ad applaudire senza sapere perché. Ashe si coprì la bocca con la mano.
 
 «Ti odio» disse lei dietro le dita.
 
 «Lo so. È un bell'inizio.»
 
-Per un po' salutarono senza parlare. La strada saliva verso la piazza della cattedrale e la folla, lì, era così fitta che la gente sui gradini delle case teneva le braccia alzate per non essere schiacciata contro i muri.
+Per un po' salutarono senza parlare. La strada saliva verso la piazza della cattedrale e la folla, lì, era così fitta che chi stava sui gradini delle case aveva le spalle schiacciate contro le porte e le braccia alzate, perché giù non c'era più posto nemmeno per quelle.
 
 «Posso farti io una domanda?» chiese Rasler.
 
@@ -134,7 +134,9 @@ Per un po' salutarono senza parlare. La strada saliva verso la piazza della catt
 
 «Per tutti e due, credo.» Lo disse in fretta, prima che lei potesse rispondere, e poi aggiunse, più piano: «So come si fanno questi matrimoni, Ashe. Me lo hanno spiegato da quando avevo otto anni. Una mappa su un tavolo, un confine troppo lungo per un esercito solo, due vecchi che si guardano e pensano la stessa cosa. Lo so che siamo una frontiera.» Si girò a salutare il lato opposto, così che lei non potesse vedergli la faccia mentre diceva il resto. «Volevo solo che sapessi che io, a quella frontiera, ci sarei venuto lo stesso.»
 
-Ashe non rispose subito. Era il genere di frase che a corte si dice spesso e che non significa niente, e lei aveva imparato a sentirla arrivare da lontano, come si sente l'odore della pioggia. Questa volta non l'aveva sentita arrivare. La carrozza attraversò una striscia d'ombra sotto un arco, e per due passi di chocobo nessuno li vide. Lei gli prese la mano e la strinse, forte, con le dita che le avevano insegnato a tenere morbide.
+Ashe non rispose. Le tornò in mente, senza nessuna ragione, il giorno in cui lui era arrivato a Rabanastre la prima volta, con la polvere della strada sugli stivali e un regalo sbagliato: un libro di poesie nabradiane, rilegato in verde, che lei aveva ringraziato con freddezza e messo in un cassetto. Da un mese lo teneva sul comodino. Ne aveva letto metà. Non glielo aveva detto, e decise in quel momento che non glielo avrebbe detto ancora per un pezzo.
+
+La carrozza attraversò una striscia d'ombra sotto un arco, e per due passi di chocobo nessuno li vide. Ashe gli prese la mano e la strinse, forte, con le dita che le avevano insegnato a tenere morbide.
 
 «Se lo ripeti in pubblico, ti faccio esiliare» disse.
 
@@ -144,7 +146,7 @@ Ashe non rispose subito. Era il genere di frase che a corte si dice spesso e che
 
 «Ci torno volentieri, se vieni anche tu.» Poi, senza cambiare tono: «Mio padre ti manda i suoi rispetti. Ti scriverà.»
 
-Lei sapeva che il re di Nabradia non era venuto. Lo sapeva tutta la corte, ed era stato spiegato con una lettera piena di gotta e di cortesia, una lettera che diceva tutto tranne il motivo vero, e il motivo vero erano i reggimenti archadiani accampati da due mesi sull'altra riva del confine orientale, che facevano manovre e non attraversavano. Un re non lascia la capitale quando i vicini fanno manovre. Ashe lo sapeva. Sapeva anche che Rasler aveva letto quella lettera tre volte, la sera prima, e che l'aveva poi bruciata nel braciere della sua stanza perché nessun cameriere potesse leggerla.
+Lei sapeva che il re di Nabradia non era venuto. Lo sapeva tutta la corte, ed era stato spiegato con una lettera piena di gotta e di cortesia, una lettera che diceva tutto tranne il motivo vero; e il motivo vero erano i reggimenti archadiani accampati da due mesi sull'altra riva del confine orientale, che facevano manovre, e non attraversavano. Un re non lascia la capitale quando i vicini fanno manovre. Sapeva anche che Rasler aveva letto quella lettera tre volte, la sera prima, e che l'aveva poi bruciata nel braciere della sua stanza perché nessun cameriere potesse leggerla.
 
 «Gli risponderò» disse lei.
 
@@ -154,27 +156,23 @@ La carrozza uscì dall'arco nella luce della piazza, e la cattedrale si alzò da
 
 ---
 
-Dentro faceva fresco. È la prima cosa che ricordano tutti quelli che c'erano, e la ricordano con una gratitudine che sopravvive a tutto il resto: la cattedrale di Rabanastre ha muri spessi tre passi, costruiti da gente che conosceva il deserto, e chi ci entrava a mezzogiorno di primavera sentiva il sudore asciugarsi sulla schiena come se qualcuno avesse aperto una porta su un altro paese. L'aria sapeva di cera, di incenso di resina e di pietra lavata. La luce cadeva dall'alto in colonne storte, piene di polvere d'oro, e i vetri colorati delle finestre gettavano sul pavimento macchie azzurre e rosse che si spostavano piano durante la cerimonia, tanto che alla fine il manto del vescovo era passato dal blu al viola senza che lui facesse un passo.
+Dentro faceva fresco. La cattedrale di Rabanastre ha muri spessi tre passi, costruiti da gente che conosceva il deserto, e chi ci entrava a mezzogiorno di primavera sentiva il sudore asciugarsi sulla schiena come se qualcuno avesse aperto una porta su un altro paese. I vetri colorati delle finestre gettavano sul pavimento macchie azzurre e rosse che si spostavano piano durante la cerimonia, tanto che alla fine il manto del vescovo era passato dal blu al viola senza che lui facesse un passo.
 
-Nei banchi davanti sedeva la nobiltà dei due regni, in quelli dietro i mercanti ricchi; gli ambasciatori stavano in una tribuna laterale, ciascuno con il suo seguito. Quello di Rozarria aveva portato un'intera famiglia di cugini e applaudiva più di tutti. Quello di Archadia era venuto da solo, con un segretario. Era un uomo magro, educatissimo, vestito di grigio scuro, che si alzava quando bisognava alzarsi un istante prima degli altri, perché aveva studiato il rito per non sbagliarlo, e guardava la navata con l'interesse cortese di un architetto in visita.
+Nei banchi davanti sedeva la nobiltà dei due regni, in quelli dietro i mercanti ricchi; gli ambasciatori stavano in una tribuna laterale, ciascuno con il suo seguito. Quello di Rozarria aveva portato un'intera famiglia di cugini e applaudiva più di tutti. Quello di Archadia era venuto da solo, con un segretario. Era un uomo magro, educatissimo, vestito di grigio scuro, che a ogni momento del rito si alzava un istante prima degli altri, perché lo aveva studiato per non sbagliarlo, e guardava la navata con l'interesse cortese di un architetto in visita.
 
-Re Raminas aspettava all'altare.
+Re Raminas aspettava all'altare. Aveva sessantasei anni e li mostrava tutti, con le spalle ancora larghe ma un poco curve. Era calvo da molto tempo, e la barba bianca e curata gli stava sotto un diadema d'oro da cui scendevano ai lati del volto due trecce di nappe. Sua figlia aveva preso gli occhi azzurri dalla madre, e da lui il modo di guardare la gente dritto in faccia. Gli occhi del re erano bruni, e più lenti di quelli di lei a giudicare, più rapidi a perdonare. Raminas B'nargin Dalmasca aveva governato per trent'anni un regno che stava esattamente in mezzo a due eserciti più grandi del suo, e lo aveva tenuto in piedi a forza di trattati, di matrimoni, di pazienza e di quella forma particolare di coraggio che consiste nel non fare niente di vistoso. Il popolo lo chiamava il re buono. Lui sapeva che era un modo gentile per dire il re debole, e non se ne offendeva.
 
-Aveva sessantasei anni e li mostrava tutti. Era stato un uomo robusto e lo si capiva ancora dalle spalle, che però si erano un poco chiuse, come quelle di chi ha portato per molto tempo qualcosa di pesante senza poterlo posare. Era calvo da molto tempo, e la barba bianca e curata gli stava sotto un diadema d'oro da cui scendevano ai lati del volto due trecce di nappe. Sua figlia aveva preso gli occhi azzurri dalla madre; da lui aveva preso il modo di guardare. I suoi erano bruni, più lenti a giudicare e più rapidi a perdonare. Raminas B'nargin Dalmasca aveva governato per trent'anni un regno che stava esattamente in mezzo a due eserciti più grandi del suo, e lo aveva tenuto in piedi a forza di trattati, di matrimoni, di pazienza e di quella forma particolare di coraggio che consiste nel non fare niente di vistoso. Il popolo lo chiamava il re buono. Lui sapeva che era un modo gentile per dire il re debole, e non se ne offendeva, perché un re debole che conserva la pace vale più di un re forte che la perde, e perché in fondo, quel giorno, aveva l'unica cosa che gli importasse davvero.
+Quando sua figlia entrò dalla navata al braccio di Rasler, la faccia di Raminas si aprì, e per un momento il re di Dalmasca si dimenticò di essere guardato.
 
-Quando sua figlia entrò dalla navata al braccio di Rasler, la sua faccia si aprì. Tutti lo videro. Fu l'unico momento della giornata in cui il re di Dalmasca dimenticò di essere guardato.
+La cerimonia fu lunga. Il vescovo di Rabanastre, un vecchio con la voce più grande del corpo, lesse le genealogie delle due case fino al terzo re di ciascuna, e a metà della seconda genealogia un nobile nabradiano nei primi banchi cominciò a dormire con molta dignità. Ashe recitò la sua parte senza un'esitazione. Rasler si perse una volta nella formula del giuramento, quella con il congiuntivo che a Dalmasca nessuno usa più da due secoli, e lei gliela suggerì in un sussurro che arrivò fino al terzo banco, e il terzo banco finse di non aver sentito.
 
-La cerimonia fu lunga, come devono essere le cerimonie che si vogliono ricordare. Il vescovo di Rabanastre, un vecchio con la voce più grande del corpo, lesse le genealogie delle due case fino al terzo re di ciascuna, e a metà della seconda genealogia un nobile nabradiano nei primi banchi cominciò a dormire con molta dignità. Ashe recitò la sua parte senza un'esitazione. Rasler si perse una volta nella formula del giuramento, quella con il congiuntivo che a Dalmasca nessuno usa più da due secoli, e lei gliela suggerì in un sussurro che arrivò fino al terzo banco, e il terzo banco finse di non aver sentito.
+Al momento degli anelli il re aprì una piccola scatola di legno scuro e la tese a Rasler, che ne tolse la fede e la sollevò perché i sacerdoti la benedicessero. Era una fascia sottile, larga quanto un chicco di riso, fatta di due fili di metallo ritorti l'uno sull'altro: uno d'oro rosso, l'oro delle miniere di Dalmasca che ha un colore caldo, quasi di rame, e l'altro d'argento bianco di Nabradia, che i gioiellieri del nord-est lavorano da secoli e che non annerisce. I due fili giravano attorno al dito come due persone che camminano sottobraccio, e dove si incrociavano l'orafo aveva lasciato piccole tacche, una ogni mezzo giro, perché la luce le prendesse. Non c'erano pietre e l'interno era liscio, come aveva chiesto Rasler: le parole, aveva detto all'orafo, ce le avrebbero messe loro, col tempo. L'orafo, che era un uomo pratico, aveva pensato che volesse risparmiare sull'incisione.
 
-Poi venne il momento degli anelli.
+Rasler prese la mano sinistra di Ashe e infilò l'anello. Andò giù senza fatica, fino alla base del dito e poi un po' oltre, e si fermò solo perché c'era la mano. Era largo di una buona misura. Largo come un guanto.
 
-Il re aprì una piccola scatola di legno scuro, e la tese a Rasler, e Rasler ne tolse la fede e la sollevò perché i sacerdoti la benedicessero. Chi era nei primi banchi la vide bene, e vale la pena di vederla bene anche noi. Era una fascia sottile, larga quanto un chicco di riso, fatta di due fili di metallo ritorti l'uno sull'altro: uno d'oro rosso, l'oro delle miniere di Dalmasca che ha un colore caldo, quasi di rame, e l'altro d'argento bianco di Nabradia, che i gioiellieri del nord-est lavorano da secoli e che non annerisce. I due fili giravano attorno al dito come due persone che camminano sottobraccio, e dove si incrociavano l'orafo aveva lasciato piccole tacche, una ogni mezzo giro, perché la luce le prendesse. Non c'erano pietre. L'interno era liscio. Rasler aveva chiesto che fosse liscio: le parole, aveva detto all'orafo, ce le avrebbero messe loro, col tempo. L'orafo, che era un uomo pratico, aveva pensato che volesse risparmiare sull'incisione.
+Ashe lo sentì girare quando mosse le dita, leggero, freddo per un istante e poi caldo come il resto della mano.
 
-Rasler prese la mano sinistra di Ashe e infilò l'anello.
-
-Andò giù senza fatica. Andò giù fino alla base del dito, e poi un po' oltre, e si fermò solo perché c'era la mano. Era largo di una buona misura. Era largo come un guanto.
-
-Ashe abbassò gli occhi sull'anello, e poi li alzò su Rasler, e lui la guardava con una tale espressione di colpa e di trionfo insieme che lei dovette mordersi l'interno della guancia, forte, davanti a cinquecento persone e a un vescovo che aveva appena alzato le braccia per la benedizione. Le tremavano le spalle. Dai banchi la si credette commossa. Qualche dama si asciugò gli occhi per solidarietà.
+Abbassò gli occhi sull'anello, e poi li alzò su Rasler, e lui la guardava con una tale espressione di colpa e di trionfo insieme che lei dovette mordersi l'interno della guancia, forte, davanti a cinquecento persone e a un vescovo che aveva appena alzato le braccia per la benedizione. Le tremavano le spalle. Dai banchi la si credette commossa. Qualche dama si asciugò gli occhi per solidarietà.
 
 Il vescovo pronunciò la formula con tutta la voce che aveva, e la cattedrale gliela restituì da ogni cupola.
 
@@ -184,13 +182,13 @@ Il vescovo pronunciò la formula con tutta la voce che aveva, e la cattedrale gl
 
 Rasler sollevò il velo. Il bacio fu breve e rituale, come vuole la liturgia di Dalmasca, ma quando si staccò lui le disse qualcosa a bassissima voce, e lei rise, questa volta senza riuscire a fermarsi in tempo, una risata soffocata nel colletto di lui. I testimoni nei primi banchi non sono d'accordo su che cosa le avesse detto. Il nobile nabradiano che dormiva, svegliato di soprassalto dal coro, sostenne fino alla vecchiaia che si trattava di un verso di poesia antica. È più probabile che fosse una frase sui guanti.
 
-Raminas li guardò uscire per primi, lungo la navata, nel rumore delle campane che erano ripartite e dei petali che entravano dalle porte spalancate come neve rossa. Si appoggiò un momento al bordo dell'altare. Chi gli stava vicino pensò che fosse stanco. Era anche quello.
+Raminas li guardò uscire per primi, lungo la navata, nel rumore delle campane che erano ripartite e dei petali che entravano dalle porte spalancate come neve rossa. Si appoggiò al bordo dell'altare. Sua moglie aveva percorso quella stessa navata trent'anni prima, con un vestito troppo pesante per la stagione e una fretta che le aveva fatto perdere una scarpa sul terzo gradino; lui l'aveva raccolta, e il vescovo di allora aveva fatto finta di niente. Pensò che a lei sarebbe piaciuto vedere la figlia ridere sotto il velo, davanti al vescovo.
 
 ---
 
 Il banchetto si tenne nel cortile grande del palazzo, sotto tende di lino tirate fra le colonne, e durò fino al tramonto, perché a Rabanastre di giorno nessuno mangia volentieri e tutti mangiano molto appena il sole cala. C'erano agnelli arrostiti con il cumino e i datteri, focacce dei forni della Città Bassa, che il re aveva voluto al posto dei pani di corte per una questione di principio e di sapore, formaggi di capra delle Pianure di Giza in forme grandi come scudi. Il vino veniva da Nabradia, era scuro e un po' aspro, e i nobili dalmaschi lo bevevano facendo complimenti che non pensavano, e i nobili nabradiani lo bevevano ascoltando i complimenti con soddisfazione, e alla terza coppa le due nobiltà avevano smesso di distinguersi.
 
-L'ambasciatore di Archadia si avvicinò agli sposi a metà banchetto, con il segretario un passo indietro e un dono fra le mani. Era una coppia di calici di cristallo, così sottili che la luce delle lanterne ci passava attraverso senza quasi piegarsi, e sul piede di ciascuno era inciso lo stemma della casa imperiale. L'ambasciatore li presentò con un discorso breve e perfetto, in un dalmasco senza accento. Disse che l'imperatore Gramis inviava ai giovani sposi l'augurio di un'unione lunga e serena, e che il cristallo era stato scelto perché è la materia che più somiglia alla pace: trasparente, preziosa e, purtroppo, fragile. Sorrise dicendolo. Poi si inchinò, e prima di ritirarsi si complimentò con Rasler per il coraggio di suo padre, che restava a Nabudis in tempi così inquieti. Rasler lo ringraziò con la stessa cortesia. Solo Ashe, che gli teneva la mano sotto la tavola, sentì le sue dita diventare di pietra.
+L'ambasciatore di Archadia si avvicinò agli sposi a metà banchetto, con il segretario un passo indietro e un dono fra le mani. Era una coppia di calici di cristallo, così sottili che la luce delle lanterne ci passava attraverso senza quasi piegarsi, e sul piede di ciascuno era inciso lo stemma della casa imperiale. L'ambasciatore li presentò con un discorso breve e perfetto, senza nessun accento. Disse che l'imperatore Gramis inviava ai giovani sposi l'augurio di un'unione lunga e serena, e che il cristallo era stato scelto perché è la materia che più somiglia alla pace: trasparente, preziosa e, purtroppo, fragile. Poi si inchinò, e prima di ritirarsi si complimentò con Rasler per il coraggio di suo padre, che restava a Nabudis in tempi così inquieti. Rasler lo ringraziò con la stessa cortesia. Solo Ashe, che gli teneva la mano sotto la tavola, sentì le sue dita diventare di pietra.
 
 «Ha detto fragile» disse lei, quando l'ambasciatore se ne fu andato.
 
@@ -198,29 +196,27 @@ L'ambasciatore di Archadia si avvicinò agli sposi a metà banchetto, con il seg
 
 «Ha detto fragile a un matrimonio.»
 
-«È un archadiano educato. Gli archadiani educati ti dicono sempre esattamente cosa intendono fare. È la loro forma di galanteria.» Rasler prese uno dei calici, lo guardò controluce, lo rimise giù con grande cura. «Li useremo per l'acqua. Così, se si rompono, non perdiamo il vino.»
+«E si è premurato di ricordarmi dov'è mio padre.» Rasler prese uno dei calici, lo guardò controluce, lo rimise giù con grande cura. «Li useremo per l'acqua. Così, se si rompono, non perdiamo il vino.»
 
-Raminas, che sedeva alla loro destra e aveva sentito tutto, si chinò verso di loro con una coppa in mano. Parlava piano, come parlava sempre quando diceva cose vere.
+Raminas, che sedeva alla loro destra e aveva sentito tutto, si chinò verso di loro con una coppa in mano.
 
-«Ad Archades ci considerano un ponte» disse. «Un buon ponte, utile, che porta da una riva importante a un'altra. Su un ponte nessuno si ferma. Nessuno ci pianta un giardino.» Bevve un sorso, guardò la figlia, guardò il genero. «Voi due siete un giardino. Non so se basterà. Ma è la cosa più bella che abbia piantato in trent'anni.»
+«Ad Archades ci considerano un ponte» disse. «Utile per passare da una riva all'altra. Su un ponte nessuno pianta un giardino.» Bevve un sorso e guardò la figlia, poi il genero. «Io ci ho provato lo stesso.»
 
-Ashe aprì la bocca per rispondere qualcosa di pungente, perché era quello che faceva quando qualcosa la toccava troppo, e non le venne niente. Gli prese la mano con quella libera. Lui gliela strinse, e poi tornò a sedersi dritto, a fare il re.
+Ashe gli prese la mano con quella libera. Lui gliela strinse, e poi tornò a sedersi dritto, a fare il re.
 
-Il dispaccio arrivò poco dopo.
+Il dispaccio arrivò poco dopo. Lo portò un ufficiale di cancelleria in tenuta da viaggio, ancora impolverato fino alle ginocchia, che attraversò il cortile rasente il muro, come chi spera di passare inosservato. Fra cento invitati seduti a tavola, un uomo che sgattaiola lungo un muro è la cosa più interessante del banchetto: si voltarono tutti. Si inginocchiò accanto al re e gli consegnò un cilindro di cuoio con il sigillo della guarnigione orientale. Raminas spezzò il sigillo, lesse il foglio una volta, lo arrotolò di nuovo e lo infilò nella manica. Disse qualcosa all'ufficiale, che si rialzò e se ne andò com'era venuto. Poi il re sorrise alla tavola e chiese che portassero la frutta.
 
-Lo portò un ufficiale di cancelleria in tenuta da viaggio, ancora impolverato fino alle ginocchia, che attraversò il cortile camminando lungo il muro per non dare nell'occhio, e che diede quindi nell'occhio a tutti. Si inginocchiò accanto al re e gli consegnò un cilindro di cuoio con il sigillo spezzato della guarnigione orientale. Raminas lo aprì, lesse il foglio una volta, lo arrotolò di nuovo e lo infilò nella manica. Disse qualcosa all'ufficiale, che si rialzò e se ne andò com'era venuto. Poi il re sorrise alla tavola e chiese che portassero la frutta.
+Ashe vide che suo padre, da quel momento, non toccò più la coppa, e che la mano sinistra gli tornava ogni tanto alla manica, a controllare che il foglio fosse ancora lì. Le venne una voglia infantile di alzarsi, di andare a sedersi accanto a lui e di leggergli il foglio da sopra la spalla, come faceva da bambina con le lettere che arrivavano nello studio; lui allora fingeva di non accorgersene e girava la pagina un po' più lentamente. Rimase dov'era. Era una donna sposata da sei ore, e accanto aveva un marito che le stava raccontando dei chocobo di suo nonno.
 
-Nessuno fece domande. Chi siede alla tavola di un re impara presto che certe pergamene non esistono finché lui non decide che esistano. Ma Ashe vide che suo padre, da quel momento, non toccò più la coppa, e che la mano sinistra gli tornava ogni tanto alla manica, a controllare che il foglio fosse ancora lì.
+Il sole calò, e accesero le lanterne di carta, centinaia, appese ai fili tesi fra le colonne, e il cortile diventò arancione. I liutisti lasciarono posto ai tamburi, e i tamburi a una danza della Città Bassa che le dame di corte non conoscevano e che impararono in fretta, ridendo, togliendosi le scarpe quando nessuno guardava.
 
-Il sole calò. Accesero le lanterne di carta, centinaia, appese ai fili tesi fra le colonne, e il cortile diventò arancione. I liutisti lasciarono posto ai tamburi, e i tamburi a una danza della Città Bassa che le dame di corte non conoscevano e che impararono in fretta, ridendo, togliendosi le scarpe quando nessuno guardava. Rasler trascinò Ashe in mezzo al cortile, e lei disse che non sapeva quella danza, e lui disse che neanche lui, e la ballarono malissimo, girando dalla parte sbagliata, finché una cuoca anziana uscita dalle cucine con il grembiule ancora addosso non li prese per le braccia e non mostrò loro come si faceva, davanti a tutta la nobiltà dei due regni, e nessuno osò ridere, e alla fine risero tutti.
+Rasler trascinò Ashe in mezzo al cortile, e lei disse che non sapeva quella danza, e lui disse che neanche lui, e la ballarono malissimo, girando dalla parte sbagliata, finché una cuoca anziana uscita dalle cucine con il grembiule ancora addosso non li prese per le braccia e non mostrò loro come si faceva, davanti a tutta la nobiltà dei due regni. Nessuno osò ridere, e alla fine risero tutti.
 
-Quando la danza finì, il re si alzò dal suo tavolo. Lo fece senza fretta, con una mano sul bordo, e attraversò il cortile fra gli ospiti che gli aprivano un varco. Si fermò davanti alla figlia e le fece un piccolo inchino, da cavaliere di provincia.
+Quando la danza finì, il re si alzò dal suo tavolo appoggiandosi con una mano al bordo e attraversò il cortile fra gli ospiti che gli aprivano un varco. Si fermò davanti alla figlia e le fece un piccolo inchino, da cavaliere di provincia.
 
-«Una sola» disse. «Poi te lo restituisco.»
+«Una sola» disse al genero. «Poi te la restituisco.»
 
-Rasler cedette la mano della sposa con una riverenza esagerata. I tamburi, che conoscevano il loro mestiere, cambiarono passo. Era una danza lenta di Dalmasca, di quelle che si ballano a un braccio di distanza, con i palmi che si sfiorano e i piedi che fanno poco. Raminas l'aveva insegnata alla figlia quando lei gli arrivava alla cintura, nella sala del trono vuota, con i ritratti degli antenati per pubblico. Lei gli pestava i piedi, e lui diceva che anche il bisnonno, quello col naso grande, li aveva pestati a qualcuno.
-
-Ballavano bene, loro due. Nel cortile nessuno lo sapeva, perché non lo avevano mai fatto davanti a qualcuno.
+Rasler cedette la mano della sposa con una riverenza esagerata. I tamburieri, che conoscevano il loro mestiere, cambiarono passo. Era una danza lenta di Dalmasca, di quelle che si ballano a un braccio di distanza, con i palmi che si sfiorano e i piedi che fanno poco. Raminas l'aveva insegnata alla figlia quando lei gli arrivava alla cintura, nella sala del trono vuota, con i ritratti degli antenati per pubblico. Lei gli pestava i piedi, e lui diceva che anche il bisnonno, quello col naso grande, li aveva pestati a qualcuno. La mano di suo padre era asciutta e calda, e sapeva di cera da sigillo. Ballavano bene, loro due, e nel cortile nessuno lo sapeva: non lo avevano mai fatto davanti a qualcuno.
 
 «Cosa c'era nel cilindro?» chiese lei al secondo giro.
 
@@ -228,7 +224,7 @@ Ballavano bene, loro due. Nel cortile nessuno lo sapeva, perché non lo avevano 
 
 «Padre.»
 
-«La lettera di un comandante preoccupato. I comandanti si preoccupano: li paghiamo per questo.» La fece girare sotto il braccio, piano, con la cura di chi sa che l'altra conosce già il passo. «Stanotte non è una notte per le lettere. Ne arriveranno altre. Arrivano sempre.»
+«La lettera di un comandante preoccupato. I comandanti si preoccupano: li paghiamo per questo.» La fece girare sotto il braccio, piano. «Stanotte non è una notte per le lettere. Ne arriveranno altre.»
 
 Al giro successivo Ashe sentì l'anello scivolare. La mano era aperta contro quella del padre, e il cerchio d'oro e d'argento le corse fino alla nocca e restò lì per un respiro, in bilico, come una moneta sul bordo di un tavolo. Lei chiuse la mano di scatto. L'anello tornò al suo posto, dentro il pugno.
 
@@ -242,30 +238,27 @@ Raminas guardò il pugno, poi la figlia.
 
 La danza finì. Raminas le baciò la fronte, come quando era piccola e nessuno guardava, e la riconsegnò a Rasler con la stessa cerimonia con cui l'aveva presa. Poi tornò al suo tavolo. Camminava un poco più adagio di come era venuto.
 
-Rasler guardò il pugno chiuso e capì senza bisogno di domande.
+Rasler guardò il pugno chiuso, e capì.
 
-«Domani lo facciamo stringere» disse. «Te lo prometto. Il tuo capitano della scorta conosce un orafo onesto in via dei Calderai. A quanto pare, quell'uomo conosce un orafo onesto in ogni città. Domani, appena apre la bottega.»
+«Domani lo facciamo stringere» disse. «Te lo prometto. Domani, appena apre la bottega.»
 
 «Non domani.» Ashe tenne la mano sinistra a pugno, con l'anello dentro, stretta contro il fianco. «Domani c'è il ricevimento dei corpi di guardia, e dopodomani il tempio, e poi le udienze. Fra una settimana.»
 
-«Fra una settimana, allora.»
+«Fra una settimana, allora. Intanto, se vuoi, lo tengo io.»
 
-«E fino ad allora lo tengo io.» Gli porse la mano destra, quella libera, per riprendere la danza. «Così. Non me lo perdo più.»
+«No. Lo tengo io.» Gli porse la mano destra, quella libera, per riprendere la danza. «Così. Non me lo perdo più.»
 
-Rasler rise, e la riportò in mezzo al cortile.
+Rasler rise, e la riportò in mezzo al cortile. E Ashe ballò il resto della notte con il pugno chiuso, salutando gli ospiti con l'altra mano, accettando con l'altra mano i complimenti delle dame e gli auguri dei cavalieri e i baci dei vecchi zii nabradiani, mentre la sinistra restava serrata attorno a quel cerchio d'oro e d'argento che le stava largo. Le lanterne bruciavano. La città, di là dal muro, cantava ancora.
 
-E ballò il resto della notte con il pugno chiuso, salutando gli ospiti con l'altra mano, ridendo con l'altra mano, accettando i complimenti delle dame e gli auguri dei cavalieri e i baci dei vecchi zii nabradiani con l'altra mano, mentre la sinistra restava serrata attorno a quel cerchio d'oro e d'argento che le stava largo. Le lanterne bruciavano. La città, di là dal muro, cantava ancora.
-
-In fondo al cortile, al tavolo del re, Raminas aveva tirato fuori il dispaccio dalla manica e lo stava leggendo per la seconda volta, alla luce di una lanterna, con la coppa piena davanti e le labbra che si muovevano piano, come quelle di chi conta.
-
+In fondo al cortile, al tavolo del re, Raminas aveva tirato fuori il dispaccio dalla manica e lo stava leggendo per la seconda volta, alla luce di una lanterna, con la coppa piena davanti, e le labbra che si muovevano piano, come quelle di chi conta.
 
 ## 2. La barriera di Nalbina
 
-Sul grande tavolo della sala del consiglio c'era una mappa di Ivalice dipinta su pelle di capra, e sopra la mappa c'erano i pesi. Erano piccoli cilindri d'ottone, ciascuno con un'insegna incisa sulla testa, e servivano a segnare dove stavano gli eserciti; li aveva fatti fare il nonno di Raminas, che amava le cose precise, e da allora nessuno aveva avuto il coraggio di sostituirli con qualcosa di più moderno. Quelli di Dalmasca erano lucidi di mani. Quello di Nabradia, che negli ultimi mesi i consiglieri avevano spostato avanti e indietro lungo il confine orientale a ogni dispaccio, era il più lucido di tutti. Quelli di Archadia erano undici, ed erano opachi, perché nessuno li toccava volentieri.
+Sul grande tavolo della sala del consiglio c'era una mappa di Ivalice dipinta su pelle di capra, e sopra la mappa c'erano i pesi. Erano piccoli cilindri d'ottone, ciascuno con un'insegna incisa sulla testa, e servivano a segnare dove stavano gli eserciti; li aveva fatti fare il nonno di Raminas, che amava le cose precise, e da allora nessuno aveva avuto il coraggio di sostituirli con qualcosa di più moderno. Quelli di Dalmasca erano lucidi di mani. Quello di Nabradia, che negli ultimi mesi i consiglieri avevano spostato avanti e indietro lungo il confine orientale a ogni dispaccio, era il più lucido di tutti. Quelli di Archadia erano undici, e restavano opachi per quanto li spostassero. Forse era l'ottone, che veniva da un'altra fusione. Forse erano le mani, che li toccavano malvolentieri. A palazzo nessuno se l'era mai chiesto davvero.
 
-Sei giorni dopo le nozze, poco prima dell'alba, il re li stava guardando da un'ora.
+Sei giorni dopo le nozze, a notte fonda, il re li stava guardando da un'ora.
 
-Intorno al tavolo c'erano gli uomini che contavano. Il cancelliere Halvor, magro e grigio, che aveva servito sotto due re e parlava come se tenesse il conto delle parole. Il tesoriere, che si chiamava Ostram e aveva le mani sempre unte d'inchiostro. Il maresciallo delle guarnigioni, un vecchio con la voce rovinata da quarant'anni di ordini gridati. Il capitano Vossler York Azelas, alto, scuro, con la barba corta e l'abitudine di stare in piedi quando gli altri sedevano. Rasler, in fondo, con la giubba slacciata e gli occhi rossi di chi ha dormito poco per ragioni che non riguardavano il sonno. Il dispaccio delle nozze, quello che il re aveva tenuto nella manica tutta la sera, era aperto sul tavolo, fermato agli angoli da quattro pesi archadiani.
+Intorno al tavolo c'erano gli uomini che contavano. Il cancelliere Halvor, magro e grigio, che aveva servito sotto due re e parlava come se le parole fossero razionate. Il tesoriere, che si chiamava Ostram e aveva le mani sempre macchiate d'inchiostro. Il maresciallo delle guarnigioni, un vecchio con la voce rovinata da quarant'anni di ordini gridati. Il capitano Vossler York Azelas, alto, scuro, con la barba corta e l'abitudine di stare in piedi quando gli altri sedevano. Rasler, in fondo, con la giubba slacciata e gli occhi rossi: da sei notti dormiva poco, per ragioni che non riguardavano il sonno. Il dispaccio delle nozze, quello che il re aveva tenuto nella manica tutta la sera, era aperto sul tavolo, fermato agli angoli da quattro pesi archadiani.
 
 «Diciamolo con chiarezza» stava dicendo il maresciallo. «Se attaccano per terra, Nalbina regge. Regge un mese, due, quanto vogliamo. Se attaccano per aria...»
 
@@ -283,59 +276,59 @@ Tutti si voltarono. Ostram arrossì fino alle orecchie, ma continuò.
 
 «Ho solo detto Rozarria. Se scrivessimo oggi a Rozarria...»
 
-«Rozarria è a un mese di viaggio, e quando arriva la risposta si apre con un "considerata la delicatezza del momento"» disse il cancelliere, senza alzare gli occhi. «Conosco lo stile. Ho conservato le loro lettere degli ultimi vent'anni. Sono bellissime.»
+«Una lettera per Rozarria ci mette una settimana ad arrivare, e la risposta un mese, perché a Rozarria la fretta la considerano una mancanza di stile. E si apre sempre con un "considerata la delicatezza del momento"» disse il cancelliere, raddrizzando un foglio che era già dritto. «Conosco lo stile. Ho conservato le loro lettere degli ultimi vent'anni. Sono bellissime.»
 
 «Allora trattiamo con Archadia.»
 
 «Con che cosa, Ostram? Con il grano della dote?»
 
-Il tesoriere aprì la bocca, la richiuse, e guardò Rasler, che fino a quel punto non aveva detto niente e che sorrise appena, per gentilezza. Era la prima volta in sei giorni che qualcuno, in quella sala, nominava la dote senza imbarazzo. Raminas sollevò una mano, e tutti tacquero.
+Il tesoriere aprì la bocca, la richiuse, e guardò Rasler. Il principe, che fino a quel punto non aveva detto niente, sorrise appena, per gentilezza. Era la prima volta in sei giorni che qualcuno, in quella sala, nominava la dote senza imbarazzo. Raminas sollevò una mano, e tutti tacquero.
 
 «Ostram ha ragione su una cosa» disse il re. «Archadia tratta. Tratta sempre. È il suo modo di fare la guerra senza pagarla.» Prese uno dei pesi archadiani, lo soppesò, lo rimise sul dispaccio. «Ma tratta dopo. Non prima.»
 
 Le porte si aprirono di colpo.
 
-Basch fon Ronsenburg entrò senza farsi annunciare, cosa che non aveva mai fatto e che nessuno, nella sala, gli aveva mai visto fare. Era sporco fino alla cintura. Aveva la barba di due giorni e la polvere del deserto a est di Dalmasca nelle pieghe del mantello, e portava in mano un cilindro di cuoio come quello delle nozze, ma con il sigillo intatto, perché non aveva voluto aprirlo prima di arrivare. Si inginocchiò davanti al re. Poi si rialzò, perché il re gli fece segno, e lo disse.
+Basch fon Ronsenburg entrò senza farsi annunciare, e nessuno, in quella sala, gliel'aveva mai visto fare. Era sporco fino alla cintura. Aveva la barba di due giorni e la polvere del deserto a est di Dalmasca nelle pieghe del mantello, e portava in mano un cilindro di cuoio come quello delle nozze, ma con il sigillo intatto, perché non aveva voluto aprirlo prima di arrivare. Si inginocchiò davanti al re. Poi si rialzò, perché il re gli fece segno, e lo disse.
 
 «Nabudis è caduta, maestà.»
 
-Nessuno si mosse. Il maresciallo fece un rumore con la gola che non era una parola.
+Il maresciallo fece con la gola il rumore che faceva prima di gridare un ordine, e poi restò a bocca aperta, senza l'ordine.
 
-«È impossibile» disse Raminas. Lo disse piano, senza incredulità, come si dice una cosa che si sa già vera e che si vorrebbe controllare un'ultima volta. «Nabudis ha mura doppie. Ha la guardia reale e tutta la cavalleria del nord. L'ultimo dispaccio diceva che gli archadiani erano ancora sulla riva sbagliata del fiume.»
+«È impossibile» disse Raminas. Lo disse piano, e intanto cercava con gli occhi, sulla mappa, il peso di Nabradia. «Nabudis ha mura doppie. Ha la guardia reale e tutta la cavalleria del nord. L'ultimo dispaccio diceva che gli archadiani erano ancora sulla riva sbagliata del fiume.»
 
-«L'ultimo dispaccio aveva nove giorni, maestà. Questo ne ha tre.» Basch porse il cilindro. «Sono andato a prenderlo al guado di persona. Il corriere che lo portava è morto alla stazione di posta, di fatica. Ha cavalcato quattro chocobo.»
+«L'ultimo dispaccio aveva nove giorni, maestà. Questo ne ha tre.» Basch porse il cilindro. «Sono andato di persona a prenderlo al guado. Il corriere che lo portava è morto lì, alla stazione di posta, di fatica. Ha cavalcato quattro chocobo.»
 
 «Mio padre» disse Rasler.
 
-Si era alzato. Nessuno lo aveva sentito alzarsi.
+Si era alzato senza che nessuno lo sentisse, e la sedia era rimasta di traverso.
 
-Basch si voltò verso di lui, e per un momento la sua faccia non disse niente, ed era già una risposta.
+Basch si voltò verso di lui e ci mise troppo, a rispondere.
 
 «Non lo so, altezza.»
 
 «Come non lo sai?»
 
-«Non lo sa nessuno. È questo che non va, in tutta la faccenda.» Basch esitò, e chi lo conosceva sapeva che Basch non esitava. «Non ci sono superstiti. Voglio dire che non ce ne sono di attendibili. Non c'è un ufficiale fuggito con i suoi uomini, né un corriere del palazzo, e nemmeno un cittadino scappato con il carro. Una città di quella grandezza, quando cade, manda gente per le strade per settimane. Nabudis non ha mandato nessuno.»
+«Non lo sa nessuno. È questo che non va, in tutta la faccenda.» Basch si passò una mano sulla barba, e la polvere gli rimase sulle dita. «Non ci sono superstiti. Voglio dire che non ce ne sono di attendibili. Non c'è un ufficiale fuggito con i suoi uomini, né un corriere del palazzo, e nemmeno un cittadino scappato con il carro. Una città di quella grandezza, quando cade, manda gente sulle strade per settimane. Nabudis non ha mandato nessuno.»
 
 «Qualcuno ci sarà» disse Vossler.
 
 «Un soldato. Lo hanno trovato i nostri esploratori a un giorno dal confine, che camminava verso sud senza elmo e senza armi. Non sapeva come si chiamava.» Basch guardò il cilindro, che il re non aveva ancora aperto. «Ripeteva una cosa sola. Che gli uccelli erano caduti tutti insieme. Dagli alberi, dai tetti, dal cielo. Tutti insieme, e senza un segno addosso.»
 
-Il cancelliere Halvor si fece il segno della Madre sul petto, di nascosto, sotto il tavolo.
+Il cancelliere Halvor si fece il segno della Madre, di nascosto, con la mano sotto il tavolo.
 
 «E l'altro» disse Raminas, che aveva rotto il sigillo e stava leggendo. «Qui parla di un prigioniero archadiano.»
 
-«Un esploratore della loro avanguardia, maestà. Si è perso nella sabbia e si è fatto prendere quasi volentieri. Racconta che uno dei loro Giudici Magister era entrato in città con i primi reparti, e che i reparti sono usciti, e lui no. Lo stanno cercando. Lui dice che i Giudici non sanno dove sia, e che la cosa li spaventa più della battaglia.»
+«Un esploratore della loro avanguardia, maestà. Si è perso nella sabbia e si è fatto prendere quasi volentieri. Racconta che uno dei loro Giudici Magister era entrato in città con i primi reparti: i reparti sono usciti, e lui no. Lo stanno cercando. Il prigioniero dice che i Giudici non sanno dove sia, e che la cosa li spaventa più della battaglia.»
 
 «Come si chiama?»
 
 «Non lo ha voluto dire. O non lo sapeva. Ha detto soltanto che era quello che parlava come i libri vecchi.» Basch si strinse nelle spalle. «È l'unica descrizione che sono riuscito a cavargli.»
 
-Rasler aveva appoggiato le mani sul tavolo, accanto al peso di Nabradia. Lo guardava. Lo prese, lo girò fra le dita, lo rimise giù, in un punto della mappa che non era più un confine. Nessuno gli disse niente.
+Rasler aveva appoggiato le mani sul tavolo, accanto al peso di Nabradia. Lo prese e lo girò fra le dita: era tiepido sui fianchi, dove lo avevano spostato tante mani, e freddo sotto. Lo rimise giù in un punto della mappa che non era più un confine.
 
 «Allora resta Nalbina» disse il maresciallo, con la sua voce rovinata. Non lo disse a nessuno in particolare, e lo dissero tutti con lui, in un modo o nell'altro, con lo sguardo che andava alla fortezza dipinta sulla pelle di capra. Fra Nabudis e Rabanastre c'era una sola porta, e quella porta aveva un nome.
 
-La discussione che seguì durò un'ora, e chi era presente la ricordò poi come la più disordinata della lunga carriera di Raminas. Vossler voleva partire quella notte stessa con tutto ciò che si poteva caricare su un chocobo. Il maresciallo voleva aspettare i rinforzi dal sud, che non sarebbero arrivati prima di dieci giorni. Il cancelliere voleva mandare un'ambasciata ad Archades, e il tesoriere voleva mandarla a Rozarria, e per un breve, terribile quarto d'ora i due vecchi litigarono su quale delle due ambasciate costasse meno, mentre il resto del consiglio guardava il soffitto. Basch non disse quasi nulla. Stava in piedi accanto alla porta, ancora sporco, e ascoltava. Quando il re gli chiese che cosa pensasse, disse che Nalbina poteva reggere se la barriera reggeva, e che la barriera poteva reggere se le mura restavano in mano loro, e che le mura restavano in mano loro finché c'erano uomini per tenerle.
+La discussione che seguì durò un'ora, e chi era presente la ricordò poi come la più disordinata della lunga carriera di Raminas. Vossler voleva partire quella notte stessa con tutto ciò che si poteva caricare su un chocobo. Il maresciallo voleva aspettare i rinforzi dal sud, che non sarebbero arrivati prima di dieci giorni. Il cancelliere voleva mandare un'ambasciata ad Archades, e il tesoriere voleva mandarla a Rozarria, e per un breve, terribile quarto d'ora i due vecchi litigarono su quale delle due ambasciate costasse meno, mentre il resto del consiglio guardava il soffitto. Basch non disse quasi nulla. Stava in piedi accanto alla porta, ancora sporco, e ascoltava. Quando il re gli chiese che cosa pensasse, disse che Nalbina poteva reggere se la barriera reggeva; la barriera, se le mura restavano in mano loro; e le mura restavano in mano loro finché c'erano uomini per tenerle.
 
 «E ci sono, uomini?» chiese il re.
 
@@ -347,29 +340,29 @@ Raminas alzò gli occhi.
 
 «Rasler...»
 
-«Vengo con lui.» Il principe non aveva alzato la voce. Aveva le mani ancora sul tavolo, una di qua e una di là del peso d'ottone. «So cosa state per dirmi, sire. Che sono sposato da sei giorni. Che sono l'ultimo della mia casa, forse. Che un principe morto non serve a nessuno e uno vivo serve a tutti.» Fece una pausa. «Sono cose giuste. Le ho dette anch'io, a mio padre, quando voleva andare al confine di persona l'anno scorso. Lui mi ha risposto che un re che resta a palazzo mentre il suo regno brucia si merita il palazzo e non il regno.»
+«Vengo con lui.» Il principe non aveva alzato la voce. Aveva le mani ancora sul tavolo, una di qua e una di là del peso d'ottone. «So cosa state per dirmi, sire. Che sono sposato da sei giorni. Che sono l'ultimo della mia casa, forse. Che un principe morto non serve a nessuno.» Fece una pausa. «Sono cose giuste. Le ho dette anch'io, a mio padre, quando voleva andare al confine di persona l'anno scorso. Lui mi ha risposto che un re che resta a palazzo mentre il suo regno brucia si merita il palazzo e non il regno.»
 
 «Tuo padre è un uomo testardo» disse Raminas.
 
-«Lo era sempre stato» disse Rasler, e si sentì da come lo disse che si era accorto del tempo del verbo solo dopo averlo usato.
+«Lo era sempre stato» disse Rasler, e si fermò: del tempo del verbo si era accorto solo dopo averlo usato.
 
-Il re lo guardò a lungo. Poi si alzò, con fatica, perché a quell'ora le ginocchia gli facevano male, e girò attorno al tavolo fino alla rastrelliera dove stavano appese le spade di cerimonia. Ne staccò una che non era di cerimonia. Aveva l'elsa fasciata di cuoio scuro, consumato, e una lama larga senza ornamenti, salvo una piccola incisione accanto al ricasso: il leone di Dalmasca, così sbiadito che bisognava sapere che c'era per vederlo.
+Il re lo guardò, e lo guardò ancora, finché il tesoriere non cominciò a pulirsi le dita d'inchiostro sulla manica. Poi si alzò, con fatica, perché a quell'ora le ginocchia gli facevano male, e girò attorno al tavolo fino alla rastrelliera dove stavano appese le spade di cerimonia. Ne staccò una che non era di cerimonia. Aveva l'elsa fasciata di cuoio scuro, consumato, e una lama larga senza ornamenti, salvo una piccola incisione vicino all'impugnatura: il leone di Dalmasca, così sbiadito che bisognava sapere che c'era per vederlo. Il cuoio aveva un avvallamento, lasciato tanto tempo prima dal suo pollice, e il re si accorse che ci entrava ancora.
 
 «L'ho portata a Nalbina trent'anni fa» disse Raminas. «L'ultima volta che qualcuno ha provato a passare di là.» La porse a Rasler con tutte e due le mani. «Non è fortunata. È solo affilata. Vedi di riportarmela.»
 
-Rasler la prese. Non disse niente di solenne. Abbassò la testa e il re gli mise una mano sulla nuca, un istante, poi la tolse, e tornò al suo posto, e chiese al cancelliere di scrivere gli ordini.
+Rasler la prese, la soppesò come il re aveva soppesato il pezzo d'ottone archadiano, e abbassò la testa, e il re gli mise una mano sulla nuca, un istante, poi la tolse, e tornò al suo posto, e chiese al cancelliere di scrivere gli ordini.
 
 ---
 
 Ashe lo aspettava nelle scuderie.
 
-Lo aveva saputo prima della fine del consiglio, perché a palazzo le cose si sapevano prima di accadere, e non era andata a cercarlo. Era scesa nelle scuderie dove sapeva che sarebbe passato, aveva mandato via gli stallieri con un tono che non ammetteva repliche, e si era seduta su una balla di fieno con la schiena dritta, il mantello sopra la veste da camera e le mani in grembo, la sinistra chiusa. Così la trovò lui, quando entrò con l'elmo sotto il braccio e la spada di Raminas al fianco. Una principessa su una balla di fieno, alle quattro del mattino, che lo fissava con l'aria di chi ha preparato un discorso e ha deciso all'ultimo di non farlo.
+Aveva saputo della partenza prima della fine del consiglio, perché a palazzo le cose si sapevano prima che accadessero, e non era andata a cercarlo. Era scesa là dove lui doveva passare per forza, aveva mandato via gli stallieri con un tono che non ammetteva repliche, e si era seduta su una balla di fieno con la schiena dritta, il mantello sopra la veste da camera e le mani in grembo, la sinistra chiusa. Così la trovò lui, quando entrò con l'elmo sotto il braccio e la spada di Raminas al fianco. Una principessa su una balla di fieno, alle quattro del mattino, che lo fissava; lei aveva preparato un discorso scendendo le scale, e all'ultimo gradino lo aveva lasciato perdere.
 
 «Sei in ritardo» disse lei.
 
 «Non sapevo di avere un appuntamento.»
 
-«Adesso lo sai.» Si alzò. Gli guardò l'armatura, la spada, l'elmo, con lo stesso sguardo con cui la sua sarta guardava un orlo storto. «L'elmo ti sta male.»
+«Adesso lo sai.» Si alzò. Gli guardò l'armatura, la spada, l'elmo, come la sua sarta guardava un orlo storto. «L'elmo ti sta male.»
 
 «Lo so. Era di un mio cugino. Aveva la testa più piccola.»
 
@@ -379,9 +372,9 @@ Lo aveva saputo prima della fine del consiglio, perché a palazzo le cose si sap
 
 «Ho la nausea dei balconi.»
 
-«Allora va bene il fieno.»
+Dal box accanto un chocobo sbuffò, come per dire la sua. Rasler allungò la mano verso la balla su cui lei lo aveva aspettato, ne sfilò un ciuffo di fieno e glielo porse, serio, come si porge un fazzoletto di seta. «Allora puoi usare questo. Ti vedrò lo stesso.»
 
-Lei fece due passi verso di lui e si fermò. Di solito, quando parlavano, lei aveva sempre la risposta pronta un attimo prima che lui finisse la frase. Ora le risposte le arrivavano in ritardo, e lui se ne accorse, e fece finta di non accorgersene, e lei si accorse anche di questo. Fuori, nel cortile, un sergente chiamava i nomi della prima colonna con una voce che rimbalzava sulle pietre.
+Lei fece due passi verso di lui e si fermò. Era la prima volta che Rasler la vedeva senza una battuta pronta, e per una volta avrebbe dato qualunque cosa per sentirsene dire una. Fuori, nel cortile, un sergente chiamava i nomi della prima colonna con una voce che rimbalzava sulle pietre.
 
 «Fra una settimana» disse Ashe. «Avevi detto fra una settimana. L'orafo.»
 
@@ -389,55 +382,55 @@ Lei fece due passi verso di lui e si fermò. Di solito, quando parlavano, lei av
 
 «L'orafo di via dei Calderai chiude per la stagione delle piogge.»
 
-«Allora lo apriremo noi. Gli sfonderemo la porta. Verrà la guardia reale, ci arresteranno tutti e due, e saremo la prima coppia reale nella storia di Dalmasca finita in cella per un anello.» Le prese la mano sinistra, quella chiusa, e non cercò di aprirla. La tenne fra le sue. «Le cronache ne parleranno per secoli.»
+«Allora lo apriremo noi. Gli sfonderemo la porta. Verrà la guardia, ci arresteranno tutti e due, e saremo la prima coppia reale nella storia di Dalmasca finita in cella per un anello.» Le prese la mano sinistra, quella chiusa, e non cercò di aprirla. La tenne fra le sue. «Le cronache ne parleranno per secoli.»
 
 «Le cronache ne parleranno malissimo.»
 
 «È il prezzo della gloria.»
 
-Lei rise, ed era una risata vera, e le costò. Lui lo vide, quanto le costava. Le strinse la mano più forte.
+Lei rise, ed era una risata vera, con una crepa nel mezzo. Lui le strinse la mano più forte.
 
 «Rasler.»
 
 «Sì.»
 
-«Se muori» disse Ashe, e la voce le tenne fino alla fine della frase per pura disciplina «ti faccio esiliare.»
+«Se muori» disse Ashe, e la voce le tenne fino alla fine della frase per pura disciplina, «ti faccio esiliare.»
 
 «Dove?»
 
 «Lo decido dopo.»
 
-Lui annuì, serio. Poi si chinò e la baciò sulla fronte, sopra il sopracciglio, dove la pelle era calda, e rimase lì un momento con la bocca contro la sua fronte, e lei chiuse gli occhi. Nessuno dei due disse niente di quello che voleva dire. Erano stati educati entrambi da gente che riteneva le parole importanti una debolezza dei poeti, e quella mattina, per la prima volta, avrebbero voluto essere poeti. Poi il sergente nel cortile chiamò il nome del principe di Nabradia, con il titolo intero, e Rasler si raddrizzò.
+Lui annuì, serio. Poi si chinò e la baciò sopra il sopracciglio, dove la pelle era calda, e rimase lì con la bocca contro la sua fronte, e lei chiuse gli occhi. Le cose che volevano dirsi restarono dove stavano. Erano stati educati entrambi da gente che riteneva le parole importanti una debolezza dei poeti, e quella mattina, per la prima volta, avrebbero voluto essere poeti. Ashe pensò al libro rilegato in verde sul comodino, al segnalibro fermo a metà; confessargli che lo stava leggendo le parve una cosa assurda, detta a un uomo con l'elmo sotto il braccio. Poi il sergente nel cortile chiamò il nome del principe di Nabradia, con il titolo intero, e Rasler si raddrizzò.
 
 «Tieni chiuso quel pugno» disse.
 
 «Lo tengo.»
 
-Uscì. Lei rimase nelle scuderie finché la prima colonna non ebbe passato la porta del palazzo, e poi la seconda, e poi finché non si sentì più niente. Uno stalliere, rientrando, la trovò ancora lì, seduta sulla balla di fieno con la schiena dritta. Le chiese se aveva bisogno di qualcosa. Lei disse di no. Lui sellò un chocobo per il giro del mattino, perché era il suo lavoro, e quando se ne andò lei era ancora lì.
+Uscì. Lei rimase nelle scuderie ad ascoltare i soldati che passavano la porta del palazzo, finché non sentì più niente. Uno stalliere, rientrando, la trovò ancora lì, seduta sulla balla di fieno con la schiena dritta. Le chiese se aveva bisogno di qualcosa. Lei disse di no. Lui sellò un chocobo per il giro del mattino, perché era il suo lavoro, e quando se ne andò lei non si era mossa.
 
 ---
 
 La battaglia di Nalbina durò quattro giorni. I primi tre si somigliarono.
 
-Gli archadiani arrivarono da est con le legioni a terra e le aeronavi in cielo, e le aeronavi erano tante che, viste dalle mura, coprivano il sole a strisce, come imposte socchiuse. Bombardarono dal primo mattino al tramonto. Le bombe colpivano la barriera e si aprivano contro di essa in fiori di fuoco bianco, a cento piedi sopra i tetti, senza toccare niente, e il rumore era tale che i soldati sulle mura impararono in un giorno a parlarsi a gesti. La barriera reggeva. Era una cupola che non si vedeva se non quando veniva colpita, tenuta in piedi da venti maghi che si davano il turno sulle torri principali, in piedi dentro cerchi di gesso, con le mani alzate e le labbra che si muovevano senza sosta. Dormivano due ore e tornavano su. Ai soldati di guardia era stato ordinato di non rivolgere loro la parola per nessun motivo, e i soldati, che di solito disprezzavano i maghi, li guardavano ora da lontano, con una specie di timore.
+Gli archadiani arrivarono da est con le legioni a terra e le aeronavi in cielo, e le aeronavi erano tante che, viste dalle mura, coprivano il sole a strisce, come imposte socchiuse. Bombardarono dal primo mattino al tramonto. Le bombe colpivano la barriera e si aprivano contro di essa in fiori di fuoco bianco, a cento piedi sopra i tetti, senza toccare niente, e il rumore era tale che i soldati sulle mura impararono in un giorno a parlarsi a gesti. La barriera reggeva. Era una cupola che non si vedeva se non quando veniva colpita, sostenuta da venti maghi che si davano il turno sulle torri principali, in piedi dentro cerchi di gesso, con le mani alzate e le labbra che si muovevano senza sosta. Dormivano due ore e tornavano su. Ai soldati di guardia era stato ordinato di non rivolgere loro la parola per nessun motivo, e i soldati, che di solito disprezzavano i maghi, li guardavano ora da lontano, con una specie di timore.
 
-A terra si combatteva davanti alle porte. Le legioni archadiane avanzavano a blocchi, con gli scudi alti e i lanciatori dietro, e venivano respinte, e tornavano, e venivano respinte. Rasler combatteva in prima linea, sul chocobo, con la spada di Raminas, e Basch combatteva accanto a lui, perché quello era l'ordine che si era dato da solo il primo giorno e che nessuno gli aveva revocato. Il principe era bravo. Era più bravo di quanto Basch si aspettasse, rapido, attento, con un modo di girare la cavalcatura nella mischia che si impara solo in un paese di pianure. La sera del secondo giorno, sporco di sangue non suo fino alle spalle, rideva con i soldati attorno al fuoco, e loro ridevano con lui. Basch lo guardava ridere e pensava che un uomo così, in un'altra stagione, sarebbe stato un buon re.
+A terra si combatteva davanti alle porte. Le legioni archadiane avanzavano a blocchi, con gli scudi alti e i lanciatori dietro, e venivano respinte, e tornavano, e venivano nuovamente respinte. Rasler combatteva in prima linea, sul chocobo, con la spada di Raminas, e Basch combatteva accanto a lui, perché quello era l'ordine che si era dato da solo il primo giorno, e nessuno glielo aveva revocato. Il principe era bravo. Era più bravo di quanto Basch si aspettasse, rapido, attento, con un modo di girare la cavalcatura nella mischia che si impara solo in un paese di pianure. La sera del secondo giorno sedeva con i soldati attorno al fuoco, a mangiare la stessa zuppa dalla stessa pentola, e sapeva già il nome di metà di loro. Quando qualcuno scherzò sul suo elmo, troppo piccolo, fu il primo a riderne. Basch lo guardava ridere e pensava che un uomo così, in un'altra stagione, sarebbe stato un buon re.
 
-La sera del terzo giorno Rasler non rideva più. Era arrivata da nord una colonna di carri con dei feriti nabradiani raccolti per strada, gente che non era mai stata a Nabudis ma veniva dai villaggi di confine, e nessuno di loro aveva notizie. Uno, un fabbro con la mano fasciata, aveva detto che dalle colline la città non si vedeva più. Non che bruciava. Non si vedeva. Rasler aveva ascoltato tutto con la faccia ferma, poi era salito sulle mura a guardare a nord fino a notte, e Basch era rimasto ai piedi della scala, senza salire, finché non era sceso.
+La sera del terzo giorno Rasler non rideva più. Era arrivata da nord una colonna di carri con dei feriti nabradiani raccolti per strada, gente che non veniva da Nabudis ma dai villaggi di confine, e nessuno di loro aveva notizie. Uno, un fabbro con la mano fasciata, aveva detto che dalle colline la città non si vedeva più. Non che bruciava. Non si vedeva. Rasler aveva ascoltato tutto con la faccia ferma, poi era salito sulle mura a guardare a nord fino a notte, e Basch era rimasto ai piedi della scala, senza salire, finché non era sceso.
 
 Il quarto giorno le aeronavi cambiarono tattica. Smisero di bombardare la barriera e cominciarono a sbarcare uomini.
 
 Lo fecero dove nessuno se lo aspettava, sulle torri stesse. Le aeronavi più piccole, quelle rapide che gli archadiani usavano per la ricognizione, scesero rasenti alla cupola fino al punto dove questa toccava la pietra, là dove l'incantesimo era più debole perché doveva piegarsi; lì gettarono funi, e lungo le funi scivolarono soldati in armatura leggera, uno dopo l'altro, a decine. Toccavano le mura già con la spada in mano. Andavano dritti verso i cerchi di gesso.
 
-Basch lo vide dalla piazza d'armi, dove stava riordinando la cavalleria per una carica. Vide i primi soldati archadiani arrivare sulla torre di nord-est, vide i difensori correre loro incontro e cadere, vide il mago dentro il cerchio continuare a muovere le labbra con le mani alzate mentre la lama lo raggiungeva. Il mago non si difese. Non poteva difendersi senza abbassare le mani. Cadde con la bocca ancora aperta sull'ultima parola.
+Basch lo vide dalla piazza d'armi, dove stava riordinando la cavalleria per una carica. Vide i primi soldati archadiani arrivare sulla torre di nord-est, vide i difensori correre loro incontro e cadere, vide il mago dentro il cerchio continuare a muovere le labbra con le mani alzate mentre la lama lo raggiungeva. Il mago non si difese, perché non avrebbe potuto farlo senza abbassare le mani, e cadde con la bocca ancora aperta sull'ultima parola.
 
 Sopra la torre di nord-est, la cupola tremò. Per la prima volta in quattro giorni la si vide tutta: una pelle sottile di luce azzurra che andava da un orizzonte all'altro, attraversata da rughe. Poi cadde il mago della torre di nord-ovest. Poi quello della porta grande. Sulle mura, gli altri continuavano a recitare, sempre più in fretta, con le voci che si alzavano e si spezzavano, e uno dopo l'altro venivano raggiunti, e la luce sopra Nalbina si strappò come un velo vecchio e cadde in pezzi che si spensero prima di toccare terra.
 
-Le aeronavi archadiane, che avevano aspettato quattro giorni, aprirono il fuoco tutte insieme.
+Le aeronavi archadiane, che non aspettavano altro, aprirono il fuoco tutte insieme.
 
 «Altezza!» Basch aveva girato il chocobo e cercava il principe nel fumo. «Altezza, la barriera è caduta. Dobbiamo ritirarci. Ora.»
 
-Rasler era a venti passi da lui, sulla strada che dalla piazza d'armi portava alla porta nord. Stava fermo. Guardava il cielo, dove fino a un istante prima c'era stata la cupola, e dove ora c'erano soltanto le aeronavi, e il fumo, e un sole bianco che entrava nella fortezza per la prima volta in quattro giorni.
+Rasler era a venti passi da lui, sulla strada che dalla piazza d'armi portava alla porta nord. Stava fermo e guardava il cielo, dove fino a un istante prima c'era stata la cupola, e dove ora c'erano soltanto le aeronavi, e il fumo, e un sole bianco che entrava nella fortezza per la prima volta dall'inizio dell'assedio.
 
 «Altezza!»
 
@@ -445,15 +438,25 @@ Rasler era a venti passi da lui, sulla strada che dalla piazza d'armi portava al
 
 «Di là ci sono tre legioni. Altezza, vi prego.»
 
-Rasler girò il chocobo verso la porta nord. Basch non seppe mai, e non volle mai sapere, se il principe intendesse davvero caricare da solo in quella direzione, o se il suo corpo stesse soltanto andando dove andava il suo pensiero da quattro giorni. Rasler gridò qualcosa. Una parola sola, a voce altissima, che si perse nel fragore delle esplosioni. Basch era abbastanza vicino da capire quale fosse. Era la parola che i figli usano per i padri.
+Rasler girò il chocobo verso la porta nord. Basch non seppe mai, e non volle mai sapere, se il principe intendesse davvero caricare da solo in quella direzione, o se il suo corpo stesse soltanto andando dove andava il suo pensiero da quattro giorni. Rasler gridò qualcosa, una parola sola, a voce altissima, e il fragore delle esplosioni se la mangiò. Basch la capì dalle labbra.
 
-Sulla torre di guardia sopra la porta, un arciere archadiano aveva incoccato una freccia.
+«Papà.»
 
-Basch lo vide. Strappò l'arco corto dalla sella di un cavaliere morto che gli passava accanto, trascinato dal suo chocobo impazzito, prese una freccia dalla faretra dello stesso morto, tese e tirò, tutto in un solo movimento, con la mano che non tremava perché gli avevano insegnato da bambino a non farla tremare. La sua freccia colpì l'arciere alla gola. L'arciere cadde all'indietro dalla torre.
+La seconda volta Rasler la disse quasi a mezza voce, e si fermò ad ascoltare, come se da nord potesse davvero arrivare una risposta. Sotto la visiera alzata aveva gli occhi spalancati, e li faceva correre lungo le colline, si fermavano su un punto, ripartivano, come se Nabudis potesse ricomparire proprio dove non aveva ancora guardato. Era la stessa faccia che la sera prima aveva tenuto ferma davanti al fabbro. Adesso non ci riusciva più.
+
+Sulla torre di guardia sopra la porta, un arciere archadiano aveva incoccato una freccia, e la teneva puntata su quell'unico cavaliere fermo in mezzo alla battaglia, con la visiera alzata.
+
+Basch lo vide, e per un istante tutto il resto si spense: le esplosioni, le grida, il fumo. Rimasero soltanto quella punta di ferro lassù e il principe immobile sotto di lei, che non si era accorto di niente. Sentì il cuore battergli in gola, così forte da coprire tutto il resto. Non aveva un arco.
+
+Un chocobo impazzito gli passò accanto trascinando il suo cavaliere morto, con un piede ancora nella staffa. Basch allungò il braccio senza pensarci, e le dita trovarono l'arco corto legato alla sella prima ancora che gli occhi lo cercassero. Lo strappò via. Dalla faretra del morto prese una freccia, e il legno gli parve leggero, troppo leggero, come se non potesse servire a niente. La incoccò. Le mani volevano tremare, e lui non glielo permise, perché da bambino gli avevano insegnato a non farle tremare, e quello che ti insegnano da bambino resta anche quando tutto il resto se ne va. Tese la corda fino all'orecchio. In cima alla torre, l'arciere chiuse un occhio.
+
+Basch tirò.
+
+La sua freccia colpì l'arciere alla gola. L'uomo lasciò la presa, barcollò, e cadde all'indietro dalla torre. Basch sentì l'aria tornargli nei polmoni tutta insieme, e per la durata di un respiro credette di avercela fatta.
 
 Ma la freccia dell'arciere era già partita.
 
-Rasler la prese al petto. Fu un colpo secco, un rumore come quello di un pugno su una porta. La punta passò fra due piastre della corazza, sotto la clavicola sinistra, e il principe si piegò in avanti sulla sella. Non cadde. Si tenne alle redini con tutte e due le mani, e il chocobo, sentendolo pesante, si fermò da solo.
+Rasler la prese al petto mentre guardava ancora verso le colline. Fu un colpo secco, un rumore come quello di un pugno su una porta. La punta passò fra due piastre della corazza, sotto la clavicola sinistra, e il principe si piegò in avanti sulla sella senza un grido, con la bocca ancora aperta sull'ultima parola. Non cadde: si tenne alle redini con tutte e due le mani, e il chocobo, sentendolo pesante, si fermò da solo.
 
 Basch gli fu accanto in tre balzi. Lo afferrò per la cintura prima che scivolasse, lo tirò sulla propria sella, lo tenne contro di sé con il braccio sinistro e prese le redini con il destro. Intorno a loro la fortezza crollava. I soldati di Dalmasca arretravano verso la piazza d'armi, e dalle mura scendevano gli archadiani, e le aeronavi passavano basse sopra i tetti sparando su tutto ciò che si muoveva. La strada verso la porta sud era chiusa da un incendio. La porta ovest era già persa.
 
@@ -461,7 +464,7 @@ Poi un'aeronave archadiana, colpita da una delle ultime catapulte rimaste in man
 
 Cadde sulle scuderie della guarnigione, che erano addossate alle mura meridionali, e le sfondò, e sfondò il muro dietro di esse, e quando il fumo e la polvere si diradarono, al posto del muro c'era un varco largo come una strada, ingombro di pietre e di legno in fiamme, oltre il quale si vedeva il deserto. Basch spronò il chocobo. Passò attraverso il fuoco senza guardarlo. Dietro di lui passarono altri cinque o sei cavalieri, quelli che lo avevano visto, e poi il varco si richiuse sotto una seconda frana, e Nalbina restò dentro.
 
-Rasler respirava ancora. Respirava a fatica, con un rumore bagnato, e Basch sentiva contro il braccio il sangue che gli usciva dalla ferita e gli scendeva lungo il fianco, caldo, poi tiepido. La freccia era ancora conficcata. Non la toccò. Sapeva che, a toccarla, sarebbe finito tutto in fretta, e sapeva anche che non toccarla non avrebbe cambiato niente, ma non la toccò lo stesso.
+Rasler respirava ancora. Respirava a fatica, con un rumore bagnato, e Basch sentiva contro il braccio il sangue che usciva dalla ferita e scendeva lungo il fianco, caldo, poi tiepido. La freccia era ancora conficcata, e Basch non la toccò. Sapeva che, a toccarla, sarebbe finito tutto in fretta, e sapeva anche che non toccarla non avrebbe cambiato niente, ma non la toccò lo stesso.
 
 Il principe aprì gli occhi una volta, a mezza lega dalla fortezza, quando il chocobo rallentò in un avvallamento sabbioso. Guardò il cielo. Il cielo era pieno di fumo nero che il vento portava verso ovest, verso Rabanastre.
 
@@ -471,22 +474,23 @@ Il principe aprì gli occhi una volta, a mezza lega dalla fortezza, quando il ch
 
 «Il pugno» disse Rasler.
 
-Basch non capì. Non chiese. Disse «Sì, altezza», perché era la risposta giusta a qualunque cosa il principe volesse dire, e Rasler parve contento della risposta, e chiuse gli occhi.
+Basch non capì, e non chiese. Disse «Sì, altezza», perché era la risposta giusta a qualunque cosa il principe volesse dire, e Rasler parve contento, e chiuse gli occhi.
 
-Morì poco dopo, mentre il sole calava sul deserto orientale, senza dire altro. Basch se ne accorse perché il corpo contro il suo braccio smise di fare fatica. Non fermò il chocobo. Cavalcò tutta la notte verso ovest, con gli altri cavalieri dietro che non osavano avvicinarsi, tenendo il principe di Nabradia dritto sulla sella davanti a sé come se fosse soltanto addormentato, perché non voleva che le sentinelle di Rabanastre, all'alba, lo vedessero arrivare disteso.
-
+Morì poco dopo, mentre il sole calava sul deserto orientale, senza dire altro. Basch lo capì perché il corpo contro il suo braccio smise di fare fatica. Non fermò il chocobo. Cavalcò tutta la notte verso ovest, con gli altri cavalieri dietro che non osavano avvicinarsi, e a notte fonda si accorse che stava dicendo a mezza voce i nomi dei pozzi che passavano, uno dopo l'altro, come a qualcuno che non conosceva la strada. Cavalcò tenendo il principe di Nabradia dritto sulla sella davanti a sé come se fosse soltanto addormentato, perché non voleva che le sentinelle di Rabanastre, all'alba, lo vedessero arrivare disteso.
 
 ## 3. Due cerimonie
 
-Gli spazzini della cattedrale avevano lavorato bene, dopo le nozze, ma non abbastanza. Fra le lastre dei gradini, nelle fessure dove la scopa non entra, erano rimasti dei petali di bouganvillea, e in dodici giorni di sole erano diventati marroni e sottili come pelle di cipolla. La gente che saliva per il funerale li calpestava senza vederli. Ashe li vide. Salì i gradini guardandoli uno per uno, perché guardare i petali le permetteva di non guardare altro, e quando arrivò in cima ne aveva contati quarantuno.
+Gli spazzini della cattedrale avevano lavorato bene, dopo le nozze, ma non abbastanza. Fra le lastre dei gradini, nelle fessure dove la scopa non entra, erano rimasti dei petali di buganvillea, e in dodici giorni di sole erano diventati marroni e sottili come pelle di cipolla. La gente che saliva per il funerale li calpestava senza vederli. Ma non Ashe. Fra i petali bruni di buganvillea ce n'era uno di gelsomino, ancora quasi bianco, e le tornò in mente Pancia, il chocobo che si era fermato in mezzo alla via a mangiarne una manciata, e Rasler che rideva con tutta la faccia mentre lei, sotto il velo, si mordeva le labbra. Sentì salire la stessa risata di quel giorno, e ne ebbe paura. La ricacciò giù. Non sapeva se sarebbe uscita come una risata o come qualcos'altro, e davanti a tutta Rabanastre non poteva permettersi di scoprirlo.
 
-Dentro faceva fresco, come la prima volta. L'aria sapeva di cera e di resina e di pietra lavata. La luce cadeva dall'alto nelle stesse colonne storte, piene della stessa polvere, e i vetri colorati posavano sul pavimento le stesse macchie azzurre e rosse, che si sarebbero spostate piano per tutta la durata del rito. Era tutto uguale. Era questa la cosa che nessuno dei presenti riuscì poi a perdonare alla cattedrale: che non avesse avuto la decenza di cambiare.
+Salì piano, un gradino alla volta. L'ultima volta aveva visto quei petali entrare dalle porte spalancate come neve rossa, mentre percorreva la navata al braccio di Rasler, con la risata ancora soffocata nel colletto di lui. Ricordava le campane, il peso del vestito, la mano di lui sopra la sua. Non ricordava di aver guardato per terra. Adesso non riusciva a guardare altro. Erano gli ultimi resti di quel giorno, e finché li guardava le sembrava che quel giorno non fosse ancora finito. Le gambe le pesavano, e aveva le mani fredde nonostante il sole. Arrivata in cima, si fermò davanti alla porta, e per un momento non riuscì a entrare.
 
-Le campane avevano suonato per un'ora, dall'alba. Non a festa. Un colpo solo, il più grave, ogni volta che un uomo può contare fino a venti, e fra un colpo e l'altro la città stava zitta ad aspettare il successivo. I mercanti di Muthru avevano chiuso i banchi senza che nessuno glielo ordinasse. Le venditrici di petali non si erano viste.
+Dentro faceva fresco, come la prima volta. L'aria sapeva di cera e di resina e di pietra lavata. La luce cadeva dall'alto nelle stesse colonne storte, piene della stessa polvere, e i vetri colorati posavano sul pavimento le stesse macchie azzurre e rosse, che si sarebbero spostate piano per tutta la durata del rito. Era tutto uguale. Fu questa la cosa che Ashe non riuscì mai a perdonare alla cattedrale: che non avesse avuto la decenza di cambiare.
 
-I banchi erano pieni. I nobili davanti, i mercanti dietro, il popolo in piedi lungo le navate laterali e fuori, sulla piazza, fino alla fontana con il re di pietra a cui, dodici giorni prima, un ragazzino aveva messo il cappello. Nella tribuna degli ambasciatori c'era quello di Rozarria, con due soli cugini, vestiti di nero. La sedia dell'ambasciatore di Archadia era vuota. L'uomo magro in grigio aveva lasciato Rabanastre la mattina dopo la notizia di Nabudis, con il suo segretario e i suoi bauli, dopo aver scritto al cancelliere un biglietto di congedo così cortese che il cancelliere lo aveva letto due volte per trovarci l'insulto, e non lo aveva trovato, e ne era rimasto più turbato che se ci fosse stato.
+Le campane avevano suonato per un'ora, dall'alba, ma non a festa. Suonava soltanto la più grave, con un rintocco lento: fra l'uno e l'altro si poteva contare fino a venti, e in quel silenzio la città aspettava il successivo. I mercanti di Muthru avevano chiuso i banchi in segno di lutto. Le venditrici di petali non si erano viste.
 
-Rasler era sotto l'altare, dentro una cassa di legno di cedro coperta con la bandiera verde di Nabradia. L'avevano chiusa a Rabanastre, dopo che il capitano Basch lo aveva riportato in sella, dritto davanti a sé. Nessuno l'aveva riaperta. Il re aveva dato ordine che nessuno la riaprisse, e Ashe non aveva chiesto di vederlo. Le avevano detto che era stata una freccia, e che era morto senza soffrire, e lei sapeva che la seconda cosa era una bugia gentile perché sapeva come si muore di una freccia al petto; glielo aveva spiegato il suo maestro di spada, anni prima, quando lei gli aveva chiesto quale fosse il modo più rapido di uccidere un uomo e lui le aveva risposto quale fosse il più lento. Non aveva fatto domande. Non c'era nessuno a cui farle che non le avrebbe mentito per bontà.
+I banchi erano pieni. I nobili sedevano davanti e i mercanti dietro. Il popolo stava un po' in piedi lungo le navate e un po' fuori, fino alla fontana della piazza, dove il giorno delle nozze un ragazzino aveva messo il cappello alla statua del re. Nella tribuna degli ambasciatori c'era quello di Rozarria, con due soli cugini, vestiti di nero. La sedia dell'ambasciatore di Archadia era vuota. L'uomo che alle nozze aveva parlato di pace e di cristallo era partito la mattina dopo la notizia di Nabudis, con il segretario e i bauli, e al cancelliere aveva lasciato un biglietto pieno di ringraziamenti. Il cancelliere lo aveva letto due volte cercando fra le righe una minaccia, come si fa con le lettere di chi ha appena preso una città. Non ce n'erano, e questo lo aveva preoccupato di più: poteva voler dire che ad Archades avevano già deciso, e che le minacce non servivano più.
+
+Rasler era sotto l'altare, dentro una cassa di legno di cedro coperta con la bandiera verde di Nabradia. L'avevano chiusa a Rabanastre, dopo che il capitano Basch lo aveva riportato in sella, dritto davanti a sé. Nessuno l'aveva riaperta. Il re aveva dato ordine che nessuno la riaprisse, e Ashe non aveva chiesto di vederlo. Le avevano detto che era stata una freccia, e che era morto senza soffrire, e lei sapeva che la seconda parte era una bugia gentile perché sapeva come si muore di una freccia al petto; glielo aveva spiegato il suo maestro di spada, anni prima, quando lei gli aveva chiesto se un arciere potesse uccidere un uomo con un colpo solo. Lui le aveva risposto di no, quasi mai: con una freccia nel petto si resta vivi abbastanza a lungo da capire che si sta morendo. Non aveva fatto domande. Non c'era nessuno a cui farle che non le avrebbe mentito per bontà.
 
 Indossava il nero di Dalmasca, che è un nero tinto con il mallo di noce e tende al bruno sotto il sole. Niente velo. Le avevano offerto un velo, e lei aveva detto che il velo lo aveva già portato, e la sarta non aveva insistito. Si inginocchiò sul gradino davanti alla cassa con la schiena dritta e le mani raccolte, e la sinistra era chiusa. La fede era lì dentro, al dito. Le stava larga come il primo giorno. Nessuno l'aveva fatta stringere.
 
@@ -500,7 +504,11 @@ Poi venne la formula. Il vescovo alzò le braccia, e la cattedrale gli restituì
 
 «Faram» rispose la cattedrale. Le voci, questa volta, si accordarono. Nessuno arrivò in ritardo.
 
-Ashe non pianse. Chi la guardava, e la guardavano tutti, vide una ragazza di diciassette anni in ginocchio davanti a una cassa, immobile per tutta la durata del rito, con la luce colorata dei vetri che le passava lentamente sulle spalle. Le macchie azzurre scivolarono dal suo braccio al gradino. Le rosse salirono sul manto del vescovo. Alla fine della cerimonia il manto era passato dal blu al viola, come la prima volta, e Ashe lo notò, e fu l'unica cosa di tutta la mattina che le fece stringere il pugno così forte da sentire il metallo dentro la carne.
+Fino a metà le parole erano quelle delle nozze. Dodici giorni prima, a quel punto, Ashe si stava mordendo l'interno della guancia per non ridere, perché l'anello le era appena scivolato fino in fondo al dito e Rasler la guardava con l'aria di chi è stato scoperto. Adesso sapeva dove la formula sarebbe cambiata, e quando il vescovo ci arrivò chiuse gli occhi.
+
+Con il pollice fece girare la fede. Avrebbero dovuto portarla a stringere la settimana dopo le nozze, ma Rasler era partito prima, e la fede era rimasta com'era. L'interno era liscio, senza una parola incisa. Lei non gli aveva mai chiesto perché, e adesso non poteva più farlo.
+
+Ashe non pianse. Chi la guardava vide una ragazza di diciassette anni in ginocchio davanti a una cassa, immobile per tutta la durata del rito, con la luce colorata dei vetri che le passava lentamente sulle spalle. Le macchie azzurre scivolarono dal suo braccio al gradino. Le rosse salirono sul manto del vescovo. Alla fine della cerimonia il manto era passato dal blu al viola, come la prima volta, e Ashe lo notò, e fu l'unica cosa di tutta la mattina che le fece stringere il pugno così forte da sentire il metallo dentro la carne.
 
 ---
 
@@ -532,21 +540,29 @@ Abbassò gli occhi sulla propria mano sinistra, chiusa contro la veste nera. Bas
 
 Basch si inchinò e se ne andò con la spada.
 
-Lei rientrò nella sagrestia e chiuse la porta. Era una stanza piccola, con un armadio di paramenti, una brocca d'acqua sul davanzale e una finestra stretta che dava sul cortile dei sacerdoti, dove un vecchio stava dando da mangiare alle tortore. Ashe si sedette sull'unica sedia. Aprì la mano. La fede era lì, rossa e bianca, i due fili ritorti l'uno sull'altro, con le tacche che prendevano la luce della finestra. Le aveva lasciato un segno sul palmo, un cerchio rosso, che sarebbe svanito in un'ora.
+Lei rientrò nella sagrestia e chiuse la porta. Era una stanza piccola, con un armadio di paramenti, una brocca d'acqua sul davanzale e una finestra stretta che dava sul cortile dei sacerdoti, dove un vecchio stava dando da mangiare alle colombe. Ashe si sedette sull'unica sedia. Aprì la mano. La fede era lì, rossa e bianca, i due fili ritorti l'uno sull'altro, con le tacche che prendevano la luce della finestra. Le aveva lasciato un segno sul palmo, un cerchio rosso, che sarebbe svanito in un'ora.
 
-Pianse poco. Non fece rumore. Il vecchio nel cortile non alzò mai la testa dalle tortore. Quando ebbe finito si lavò la faccia con l'acqua della brocca, si asciugò con un paramento di lino che qualcuno avrebbe poi trovato bagnato senza capire perché, richiuse la mano e uscì.
+Pianse poco. Non fece rumore. Il vecchio nel cortile non alzò mai la testa dalle colombe. Quando ebbe finito si lavò la faccia con l'acqua della brocca, si asciugò con un paramento di lino che qualcuno avrebbe poi trovato bagnato senza capire perché, richiuse la mano e uscì.
+
+Dopo qualche giorno il palazzo tornò alla normalità. Si apparecchiava, si spazzava, in cucina si litigava come sempre. Solo che adesso, quando qualcuno guardava verso oriente, lo faceva un momento più a lungo, e nessuno ne parlava.
+
+Di giorno Ashe riceveva chi veniva a farle le condoglianze e rispondeva alle lettere. La notte dormiva poco. Sul comodino c'era ancora il libro di poesie che Rasler le aveva regalato il primo giorno, aperto alla pagina dove si era fermata. Non riusciva a riprenderlo in mano.
+
+Al buio le tornavano in mente le parole di Basch: il suo nome, e poi «il pugno». Rasler era caduto a Nalbina con una freccia nel petto, e una delle ultime cose a cui aveva pensato era la mano di lei, chiusa attorno a un anello troppo largo. Le tornò in mente anche suo padre, la notte delle nozze, che le teneva il pugno mentre ballavano: le cose che contano, quando scappano, si tengono così. Non per sempre. Finché non c'è il modo di sistemarle.
+
+La mattina dopo mandò a chiamare l'orafo. Era lo stesso che aveva fatto la fede, un uomo pratico che entrò inchinandosi troppo e non sapeva dove guardare. Ashe si sfilò l'anello e glielo posò sul palmo. Non lo toglieva dal giorno delle nozze, e senza le sembrò di avere la mano di un'altra. L'orafo le misurò il dito con un filo, come Rasler aveva fatto con il guanto, e disse che avrebbe tolto un poco d'argento dove non si vedeva. Lei gli chiese di non toccare le tacche. Il giorno dopo l'orafo tornò con la fede avvolta in un pezzo di velluto. Lo aprì sul tavolo e si fece da parte perché lei potesse guardare. Ashe cercò le tacche. C'erano tutte. L'orafo prese l'anello e fece per infilarglielo lui, come faceva con i clienti. Ashe ritirò la mano. Alle nozze era stato Rasler a farlo, e l'anello era sceso senza fatica. Stavolta lo fece lei, e dovette spingere per passare la nocca. La fede scese fino alla base del dito e si fermò lì, senza girare. L'orafo le chiese se stringeva. Lei disse di no. Aprì la mano e la scosse piano. L'anello non si mosse. L'orafo si inchinò, di nuovo troppo, e uscì. Non c'era più bisogno di tenere il pugno chiuso. Per qualche giorno Ashe lo chiuse lo stesso, senza accorgersene.
 
 ---
 
-*Dopo la caduta di Nalbina, l'Ordine dei Cavalieri tentò ancora di riprendere la fortezza. Fu un tentativo onorevole e, mi duole scriverlo, inutile. Le aeronavi dell'Impero dominavano il cielo, e ogni scontro consumava ciò che rimaneva dell'esercito. Archadia, a quel punto, offrì la pace. Uso questa parola perché fu quella usata nel documento; il lettore saprà darle il peso che merita.*
+*Dopo la caduta di Nalbina, l'Ordine dei Cavalieri tentò ancora di riprendere le posizioni intorno alla fortezza. Fu un tentativo onorevole e, mi duole scriverlo, inutile. Le aeronavi dell'Impero dominavano il cielo, e ogni scontro consumava ciò che rimaneva dell'esercito. Archadia, a quel punto, offrì la pace. Uso questa parola perché fu quella usata nel documento; il lettore saprà darle il peso che merita.*
 
 *Re Raminas accettò. Gli fu rimproverato, in seguito, da chi non aveva figli da mandare al fronte. Io lo vidi in quei giorni e posso testimoniare che non lo fece per viltà. Aveva fatto il conto dei vivi, che è il conto più difficile per un sovrano, e il conto gli diceva che un regno sottomesso si può ancora riscattare, mentre un popolo sterminato no. Partì per Nalbina, dove l'Impero attendeva la sua firma, con una scorta ridotta, come gli era stato richiesto.*
 
-*Halim Ondore IV, Memorie, libro primo*
+*Halim Ondore IV, marchese di Bhujerba, Memorie, libro primo*
 
 ---
 
-Il marchese di Bhujerba, che di Raminas era amico e che scrisse queste righe molti anni dopo, nella quiete della sua città sospesa, aveva ragione sul conto dei vivi. Sbagliava, o preferì sbagliare, sulla scorta. Raminas non la ridusse perché gli fu richiesto. La ridusse perché non voleva che altri uomini morissero per una firma, e lo disse ai suoi capitani con queste parole, nella sala del consiglio, davanti alla mappa con i pesi d'ottone, che ormai stavano quasi tutti dalla stessa parte.
+Il marchese di Bhujerba, che di Raminas era amico e che scrisse queste righe molti anni dopo, nella quiete della sua città sospesa, aveva ragione sul conto dei vivi. Sulla scorta, però, raccontò solo metà della verità. Raminas non la ridusse soltanto perché gli fu richiesto. La ridusse anche perché non voleva che altri uomini morissero per una firma, e lo disse ai suoi capitani con queste parole, nella sala del consiglio, davanti alla mappa con i pesi d'ottone, che ormai stavano quasi tutti dalla stessa parte.
 
 Prima di partire salì nelle stanze della figlia. Lei lo aspettava in piedi, vestita per il viaggio, con gli stivali da cavallo e il mantello già allacciato.
 
@@ -554,7 +570,7 @@ Prima di partire salì nelle stanze della figlia. Lei lo aspettava in piedi, ves
 
 «Non ho ancora detto niente.»
 
-«Hai gli stivali. Dicono abbastanza.» Entrò, si sedette sul bordo del letto perché il ginocchio non lo reggeva, appoggiò il bastone contro la cassapanca. «Tu resti qui.»
+«Hai gli stivali. Dicono abbastanza.» Entrò, si sedette sul bordo del letto perché il ginocchio non lo reggeva, appoggiò il bastone contro la cassapanca. «Tu resti qui!»
 
 «Vado a Nalbina con te. Se firmi, voglio vederli in faccia mentre firmi. Voglio che vedano me.»
 
@@ -562,15 +578,23 @@ Prima di partire salì nelle stanze della figlia. Lei lo aspettava in piedi, ves
 
 «Non voglio essere quella.»
 
-«Neanche io volevo essere questo.» Raminas sorrise, appena. «Ma siamo B'nargin, e abbiamo sempre avuto pessimo gusto per i ruoli.»
+«Neanche io volevo essere questo.» Raminas sorrise, appena. «Ma ci chiamiamo B'nargin, e con questo nome non si sceglie.»
 
 Si alzò, riprese il bastone, le baciò la fronte. Poi notò la mano sinistra di lei, chiusa, e non disse niente, e le passò il pollice sulle nocche, una volta sola, come a lisciarle.
 
 Partì a mezzogiorno con trenta uomini. Portava al fianco la spada con l'elsa di cuoio scuro.
 
+Ashe restò nella sua stanza. Lo guardò dalla finestra, ancora con gli stivali e il mantello addosso.
+
+Dall'alto la scorta sembrava ancora più piccola. Attraversò la piazza in fila per due, passò accanto alla fontana con il re di pietra e prese la strada dell'ovest. Suo padre era in testa, un po' curvo in sella. Ashe sperò che si voltasse verso il palazzo, ma lui guardava avanti.
+
+Strinse la mano sinistra. Ormai l'anello non aveva più bisogno di essere tenuto, ma lei la strinse lo stesso. Rimase alla finestra finché sulla strada non si vide più nessuno.
+
+Era la seconda volta in meno di un mese che qualcuno partiva per Nalbina e lei restava a Rabanastre.
+
 ---
 
-Due giorni dopo, a notte fonda, tornarono a Rabanastre i resti di una compagnia di cavalieri che aveva tentato di riprendere una torre di vedetta sulla strada di Nalbina. Erano undici, su sessanta. Portavano notizie che non si potevano scrivere: che attorno alla fortezza c'erano più truppe di quante ne servissero per scortare un re a una firma; che i passaggi interni erano stati occupati da reparti che non portavano le insegne della legione regolare; che un ufficiale archadiano preso prigioniero, prima di morire, aveva riso della parola trattato.
+Due giorni dopo, a notte fonda, tornarono a Rabanastre i resti di una compagnia di cavalieri che aveva tentato di riprendere una torre di vedetta sulla strada di Nalbina. Erano undici, su sessanta. Portavano notizie che era meglio non scrivere. Intorno alla fortezza c'erano troppe truppe per una semplice scorta, e i passaggi interni erano occupati da soldati senza le insegne della legione regolare. Un ufficiale archadiano catturato durante lo scontro aveva riso quando qualcuno aveva parlato di trattato, ed era morto prima di poter dire perché.
 
 Basch li ascoltò nel cortile delle caserme, alla luce delle torce, senza interromperli. Poi andò dal cancelliere e gli disse che sarebbe partito la notte seguente con un piccolo reparto, per entrare a Nalbina dai camminamenti e raggiungere il re prima che firmasse. Il cancelliere gli chiese quanti uomini gli servissero. Basch disse che gliene servivano pochi e buoni, e che ne avrebbe presi pochi e basta, perché i buoni erano quasi tutti morti.
 
@@ -595,171 +619,177 @@ Basch prese la penna dalle mani del furiere e lasciò il nome dov'era.
 
 ## 4. Reks
 
-La stanza sopra la bottega di Migelo sapeva di cumino, di cuoio e di olio per lampade, perché erano le tre cose che Migelo vendeva di più e perché il pavimento era fatto di assi con fessure larghe un dito, attraverso le quali, di notte, saliva la bottega. Ci si abituava. Dopo tre anni, Vaan non sentiva più l'odore del cumino; lo sentiva soltanto quando usciva, e allora l'aria della strada gli sembrava sbagliata.
+Il capitano Basch lesse la lista all'alba, seduto su un barile in mezzo al cortile della caserma, con il furiere accanto che gli teneva la lanterna. Si erano presentati in quarantadue, la notte prima, quando un sergente era passato per le camerate a dire che il capitano cercava volontari per un'uscita e che non avrebbe detto dove. Reks stava in terza fila. Era alto per i suoi diciassette anni, con i capelli così chiari che in Città Bassa li chiamavano capelli di sale.
 
-C'erano due brande, una cassa, una sedia, una finestra con un vaso. Il vaso era di terracotta smaltata di verde, con una crepa riparata col filo di ferro, e dentro c'era della terra secca e lo stelo nero di una pianta morta da tre anni. Nessuno dei due fratelli l'aveva mai tolto di lì. Sulla trave sopra la porta c'erano delle tacche incise col coltello, a coppie, con accanto delle date. Le più basse le aveva fatte la loro madre, in un'altra casa, su un'altra trave, e Reks le aveva ricopiate a memoria la prima settimana. Quelle in alto le aveva fatte lui.
+Il capitano leggeva i nomi senza alzare la voce, e a ogni nome un uomo usciva dalle file e andava a mettersi contro il muro del pozzo. Il primo fu Orren, un cavaliere anziano con le guance scavate che in caserma aveva fama di non aver mai perso né una battaglia né una partita a dadi. Reks contava. Al quindicesimo il capitano si fermò.
 
-La sera prima della partenza, Vaan era seduto sulla sedia con un lenzuolo legato attorno al collo, e protestava.
+Si fermò a lungo. Disse qualcosa al furiere, e il furiere rispose a bassa voce, seguendo una riga con il dito. Reks capì che parlavano di lui. Era il più giovane. Si era arruolato dopo la caduta di Nalbina, aveva fatto due settimane di addestramento con una spada presa in prestito dall'armeria, e prima di allora aveva maneggiato soprattutto casse.
 
-«Non così corti.»
+Poi il capitano prese la penna dalle mani del furiere, non scrisse niente, e disse: «Reks».
+
+Lo disse come aveva detto gli altri quattordici. Reks andò a mettersi contro il muro del pozzo, accanto a un sergente grosso che sbadigliava.
+
+---
+
+In caserma andava da tre anni, ma fino a un mese prima ci era entrato soltanto dalla porta di servizio, con le consegne della bottega di Migelo sulle spalle, di solito olio per le lampade e cuoio per le cinghie. Lasciava le casse in magazzino, si faceva firmare la ricevuta e intanto ascoltava. Di Basch fon Ronsenburg dicevano poche cose, e sempre le stesse. Era di Landis e non sorrideva mai, ma i suoi uomini li riportava a casa. Reks, a forza di sentirlo, aveva cominciato a pronunciare quel nome come in Città Bassa si pronunciano i nomi dei santi, cioè con un po' di rispetto e senza sapere bene che cosa avessero fatto.
+
+Le ragioni per cui si era arruolato le aveva, e ne dava una diversa a seconda di chi gliele chiedeva. A Migelo aveva parlato della paga, perché Migelo era un mercante e la paga la capiva. A Penelo non aveva detto niente: i fratelli di lei, Kel e Doran, erano partiti per Nalbina con il principe Rasler e non erano tornati, e lei andava ogni mattina alla Porta Est a leggere le liste. A Vaan aveva detto che qualcuno doveva pur andare.
+
+Ce n'era un'altra, che non diceva a nessuno. Tre anni prima, quando era venuta la peste, a decidere le cose in casa era rimasto lui. Aveva quattordici anni. Aveva deciso lui quando chiamare il medico e quali cuscini buttare dalla finestra. Da allora decideva lui anche il resto. In caserma, invece, decideva qualcun altro, e Reks obbediva con un sollievo di cui un po' si vergognava. Un capitano come Basch, che a sentire la caserma non sbagliava mai, gli sembrava il meglio che potesse capitargli.
+
+C'era anche la divisa, a dire il vero. Gli piaceva. Anche di questo si vergognava, ma meno.
+
+Dopo l'appello il furiere distribuì le giubbe ai venti, prendendole da una cassa senza guardare le misure. A Reks toccò una giubba nuova, di tela azzurra, con le cuciture ancora rigide e l'odore della tintoria, tagliata per un uomo molto più grosso di lui: le maniche gli coprivano le nocche. Il furiere scrisse il suo nome su un registro e gli spiegò che ogni cosa dell'Ordine che tornava rotta, o che non tornava, si pagava, e la cifra si toglieva dalla paga.
+
+«Anche la giubba?» chiese Reks.
+
+«Soprattutto la giubba.» Il furiere chiuse il registro. «Si parte a mezzanotte, da questo cortile. Fino ad allora andate a casa, e non dite a nessuno dove andate.»
+
+«Non lo sappiamo, dove andiamo.»
+
+«Ecco. Così è più facile.»
+
+---
+
+Vaan era al banco della bottega a pesare datteri. Quando vide entrare il fratello con la giubba azzurra addosso e le maniche fino alle dita, smise di pesare.
+
+«Sei scemo» disse.
+
+Reks fece un giro su se stesso, per mostrargliela tutta.
+
+«Sei scemo» disse ancora Vaan.
+
+Reks rise, e si guardò le maniche, e le tirò su fino ai gomiti. Ricaddero.
+
+«Migelo me la stringe.»
+
+«Sei scemo, Reks.»
+
+«Non hai capito niente.» Reks si sedette sul bordo del banco. «Si va con il capitano Basch. Te lo ricordi? Alle nozze. Quello che guardava i tetti.»
+
+«Mi ricordo che non sorrideva.»
+
+«Appunto.»
+
+Migelo, il vecchio bangaa padrone della bottega, sentì le voci dal magazzino e venne a vedere. Girò attorno a Reks due volte, tirò le maniche e mandò Vaan a prendere l'ago grosso, quello per i sacchi. Passò tutto il pomeriggio al banco a stringere la giubba, fra un cliente e l'altro. Rifece le cuciture delle maniche, dalla spalla al polso, e ogni tanto chiamava Reks per provargliela e lo pungeva senza chiedere scusa, perché a suo dire un soldato si deve abituare.
+
+Era stato Migelo a scrivere la lettera con cui Reks si era presentato all'Ordine. Garantiva per il ragazzo e diceva che legava le casse meglio di chiunque in tutta la Città Bassa. Reks lo aveva pregato di togliere almeno quella frase. Migelo aveva risposto che era l'unica cosa sicura di tutta la lettera, e l'aveva lasciata. L'ufficiale che l'aveva letta in caserma aveva riso proprio a quel punto, e poi lo aveva preso.
+
+Verso sera passò Penelo con un involto di focaccia per Migelo. Guardò Reks, che provava la giubba per l'ultima volta, e gli disse che con la camicia buona sotto sarebbe sembrato un ufficiale. Reks andò di sopra a mettersi la camicia buona. Quando tornò giù pensò di dirle che a Nalbina, se ci fosse passato, avrebbe chiesto di Kel e di Doran. Non glielo disse, perché non sapeva se ci sarebbe passato, e una promessa che non sapeva di poter mantenere gli sembrò peggio di niente.
+
+---
+
+La stanza sopra la bottega sapeva di cumino, di cuoio e di olio per lampade, che salivano dal magazzino attraverso le fessure del pavimento. C'erano due brande, una cassapanca, una sedia e una finestra con un vaso. Il vaso era di terracotta smaltata di verde, con una crepa riparata col filo di ferro, e dentro c'era della terra secca con lo stelo nero di una pianta morta da tre anni. Era stato della madre, e nessuno dei due fratelli lo aveva mai svuotato. Sulla trave sopra la porta c'erano delle tacche incise col coltello, a coppie, con accanto le date. Le più basse le aveva fatte la madre, in un'altra casa, su un'altra trave, e Reks le aveva ricopiate a memoria la prima settimana. Le altre le aveva fatte lui.
+
+Dopo cena Reks accese la lampada, mise la sedia in mezzo alla stanza, ci fece sedere Vaan e gli legò un lenzuolo attorno al collo. Vaan aveva i capelli sugli occhi da un mese, e Reks voleva lasciarlo in ordine almeno in quello.
+
+«Non così corti» disse Vaan.
 
 «Non li ho ancora toccati.»
 
-«Lo so, ti avverto prima. Non così corti.» Vaan girò la testa per guardarlo, e Reks gliela rigirò con due dita. «Li voglio come il pirata.»
+«Ti avverto prima. Li voglio come l'aviopirata.»
 
-«Quale pirata?»
+«Quale aviopirata?»
 
-«Quello della taglia. C'è il manifesto sulla porta della caserma, l'hai visto cento volte.» Vaan agitò le mani sotto il lenzuolo. «Ha i capelli così, di qua lunghi e di qua...»
+«Quello della taglia. Il manifesto è sulla porta della tua caserma, l'hai visto cento volte.»
 
-«Il disegno sul manifesto ha una faccia sola, di profilo, e un naso che sembra un'ascia. Non si capisce che capelli ha. Non si capisce neanche come si chiama, c'è una macchia sul nome.»
+Reks l'aveva visto. Gli aviopirati erano ladri con una nave propria, che assaltavano in volo le navi da carico e sparivano fra le nuvole prima che arrivasse qualcuno. Quello del manifesto aveva una faccia sola, di profilo, con un naso lungo e dritto e una macchia d'inchiostro proprio sul nome.
 
-«Si capisce benissimo.»
-
-«E poi sei biondo. Lui sul manifesto è nero.»
+«Sul manifesto non si capisce che capelli ha» disse Reks. «E poi tu sei biondo, e lui ce li ha neri.»
 
 «È inchiostro, Reks. Sui manifesti sono tutti neri.»
 
-Reks sospirò, prese le forbici, che erano di Migelo e servivano di solito per tagliare le corde dei pacchi, e cominciò. Lavorava con serietà, con la lingua fra i denti, come aveva visto fare al barbiere di via dei Tessitori, e ogni tanto si fermava a guardare l'effetto da un passo indietro, a testa piegata. Vaan stava fermo per periodi di dieci, quindici secondi al massimo, poi si girava per commentare.
+Reks prese le forbici, che erano di Migelo e servivano di solito per tagliare le corde dei pacchi, e cominciò. Lavorava con serietà, con la lingua fra i denti, come aveva visto fare al barbiere di via dei Tessitori. Vaan stava fermo per dieci o quindici secondi alla volta, poi si girava per dire qualcosa. Disse che Penelo li voleva lunghi davanti, perché così aveva l'aria pericolosa. Disse che le forbici gli avevano tagliato l'orecchio. Al terzo commento si girò mentre Reks stava tagliando sopra la tempia sinistra.
 
-«Mi hai tagliato l'orecchio.»
-
-«Non ti ho tagliato l'orecchio.»
-
-«Ho sentito il freddo.»
-
-«Era la forbice. Le forbici sono fredde. Stai fermo.»
-
-«Penelo dice che devi lasciarli lunghi davanti, perché così ho l'aria pericolosa.»
-
-«Penelo ha quindici anni.»
-
-«Come me. E ha due fratelli più grandi che le insegnano a tirare di bastone. Ne sa più di te, di arie pericolose.» Vaan si girò di nuovo. «Perché fai quella faccia?»
-
-«Perché ti sei girato mentre tagliavo.»
-
-Ci fu un silenzio. Vaan si portò una mano sotto il lenzuolo, fino alla tempia sinistra, e tastò.
+Ci fu un silenzio. Vaan si portò una mano sotto il lenzuolo, fino alla tempia, e tastò.
 
 «Reks.»
 
 «Te la sistemo.»
 
-«Reks, cosa hai fatto.»
+Non c'era molto da sistemare. Sopra l'orecchio sinistro di suo fratello, in mezzo a una testa tagliata quasi bene, era rimasta una ciocca bionda lunga il doppio delle altre, che puntava in fuori. Reks provò ad appiattirla con il palmo. Tornò su.
 
-«Niente. È una ciocca un po' più lunga.» Reks guardò il risultato con onestà. Sopra l'orecchio sinistro di suo fratello, in mezzo a una testa tagliata in modo quasi decente, era rimasta una ciocca bionda lunga il doppio delle altre, che puntava in fuori con una sua ostinazione. Provò ad appiattirla con il palmo. Tornò su. «È un tocco personale. I pirati ce l'hanno, il tocco personale.»
+«Gli aviopirati ce l'hanno, un tocco personale» disse.
 
 «Tagliala.»
 
-«Se la taglio adesso devo tagliare anche tutto il resto, e poi sembri un coscritto.»
+«Se la taglio devo tagliare anche tutto il resto, e poi sembri un coscritto.» Reks posò le forbici sulla cassapanca e slegò il lenzuolo. «Quando torno ti porto dal barbiere vero, quello di via dei Tessitori, con i soldi della paga, e te la sistema lui. Te lo prometto.»
 
-«Meglio un coscritto di questo.»
+Vaan si guardò nella padella di rame appesa al chiodo, che era l'unico specchio della stanza e allargava tutto, e nella padella la ciocca era ancora più lunga. Decise di essere offeso, e andò alla finestra con le braccia incrociate, voltando la schiena al fratello.
 
-«Non hai idea di come sembrano i coscritti.» Reks posò le forbici sulla cassa e slegò il lenzuolo. «Quando torno la sistemo. Te lo prometto. Ti porto dal barbiere vero, con i soldi della paga, e te la sistema lui. Intanto ti dà l'aria pericolosa.»
+Migelo salì le scale con il passo pesante e cauto dei bangaa, che hanno le ginocchia piegate al contrario e non si fidano dei gradini. Bussò, cosa che faceva solo nelle occasioni importanti, ed entrò con un fagotto di tela cerata in una mano e la lampada nell'altra. Il fagotto conteneva datteri secchi, pane di semola, una fiaschetta di vino delle Pianure e un rotolo di bende pulite. Lo posò sulla branda di Reks senza dire niente. Poi alzò la lampada verso la testa di Vaan e la guardò da vicino per un bel pezzo.
 
-Vaan si guardò nella padella di rame appesa al chiodo, che era l'unico specchio della stanza e deformava tutto, e la ciocca, nella padella, era ancora più lunga. Decise di essere offeso. Andò alla finestra e ci si appoggiò con le braccia incrociate, voltando la schiena al fratello. Era alto per i suoi quindici anni, magro, con le gambe troppo lunghe per il resto del corpo e le braccia piene di graffi di cui non ricordava l'origine. Dal vicolo sotto saliva il rumore della Città Bassa che andava a dormire: qualcuno che litigava, un bambino che piangeva, la musica di un liuto in una taverna e lo sciabordio di qualcuno che svuotava un secchio nella canaletta.
+«Coraggioso» disse a Reks, con la sua voce di ghiaia, e non era chiaro se parlasse della partenza o del taglio. Se ne andò com'era venuto.
 
-Qualcuno salì le scale di legno con il passo pesante e cauto dei bangaa, che hanno le ginocchia piegate al contrario e diffidano dei gradini. Migelo bussò, cosa che faceva soltanto nelle occasioni importanti, ed entrò con un fagotto di tela cerata in una mano e una lampada nell'altra. Il fagotto conteneva datteri secchi, pane di semola, una fiaschetta di vino delle Pianure e un rotolo di bende pulite. Lo posò sulla branda di Reks senza dire niente. Poi alzò la lampada verso la testa di Vaan, la guardò da vicino per un bel pezzo, con le scaglie azzurre della fronte che gli si aggrottavano e i baffi bianchi che fremevano, e la riabbassò.
+Reks prese la giubba, che Migelo gli aveva lasciato piegata ai piedi del letto, e se la mise sulle ginocchia. Le maniche adesso erano giuste. Dalla tasca tirò fuori la spilla. Era un ovale d'argento grande come un'unghia di pollice, con dentro una goccia di smalto azzurro, e il padre l'aveva portata per tutta la vita sul bavero della giacca della festa. Era l'unica cosa d'argento rimasta in famiglia. Reks la appuntò sul petto della giubba, a sinistra, e ci mise tre tentativi, perché lo spillo era storto e la chiusura non teneva.
 
-«Coraggioso» disse a Reks, con la sua voce di ghiaia. Non era chiaro se parlasse della partenza o del taglio. Se ne andò com'era venuto, e lo sentirono scendere un gradino alla volta, borbottando.
-
-«Comunque è una stupidaggine» disse Vaan alla finestra.
-
-«Cosa?»
-
-«Tutto. Partire. Arruolarsi.» Non si girò. «Ci vanno quelli che non sanno fare niente. Tu sai fare un sacco di cose. Sai fare i conti per Migelo. Sai legare le casse in modo che non si aprono neanche se le butti dal tetto. Migelo l'ha detto.»
-
-«Migelo dice un sacco di cose.»
-
-«E allora perché parti?»
-
-Reks si sedette sulla branda. Non rispose subito. Prese la giubba della divisa, che stava piegata ai piedi del letto, nuova, di tela azzurra con le cuciture ancora rigide, e se la mise sulle ginocchia. Dalla tasca dei calzoni tirò fuori la spilla. Era un ovale d'argento grande come un'unghia di pollice, con dentro una goccia di smalto azzurro, il colore del cielo sopra il deserto alle cinque del pomeriggio, e l'aveva portata loro padre per tutta la vita sul bavero della giacca della festa. Era l'unica cosa d'argento che fosse rimasta in famiglia. Reks la appuntò sul petto della giubba, a sinistra, e ci mise tre tentativi, perché lo spillo era storto e la chiusura non teneva.
-
-«Ti cadrà» disse Vaan dalla finestra, senza voltarsi. L'aveva visto riflesso nel vetro.
+«Ti cadrà» disse Vaan dalla finestra, senza voltarsi. Lo aveva visto riflesso nel vetro.
 
 «Non cade.»
 
-«Lo spillo è storto da quando papà ci si è seduto sopra. Lo dici sempre anche tu.»
+«Lo spillo è storto da quando papà ci si è seduto sopra.»
 
-«Se cade, la raccogli tu.» Reks diede un colpetto alla spilla con il dito. Tenne. «Ci metti un laccio e te la appendi al collo. Così non la perdi più.»
+«Se cade, la raccogli tu. Ci metti un laccio e te l'appendi al collo, così non la perdi più.»
 
-Vaan non rispose. Alla luce della lampada, la spilla sulla tela azzurra della giubba era quasi dello stesso colore, e i capelli di Reks, biondi così chiari da sembrare bianchi, quelli che la gente della Città Bassa chiamava capelli di sale, gli cadevano sulla fronte mentre guardava in basso.
+Vaan non rispose. Dopo un po' venne a sedersi sulla branda accanto a lui, di peso, apposta, così che la branda gemette e Reks fece un piccolo salto.
 
-«Perché si sono presentati in quarantadue e ne hanno presi venti» disse. «E io ero fra i venti.»
+«Perché parti tu?» chiese. «Ci vanno quelli che non sanno fare niente. Tu sai fare i conti. Sai legare le casse. Lo dice anche Migelo.»
 
-«Questo non è un perché. Questo è un come.»
+Reks ci pensò. Delle ragioni che aveva, nessuna era adatta a un fratello di quindici anni con una ciocca storta sopra l'orecchio. Scelse quella che gli parve più vera fra quelle che si potevano dire.
 
-Reks rise. Aveva una risata che arrivava prima di quanto si aspettasse lui stesso, e che lo coglieva sempre un po' di sorpresa. Vaan, alla finestra, si irrigidì per non ridere a sua volta.
-
-«Hai ragione. Non è un perché.» Reks lisciò la giubba con il palmo. «Il perché è che io domani entro a Nalbina dietro al capitano Basch. Quello del corteo, te lo ricordi? Quello che guardava i tetti.»
-
-«Mi ricordo che non sorrideva.»
-
-«Non sorride mai. Dicono che l'ultima volta che ha sorriso è stato al matrimonio, e che nessuno l'ha visto tranne la principessa.» Reks scosse la testa. «Dicono anche che i suoi uomini li riporta a casa. Tutti. Che non lascia indietro nessuno, mai. Ci sono soldati vecchi in caserma che sono vivi solo perché erano con lui.»
-
-«Allora non serve che vai tu. Ci pensa lui a riportare a casa gli altri.»
-
-«Vaan.»
-
-«Cosa.» Vaan si girò. Aveva gli occhi lucidi, e la ciocca sopra l'orecchio puntava verso il soffitto, e l'effetto complessivo era così ridicolo e così poco pericoloso che Reks dovette mordersi il labbro. «Cosa c'è da ridere?»
-
-«Niente. La ciocca.»
-
-«Ti odio.»
-
-«Lo so.» Reks gli fece segno di sedersi accanto a lui. Vaan non si mosse, poi si mosse, e si lasciò cadere sulla branda con tutto il peso, apposta, così che la branda gemette e Reks rimbalzò. «Ascolta. Devo dirti una cosa e non la dico due volte, perché mi vergogno.»
-
-«Allora non dirla.»
-
-«Tu stai qui.»
-
-«Lo sapevo che dicevi questa.»
-
-«Tu stai qui, aiuti Migelo, non rubi niente a nessuno...»
+«Tu stai qui» disse. «Aiuti Migelo, non rubi niente a nessuno...»
 
 «Io non rubo.»
 
-«... non rubi niente a nessuno che abbia un coltello più grande del tuo, e mi aspetti. Qualcuno deve restare a casa.» Reks guardò il vaso verde sulla finestra, con il suo stelo nero. «Altrimenti non si torna da nessuna parte. Si va e basta. E io non voglio andare e basta. Io voglio tornare. Per tornare ci vuole qualcuno a casa.»
+«... non rubi niente a nessuno che abbia un coltello più grande del tuo, e mi aspetti. Qualcuno deve restare a casa.» Guardò il vaso verde sulla finestra. «Altrimenti non si torna da nessuna parte. Si va e basta. Io voglio tornare, e per tornare ci vuole qualcuno a casa.»
 
-Vaan non disse niente. Guardava anche lui il vaso.
+Vaan guardava anche lui il vaso.
 
-«La mamma ci teneva i gigli» disse dopo un po'. «Quelli del deserto.»
+«La mamma ci teneva i gigli» disse dopo un po'. «Non mi ricordo più l'odore.»
 
-«I gigli di Galbana.»
-
-«Non mi ricordo l'odore.»
-
-«Io sì. Di sera. Si aprivano di sera, quando faceva meno caldo, e la stanza si riempiva tutta. Sembrava di stare in un posto più ricco.» Reks si stese sulla branda, con le mani dietro la testa, e guardò le tacche sulla trave sopra la porta. «Quando torno, andiamo a prenderne. Crescono sull'orlo del Deserto Orientale, dalla parte delle Pianure. Si va e si torna in un giorno. Ne prendiamo con le radici e li rimettiamo nel vaso.»
+«Io sì. Si aprivano di sera, quando faceva meno caldo, e la stanza si riempiva tutta. Sembrava di stare in una casa più ricca.» Reks si stese sulla branda con le mani dietro la testa. «Quando torno andiamo a prenderne. Ne crescono anche nel deserto, verso est, fra le rocce. Si va e si torna in un giorno. Li prendiamo con le radici e li mettiamo nel vaso.»
 
 «Il vaso è crepato.»
 
 «Il vaso è riparato. È diverso.»
 
-Vaan si stese accanto a lui, nella branda troppo stretta per due, con i piedi che sporgevano dal bordo. Stettero così senza parlare. La bottega di Migelo, sotto, chiudeva: si sentivano le imposte, la sbarra della porta, la voce del bangaa che contava le monete ad alta voce in una lingua che nessuno dei due capiva, ogni sera da tre anni.
+Reks soffiò sulla lampada. Vaan si stese accanto a lui, nella branda troppo stretta per due, con i piedi fuori dal bordo. Sotto, la bottega chiudeva: si sentivano la sbarra della porta e Migelo che contava le monete ad alta voce nella sua lingua, come ogni sera da tre anni.
 
 «Reks.»
 
 «Mm.»
 
-«Se il capitano Basch non ti riporta a casa, vado a Nalbina e lo ammazzo.»
+«Se il capitano Basch non ti riporta a casa, vengo a Nalbina e lo ammazzo.» Lo disse con la bocca contro il cuscino, e la voce arrivò storta.
 
-«Va bene.»
+«Va bene» disse.
 
 «Dico sul serio.»
 
 «Lo so. Dormi.»
 
-Vaan si addormentò dopo poco, di colpo, come si addormentano i ragazzi di quindici anni, con la bocca aperta e una gamba sopra quella del fratello. Reks rimase sveglio a lungo. Guardava le tacche sulla trave. Pensava che al ritorno ne avrebbe incisa una nuova, perché Vaan cresceva in fretta, e che avrebbe dovuto mettersi sulla sedia per arrivarci.
+Vaan si addormentò presto, di colpo, con la bocca aperta e una gamba sopra quella del fratello. Reks rimase sveglio. Quando le campane della Città Bassa suonarono l'undicesima ora, si sfilò da sotto la gamba di Vaan, piano, e la gamba ricadde fuori dalla branda e restò lì. Si vestì al buio. La giubba stretta da Migelo gli stava bene sulle spalle, e lui le tenne dritte per non stropicciarla.
+
+Prima di uscire guardò le tacche sulla trave. Pensò che al ritorno ne avrebbe incisa una coppia nuova, perché Vaan cresceva in fretta, e che per arrivarci avrebbe dovuto salire sulla sedia. Non svegliò suo fratello. Aveva già detto quello che aveva da dire, e non era sicuro di riuscire a dirlo una seconda volta.
+
+In bottega c'era ancora una lampada accesa. Migelo, seduto al banco, alzò la sbarra della porta senza una parola e la rimise dopo che Reks fu uscito.
 
 ---
 
-Nalbina, di notte, era un labirinto di pietra che puzzava di fumo freddo.
+Partirono in venti a mezzanotte, a dorso di chocobo, dalla Porta Est. Cavalcarono tutta la notte verso est, e quando sorse il sole si nascosero in un letto di torrente asciutto, sotto un telo color sabbia, ad aspettare il buio. Nessuno disse dove andavano, ma in quella direzione c'era soltanto Nalbina.
 
-Erano entrati dai camminamenti delle cisterne, a mezzanotte, in venti, e alla prima ora dopo mezzanotte erano ancora quindici. I corridoi della fortezza erano stretti, illuminati a tratti da torce archadiane fissate in supporti di ferro nuovo, che stonavano contro la pietra vecchia; e in quei corridoi i soldati imperiali erano ovunque, a gruppi di tre e di quattro, svegli e ben armati, in numero che nessuna scorta d'onore poteva giustificare. Si combatteva in fretta, al buio, a distanze in cui non c'è tempo di pensare.
+Reks passò la giornata sotto il telo senza dormire. Il sergente grosso che sbadigliava all'appello russava, a pancia in su, con l'elmo sulla faccia. Orren giocava a dadi con un cavaliere magro, che perdeva sempre e continuava a giocare. A un certo punto Orren disse, senza guardare nessuno, che i ragazzi rallentavano tutti. Reks si guardò le mani. Il capitano, l'unico che non stava seduto, passò il pomeriggio a controllare le cinghie dei chocobo, una per una.
 
-Reks cadde al secondo scontro. Un archadiano gli arrivò di fianco da una porta che nessuno aveva visto, e lo colpì con l'elsa della spada alla tempia, e Reks si ritrovò a terra senza sapere come ci fosse arrivato, con la pietra fredda contro la guancia e un suono acuto nell'orecchio destro. Sentì intorno a sé il rumore del ferro e poi il silenzio. Poi una mano sulla spalla.
+Al tramonto ripartirono, e a mezzanotte erano sotto le mura. Il capitano li fece entrare da un canale delle cisterne che conosceva da quando, da ragazzo, era stato di guarnigione lì. Nel canale l'acqua arrivava alle ginocchia. A Reks si strappò la cinghia che reggeva il fodero, e il fodero cominciò a sbattergli contro la gamba a ogni passo. Un cavaliere giovane, nato a Nalbina, che camminava dietro di lui, gli passò una cinghia di riserva senza dire niente e lo aiutò a legarla al buio.
+
+---
+
+Dentro la fortezza i corridoi erano stretti, illuminati a tratti da torce archadiane fissate a supporti di ferro nuovo. I soldati imperiali erano dappertutto, a gruppi di tre e di quattro, svegli e ben armati, molti di più di quanti ne servissero per scortare un re a firmare. Si combatteva in fretta, al buio, a distanze in cui non c'è tempo di pensare. Alla prima ora dopo mezzanotte i venti erano già quindici.
+
+Reks cadde al secondo scontro, senza aver colpito nessuno. Un archadiano uscì da una porta laterale che nessuno aveva visto e lo colpì alla tempia con l'elsa della spada, e Reks si ritrovò a terra con la pietra fredda contro la guancia e un fischio nell'orecchio destro. Sentì intorno a sé il rumore del ferro, poi più niente. Poi una mano sulla spalla.
 
 «Mi senti?»
 
-Aprì gli occhi. Sopra di lui c'era il capitano Basch, inginocchiato, con l'elmo tolto e la faccia sporca di fumo. Reks lo vedeva doppio, poi singolo.
+Aprì gli occhi. Sopra di lui, inginocchiato, c'era il capitano Basch, con l'elmo tolto e la faccia sporca di fumo. Reks lo vide doppio, poi una volta sola.
 
 «Sì, capitano.»
 
@@ -767,11 +797,11 @@ Aprì gli occhi. Sopra di lui c'era il capitano Basch, inginocchiato, con l'elmo
 
 «Sì, capitano.»
 
-«Non ti ho chiesto di scattare sull'attenti. Voglio sapere se ti reggono le gambe.» Basch gli passò due dita davanti agli occhi, guardò come li seguiva. «Va bene.»
+«Non ti ho chiesto di scattare sull'attenti. Voglio sapere se ti reggono le gambe.» Basch gli passò due dita davanti agli occhi e guardò come le seguiva. «Va bene.»
 
-Dietro di lui, un cavaliere anziano, un uomo con le guance scavate che si chiamava Orren e che nella caserma di Rabanastre aveva fama di non aver mai perduto né una battaglia né una partita a dadi, sputò in terra.
+Dietro di lui Orren sputò in terra.
 
-«Non abbiamo tempo, capitano. Lo sapevamo che i ragazzi ci avrebbero rallentati. Lasciatelo qui. Se ha fortuna, lo trovano i nostri al ritorno.»
+«Non abbiamo tempo, capitano. Lo sapevamo che i ragazzi ci avrebbero rallentati. Lasciatelo qui. Se ha fortuna, lo raccolgono i nostri al ritorno.»
 
 Basch non si voltò.
 
@@ -785,77 +815,75 @@ Basch non si voltò.
 
 «Famiglia?»
 
-Reks esitò, perché era una domanda che i capitani non facevano, e perché la risposta gli sembrava, lì, in quel corridoio, un'informazione privata da non dare a nessuno.
+Reks esitò. I capitani non facevano quella domanda, e lì, nel corridoio, la risposta gli sembrò una cosa privata.
 
-«Un fratello, capitano. Più piccolo di due anni. A Rabanastre.»
+«Un fratello, capitano. Più piccolo di due anni. A Rabanastre.» Poi, siccome il capitano aspettava ancora, aggiunse la prima cosa che gli venne. «È insopportabile.»
 
 «I genitori?»
 
-«La febbre. Tre anni fa.»
+«La peste. Tre anni fa.»
 
-Basch non disse niente. Lo guardò per un momento, e Reks ebbe l'impressione che stesse contando qualcosa: non lui, qualcos'altro, qualcosa che il capitano teneva da qualche parte dentro di sé e che ogni tanto ricontava. Poi Basch gli tese la mano. Reks la afferrò e si tirò su.
+Basch non disse niente. Lo guardò per un momento, e Reks ebbe l'impressione che stesse contando qualcosa che si portava dietro e che ogni tanto ricontava. Poi gli tese la mano, e Reks la prese e si tirò su.
 
-Mentre si alzava, vide il taglio. Il capitano aveva il dorso della mano sinistra aperto di traverso, dalla nocca dell'indice al polso, un taglio pulito e profondo che sanguinava a fiotti lenti dentro il guanto di cuoio squarciato. Doveva esserselo fatto nello scontro, mentre Reks era a terra. Basch non sembrava essersene accorto, o non sembrava interessato ad accorgersene.
+Mentre si alzava vide il taglio. Il capitano aveva il dorso della mano sinistra aperto di traverso, dalla nocca dell'indice al polso, e il sangue usciva piano dal guanto di cuoio squarciato. Doveva esserselo fatto mentre Reks era a terra. Basch non lo guardava.
 
-Reks non chiese il permesso. Afferrò la manica della propria giubba nuova, quella di tela azzurra con le cuciture ancora rigide, la strappò alla cucitura della spalla con un solo strattone, ne ricavò una striscia con i denti e la passò attorno alla mano del capitano, tre giri stretti sopra il guanto, e la chiuse con un nodo doppio, girato due volte e poi ripassato sotto. Era il nodo con cui legava le casse di Migelo. Non si apriva neanche a buttarlo dal tetto.
+Le bende di Migelo erano rimaste nel fagotto, legato alla sella di un chocobo fuori dalle mura; con sé Reks aveva soltanto la fiaschetta, appesa alla cintura. Ci pensò, e pensò anche al pomeriggio di Migelo al banco con l'ago dei sacchi, e alla manica che gli aveva stretto punto per punto. Poi afferrò la manica destra della giubba, la strappò alla cucitura della spalla con uno strattone solo, ne ricavò una striscia con i denti e la passò attorno alla mano del capitano, tre giri stretti sopra il guanto. La chiuse con un nodo doppio, girato due volte e ripassato sotto. Era il nodo con cui legava le casse di Migelo, quelle che non si aprono neanche se le butti dal tetto. Non chiese il permesso. Ci pensò soltanto dopo, quando il nodo era fatto.
 
-Basch guardò la propria mano. Guardò il nodo. Guardò il moncone di manica sulla spalla del ragazzo.
+Basch guardò la propria mano. Guardò il nodo. Guardò la spalla del ragazzo, dove adesso c'era una cucitura vuota con i fili tirati.
 
 «Il furiere te la farà pagare» disse.
 
 «Sì, capitano.»
 
-«Due gil. Tre, se è di cattivo umore.» Basch flesse le dita, una per una, sotto la fasciatura. Tenevano. «Pagali volentieri.»
+«Due gil. Tre, se è di cattivo umore.» Basch piegò le dita sotto la fasciatura, una per una. Tenevano. «Pagali volentieri.»
 
-Fu tutto. Si rimise l'elmo, si alzò, e da quel momento, per il resto della notte, Reks camminò alla sua destra, e il capitano non gli disse mai di stare indietro.
+Si rimise l'elmo e si alzò. Da quel momento, per il resto della notte, Reks camminò alla sua destra, e il capitano non gli disse mai di stare indietro.
 
 ---
 
-Vossler York Azelas li raggiunse a un incrocio di corridoi, con altri quattro uomini. Aveva una ferita alla fronte e il fiato corto. Disse che la strada principale verso gli appartamenti del re era chiusa, che c'erano almeno trenta archadiani nella sala d'armi e che bisognava passare dai cammini di ronda esterni. Basch disse che allora sarebbero passati dai cammini di ronda esterni. Vossler disse che sui cammini di ronda esterni non c'era riparo. Basch disse che lo sapeva.
+A un incrocio di corridoi li raggiunse il capitano Vossler, con altri quattro uomini. Aveva una ferita alla fronte e il fiato corto. Disse che la strada verso gli appartamenti del re era chiusa e che bisognava passare dai cammini di ronda esterni. Basch disse che allora sarebbero passati dai cammini di ronda esterni. Vossler disse che lassù non c'era riparo. Basch disse che lo sapeva.
 
 «Prendi i tuoi e va' avanti» aggiunse. «Noi teniamo questo incrocio finché non siete passati.»
 
-«Basch.»
+Vossler guardò lui, poi Reks con la sua manica mancante, poi di nuovo lui. «Buona fortuna» disse, nel tono di chi alla fortuna non crede, e se ne andò.
 
-«Va'.»
+I cammini di ronda erano larghi due uomini, senza parapetto dalla parte interna, aperti sul cielo. Il cielo era pieno di fumo e di luci di aeronavi. Li percorsero in fila, chinati, e a metà strada sentirono il rombo.
 
-Vossler lo guardò, poi guardò Reks accanto a lui, con la sua manica mancante, poi di nuovo Basch. «Buona fortuna» disse, con il tono di chi alla fortuna non crede, e se ne andò.
+Era un'aeronave piccola, di quelle rapide, con il muso affilato e le ali corte, che gli archadiani chiamavano tagliavento. Salì da sotto le mura, si fermò sospesa a dieci passi dal camminamento, e girò verso di loro le bocche delle armi. Per il tempo che servì ai suoi artiglieri per prendere la mira, nessuno si mosse.
 
-I cammini di ronda erano larghi due uomini, senza parapetto dalla parte interna, aperti sul cielo. Il cielo era pieno di fumo e di luci di aeronavi. Gli uomini di Basch li percorsero in fila, chinati, e a metà strada sentirono il rombo.
+Poi Orren si buttò di lato, dietro un torrione, e altri due lo seguirono. Era la cosa giusta da fare, e l'istruttore di Reks lo aveva insegnato due settimane prima, in un cortile.
 
-Era una delle aeronavi piccole, di quelle rapide, con il muso affilato e le ali corte, che gli archadiani chiamavano tagliavento. Venne su da sotto le mura come uno squalo che sale dal fondo, si fermò sospesa a dieci passi dal camminamento, rombando, e girò verso di loro le bocche delle sue armi. Per un istante, il tempo che i suoi artiglieri prendessero la mira, tutti la guardarono senza muoversi.
+Reks non si buttò. Non decise di restare: se ne accorse dopo. Era rimasto in piedi perché il capitano era rimasto in piedi, e lui camminava alla sua destra. Basch aveva alzato la spada a due mani sopra la testa, e Reks vide la fasciatura azzurra stringersi sull'elsa. Poi il capitano colpì, non l'aeronave ma l'aria fra sé e l'aeronave, con un colpo dall'alto in basso troppo veloce per l'occhio. Dalla lama partì qualcosa che Reks non riuscì a vedere bene, e attraversò il vuoto e prese la macchina sotto il ventre, dove stavano i motori.
 
-Orren si buttò di lato, dietro un torrione. Due uomini lo seguirono. Era la cosa giusta da fare. Qualunque istruttore lo avrebbe detto.
+La tagliavento sobbalzò. Un motore tossì e buttò fuori fumo nero. Le armi spararono, ma troppo in alto, e i colpi si schiantarono su un torrione lontano. Poi l'aeronave si piegò su un'ala e si allontanò nel fumo, perdendo quota, verso la piana.
 
-Reks non si buttò. Non decise di non buttarsi: si accorse soltanto, dopo, che era rimasto in piedi accanto al capitano, con la spada in mano, perché il capitano era rimasto in piedi, e lui camminava alla sua destra. Basch aveva sollevato la spada a due mani sopra la testa. Reks vide la fasciatura azzurra sulla mano sinistra stringersi sull'elsa. Poi Basch colpì, non l'aeronave, ma l'aria fra sé e l'aeronave, con un colpo dall'alto in basso che Reks non riuscì a seguire, e qualcosa partì dalla lama, una luce o un'onda, Reks non seppe mai dirlo, e attraversò il vuoto e prese la macchina sotto il ventre, dove stavano i motori.
-
-L'aeronave sobbalzò. Un motore tossì e mandò fuori un getto di fumo nero. Le sue armi spararono, ma alte, sopra le teste, e i colpi andarono a schiantarsi su un torrione lontano. Poi la tagliavento si piegò su un'ala e si allontanò barcollando nel fumo, perdendo quota, verso la piana.
-
-Basch abbassò la spada. Respirava forte. Guardò Reks accanto a sé, e Reks pensò che gli avrebbe detto qualcosa, e Basch non gli disse niente. Si limitò a fargli un cenno con la testa, piccolo, il cenno che si fa a un compagno, e riprese a camminare.
+Basch abbassò la spada. Respirava forte. Guardò Reks, e Reks aspettò che dicesse qualcosa. Il capitano non disse niente: gli fece un cenno con la testa, piccolo, quello che si fa a un compagno, e riprese a camminare. Reks gli andò dietro. Per tutto il resto del cammino di ronda si sentì le orecchie calde, e fu contento che fosse buio.
 
 Orren uscì da dietro il torrione e non guardò nessuno.
 
 ---
 
-Alla fine del cammino di ronda c'era una scala, e in cima alla scala una porta, e dietro la porta un corridoio lungo che portava, Basch lo sapeva, agli appartamenti dove l'Impero aveva alloggiato il re. Lo sapeva perché li aveva sorvegliati lui stesso, anni prima, quando era di guarnigione a Nalbina. Erano rimasti in nove.
+Alla fine del cammino di ronda c'era una scala, in cima alla scala una porta, e dietro la porta un corridoio lungo che portava agli appartamenti dove l'Impero aveva alloggiato il re. Basch li conosceva dagli anni della guarnigione. Erano rimasti in nove.
 
-Il corridoio era vuoto. Lo percorsero di corsa. In fondo c'era una seconda scala, più stretta, e quando arrivarono alla base della seconda scala sentirono i passi.
+Il corridoio era vuoto. Lo percorsero di corsa. In fondo c'era una seconda scala, più stretta, e quando arrivarono ai primi gradini sentirono i passi.
 
-Venivano da dietro. Dal corridoio che avevano appena attraversato. Erano molti, pesanti, ritmati, e si avvicinavano.
+Venivano da dietro, dal corridoio che avevano appena attraversato. Erano molti, pesanti, a tempo, e si avvicinavano.
 
-Basch si fermò. Guardò la scala davanti a sé. Guardò il corridoio dietro. Nessuno dei suoi uomini disse niente. Erano tutti soldati, sapevano fare il conto: se si fermavano tutti a combattere, il re restava solo; se salivano tutti, i passi li avrebbero raggiunti sulla scala, dove non si combatte.
+Basch si fermò. Guardò la scala, poi il corridoio. Nessuno parlò. Erano tutti soldati e sapevano fare il conto: se si fermavano tutti a combattere, il re restava solo, e se salivano tutti, i passi li avrebbero raggiunti sulla scala, dove non si combatte.
 
-«Vado io, capitano» disse Reks.
+Anche Reks fece il conto, e lo fece come lo faceva al banco di Migelo, con le cose che aveva davanti. Il corridoio era largo quanto due uomini. Due uomini alla volta si potevano tenere, almeno per un po'. Lassù serviva ogni spada che sapesse fare il suo mestiere, e la sua, per adesso, non aveva ancora toccato nessuno. Gli venne in mente, mentre apriva la bocca, che da quando si era arruolato era la prima cosa che decideva da solo, e che si era arruolato proprio per non doverne decidere più. Non ebbe il tempo di trovarlo buffo.
+
+«Vado io, capitano.»
 
 Basch lo guardò.
 
-«Il corridoio è stretto. Ne passano due alla volta. Li tengo io.» Reks aveva la voce ferma. Si stupì lui stesso di quanto fosse ferma. «Voi andate dal re.»
+«Il corridoio è stretto. Ne passano due alla volta. Li tengo io.» La voce gli uscì ferma, più di quanto si aspettasse. «Voi andate dal re.»
 
 «Sei un ragazzo.»
 
-«Sì, capitano. Me l'avete chiesto prima. Diciassette.» Reks strinse la spada. «Ma il re è più importante di un ragazzo. E poi è questo che avete detto a Orren. Che alcuni hanno qualcosa da difendere.»
+«Sì, capitano. Me l'avete chiesto prima. Diciassette.» Reks strinse la spada. «Ma il re è più importante di un ragazzo. E poi l'avete detto voi, a Orren. Che alcuni hanno qualcosa da difendere.»
 
-Basch rimase in silenzio per un tempo che a Reks parve lunghissimo e che fu, in realtà, quello di due respiri. I passi si avvicinavano. Si vedevano già le luci delle loro torce in fondo al corridoio, che ballavano sui muri.
+Basch rimase zitto per il tempo di due respiri. A Reks sembrò molto di più. I passi si avvicinavano, e in fondo al corridoio si vedevano già le torce, che facevano ballare la luce sui muri.
 
 «Tieni la schiena al muro» disse il capitano. «Non andargli incontro. Lascia che vengano loro. Quando non ce la fai più, scendi le scale e vai verso le cisterne. Non verso di noi. Verso le cisterne. È un ordine.»
 
@@ -865,14 +893,13 @@ Basch rimase in silenzio per un tempo che a Reks parve lunghissimo e che fu, in 
 
 «Le cisterne.»
 
-Basch gli mise la mano fasciata sulla spalla, quella con la manica mancante. La tenne lì un momento. Poi si voltò e salì la scala con gli altri sette, di corsa, senza guardare indietro.
+Basch gli mise la mano fasciata sulla spalla, quella senza manica, e la tenne lì un momento. Poi si voltò e salì la scala di corsa con gli altri sette, senza guardare indietro.
 
-Reks rimase solo alla base della scala. Si mise con la schiena contro la pietra, come gli era stato detto. Strinse la spada. Pensò, senza volerlo, alla ciocca sopra l'orecchio sinistro di suo fratello, e quasi rise.
+Reks rimase solo ai piedi della scala. Si mise con la schiena contro la pietra, come gli era stato detto, e strinse la spada con tutte e due le mani. Si accorse che la spilla del padre era ancora al suo posto, sul petto, storta, e che aveva tenuto per tutta la notte. Al ritorno lo avrebbe detto a Vaan, che la spilla non era caduta. Pensò alla ciocca sopra l'orecchio sinistro di suo fratello, e quasi rise.
 
 Le torce arrivarono.
 
-
-## 5. Il capitano che uccise il re
+## 5. L'uomo che uccise il re
 
 Il primo che arrivò era più basso di lui. Reks lo notò perché si era preparato a guardare in alto, e invece si trovò davanti un elmo all'altezza dei propri occhi, con la celata alzata e dentro una faccia giovane, rasata male, che respirava con la bocca. Si guardarono per un istante. Poi l'archadiano attaccò, e Reks fece quello che gli era stato detto: non gli andò incontro, tenne la schiena contro il muro, lasciò che fosse l'altro a venire, e quando l'altro venne gli mise la spada sotto lo scudo, dove la cotta finisce e comincia la coscia.
 
@@ -888,11 +915,11 @@ Si erano ritirati. O erano andati a cercare un'altra strada.
 
 L'archadiano che si muoveva era il primo, quello basso con la faccia rasata male. Si era trascinato fino al muro di fronte e ci si era appoggiato con la schiena, tenendosi la coscia con le mani, e guardava Reks con gli occhi di un cane che non sa se verrà bastonato. Aveva perso l'elmo. Senza l'elmo dimostrava sedici anni, forse meno. Aveva i capelli rossicci tagliati cortissimi, alla maniera delle reclute, e una lentiggine grande sulla guancia sinistra, e le labbra bianche.
 
-Disse qualcosa in archadiano. Reks non capì. Lo ripeté, più piano, e questa volta fece con la mano il gesto di bere.
+Disse qualcosa in un dialetto archadiano così stretto che Reks non capì. Lo ripeté, più piano, e questa volta fece con la mano il gesto di bere.
 
 Reks rimase a guardarlo per un tempo che non avrebbe saputo misurare. Poi slacciò dalla cintura la fiaschetta di Migelo, quella del vino delle Pianure, la stappò con i denti e attraversò il corridoio scavalcando i morti. Si inginocchiò accanto al ragazzo archadiano, tenendo la spada nella destra, e con la sinistra gli avvicinò la fiaschetta alla bocca. L'altro bevve. Tossì, perché era vino e non acqua, e bevve ancora.
 
-«Grazie» disse, in un dalmasco stentato, l'unica parola che probabilmente conosceva.
+«Grazie» disse, con la stessa cadenza stretta, e questa volta Reks capì.
 
 Reks annuì. Si rialzò. Gli lasciò la fiaschetta in grembo, perché a lui, pensò, sarebbe servita di più. Poi si accorse di avere le guance bagnate, e non avrebbe saputo dire da quando, e se le asciugò con il dorso della mano sporca.
 
@@ -908,7 +935,7 @@ Era una scala a chiocciola, senza luce, e Reks la salì tenendo la mano sinistra
 
 Gli appartamenti dove l'Impero aveva alloggiato il re di Dalmasca erano quelli del vecchio governatore della fortezza: tre stanze in fila, con i soffitti a volta e le finestre strette che davano sul deserto. Reks entrò nella prima dalla porta di servizio, quella da cui era passato il capitano, e la prima cosa che vide fu Orren.
 
-Il cavaliere anziano era seduto per terra contro il muro, accanto alla porta, con le gambe distese davanti a sé e la spada in grembo. Aveva gli occhi aperti. Aveva sul petto una ferita larga come una mano, e la giubba azzurra, lì, era diventata nera. Sembrava che si fosse seduto a riposare un momento dopo una lunga marcia, e che si fosse dimenticato di rialzarsi. Reks si chinò su di lui e lo chiamò per nome. Orren non rispose. Reks gli toccò la spalla, piano, come si sveglia qualcuno che ha diritto di dormire, e la spalla era ancora calda, e la testa del vecchio si piegò di lato contro il muro. Soltanto allora Reks capì. Restò accovacciato lì davanti per qualche respiro, senza sapere che cosa si fa. All'addestramento non lo avevano detto. Alla fine gli chiuse gli occhi con due dita, come aveva visto fare a sua madre con suo padre, tre anni prima, nella stanza della febbre, e si stupì che le palpebre fossero così leggere.
+Il cavaliere anziano era seduto per terra contro il muro, accanto alla porta, con le gambe distese davanti a sé e la spada in grembo. Aveva gli occhi aperti. Aveva sul petto una ferita larga come una mano, e la giubba azzurra, lì, era diventata nera. Sembrava che si fosse seduto a riposare un momento dopo una lunga marcia, e che si fosse dimenticato di rialzarsi. Reks si chinò su di lui e lo chiamò per nome. Orren non rispose. Reks gli toccò la spalla, piano, come si sveglia qualcuno che ha diritto di dormire, e la spalla era ancora calda, e la testa del vecchio si piegò di lato contro il muro. Soltanto allora Reks capì. Restò accovacciato lì davanti per qualche respiro, senza sapere che cosa si fa. All'addestramento non lo avevano detto. Alla fine gli chiuse gli occhi con due dita, come aveva visto fare a sua madre con suo padre, tre anni prima, nella stanza della peste, e si stupì che le palpebre fossero così leggere.
 
 Gli altri erano nella seconda stanza. Reks li contò senza volerlo, perché gli era rimasta l'abitudine di contarli da quando, nel corridoio, erano diventati nove: uno vicino al camino, due sotto la finestra, uno a faccia in giù in mezzo al pavimento, con il braccio piegato in un modo che le braccia non hanno. Cinque, con Orren. Andò da ciascuno. Li girò, quelli che erano girati, e guardò le loro facce alla luce che veniva dalla terza stanza, una dopo l'altra, con il cuore che gli batteva in gola, perché aveva paura di trovarne una. Non la trovò. Erano uomini che conosceva di vista, dalla caserma: il sergente che russava, quello che giocava a dadi con Orren e perdeva sempre, un cavaliere giovane di Nalbina che quella sera, nelle cisterne, gli aveva prestato una cinghia. Nessuno era il capitano. Mancavano due cavalieri, e mancava il capitano, e Reks si rialzò con un sollievo così grande che se ne vergognò davanti ai morti. Non c'erano archadiani. Non ce n'era nemmeno uno, morto o vivo, in tutta la stanza. Reks lo notò e non seppe che cosa farne.
 
@@ -938,7 +965,7 @@ Era la voce del capitano. Era la voce che nel corridoio gli aveva chiesto quanti
 
 Raminas scosse la testa, piano.
 
-«Ho comprato del tempo» disse. «Pagandolo caro. È diverso, anche se capisco che da dove stai tu non si veda la differenza.» Guardò il foglio sotto la sua mano. «Qui c'è scritto che Dalmasca resta Dalmasca, con un governatore archadiano e le sue tasse e le sue guarnigioni. C'è scritto che le cisterne restano nostre, e i templi, e la lingua. C'è scritto che nessuno verrà impiccato per aver combattuto a Nalbina. Sono cose piccole. Un re che non può più vincere compra cose piccole. Le compra una per una, e se ne trova abbastanza, un giorno forse si ricompone qualcosa di grande.» Alzò gli occhi. «Tu queste cose le hai lette? O ti hanno soltanto detto che c'era un foglio?»
+«Ho comprato del tempo» disse. «Pagandolo caro. È diverso, anche se capisco che da dove stai tu non si veda la differenza.» Guardò il foglio sotto la sua mano. «Qui c'è scritto che Dalmasca resta Dalmasca, con un governatore archadiano e le sue tasse e le sue guarnigioni. C'è scritto che le cisterne restano nostre, e i templi, e le usanze. C'è scritto che nessuno verrà impiccato per aver combattuto a Nalbina. Sono cose piccole. Un re che non può più vincere compra cose piccole. Le compra una per una, e se ne trova abbastanza, un giorno forse si ricompone qualcosa di grande.» Alzò gli occhi. «Tu queste cose le hai lette? O ti hanno soltanto detto che c'era un foglio?»
 
 Il cavaliere non rispose. Raminas sospirò, come sospira un vecchio che ha visto troppi giovani convinti. Prese il bastone. Lo puntò contro il pavimento e, con uno sforzo che gli fece tremare il braccio, si alzò dalla sedia. Era più piccolo, in piedi, di quanto Reks avesse pensato. Si raddrizzò quanto poteva. «Ecco. Non mi va di farlo seduto. Un re dovrebbe almeno stare in piedi.»
 
@@ -1000,7 +1027,7 @@ Gli stivali si allontanarono di qualche passo. Si fermarono accanto al re.
 
 Dopo, ci furono rumori.
 
-Passi, molti, che entravano dalla porta principale della terza stanza, quella che Reks non aveva visto. Armature. Voci in archadiano, una lingua che Reks conosceva soltanto per le bestemmie dei soldati di guarnigione al mercato, e che adesso gli arrivava ovattata, da lontano, come attraverso una parete d'acqua. Una voce più alta delle altre, che dava ordini.
+Passi, molti, che entravano dalla porta principale della terza stanza, quella che Reks non aveva visto. Armature. Voci con l'accento archadiano, quello che Reks conosceva soltanto per le bestemmie dei soldati di guarnigione al mercato. Adesso gli arrivavano ovattate, da lontano, come attraverso una parete d'acqua. Una voce più alta delle altre, che dava ordini.
 
 «Arrestatelo.»
 
@@ -1008,7 +1035,7 @@ Qualcuno si mosse sopra di lui. Ci fu un rumore di ferro, e poi la voce del capi
 
 «Il re ha tradito Dalmasca! Ha venduto il suo popolo! Dalmasca non si inginocchierà mai davanti all'Impero, mai, finché ci sarà un solo uomo...»
 
-«La guerra è finita.» La voce degli ordini non si era alzata. Parlava in dalmasco, con un accento pulito e una certa soddisfazione. «Dalmasca l'ha persa stanotte, per mano di un suo capitano. Avremmo potuto lasciarle qualcosa. Ora non le lasceremo niente. E il nome di Basch fon Ronsenburg lo maledirà ogni bocca del regno.»
+«La guerra è finita.» La voce degli ordini non si era alzata. Parlava con un accento dalmasco pulito e una certa soddisfazione. «Dalmasca l'ha persa stanotte, per mano di un suo capitano. Avremmo potuto lasciarle qualcosa. Ora non le lasceremo niente. E il nome di Basch fon Ronsenburg lo maledirà ogni bocca del regno.»
 
 Reks voleva alzare la testa. Voleva guardare. Non ci riuscì. Riusciva a vedere soltanto, a una spanna dal proprio viso, il pomo d'argento del bastone del re, consumato dalla mano, che rifletteva la luce delle candele, e oltre il pomo, sfocato, il bordo del panno verde che pendeva dal tavolo e gocciolava inchiostro.
 
@@ -1029,7 +1056,7 @@ Poi le candele si spensero, o si spense lui, e non ci fu più differenza.
 
 ## 6. La morte di un regno
 
-Il primo documento arrivò a Rabanastre tre giorni dopo la notte di Nalbina, inchiodato alle porte della città da soldati che non parlavano dalmasco e che non ne avevano bisogno, perché il foglio era scritto in un dalmasco eccellente. Era stampato, non copiato a mano. A Rabanastre i fogli stampati si vedevano di rado, e la gente si fermava a toccarli prima ancora di leggerli, a passare il dito sulle lettere tutte uguali, come se l'uniformità dei caratteri fosse già una prova della loro verità.
+Il primo documento arrivò a Rabanastre tre giorni dopo la notte di Nalbina, inchiodato alle porte della città da soldati che non dissero una parola e che non ne avevano bisogno, perché il foglio era scritto benissimo. Era stampato, non copiato a mano. A Rabanastre i fogli stampati si vedevano di rado, e la gente si fermava a toccarli prima ancora di leggerli, a passare il dito sulle lettere tutte uguali, come se l'uniformità dei caratteri fosse già una prova della loro verità.
 
 Il foglio diceva che re Raminas di Dalmasca, recatosi a Nalbina per sottoscrivere un trattato di pace con l'Impero di Archadia, era stato assassinato a tradimento, nella notte, da un ufficiale del suo stesso esercito. Diceva che l'Impero deplorava il crimine con tutta la forza del suo sdegno. Diceva che l'assassino era stato catturato sul fatto da reparti imperiali accorsi in difesa del sovrano, e che i reparti imperiali erano accorsi troppo tardi, e che di questo ritardo l'Impero si rammaricava. Diceva, in fondo, in caratteri più piccoli, che per garantire l'ordine pubblico e la sicurezza dei cittadini in un momento di così grave lutto, le truppe imperiali sarebbero entrate a Rabanastre il giorno seguente.
 
@@ -1061,21 +1088,23 @@ Il proclama non diceva come. Non diceva dove fosse il corpo, né quando sarebbe 
 
 ---
 
-Il terzo documento fu letto due settimane dopo, in piazza, davanti al palazzo, da un araldo archadiano in tabarro grigio, con un dalmasco senza accento. Era una sentenza.
+Il terzo documento fu letto due settimane dopo, in piazza, davanti al palazzo, da un araldo archadiano in tabarro grigio, senza nessun accento. Era una sentenza.
 
 Diceva che Basch fon Ronsenburg, già capitano dell'Ordine dei Cavalieri di Dalmasca, nativo di Landis, riconosciuto colpevole di regicidio e di alto tradimento davanti a un tribunale militare dell'Impero, era stato giustiziato a Nalbina all'alba del giorno precedente. Diceva che la sentenza era stata eseguita secondo la legge, con la dovuta solennità e alla presenza di testimoni. Non diceva i nomi dei testimoni. Diceva che chiunque, da quel giorno, avesse continuato a impugnare le armi contro l'ordine stabilito sarebbe stato considerato complice del traditore, e trattato di conseguenza.
+
+Qualche giorno dopo la stessa notizia arrivò da Bhujerba, in un secondo proclama del marchese, che la riportava parola per parola e non vi aggiungeva niente di suo.
 
 L'araldo arrotolò il foglio. La piazza era piena. Una donna accanto alla fontana, quella con il re di pietra, disse «Bene» ad alta voce, e la parola rimbalzò sulle facciate, e qualcuno intorno a lei ripeté «bene», e poi un altro, e per un poco la piazza fu piena di gente che diceva bene senza guardarsi in faccia. Fra loro c'era un ragazzo magro, con le gambe troppo lunghe e una ciocca di capelli storta sopra l'orecchio, che non disse niente ad alta voce ma lo pensò con tanta forza che gli fece male la testa. Poi se ne tornò di corsa verso la Città Bassa, perché c'era qualcuno, nella stanza sopra la bottega di Migelo, che non poteva essere lasciato solo troppo a lungo.
 
 ---
 
-La resa fu firmata un mese dopo, a Nalbina, dal cancelliere Halvor, in quanto più alto ufficiale superstite della corona. Fu una resa senza condizioni. Il trattato che Raminas aveva letto fino alla penultima riga, quello che lasciava a Dalmasca le cisterne e i templi e la lingua, non fu mai ritrovato; fu sostituito da un altro, più breve, che non lasciava niente e che non aveva bisogno di essere letto fino in fondo, perché diceva tutto nella prima riga. Il cancelliere lo firmò senza leggerlo. Gli tremava la mano. Gli archadiani presenti furono così cortesi da non notarlo.
+La resa fu firmata un mese dopo, a Nalbina, dal cancelliere Halvor, in quanto più alto ufficiale superstite della corona. Fu una resa senza condizioni. Il trattato che Raminas aveva letto fino alla penultima riga, quello che lasciava a Dalmasca le cisterne e i templi e le usanze, non fu mai ritrovato; fu sostituito da un altro, più breve, che non lasciava niente e che non aveva bisogno di essere letto fino in fondo, perché diceva tutto nella prima riga. Il cancelliere lo firmò senza leggerlo. Gli tremava la mano. Gli archadiani presenti furono così cortesi da non notarlo.
 
 Il giorno dopo, sul palazzo di Rabanastre, le bandiere azzurre e bianche vennero ammainate e piegate con cura da soldati imperiali che avevano ricevuto istruzioni precise su come piegarle, perché l'Impero teneva molto alla forma. Al loro posto salirono le insegne di Archadia. Il leone di pietra sopra la porta grande non fu toccato; sarebbe costato troppo smontarlo, e un leone su una porta conquistata, del resto, fa la figura del trofeo.
 
 Quello stesso giorno entrò nella sala del consiglio un tribuno archadiano giovane, con i guanti bianchi e un segretario che portava una cartella di cuoio. Trovò il tesoriere Ostram ancora al suo posto, perché nessuno gli aveva detto di andarsene, seduto davanti alla mappa di pelle di capra con le mani in grembo. Il tribuno si avvicinò al tavolo, guardò i pesi d'ottone per un tempo educato e poi, con due dita guantate, cominciò a raccoglierli. Prese prima quello di Nabradia, poi quelli di Dalmasca, uno dopo l'altro, e li mise nella cartella del segretario, che li riceveva con l'aria di chi raccoglie le briciole da una tovaglia. Lasciò sulla mappa gli undici pesi di Archadia, dove stavano.
 
-«Si era parlato di un'autonomia» disse Ostram. Non sapeva perché lo stesse dicendo. «Nel trattato. Le cisterne, i templi, la lingua.»
+«Si era parlato di un'autonomia» disse Ostram. Non sapeva perché lo stesse dicendo. «Nel trattato. Le cisterne, i templi, le usanze.»
 
 «Se n'era parlato» disse il tribuno. «Con un re. Il re non c'è più, e non per colpa nostra.» Chiuse la cartella. «Ringraziate il vostro capitano.»
 
@@ -1093,7 +1122,7 @@ Non disse niente quel giorno. Non disse niente il giorno dopo, quando le giovani
 
 La sera del terzo giorno, quando le ragazze se n'erano andate, prese un piatto dalla credenza, ci mise sopra una focaccia della Città Bassa, un pezzo di formaggio di capra e una manciata di datteri, ci posò sopra un tovagliolo pulito e lo mise da parte nella dispensa, sul ripiano più alto, dove gli archadiani non guardavano.
 
-Il cuoco archadiano che il governatore aveva mandato a ispezionare le cucine la vide farlo e le chiese, in un dalmasco faticoso, per chi fosse.
+Il cuoco archadiano che il governatore aveva mandato a ispezionare le cucine la vide farlo e le chiese, con un accento archadiano stretto, per chi fosse.
 
 «Per nessuno» disse la vecchia.
 
@@ -1122,7 +1151,7 @@ Quella mattina, nel tratto di fogna sotto la via dei Calderai, le code ancora at
 
 «Chi vuoi che arrivi? Qui sotto non ci viene nessuno. Per questo i topi sono così grossi.»
 
-Erano grossi davvero. I topi delle fogne di Rabanastre mangiano quello che la città butta via, e una città che ha perso una guerra butta via meno di prima ma butta via cose più strane, e i topi si erano adattati. Quei tre arrivavano al ginocchio. Giravano attorno a Vaan sull'orlo dello scolo, a distanza di una spada e mezzo, perché avevano capito qualcosa sulla lunghezza della spada; erano topi che avevano già incontrato altri ragazzi. Vaan teneva la lama bassa e la testa un poco di lato, per abitudine, perché sopra l'orecchio sinistro gli cresceva una ciocca bionda più lunga delle altre che gli cadeva sugli occhi; era lì da due anni, da quando suo fratello aveva provato a tagliargli i capelli con le forbici delle corde e aveva promesso, ridendo, di farla sistemare dal barbiere al ritorno. Vaan non l'aveva mai fatta tagliare. La spada era corta, da soldato, con l'impugnatura fasciata di cuoio nuovo sopra il cuoio vecchio, e lui la usava con una sicurezza che non veniva da nessun maestro: due anni di topi, di cani randagi, di bastoni contro un palo nel cortile di Migelo, quando Migelo non guardava.
+Erano grossi davvero. I topi delle fogne di Rabanastre mangiano quello che la città butta via, e una città che ha perso una guerra butta via meno di prima ma butta via cose più strane, e i topi si erano adattati. Quei tre arrivavano al ginocchio. Giravano attorno a Vaan sull'orlo dello scolo, a distanza di una spada e mezza, perché avevano capito qualcosa sulla lunghezza della spada; erano topi che avevano già incontrato altri ragazzi. Vaan teneva la lama bassa e la testa un poco di lato, per abitudine, perché sopra l'orecchio sinistro gli cresceva una ciocca bionda più lunga delle altre che gli cadeva sugli occhi; era lì da due anni, da quando suo fratello aveva provato a tagliargli i capelli con le forbici delle corde e aveva promesso, ridendo, di farla sistemare dal barbiere al ritorno. Vaan non l'aveva mai fatta tagliare. La spada era corta, da soldato, con l'impugnatura fasciata di cuoio nuovo sopra il cuoio vecchio, e lui la usava con una sicurezza che non veniva da nessun maestro: due anni di topi, di cani randagi, di bastoni contro un palo nel cortile di Migelo, quando Migelo non guardava.
 
 Sotto la camicia, la spilla azzurra di Reks gli batteva sullo sterno, appesa a un laccio infilato nella chiusura. Vaan l'aveva staccata dalla giubba del fratello al ritorno da Nalbina; lo spillo storto non teneva più. Strinse la fascia rossa in vita e tornò a guardare i topi.
 
@@ -1168,7 +1197,7 @@ I soldati erano la cosa che si notava per ultima, ed era questo, forse, il cambi
 
 Sopra la porta del palazzo reale sventolava lo stendardo di Archadia, nero e oro. Al posto dell'azzurro e del bianco. Lo si vedeva da quasi tutta la città alta, e anche questo, col tempo, si era smesso di guardarlo.
 
-Vaan attraversò il mercato di Muthru con una pesca in mano. Questa l'aveva pagata: aveva lasciato due coppe sul banco della vedova Hanna, la fruttivendola con il fazzoletto giallo, che le aveva prese senza guardarlo e senza ringraziare, perché Vaan aveva un conto aperto con lei da un certo pomeriggio di tre anni prima e il conto, secondo lei, non si sarebbe chiuso mai. Il mercato era pieno. C'erano Huma e Bangaa, c'erano Seeq che contrattavano con la voce nasale della loro gente, c'erano due moguri che vendevano carta da lettere e penne e che litigavano fra loro in un modo così cortese che sembrava un complimento. I tappeti erano stesi sotto le tende, le spezie nei sacchi aperti, le lame appese per il manico ai pali dei banchi del vicolo dei fabbri. Si contrattava come si era sempre contrattato, a voce alta, con gli occhi al cielo e le mani sul cuore, e chi non sapeva nulla di guerre avrebbe giurato che a Rabanastre non fosse successo niente.
+Vaan attraversò il mercato di Muthru con una pesca in mano. Questa l'aveva pagata: aveva lasciato due coppe sul banco della vedova Hanna, la fruttivendola con il fazzoletto giallo, che le aveva prese senza guardarlo e senza ringraziare, perché Vaan aveva un conto aperto con lei da una certa mattina di due anni prima e il conto, secondo lei, non si sarebbe chiuso mai. Il mercato era pieno. C'erano Huma e Bangaa, c'erano Seeq che contrattavano con la voce nasale della loro gente, c'erano due moguri che vendevano carta da lettere e penne e che litigavano fra loro in un modo così cortese che sembrava un complimento. I tappeti erano stesi sotto le tende, le spezie nei sacchi aperti, le lame appese per il manico ai pali dei banchi del vicolo dei fabbri. Si contrattava come si era sempre contrattato, a voce alta, con gli occhi al cielo e le mani sul cuore, e chi non sapeva nulla di guerre avrebbe giurato che a Rabanastre non fosse successo niente.
 
 Al banco di Sahra successe qualcosa.
 
@@ -1214,9 +1243,9 @@ Vaan proseguì, sempre guardando le stoffe. Contò fra sé, senza muovere le lab
 
 «La borsa!»
 
-Al sette il soldato se n'era accorto. Era un soldato sveglio, almeno su questo. Vaan non si voltò a vederlo. Sentì il grido e sentì i passi pesanti che partivano, e partì anche lui, e la differenza fra un soldato archadiano in armatura e un ragazzo della Città Bassa in sandali, sulle pietre storte della via dei Tessitori, è una cosa che a Rabanastre si poteva misurare in palmi, e ogni volta i palmi erano di più.
+Al sette il soldato se n'era accorto. Era un soldato sveglio, almeno su questo. Vaan non si voltò a vederlo. Sentì il grido e sentì i passi pesanti che partivano, e partì anche lui, e la differenza fra un soldato archadiano in armatura e un ragazzo della Città Bassa in sandali, sulle pietre storte della via dei Tessitori, era una cosa che a Rabanastre si poteva misurare in palmi, e ogni volta i palmi erano di più.
 
-Sgusciò sotto un telo di cotone giallo. Saltò un cesto di matasse. Girò a destra nel vicolo del tintore, dove l'acqua delle vasche colava per terra in rivoli blu e rossi, e scivolò di proposito, sapendo come si scivolava lì; dietro di lui il soldato scivolò senza saperlo e finì con un ginocchio nell'indaco. Le voci dei due imperiali si alzarono e poi si spezzarono contro un ostacolo: la moglie del tintore, che usciva proprio allora dalla bottega con una tinozza in braccio e si fermava in mezzo al vicolo, spaventatissima, scusandosi in tre lingue e senza spostarsi di un passo. Al fondo del vicolo un vecchio seduto su uno sgabello allungò distrattamente un bastone attraverso la strada, per stirarsi una gamba. Nessuno, a Rabanastre, aveva mai aiutato Vaan a scappare. Gli ostacoli, semplicemente, si trovavano dove si trovavano.
+Sgusciò sotto un telo di cotone giallo. Saltò un cesto di matasse. Girò a destra nel vicolo del tintore, dove l'acqua delle vasche colava per terra in rivoli blu e rossi, e scivolò di proposito, sapendo come si scivolava lì; dietro di lui il soldato scivolò senza saperlo e finì con un ginocchio nell'indaco. Le voci dei due imperiali si alzarono e poi si spezzarono contro un ostacolo: la moglie del tintore, che usciva proprio allora dalla bottega con una tinozza in braccio e si fermava in mezzo al vicolo, spaventatissima, scusandosi in tre dialetti e senza spostarsi di un passo. Al fondo del vicolo un vecchio seduto su uno sgabello allungò distrattamente un bastone attraverso la strada, per stirarsi una gamba. Nessuno, a Rabanastre, aveva mai aiutato Vaan a scappare. Gli ostacoli, semplicemente, si trovavano dove si trovavano.
 
 Quando arrivò alla scalinata che scende verso la Città Bassa, le voci erano lontane. Si fermò dietro un muro, nell'ombra, con il fiato corto e la borsa in mano. Era di cuoio buono, archadiano, con le cuciture fatte a macchina. Pesava bene.
 
@@ -1242,7 +1271,7 @@ Penelo aveva diciassette anni, i capelli biondi raccolti in due codini legati co
 
 «Mi impiccano in piazza e poi tu vieni a portarmi i fiori.»
 
-«Ti mettono in una cella a Nalbina e non ti vede più nessuno.» Lo disse senza alzare la voce, e Vaan smise di sorridere. Quella parola, a Rabanastre, aveva ancora il potere di far smettere di sorridere. «E dopo chi ci va a liberare i condotti dai topi? Chi ruba le pesche alla vedova Hanna e poi gliele paga tre anni dopo?»
+«Ti mettono in una cella a Nalbina e non ti vede più nessuno.» Lo disse senza alzare la voce, e Vaan smise di sorridere. Quella parola, a Rabanastre, aveva ancora il potere di far smettere di sorridere. «E dopo chi ci va a liberare i condotti dai topi? Chi ruba le pesche alla vedova Hanna e poi gliele paga due anni dopo?»
 
 «Non sono affari tuoi.»
 
@@ -1272,7 +1301,7 @@ Vaan aprì la bocca. La richiuse. Era una di quelle volte, rare ma non abbastanz
 
 «Più gli interessi. Più il fatto che il popolo sono io, quando sto al banco, e il banco non è mio.» Si strofinò le mani infarinate sul grembiule. «Migelo è buono, Vaan. Ma non è scemo. Se continui a prendere pane come se il forno fosse tuo, un giorno se ne accorge, e non dirà niente, e sarà peggio.»
 
-Vaan non rispose. Soppesò la borsa, se la mise alla cintura accanto alle code di topo, e per un momento, uno solo, ebbe sulla faccia un'espressione che non era quella del ragazzo che ride da solo dietro un muro. Lo sapeva. Lo sapeva anche lui che non poteva continuare così: pesche pagate tre anni dopo, pane preso e non pagato, il soldo di un soldato rubato in una via di tintori. Non gli piaceva rubare. Non gli piaceva nemmeno non rubare, e chiedere, e ringraziare. Ogni volta che Migelo gli metteva in mano un lavoretto, ogni volta che Penelo gli lasciava una focaccia sul davanzale, sentiva una cosa che non avrebbe saputo nominare e che assomigliava a una corda. Una corda gentile. Una corda di cui avrebbe dovuto essere grato, e lo era, e che lo legava comunque a quel quartiere, a quelle strade, a quella stanza sopra la bottega dove dormiva ancora, e dove dormiva male.
+Vaan non rispose. Soppesò la borsa, se la mise alla cintura accanto alle code di topo, e per un momento, uno solo, ebbe sulla faccia un'espressione che non era quella del ragazzo che ride da solo dietro un muro. Lo sapeva. Lo sapeva anche lui che non poteva continuare così: pesche pagate due anni dopo, pane preso e non pagato, il soldo di un soldato rubato in una via di tintori. Non gli piaceva rubare. Non gli piaceva nemmeno non rubare, e chiedere, e ringraziare. Ogni volta che Migelo gli metteva in mano un lavoretto, ogni volta che Penelo gli lasciava una focaccia sul davanzale, sentiva una cosa che non avrebbe saputo nominare e che assomigliava a una corda. Una corda gentile. Una corda di cui avrebbe dovuto essere grato, e lo era, e che lo legava comunque a quel quartiere, a quelle strade, a quella stanza sopra la bottega dove dormiva ancora, e dove dormiva male.
 
 Un'ombra attraversò la piazza.
 
@@ -1290,11 +1319,11 @@ Vaan la seguì con gli occhi finché fu un punto, e poi anche dopo.
 
 «Lo so, Vaan.»
 
-«Non devo chiedere il permesso a nessuno. Né a Migelo, né agli imperiali, né alle guardie della Porta Est. Prendo e vado. Su, sopra le nuvole. Giù a Bhujerba, su ad Archades se mi va, e se non mi va non ci vado. Nessuno sa dove sono. Nessuno mi cerca.» Si accorse di aver detto l'ultima frase e se ne pentì subito, perché non era quella che voleva dire. «Un pirata dei cieli. Ecco cosa faccio.»
+«Non devo chiedere il permesso a nessuno. Né a Migelo, né agli imperiali, né alle guardie della Porta Est. Prendo e vado. Su, sopra le nuvole. Giù a Bhujerba, su ad Archades se mi va, e se non mi va non ci vado. Nessuno sa dove sono. Nessuno mi cerca.» Si accorse di aver detto l'ultima frase e se ne pentì subito, perché non era quella che voleva dire. «Un aviopirata. Ecco cosa faccio.»
 
 Penelo aveva sentito quel discorso tante volte che avrebbe potuto recitarlo al posto suo, con le pause giuste. Lo lasciò finire. Poi guardò il punto dove l'aeronave era sparita, e per un momento, un momento solo, sembrò che ci pensasse anche lei.
 
-«I pirati dei cieli» disse «non stanno nelle celle di Nalbina. È una delle poche cose che so di loro.»
+«I pirati del cielo» disse «non stanno nelle celle di Nalbina. È una delle poche cose che so di loro.»
 
 «Non ci finirò, a Nalbina.»
 
@@ -1329,7 +1358,7 @@ Quando Vaan entrò, la coda fece un tac doppio.
 
 La bottega di Migelo stava sulla piazza bassa, all'incrocio fra la via dei Calderai e la discesa verso la Città Bassa, e vendeva tutto quello che una casa di Rabanastre poteva desiderare e non poteva permettersi: lampade, olio, spezie, stoffe di seconda mano, pentole, corde, attrezzi da viaggio, pozioni per le febbri del deserto in boccette di vetro verde che il vecchio comprava a Nalbina e rivendeva con un ricarico che chiamava «il rischio della strada». Era stretta e profonda, con gli scaffali fino al soffitto e una scala a pioli che correva su un binario. Dietro la bottega c'era un cortile con un pozzo, e sopra la bottega c'era la stanza dove Vaan dormiva, e prima di lui avevano dormito altri ragazzi. Migelo prendeva in casa gli orfani della Città Bassa come altri prendono i gatti: senza decidere, uno alla volta, lamentandosi di ognuno.
 
-Quel giorno, sul bancone, c'era una lista. Era lunga quanto un braccio, scritta in archadiano da una mano di cancelleria, con un timbro in fondo. Migelo la toccava ogni tanto, come si tocca una ferita per vedere se fa ancora male.
+Quel giorno, sul bancone, c'era una lista. Era lunga quanto un braccio, scritta da una mano di cancelleria archadiana, con un timbro in fondo. Migelo la toccava ogni tanto, come si tocca una ferita per vedere se fa ancora male.
 
 «Stasera» disse «al palazzo c'è il banchetto per il console nuovo. Lo sai, no? Tutta la città lo sa. Arriva da Archades, arriva da Nalbina, non si sa bene da dove arriva, ma arriva, e il banchetto è stasera, e una parte di quello che si mangia stasera lo porto io.» Batté la lista con un artiglio. «Io. Migelo. Ci sono quattro mercanti in tutta Rabanastre che hanno avuto la lista, e uno sono io.»
 
@@ -1365,7 +1394,7 @@ Vaan aveva l'idea che Kytes, tre ore prima, fosse in fondo a un condotto con una
 
 ---
 
-La Sandsea era la taverna dei forestieri, e lo si capiva dal modo in cui la gente ci entrava: piano, guardandosi attorno, con la mano vicino alla borsa. Stava sulla via principale, a due passi dalla Porta Est, con una sala bassa e fresca piena di tavoli di legno scuro, una scala che portava al piano di sopra e un bancone dove Tomaj spillava birra di Bhujerba e vino di Nabradia per gente che arrivava da tutte le direzioni e ci restava poco. Si parlavano cinque o sei lingue alla volta. Le pareti erano coperte di avvisi.
+La Sandsea era la taverna dei forestieri, e lo si capiva dal modo in cui la gente ci entrava: piano, guardandosi attorno, con la mano vicino alla borsa. Stava sulla via principale, a due passi dalla Porta Est, con una sala bassa e fresca piena di tavoli di legno scuro, una scala che portava al piano di sopra e un bancone dove Tomaj spillava birra di Bhujerba e vino di Nabradia per gente che arrivava da tutte le direzioni e ci restava poco. Si parlavano cinque o sei dialetti alla volta. Le pareti erano coperte di avvisi.
 
 Kytes stava davanti alla bacheca. Aveva le mani dietro la schiena e il naso a un palmo da un foglio, e muoveva le labbra mentre leggeva, perché aveva imparato da poco.
 
@@ -1459,7 +1488,7 @@ Vaan ci pensò per tutto il tempo che gli serviva, cioè pochissimo.
 
 Alla Porta Est c'erano sei soldati. Vaan li contò mentre si avvicinava: quattro alla barriera, uno sulla torretta, uno seduto all'ombra con un registro sulle ginocchia. Erano nuovi davvero; avevano le armature pulite di chi non ha ancora fatto la polvere di Rabanastre, e la pelle rossa di chi non ha ancora fatto il sole.
 
-Quello del registro gli chiese i documenti. Vaan glieli diede. Il soldato lesse il lasciapassare, lo rigirò, lo lesse di nuovo, con la lentezza di un uomo che non sa leggere il dalmasco e non vuole che si sappia.
+Quello del registro gli chiese i documenti. Vaan glieli diede. Il soldato lesse il lasciapassare, lo rigirò, lo lesse di nuovo, con la lentezza di un uomo che non sa leggere bene e non vuole che si sappia.
 
 «Motivo dell'uscita.»
 
@@ -1481,7 +1510,7 @@ Il soldato guardò il lasciapassare. Guardò Vaan. Guardò il compagno alla barr
 
 «Grazie, signore.»
 
-Mentre la barriera si alzava, Vaan sentì quello della torretta dire a quello del registro, in archadiano, una frase in cui comparivano due parole che conosceva: il nome del console e un'altra, che a Rabanastre i soldati usavano spesso e che voleva dire più o meno «macellaio». Lo disse con ammirazione.
+Mentre la barriera si alzava, Vaan sentì quello della torretta dire a quello del registro, in un dialetto archadiano stretto, una frase in cui capì soltanto due parole: il nome del console e un'altra, che a Rabanastre i soldati usavano spesso e che voleva dire più o meno «macellaio». Lo disse con ammirazione.
 
 Vaan se la mise da parte, per Montblanc. Poi uscì nel deserto.
 
@@ -1738,9 +1767,9 @@ Ci pensò. Ci pensò davvero, e Penelo, che lo conosceva, lo lasciò pensare, pe
 
 Vaan arrossì, cosa che gli capitava di rado e che detestava. Penelo rise, per la prima volta in tutto quel giorno, e poi smise, e si alzò, e gli tese la mano per tirarlo su.
 
-Tornarono verso la piazza bassa per la strada lunga, quella che costeggia il palazzo dal lato delle cisterne. Era sera piena. La città, dopo la cerimonia, si era riempita di un'allegria cauta, a macchie: le taverne avevano le porte aperte, qualcuno suonava un liuto, una pattuglia di soldati imperiali beveva vino di Dalmasca all'angolo con la via dei Calderai, cantando in archadiano una canzone di cui nessuno capiva le parole. Penelo camminava piano. Ogni tanto si fermava a guardare una cosa: una porta, un'insegna, un balcone.
+Tornarono verso la piazza bassa per la strada lunga, quella che costeggia il palazzo dal lato delle cisterne. Era sera piena. La città, dopo la cerimonia, si era riempita di un'allegria cauta, a macchie: le taverne avevano le porte aperte, qualcuno suonava un liuto, una pattuglia di soldati imperiali beveva vino di Dalmasca all'angolo con la via dei Calderai, cantando una canzone in un dialetto archadiano così stretto che nessuno ne capiva le parole. Penelo camminava piano. Ogni tanto si fermava a guardare una cosa: una porta, un'insegna, un balcone.
 
-«Lì c'era la bottega del cartolaio» disse, davanti a una facciata con le finestre murate. «Quello con la moglie che cantava. Adesso è un ufficio. Non so di cosa.» E più avanti: «Lì facevano le frittelle di miele, alla festa di mezza estate. Adesso c'è la caserma della ronda.» E più avanti ancora, davanti all'angolo della via delle Fontane, dove sotto la vecchia targa di pietra con il nome della via ne avevano inchiodata una nuova, di metallo, con lo stesso nome in lettere archadiane: «Guarda. Gli hanno dato un nome nuovo. Uguale a quello vecchio, ma nella loro lingua. Così, quando quella vecchia si rompe, nessuno la rifà.»
+«Lì c'era la bottega del cartolaio» disse, davanti a una facciata con le finestre murate. «Quello con la moglie che cantava. Adesso è un ufficio. Non so di cosa.» E più avanti: «Lì facevano le frittelle di miele, alla festa di mezza estate. Adesso c'è la caserma della ronda.» E più avanti ancora, davanti all'angolo della via delle Fontane, dove sotto la vecchia targa di pietra con il nome della via ne avevano inchiodata una nuova, di metallo, con lo stesso nome in lettere archadiane: «Guarda. Gli hanno dato un nome nuovo. Uguale a quello vecchio, ma scritto alla loro maniera. Così, quando quella vecchia si rompe, nessuno la rifà.»
 
 «Non si rompe.»
 
@@ -1835,7 +1864,7 @@ Vaan lo fissò.
 
 «Non ho detto questo. Ho detto che mi piace. Mi piacciono molte cose che non farei.» Dalan posò la tazza. «Il palazzo ha le sue porte, e le sue porte hanno le loro guardie, e tu le hai contate, immagino, per due giorni di fila, seduto sui tetti come un gatto. Sì, me l'hanno detto anche questo. Le guardie sono troppe. Ma i palazzi vecchi hanno sempre una porta in più. Quella che i re si facevano fare per uscire senza che nessuno lo sapesse, o per far entrare qualcuno senza che nessuno lo vedesse. I re di Dalmasca non erano diversi dagli altri.»
 
-Si alzò. Fu un'operazione lunga, che passò per il bordo del tavolo e per lo schienale della sedia e per una serie di lamenti in una lingua che Vaan non conosceva. Andò allo scaffale più alto, quello vicino al letto, e ci frugò dentro, spostando scatole, finché non trovò quella che cercava. Era piccola, di legno nero, senza ornamenti. La posò sul tavolo e la aprì.
+Si alzò. Fu un'operazione lunga, che passò per il bordo del tavolo e per lo schienale della sedia e per una serie di lamenti in un dialetto che Vaan non conosceva. Andò allo scaffale più alto, quello vicino al letto, e ci frugò dentro, spostando scatole, finché non trovò quella che cercava. Era piccola, di legno nero, senza ornamenti. La posò sul tavolo e la aprì.
 
 Dentro, su un letto di stoffa sbiadita, c'era una pietra.
 
@@ -1898,7 +1927,7 @@ Le cockatrici dei nomadi, aveva detto Dalan, sono stupide ma beccano. Vaan scopr
 
 Vaan entrò nel villaggio dei nomadi correndo all'indietro, con la spada alzata davanti a sé e la cockatrice che lo seguiva a becco aperto, e la prima persona che lo vide rise così forte che dovette sedersi.
 
-Era una vecchia. Stava sulla soglia di una tenda, su uno sgabello di vimini, a sgranare fagioli in una ciotola, e aveva una faccia piena di rughe così fitte che il riso gliele riempiva tutte, come l'acqua riempie un campo arato. Quando riuscì a smettere, si asciugò gli occhi con il dorso della mano, mise giù la ciotola, si alzò, e disse alla cockatrice una parola sola, secca, in una lingua che Vaan non conosceva. L'uccello si fermò di colpo. Guardò la vecchia, poi Vaan, poi di nuovo la vecchia, e se ne andò verso i recinti con l'andatura offesa di chi è stato trattato ingiustamente.
+Era una vecchia. Stava sulla soglia di una tenda, su uno sgabello di vimini, a sgranare fagioli in una ciotola, e aveva una faccia piena di rughe così fitte che il riso gliele riempiva tutte, come l'acqua riempie un campo arato. Quando riuscì a smettere, si asciugò gli occhi con il dorso della mano, mise giù la ciotola, si alzò, e disse alla cockatrice una parola sola, secca, in un dialetto che Vaan non conosceva. L'uccello si fermò di colpo. Guardò la vecchia, poi Vaan, poi di nuovo la vecchia, e se ne andò verso i recinti con l'andatura offesa di chi è stato trattato ingiustamente.
 
 «Non la guardare negli occhi» disse la vecchia. «Le cockatrici pensano che chi le guarda negli occhi voglia rubare loro le uova. Non ne hanno, di uova. È un maschio. Ma lui non lo sa.»
 
@@ -2724,7 +2753,7 @@ Vaan non seppe se era un complimento. Lo prese come tale, nel dubbio, e si strin
 
 Fran alzò la testa.
 
-Fu un movimento brusco, il primo che le avesse visto fare: tutte e due le orecchie si girarono insieme verso il corridoio, tese, e lei rimase così, immobile, ad ascoltare qualcosa che gli altri due non sentivano. Poi lo sentirono anche loro. Passi. Molti. Pesanti. Metallo su pietra, nel corridoio, lontano, oltre la parete che si era richiusa, oltre il vano con le tacche: il rumore di uomini in armatura che correvano. E voci. Gridavano in archadiano.
+Fu un movimento brusco, il primo che le avesse visto fare: tutte e due le orecchie si girarono insieme verso il corridoio, tese, e lei rimase così, immobile, ad ascoltare qualcosa che gli altri due non sentivano. Poi lo sentirono anche loro. Passi. Molti. Pesanti. Metallo su pietra, nel corridoio, lontano, oltre la parete che si era richiusa, oltre il vano con le tacche: il rumore di uomini in armatura che correvano. E voci. Gridavano con l'accento archadiano.
 
 «Hanno aperto» disse Fran. «Dall'altra parte.»
 
@@ -2924,11 +2953,11 @@ Vaan arrossì. Era la terza volta in una settimana, e cominciava a pensare che f
 
 «Non scusarti con me. Io ci sono abituato. La gente la guarda e io guardo la gente che la guarda, ed è uno dei piaceri della vita.» L'uomo si alzò, si stirò la schiena, riprese il panciotto dalla sporgenza e lo esaminò controluce con aria critica. «Le viere non escono dai loro boschi. Lo sai, no? Stanno là dentro da secoli, con i loro alberi e i loro silenzi, e guardano il mondo degli uomini come si guarda un formicaio: con interesse e da lontano. Una viera che viaggia è una cosa rara. Una viera che viaggia con un Huma, poi...»
 
-«È una cosa che non si spiega» disse Fran, dalla barca. «Come un pirata dei cieli che entra in un palazzo dalle fogne.»
+«È una cosa che non si spiega» disse Fran, dalla barca. «Come un aviopirata che entra in un palazzo dalle fogne.»
 
 Lo disse con la stessa voce con cui aveva detto beve, sulla barca volante, piatta e un po' roca, senza alzare la testa. Ma Vaan non la sentì così. Vaan sentì soltanto due parole, e le due parole gli entrarono dentro come l'acqua del canale gli era entrata in bocca, tutte in una volta.
 
-«Pirata» disse. «Pirata dei cieli. Siete pirati dei cieli?»
+«Pirata» disse. «Pirata del cielo. Siete pirati del cielo?»
 
 L'uomo si girò verso Fran con un'espressione di rimprovero.
 
@@ -2948,7 +2977,7 @@ L'uomo lo guardò a lungo. Sulla sua faccia, per un istante, passò qualcosa che
 
 «E l'aeronave? Dov'è? Com'è? Quanto è veloce?»
 
-«Calma. Calma, per carità.» L'uomo alzò le mani. «Una cosa alla volta. Prima ci presentiamo, come la gente educata. Poi usciamo da questa fogna. Poi, se sarai molto fortunato e molto zitto, forse ti dirò di che colore è.» Si mise una mano sul petto e fece un piccolo inchino, perfetto, da sala da ballo, che in quella galleria piena d'acqua e di muschio fece uno strano effetto. «Balthier. Pirata dei cieli, come la mia socia ha voluto rivelare. Lei è Fran.»
+«Calma. Calma, per carità.» L'uomo alzò le mani. «Una cosa alla volta. Prima ci presentiamo, come la gente educata. Poi usciamo da questa fogna. Poi, se sarai molto fortunato e molto zitto, forse ti dirò di che colore è.» Si mise una mano sul petto e fece un piccolo inchino, perfetto, da sala da ballo, che in quella galleria piena d'acqua e di muschio fece uno strano effetto. «Balthier. Aviopirata, come la mia socia ha voluto rivelare. Lei è Fran.»
 
 «Fran» disse Vaan.
 
@@ -2998,7 +3027,7 @@ Vaan guardò lei, poi lui, e capì che non aveva capito niente e che, in compens
 
 Camminarono a favore di corrente. Le gallerie erano diverse da quelle che Vaan aveva percorso all'andata: più basse, più vecchie, e in molti punti segnate dal bombardamento. Il colpo dell'Ifrit, sopra, aveva fatto tremare tutto; c'erano tratti di volta crollati, mucchi di pietre in mezzo alle passerelle, crepe nuove nei muri da cui l'acqua usciva a spruzzi, come da una botte forata. In un punto la passerella era sparita del tutto, e dovettero passare uno alla volta su una trave di ferro che attraversava il canale, e Balthier passò per primo con le braccia larghe, come un funambolo in piazza, e Fran passò per ultima senza guardare dove metteva i piedi, e Vaan passò in mezzo, guardando dove metteva i piedi con tutta l'attenzione di cui era capace.
 
-Balthier parlava. Parlava quasi sempre, con quella sua voce di uno che racconta una storia a tavola, e diceva cose di cui la metà erano vere e l'altra metà erano più divertenti. Disse che le fogne di Rabanastre erano le più eleganti che avesse mai visitato, e ne aveva visitate molte. Disse che a Bhujerba le fogne non c'erano, perché la città stava sospesa nel cielo e quello che si buttava cadeva in testa a qualcun altro, molto più in basso, che di solito non si lamentava perché era un mercante archadiano. Disse che a Balfonheim, la città dei pirati, le fogne erano la parte più pulita del porto. Vaan ascoltava tutto, con la bocca mezza aperta, e ogni nome di città gli si accendeva dentro come una lanterna.
+Balthier parlava. Parlava quasi sempre, con quella sua voce di uno che racconta una storia a tavola, e diceva cose di cui la metà erano vere e l'altra metà erano più divertenti. Disse che le fogne di Rabanastre erano le più eleganti che avesse mai visitato, e ne aveva visitate molte. Disse che a Bhujerba le fogne non c'erano, perché la città stava sospesa nel cielo e quello che si buttava cadeva in testa a qualcun altro, molto più in basso, che di solito non si lamentava perché era un mercante archadiano. Disse che a Balfonheim, la città degli aviopirati, le fogne erano la parte più pulita del porto. Vaan ascoltava tutto, con la bocca mezza aperta, e ogni nome di città gli si accendeva dentro come una lanterna.
 
 Fran non parlava. Camminava, e ascoltava, e ogni tanto si fermava e girava le orecchie verso un punto del buio, e allora si fermavano anche gli altri; una volta dal buio uscì una bestia, una specie di rospo grosso come un cane con la pelle che luccicava di muco, e Fran la abbatté con una freccia sola prima che Vaan avesse finito di tirare fuori la spada. L'arco lo portava sulla schiena. Vaan non l'aveva visto prenderlo.
 
@@ -3066,7 +3095,7 @@ Fran si era avvicinata al bordo della passerella. Stava guardando l'acqua del vo
 
 Non spiegò perché. Nessuno glielo chiese.
 
-Ripresero il cammino. Lasciarono la camera rotonda da una galleria che saliva, piano, verso un rumore che all'inizio sembrava l'acqua di una chiusa e che poi, a mano a mano che si avvicinavano, diventava un'altra cosa: metallo contro metallo, colpi, passi su una passerella di ferro, e grida in archadiano. Qualcuno, più avanti, stava ancora combattendo.
+Ripresero il cammino. Lasciarono la camera rotonda da una galleria che saliva, piano, verso un rumore che all'inizio sembrava l'acqua di una chiusa e che poi, a mano a mano che si avvicinavano, diventava un'altra cosa: metallo contro metallo, colpi, passi su una passerella di ferro, e grida con l'accento archadiano. Qualcuno, più avanti, stava ancora combattendo.
 
 E sopra tutte quelle voci, nitida, una voce di donna, giovane, che non chiedeva niente a nessuno.
 
@@ -3119,7 +3148,7 @@ Lei lo guardò. Aveva gli occhi azzurri, di un azzurro chiaro e duro, e lo guard
 
 Si girò. Balthier si era allontanato di qualche passo e stava esaminando con grande interesse una delle ruote dentate appese al muro, con le mani dietro la schiena, come un visitatore in un museo. Non si voltò. Fran era accanto a lui e guardava la donna, invece, con gli occhi rossi socchiusi.
 
-«...Balthier e Fran» finì Vaan. «Sono pirati.»
+«...Balthier e Fran» finì Vaan. «Sono aviopirati.»
 
 «Grazie, ragazzo» disse Balthier alla ruota dentata. «Grazie davvero. La discrezione è una virtù che si impara col tempo.»
 
@@ -3276,9 +3305,9 @@ Vayne la guardò ancora un momento. Poi si raddrizzò, tolse le mani dal parapet
 
 # Parte II. Le segrete e il traditore
 
-*Del capitano Basch fon Ronsenburg ho scritto altrove, e non intendo ripetermi. Basti ricordare che fu processato dal tribunale militare della guarnigione di Nalbina nell'autunno del 704, riconosciuto colpevole dell'assassinio di re Raminas e giustiziato pochi giorni dopo la sentenza. Non assistetti all'esecuzione. Ne ebbi notizia da un dispaccio ufficiale, che conservo, e non ho motivo di dubitare di quanto vi si legge.*
+*Del capitano Basch fon Ronsenburg ho scritto altrove, e non intendo ripetermi. Basti ricordare che fu processato dal tribunale militare della guarnigione di Nalbina nella primavera del 704, riconosciuto colpevole dell'assassinio di re Raminas e giustiziato prima ancora che la sentenza fosse letta in pubblico. Non assistetti all'esecuzione. Ne ebbi notizia da un dispaccio ufficiale, che conservo, e non ho motivo di dubitare di quanto vi si legge.*
 
-*Mi si è chiesto più volte, negli anni seguenti, perché il marchese di Bhujerba non abbia mai preso pubblicamente la parola su quella vicenda. La risposta è semplice, e chi conosce il mestiere del governo la troverà ovvia: vi sono morti di cui è prudente non parlare, perché parlarne non li riporterebbe in vita e potrebbe costare la vita ad altri. Ho scelto la prudenza. Non me ne vanto, e non me ne scuso.*
+*Mi si è chiesto più volte, negli anni seguenti, perché il marchese di Bhujerba, dando quella notizia, non vi abbia mai aggiunto una parola di suo. La risposta è semplice, e chi conosce il mestiere del governo la troverà ovvia: vi sono morti di cui è prudente non parlare, perché parlarne non li riporterebbe in vita e potrebbe costare la vita ad altri. Ho scelto la prudenza. Non me ne vanto, e non me ne scuso.*
 
 *Halim Ondore IV, marchese di Bhujerba, Memorie, libro secondo*
 
@@ -3306,7 +3335,7 @@ L'ufficiale la guardò come si guarda un cane che abbaia.
 
 «Lo deciderà il tribunale.»
 
-«Il tribunale deciderà quello che gli diranno di decidere. Lo deciderete voi, adesso.» La voce di Amalia era salita di un tono, ed era diventata quella delle chiuse: la voce di qualcuno abituato a ricevere le risposte prima di aver finito la domanda. «Sono un ragazzo, un pirata e una viera. Credete davvero che la Resistenza di Dalmasca recluti pirati?»
+«Il tribunale deciderà quello che gli diranno di decidere. Lo deciderete voi, adesso.» La voce di Amalia era salita di un tono, ed era diventata quella delle chiuse: la voce di qualcuno abituato a ricevere le risposte prima di aver finito la domanda. «Sono un ragazzo, un aviopirata e una viera. Credete davvero che la Resistenza di Dalmasca recluti pirati?»
 
 «Credo che stanotte c'erano molte persone dove non dovevano essere.»
 
@@ -3338,7 +3367,7 @@ Arrivò al cordone dei soldati e ci sbatté contro.
 
 «Indietro, ragazza.»
 
-«Lui non c'entra niente.» Penelo cercò di infilarsi fra due soldati. Uno la prese per la spalla e la rimise al suo posto, senza violenza, come si rimette a posto una sedia. «Vaan! Ditegli... lui non c'entra. Non è un ribelle. Non sa neanche cosa vuol dire, ribelle. È un ragazzo. È uno che ruba le pesche. Vi prego. È uno che ruba le pesche e poi le paga tre anni dopo.»
+«Lui non c'entra niente.» Penelo cercò di infilarsi fra due soldati. Uno la prese per la spalla e la rimise al suo posto, senza violenza, come si rimette a posto una sedia. «Vaan! Ditegli... lui non c'entra. Non è un ribelle. Non sa neanche cosa vuol dire, ribelle. È un ragazzo. È uno che ruba le pesche. Vi prego. È uno che ruba le pesche e poi le paga due anni dopo.»
 
 Qualcuno nella folla rise, e si zittì subito. La vedova Hanna, con il suo fazzoletto giallo, era in prima fila con una brocca vuota in mano, e non rideva.
 
@@ -3360,7 +3389,7 @@ Penelo lo fissò. Per un momento parve non capire, e poi capì, e la sua faccia 
 
 «Basta» disse un soldato.
 
-Lo disse in archadiano, una parola sola, e poi alzò il calcio della lancia e lo calò sulla testa di Vaan, di traverso, sopra l'orecchio sinistro. Non lo fece con rabbia. Lo fece come si chiude una porta che sbatte.
+Lo disse con l'accento archadiano, una parola sola, e poi alzò il calcio della lancia e lo calò sulla testa di Vaan, di traverso, sopra l'orecchio sinistro. Non lo fece con rabbia. Lo fece come si chiude una porta che sbatte.
 
 Vaan cadde. Cadde in avanti, sulle ginocchia, e poi di lato, con le mani legate che non potevano fermarlo, e la testa batté sulla pietra del cortile, e lui non sentì più niente.
 
@@ -3394,7 +3423,7 @@ Balthier, già fra i soldati, già quasi in mezzo alla colonna che si formava pe
 
 La viera, dietro di lui, girò la testa verso Penelo. Non disse niente. Ma le sue orecchie si inclinarono un poco in avanti, appena, e Penelo, senza sapere perché, ebbe l'impressione che fosse il suo modo di dire che era vero.
 
-Poi la colonna partì. Due soldati sollevarono Vaan per le braccia e lo trascinarono, con la testa che gli ciondolava e i piedi che strisciavano sulla pietra del cortile; Amalia camminava dritta davanti a lui, senza voltarsi, e Penelo vide che teneva la mano sinistra chiusa a pugno contro il fianco, anche legata, anche così. Il pirata camminava fischiettando. La viera camminava senza fare rumore. Uscirono dal cortile per la via che sale verso la Porta Est, e la folla si aprì per lasciarli passare, e si richiuse dietro di loro, e cominciò a parlare.
+Poi la colonna partì. Due soldati sollevarono Vaan per le braccia e lo trascinarono, con la testa che gli ciondolava e i piedi che strisciavano sulla pietra del cortile; Amalia camminava dritta davanti a lui, senza voltarsi, e Penelo vide che teneva la mano sinistra chiusa a pugno contro il fianco, anche legata, anche così. L'aviopirata camminava fischiettando. La viera camminava senza fare rumore. Uscirono dal cortile per la via che sale verso la Porta Est, e la folla si aprì per lasciarli passare, e si richiuse dietro di loro, e cominciò a parlare.
 
 Penelo rimase dov'era, a piedi nudi sulla pietra, con il fazzoletto di un pirata in mano. Lo guardò. La F nell'angolo la guardò a sua volta, con tutti i suoi riccioli. Si chiese, per un momento, di chi fosse quella lettera, su un fazzoletto di un uomo che non le aveva detto il suo nome.
 
@@ -3412,7 +3441,7 @@ Non tutti, quella mattina, avevano guardato la colonna con gli stessi occhi.
 
 In fondo al cortile, all'imbocco di un vicolo che scendeva verso la cisterna vecchia, due Bangaa stavano appoggiati al muro all'ombra, con le braccia incrociate e i mantelli da viaggio ancora coperti di polvere. Erano grossi, con le squame grigio-verdi e le zanne lunghe, e portavano alla cintura armi che a Rabanastre non si vedevano spesso, nemmeno addosso ai soldati: lame curve, ricurve due volte, e una specie di balestra corta con il calcio fasciato di cuoio. Uno dei due, il più grosso e il più vecchio, aveva sul muso una cicatrice che gli tirava il labbro all'insù da un lato, così che sembrava sempre sul punto di ridere di qualcosa che non era divertente.
 
-«È lui» disse il più giovane. Parlava troppo e troppo in fretta, con la voce sibilante della sua gente. «Hai visto, capo? È lui. Il pirata. Quello del manifesto. Te l'avevo detto, che era a Rabanastre. Te l'avevo detto ieri, alla Sandsea, quando quel moguri...»
+«È lui» disse il più giovane. Parlava troppo e troppo in fretta, con la voce sibilante della sua gente. «Hai visto, capo? È lui. L'aviopirata. Quello del manifesto. Te l'avevo detto, che era a Rabanastre. Te l'avevo detto ieri, alla Sandsea, quando quel moguri...»
 
 «Bwagi.»
 
@@ -3605,7 +3634,7 @@ Balthier si tirò giù le maniche. Prima una, poi l'altra.
 
 ---
 
-Non ebbero il tempo di godersela. Dal corridoio sopra la conca arrivò un rumore che tutti, nella fossa, conoscevano meglio dei propri nomi: stivali ferrati, a passo di marcia, e il tintinnio delle armature, e una voce che dava ordini in archadiano. Gli spettatori sparirono dal bordo come acqua in un tombino. I Seeq a terra si trascinarono via, uno con il naso storto, verso le nicchie. Il Bangaa con la coda spezzata non si mosse; non poteva.
+Non ebbero il tempo di godersela. Dal corridoio sopra la conca arrivò un rumore che tutti, nella fossa, conoscevano meglio dei propri nomi: stivali ferrati, a passo di marcia, e il tintinnio delle armature, e una voce che dava ordini con l'accento archadiano. Gli spettatori sparirono dal bordo come acqua in un tombino. I Seeq a terra si trascinarono via, uno con il naso storto, verso le nicchie. Il Bangaa con la coda spezzata non si mosse; non poteva.
 
 Balthier prese Vaan per il colletto e lo tirò, oltre il cancello di ferro, che qualcuno nella fuga aveva lasciato aperto, dietro un pilastro mezzo crollato, nell'ombra.
 
@@ -3617,7 +3646,7 @@ Erano Bangaa. Quattro. Il primo era il più grosso, con le squame grigio-verdi e
 
 Vaan sentì Balthier, accanto a lui, irrigidirsi tutto.
 
-«Oh, no» disse il pirata, in un sussurro così basso che fu più un respiro che una frase. «Lui no. Non anche lui. Non oggi.»
+«Oh, no» disse l'aviopirata, in un sussurro così basso che fu più un respiro che una frase. «Lui no. Non anche lui. Non oggi.»
 
 
 ## 20. Il cacciatore di pirati
@@ -3626,11 +3655,11 @@ L'ufficiale grasso si chiamava Tullian, e di lui la storia non ricorda altro che
 
 Si fermò al centro della conca, dove poco prima Vaan e Balthier avevano lasciato i tre Seeq, e guardò il pavimento con l'elmo sotto il braccio. C'era sangue. C'erano due bastoni rotti. C'era il Bangaa con la coda spezzata, che non era riuscito a trascinarsi via e che adesso stava immobile, con gli occhi chiusi, fingendo di essere morto con la bravura di chi lo ha già fatto altre volte. Tullian lo spinse con la punta dello stivale. Il Bangaa non si mosse.
 
-«Qui» disse Tullian, voltandosi verso i quattro Bangaa che lo seguivano «non c'è nessun pirata. Ve l'avevo detto. Qui c'è la feccia della guarnigione e qualche ribelle di Rabanastre. I pirati non li mettiamo con la feccia.»
+«Qui» disse Tullian, voltandosi verso i quattro Bangaa che lo seguivano «non c'è nessun aviopirata. Ve l'avevo detto. Qui c'è la feccia della guarnigione e qualche ribelle di Rabanastre. I pirati non li mettiamo con la feccia.»
 
 Il Bangaa con la cicatrice si fece avanti. Era più alto di Tullian di una testa e più largo di due, e lo guardò dall'alto con il labbro tirato.
 
-«Ieri mattina» disse «i vostri soldati hanno portato via da Rabanastre un uomo con il panciotto e una viera. Li ho visti con questi occhi. L'uomo si chiama Balthier. Ha una taglia sulla testa da Balfonheim a Bhujerba, e la taglia è mia. È mia da due anni. Voglio il pirata.»
+«Ieri mattina» disse «i vostri soldati hanno portato via da Rabanastre un uomo con il panciotto e una viera. Li ho visti con questi occhi. L'uomo si chiama Balthier. Ha una taglia sulla testa da Balfonheim a Bhujerba, e la taglia è mia. È mia da due anni. Voglio l'aviopirata.»
 
 Dietro il pilastro mezzo crollato, nell'ombra, Vaan sentì il nome e si voltò verso l'uomo accanto a lui. Balthier aveva chiuso gli occhi. Teneva la testa appoggiata alla pietra, con un'espressione di sofferenza profonda e composta, come un attore che sente sbagliare la sua battuta da un collega.
 
@@ -3766,9 +3795,9 @@ Vaan non ce l'aveva. Lo disse.
 
 Prima, però, le armi.
 
-Le trovarono in una stanza che Balthier riconobbe dalla porta. Era una porta di ferro, in un corridoio laterale che saliva verso i livelli della guarnigione, con un catenaccio tirato e una targa di ottone avvitata sopra, in archadiano. Balthier la lesse ad alta voce, con una certa delizia.
+Le trovarono in una stanza che Balthier riconobbe dalla porta. Era una porta di ferro, in un corridoio laterale che saliva verso i livelli della guarnigione, con un catenaccio tirato e una targa di ottone avvitata sopra. Balthier la lesse ad alta voce, con una certa delizia.
 
-«Deposito dei beni sequestrati ai detenuti in attesa di giudizio.» Si voltò verso gli altri. «Non è stupendo? Che nome elegante. Che lunghezza. Che senso dello Stato.» Toccò il catenaccio. «Nella mia lingua, che è molto più povera, una stanza piena di cose prese a gente che non può protestare si chiama in un altro modo.»
+«Deposito dei beni sequestrati ai detenuti in attesa di giudizio.» Si voltò verso gli altri. «Non è stupendo? Che nome elegante. Che lunghezza. Che senso dello Stato.» Toccò il catenaccio. «Nel mio dialetto, che è molto più povero, una stanza piena di cose prese a gente che non può protestare si chiama in un altro modo.»
 
 «Come?» chiese Vaan.
 
@@ -4068,7 +4097,7 @@ Il pugno non arrivò. Balthier gli prese il braccio da dietro, a metà strada, c
 
 «No.» Balthier non stringeva forte. Stringeva il giusto. «Non adesso. Ne avrai il tempo, se vuoi. Ma non adesso.»
 
-«È lui! L'hai sentito! È lui che...» Vaan si girò verso il pirata, con il braccio ancora preso. «Hai detto anche tu che non fai affari con i morti che hanno ammazzato un re. L'hai detto tu.»
+«È lui! L'hai sentito! È lui che...» Vaan si girò verso l'aviopirata, con il braccio ancora preso. «Hai detto anche tu che non fai affari con i morti che hanno ammazzato un re. L'hai detto tu.»
 
 «Ho detto molte cose, sterminatore. Fa parte del mio fascino.» Balthier lo lasciò andare, ma rimase fra lui e Basch, un passo di lato, con le mani basse. «Ascoltami, perché lo dico una volta sola e poi divento noioso. Io non so chi ha ammazzato il tuo re. Non c'ero. Non c'eri neanche tu. So solo quello che dice un foglio letto in piazza, e i fogli letti in piazza, nella mia esperienza, li scrive chi ha vinto. Questo non vuol dire che lui sia innocente. Vuol dire che io non lo so.» Indicò la caverna, il buio, il ronzio. «Quello che so è che siamo sotto Nalbina, in un posto dove nessuno ha messo piede da chissà quando, e che da qualche parte, qui dentro, ci sono cose che non hanno bisogno di fogli per decidere chi mangiare. Siamo in tre. Con lui siamo in quattro.»
 
@@ -4080,7 +4109,7 @@ Basch lo guardò. Poi guardò Vaan, che ansimava a due passi, con il pugno ancor
 
 «Se ho una spada» disse «so tenerla.»
 
-«Ecco. Un'altra spada.» Balthier allargò le mani verso Vaan, come un mercante che mostra un tappeto. «Un'altra spada è sempre meglio di nessuna. È uno dei pochi principi su cui un pirata e un capitano dell'esercito possono trovarsi d'accordo.»
+«Ecco. Un'altra spada.» Balthier allargò le mani verso Vaan, come un mercante che mostra un tappeto. «Un'altra spada è sempre meglio di nessuna. È uno dei pochi principi su cui un pirata del cielo e un capitano dell'esercito possono trovarsi d'accordo.»
 
 «Non mi fido di lui.»
 
@@ -4339,7 +4368,7 @@ Basch non rispose subito. Il suo sguardo andò, per un istante soltanto, non a V
 
 Balthier non aveva detto niente. Stava in piedi accanto al casotto, con le braccia di nuovo incrociate, e guardava Basch con la stessa espressione che aveva avuto davanti al leone di pietra, o davanti alla pietra di Vaan quando si era accesa per la donna in rosso: un'attenzione fredda, divertita solo in superficie, sotto la quale qualcosa stava facendo un conto. Una volta, una volta sola, girò la testa verso l'alto, come aveva fatto Basch, verso la roccia e la fortezza e il pozzo, dove poche ore prima un uomo in armatura si era tolto l'elmo e aveva detto sei dimagrito con una voce che lui aveva sentito benissimo. Poi riportò lo sguardo su Basch. Non disse niente. Fran lo guardò, da dietro il suo pilastro, e non disse niente nemmeno lei.
 
-«Dopo» continuò Basch, come se nessuno lo avesse interrotto «sono entrati i soldati. Dalla porta principale. C'era un ufficiale che dava ordini in dalmasco, con un accento pulito. Ha detto arrestatelo. E l'uomo con la mia faccia si è messo a gridare. Il re ha tradito Dalmasca. Dalmasca non si inginocchierà mai. Gridava con la mia voce, così forte che lo sentivano fino ai cammini di ronda. Lo hanno portato via. Fuori, dalla porta principale, davanti a tutti i soldati archadiani che c'erano nella fortezza, perché tutti lo vedessero e tutti potessero dire, dopo, di aver visto il capitano Basch arrestato con la spada del re in mano.» Una pausa. «Me, mi hanno portato via dall'altra parte. Con un sacco in testa. Giù. Sempre più giù. Da quella notte il mondo ha creduto che fossi lui. E io ho creduto che il mondo avesse ragione a credermi morto.»
+«Dopo» continuò Basch, come se nessuno lo avesse interrotto «sono entrati i soldati. Dalla porta principale. C'era un ufficiale che dava ordini con un accento dalmasco pulito. Ha detto arrestatelo. E l'uomo con la mia faccia si è messo a gridare. Il re ha tradito Dalmasca. Dalmasca non si inginocchierà mai. Gridava con la mia voce, così forte che lo sentivano fino ai cammini di ronda. Lo hanno portato via. Fuori, dalla porta principale, davanti a tutti i soldati archadiani che c'erano nella fortezza, perché tutti lo vedessero e tutti potessero dire, dopo, di aver visto il capitano Basch arrestato con la spada del re in mano.» Una pausa. «Me, mi hanno portato via dall'altra parte. Con un sacco in testa. Giù. Sempre più giù. Da quella notte il mondo ha creduto che fossi lui. E io ho creduto che il mondo avesse ragione a credermi morto.»
 
 «E mio fratello?» La voce di Vaan si era rotta. «Mio fratello cosa ha visto?»
 
@@ -4426,7 +4455,7 @@ La bestia urtò il sostegno della pensilina. La tettoia si abbassò di un palmo 
 
 «Lo vedo.»
 
-«Lo dico perché...» Vaan lasciò la frase. Balthier aveva già passato la ringhiera ed era finito sul tetto di un carrello fermo, da dove poteva sparare oltre le zampe. Fran tese l'arco. Il primo colpo del pirata rimbalzò sulla corazza, il secondo entrò vicino alla giuntura; la creatura girò il corpo verso di lui e lasciò libera per un istante la scala.
+«Lo dico perché...» Vaan lasciò la frase. Balthier aveva già passato la ringhiera ed era finito sul tetto di un carrello fermo, da dove poteva sparare oltre le zampe. Fran tese l'arco. Il primo colpo dell'aviopirata rimbalzò sulla corazza, il secondo entrò vicino alla giuntura; la creatura girò il corpo verso di lui e lasciò libera per un istante la scala.
 
 «Adesso» disse Basch.
 
@@ -4565,7 +4594,7 @@ Il capitano guardò la pattuglia che attraversava il mercato. Aveva contato gli 
 
 «Almeno lascia che siano gli altri a scoprirlo.»
 
-Basch ringraziò Fran, poi Balthier. Fece un piccolo inchino a entrambi, e il pirata accolse il gesto con una gravità insolita. Quando si voltò verso Vaan, il ragazzo stava guardando un carretto di cipolle. Ne avevano appena scaricate altre. C'era una quantità irritante di cipolle in una città che avrebbe dovuto fare posto ad altri pensieri.
+Basch ringraziò Fran, poi Balthier. Fece un piccolo inchino a entrambi, e l'aviopirata accolse il gesto con una gravità insolita. Quando si voltò verso Vaan, il ragazzo stava guardando un carretto di cipolle. Ne avevano appena scaricate altre. C'era una quantità irritante di cipolle in una città che avrebbe dovuto fare posto ad altri pensieri.
 
 «Vorrei sapere dove riposa tuo fratello» disse Basch.
 
@@ -4595,7 +4624,7 @@ Vaan tirò fuori la pietra da sotto la camicia. Alla luce del pomeriggio sembrav
 
 Vaan la rimise subito al sicuro. «Non ve la stavo dando.»
 
-«Me ne ero accorto. Sei generoso con le domande, molto meno con le risposte.» Balthier indicò la salita verso la Sandsea. «Restiamo a Rabanastre ancora un poco. Se dovessero chiederti di due pirati, non li conosci.»
+«Me ne ero accorto. Sei generoso con le domande, molto meno con le risposte.» Balthier indicò la salita verso la Sandsea. «Restiamo a Rabanastre ancora un poco. Se dovessero chiederti di due aviopirati, non li conosci.»
 
 «E se chiedo io?»
 
@@ -4926,7 +4955,7 @@ Il piccolo tornò alla corda, dove gli altri protestavano già perché aveva chi
 
 La precisazione rimase lì finché Basch non si voltò. Il ragazzo aveva le braccia incrociate e lo sguardo fisso sui bambini; pareva che stesse aspettando un'obiezione. Basch non gliela diede. Aspettò anche lui.
 
-«I miei sono morti prima» disse Vaan. «Cinque anni fa. La febbre.»
+«I miei sono morti prima» disse Vaan. «Cinque anni fa. La peste.»
 
 Il capitano si portò la mano ferita contro il fianco. Ricordava le case segnate con la calce, le guardie mandate alle cisterne per impedire che la gente si radunasse, i carri che passavano all'alba. Aveva servito in una guarnigione fuori città durante una parte dell'epidemia. I dispacci arrivavano con cifre, richieste di acqua, richieste di uomini. Adesso aveva davanti un ragazzo che a quelle cifre era sopravvissuto.
 
@@ -4994,7 +5023,7 @@ Non concluse. Il capitano non gli chiese di farlo. La guardia della pattuglia, n
 
 ---
 
-Fecero una deviazione per la bottega. Vaan disse che voleva sapere se Migelo fosse rientrato; Basch non oppose la fretta di raggiungere il pirata. Il negozio era aperto. Kytes aveva acceso due lampade e stava contando le monete davanti a un uomo che pretendeva di avergli dato il doppio. Quando vide Vaan chiuse il pugno sulla ciotola.
+Fecero una deviazione per la bottega. Vaan disse che voleva sapere se Migelo fosse rientrato; Basch non oppose la fretta di raggiungere l'aviopirata. Il negozio era aperto. Kytes aveva acceso due lampade e stava contando le monete davanti a un uomo che pretendeva di avergli dato il doppio. Quando vide Vaan chiuse il pugno sulla ciotola.
 
 «Ancora niente» disse, prima che gli venisse chiesto.
 
@@ -5243,7 +5272,7 @@ Balthier lasciò passare l'urto delle coppe. «Questo rende il messaggio più sg
 
 «E lui lo sa. Sa anche come si entra nelle miniere e dove mi metterei per sparargli. Preferirei non recitare la parte che ha scritto per me.»
 
-Vaan gli prese il polso. Era un gesto che non aveva mai fatto con il pirata. «Portami.»
+Vaan gli prese il polso. Era un gesto che non aveva mai fatto con l'aviopirata. «Portami.»
 
 Balthier guardò la mano del ragazzo, poi lui. «Lascia.»
 
@@ -5257,7 +5286,7 @@ Vaan la tolse. «Portami e basta. Non devi venire con me. Mi dici dove sono le m
 
 Basch avanzò fino al tavolo. «Vengo anch'io.»
 
-Il pirata si girò. «Una bella riunione. Mancava soltanto qualcuno con una taglia più grande della mia.»
+L'aviopirata si girò. «Una bella riunione. Mancava soltanto qualcuno con una taglia più grande della mia.»
 
 «Ho affari a Bhujerba.»
 
@@ -5313,7 +5342,7 @@ Vaan gli mise una mano sulla testa e il piccolo si scostò. Aveva un registro da
 
 ---
 
-L'aerodromo sapeva di olio caldo anche prima che sorgesse il sole. Entrarono dal lato dei magazzini, dove un carrettiere rovesciava sacchi davanti a una porta che nessuno aveva ancora aperto. Balthier li aspettava sotto la passerella. Fran era già dentro. Il pirata controllò la sacca di Vaan con uno sguardo e guardò poi gli stivali di Basch.
+L'aerodromo sapeva di olio caldo anche prima che sorgesse il sole. Entrarono dal lato dei magazzini, dove un carrettiere rovesciava sacchi davanti a una porta che nessuno aveva ancora aperto. Balthier li aspettava sotto la passerella. Fran era già dentro. L'aviopirata controllò la sacca di Vaan con uno sguardo e guardò poi gli stivali di Basch.
 
 «Vedo che Dalmasca ti ha restituito il grado, meno le calzature.»
 
@@ -5373,7 +5402,7 @@ Da dentro arrivò un rumore metallico, poi il meccanico scivolò fuori e si rial
 
 Vaan aprì la bocca, ma Nono gli aveva già consegnato una lampada e gli indicava un pannello basso. Lo tenne aperto mentre il moguri stringeva un fermaglio. Da vicino il motore non era una promessa: era metallo unto, un odore acre e il ticchettio di qualcosa che si raffreddava. Gli piacque più delle dieci navi che aveva inventato.
 
-Salì a bordo per ultimo. Fran occupava il posto di pilotaggio; Basch si era sistemato contro la paratia, lasciando libero il passaggio. Balthier mostrò a Vaan dove sedersi e quale cinghia chiudere. Il ragazzo tirò quella sbagliata. Il pirata gliela tolse dalle dita senza commentare, e questo fu peggio di una battuta.
+Salì a bordo per ultimo. Fran occupava il posto di pilotaggio; Basch si era sistemato contro la paratia, lasciando libero il passaggio. Balthier mostrò a Vaan dove sedersi e quale cinghia chiudere. Il ragazzo tirò quella sbagliata. L'aviopirata gliela tolse dalle dita senza commentare, e questo fu peggio di una battuta.
 
 «Può battere l'Ifrit?» domandò Vaan.
 
@@ -5434,7 +5463,7 @@ Ba'Gamnan dovette chinarsi per entrare. Era il più grosso dei quattro, e il pi�
 
 Ba'Gamnan non la ascoltava. Si era chinato su una delle casse e ci aveva steso sopra un foglio unto, una specie di mappa disegnata a carbone, e ci batteva sopra l'unghia del dito, che era lunga e gialla e aveva una tacca anche lei.
 
-«Il pirata vale ventimila vivo» disse, ai suoi. «Diecimila morto. Chi lo ammazza per sbaglio paga la differenza di tasca sua.»
+«L'aviopirata vale ventimila vivo» disse, ai suoi. «Diecimila morto. Chi lo ammazza per sbaglio paga la differenza di tasca sua.»
 
 «Non abbiamo ventimila in tasca» disse Bwagi.
 
@@ -5452,7 +5481,7 @@ Ba'Gamnan si raddrizzò lentamente. La cicatrice gli tirò il labbro ancora più
 
 Penelo aprì la bocca e la richiuse.
 
-«Per una che ha visto una volta sola» continuò il Bangaa «il pirata è salito sulla sua bella nave e ha attraversato mezzo cielo in un giorno. Io ho una sorella, ragazzina. L'ho vista ogni giorno per vent'anni. Se la rapissero domani, aspetterei di sapere quanto chiedono.»
+«Per una che ha visto una volta sola» continuò il Bangaa «il pirata del cielo è salito sulla sua bella nave e ha attraversato mezzo cielo in un giorno. Io ho una sorella, ragazzina. L'ho vista ogni giorno per vent'anni. Se la rapissero domani, aspetterei di sapere quanto chiedono.»
 
 «È quello che vorrei sapere anch'io» disse Penelo, e le uscì così sincera, così stizzita, che perfino Gijuk girò la testa. «Perché viene? Che cosa gli ho fatto? Non lo conosco! Gli ho detto grazie per un fazzoletto e basta, e adesso lui viene, e voi mi tenete qui, e io non ho mai neanche visto una nave da vicino...»
 
@@ -5596,7 +5625,7 @@ Basch gli restituì l'inchino, perché non sapeva fare altrimenti.
 
 Scesero verso la città per una scalinata scavata nel fianco della roccia, che girava attorno alla montagna come il filo attorno a un fuso. Bhujerba, vista da dentro, era meno favolosa e più viva. Le strade erano strette e ripide, lastricate di una pietra grigia lucidata dai piedi, con un canaletto al centro dove scorreva l'acqua delle cisterne. Le case avevano finestre piccole, per il freddo, e porte dipinte di azzurro, per il cielo, e sopra ogni porta un cristallo appeso a un filo che girava piano nel vento. Lamont spiegò che era un'usanza antica: un pezzetto di magilite davanti all'uscio tiene la casa leggera, e una casa leggera non crolla. Vaan osservò che a Rabanastre, davanti alle porte, si appendevano le cipolle, e che anche quelle non crollavano. Lamont rise. Aveva una risata breve, sorpresa, come se non gli capitasse spesso.
 
-C'era ricchezza dappertutto, ma una ricchezza particolare, che stava nelle mani più che nelle case. I minatori che risalivano dalle gallerie alla fine del turno avevano le dita grigie fino alle nocche e anelli d'argento su ogni dito. Le botteghe vendevano bussole, lanterne, cristalli di ogni misura in cesti come la frutta, e in una piazzetta una vecchia seduta su uno sgabello offriva ai forestieri «pietre del cielo, vere, che galleggiano» e ne teneva una sospesa sul palmo a un dito dalla pelle. Vaan si fermò a guardarla, rapito. Balthier, passando, le infilò sotto il palmo un'unghia e la pietra cadde; ci aveva legato sotto un capello. La vecchia gli disse una cosa in bhujerbano che Lamont si rifiutò di tradurre.
+C'era ricchezza dappertutto, ma una ricchezza particolare, che stava nelle mani più che nelle case. I minatori che risalivano dalle gallerie alla fine del turno avevano le dita grigie fino alle nocche e anelli d'argento su ogni dito. Le botteghe vendevano bussole, lanterne, cristalli di ogni misura in cesti come la frutta, e in una piazzetta una vecchia seduta su uno sgabello offriva ai forestieri «pietre del cielo, vere, che galleggiano» e ne teneva una sospesa sul palmo a un dito dalla pelle. Vaan si fermò a guardarla, rapito. Balthier, passando, le infilò sotto il palmo un'unghia e la pietra cadde; ci aveva legato sotto un capello. La vecchia gli disse una cosa in dialetto bhujerbano che Lamont si rifiutò di ripetere.
 
 Dappertutto c'erano soldati archadiani, e dappertutto la gente faceva finta di non vederli. Era una finzione ben educata e piena di regole, che a Vaan, abituato alle strade di Rabanastre dove i soldati si guardavano storto e si insultavano a bassa voce, parve stranissima. Qui un mercante vendeva un pane a un soldato e gli diceva che il cielo gli fosse lieve, e il soldato pagava e se ne andava, e il mercante si puliva le mani sul grembiule con una cura eccessiva, dito per dito.
 
@@ -5703,7 +5732,7 @@ Il marchese non rispose subito. Quando parlò, lo fece con la stessa voce di pri
 
 Il passo di Ghis perse il ritmo. Durò meno di un respiro: un piede che si posa più corto dell'altro, un'esitazione nel metallo. Poi il Giudice riprese a camminare con la stessa andatura ballata.
 
-«Lo troveremo» disse. «È un giovane signore di grande intelligenza, e i giovani di grande intelligenza si annoiano quando li si accompagna. Ha voluto fare due passi da solo nella vostra bella città. Lo comprendo. Ma Bhujerba è piena di gente di ogni tipo, marchese. Pirati. Ribelli. Forse peggio. E se a lui dovesse succedere qualcosa, anche solo un graffio, anche solo un raffreddore» e qui la voce tornò calda, quasi affettuosa «credo che a quel punto nessuno di noi due avrebbe più tempo per i proverbi.»
+«Lo troveremo» disse. «È un giovane signore di grande intelligenza, e i giovani di grande intelligenza si annoiano quando li si accompagna. Ha voluto fare due passi da solo nella vostra bella città. Lo comprendo. Ma Bhujerba è piena di gente di ogni tipo, marchese. Aviopirati. Ribelli. Forse peggio. E se a lui dovesse succedere qualcosa, anche solo un graffio, anche solo un raffreddore» e qui la voce tornò calda, quasi affettuosa «credo che a quel punto nessuno di noi due avrebbe più tempo per i proverbi.»
 
 «Le mie guardie lo cercano con le vostre.»
 
@@ -5818,7 +5847,7 @@ Hadu staccò la gabbietta dalla parete e la tese a Vaan, che era il più vicino.
 
 ---
 
-Al quarto e al quinto livello si lavorava ancora. I picconi battevano lontano, accompagnati da canzoni lente in bhujerbano che si rispondevano da un pozzo all'altro.
+Al quarto e al quinto livello si lavorava ancora. I picconi battevano lontano, accompagnati da canzoni lente in dialetto bhujerbano che si rispondevano da un pozzo all'altro.
 
 Al quinto livello, dove i canti si sentivano ancora, Vaan si sorprese a camminare a tempo. Era una di quelle canzoni a due voci in cui una squadra fa la domanda e un'altra, lontana, risponde, e anche senza capire le parole si capiva che la risposta arrivava sempre un poco in ritardo e che il ritardo faceva parte della canzone. A Rabanastre i facchini del mercato di Muthru cantavano così, quando scaricavano i carri all'alba, e Penelo, da bambina, si metteva sotto il portico di Migelo e rispondeva lei al posto della seconda squadra, con la voce stonata e le parole sbagliate, finché i facchini non ridevano e smettevano. Lo faceva per farli ridere. Vaan lo aveva capito soltanto da grande. Lei faceva sempre così: trovava il punto in cui una cosa pesante si poteva prendere da un lato diverso, e la prendeva da lì, e la portava, e non lo diceva a nessuno.
 
@@ -6041,7 +6070,7 @@ Vaan non se ne accorse. Aveva sentito *lasciata andare* e *stamattina* e qualcos
 
 «Dove?» disse. «Dove l'avete lasciata? Quale strada?»
 
-«Non lo so. Non mi interessa.» Ba'Gamnan fece un passo avanti, e i suoi tre fecero un passo avanti con lui, insieme. «Adesso mi interessa il pirata. E mi interessa» e qui girò gli occhi gialli oltre Vaan, oltre Basch, fino al ragazzo con la casacca scura che era rimasto contro la parete con una mano nella tasca interna «anche il piccolo signore. Bel vestito. Belle mani. Uno con quelle mani, se lo porti a casa sua, qualcuno ti dà più di ventimila.» Sorrise. «Oggi è una giornata fortunata.»
+«Non lo so. Non mi interessa.» Ba'Gamnan fece un passo avanti, e i suoi tre fecero un passo avanti con lui, insieme. «Adesso mi interessa l'aviopirata. E mi interessa» e qui girò gli occhi gialli oltre Vaan, oltre Basch, fino al ragazzo con la casacca scura che era rimasto contro la parete con una mano nella tasca interna «anche il piccolo signore. Bel vestito. Belle mani. Uno con quelle mani, se lo porti a casa sua, qualcuno ti dà più di ventimila.» Sorrise. «Oggi è una giornata fortunata.»
 
 Balthier sospirò. «Ba'Gamnan, sei di una volgarità commovente.»
 
@@ -6256,7 +6285,7 @@ Vaan si girò verso di lei, pronto a litigare. Ma la viera non aveva detto la fr
 
 Vaan aprì la bocca per dire che lui non aveva guardato nessuno, e la richiuse, perché era vero il contrario e Fran lo sapeva. Si voltò verso Balthier per avere man forte, e Balthier aveva un'espressione molto divertita e niente affatto disposta ad aiutarlo.
 
-«Fran conosce le persone meglio di chiunque» disse il pirata. «È un talento che la rende insopportabile alle feste.»
+«Fran conosce le persone meglio di chiunque» disse l'aviopirata. «È un talento che la rende insopportabile alle feste.»
 
 «E tu come fai a sapere dei bottoni?» chiese Vaan, che aveva trovato un altro bersaglio. «Dei figli cadetti e il fiore all'ingiù. Come fai a sapere queste cose?»
 
@@ -6586,11 +6615,11 @@ Larsa la guardò. «Chi?»
 
 Penelo aprì la bocca e non trovò da dove cominciare.
 
-Avrebbe potuto cominciare dal discorso in piazza, quando tutta Rabanastre era stata zitta ad ascoltare, e Vayne aveva detto *pace* in un modo che sembrava vero, e lei aveva sentito una cosa terribile, cioè che le stava piacendo. Avrebbe potuto cominciare dai soldati, dai melograni, dal coltello di Kytes. Avrebbe potuto cominciare dai suoi genitori, che erano morti di febbre come i genitori di Vaan nella stagione dell'epidemia, quando lei aveva dodici anni, e che non c'entravano niente con l'impero, ma da allora tutte le cose brutte nella sua testa erano rimaste attaccate insieme in un unico grumo.
+Avrebbe potuto cominciare dal discorso in piazza, quando tutta Rabanastre era stata zitta ad ascoltare, e Vayne aveva detto *pace* in un modo che sembrava vero, e lei aveva sentito una cosa terribile, cioè che le stava piacendo. Avrebbe potuto cominciare dai soldati, dai melograni, dal coltello di Kytes. Avrebbe potuto cominciare dai suoi genitori, che erano morti di peste come i genitori di Vaan, nella stagione dell'epidemia, quando lei aveva dodici anni, e che non c'entravano niente con l'impero, ma da allora tutte le cose brutte nella sua testa erano rimaste attaccate insieme in un unico grumo.
 
 Cominciò dai fratelli.
 
-«Ne avevo due» disse. Senza accorgersene si toccò i codini, i due nastri che li tenevano, uno azzurro e uno rosso. «Kel e Doran. Più grandi di me. Dopo la febbre siamo rimasti noi tre e loro due mi hanno tirata su, e mi facevano da padre e da madre e da fratelli, e da tutto. Kel era il più alto. Alle nozze della principessa mi ha tenuta sulle spalle per tutto il corteo, in via delle Fontane, e io gli tiravo i capelli per vedere meglio.» Si fermò. Respirò. «Mi hanno insegnato a usare il bastone. Doran diceva che una ragazza della Città Bassa deve sapere dove colpire, perché nessuno arriva in tempo. Mi ha insegnato a mirare agli stinchi e a non chiudere gli occhi quando arriva il colpo. Ero bravissima. Vaan non lo sa, ma una volta l'ho fatto piangere.»
+«Ne avevo due» disse. Senza accorgersene si toccò i codini, i due nastri che li tenevano, uno azzurro e uno rosso. «Kel e Doran. Più grandi di me. Dopo la peste siamo rimasti noi tre e loro due mi hanno tirata su, e mi facevano da padre e da madre e da fratelli, e da tutto. Kel era il più alto. Alle nozze della principessa mi ha tenuta sulle spalle per tutto il corteo, in via delle Fontane, e io gli tiravo i capelli per vedere meglio.» Si fermò. Respirò. «Mi hanno insegnato a usare il bastone. Doran diceva che una ragazza della Città Bassa deve sapere dove colpire, perché nessuno arriva in tempo. Mi ha insegnato a mirare agli stinchi e a non chiudere gli occhi quando arriva il colpo. Ero bravissima. Vaan non lo sa, ma una volta l'ho fatto piangere.»
 
 Larsa non disse niente. Ascoltava.
 
@@ -6634,7 +6663,7 @@ Larsa lo notò. Notò la seta color crema, il ricamo nell'angolo.
 
 «È tuo?»
 
-«No.» Penelo lo guardò anche lei, come se lo vedesse per la prima volta. «Me l'ha dato un pirata. A Rabanastre. Il giorno che hanno arrestato Vaan. Io piangevo come una scema e lui me l'ha dato, così, e se n'è andato, e mi ha detto di aspettare. E per colpa di questo fazzoletto quattro Bangaa hanno pensato che fossi la sua fidanzata.» Lo rigirò. «Non so neanche perché lo porto ancora.»
+«No.» Penelo lo guardò anche lei, come se lo vedesse per la prima volta. «Me l'ha dato un aviopirata. A Rabanastre. Il giorno che hanno arrestato Vaan. Io piangevo come una scema e lui me l'ha dato, così, e se n'è andato, e mi ha detto di aspettare. E per colpa di questo fazzoletto quattro Bangaa hanno pensato che fossi la sua fidanzata.» Lo rigirò. «Non so neanche perché lo porto ancora.»
 
 «Per restituirlo» disse Larsa.
 
@@ -6894,7 +6923,7 @@ Drace non riprese la lettera. «Vuole sapere perché la guarnigione di Rabanastr
 
 «Ghis lo ha ritrovato.»
 
-«Ghis lo ha ritrovato ieri, davanti a una miniera, dopo che il ragazzo era sceso da solo, con un nome falso, in mezzo a dei pirati, fino al settimo livello di Lhusu.» Drace si alzò. Non lo fece in fretta, ma tutto il suo corpo si alzò insieme, come se non avesse aspettato altro. «Ha dodici anni. Gli ho insegnato io a tenere una spada. Lo so di che cosa è capace. È capace di tutto, ed è proprio per questo che non deve andare in giro da solo in un paese che non è il suo, con il nome dei Solidor cucito sui bottoni.»
+«Ghis lo ha ritrovato ieri, davanti a una miniera, dopo che il ragazzo era sceso da solo, con un nome falso, in mezzo a dei pirati del cielo, fino al settimo livello di Lhusu.» Drace si alzò. Non lo fece in fretta, ma tutto il suo corpo si alzò insieme, come se non avesse aspettato altro. «Ha dodici anni. Gli ho insegnato io a tenere una spada. Lo so di che cosa è capace. È capace di tutto, ed è proprio per questo che non deve andare in giro da solo in un paese che non è il suo, con il nome dei Solidor cucito sui bottoni.»
 
 «Il nome dei Solidor lo protegge.»
 
@@ -7153,7 +7182,7 @@ Basch non disse niente. Ma le sue mani, sulle ginocchia, si erano chiuse.
 
 Nella stanza ci fu un silenzio. Poi tutti guardarono Vaan, e Vaan guardò Balthier.
 
-Il pirata guardò la sacca del ragazzo, dove avvolta in un panno da Rabanastre dormiva la pietra del palazzo, il compenso che gli aveva lasciato in custodia e che a Bhujerba nessuno dei due si era ricordato di consegnare. Poi sospirò.
+L'aviopirata guardò la sacca del ragazzo, dove avvolta in un panno da Rabanastre dormiva la pietra del palazzo, il compenso che gli aveva lasciato in custodia e che a Bhujerba nessuno dei due si era ricordato di consegnare. Poi sospirò.
 
 «Ragazzo» disse. «Togliti uno stivale.»
 
@@ -7229,7 +7258,7 @@ La guardò come non aveva mai guardato nessuno, perché non si era mai trovato d
 
 Era quella. Con il livido sullo zigomo e il corpetto strappato. La donna che nei canali gli aveva detto di stare zitto.
 
-Balthier, accanto a lui, non disse niente. Ma Vaan, che in quei giorni aveva imparato a vedere quando Balthier smetteva di sorridere, vide che aveva smesso, e che per un istante il pirata la stava guardando con un'espressione che era quasi rispetto. Fran guardava la mano sinistra della principessa, quella chiusa a pugno. La guardò a lungo.
+Balthier, accanto a lui, non disse niente. Ma Vaan, che in quei giorni aveva imparato a vedere quando Balthier smetteva di sorridere, vide che aveva smesso, e che per un istante l'aviopirata la stava guardando con un'espressione che era quasi rispetto. Fran guardava la mano sinistra della principessa, quella chiusa a pugno. La guardò a lungo.
 
 «Una prova» stava dicendo Ghis.
 
@@ -7355,7 +7384,7 @@ Il Giudice lo guardò a lungo. Poi rise di nuovo, ma piano, e Vaan non capì mai
 
 Vaan gli mise la pietra in mano.
 
-Ashe chiuse gli occhi. Non disse niente. La mano sinistra, legata all'altra, restò chiusa a pugno, e chi le stava vicino avrebbe potuto vedere, nel pugno, il bordo di un anello d'oro rosso e d'argento bianco che le stava largo.
+Ashe chiuse gli occhi. Non disse niente. La mano sinistra, legata all'altra, restò chiusa a pugno, e chi le stava vicino avrebbe potuto vedere, nel pugno, il bordo di un anello d'oro rosso e d'argento bianco.
 
 ---
 
@@ -7555,9 +7584,9 @@ Vaan lo fissò.
 
 «Quella con scritto *allarme*» disse Balthier. «Ce n'erano tre, ma le altre due dicevano *allarme generale* e *allarme di settore*, e io ho pensato che fosse meglio non esagerare.»
 
-«C'era scritto in archadiano.»
+«C'era scritto in gergo militare archadiano.»
 
-«Leggo l'archadiano. Lo leggono tutti quelli che hanno un debito con una banca di Archades.» Si girò verso Vossler. «Quanto dura?»
+«Leggo il gergo archadiano. Lo leggono tutti quelli che hanno un debito con una banca di Archades.» Si girò verso Vossler. «Quanto dura?»
 
 «Finché qualcuno non se ne accorge.»
 
@@ -7752,7 +7781,7 @@ Il Giudice Ghis aspettava con le mani dietro la schiena.
 
 Dietro di lui, a semicerchio, c'erano soldati. Venti, forse di più. Altri ne uscirono dalle porte laterali appena il gruppo fu entrato, e le porte si chiusero alle loro spalle, e Vaan sentì il rumore dei chiavistelli.
 
-«Avete preso la strada lunga» disse Ghis. «Ma l'avete presa bene. Le mie congratulazioni al pirata per il pannello delle sirene. Il mio tecnico di bordo è ancora lì che cerca di capire come avete fatto. Gli ho detto di non preoccuparsi: alla fine si arriva sempre qui.» Allargò le braccia, e la luce gli corse sull'armatura d'oro e bianca. «Qui non c'è niente da spegnere.»
+«Avete preso la strada lunga» disse Ghis. «Ma l'avete presa bene. Le mie congratulazioni all'aviopirata per il pannello delle sirene. Il mio tecnico di bordo è ancora lì che cerca di capire come avete fatto. Gli ho detto di non preoccuparsi: alla fine si arriva sempre qui.» Allargò le braccia, e la luce gli corse sull'armatura d'oro e bianca. «Qui non c'è niente da spegnere.»
 
 Nessuno rispose. Basch si era messo davanti, e la principessa, questa volta, era rimasta dietro di lui senza dire niente. Balthier aveva la pistola in mano. Fran l'arco. Vaan aveva la spada e Penelo, che di armi non ne aveva, si era guardata attorno e aveva staccato dal muro, da una rastrelliera di attrezzi, un'asta di ferro per agganciare le catene delle navette, lunga quanto lei, e la teneva con tutte e due le mani, un poco sbilanciata, ma la teneva.
 
@@ -7858,7 +7887,7 @@ Il colpo prese Ghis sull'elmo, di piatto, dall'alto, e il suono riempì l'hangar
 
 Ghis cadde su un ginocchio.
 
-Vaan lo guardò. Era la prima volta che vedeva la faccia di un Giudice Magister, e restò deluso, poi spaventato di esserlo. Era la faccia di un uomo sulla quarantina, con i capelli grigio acciaio ricci schiacciati dall'elmo, un pizzetto, le guance scavate e una piccola cicatrice bianca all'angolo della bocca, e due occhi grigi, chiari, molto stanchi. Non era terribile. Era la faccia di un funzionario a fine giornata. Guardava il pavimento davanti a sé con un'espressione di sorpresa infinita, come se non riuscisse a mettere insieme le cose: il comandante dell'Ottava Flotta, il signore del Leviatano, in ginocchio nel suo hangar davanti a una principessa morta, un regicida morto, due pirati, una ladra con un'asta da catene e un ragazzo che gli era venuto addosso come in una rissa.
+Vaan lo guardò. Era la prima volta che vedeva la faccia di un Giudice Magister, e restò deluso, poi spaventato di esserlo. Era la faccia di un uomo sulla quarantina, con i capelli grigio acciaio ricci schiacciati dall'elmo, un pizzetto, le guance scavate e una piccola cicatrice bianca all'angolo della bocca, e due occhi grigi, chiari, molto stanchi. Non era terribile. Era la faccia di un funzionario a fine giornata. Guardava il pavimento davanti a sé con un'espressione di sorpresa infinita, come se non riuscisse a mettere insieme le cose: il comandante dell'Ottava Flotta, il signore del Leviatano, in ginocchio nel suo hangar davanti a una principessa morta, un regicida morto, due aviopirati, una ladra con un'asta da catene e un ragazzo che gli era venuto addosso come in una rissa.
 
 Ashe gli era sopra con la spada alzata.
 
@@ -7936,7 +7965,7 @@ Ashe si era rannicchiata sotto l'oblò, con Penelo accanto. Basch aveva la mano 
 
 Fu Balthier ad alzarsi. Con calma. Andò in cabina, si chinò accanto alla sedia di Fran, prese il tubo di ottone e ci parlò dentro.
 
-Parlò in archadiano. Non nell'archadiano che Vaan aveva sentito dai soldati nelle strade di Rabanastre, quello delle bestemmie e degli ordini: in un archadiano piatto, nasale, annoiato, l'archadiano degli uffici e delle caserme, senza un accento fuori posto, con una cantilena da burocrate che legge l'ennesimo modulo della giornata. Disse un numero di nave. Disse una sigla. Disse una frase lunga in cui Vaan riconobbe soltanto la parola *trasferimento* e la parola *scorta*. E finì con una formula breve, che tutti i soldati dell'impero dicono alla fine di ogni rapporto e che nessuno di loro pensa più, e la disse esattamente nel tono in cui la dicono loro, cioè come se fosse una parola sola.
+Parlò con l'accento archadiano. Non quello che Vaan aveva sentito dai soldati nelle strade di Rabanastre, quello delle bestemmie e degli ordini: un accento piatto, nasale, annoiato, l'accento degli uffici e delle caserme, senza una sillaba fuori posto, con una cantilena da burocrate che legge l'ennesimo modulo della giornata. Disse un numero di nave. Disse una sigla. Disse una frase lunga in cui Vaan riconobbe soltanto la parola *trasferimento* e la parola *scorta*. E finì con una formula breve, che tutti i soldati dell'impero dicono alla fine di ogni rapporto e che nessuno di loro pensa più, e la disse esattamente nel tono in cui la dicono loro, cioè come se fosse una parola sola.
 
 Il tubo gracchiò. *Ricevuto. Procedete.*
 
@@ -7962,7 +7991,7 @@ Nella stiva nessuno parlava. Penelo si era addormentata quasi subito, con la tes
 
 Ashe sedeva da sola sulla panca in fondo. Aveva posato la spada imperiale accanto a sé e guardava l'oblò, il cielo, le nuvole che scorrevano, e non le vedeva. Teneva la mano sinistra in grembo, chiusa. Basch stava a tre passi, dall'altra parte della stiva, e non la guardava, e sapeva esattamente dove fosse in ogni momento.
 
-A un certo punto, molto più tardi, quando il sole era già alto, Vaan la vide aprire la mano sinistra. La aprì lentamente, dito per dito. Sul dito, largo, c'era l'anello. Lo guardò per un pezzo. Poi richiuse la mano.
+A un certo punto, molto più tardi, quando il sole era già alto, Vaan la vide aprire la mano sinistra. La aprì lentamente, dito per dito. Sul dito c'era l'anello. Lo guardò per un pezzo. Poi richiuse la mano.
 
 E Vaan, che non avrebbe saputo dire perché, distolse gli occhi.
 
@@ -7995,7 +8024,7 @@ Balthier si fermò sull'ultimo gradino della passerella e lo guardò.
 
 «Me lo hai dato a Rabanastre» disse Penelo. «Quando hanno preso Vaan. Mi hai detto di tenerlo finché non te lo avessi riportato.» Indicò Vaan con il mento, senza voltarsi. «Te l'ho riportato. Cioè, l'hai riportato tu. Cioè...» Si fermò. «Insomma, è tuo.»
 
-Il pirata scese l'ultimo gradino. Prese il fazzoletto con due dita, con la stessa cerimonia con cui lei lo porgeva, e lo guardò, e lo spiegò, e lo ripiegò in quattro con molta cura, la F in vista. Era una lettera piccola, cucita in filo scuro in un angolo, con uno svolazzo da calligrafo. Penelo la guardò passare dalle sue dita a quelle di lui, e non disse niente. Poi Balthier se lo infilò nella tasca interna della giacca, a sinistra, e ci posò sopra la mano aperta.
+L'aviopirata scese l'ultimo gradino. Prese il fazzoletto con due dita, con la stessa cerimonia con cui lei lo porgeva, e lo guardò, e lo spiegò, e lo ripiegò in quattro con molta cura, la F in vista. Era una lettera piccola, cucita in filo scuro in un angolo, con uno svolazzo da calligrafo. Penelo la guardò passare dalle sue dita a quelle di lui, e non disse niente. Poi Balthier se lo infilò nella tasca interna della giacca, a sinistra, e ci posò sopra la mano aperta.
 
 «Lo terrò vicino al cuore» disse.
 
@@ -8212,7 +8241,7 @@ La principessa non venne. Il maggiordomo disse che si era ritirata nelle sue sta
 
 Il marchese non venne nemmeno lui.
 
-Alla fine della cena, mentre i servitori sparecchiavano, Basch si avvicinò a Balthier e gli disse una cosa all'orecchio. Il pirata alzò un sopracciglio, guardò Fran, e Fran mosse appena un orecchio. Poi Balthier si stirò, sbadigliò in modo molto convincente, disse che per un uomo del suo rango tre ore di cena erano l'equivalente di una battaglia campale, e andò a dormire.
+Alla fine della cena, mentre i servitori sparecchiavano, Basch si avvicinò a Balthier e gli disse una cosa all'orecchio. L'aviopirata alzò un sopracciglio, guardò Fran, e Fran mosse appena un orecchio. Poi Balthier si stirò, sbadigliò in modo molto convincente, disse che per un uomo del suo rango tre ore di cena erano l'equivalente di una battaglia campale, e andò a dormire.
 
 Vaan non dormì.
 
@@ -8236,7 +8265,7 @@ Entrò senza fare rumore, perché era una cosa che sapeva fare, e salì la passe
 
 C'era qualcuno al posto di pilotaggio.
 
-Era seduta sul sedile di Fran, con la lampada a mano appoggiata sul pannello e le mani sulle leve, e guardava gli strumenti con una concentrazione furiosa, come si guarda un testo in una lingua straniera che si è sicuri di poter capire se lo si guarda abbastanza a lungo. Aveva cambiato vestiti. Non portava più il corpetto strappato dei canali, ma una casacca da viaggio che non le apparteneva, troppo larga sulle spalle, e degli stivali da uomo, e aveva una spada al fianco. Aveva spostato una leva. Ne stava spostando un'altra.
+Era seduta sul sedile di Fran, con la lampada a mano appoggiata sul pannello e le mani sulle leve, e guardava gli strumenti con una concentrazione furiosa, come si guarda un testo in una scrittura antica che si è sicuri di poter capire se lo si guarda abbastanza a lungo. Aveva cambiato vestiti. Non portava più il corpetto strappato dei canali, ma una casacca da viaggio che non le apparteneva, troppo larga sulle spalle, e degli stivali da uomo, e aveva una spada al fianco. Aveva spostato una leva. Ne stava spostando un'altra.
 
 «Che stai facendo?»
 
@@ -8320,7 +8349,7 @@ Ashe lo guardò. Per un lungo momento non disse niente. Poi si alzò dal sedile 
 
 Non si stava arrendendo. Stava cambiando strategia.
 
-«Sei un pirata» disse.
+«Sei un aviopirata» disse.
 
 «Lo dicono.»
 
@@ -8334,7 +8363,7 @@ Balthier non rispose subito. Vaan smise di ridere.
 
 «Prego?»
 
-«Rapiscimi.» Ashe fece un passo verso di lui. «Una principessa è una cosa che si porta via di notte, no? Fallo. Portami via da questa casa con la tua nave, contro il volere di mio zio, e portami dove dico io. Nessuno potrà dire che Bhujerba mi ha aiutata. Nessuno potrà accusare mio zio di niente. Sarò stata rapita da un pirata famoso. È una cosa che succede. Le ballate ne sono piene.»
+«Rapiscimi.» Ashe fece un passo verso di lui. «Una principessa è una cosa che si porta via di notte, no? Fallo. Portami via da questa casa con la tua nave, contro il volere di mio zio, e portami dove dico io. Nessuno potrà dire che Bhujerba mi ha aiutata. Nessuno potrà accusare mio zio di niente. Sarò stata rapita da un aviopirata famoso. È una cosa che succede. Le ballate ne sono piene.»
 
 «Le ballate finiscono sempre male per il pirata.»
 
@@ -8354,7 +8383,7 @@ Balthier fischiò. Piano, fra i denti, una nota sola.
 
 «Raithwall.»
 
-«La tomba di Raithwall.» Il pirata guardò Fran, che era comparsa alle sue spalle nel corridoio senza che nessuno l'avesse sentita arrivare, e che guardava la principessa con le orecchie dritte. «Hai sentito, Fran?»
+«La tomba di Raithwall.» L'aviopirata guardò Fran, che era comparsa alle sue spalle nel corridoio senza che nessuno l'avesse sentita arrivare, e che guardava la principessa con le orecchie dritte. «Hai sentito, Fran?»
 
 «Ho sentito.»
 
@@ -8362,7 +8391,7 @@ Balthier fischiò. Piano, fra i denti, una nota sola.
 
 «Non piccolo» disse Fran.
 
-Balthier fece una faccia che Vaan non gli aveva mai visto: la faccia di un uomo che ha promesso a qualcuno di smettere di bere e si trova davanti la botte migliore della sua vita. Poi il suo sguardo scivolò in basso, sulla mano sinistra della principessa. La mano era chiusa a pugno contro il fianco, e fra due dita spuntava il bordo di un anello d'oro rosso e d'argento bianco, largo, che di notte le scivolava fino alla nocca.
+Balthier fece una faccia che Vaan non gli aveva mai visto: la faccia di un uomo che ha promesso a qualcuno di smettere di bere e si trova davanti la botte migliore della sua vita. Poi il suo sguardo scivolò in basso, sulla mano sinistra della principessa. La mano era chiusa a pugno contro il fianco, e fra due dita spuntava il bordo di un anello d'oro rosso e d'argento bianco.
 
 «E quello?» disse Balthier.
 
@@ -8552,7 +8581,7 @@ Vaan la guardò. Poi sorrise, il suo sorriso largo di sempre.
 
 «Lo so.»
 
-Balthier si guardò attorno: un cavaliere morto, una principessa morta, due ragazzi della Città Bassa, Penelo in camicia da notte, una viera con l'arco e un pirata spettinato, alle tre di notte su una piattaforma di Bhujerba, con una carta antica e una spada piantata in una cassa.
+Balthier si guardò attorno: un cavaliere morto, una principessa morta, due ragazzi della Città Bassa, Penelo in camicia da notte, una viera con l'arco e un aviopirata spettinato, alle tre di notte su una piattaforma di Bhujerba, con una carta antica e una spada piantata in una cassa.
 
 «Il mio equipaggio» disse a nessuno «ha superato ogni aspettativa.»
 
@@ -8605,7 +8634,7 @@ Era il più vecchio dei Giudici presenti, anche se non il più anziano di serviz
 
 «L'ho riportato io» disse Gabranth.
 
-«Lo so. Grazie.» Drace si voltò. «Ha detto che a Bhujerba ha visto una miniera, un marchese, un pirata e una principessa morta. Ha detto che il pirata gli ha fatto un inchino perfetto. Ha detto che vuole parlare con il padre.» Una pausa. «Non gli hanno permesso di salire.»
+«Lo so. Grazie.» Drace si voltò. «Ha detto che a Bhujerba ha visto una miniera, un marchese, un aviopirata e una principessa morta. Ha detto che il pirata gli ha fatto un inchino perfetto. Ha detto che vuole parlare con il padre.» Una pausa. «Non gli hanno permesso di salire.»
 
 «Sua Maestà riposa» disse Zargabaath.
 
@@ -8621,7 +8650,7 @@ Bergan rise, alla finestra. Una risata grossa, breve, che rimbombò nella sala d
 
 «Vayne» disse Drace.
 
-«Vayne. Che ha preso Dalmasca in un mese e Nabradia in una notte. Che ha fatto più per l'impero in due anni di quanto il Senato abbia fatto in venti.» Bergan fece un passo verso di lei. «Mentre il tuo ragazzino gioca con le pietre di Lhusu e si fa fare gli inchini dai pirati.»
+«Vayne. Che ha preso Dalmasca in un mese e Nabradia in una notte. Che ha fatto più per l'impero in due anni di quanto il Senato abbia fatto in venti.» Bergan fece un passo verso di lei. «Mentre il tuo ragazzino gioca con le pietre di Lhusu e si fa fare gli inchini dagli aviopirati.»
 
 «Il mio ragazzino» disse Drace, molto piano «ha dodici anni, e a dodici anni ha già capito che cosa succede a chi si trova fra un Solidor e il trono. Tu lo hai capito a trentatré?»
 
@@ -8834,7 +8863,7 @@ Ashe era seduta dietro di lui con l'astuccio delle carte sulle ginocchia. «Non 
 
 «È il difetto principale. Quando lo vedi dal basso è già tardi.»
 
-Fran fece virare la nave. La lancetta continuò a tremare, ma perse il ritmo furioso di prima. Sotto lo scafo si allargava una piana di ghiaia; oltre, un muro di sabbia cancellava la distanza. Il pirata toccò il bordo dello strumento, senza provare a correggerlo.
+Fran fece virare la nave. La lancetta continuò a tremare, ma perse il ritmo furioso di prima. Sotto lo scafo si allargava una piana di ghiaia; oltre, un muro di sabbia cancellava la distanza. L'aviopirata toccò il bordo dello strumento, senza provare a correggerlo.
 
 «Jagd» disse. «Il Mystes non lascia lavorare la pietra di volo. Possiamo scegliere fra arrivare vicini e diventare parte del paesaggio.»
 
@@ -8900,7 +8929,7 @@ Balthier, intanto, faceva i conti. Li faceva a voce alta, perché un conto fatto
 
 «Ce ne sono?» chiese Penelo.
 
-«Di collezionisti che non fanno domande? È l'unica categoria di persone di cui Archades non è mai a corto.» Il pirata si aggiustò la benda sul naso. «Poi le armi. Un re che ha unificato Ivalice avrà avuto delle armi. Mettiamone dodici. E i doni dei re vassalli, che per definizione erano più preziosi del necessario, perché un vassallo che regala poco smette presto di essere vassallo e diventa cadavere.» Si fermò, guardò il cielo, mosse le labbra. «Siamo a un milione e mezzo.»
+«Di collezionisti che non fanno domande? È l'unica categoria di persone di cui Archades non è mai a corto.» L'aviopirata si aggiustò la benda sul naso. «Poi le armi. Un re che ha unificato Ivalice avrà avuto delle armi. Mettiamone dodici. E i doni dei re vassalli, che per definizione erano più preziosi del necessario, perché un vassallo che regala poco smette presto di essere vassallo e diventa cadavere.» Si fermò, guardò il cielo, mosse le labbra. «Siamo a un milione e mezzo.»
 
 «Se c'è» disse Fran.
 
@@ -9012,7 +9041,7 @@ Basch si spostò per mettersi fra lui e la principessa. «Ha scelto di partire.�
 
 «L'ho accompagnata.»
 
-Vossler osservò l'acqua distribuita fra le sacche, la carta aperta, le armi dei pirati. Il suo sguardo si fermò su Balthier. «Con loro.»
+Vossler osservò l'acqua distribuita fra le sacche, la carta aperta, le armi degli aviopirati. Il suo sguardo si fermò su Balthier. «Con loro.»
 
 «Ci hanno portati fuori dal Leviatano.»
 
@@ -9065,7 +9094,7 @@ Il primo cavaliere del mare di sabbia non fece rumore. Passò sotto la grata con
 
 «Dobbiamo andare.»
 
-Balthier guardò oltre il serbatoio. Sul ponte successivo due figure stavano già salendo una scala esterna. Le maschere ricordavano ossa di pesce; le vesti avevano il colore del mare e sembravano fatte con la stessa materia che copriva le raffinerie. Una lancia comparve sopra il parapetto. Il pirata la seguì con gli occhi fino alla punta.
+Balthier guardò oltre il serbatoio. Sul ponte successivo due figure stavano già salendo una scala esterna. Le maschere ricordavano ossa di pesce; le vesti avevano il colore del mare e sembravano fatte con la stessa materia che copriva le raffinerie. Una lancia comparve sopra il parapetto. L'aviopirata la seguì con gli occhi fino alla punta.
 
 «Gli Urutan-Yensa» disse. «I padroni di casa.»
 
@@ -9171,7 +9200,7 @@ Il moguri gli mostrò una direzione, poi prese una manciata di sabbia e la lasci
 
 Ashe si alzò. Vossler fece un passo per parlarle; lei indicò la borraccia appena riempita. «Abbiamo acqua. Abbiamo una strada. Lui no.»
 
-Vossler serrò le labbra. Basch aveva già raccolto la propria sacca. Balthier guardò Fran, la quale prese l'arco. Il pirata sospirò e controllò la carica della pistola.
+Vossler serrò le labbra. Basch aveva già raccolto la propria sacca. Balthier guardò Fran, la quale prese l'arco. L'aviopirata sospirò e controllò la carica della pistola.
 
 ---
 
@@ -9257,7 +9286,7 @@ Fran ci pensò. «Lo dico a Basch?»
 
 «Basch lo sa già. Non lo vuole sapere. È diverso.» Il pirata si sdraiò sulla roccia con le mani dietro la testa. «Teniamo gli occhi aperti, e le orecchie, e le tue funzionano meglio delle mie. E speriamo di sbagliarci. Mi succede di rado, ma quando succede è sempre una festa.»
 
-Accanto al fuoco, Vossler finì di affilare la spada. La guardò controluce, la rinfoderò, e si voltò verso l'imbocco della cavità, dove i due pirati stavano zitti nel buio. Li guardò per un momento. Poi si stese con la schiena contro la roccia e chiuse gli occhi, e Fran, che lo stava ascoltando respirare, sentì che non dormiva.
+Accanto al fuoco, Vossler finì di affilare la spada. La guardò controluce, la rinfoderò, e si voltò verso l'imbocco della cavità, dove i due aviopirati stavano zitti nel buio. Li guardò per un momento. Poi si stese con la schiena contro la roccia e chiuse gli occhi, e Fran, che lo stava ascoltando respirare, sentì che non dormiva.
 
 ---
 
@@ -9304,7 +9333,7 @@ Fran tirò. La freccia deviò la discesa del rapace, che colpì un gradino con u
 
 «Balthier!»
 
-Il pirata si voltò e vide il frutto scuro fra le dita. Indicò la terrazza dove il Garuda stava per posarsi. «Sopra il vento. Aspetta che scenda.»
+L'aviopirata si voltò e vide il frutto scuro fra le dita. Indicò la terrazza dove il Garuda stava per posarsi. «Sopra il vento. Aspetta che scenda.»
 
 Vaan non aspettò abbastanza. Corse per tre gradini e lanciò. La pezza si aprì in aria, le bacche colpirono il fianco della colonna e si ruppero; un odore acre, di resina e frutta fermentata, lo investì subito. Il Garuda piegò la testa. Provò a battere le ali, perse il ritmo e scese proprio dentro la nube.
 
@@ -9408,7 +9437,7 @@ Il pirata si girò verso Fran. «Noi siamo intrusi molto esperti.»
 
 Vossler prese la parola prima che la principessa potesse rispondere. «Se l'accesso richiede una prova, quella prova è il Frammento del Crepuscolo. Che abbiamo perso.»
 
-Ashe sentì l'anello scivolarle verso la nocca e lo rimandò alla base del dito con il pollice. «Lo so.»
+Ashe sfiorò l'anello con il pollice. «Lo so.»
 
 «Non possiamo contare soltanto sul sangue.»
 
@@ -9428,7 +9457,7 @@ Balthier si mise la pistola nella cintura. «Oltre al compenso che mi è stato p
 
 La principessa lo guardò in viso. «Il tesoro è dentro.»
 
-Il pirata fece passare un istante, il tempo di dare alla frase tutto il valore che voleva sentirci. Poi si avvicinò al congegno e ne esaminò le linee luminose, senza toccarle.
+L'aviopirata fece passare un istante, il tempo di dare alla frase tutto il valore che voleva sentirci. Poi si avvicinò al congegno e ne esaminò le linee luminose, senza toccarle.
 
 «Non c'è un cardine» osservò Vaan.
 
@@ -9549,7 +9578,7 @@ Balthier si voltò verso Ashe. Non protestò: lasciò che fosse lei a vedere il 
 
 «L'accordo è mio» disse.
 
-«Avete promesso ai pirati di depredare il vostro antenato?»
+«Avete promesso agli aviopirati di depredare il vostro antenato?»
 
 «Ho promesso un compenso a chi mi ha portata qui.»
 
@@ -9565,7 +9594,7 @@ Vossler non rispose. Balthier si scostò dalla nicchia; non aveva trovato nulla 
 
 La risposta era sincera, e per questo Ashe dovette aspettare prima di parlare. «Allora fallo con le persone che abbiamo. Non con quelle che avresti voluto.»
 
-Vossler la guardò. Si era abituato a difenderla decidendo a chi fosse lecito avvicinarsi; due anni di cantine avevano fatto di quella scelta quasi tutta la sua autorità. Dietro di lei stavano un pirata, una viera e due ragazzi, con la polvere della strada ancora addosso. Basch non prese la parola a suo favore. Aspettò che fosse lui a spostarsi.
+Vossler la guardò. Si era abituato a difenderla decidendo a chi fosse lecito avvicinarsi; due anni di cantine avevano fatto di quella scelta quasi tutta la sua autorità. Dietro di lei stavano un pirata del cielo, una viera e due ragazzi, con la polvere della strada ancora addosso. Basch non prese la parola a suo favore. Aspettò che fosse lui a spostarsi.
 
 Vossler si spostò. Ashe tornò a guardare il passaggio in fondo alla sala, dove due scale scendevano in direzioni opposte. Non aprì la carta. L'astuccio degli Ondore non serviva più.
 
@@ -9653,7 +9682,7 @@ Balthier si toccò il bordo bruciato della manica. Rimase abbastanza in silenzio
 
 «Un milione e cinquecentoventimila» disse Fran.
 
-«Meno tutto.» Il pirata si toccò il colletto, dove la penna di rame del Garuda spuntava ancora dal gilet. «Più una penna. Non è una cifra che si possa raccontare in una taverna senza essere presi a sassate.»
+«Meno tutto.» L'aviopirata si toccò il colletto, dove la penna di rame del Garuda spuntava ancora dal gilet. «Più una penna. Non è una cifra che si possa raccontare in una taverna senza essere presi a sassate.»
 
 «Allora non raccontarla.»
 
@@ -9678,7 +9707,7 @@ Il piedistallo aveva una scanalatura lungo il bordo, larga quanto un dito. Ashe 
 
 La Camera della Prima Luce non aveva finestre. Dall'alto scendeva un chiarore senza sole, abbastanza uniforme da togliere profondità ai visi. Basch era vicino all'ultima scala, con la spada ancora sguainata; il metallo gli sembrava fuori luogo e non sapeva se riporlo. Vossler stava accanto alla principessa. Gli altri erano rimasti presso il congegno di trasporto, e il rumore di una cinghia che Penelo sistemava sulla spalla arrivava chiaro fino al piedistallo.
 
-Ashe allungò la destra. La sinistra restò chiusa contro il fianco, con la fede fermata dal pollice. La luce della pietra si alzò e le fece perdere di vista la propria mano.
+Ashe allungò la destra. La sinistra restò chiusa contro il fianco, con il pollice sulla fede. La luce della pietra si alzò e le fece perdere di vista la propria mano.
 
 Davanti a lei c'era Rasler.
 
@@ -9704,13 +9733,13 @@ Rasler teneva le mani libere. Ashe le guardò prima ancora di cercarne gli occhi
 
 «Sei qui» disse.
 
-Il principe non rispose. Il suo viso rimase rivolto verso di lei, senza muovere la bocca. Ashe aspettò una voce, una domanda, il rimprovero che si era preparata a ricevere da quando aveva lasciato Bhujerba. Lui avrebbe dovuto dirle di aver rischiato troppo. Oppure avrebbe riso della nave rubata, dell'accordo con un pirata, di tutta quella gente condotta dentro una tomba per cercare un frammento.
+Il principe non rispose. Il suo viso rimase rivolto verso di lei, senza muovere la bocca. Ashe aspettò una voce, una domanda, il rimprovero che si era preparata a ricevere da quando aveva lasciato Bhujerba. Lui avrebbe dovuto dirle di aver rischiato troppo. Oppure avrebbe riso della nave rubata, dell'accordo con un pirata del cielo, di tutta quella gente condotta dentro una tomba per cercare un frammento.
 
 Non disse niente.
 
-La principessa mosse la sinistra. La fede scivolò fino alla nocca e lei chiuse le dita, per abitudine. Vide la luce prenderle le piccole tacche dell'oro rosso e dell'argento; il gesto le parve così domestico, davanti a lui, da farle tremare il mento. L'anello era rimasto largo. Doveva sapere anche questo. C'era una fila di cose piccole che non aveva potuto dirgli, e tutte le si affollarono davanti alla più grande.
+La principessa mosse la sinistra e chiuse le dita sulla fede, per abitudine. Vide la luce prenderle le piccole tacche dell'oro rosso e dell'argento; il gesto le parve così domestico, davanti a lui, da farle tremare il mento. L'aveva fatta stringere. Doveva sapere anche questo. C'era una fila di cose piccole che non aveva potuto dirgli, e tutte le si affollarono davanti alla più grande.
 
-«Non l'ho fatto...» cominciò.
+«L'ho fatta stringere...» cominciò.
 
 Si fermò. Non voleva sprecare il primo momento parlando di un anello. Non voleva nemmeno parlare del regno. La mano destra era ancora tesa e la distanza non diminuiva. Allora spostò il piede oltre il piedistallo e cercò di raggiungerlo davvero.
 
@@ -9836,7 +9865,7 @@ Ashe guardò Vossler, che controllava la porta. Aveva ricevuto da lui cibo, ripa
 
 «No, altezza.»
 
-Prese la pezza e la avvolse intorno alla pietra. Nel farlo dovette aprire la sinistra; l'anello scivolò di nuovo e lei lo fermò con il mignolo. Basch guardò il gesto soltanto un istante, poi distolse gli occhi. Ricordava la notte delle nozze vista dalla sua colonna: il re che ballava con la figlia tenendole il pugno chiuso, e il principe che la mattina stessa gli aveva chiesto il nome di un orafo onesto. Non le offrì l'orafo che non aveva più potuto aspettare.
+Prese la pezza e la avvolse intorno alla pietra. Nel farlo aprì la sinistra e sfiorò la fede con il pollice. Basch guardò il gesto soltanto un istante, poi distolse gli occhi. Ricordava la notte delle nozze vista dalla sua colonna: il re che ballava con la figlia tenendole il pugno chiuso, e il principe che la mattina stessa gli aveva chiesto il nome di un orafo onesto.
 
 ---
 
@@ -9930,7 +9959,7 @@ La principessa guardò la manica bruciata. Sul bordo era rimasto un pezzetto di 
 
 Balthier la fermò con un gesto breve. «Neanche io. Siamo pari sulla qualità delle informazioni.»
 
-Ashe abbassò lo sguardo sul frammento. Non poteva chiamare il Gigas e metterlo nella borsa del pirata; non poteva nemmeno promettergli oro che non aveva. Si accorse di essere arrivata fino al proprio antenato con la stessa risorsa usata da suo zio, parole abbastanza ben pronunciate da far camminare gli altri.
+Ashe abbassò lo sguardo sul frammento. Non poteva chiamare il Gigas e metterlo nella borsa dell'aviopirata; non poteva nemmeno promettergli oro che non aveva. Si accorse di essere arrivata fino al proprio antenato con la stessa risorsa usata da suo zio, parole abbastanza ben pronunciate da far camminare gli altri.
 
 «Quando avrò ripreso il trono...» cominciò.
 
@@ -9950,7 +9979,7 @@ Ashe si irrigidì. La parola arrivava troppo vicino all'uomo appena scomparso. B
 
 «Per questo preferirei che camminaste da sola.»
 
-Ashe rimase a guardarlo. Il pirata aveva trovato una frase abbastanza irritante da farle riprendere il posto in mezzo agli altri. Non capì se lo avesse fatto apposta. Balthier si scostò dal passaggio, lasciandolo libero, e lei sentì di poterlo attraversare senza dovergli dare una risposta.
+Ashe rimase a guardarlo. L'aviopirata aveva trovato una frase abbastanza irritante da farle riprendere il posto in mezzo agli altri. Non capì se lo avesse fatto apposta. Balthier si scostò dal passaggio, lasciandolo libero, e lei sentì di poterlo attraversare senza dovergli dare una risposta.
 
 Raminas le aveva fatto studiare i debiti della corona su tavolette piccole, una per ogni distretto. A lei piacevano quelle dove il conto tornava; il padre le aveva mostrato soprattutto le altre. «Queste sono persone che aspettano» diceva, e le lasciava la tavoletta finché non faceva una domanda meno comoda del perché mancassero monete. Per anni Ashe aveva creduto che fosse una lezione di governo inventata per tenerla lontana dalle lezioni di spada. Ora sentiva sulla schiena il peso delle sacche di chi l'aveva seguita.
 
@@ -9972,7 +10001,7 @@ Vaan vide lo scambio senza avvicinarsi. Aveva ancora addosso la certezza di aver
 
 Ashe guardò un'ultima volta il piedistallo. Era vuoto in una maniera che il sepolcro sembrava aver previsto, con la scanalatura chiara pronta a raccogliere altra polvere. Pensò alla mano attraversata dal corpo di Rasler e poi al freddo esatto della pietra. Il primo gesto non aveva trattenuto nulla. Il secondo le aveva dato un peso da portare fino a casa. Tirò il laccio sul petto e tornò davanti al congegno.
 
-Vaan arrivò per ultimo al segno di trasporto. Si voltò ancora verso la scala e vide soltanto pietra. Rimise lo sguardo davanti. La destra di Ashe era chiusa sulla reliquia; la sinistra sul cerchio di metallo troppo largo. Il ragazzo si spostò abbastanza vicino da starle accanto quando la luce si aprì sotto i loro piedi.
+Vaan arrivò per ultimo al segno di trasporto. Si voltò ancora verso la scala e vide soltanto pietra. Rimise lo sguardo davanti. La destra di Ashe era chiusa sulla reliquia; la sinistra sul cerchio di metallo. Il ragazzo si spostò abbastanza vicino da starle accanto quando la luce si aprì sotto i loro piedi.
 
 Nella sala di Belias ritrovarono il lembo bruciato della sacca, ancora sul pavimento. Balthier lo raccolse e se lo portò via senza una parola. Attraversarono le ali del sepolcro, passarono accanto al muro fermo con il segno spezzato e raggiunsero il primo congegno.
 
@@ -10079,7 +10108,7 @@ Il Giudice non lo guardò. Vossler sì. «Due anni» disse al pirata. «Due anni
 
 «E volete regalarle una cantina con le finestre.»
 
-Vossler mosse una mano. Basch si spostò quanto gli permisero le lance e si mise davanti al pirata. Il gesto lasciò Vossler interdetto più della battuta. Erano arrivati a difendere due lati della stessa stanza, e Vossler parve accorgersene soltanto vedendo il corpo dell'altro fra sé e Balthier.
+Vossler mosse una mano. Basch si spostò quanto gli permisero le lance e si mise davanti all'aviopirata. Il gesto lasciò Vossler interdetto più della battuta. Erano arrivati a difendere due lati della stessa stanza, e Vossler parve accorgersene soltanto vedendo il corpo dell'altro fra sé e Balthier.
 
 Ashe guardò Ghis. «Chi garantisce l'accordo?»
 
@@ -10145,7 +10174,7 @@ Balthier alzò la testa. Il movimento tirò la pelle del taglio e vi fece tornar
 
 Ghis richiuse la custodia. «Il Laboratorio Draklor saprà attribuirle un valore più esatto del vostro.»
 
-Il pirata guardò le cerniere di ottone, il piccolo sigillo, il tecnico che la prendeva con entrambe le mani. Fran gli vide cambiare il respiro. Sul coperchio della custodia c'era inciso un segno piccolissimo, tre linee e un cerchio. Lo stesso della scheggia di Lhusu. Balthier lo aveva letto nella caverna fredda, sei livelli sotto Bhujerba, e lo rilesse adesso senza volerlo, e qualcosa nelle sue spalle si chiuse. Nessun altro ebbe tempo di notarlo, perché Ghis ordinò di trasferirli sullo Shiva.
+L'aviopirata guardò le cerniere di ottone, il piccolo sigillo, il tecnico che la prendeva con entrambe le mani. Fran gli vide cambiare il respiro. Sul coperchio della custodia c'era inciso un segno piccolissimo, tre linee e un cerchio. Lo stesso della scheggia di Lhusu. Balthier lo aveva letto nella caverna fredda, sei livelli sotto Bhujerba, e lo rilesse adesso senza volerlo, e qualcosa nelle sue spalle si chiuse. Nessun altro ebbe tempo di notarlo, perché Ghis ordinò di trasferirli sullo Shiva.
 
 «Un incrociatore leggero» aggiunse. «Vi ricondurrà a Dalmasca. Il capitano Azelas avrà cura che il viaggio non presenti altri contrattempi.»
 
@@ -10278,7 +10307,7 @@ Vossler lo guardò come se quella parola, proprio in quella voce, fosse un colpo
 
 «Allora perché le hai tolto anche questo?»
 
-Basch lo guardò, e per un istante non vide il corridoio dello Shiva. Vide un cortile di caserma a Rabanastre, vent'anni prima, con la polvere rossa e il sole a picco e un pozzo nell'angolo. Un ragazzo di Landis appena arrivato, che parlava il dalmasco come si mastica un pane troppo duro e non conosceva nessuno, e che i cadetti chiamavano "il forestiero" perché non sapevano ancora come chiamarlo. E un altro ragazzo, bruno, più largo di spalle, che la prima sera gli aveva lasciato metà della sua razione sulla branda senza dire niente e la mattina dopo, in cortile, lo aveva battuto tre volte di fila con la stessa finta: la spalla che si abbassa, la lama che arriva di lato. Alla quarta Basch l'aveva parata. Vossler aveva riso e gli aveva detto *adesso sei dei nostri*, e aveva sputato nella polvere per suggellare la cosa, perché a quell'età si suggellano così.
+Basch lo guardò, e per un istante non vide il corridoio dello Shiva. Vide un cortile di caserma a Rabanastre, vent'anni prima, con la polvere rossa e il sole a picco e un pozzo nell'angolo. Un ragazzo di Landis appena arrivato, che masticava le parole con il suo accento di Landis come un pane troppo duro e non conosceva nessuno, e che i cadetti chiamavano "il forestiero" perché non sapevano ancora come chiamarlo. E un altro ragazzo, bruno, più largo di spalle, che la prima sera gli aveva lasciato metà della sua razione sulla branda senza dire niente e la mattina dopo, in cortile, lo aveva battuto tre volte di fila con la stessa finta: la spalla che si abbassa, la lama che arriva di lato. Alla quarta Basch l'aveva parata. Vossler aveva riso e gli aveva detto *adesso sei dei nostri*, e aveva sputato nella polvere per suggellare la cosa, perché a quell'età si suggellano così.
 
 Era la stessa finta. Vossler non ne aveva mai imparata un'altra, perché non ne aveva mai avuto bisogno.
 
@@ -10406,7 +10435,7 @@ Fran teneva gli occhi chiusi. «Ancora» disse.
 
 «Più lontano.»
 
-Il pirata non rispose. Liberò un fermo con l'unghia e portò la leva fino in fondo. Penelo si sporse dal sedile dietro Fran, le tenne una spalla e le premette sulla fronte un panno bagnato. Vaan prese la borraccia aperta fra le sue ginocchia e la richiuse prima che l'acqua finisse sul pavimento.
+L'aviopirata non rispose. Liberò un fermo con l'unghia e portò la leva fino in fondo. Penelo si sporse dal sedile dietro Fran, le tenne una spalla e le premette sulla fronte un panno bagnato. Vaan prese la borraccia aperta fra le sue ginocchia e la richiuse prima che l'acqua finisse sul pavimento.
 
 Ashe era sola davanti al vetro laterale. L'ultima esplosione cancellò l'ombra del Leviatano e le illuminò le mani vuote. Non si coprì gli occhi. La luce restò anche quando la nave non c'era più.
 
@@ -10471,7 +10500,7 @@ Quando il segretario se ne fu andato, il marchese restò solo nella sala con il 
 
 Prese dal tavolo il quaderno rilegato in cui da trent'anni annotava, la sera, le cose che un giorno sarebbero diventate le Memorie. Lo aprì all'ultima pagina scritta. C'era la frase del giorno prima: *Mia nipote è mia ospite, e riposa.* La guardò per un pezzo. Poi intinse la penna e scrisse sotto, in una calligrafia più piccola, che non era quella delle lettere ufficiali:
 
-*Non riposa. Non ha mai riposato. Ha preso la carta del bisnonno, un pirata e la mia nave migliore di notte, che poi non era la mia, ed è andata a fare quello che io ho avuto paura di fare per trent'anni. Se torna, glielo dirò. Se non torna, lo dirò a qualcuno.*
+*Non riposa. Non ha mai riposato. Ha preso la carta del nonno, un pirata del cielo e la mia nave migliore di notte, che poi non era la mia, ed è andata a fare quello che io ho avuto paura di fare per trent'anni. Se torna, glielo dirò. Se non torna, lo dirò a qualcuno.*
 
 Rilesse. Poi, con un tratto di penna netto, cancellò tutto, frase per frase, finché la pagina non fu che una griglia nera. Il quaderno lo rimise sul tavolo.
 
@@ -10596,7 +10625,7 @@ Teneva qualcosa in mano. Glielo porse sul palmo aperto, con un piccolo inchino, 
 
 Al suo posto c'era Vaan. Stava nello stesso punto, nella stessa luce, con la giubba aperta sporca di sabbia e i capelli in disordine, e la guardava con l'espressione di chi è entrato in una stanza sbagliata e non sa se scusarsi. Non disse niente. Lei nemmeno.
 
-Si svegliò con la mano chiusa a pugno sul petto. Dentro il pugno c'era l'anello, largo come sempre, che di notte le scivolava fino alla nocca, e che lei la sera si legava al dito con un filo di cotone e la mattina slegava prima che qualcuno la vedesse.
+Si svegliò con la mano chiusa a pugno sul petto. Dentro il pugno c'era l'anello.
 
 ---
 
@@ -10811,7 +10840,7 @@ Vaan si sporse in avanti. «Ma non era tuo, il tesoro. Era della tomba.»
 
 «Non è vero.»
 
-Lo sguardo del pirata scese. Ashe se ne accorse tardi, quando era già sulla sua mano sinistra, e la mano sinistra, per un istinto più vecchio di qualsiasi pensiero, si chiuse.
+Lo sguardo dell'aviopirata scese. Ashe se ne accorse tardi, quando era già sulla sua mano sinistra, e la mano sinistra, per un istinto più vecchio di qualsiasi pensiero, si chiuse.
 
 Per un lungo momento nessuno capì. Poi Penelo capì, e trattenne il fiato. Basch alzò la testa di scatto. Vaan guardò il pugno della principessa e poi Balthier e poi il pugno di nuovo, e quando capì anche lui, fu il solo a parlare.
 
@@ -10849,21 +10878,21 @@ Lo disse senza sorridere. Ashe lo fissò, e per un momento chi stava nella stanz
 
 Ashe guardò la mano. Poi guardò la propria.
 
-Il pugno si aprì un dito alla volta. L'anello era lì, sulla base dell'anulare, girato storto come sempre, con il filo d'oro rosso sopra e quello d'argento sotto, e un nodo di cotone bianco sbiadito che lei, quella mattina, si era dimenticata di togliere. Lo vide in quell'istante, il nodo. Lo vide anche Balthier. Nessuno dei due disse niente.
+Il pugno si aprì un dito alla volta. L'anello era lì, alla base dell'anulare, con il filo d'oro rosso sopra e quello d'argento sotto.
 
-Lei sciolse il filo. Le dita le tremavano un poco e lei lo tollerò, perché il filo era piccolo e il nodo stretto e qualsiasi mano avrebbe tremato. Poi tirò l'anello, e l'anello venne via subito, senza resistenza, con una facilità che la ferì più di qualsiasi altra cosa, perché un anello giusto avrebbe fatto almeno la fatica di passare la nocca, e quello no, quello non aveva mai fatto fatica. Lo depose sul palmo di Balthier.
+Lo tirò. Alla nocca l'anello si fermò, e lei dovette girarlo due volte prima che passasse. Lo depose sul palmo di Balthier.
 
-Lui chiuse la mano. La riaprì subito, e guardò l'anello da vicino, inclinandolo verso la lampada perché la luce prendesse le piccole tacche agli incroci dei due fili.
+Lui lo guardò da vicino, inclinandolo verso la lampada perché la luce prendesse le piccole tacche agli incroci dei due fili.
 
-«È largo» disse.
+«L'argento è stato ritoccato» disse. «Qui, dove non si vede.»
 
-«Lo so.»
+«L'ho fatto stringere.»
 
-«Molto largo. Su che dito lo hanno misurato?»
+«Di recente?»
 
-«Su un guanto.»
+«Dopo un funerale.»
 
-Balthier alzò gli occhi su di lei. La frase sarebbe stata ridicola in qualsiasi altra stanza. In quella non lo fu, e lui ebbe il buon gusto di non trattarla come tale. Non chiese chi lo avesse misurato su un guanto, né perché nessuno lo avesse mai fatto stringere. Guardò la principessa per un tempo un po' più lungo del necessario, con un'espressione che Vaan, che stava due passi più in là, non gli aveva mai visto e non riuscì a decifrare, e poi infilò l'anello nella tasca interna della giacca, quella sul petto, dove i pirati tengono le cose che non vogliono perdere.
+Balthier alzò gli occhi su di lei. Non chiese di chi fosse il funerale. Guardò la principessa per un tempo un po' più lungo del necessario, con un'espressione che Vaan, che stava due passi più in là, non gli aveva mai visto e non riuscì a decifrare, e poi infilò l'anello nella tasca interna della giacca, quella sul petto, dove i pirati del cielo tengono le cose che non vogliono perdere.
 
 «Te lo restituirò» disse.
 
@@ -10903,7 +10932,7 @@ Fran, dal suo angolo, disse una sola parola, «Balthier», con un tono che nessu
 
 «Io cosa?»
 
-«Cosa cerchi? Lei cerca un modo di usare una pietra. Il capitano cerca il modo di farsi perdonare qualcosa che non ha fatto. Fran cerca il modo di non dirmi quello che pensa. Io, a quanto pare, cerco qualcosa che vale più di un anello.» Allargò le mani. «Tu perché vieni? E non dirmi che vuoi diventare un pirata. Quello lo dici a tutti.»
+«Cosa cerchi? Lei cerca un modo di usare una pietra. Il capitano cerca il modo di farsi perdonare qualcosa che non ha fatto. Fran cerca il modo di non dirmi quello che pensa. Io, a quanto pare, cerco qualcosa che vale più di un anello.» Allargò le mani. «Tu perché vieni? E non dirmi che vuoi diventare un aviopirata. Quello lo dici a tutti.»
 
 Vaan aprì la bocca. La risposta pronta era quella, la nave, il cielo, l'uscire da Rabanastre e non tornarci, e ce l'aveva sulla lingua come una moneta, lucida per l'uso. Non la disse. Balthier gli aveva tolto quella moneta prima che la tirasse fuori, e lui si ritrovò a frugarsi in tasca senza trovare altro.
 
@@ -11231,7 +11260,7 @@ Fuori la notte era chiara. Le nuvole se n'erano andate verso est e sopra Kerwon 
 
 Ashe camminava. Non sapeva dove andava. Aveva lasciato la casa perché dentro c'era un ragazzo che le aveva offerto se stesso come si offre una moneta, e lei non aveva saputo cosa rispondere, e una principessa che non sa cosa rispondere deve almeno avere la decenza di non farsi vedere. Attraversò un ponte. I suoi passi facevano oscillare le tavole. Si fermò al centro, con le mani sulle corde, e guardò giù, verso la pianura nera, dove l'erba di Ozmone si muoveva sotto il vento senza luce.
 
-La vendetta era una cosa semplice. Questa era la cosa che nessuno le aveva mai detto e che lei aveva scoperto da sola, in due anni di nascondigli e di cantine: la vendetta era una cosa semplice e calda, e stava in mano come una pietra levigata, e la sera, quando ci si sdraiava al buio, era l'unica cosa che non pungeva. Ci si poteva dormire sopra. Si sapeva dove stava. La pace che il ragazzo le offriva non aveva forma. Non si poteva stringere. Le sfuggiva tra le dita come il suo anello, che le era sempre stato largo e che adesso non c'era più.
+La vendetta era una cosa semplice. Questa era la cosa che nessuno le aveva mai detto e che lei aveva scoperto da sola, in due anni di nascondigli e di cantine: la vendetta era una cosa semplice e calda, e stava in mano come una pietra levigata, e la sera, quando ci si sdraiava al buio, era l'unica cosa che non pungeva. Ci si poteva dormire sopra. Si sapeva dove stava. La pace che il ragazzo le offriva non aveva forma. Non si poteva stringere. Le sfuggiva tra le dita.
 
 Sollevò la testa.
 
@@ -11342,7 +11371,7 @@ Si strinse nelle spalle.
 
 Ashe non lo interruppe.
 
-«Le aeronavi, il cielo, diventare pirata. Lo sai. Lo dico a tutti. L'ho detto così tante volte che ci credevo anch'io. Ci credo anche adesso, a metà.» Vaan alzò gli occhi verso le stelle. «Però a casa di Dalan, quando Balthier mi ha chiesto cosa cerco, non sapevo rispondere. E allora ci ho pensato. E credo che il cielo… credo che non volevo il cielo. Volevo andare via. Da Rabanastre. Dalla stanza sopra la bottega, dove c'era il letto. Dalla via delle Fontane. Da tutti i posti dove passavo e mi veniva in mente lui. Se sei su una nave, sei in un posto dove lui non è mai stato. Non c'è niente che te lo ricorda. È per questo.»
+«Le aeronavi, il cielo, diventare aviopirata. Lo sai. Lo dico a tutti. L'ho detto così tante volte che ci credevo anch'io. Ci credo anche adesso, a metà.» Vaan alzò gli occhi verso le stelle. «Però a casa di Dalan, quando Balthier mi ha chiesto cosa cerco, non sapevo rispondere. E allora ci ho pensato. E credo che il cielo… credo che non volevo il cielo. Volevo andare via. Da Rabanastre. Dalla stanza sopra la bottega, dove c'era il letto. Dalla via delle Fontane. Da tutti i posti dove passavo e mi veniva in mente lui. Se sei su una nave, sei in un posto dove lui non è mai stato. Non c'è niente che te lo ricorda. È per questo.»
 
 Si fermò. Poi aggiunse, più piano:
 
@@ -12847,7 +12876,7 @@ Vaan non disse più niente fino a sera, e quella sera, accanto al fuoco, fu lui 
 
 # Parte VII. Il santuario fra le nuvole
 
-*L'imperatore Gramis morì nel suo letto, a palazzo, mentre io armavo le mie navi. Il Senato di Archades ne diede notizia con la sobrietà che gli era abituale: un malore, poi un'indagine, poi una confessione. Il presidente Gregoroth, che per molti anni avevo stimato come uomo di legge, fu riconosciuto colpevole di aver avvelenato il sovrano e si tolse la vita prima del processo. La successione passò al principe Vayne senza disordini.*
+*L'imperatore Gramis morì nel suo letto, a palazzo, mentre io armavo le mie navi. Il Senato di Archades ne diede notizia con la sobrietà che gli era abituale: un malore, poi un'indagine, poi una confessione. Il presidente Gregoroth, che per molti anni avevo stimato come uomo di legge, fu ritenuto colpevole di aver avvelenato il sovrano e si tolse la vita prima del processo. La successione passò al principe Vayne senza disordini.*
 
 *Mi fu chiesto in seguito se avessi creduto a quella versione. Rispondo che non avevo ragioni per non crederci, e che un marchese il cui cielo è sorvegliato da una flotta straniera impara presto a distinguere fra ciò che crede e ciò che gli conviene dire di credere. Al Bur-Omisace, in quei giorni, la principessa Ashelia era al sicuro. Così mi dissero, e così scrissi a Rozarria.*
 
@@ -12905,13 +12934,13 @@ La donna si voltò. Aveva la faccia scura e screpolata dal freddo, e lo guardò 
 
 Riprese a camminare. Vaan restò fermo sulla pista con la bocca aperta, e Penelo gli prese la mano dentro il guanto di lana, e non disse niente.
 
-C'era gente da ogni parte. Lo si capiva dalle voci, che parlavano lingue e dialetti che Vaan non conosceva; dai vestiti, che sotto le pellicce erano di tagli e colori diversi; dalle facce. C'erano contadini delle colline di Nabradia, con i cappelli di feltro a punta. C'erano dalmaschi del deserto, che il freddo faceva soffrire più di tutti e che camminavano curvi, a testa bassa, come se la neve fosse sabbia da attraversare in fretta. E c'era un gruppo, più avanti, di gente alta e chiara di capelli, che camminava in fila più ordinata degli altri e parlava fra sé in una lingua dalle consonanti dure.
+C'era gente da ogni parte. Lo si capiva dalle voci, che avevano accenti e dialetti che Vaan non conosceva; dai vestiti, che sotto le pellicce erano di tagli e colori diversi; dalle facce. C'erano contadini delle colline di Nabradia, con i cappelli di feltro a punta. C'erano dalmaschi del deserto, che il freddo faceva soffrire più di tutti e che camminavano curvi, a testa bassa, come se la neve fosse sabbia da attraversare in fretta. E c'era un gruppo, più avanti, di gente alta e chiara di capelli, che camminava in fila più ordinata degli altri e parlava fra sé in un dialetto dalle consonanti dure.
 
 Basch li sentì. Si fermò di colpo.
 
 Era la prima volta che lo vedevano fermarsi così, senza una ragione di pericolo, con la testa voltata e il corpo rigido, come un cane che sente il nome del padrone gridato in una strada affollata. Ascoltò. Poi lasciò la sua posizione accanto ad Ashe, senza chiedere il permesso, e risalì la fila fino al gruppo.
 
-Gli altri lo videro avvicinarsi a un vecchio che camminava con un bastone in testa al gruppo, e dirgli qualcosa in quella lingua dalle consonanti dure. Il vecchio si fermò. Lo guardò dal basso, con gli occhi socchiusi nella luce bianca. Disse qualcosa. Basch rispose. Il vecchio disse un'altra cosa, più lunga, e indicò con il bastone la valle alle loro spalle, il sud, il fiume, e poi l'est, dove non c'era niente da vedere se non montagne. Basch ascoltò senza muoversi.
+Gli altri lo videro avvicinarsi a un vecchio che camminava con un bastone in testa al gruppo, e dirgli qualcosa in quel dialetto dalle consonanti dure. Il vecchio si fermò. Lo guardò dal basso, con gli occhi socchiusi nella luce bianca. Disse qualcosa. Basch rispose. Il vecchio disse un'altra cosa, più lunga, e indicò con il bastone la valle alle loro spalle, il sud, il fiume, e poi l'est, dove non c'era niente da vedere se non montagne. Basch ascoltò senza muoversi.
 
 Alla fine il vecchio gli fece una domanda. Era breve. Basch non rispose subito. Poi scosse la testa, una volta, e disse una parola sola. Il vecchio lo guardò ancora un momento, poi annuì, adagio, come chi riceve una risposta che si aspettava, e riprese a camminare.
 
@@ -12955,7 +12984,7 @@ Ashe aveva smesso di mangiare.
 
 «E quella notte» disse Erith «verso la terza ora, la città si è accesa.»
 
-Il fuoco crepitò. Intorno, fra i profughi degli altri fuochi, qualcuno parlava a bassa voce, un bambino piangeva, una donna cantava una ninnananna in nabradiano. Erith non alzò la voce.
+Il fuoco crepitò. Intorno, fra i profughi degli altri fuochi, qualcuno parlava a bassa voce, un bambino piangeva, una donna cantava una ninnananna in dialetto nabradiano. Erith non alzò la voce.
 
 «Non è stato come un incendio. Un incendio comincia da una parte e va da un'altra. Questo no. Era tutta. Tutta insieme. Una luce bianca, poi viola, che usciva dal palazzo e si allargava, e non faceva rumore. Questo me lo ricordo meglio di tutto. Non faceva rumore. Mio cognato è uscito in camicia e si è messo a guardare e non ha detto niente, e io neanche. I buoi si sono messi a muggire e non smettevano più.» Fece una pausa. «Poi il rumore è arrivato. Tardi. Come un tuono che arriva dopo il lampo. E dopo il rumore niente. Né campane, né grida. Niente.»
 
@@ -13694,7 +13723,7 @@ Larsa la guardò. Poi chinò la testa, un piccolo inchino, il più breve dell'et
 
 «Ci proverò» disse.
 
-Vaan gli diede una pacca sulla spalla, troppo forte, e Larsa barcollò e rise. Basch gli fece un cenno con la testa, uno solo, da soldato a soldato, che il ragazzo ricambiò con la stessa serietà. Balthier gli disse che era stato un piacere viaggiare con l'unico principe di sua conoscenza capace di lavarsi le scarpe da solo, e Larsa rispose che era stato un piacere viaggiare con l'unico pirata di sua conoscenza capace di lamentarsi degli stivali per tre settimane di fila, e Fran disse una parola sola, «bene», che poteva riferirsi a tutti e due.
+Vaan gli diede una pacca sulla spalla, troppo forte, e Larsa barcollò e rise. Basch gli fece un cenno con la testa, uno solo, da soldato a soldato, che il ragazzo ricambiò con la stessa serietà. Balthier gli disse che era stato un piacere viaggiare con l'unico principe di sua conoscenza capace di lavarsi le scarpe da solo, e Larsa rispose che era stato un piacere viaggiare con l'unico pirata del cielo di sua conoscenza capace di lamentarsi degli stivali per tre settimane di fila, e Fran disse una parola sola, «bene», che poteva riferirsi a tutti e due.
 
 Penelo fu l'ultima. Si fermò davanti a lui. Non aveva niente da dargli. Aveva dato via il miele, aveva dato via le focacce, la pietra ce l'aveva lui, e la Lacrima era una cosa del Bosco, che non si regala. Lo guardò e si accorse di avere le mani vuote, e per un momento non seppe cosa fare con le mani.
 
@@ -14368,7 +14397,7 @@ Vaan corse verso di lui. «Stai bene?»
 
 «Splendidamente.» Al-Cid guardò il ragazzo, poi la propria spalla. «Questa è solo una piccola divergenza di opinioni con un soldato del Ministero, che sosteneva che i rozarriani non hanno diritto di asilo nei luoghi sacri. Lui ha espresso il suo punto di vista con una lama. Io ho espresso il mio con un'altra. Siamo rimasti in disaccordo, ma io sono ancora qui a parlarne, il che, in diplomazia, si chiama vincere.»
 
-La donna dal velo verde disse una parola in rozarriano, breve, che fece ridere Balthier e arrossire Al-Cid.
+La donna dal velo verde disse una parola in dialetto rozarriano, breve, che fece ridere Balthier e arrossire Al-Cid.
 
 «Lei è Tavina» disse Al-Cid. «Mi accompagna. Mi accompagnano in quattro, di solito, ma le altre tre le ho mandate giù dalla montagna stamattina, con i feriti. Tavina si è rifiutata. Tavina si rifiuta spesso.» La guardò, e c'era nello sguardo qualcosa che non era galanteria. «Mi ha salvato la vita due volte, stanotte. La terza volta, dice, mi lascerà morire per principio.»
 
@@ -14478,7 +14507,7 @@ Tavina tirò fuori dal mantello un paio di occhiali scuri, perché era lei a por
 
 «E comunque» disse, rialzandosi «se cambiaste idea, Rozarria ha un clima molto migliore.»
 
-Tavina gli disse un'altra parola in rozarriano. Lui le rispose che lo sapeva. E se ne andarono così, lui appoggiato a lei, giù per la navata grigia, oltre le porte storte, nella pioggia.
+Tavina gli disse un'altra parola in dialetto rozarriano. Lui le rispose che lo sapeva. E se ne andarono così, lui appoggiato a lei, giù per la navata grigia, oltre le porte storte, nella pioggia.
 
 ---
 
@@ -14531,7 +14560,7 @@ Poi Vaan raggiunse gli altri, e la compagnia, in sei, scese dal monte sacro vers
 
 ## 74. Le montagne che separano i regni
 
-Al Borgo di Nalbina l'acqua si vendeva a bicchiere, e il prezzo era scritto su una tavola appesa al pozzo, con il sigillo del quartiermastro imperiale in basso a destra. Un bicchiere, un gil. Una brocca, sei. Un otre da viaggio, venti, e l'otre bisognava portarselo. Sotto, in caratteri più piccoli e in tre lingue, c'era scritto che chi attingeva senza pagare sarebbe stato punito secondo il regolamento della guarnigione, e qualcuno, con un coltello, aveva aggiunto in dalmasco che il pozzo l'avevano scavato i suoi nonni. Il quartiermastro non aveva fatto togliere l'aggiunta. Forse non sapeva leggere il dalmasco. Forse sapeva che l'acqua si vende meglio se chi la compra ha un posto dove sfogarsi.
+Al Borgo di Nalbina l'acqua si vendeva a bicchiere, e il prezzo era scritto su una tavola appesa al pozzo, con il sigillo del quartiermastro imperiale in basso a destra. Un bicchiere, un gil. Una brocca, sei. Un otre da viaggio, venti, e l'otre bisognava portarselo. Sotto, in caratteri più piccoli, c'era scritto che chi attingeva senza pagare sarebbe stato punito secondo il regolamento della guarnigione, e qualcuno, con un coltello, aveva aggiunto in dialetto che il pozzo l'avevano scavato i suoi nonni. Il quartiermastro non aveva fatto togliere l'aggiunta. Forse non capiva il dialetto. Forse sapeva che l'acqua si vende meglio se chi la compra ha un posto dove sfogarsi.
 
 Penelo fece riempire quattro otri e ne pagò tre. L'acqua per il quarto gliela regalò il Bangaa che stava al pozzo, dopo una trattativa in cui lei non alzò mai la voce e lui, alla fine, non capì bene come fosse successo. Ashe, che aveva assistito da due passi con la Spada dei Re avvolta in una coperta da sella sulla schiena, la guardò tornare con gli otri a tracolla.
 
@@ -14543,7 +14572,7 @@ Penelo fece riempire quattro otri e ne pagò tre. L'acqua per il quarto gliela r
 
 «Sette.» Penelo le passò un otre. «Ho detto che io ero orfana. È vero, quindi non conta come bugia. Poi gli ho chiesto se il quartiermastro gli lasciava tenere qualcosa sul prezzo. Non gli lascia niente. A quel punto non sapeva più da che parte stare, e quando uno non sa da che parte stare ti regala un otre.»
 
-Ashe soppesò l'otre. In due anni aveva imparato a dormire per terra, a mangiare quello che c'era e a camminare con le vesciche, ma la questione del prezzo delle cose le restava estranea come una lingua straniera, e lo sapeva. Al palazzo di Rabanastre nessuno le aveva mai detto quanto costasse un bicchiere d'acqua. Il bicchiere arrivava. Anche questo, pensò, era stato un modo di regnare.
+Ashe soppesò l'otre. In due anni aveva imparato a dormire per terra, a mangiare quello che c'era e a camminare con le vesciche, ma la questione del prezzo delle cose le restava estranea come una lingua morta, e lo sapeva. Al palazzo di Rabanastre nessuno le aveva mai detto quanto costasse un bicchiere d'acqua. Il bicchiere arrivava. Anche questo, pensò, era stato un modo di regnare.
 
 Il borgo era cresciuto addosso alla fortezza come l'edera cresce addosso a un muro che nessuno pensa più di abbattere. Le tende dei mercanti si appoggiavano ai bastioni, i fabbri lavoravano nelle nicchie dove una volta stavano le catapulte, e sul tratto di mura crollato nel 704 qualcuno aveva costruito una locanda a due piani usando le pietre crollate. Si chiamava La Breccia. Aveva l'insegna dipinta di fresco. Vi entravano soldati archadiani a fine turno e mercanti di Rozarria che non dicevano di esserlo, e il padrone, un Huma di Dalmasca con un braccio solo, serviva tutti con la stessa faccia.
 
@@ -14589,7 +14618,7 @@ La carta che Balthier aveva promesso sul Bur-Omisace comparve dopo cena, in una 
 
 «Da qui si sale ai Monti Mosfora» disse, seguendo con il dito un capello d'inchiostro. «Si passa il valico di Halny, si scende nel Bosco di Salika. Oltre il bosco c'è la Costa Phon, che è già Archadia, e da lì si va verso la capitale per le colline. Strade vecchie, che non usa più nessuno da quando c'è chi vola. Nessuno sorveglia una strada che non usa nessuno.»
 
-«E le percorre un pirata dei cieli» disse Vaan. «A piedi.»
+«E le percorre un pirata del cielo» disse Vaan. «A piedi.»
 
 «Ho delle gambe. Le uso di rado, ma le ho.»
 
@@ -15577,7 +15606,7 @@ Penelo lo guardò mentre lui guardava, e a un certo punto smise di prenderlo in 
 
 Vaan ci pensò. Era una delle cose che Penelo diceva e che poi gli restavano in testa per giorni.
 
-«Ho visto un sacco di posti» disse alla fine. «Non pensavo di vederne neanche uno. Pensavo di diventare pirata e poi di vederli tutti, ma non ci credevo davvero. Era una cosa che dicevo.» Guardò di nuovo la torre con gli alberi. «Adesso li ho visti, e ho visto anche quelli dove non c'è più niente. Allora quelli dove c'è qualcosa li guardo bene.»
+«Ho visto un sacco di posti» disse alla fine. «Non pensavo di vederne neanche uno. Pensavo di diventare aviopirata e poi di vederli tutti, ma non ci credevo davvero. Era una cosa che dicevo.» Guardò di nuovo la torre con gli alberi. «Adesso li ho visti, e ho visto anche quelli dove non c'è più niente. Allora quelli dove c'è qualcosa li guardo bene.»
 
 Penelo non rispose. Aveva gli occhi altrove, più su, dove fra due torri si vedeva un pezzo di un edificio diverso dagli altri: più basso, più largo, con le cupole verdi di rame e una bandiera nera e oro sul tetto più alto.
 
@@ -16140,7 +16169,7 @@ Per un momento la faccia di Cid non fece niente. Nessuna sorpresa, nessuna commo
 
 Balthier non si mosse.
 
-«Ffamran! Ma guardalo.» Cid allargò le braccia, e il soprabito si aprì sul petto. «Il pirata dei cieli. Il ladro. Il famoso, l'unico, il terribile...» Si interruppe, e si voltò di lato, verso un angolo vuoto della camera, accanto a una delle lavagne. «Come si chiama adesso? Balthier, sì. Balthier. Un nome da cantastorie di fiera. Lo sapevo che ti sarebbe piaciuto.» Tornò a guardare il figlio. «Sei vestito malissimo.»
+«Ffamran! Ma guardalo.» Cid allargò le braccia, e il soprabito si aprì sul petto. «Il pirata del cielo. Il ladro. Il famoso, l'unico, il terribile...» Si interruppe, e si voltò di lato, verso un angolo vuoto della camera, accanto a una delle lavagne. «Come si chiama adesso? Balthier, sì. Balthier. Un nome da cantastorie di fiera. Lo sapevo che ti sarebbe piaciuto.» Tornò a guardare il figlio. «Sei vestito malissimo.»
 
 «E tu sei invecchiato» disse Balthier. «Ma la voce è la stessa. Ti si sente dal sessantasettesimo piano.»
 
@@ -16154,7 +16183,7 @@ Balthier non si mosse.
 
 «Un tesoro!»
 
-«Sono un pirata. I pirati cercano tesori.» Balthier fece due passi nella camera, con le mani dietro la schiena e il mento alto. «Il Frammento del Crepuscolo. Ce l'hai tu. Lo voglio.»
+«Sono un aviopirata. Gli aviopirati cercano tesori.» Balthier fece due passi nella camera, con le mani dietro la schiena e il mento alto. «Il Frammento del Crepuscolo. Ce l'hai tu. Lo voglio.»
 
 Cid lo fissò. Poi rise di nuovo, ma questa volta era una risata più corta e più acuta, e c'era dentro qualcosa che somigliava alla delusione.
 
@@ -16325,7 +16354,7 @@ Ondore si tolse gli occhiali dal naso e si rimise quelli della fronte, e guardò
 
 Il capitano non rispose. Ondore annuì, come se la risposta l'avesse data.
 
-«Diventa il campo su cui gli altri due combattono.» Prese la penna. «È quello che Dalmasca rischia di diventare, e che Raminas, che riposi in pace, ha evitato per trent'anni con la pazienza di un santo e la diplomazia di un mercante di tappeti. Io non ho la pazienza di Raminas. Ho cinquantadue navi.» Intinse la penna. «E l'unica lettera che mi abbia mai dato una risposta onesta, in tutta questa guerra, viene da un pirata.»
+«Diventa il campo su cui gli altri due combattono.» Prese la penna. «È quello che Dalmasca rischia di diventare, e che Raminas, che riposi in pace, ha evitato per trent'anni con la pazienza di un santo e la diplomazia di un mercante di tappeti. Io non ho la pazienza di Raminas. Ho cinquantadue navi.» Intinse la penna. «E l'unica lettera che mi abbia mai dato una risposta onesta, in tutta questa guerra, viene da un aviopirata.»
 
 Tirò fuori da sotto le carte nautiche un foglio diverso dagli altri. Era carta grossa, color crema, senza intestazione, piegata in quattro e poi spiegata tante volte che le pieghe erano diventate morbide come stoffa. La grafia era grande, diritta, antiquata. Ondore non la rilesse. La conosceva.
 
@@ -16481,11 +16510,11 @@ Tutti si voltarono.
 
 Fran era rimasta in piedi vicino alla finestra, come Reddas qualche settimana prima, e guardava la baia. Non si girò. Cominciò a parlare, e non era la sua voce di sempre, quella delle frasi di due parole; era una voce più bassa, più lenta, che andava su e giù per una melodia che nessuno di loro aveva mai sentito, e le parole non erano proprio parole, o lo erano in una lingua che il comune aveva preso in prestito molto tempo prima e poi dimenticato. Lo cantava. Lo cantava piano, come si canta a un bambino che non dorme, e quando arrivava alla fine di un verso si fermava, e poi riprendeva.
 
-*Oltre la riva lontana del fiume del tempo,*
-*dove la nebbia non si alza e il Mystes non scorre,*
-*dorme la città che non dorme.*
-*Gli uomini la cercano con gli occhi,*
-*e gli occhi la nascondono.*
+*Oltre la riva lontana del fiume del tempo,*  
+*dove la nebbia non si alza e il Mystes non scorre,*  
+*dorme la città che non dorme.*  
+*Gli uomini la cercano con gli occhi,*  
+*e gli occhi la nascondono.*  
 *Chi la trova, la trova perché è stato chiamato.*
 
 Si fermò. Nella stanza nessuno si mosse. Raz aveva smesso di servire la zuppa, con il mestolo a mezz'aria.
@@ -16520,7 +16549,7 @@ Più tardi, quando gli altri erano scesi sotto il portico a guardare il tramonto
 
 «Uno.»
 
-«Allora il campione è piccolo.» Reddas sorrise appena. «E il vostro pirata, perdonatemi, è un pirata strano anche lui. Si veste troppo bene.»
+«Allora il campione è piccolo.» Reddas sorrise appena. «E il vostro aviopirata, perdonatemi, è un pirata strano anche lui. Si veste troppo bene.»
 
 «Siete di qui? Di Balfonheim?»
 
@@ -16842,7 +16871,7 @@ Vaan ci pensò. Era una delle cose belle di Vaan, che quando gli si faceva una d
 
 Basch lo guardò ancora un momento. Poi gli posò una mano sulla spalla, e sotto la barba gli si mosse qualcosa, all'angolo della bocca, che in un altro uomo sarebbe stato un sorriso.
 
-«Parli ogni giorno di più come un pirata» disse.
+«Parli ogni giorno di più come un aviopirata» disse.
 
 Vaan diventò rosso fino alle orecchie. Non disse niente. Guardò davanti a sé, verso il vuoto, con un'espressione così felice che Penelo, dietro di lui, dovette voltarsi per non ridere.
 
@@ -17432,7 +17461,7 @@ Portava l'armatura completa dei Magister, nera, con l'elmo chiuso, e camminava c
 
 Gabranth non disse niente.
 
-«La troverai» continuò Vayne. «Non sarà difficile: dove c'è un disastro, c'è la principessa, e di solito c'è anche un pirata vestito troppo bene. La seguirai. Osserverai. Non interverrai, a meno che non sia necessario. E mi riferirai che cosa cerca davvero, e che cosa intende farne quando lo avrà trovato.»
+«La troverai» continuò Vayne. «Non sarà difficile: dove c'è un disastro, c'è la principessa, e di solito c'è anche un aviopirata vestito troppo bene. La seguirai. Osserverai. Non interverrai, a meno che non sia necessario. E mi riferirai che cosa cerca davvero, e che cosa intende farne quando lo avrà trovato.»
 
 «E se cerca la guerra, maestà?»
 
@@ -17551,7 +17580,7 @@ Dopo il Grande Cristallo il porto sembrava fatto di cose troppo precise. Il catr
 
 Ashe camminava davanti. Portava due spade di traverso sulla schiena, e chi la guardava avrebbe detto che ne portava una sola, perché la seconda l'aveva avvolta in un mantello accanto alla prima. La Spada dei Re la portava lì da mesi. L'altra, quella che gli Occuria le avevano messo in mano con la loro gentilezza di marmo, pesava meno di quanto avrebbe dovuto. Ashe se n'era accorta già in discesa, e il fatto di accorgersene la irritava.
 
-La dimora di Reddas era aperta. Lo era di solito, perché un signore dei pirati che chiude la porta dà l'idea di avere paura di qualcuno, ma quel giorno era aperta in un altro modo: gente che entrava senza bussare, gente che usciva di corsa, un ragazzo con un rotolo di carte sotto il braccio che per poco non travolse Basch sulla soglia e gli chiese scusa chiamandolo «capitano», senza sapere di avere ragione. Nel salone il grande tavolo era coperto di mappe tenute ferme da tutto quello che c'era a portata di mano: un calamaio, un pugnale, una bottiglia vuota, una scarpa.
+La dimora di Reddas era aperta. Lo era di solito, perché un signore degli aviopirati che chiude la porta dà l'idea di avere paura di qualcuno, ma quel giorno era aperta in un altro modo: gente che entrava senza bussare, gente che usciva di corsa, un ragazzo con un rotolo di carte sotto il braccio che per poco non travolse Basch sulla soglia e gli chiese scusa chiamandolo «capitano», senza sapere di avere ragione. Nel salone il grande tavolo era coperto di mappe tenute ferme da tutto quello che c'era a portata di mano: un calamaio, un pugnale, una bottiglia vuota, una scarpa.
 
 Reddas stava in piedi in mezzo. Non gridava. Dava ordini a voce bassa, uno per uomo, e l'uomo partiva.
 
@@ -17687,7 +17716,7 @@ Era la parola che aveva detto ad Ashe l'altra volta, nello stesso salone, prima 
 
 «No.»
 
-Non aggiunse altro, e la principessa non gli chiese altro. Avrebbe potuto. Aveva il diritto di sapere chi le sedeva accanto, e la voglia di saperlo, e un'abitudine di comando che di solito non lasciava domande a metà. Ma conosceva bene il genere di silenzio che ha addosso chi porta un morto che non si nomina, perché lo aveva portato anche lei per due anni, con un anello largo al dito e la mano chiusa sopra. Lo riconobbe in Reddas come si riconosce, in una folla, qualcuno che viene dallo stesso paese.
+Non aggiunse altro, e la principessa non gli chiese altro. Avrebbe potuto. Aveva il diritto di sapere chi le sedeva accanto, e la voglia di saperlo, e un'abitudine di comando che di solito non lasciava domande a metà. Ma conosceva bene il genere di silenzio che ha addosso chi porta un morto che non si nomina, perché lo aveva portato anche lei per due anni, con un anello al dito e la mano chiusa sopra. Lo riconobbe in Reddas come si riconosce, in una folla, qualcuno che viene dallo stesso paese.
 
 «Venite» disse.
 
@@ -17764,7 +17793,7 @@ Balthier non lo svegliò. Si chinò, guardò lo sportello, guardò la pietra, gu
 
 «Lo stavi pensando con le orecchie.»
 
-La Strahl, alla luce del mattino, aveva l'aria che hanno le cose molto amate e molto usate: ammaccata dove serviva, lucida dove contava, con una toppa di lamiera più chiara sul fianco sinistro che Balthier si ostinava a chiamare «la cicatrice» e una scritta, sotto il portello, che qualcuno aveva grattato via anni prima e di cui restava solo l'ombra di una lettera. Balthier ci passò sotto lentamente, da prua a poppa, con una mano che sfiorava la carena senza toccarla del tutto. Gli altri caricavano acqua, corde, viveri per sei giorni, e lo lasciavano fare. Anche Vaan, che di solito avrebbe chiesto qualcosa, quella mattina tacque. C'era qualcosa nel modo in cui il pirata guardava la sua nave che non andava interrotto, e Vaan lo capì senza capire perché.
+La Strahl, alla luce del mattino, aveva l'aria che hanno le cose molto amate e molto usate: ammaccata dove serviva, lucida dove contava, con una toppa di lamiera più chiara sul fianco sinistro che Balthier si ostinava a chiamare «la cicatrice» e una scritta, sotto il portello, che qualcuno aveva grattato via anni prima e di cui restava solo l'ombra di una lettera. Balthier ci passò sotto lentamente, da prua a poppa, con una mano che sfiorava la carena senza toccarla del tutto. Gli altri caricavano acqua, corde, viveri per sei giorni, e lo lasciavano fare. Anche Vaan, che di solito avrebbe chiesto qualcosa, quella mattina tacque. C'era qualcosa nel modo in cui l'aviopirata guardava la sua nave che non andava interrotto, e Vaan lo capì senza capire perché.
 
 Reddas arrivò per ultimo. Portava le sue due spade, un sacco di tela, e nient'altro. Nessuno dei suoi uomini lo accompagnava. Elza era rimasta in cima alla scala del porto, a braccia incrociate, e da lì guardava; non fece un cenno, e lui non si voltò a cercarlo.
 
@@ -18214,7 +18243,7 @@ Vaan lo guardò. Penelo aspettò. Reddas fece scorrere la stoffa sul filo fino a
 
 «Si può scappare?» chiese Vaan. Non era una domanda ingenua; o lo era, ma era anche la sola che contasse.
 
-«Ci si prova.» Reddas fece un mezzo sorriso, senza allegria. «Si attraversa un mare. Si cambia mestiere. Si cambia porto, si cambia lingua, si cambia nome. Ci si costruisce una casa con le finestre sul mare e ci si mette dentro uomini che non fanno domande. Funziona per un anno, per due, per cinque. Poi un giorno arriva una ragazza con due spade e una domanda, e si scopre che il fantasma non ha mai smesso di camminarti dietro. Ti ha solo lasciato credere di essere più veloce.»
+«Ci si prova.» Reddas fece un mezzo sorriso, senza allegria. «Si attraversa un mare. Si cambia mestiere. Si cambia porto, si cambia accento, si cambia nome. Ci si costruisce una casa con le finestre sul mare e ci si mette dentro uomini che non fanno domande. Funziona per un anno, per due, per cinque. Poi un giorno arriva una ragazza con due spade e una domanda, e si scopre che il fantasma non ha mai smesso di camminarti dietro. Ti ha solo lasciato credere di essere più veloce.»
 
 Lo disse senza guardare Ashe. Ashe, alla finestra, non si voltò; ma la sua schiena, che fino a quel momento era stata dritta come un'asta, si mosse appena, come si muove quella di chi sente il proprio nome detto in un'altra stanza.
 
@@ -18244,7 +18273,7 @@ Balthier si fermò sulla soglia e si guardò alle spalle. Da lì si vedeva un pe
 
 «Dire cosa?» chiese Vaan.
 
-«Chi siamo. Per il registro.» Balthier contò con le dita. «Una principessa senza regno. Un cavaliere che il mondo crede impiccato. Due orfani di Città Bassa, uno dei quali ruba frutta. Una viera esiliata. Un signore di pirati che non è di Balfonheim. E il protagonista.» Abbassò la mano. «Settecento anni fa qui c'è salito un re con un esercito alle spalle. Oggi ci saliamo noi. Se Raithwall ci vede da qualche parte, spero abbia il senso dell'umorismo.»
+«Chi siamo. Per il registro.» Balthier contò con le dita. «Una principessa senza regno. Un cavaliere che il mondo crede impiccato. Due orfani di Città Bassa, uno dei quali ruba frutta. Una viera esiliata. Un signore di aviopirati che non è di Balfonheim. E il protagonista.» Abbassò la mano. «Settecento anni fa qui c'è salito un re con un esercito alle spalle. Oggi ci saliamo noi. Se Raithwall ci vede da qualche parte, spero abbia il senso dell'umorismo.»
 
 «Non ce l'aveva» disse Fran.
 
@@ -18502,7 +18531,7 @@ Gabranth non attaccava più. Stava fermo, con le spade basse, e l'elmo era girat
 
 Lo disse forte. Il nome attraversò la piazza e salì fino ai pilastri, e tornò giù.
 
-Reddas non lo negò. Non disse niente per un momento. Poi fece una cosa che nessuno si aspettava: abbassò del tutto le spade, le punte sulla pietra, e chinò la testa davanti al Giudice di Archades, con un piccolo inchino breve e senza svolazzi, quello che non era di un pirata e non era di un cortigiano. Adesso si capiva di chi era. Era l'inchino che i Giudici si scambiano fra pari, prima di un'udienza.
+Reddas non lo negò. Non disse niente per un momento. Poi fece una cosa che nessuno si aspettava: abbassò del tutto le spade, le punte sulla pietra, e chinò la testa davanti al Giudice di Archades, con un piccolo inchino breve e senza svolazzi, quello che non era di un aviopirata e non era di un cortigiano. Adesso si capiva di chi era. Era l'inchino che i Giudici si scambiano fra pari, prima di un'udienza.
 
 «Era il mio nome» disse. «Ne ho un altro, adesso. Mi sta meglio.»
 
@@ -18904,7 +18933,7 @@ La figura di luce restò un momento ancora. Poi si ritirò, scivolando verso il 
 
 Balthier rimase solo con suo padre.
 
-Aveva pensato molte volte a questo momento. Lo aveva pensato a bordo della Strahl, di notte, quando Fran dormiva e lui restava sveglio ai comandi a guardare le stelle; lo aveva pensato in molte taverne, in molte lingue. Si era preparato frasi. Ne aveva avute di ogni genere, crudeli, ironiche, dignitose, una perfino tenera, che non avrebbe mai confessato a nessuno. Le aveva provate ad alta voce, una volta, davanti allo specchio di una locanda di Nalbina, e poi aveva riso di sé stesso per tutta la sera. Voleva chiedergli della stanza con la scrivania sotto la finestra. Voleva chiedergli della madre, che era morta quando Ffamran aveva sei anni e di cui in quella casa nessuno parlava più. Voleva chiedergli perché le pietre, perché sempre le pietre, perché una pietra era più interessante di un bambino seduto da solo a tavola.
+Aveva pensato molte volte a questo momento. Lo aveva pensato a bordo della Strahl, di notte, quando Fran dormiva e lui restava sveglio ai comandi a guardare le stelle; lo aveva pensato in molte taverne, in molti porti. Si era preparato frasi. Ne aveva avute di ogni genere, crudeli, ironiche, dignitose, una perfino tenera, che non avrebbe mai confessato a nessuno. Le aveva provate ad alta voce, una volta, davanti allo specchio di una locanda di Nalbina, e poi aveva riso di sé stesso per tutta la sera. Voleva chiedergli della stanza con la scrivania sotto la finestra. Voleva chiedergli della madre, che era morta quando Ffamran aveva sei anni e di cui in quella casa nessuno parlava più. Voleva chiedergli perché le pietre, perché sempre le pietre, perché una pietra era più interessante di un bambino seduto da solo a tavola.
 
 Disse soltanto una cosa.
 
@@ -18916,13 +18945,13 @@ Cid aprì gli occhi. Lo guardò, e lo vide, forse per la prima volta da molti an
 
 «Padre...»
 
-«Vattene.» Cid chiuse gli occhi di nuovo. «Scappa, Ffamran. Fai quello che sai fare. Sei un pirata, no? I pirati scappano. È il loro mestiere.» Una piccola smorfia gli passò sulla bocca, che poteva essere un sorriso. «Almeno quello fallo bene.»
+«Vattene.» Cid chiuse gli occhi di nuovo. «Scappa, Ffamran. Fai quello che sai fare. Sei un aviopirata, no? I pirati scappano. È il loro mestiere.» Una piccola smorfia gli passò sulla bocca, che poteva essere un sorriso. «Almeno quello fallo bene.»
 
 Balthier non disse niente.
 
 Il corpo di suo padre cominciò a sciogliersi. Fu una cosa lenta e quasi silenziosa. Prima le mani, che diventarono trasparenti sulla pietra, poi le braccia, poi il viso. Non c'era sangue e non c'era dolore; c'era una luce minuta, a granelli, che si staccava dalla carne come la polvere si stacca da un tappeto battuto, e saliva. Saliva verso la Crisalide, e la Crisalide la prendeva, e la luce dentro la grande pietra ebbe per un attimo un lampo un po' più caldo degli altri. Poi Cid non c'era più. Sulla pietra della piazza restò la forma vuota del soprabito, e la catena d'ottone con i suoi strumenti, e un fazzoletto ricamato che doveva essere stato nella tasca della giubba.
 
-Balthier rimase inginocchiato. Aveva in mano le lenti di suo padre, quelle con il vetro incrinato. Le guardò. Le chiuse con cura, piegando le due stanghette una sull'altra come si chiude un libro, e le mise nella tasca interna della giacca, dalla parte del cuore, dove da mesi teneva un'altra cosa che non era sua: un anello largo, di due fili ritorti, oro rosso e argento bianco.
+Balthier rimase inginocchiato. Aveva in mano le lenti di suo padre, quelle con il vetro incrinato. Le guardò. Le chiuse con cura, piegando le due stanghette una sull'altra come si chiude un libro, e le mise nella tasca interna della giacca, dalla parte del cuore, dove da mesi teneva un'altra cosa che non era sua: un anello di due fili ritorti, oro rosso e argento bianco.
 
 Non pianse. Gli altri, a distanza, lo guardavano e non si avvicinavano. Basch aveva fatto un passo e si era fermato. Penelo si era coperta la bocca con la mano. Vaan teneva la spada di Reddas e guardava a terra. Ashe, sotto la Crisalide, aveva abbassato tutte e due le spade, e la sua faccia, per la prima volta, non era la faccia di una principessa.
 
@@ -18963,7 +18992,7 @@ Balthier le mise una mano sulla fronte. Era bollente. Si guardò intorno, la pia
 
 Fran alzò una mano. Fu un gesto lento, difficile, che le costò; la portò fino alla faccia di Balthier e gliela posò sulla guancia, con le dita lunghe e fredde contro la mascella. Lo guardò.
 
-«Vai» disse. «Sei un pirata. Quando le cose si mettono male, i pirati volano via. Vola.»
+«Vai» disse. «Sei un aviopirata. Quando le cose si mettono male, i pirati volano via. Vola.»
 
 Balthier rimase fermo. Erano le stesse parole. Pochi minuti prima, a dieci passi da lì, un vecchio che si scioglieva in luce gliele aveva dette con disprezzo, e adesso gliele diceva Fran, con tutt'altro, e la frase era identica, e gli parve che il mondo intero gli dicesse di scappare.
 
@@ -19318,7 +19347,7 @@ La bottega era aperta. A quell'ora, la sera prima della guerra, tutte le bottegh
 
 «Ciao, Migelo.»
 
-«Sei uno stupido, e anche lei.» Indicò Penelo con il registro. «Vi avevo detto di non tornare finché non era finita. Vi avevo detto di stare lontani. Lo dico per il vostro bene, e voi tornate proprio la notte in cui...» Si interruppe. Guardò gli altri, che entravano dietro di loro dalla porta del retro: un uomo biondo con la barba corta e le spalle larghe, un pirata con la giacca sporca di calce, una viera alta che dovette chinarsi sotto l'architrave, e per ultima una ragazza con un mantello sopra la testa. Migelo guardò la ragazza col mantello. Si tolse gli occhiali. Se li rimise.
+«Sei uno stupido, e anche lei.» Indicò Penelo con il registro. «Vi avevo detto di non tornare finché non era finita. Vi avevo detto di stare lontani. Lo dico per il vostro bene, e voi tornate proprio la notte in cui...» Si interruppe. Guardò gli altri, che entravano dietro di loro dalla porta del retro: un uomo biondo con la barba corta e le spalle larghe, un pirata del cielo con la giacca sporca di calce, una viera alta che dovette chinarsi sotto l'architrave, e per ultima una ragazza con un mantello sopra la testa. Migelo guardò la ragazza col mantello. Si tolse gli occhiali. Se li rimise.
 
 «Ah» disse. Poi, dopo un poco: «Ah.»
 
@@ -19372,7 +19401,7 @@ Vaan guardò Penelo. Penelo stava parlando con Fran in fondo alla bottega e non 
 
 ---
 
-La Sandsea, la sera prima della guerra, era piena come una nave di profughi. Tomaj spillava birra di Bhujerba con tutte e due le mani e non faceva pagare nessuno, cosa che a memoria d'uomo non era mai successa, e quando Vaan glielo fece notare rispose che se domani la taverna non c'era più preferiva che la birra fosse nella pancia dei clienti invece che sotto le macerie. Si parlavano cinque o sei lingue alla volta. Le pareti erano coperte di avvisi, come sempre; ma gli avvisi di caccia erano stati coperti da altri fogli, scritti a mano, con nomi e indirizzi. *Cerco mio figlio Haddas, soldato della guarnigione di Nalbina.* *Chi ha notizie della carovana di Bur-Omisace.* *La famiglia del tintore della via dei Tessitori è partita per Giza: dite a chi chiede.*
+La Sandsea, la sera prima della guerra, era piena come una nave di profughi. Tomaj spillava birra di Bhujerba con tutte e due le mani e non faceva pagare nessuno, cosa che a memoria d'uomo non era mai successa, e quando Vaan glielo fece notare rispose che se domani la taverna non c'era più preferiva che la birra fosse nella pancia dei clienti invece che sotto le macerie. Si parlavano cinque o sei dialetti alla volta. Le pareti erano coperte di avvisi, come sempre; ma gli avvisi di caccia erano stati coperti da altri fogli, scritti a mano, con nomi e indirizzi. *Cerco mio figlio Haddas, soldato della guarnigione di Nalbina.* *Chi ha notizie della carovana di Bur-Omisace.* *La famiglia del tintore della via dei Tessitori è partita per Giza: dite a chi chiede.*
 
 Montblanc era al suo tavolo, nell'angolo, da solo, con il quaderno aperto e la penna dietro l'orecchio. Quando vide Vaan non si alzò. Girò una pagina, trovò un nome, e ci passò sopra il dito.
 
@@ -19400,7 +19429,7 @@ Vaan lo guardò.
 
 In quel punto la porta della Sandsea si aprì e lasciò entrare il vento del deserto, la polvere, e un uomo con un berretto storto in testa e la faccia di chi ha volato per un giorno intero senza fermarsi.
 
-«Balthier!» gridò Rikken, dalla soglia, sopra il rumore di cinque lingue. «Dov'è quel bellimbusto? Ho fatto Balfonheim-Rabanastre in diciannove ore. Diciannove! La sua barchetta quanto ci ha messo?»
+«Balthier!» gridò Rikken, dalla soglia, sopra il rumore di cinque dialetti. «Dov'è quel bellimbusto? Ho fatto Balfonheim-Rabanastre in diciannove ore. Diciannove! La sua barchetta quanto ci ha messo?»
 
 Balthier, che stava al bancone con un bicchiere che non aveva pagato, si voltò lentamente.
 
@@ -20056,7 +20085,7 @@ Si fermarono tutti. Basch continuò a camminare due passi, poi si accorse di ess
 
 Balthier fu il primo a riprendersi.
 
-«Dubito molto» disse, con tutta la dignità che riuscì a raccogliere «che sua altezza abbia bisogno di un pirata per sottrarsi ai suoi doveri. Sua altezza sa sottrarsi benissimo da sola. L'ho vista farlo.»
+«Dubito molto» disse, con tutta la dignità che riuscì a raccogliere «che sua altezza abbia bisogno di un aviopirata per sottrarsi ai suoi doveri. Sua altezza sa sottrarsi benissimo da sola. L'ho vista farlo.»
 
 «Siete tutti molto sicuri di me» disse Ashe.
 
@@ -21359,7 +21388,7 @@ Ashe era in piedi in una sala piena di stoffe. Su tre sedie erano stesi campioni
 
 Penelo le porse l'astuccio senza fare l'inchino. Se ne accorse a metà, e provò a farlo dopo, mentre Ashe lo stava già aprendo.
 
-Ashe vide il cerchio d'oro rosso e d'argento bianco. Posò l'altra mano sul tavolo per tenersi. Per un istante, uno solo, ebbe la certezza che qualcuno avesse trovato il corpo del pirata fra le rovine di Bahamut e gli avesse frugato nella giacca, e la certezza le arrivò prima di qualsiasi domanda e le tolse il colore dalla faccia.
+Ashe vide il cerchio d'oro rosso e d'argento bianco. Posò l'altra mano sul tavolo per tenersi. Per un istante, uno solo, ebbe la certezza che qualcuno avesse trovato il corpo dell'aviopirata fra le rovine di Bahamut e gli avesse frugato nella giacca, e la certezza le arrivò prima di qualsiasi domanda e le tolse il colore dalla faccia.
 
 «Sono vivi» disse Penelo, che aveva capito. «Tutti e due. Hanno ripreso la nave stanotte.»
 
@@ -21385,9 +21414,9 @@ Ashe lesse la lettera ancora una volta. C'erano molte cose che avrebbe voluto di
 
 Prese la fede fra il pollice e l'indice. L'oro rosso di Dalmasca aveva una luce più calda dell'argento di Nabradia, e i due fili ritorti si incrociavano come il giorno in cui l'aveva vista per la prima volta, all'altare della cattedrale, davanti a cinquecento persone. Le tacche agli incroci c'erano ancora, appena consumate dove le sue dita le avevano sfregate per due anni di lutto. L'interno era liscio. Nessuno ci aveva mai fatto incidere niente. *Le parole ce le mettiamo noi*, aveva detto qualcuno.
 
-La infilò all'anulare sinistro. Passò la nocca senza la minima resistenza e scivolò fino alla base del dito, larga, troppo larga, come la mattina delle nozze. La mano si chiuse da sola, a pugno, come aveva imparato a fare.
+La infilò all'anulare sinistro. La fede le stava giusta. La mano si chiuse da sola, a pugno, come aveva imparato a fare.
 
-Ashe la guardò. Guardò il pugno chiuso. Poi, lentamente, aprì le dita. Tenne l'anello fermo con il pollice, e lasciò la mano aperta.
+Ashe la guardò. Guardò il pugno chiuso. Poi, lentamente, aprì le dita. Sfiorò l'anello con il pollice, e lasciò la mano aperta.
 
 «Rasler l'aveva fatto misurare su un guanto» disse.
 
@@ -21397,7 +21426,7 @@ Penelo la guardò. Non aveva mai sentito Ashe nominare il principe con quella fa
 
 «Su un mio guanto.» Ashe rise. Fu una risata breve, che le uscì prima che potesse fermarla. «Ci teneva molto a precisarlo. Un guanto mio, non di un'altra. Diceva che era un dettaglio importante.»
 
-Non disse altro. Rimase a guardare l'anello largo sul dito, e lasciò che la risata finisse da sola, e quando finì non c'era al suo posto il dolore di prima. C'era un'altra cosa, più leggera, che le stava larga come l'anello. Penelo si sedette sulla sedia da cui erano state tolte le stoffe e aspettò con lei, senza dire niente, finché un usciere non bussò.
+Non disse altro. Rimase a guardare l'anello sul dito, e lasciò che la risata finisse da sola, e quando finì non c'era al suo posto il dolore di prima. C'era un'altra cosa, più leggera. Penelo si sedette sulla sedia da cui erano state tolte le stoffe e aspettò con lei, senza dire niente, finché un usciere non bussò.
 
 ---
 
@@ -21473,7 +21502,7 @@ Al palazzo, Ashe sentì passare un motore e si avvicinò alla finestra. Non pote
 
 «Entrate» disse.
 
-L'anello le scivolò verso la nocca mentre apriva la porta. Lo fermò con il pollice, e con l'altra mano, quella libera, spostò una sedia perché la donna potesse sedersi.
+Sfiorò l'anello con il pollice mentre apriva la porta, e con l'altra mano spostò una sedia perché la donna potesse sedersi.
 
 Sopra Rabanastre, intanto, la piccola nave fece un largo giro sulla città, come fanno le navi di chi non è ancora del tutto sicuro di voler partire, e poi prese la rotta di ovest, senza fretta. Sulla via dei Tessitori, dal bordo di una cisterna, un ragazzino la indicò al fratello più grande; e il fratello, che di solito alzava le spalle, questa volta restò a guardarla finché non fu che un punto sopra il deserto.
 
@@ -21534,7 +21563,7 @@ La regina attese altro. Non arrivò. Quando si svegliò, il cristallo spezzato e
 
 ---
 
-Arrivarono in tempi diversi e protestarono tutti contro chi era arrivato prima. Vaan sosteneva di aver trovato un vento contrario sul tratto occidentale; Balthier gli spiegò che i venti contrari esistevano anche prima che lui prendesse a usarli come giustificazione. Penelo posò sul tavolo la carta con le ore di volo e invitò il pirata a fare il conto. Fran guardò le due facce e disse che Ashe li aspettava.
+Arrivarono in tempi diversi e protestarono tutti contro chi era arrivato prima. Vaan sosteneva di aver trovato un vento contrario sul tratto occidentale; Balthier gli spiegò che i venti contrari esistevano anche prima che lui prendesse a usarli come giustificazione. Penelo posò sul tavolo la carta con le ore di volo e invitò il pirata del cielo a fare il conto. Fran guardò le due facce e disse che Ashe li aspettava.
 
 La Strahl era cambiata. Nello scafo comparivano pannelli di generazioni diverse, con rivetti che Nono non avrebbe scelto dello stesso colore; i motori conservavano la propria eleganza finché non si guardava dove erano stati costretti a entrare i rinforzi. Balthier aveva fili d'argento fra i capelli. Fran sembrava averli conservati tutti dov'erano sempre stati, ma ascoltava il mondo con una fatica nuova.
 
@@ -21582,7 +21611,7 @@ Larsa vi trovò cifre che non erano negli archivi aperti. Chiese carta. Penelo g
 
 La pagina seguente portava la morte di Vayne. Balthier la lesse sopra la spalla di Ashe, poi le chiese di lasciargliela vedere. Nel racconto c'era la Regina Dinasta che sconfiggeva l'usurpatore. Non c'erano la mano di Larsa alzata contro suo fratello, la spada raccolta da Vaan, Gabranth con l'elmo spezzato. Reddas compariva come colui che aveva distrutto la Crisalide Solare, ma il gesto era disposto sotto la volontà della prescelta, quasi fosse un ordine ricevuto.
 
-«Questo non è il modo in cui è andata» disse il pirata.
+«Questo non è il modo in cui è andata» disse l'aviopirata.
 
 Ashe guardò il nome del vecchio signore di Balfonheim. «Reddas decise da solo.»
 
@@ -21722,7 +21751,7 @@ Dal tubo delle comunicazioni arrivava la storia di una fortezza sul mare e di un
 
 «E la tua età?»
 
-Il pirata controllò il motore, poi la linea del mare. «Un protagonista dovrebbe avere il diritto di correggere la propria età negli archivi.»
+L'aviopirata controllò il motore, poi la linea del mare. «Un protagonista dovrebbe avere il diritto di correggere la propria età negli archivi.»
 
 Fran gli indicò il comando che stava trascurando. Lui lo sistemò e cambiò rotta soltanto dopo aver chiesto quanta acqua avessero a bordo.
 

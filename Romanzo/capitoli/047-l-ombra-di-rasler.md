@@ -4,7 +4,7 @@ Il piedistallo aveva una scanalatura lungo il bordo, larga quanto un dito. Ashe 
 
 La Camera della Prima Luce non aveva finestre. Dall'alto scendeva un chiarore senza sole, abbastanza uniforme da togliere profondità ai visi. Basch era vicino all'ultima scala, con la spada ancora sguainata; il metallo gli sembrava fuori luogo e non sapeva se riporlo. Vossler stava accanto alla principessa. Gli altri erano rimasti presso il congegno di trasporto, e il rumore di una cinghia che Penelo sistemava sulla spalla arrivava chiaro fino al piedistallo.
 
-Ashe allungò la destra. La sinistra restò chiusa contro il fianco, con la fede fermata dal pollice. La luce della pietra si alzò e le fece perdere di vista la propria mano.
+Ashe allungò la destra. La sinistra restò chiusa contro il fianco, con il pollice sulla fede. La luce della pietra si alzò e le fece perdere di vista la propria mano.
 
 Davanti a lei c'era Rasler.
 
@@ -30,13 +30,13 @@ Rasler teneva le mani libere. Ashe le guardò prima ancora di cercarne gli occhi
 
 «Sei qui» disse.
 
-Il principe non rispose. Il suo viso rimase rivolto verso di lei, senza muovere la bocca. Ashe aspettò una voce, una domanda, il rimprovero che si era preparata a ricevere da quando aveva lasciato Bhujerba. Lui avrebbe dovuto dirle di aver rischiato troppo. Oppure avrebbe riso della nave rubata, dell'accordo con un pirata, di tutta quella gente condotta dentro una tomba per cercare un frammento.
+Il principe non rispose. Il suo viso rimase rivolto verso di lei, senza muovere la bocca. Ashe aspettò una voce, una domanda, il rimprovero che si era preparata a ricevere da quando aveva lasciato Bhujerba. Lui avrebbe dovuto dirle di aver rischiato troppo. Oppure avrebbe riso della nave rubata, dell'accordo con un pirata del cielo, di tutta quella gente condotta dentro una tomba per cercare un frammento.
 
 Non disse niente.
 
-La principessa mosse la sinistra. La fede scivolò fino alla nocca e lei chiuse le dita, per abitudine. Vide la luce prenderle le piccole tacche dell'oro rosso e dell'argento; il gesto le parve così domestico, davanti a lui, da farle tremare il mento. L'anello era rimasto largo. Doveva sapere anche questo. C'era una fila di cose piccole che non aveva potuto dirgli, e tutte le si affollarono davanti alla più grande.
+La principessa mosse la sinistra e chiuse le dita sulla fede, per abitudine. Vide la luce prenderle le piccole tacche dell'oro rosso e dell'argento; il gesto le parve così domestico, davanti a lui, da farle tremare il mento. L'aveva fatta stringere. Doveva sapere anche questo. C'era una fila di cose piccole che non aveva potuto dirgli, e tutte le si affollarono davanti alla più grande.
 
-«Non l'ho fatto...» cominciò.
+«L'ho fatta stringere...» cominciò.
 
 Si fermò. Non voleva sprecare il primo momento parlando di un anello. Non voleva nemmeno parlare del regno. La mano destra era ancora tesa e la distanza non diminuiva. Allora spostò il piede oltre il piedistallo e cercò di raggiungerlo davvero.
 
@@ -162,7 +162,7 @@ Ashe guardò Vossler, che controllava la porta. Aveva ricevuto da lui cibo, ripa
 
 «No, altezza.»
 
-Prese la pezza e la avvolse intorno alla pietra. Nel farlo dovette aprire la sinistra; l'anello scivolò di nuovo e lei lo fermò con il mignolo. Basch guardò il gesto soltanto un istante, poi distolse gli occhi. Ricordava la notte delle nozze vista dalla sua colonna: il re che ballava con la figlia tenendole il pugno chiuso, e il principe che la mattina stessa gli aveva chiesto il nome di un orafo onesto. Non le offrì l'orafo che non aveva più potuto aspettare.
+Prese la pezza e la avvolse intorno alla pietra. Nel farlo aprì la sinistra e sfiorò la fede con il pollice. Basch guardò il gesto soltanto un istante, poi distolse gli occhi. Ricordava la notte delle nozze vista dalla sua colonna: il re che ballava con la figlia tenendole il pugno chiuso, e il principe che la mattina stessa gli aveva chiesto il nome di un orafo onesto.
 
 ---
 
@@ -256,7 +256,7 @@ La principessa guardò la manica bruciata. Sul bordo era rimasto un pezzetto di 
 
 Balthier la fermò con un gesto breve. «Neanche io. Siamo pari sulla qualità delle informazioni.»
 
-Ashe abbassò lo sguardo sul frammento. Non poteva chiamare il Gigas e metterlo nella borsa del pirata; non poteva nemmeno promettergli oro che non aveva. Si accorse di essere arrivata fino al proprio antenato con la stessa risorsa usata da suo zio, parole abbastanza ben pronunciate da far camminare gli altri.
+Ashe abbassò lo sguardo sul frammento. Non poteva chiamare il Gigas e metterlo nella borsa dell'aviopirata; non poteva nemmeno promettergli oro che non aveva. Si accorse di essere arrivata fino al proprio antenato con la stessa risorsa usata da suo zio, parole abbastanza ben pronunciate da far camminare gli altri.
 
 «Quando avrò ripreso il trono...» cominciò.
 
@@ -276,7 +276,7 @@ Ashe si irrigidì. La parola arrivava troppo vicino all'uomo appena scomparso. B
 
 «Per questo preferirei che camminaste da sola.»
 
-Ashe rimase a guardarlo. Il pirata aveva trovato una frase abbastanza irritante da farle riprendere il posto in mezzo agli altri. Non capì se lo avesse fatto apposta. Balthier si scostò dal passaggio, lasciandolo libero, e lei sentì di poterlo attraversare senza dovergli dare una risposta.
+Ashe rimase a guardarlo. L'aviopirata aveva trovato una frase abbastanza irritante da farle riprendere il posto in mezzo agli altri. Non capì se lo avesse fatto apposta. Balthier si scostò dal passaggio, lasciandolo libero, e lei sentì di poterlo attraversare senza dovergli dare una risposta.
 
 Raminas le aveva fatto studiare i debiti della corona su tavolette piccole, una per ogni distretto. A lei piacevano quelle dove il conto tornava; il padre le aveva mostrato soprattutto le altre. «Queste sono persone che aspettano» diceva, e le lasciava la tavoletta finché non faceva una domanda meno comoda del perché mancassero monete. Per anni Ashe aveva creduto che fosse una lezione di governo inventata per tenerla lontana dalle lezioni di spada. Ora sentiva sulla schiena il peso delle sacche di chi l'aveva seguita.
 
@@ -298,7 +298,7 @@ Vaan vide lo scambio senza avvicinarsi. Aveva ancora addosso la certezza di aver
 
 Ashe guardò un'ultima volta il piedistallo. Era vuoto in una maniera che il sepolcro sembrava aver previsto, con la scanalatura chiara pronta a raccogliere altra polvere. Pensò alla mano attraversata dal corpo di Rasler e poi al freddo esatto della pietra. Il primo gesto non aveva trattenuto nulla. Il secondo le aveva dato un peso da portare fino a casa. Tirò il laccio sul petto e tornò davanti al congegno.
 
-Vaan arrivò per ultimo al segno di trasporto. Si voltò ancora verso la scala e vide soltanto pietra. Rimise lo sguardo davanti. La destra di Ashe era chiusa sulla reliquia; la sinistra sul cerchio di metallo troppo largo. Il ragazzo si spostò abbastanza vicino da starle accanto quando la luce si aprì sotto i loro piedi.
+Vaan arrivò per ultimo al segno di trasporto. Si voltò ancora verso la scala e vide soltanto pietra. Rimise lo sguardo davanti. La destra di Ashe era chiusa sulla reliquia; la sinistra sul cerchio di metallo. Il ragazzo si spostò abbastanza vicino da starle accanto quando la luce si aprì sotto i loro piedi.
 
 Nella sala di Belias ritrovarono il lembo bruciato della sacca, ancora sul pavimento. Balthier lo raccolse e se lo portò via senza una parola. Attraversarono le ali del sepolcro, passarono accanto al muro fermo con il segno spezzato e raggiunsero il primo congegno.
 

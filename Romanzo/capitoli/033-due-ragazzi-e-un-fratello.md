@@ -147,11 +147,11 @@ Larsa la guardò. «Chi?»
 
 Penelo aprì la bocca e non trovò da dove cominciare.
 
-Avrebbe potuto cominciare dal discorso in piazza, quando tutta Rabanastre era stata zitta ad ascoltare, e Vayne aveva detto *pace* in un modo che sembrava vero, e lei aveva sentito una cosa terribile, cioè che le stava piacendo. Avrebbe potuto cominciare dai soldati, dai melograni, dal coltello di Kytes. Avrebbe potuto cominciare dai suoi genitori, che erano morti di febbre come i genitori di Vaan nella stagione dell'epidemia, quando lei aveva dodici anni, e che non c'entravano niente con l'impero, ma da allora tutte le cose brutte nella sua testa erano rimaste attaccate insieme in un unico grumo.
+Avrebbe potuto cominciare dal discorso in piazza, quando tutta Rabanastre era stata zitta ad ascoltare, e Vayne aveva detto *pace* in un modo che sembrava vero, e lei aveva sentito una cosa terribile, cioè che le stava piacendo. Avrebbe potuto cominciare dai soldati, dai melograni, dal coltello di Kytes. Avrebbe potuto cominciare dai suoi genitori, che erano morti di peste come i genitori di Vaan, nella stagione dell'epidemia, quando lei aveva dodici anni, e che non c'entravano niente con l'impero, ma da allora tutte le cose brutte nella sua testa erano rimaste attaccate insieme in un unico grumo.
 
 Cominciò dai fratelli.
 
-«Ne avevo due» disse. Senza accorgersene si toccò i codini, i due nastri che li tenevano, uno azzurro e uno rosso. «Kel e Doran. Più grandi di me. Dopo la febbre siamo rimasti noi tre e loro due mi hanno tirata su, e mi facevano da padre e da madre e da fratelli, e da tutto. Kel era il più alto. Alle nozze della principessa mi ha tenuta sulle spalle per tutto il corteo, in via delle Fontane, e io gli tiravo i capelli per vedere meglio.» Si fermò. Respirò. «Mi hanno insegnato a usare il bastone. Doran diceva che una ragazza della Città Bassa deve sapere dove colpire, perché nessuno arriva in tempo. Mi ha insegnato a mirare agli stinchi e a non chiudere gli occhi quando arriva il colpo. Ero bravissima. Vaan non lo sa, ma una volta l'ho fatto piangere.»
+«Ne avevo due» disse. Senza accorgersene si toccò i codini, i due nastri che li tenevano, uno azzurro e uno rosso. «Kel e Doran. Più grandi di me. Dopo la peste siamo rimasti noi tre e loro due mi hanno tirata su, e mi facevano da padre e da madre e da fratelli, e da tutto. Kel era il più alto. Alle nozze della principessa mi ha tenuta sulle spalle per tutto il corteo, in via delle Fontane, e io gli tiravo i capelli per vedere meglio.» Si fermò. Respirò. «Mi hanno insegnato a usare il bastone. Doran diceva che una ragazza della Città Bassa deve sapere dove colpire, perché nessuno arriva in tempo. Mi ha insegnato a mirare agli stinchi e a non chiudere gli occhi quando arriva il colpo. Ero bravissima. Vaan non lo sa, ma una volta l'ho fatto piangere.»
 
 Larsa non disse niente. Ascoltava.
 
@@ -195,7 +195,7 @@ Larsa lo notò. Notò la seta color crema, il ricamo nell'angolo.
 
 «È tuo?»
 
-«No.» Penelo lo guardò anche lei, come se lo vedesse per la prima volta. «Me l'ha dato un pirata. A Rabanastre. Il giorno che hanno arrestato Vaan. Io piangevo come una scema e lui me l'ha dato, così, e se n'è andato, e mi ha detto di aspettare. E per colpa di questo fazzoletto quattro Bangaa hanno pensato che fossi la sua fidanzata.» Lo rigirò. «Non so neanche perché lo porto ancora.»
+«No.» Penelo lo guardò anche lei, come se lo vedesse per la prima volta. «Me l'ha dato un aviopirata. A Rabanastre. Il giorno che hanno arrestato Vaan. Io piangevo come una scema e lui me l'ha dato, così, e se n'è andato, e mi ha detto di aspettare. E per colpa di questo fazzoletto quattro Bangaa hanno pensato che fossi la sua fidanzata.» Lo rigirò. «Non so neanche perché lo porto ancora.»
 
 «Per restituirlo» disse Larsa.
 

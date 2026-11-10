@@ -12,7 +12,7 @@ Dopo il Grande Cristallo il porto sembrava fatto di cose troppo precise. Il catr
 
 Ashe camminava davanti. Portava due spade di traverso sulla schiena, e chi la guardava avrebbe detto che ne portava una sola, perché la seconda l'aveva avvolta in un mantello accanto alla prima. La Spada dei Re la portava lì da mesi. L'altra, quella che gli Occuria le avevano messo in mano con la loro gentilezza di marmo, pesava meno di quanto avrebbe dovuto. Ashe se n'era accorta già in discesa, e il fatto di accorgersene la irritava.
 
-La dimora di Reddas era aperta. Lo era di solito, perché un signore dei pirati che chiude la porta dà l'idea di avere paura di qualcuno, ma quel giorno era aperta in un altro modo: gente che entrava senza bussare, gente che usciva di corsa, un ragazzo con un rotolo di carte sotto il braccio che per poco non travolse Basch sulla soglia e gli chiese scusa chiamandolo «capitano», senza sapere di avere ragione. Nel salone il grande tavolo era coperto di mappe tenute ferme da tutto quello che c'era a portata di mano: un calamaio, un pugnale, una bottiglia vuota, una scarpa.
+La dimora di Reddas era aperta. Lo era di solito, perché un signore degli aviopirati che chiude la porta dà l'idea di avere paura di qualcuno, ma quel giorno era aperta in un altro modo: gente che entrava senza bussare, gente che usciva di corsa, un ragazzo con un rotolo di carte sotto il braccio che per poco non travolse Basch sulla soglia e gli chiese scusa chiamandolo «capitano», senza sapere di avere ragione. Nel salone il grande tavolo era coperto di mappe tenute ferme da tutto quello che c'era a portata di mano: un calamaio, un pugnale, una bottiglia vuota, una scarpa.
 
 Reddas stava in piedi in mezzo. Non gridava. Dava ordini a voce bassa, uno per uomo, e l'uomo partiva.
 
@@ -148,7 +148,7 @@ Era la parola che aveva detto ad Ashe l'altra volta, nello stesso salone, prima 
 
 «No.»
 
-Non aggiunse altro, e la principessa non gli chiese altro. Avrebbe potuto. Aveva il diritto di sapere chi le sedeva accanto, e la voglia di saperlo, e un'abitudine di comando che di solito non lasciava domande a metà. Ma conosceva bene il genere di silenzio che ha addosso chi porta un morto che non si nomina, perché lo aveva portato anche lei per due anni, con un anello largo al dito e la mano chiusa sopra. Lo riconobbe in Reddas come si riconosce, in una folla, qualcuno che viene dallo stesso paese.
+Non aggiunse altro, e la principessa non gli chiese altro. Avrebbe potuto. Aveva il diritto di sapere chi le sedeva accanto, e la voglia di saperlo, e un'abitudine di comando che di solito non lasciava domande a metà. Ma conosceva bene il genere di silenzio che ha addosso chi porta un morto che non si nomina, perché lo aveva portato anche lei per due anni, con un anello al dito e la mano chiusa sopra. Lo riconobbe in Reddas come si riconosce, in una folla, qualcuno che viene dallo stesso paese.
 
 «Venite» disse.
 

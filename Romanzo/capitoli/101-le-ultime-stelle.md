@@ -28,7 +28,7 @@ La bottega era aperta. A quell'ora, la sera prima della guerra, tutte le bottegh
 
 «Ciao, Migelo.»
 
-«Sei uno stupido, e anche lei.» Indicò Penelo con il registro. «Vi avevo detto di non tornare finché non era finita. Vi avevo detto di stare lontani. Lo dico per il vostro bene, e voi tornate proprio la notte in cui...» Si interruppe. Guardò gli altri, che entravano dietro di loro dalla porta del retro: un uomo biondo con la barba corta e le spalle larghe, un pirata con la giacca sporca di calce, una viera alta che dovette chinarsi sotto l'architrave, e per ultima una ragazza con un mantello sopra la testa. Migelo guardò la ragazza col mantello. Si tolse gli occhiali. Se li rimise.
+«Sei uno stupido, e anche lei.» Indicò Penelo con il registro. «Vi avevo detto di non tornare finché non era finita. Vi avevo detto di stare lontani. Lo dico per il vostro bene, e voi tornate proprio la notte in cui...» Si interruppe. Guardò gli altri, che entravano dietro di loro dalla porta del retro: un uomo biondo con la barba corta e le spalle larghe, un pirata del cielo con la giacca sporca di calce, una viera alta che dovette chinarsi sotto l'architrave, e per ultima una ragazza con un mantello sopra la testa. Migelo guardò la ragazza col mantello. Si tolse gli occhiali. Se li rimise.
 
 «Ah» disse. Poi, dopo un poco: «Ah.»
 
@@ -82,7 +82,7 @@ Vaan guardò Penelo. Penelo stava parlando con Fran in fondo alla bottega e non 
 
 ---
 
-La Sandsea, la sera prima della guerra, era piena come una nave di profughi. Tomaj spillava birra di Bhujerba con tutte e due le mani e non faceva pagare nessuno, cosa che a memoria d'uomo non era mai successa, e quando Vaan glielo fece notare rispose che se domani la taverna non c'era più preferiva che la birra fosse nella pancia dei clienti invece che sotto le macerie. Si parlavano cinque o sei lingue alla volta. Le pareti erano coperte di avvisi, come sempre; ma gli avvisi di caccia erano stati coperti da altri fogli, scritti a mano, con nomi e indirizzi. *Cerco mio figlio Haddas, soldato della guarnigione di Nalbina.* *Chi ha notizie della carovana di Bur-Omisace.* *La famiglia del tintore della via dei Tessitori è partita per Giza: dite a chi chiede.*
+La Sandsea, la sera prima della guerra, era piena come una nave di profughi. Tomaj spillava birra di Bhujerba con tutte e due le mani e non faceva pagare nessuno, cosa che a memoria d'uomo non era mai successa, e quando Vaan glielo fece notare rispose che se domani la taverna non c'era più preferiva che la birra fosse nella pancia dei clienti invece che sotto le macerie. Si parlavano cinque o sei dialetti alla volta. Le pareti erano coperte di avvisi, come sempre; ma gli avvisi di caccia erano stati coperti da altri fogli, scritti a mano, con nomi e indirizzi. *Cerco mio figlio Haddas, soldato della guarnigione di Nalbina.* *Chi ha notizie della carovana di Bur-Omisace.* *La famiglia del tintore della via dei Tessitori è partita per Giza: dite a chi chiede.*
 
 Montblanc era al suo tavolo, nell'angolo, da solo, con il quaderno aperto e la penna dietro l'orecchio. Quando vide Vaan non si alzò. Girò una pagina, trovò un nome, e ci passò sopra il dito.
 
@@ -110,7 +110,7 @@ Vaan lo guardò.
 
 In quel punto la porta della Sandsea si aprì e lasciò entrare il vento del deserto, la polvere, e un uomo con un berretto storto in testa e la faccia di chi ha volato per un giorno intero senza fermarsi.
 
-«Balthier!» gridò Rikken, dalla soglia, sopra il rumore di cinque lingue. «Dov'è quel bellimbusto? Ho fatto Balfonheim-Rabanastre in diciannove ore. Diciannove! La sua barchetta quanto ci ha messo?»
+«Balthier!» gridò Rikken, dalla soglia, sopra il rumore di cinque dialetti. «Dov'è quel bellimbusto? Ho fatto Balfonheim-Rabanastre in diciannove ore. Diciannove! La sua barchetta quanto ci ha messo?»
 
 Balthier, che stava al bancone con un bicchiere che non aveva pagato, si voltò lentamente.
 

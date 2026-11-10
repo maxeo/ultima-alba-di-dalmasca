@@ -26,7 +26,7 @@ Balthier si fermò sull'ultimo gradino della passerella e lo guardò.
 
 «Me lo hai dato a Rabanastre» disse Penelo. «Quando hanno preso Vaan. Mi hai detto di tenerlo finché non te lo avessi riportato.» Indicò Vaan con il mento, senza voltarsi. «Te l'ho riportato. Cioè, l'hai riportato tu. Cioè...» Si fermò. «Insomma, è tuo.»
 
-Il pirata scese l'ultimo gradino. Prese il fazzoletto con due dita, con la stessa cerimonia con cui lei lo porgeva, e lo guardò, e lo spiegò, e lo ripiegò in quattro con molta cura, la F in vista. Era una lettera piccola, cucita in filo scuro in un angolo, con uno svolazzo da calligrafo. Penelo la guardò passare dalle sue dita a quelle di lui, e non disse niente. Poi Balthier se lo infilò nella tasca interna della giacca, a sinistra, e ci posò sopra la mano aperta.
+L'aviopirata scese l'ultimo gradino. Prese il fazzoletto con due dita, con la stessa cerimonia con cui lei lo porgeva, e lo guardò, e lo spiegò, e lo ripiegò in quattro con molta cura, la F in vista. Era una lettera piccola, cucita in filo scuro in un angolo, con uno svolazzo da calligrafo. Penelo la guardò passare dalle sue dita a quelle di lui, e non disse niente. Poi Balthier se lo infilò nella tasca interna della giacca, a sinistra, e ci posò sopra la mano aperta.
 
 «Lo terrò vicino al cuore» disse.
 

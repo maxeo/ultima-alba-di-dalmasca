@@ -1,0 +1,20 @@
+{
+ "capitolo": "008-il-pomodoro-smarrito",
+ "somiglianza": 0.9648,
+ "problemi": [
+  {
+   "tempo": "26:31",
+   "secondi": 1591.4,
+   "tipo": "diverso",
+   "testo": "console e costato cinquantamila ghil fece una pausa",
+   "audio": "console è costato 50 .000 gil fece una pausa"
+  },
+  {
+   "tempo": "31:14",
+   "secondi": 1874.3,
+   "tipo": "diverso",
+   "testo": "il chocobo da cinquantamila ghil dall altra parte",
+   "audio": "il ciocobo da 50 .000 gil dall 'altra parte"
+  }
+ ]
+}

@@ -44,7 +44,7 @@ Hadu staccò la gabbietta dalla parete e la tese a Vaan, che era il più vicino.
 
 ---
 
-Al quarto e al quinto livello si lavorava ancora. I picconi battevano lontano, accompagnati da canzoni lente in bhujerbano che si rispondevano da un pozzo all'altro.
+Al quarto e al quinto livello si lavorava ancora. I picconi battevano lontano, accompagnati da canzoni lente in dialetto bhujerbano che si rispondevano da un pozzo all'altro.
 
 Al quinto livello, dove i canti si sentivano ancora, Vaan si sorprese a camminare a tempo. Era una di quelle canzoni a due voci in cui una squadra fa la domanda e un'altra, lontana, risponde, e anche senza capire le parole si capiva che la risposta arrivava sempre un poco in ritardo e che il ritardo faceva parte della canzone. A Rabanastre i facchini del mercato di Muthru cantavano così, quando scaricavano i carri all'alba, e Penelo, da bambina, si metteva sotto il portico di Migelo e rispondeva lei al posto della seconda squadra, con la voce stonata e le parole sbagliate, finché i facchini non ridevano e smettevano. Lo faceva per farli ridere. Vaan lo aveva capito soltanto da grande. Lei faceva sempre così: trovava il punto in cui una cosa pesante si poteva prendere da un lato diverso, e la prendeva da lì, e la portava, e non lo diceva a nessuno.
 

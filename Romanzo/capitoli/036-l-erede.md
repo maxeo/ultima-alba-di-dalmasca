@@ -60,7 +60,7 @@ Basch non disse niente. Ma le sue mani, sulle ginocchia, si erano chiuse.
 
 Nella stanza ci fu un silenzio. Poi tutti guardarono Vaan, e Vaan guardò Balthier.
 
-Il pirata guardò la sacca del ragazzo, dove avvolta in un panno da Rabanastre dormiva la pietra del palazzo, il compenso che gli aveva lasciato in custodia e che a Bhujerba nessuno dei due si era ricordato di consegnare. Poi sospirò.
+L'aviopirata guardò la sacca del ragazzo, dove avvolta in un panno da Rabanastre dormiva la pietra del palazzo, il compenso che gli aveva lasciato in custodia e che a Bhujerba nessuno dei due si era ricordato di consegnare. Poi sospirò.
 
 «Ragazzo» disse. «Togliti uno stivale.»
 
@@ -136,7 +136,7 @@ La guardò come non aveva mai guardato nessuno, perché non si era mai trovato d
 
 Era quella. Con il livido sullo zigomo e il corpetto strappato. La donna che nei canali gli aveva detto di stare zitto.
 
-Balthier, accanto a lui, non disse niente. Ma Vaan, che in quei giorni aveva imparato a vedere quando Balthier smetteva di sorridere, vide che aveva smesso, e che per un istante il pirata la stava guardando con un'espressione che era quasi rispetto. Fran guardava la mano sinistra della principessa, quella chiusa a pugno. La guardò a lungo.
+Balthier, accanto a lui, non disse niente. Ma Vaan, che in quei giorni aveva imparato a vedere quando Balthier smetteva di sorridere, vide che aveva smesso, e che per un istante l'aviopirata la stava guardando con un'espressione che era quasi rispetto. Fran guardava la mano sinistra della principessa, quella chiusa a pugno. La guardò a lungo.
 
 «Una prova» stava dicendo Ghis.
 
@@ -262,7 +262,7 @@ Il Giudice lo guardò a lungo. Poi rise di nuovo, ma piano, e Vaan non capì mai
 
 Vaan gli mise la pietra in mano.
 
-Ashe chiuse gli occhi. Non disse niente. La mano sinistra, legata all'altra, restò chiusa a pugno, e chi le stava vicino avrebbe potuto vedere, nel pugno, il bordo di un anello d'oro rosso e d'argento bianco che le stava largo.
+Ashe chiuse gli occhi. Non disse niente. La mano sinistra, legata all'altra, restò chiusa a pugno, e chi le stava vicino avrebbe potuto vedere, nel pugno, il bordo di un anello d'oro rosso e d'argento bianco.
 
 ---
 

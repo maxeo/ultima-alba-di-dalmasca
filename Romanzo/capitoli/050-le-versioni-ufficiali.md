@@ -58,7 +58,7 @@ Quando il segretario se ne fu andato, il marchese restò solo nella sala con il 
 
 Prese dal tavolo il quaderno rilegato in cui da trent'anni annotava, la sera, le cose che un giorno sarebbero diventate le Memorie. Lo aprì all'ultima pagina scritta. C'era la frase del giorno prima: *Mia nipote è mia ospite, e riposa.* La guardò per un pezzo. Poi intinse la penna e scrisse sotto, in una calligrafia più piccola, che non era quella delle lettere ufficiali:
 
-*Non riposa. Non ha mai riposato. Ha preso la carta del bisnonno, un pirata e la mia nave migliore di notte, che poi non era la mia, ed è andata a fare quello che io ho avuto paura di fare per trent'anni. Se torna, glielo dirò. Se non torna, lo dirò a qualcuno.*
+*Non riposa. Non ha mai riposato. Ha preso la carta del nonno, un pirata del cielo e la mia nave migliore di notte, che poi non era la mia, ed è andata a fare quello che io ho avuto paura di fare per trent'anni. Se torna, glielo dirò. Se non torna, lo dirò a qualcuno.*
 
 Rilesse. Poi, con un tratto di penna netto, cancellò tutto, frase per frase, finché la pagina non fu che una griglia nera. Il quaderno lo rimise sul tavolo.
 

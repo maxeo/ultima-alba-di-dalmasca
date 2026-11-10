@@ -58,7 +58,7 @@ Vaan si sporse in avanti. «Ma non era tuo, il tesoro. Era della tomba.»
 
 «Non è vero.»
 
-Lo sguardo del pirata scese. Ashe se ne accorse tardi, quando era già sulla sua mano sinistra, e la mano sinistra, per un istinto più vecchio di qualsiasi pensiero, si chiuse.
+Lo sguardo dell'aviopirata scese. Ashe se ne accorse tardi, quando era già sulla sua mano sinistra, e la mano sinistra, per un istinto più vecchio di qualsiasi pensiero, si chiuse.
 
 Per un lungo momento nessuno capì. Poi Penelo capì, e trattenne il fiato. Basch alzò la testa di scatto. Vaan guardò il pugno della principessa e poi Balthier e poi il pugno di nuovo, e quando capì anche lui, fu il solo a parlare.
 
@@ -96,21 +96,21 @@ Lo disse senza sorridere. Ashe lo fissò, e per un momento chi stava nella stanz
 
 Ashe guardò la mano. Poi guardò la propria.
 
-Il pugno si aprì un dito alla volta. L'anello era lì, sulla base dell'anulare, girato storto come sempre, con il filo d'oro rosso sopra e quello d'argento sotto, e un nodo di cotone bianco sbiadito che lei, quella mattina, si era dimenticata di togliere. Lo vide in quell'istante, il nodo. Lo vide anche Balthier. Nessuno dei due disse niente.
+Il pugno si aprì un dito alla volta. L'anello era lì, alla base dell'anulare, con il filo d'oro rosso sopra e quello d'argento sotto.
 
-Lei sciolse il filo. Le dita le tremavano un poco e lei lo tollerò, perché il filo era piccolo e il nodo stretto e qualsiasi mano avrebbe tremato. Poi tirò l'anello, e l'anello venne via subito, senza resistenza, con una facilità che la ferì più di qualsiasi altra cosa, perché un anello giusto avrebbe fatto almeno la fatica di passare la nocca, e quello no, quello non aveva mai fatto fatica. Lo depose sul palmo di Balthier.
+Lo tirò. Alla nocca l'anello si fermò, e lei dovette girarlo due volte prima che passasse. Lo depose sul palmo di Balthier.
 
-Lui chiuse la mano. La riaprì subito, e guardò l'anello da vicino, inclinandolo verso la lampada perché la luce prendesse le piccole tacche agli incroci dei due fili.
+Lui lo guardò da vicino, inclinandolo verso la lampada perché la luce prendesse le piccole tacche agli incroci dei due fili.
 
-«È largo» disse.
+«L'argento è stato ritoccato» disse. «Qui, dove non si vede.»
 
-«Lo so.»
+«L'ho fatto stringere.»
 
-«Molto largo. Su che dito lo hanno misurato?»
+«Di recente?»
 
-«Su un guanto.»
+«Dopo un funerale.»
 
-Balthier alzò gli occhi su di lei. La frase sarebbe stata ridicola in qualsiasi altra stanza. In quella non lo fu, e lui ebbe il buon gusto di non trattarla come tale. Non chiese chi lo avesse misurato su un guanto, né perché nessuno lo avesse mai fatto stringere. Guardò la principessa per un tempo un po' più lungo del necessario, con un'espressione che Vaan, che stava due passi più in là, non gli aveva mai visto e non riuscì a decifrare, e poi infilò l'anello nella tasca interna della giacca, quella sul petto, dove i pirati tengono le cose che non vogliono perdere.
+Balthier alzò gli occhi su di lei. Non chiese di chi fosse il funerale. Guardò la principessa per un tempo un po' più lungo del necessario, con un'espressione che Vaan, che stava due passi più in là, non gli aveva mai visto e non riuscì a decifrare, e poi infilò l'anello nella tasca interna della giacca, quella sul petto, dove i pirati del cielo tengono le cose che non vogliono perdere.
 
 «Te lo restituirò» disse.
 
@@ -150,7 +150,7 @@ Fran, dal suo angolo, disse una sola parola, «Balthier», con un tono che nessu
 
 «Io cosa?»
 
-«Cosa cerchi? Lei cerca un modo di usare una pietra. Il capitano cerca il modo di farsi perdonare qualcosa che non ha fatto. Fran cerca il modo di non dirmi quello che pensa. Io, a quanto pare, cerco qualcosa che vale più di un anello.» Allargò le mani. «Tu perché vieni? E non dirmi che vuoi diventare un pirata. Quello lo dici a tutti.»
+«Cosa cerchi? Lei cerca un modo di usare una pietra. Il capitano cerca il modo di farsi perdonare qualcosa che non ha fatto. Fran cerca il modo di non dirmi quello che pensa. Io, a quanto pare, cerco qualcosa che vale più di un anello.» Allargò le mani. «Tu perché vieni? E non dirmi che vuoi diventare un aviopirata. Quello lo dici a tutti.»
 
 Vaan aprì la bocca. La risposta pronta era quella, la nave, il cielo, l'uscire da Rabanastre e non tornarci, e ce l'aveva sulla lingua come una moneta, lucida per l'uso. Non la disse. Balthier gli aveva tolto quella moneta prima che la tirasse fuori, e lui si ritrovò a frugarsi in tasca senza trovare altro.
 

@@ -2,7 +2,7 @@
 
 ## 74. Le montagne che separano i regni
 
-Al Borgo di Nalbina l'acqua si vendeva a bicchiere, e il prezzo era scritto su una tavola appesa al pozzo, con il sigillo del quartiermastro imperiale in basso a destra. Un bicchiere, un gil. Una brocca, sei. Un otre da viaggio, venti, e l'otre bisognava portarselo. Sotto, in caratteri più piccoli e in tre lingue, c'era scritto che chi attingeva senza pagare sarebbe stato punito secondo il regolamento della guarnigione, e qualcuno, con un coltello, aveva aggiunto in dalmasco che il pozzo l'avevano scavato i suoi nonni. Il quartiermastro non aveva fatto togliere l'aggiunta. Forse non sapeva leggere il dalmasco. Forse sapeva che l'acqua si vende meglio se chi la compra ha un posto dove sfogarsi.
+Al Borgo di Nalbina l'acqua si vendeva a bicchiere, e il prezzo era scritto su una tavola appesa al pozzo, con il sigillo del quartiermastro imperiale in basso a destra. Un bicchiere, un gil. Una brocca, sei. Un otre da viaggio, venti, e l'otre bisognava portarselo. Sotto, in caratteri più piccoli, c'era scritto che chi attingeva senza pagare sarebbe stato punito secondo il regolamento della guarnigione, e qualcuno, con un coltello, aveva aggiunto in dialetto che il pozzo l'avevano scavato i suoi nonni. Il quartiermastro non aveva fatto togliere l'aggiunta. Forse non capiva il dialetto. Forse sapeva che l'acqua si vende meglio se chi la compra ha un posto dove sfogarsi.
 
 Penelo fece riempire quattro otri e ne pagò tre. L'acqua per il quarto gliela regalò il Bangaa che stava al pozzo, dopo una trattativa in cui lei non alzò mai la voce e lui, alla fine, non capì bene come fosse successo. Ashe, che aveva assistito da due passi con la Spada dei Re avvolta in una coperta da sella sulla schiena, la guardò tornare con gli otri a tracolla.
 
@@ -14,7 +14,7 @@ Penelo fece riempire quattro otri e ne pagò tre. L'acqua per il quarto gliela r
 
 «Sette.» Penelo le passò un otre. «Ho detto che io ero orfana. È vero, quindi non conta come bugia. Poi gli ho chiesto se il quartiermastro gli lasciava tenere qualcosa sul prezzo. Non gli lascia niente. A quel punto non sapeva più da che parte stare, e quando uno non sa da che parte stare ti regala un otre.»
 
-Ashe soppesò l'otre. In due anni aveva imparato a dormire per terra, a mangiare quello che c'era e a camminare con le vesciche, ma la questione del prezzo delle cose le restava estranea come una lingua straniera, e lo sapeva. Al palazzo di Rabanastre nessuno le aveva mai detto quanto costasse un bicchiere d'acqua. Il bicchiere arrivava. Anche questo, pensò, era stato un modo di regnare.
+Ashe soppesò l'otre. In due anni aveva imparato a dormire per terra, a mangiare quello che c'era e a camminare con le vesciche, ma la questione del prezzo delle cose le restava estranea come una lingua morta, e lo sapeva. Al palazzo di Rabanastre nessuno le aveva mai detto quanto costasse un bicchiere d'acqua. Il bicchiere arrivava. Anche questo, pensò, era stato un modo di regnare.
 
 Il borgo era cresciuto addosso alla fortezza come l'edera cresce addosso a un muro che nessuno pensa più di abbattere. Le tende dei mercanti si appoggiavano ai bastioni, i fabbri lavoravano nelle nicchie dove una volta stavano le catapulte, e sul tratto di mura crollato nel 704 qualcuno aveva costruito una locanda a due piani usando le pietre crollate. Si chiamava La Breccia. Aveva l'insegna dipinta di fresco. Vi entravano soldati archadiani a fine turno e mercanti di Rozarria che non dicevano di esserlo, e il padrone, un Huma di Dalmasca con un braccio solo, serviva tutti con la stessa faccia.
 
@@ -60,7 +60,7 @@ La carta che Balthier aveva promesso sul Bur-Omisace comparve dopo cena, in una 
 
 «Da qui si sale ai Monti Mosfora» disse, seguendo con il dito un capello d'inchiostro. «Si passa il valico di Halny, si scende nel Bosco di Salika. Oltre il bosco c'è la Costa Phon, che è già Archadia, e da lì si va verso la capitale per le colline. Strade vecchie, che non usa più nessuno da quando c'è chi vola. Nessuno sorveglia una strada che non usa nessuno.»
 
-«E le percorre un pirata dei cieli» disse Vaan. «A piedi.»
+«E le percorre un pirata del cielo» disse Vaan. «A piedi.»
 
 «Ho delle gambe. Le uso di rado, ma le ho.»
 

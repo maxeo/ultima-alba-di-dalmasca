@@ -1,0 +1,20 @@
+{
+ "capitolo": "024-l-aria-di-dalmasca",
+ "somiglianza": 0.9758,
+ "problemi": [
+  {
+   "tempo": "3:47",
+   "secondi": 227.5,
+   "tipo": "saltato",
+   "testo": "bestia e la schiaccio fra le rotaie ci fu invece il rumore",
+   "audio": "bestia e la invece il rumore"
+  },
+  {
+   "tempo": "3:58",
+   "secondi": 239.0,
+   "tipo": "diverso",
+   "testo": "a correre via van udi il primo blocco staccarsi",
+   "audio": "a correre. Via. Vanno di primo blocco staccarsi"
+  }
+ ]
+}

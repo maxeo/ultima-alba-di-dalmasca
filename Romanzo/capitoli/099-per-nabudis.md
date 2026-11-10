@@ -16,7 +16,7 @@ Balthier le mise una mano sulla fronte. Era bollente. Si guardò intorno, la pia
 
 Fran alzò una mano. Fu un gesto lento, difficile, che le costò; la portò fino alla faccia di Balthier e gliela posò sulla guancia, con le dita lunghe e fredde contro la mascella. Lo guardò.
 
-«Vai» disse. «Sei un pirata. Quando le cose si mettono male, i pirati volano via. Vola.»
+«Vai» disse. «Sei un aviopirata. Quando le cose si mettono male, i pirati volano via. Vola.»
 
 Balthier rimase fermo. Erano le stesse parole. Pochi minuti prima, a dieci passi da lì, un vecchio che si scioglieva in luce gliele aveva dette con disprezzo, e adesso gliele diceva Fran, con tutt'altro, e la frase era identica, e gli parve che il mondo intero gli dicesse di scappare.
 

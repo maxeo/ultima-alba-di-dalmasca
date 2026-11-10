@@ -173,14 +173,18 @@ input[type=range] { width: 100%; accent-color: var(--accento); height: 28px; mar
 .pagina header button { min-width: 44px; height: 44px; display: grid; place-items: center; }
 .pagina header button.lett { font: 600 15px var(--serif); }
 .corpo { flex: 1; overflow-y: auto; padding: 20px 16px 200px; }
+/* Con la pagina del testo aperta scorre solo il testo: l'elenco sotto resta fermo, senza una seconda barra. */
+html.con-pagina { overflow: hidden; }
 .corpo article { max-width: 640px; margin: 0 auto; overflow-wrap: break-word; hyphens: auto; font: var(--dim, 19px)/var(--inter, 1.6) var(--font-testo, var(--serif)); }
 .corpo p { margin: 0 0 .9em; text-align: var(--allinea, justify); }
 .corpo p.h { font-size: 1.25em; text-align: center; margin: 1.2em 0; line-height: 1.25; }
 /* Carattere della firma: salvato con il lettore, così c'è anche senza rete e nell'app installata. */
-@font-face { font-family: "Pinyon Script"; src: url(caratteri/pinyon-script-latin.woff2) format("woff2"); font-display: swap; }
+@font-face { font-family: "Italianno"; src: url(caratteri/italianno-latin.woff2) format("woff2"); font-display: swap; }
 /* Citazioni (le Memorie di Ondore e simili): corsivo e rientro; la firma va a destra. Lo stacco fra scene ha tre asterischi. */
 .corpo p.cit { font-style: italic; margin-left: 1.4em; margin-right: 1.4em; }
-.corpo p.firma { font: 1.3em/1.3 "Pinyon Script", var(--serif); color: var(--tenue); text-align: right; margin: -.2em 1.2em 1.6em; }
+.corpo p.firma { font: 1.45em/1.3 "Italianno", var(--serif); color: var(--tenue); text-align: right; margin: -.2em 1.2em 1.6em; }
+/* Nel corsivo calligrafico la I romana sembra una J: i numeri romani della firma vanno nel carattere del testo. */
+.corpo p.firma .romano { font: italic .62em var(--serif); margin-right: -.12em; }
 .corpo p.st::before { content: '⁂'; display: block; text-align: center; font-style: normal; margin: .4em 0 1em; opacity: .55; }
 .corpo span { cursor: pointer; border-radius: 3px; transition: background .2s; }
 .corpo span.ora-qui, .anteprima mark { background: var(--evid); }
@@ -1024,6 +1028,16 @@ addEventListener('keydown', e => {
 });
 
 // Testo che segue la voce
+// Nel corsivo della firma la I romana sembra una J: i numeri romani vanno nel carattere del testo.
+function romani(nodo) {
+  const giro = document.createTreeWalker(nodo, NodeFilter.SHOW_TEXT), testi = [];
+  while (giro.nextNode()) testi.push(giro.currentNode);
+  for (const t of testi) {
+    const pezzi = t.data.split(/\b([IVXLCDM]{2,})\b/);
+    if (pezzi.length < 2) continue;
+    t.replaceWith(...pezzi.map((x, i) => i % 2 ? el('span', { class: 'romano' }, x) : x));
+  }
+}
 async function caricaTesto(c) {
   cue = []; cueOra = -1;
   const art = $('articolo');
@@ -1057,6 +1071,7 @@ async function caricaTesto(c) {
         cue.push(c);
         p.append(s, ' ');
       });
+      if (q.firma) romani(p);
       art.append(p);
     });
   } catch {
@@ -1146,14 +1161,17 @@ function altezzaLettore() {
   $('corpo').style.paddingBottom = (senza ? 80 : 40) + 'px';
 }
 addEventListener('resize', altezzaLettore);
+new MutationObserver(() => document.documentElement.classList.toggle('con-pagina', !$('pagina').classList.contains('nascosto')))
+  .observe($('pagina'), { attributes: true, attributeFilter: ['class'] });
 $('testo').onclick = () => {
   if (corrente == null) { const u = stato.ultimo || pronti()[0]?.n; if (u) carica(u, false); else return; }
   const pg = $('pagina');
   const ora = pg.classList.toggle('nascosto');
   $('testo').classList.toggle('attivo', !ora);
+  stato.pagina = !ora; salvaStato();
   if (!ora) { seguiVoce = true; altezzaLettore(); setTimeout(() => cue[cueOra]?.el.scrollIntoView({ block: 'center' }), 60); }
 };
-$('chiudi-pagina').onclick = () => { $('pagina').classList.add('nascosto'); $('testo').classList.remove('attivo'); $('segui').classList.add('nascosto'); };
+$('chiudi-pagina').onclick = () => { $('pagina').classList.add('nascosto'); $('testo').classList.remove('attivo'); $('segui').classList.add('nascosto'); stato.pagina = false; salvaStato(); };
 const staccaSegui = () => { if (seguiVoce && !$('pagina').classList.contains('nascosto')) { seguiVoce = false; $('segui').classList.remove('nascosto'); } };
 $('corpo').addEventListener('wheel', staccaSegui, { passive: true });
 $('corpo').addEventListener('touchmove', staccaSegui, { passive: true });
@@ -2239,6 +2257,8 @@ function instrada() {
     if (!ok) return;
     if (n) apriCapitolo(n);
     else if (stato.ultimo) apriCapitolo(stato.ultimo);
+    // Dopo un ricaricamento la pagina del testo resta aperta, se lo era.
+    if (MODO === 'sincronizzato' && stato.pagina && corrente != null) apriPagina();
   });
 }
 $('allo-scaffale').onclick = () => mostraScaffale();
@@ -2257,6 +2277,52 @@ async function leggiCatalogo() {
   if (LIBRO_SOLO) return { titolo: LIBRO_SOLO.titolo, solo: true, libri: [{ ...LIBRO_SOLO, base: '', modo: LIBRO_SOLO.modo || 'sincronizzato' }] };
   return null;
 }
+
+// Modalità debug (con "?debug" nell'indirizzo, o sempre su localhost e in rete locale): ogni pochi secondi
+// controlla se l'audio o il testo del capitolo aperto sono cambiati sul server e li ricarica al punto in cui si era.
+const DEBUG = /[?&]debug\b/.test(location.search)
+  || /^(localhost|127\.|\[::1\]|192\.168\.|10\.|172\.(1[6-9]|2\d|3[01])\.)/.test(location.hostname);
+const sorvegliato = { n: null, voce: null, testo: null };
+async function sorveglia() {
+  if (!DEBUG || document.hidden || corrente == null || !LIBRO) return;
+  const n = corrente, c = capitoli.find(k => k.n === n);
+  if (!c) return;
+  try {
+    const r = await fetch(BASE + 'capitoli.json', { cache: 'no-store' });
+    if (!r.ok) return;
+    const d = await r.json();
+    const nuova = (d.capitoli || []).find(k => k.n === n);
+    let testo = null;
+    if (MODO !== 'audio') {
+      const t = await fetch(percorso(c, 'testi', 'json'), { cache: 'no-store' });
+      if (t.ok) testo = await t.text();
+    }
+    if (corrente !== n) return;
+    const voce = JSON.stringify(nuova || null);
+    if (sorvegliato.n !== n) { Object.assign(sorvegliato, { n, voce, testo }); return; }
+    const audioCambiato = voce !== sorvegliato.voce && MODO !== 'testo';
+    const testoCambiato = testo != null && testo !== sorvegliato.testo;
+    Object.assign(sorvegliato, { voce, testo });
+    if (nuova) Object.assign(c, nuova, { parte: c.parte });
+    if (audioCambiato) {
+      const t0 = a.currentTime, suonava = !a.paused;
+      a.src = percorso(c, 'audio', 'mp3') + (percorso(c, 'audio', 'mp3').includes('?') ? '&' : '?') + 'v=' + Date.now();
+      a.addEventListener('loadedmetadata', () => {
+        a.currentTime = Math.min(t0, a.duration || t0); a.playbackRate = stato.velocita;
+        if (suonava) a.play().catch(() => {});
+      }, { once: true });
+    }
+    if (testoCambiato || audioCambiato) {
+      const scroll = $('corpo').scrollTop;
+      if (testoCambiato || MODO === 'sincronizzato') await caricaTesto(c);
+      $('corpo').scrollTop = scroll;
+      aggiornaTempo();
+      annuncia(`Capitolo aggiornato: ${[audioCambiato && 'audio', testoCambiato && 'testo'].filter(Boolean).join(' e ')}.`);
+      console.info('[leggio debug] capitolo', n, 'aggiornato', { audioCambiato, testoCambiato });
+    }
+  } catch {}
+}
+if (DEBUG) setInterval(sorveglia, 3000);
 
 (async function avvia() {
   caricaComuni();

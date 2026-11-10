@@ -148,7 +148,7 @@ Ashe era in piedi in una sala piena di stoffe. Su tre sedie erano stesi campioni
 
 Penelo le porse l'astuccio senza fare l'inchino. Se ne accorse a metà, e provò a farlo dopo, mentre Ashe lo stava già aprendo.
 
-Ashe vide il cerchio d'oro rosso e d'argento bianco. Posò l'altra mano sul tavolo per tenersi. Per un istante, uno solo, ebbe la certezza che qualcuno avesse trovato il corpo del pirata fra le rovine di Bahamut e gli avesse frugato nella giacca, e la certezza le arrivò prima di qualsiasi domanda e le tolse il colore dalla faccia.
+Ashe vide il cerchio d'oro rosso e d'argento bianco. Posò l'altra mano sul tavolo per tenersi. Per un istante, uno solo, ebbe la certezza che qualcuno avesse trovato il corpo dell'aviopirata fra le rovine di Bahamut e gli avesse frugato nella giacca, e la certezza le arrivò prima di qualsiasi domanda e le tolse il colore dalla faccia.
 
 «Sono vivi» disse Penelo, che aveva capito. «Tutti e due. Hanno ripreso la nave stanotte.»
 
@@ -174,9 +174,9 @@ Ashe lesse la lettera ancora una volta. C'erano molte cose che avrebbe voluto di
 
 Prese la fede fra il pollice e l'indice. L'oro rosso di Dalmasca aveva una luce più calda dell'argento di Nabradia, e i due fili ritorti si incrociavano come il giorno in cui l'aveva vista per la prima volta, all'altare della cattedrale, davanti a cinquecento persone. Le tacche agli incroci c'erano ancora, appena consumate dove le sue dita le avevano sfregate per due anni di lutto. L'interno era liscio. Nessuno ci aveva mai fatto incidere niente. *Le parole ce le mettiamo noi*, aveva detto qualcuno.
 
-La infilò all'anulare sinistro. Passò la nocca senza la minima resistenza e scivolò fino alla base del dito, larga, troppo larga, come la mattina delle nozze. La mano si chiuse da sola, a pugno, come aveva imparato a fare.
+La infilò all'anulare sinistro. La fede le stava giusta. La mano si chiuse da sola, a pugno, come aveva imparato a fare.
 
-Ashe la guardò. Guardò il pugno chiuso. Poi, lentamente, aprì le dita. Tenne l'anello fermo con il pollice, e lasciò la mano aperta.
+Ashe la guardò. Guardò il pugno chiuso. Poi, lentamente, aprì le dita. Sfiorò l'anello con il pollice, e lasciò la mano aperta.
 
 «Rasler l'aveva fatto misurare su un guanto» disse.
 
@@ -186,7 +186,7 @@ Penelo la guardò. Non aveva mai sentito Ashe nominare il principe con quella fa
 
 «Su un mio guanto.» Ashe rise. Fu una risata breve, che le uscì prima che potesse fermarla. «Ci teneva molto a precisarlo. Un guanto mio, non di un'altra. Diceva che era un dettaglio importante.»
 
-Non disse altro. Rimase a guardare l'anello largo sul dito, e lasciò che la risata finisse da sola, e quando finì non c'era al suo posto il dolore di prima. C'era un'altra cosa, più leggera, che le stava larga come l'anello. Penelo si sedette sulla sedia da cui erano state tolte le stoffe e aspettò con lei, senza dire niente, finché un usciere non bussò.
+Non disse altro. Rimase a guardare l'anello sul dito, e lasciò che la risata finisse da sola, e quando finì non c'era al suo posto il dolore di prima. C'era un'altra cosa, più leggera. Penelo si sedette sulla sedia da cui erano state tolte le stoffe e aspettò con lei, senza dire niente, finché un usciere non bussò.
 
 ---
 
@@ -262,6 +262,6 @@ Al palazzo, Ashe sentì passare un motore e si avvicinò alla finestra. Non pote
 
 «Entrate» disse.
 
-L'anello le scivolò verso la nocca mentre apriva la porta. Lo fermò con il pollice, e con l'altra mano, quella libera, spostò una sedia perché la donna potesse sedersi.
+Sfiorò l'anello con il pollice mentre apriva la porta, e con l'altra mano spostò una sedia perché la donna potesse sedersi.
 
 Sopra Rabanastre, intanto, la piccola nave fece un largo giro sulla città, come fanno le navi di chi non è ancora del tutto sicuro di voler partire, e poi prese la rotta di ovest, senza fretta. Sulla via dei Tessitori, dal bordo di una cisterna, un ragazzino la indicò al fratello più grande; e il fratello, che di solito alzava le spalle, questa volta restò a guardarla finché non fu che un punto sopra il deserto.

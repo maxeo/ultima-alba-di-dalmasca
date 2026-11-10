@@ -1,7 +1,7 @@
 // Tiene il lettore disponibile senza rete e serve i capitoli salvati con le richieste a intervalli.
 // I libri dello scaffale hanno ognuno la sua cache "<chiave del libro>-audio-v1", anche su un altro dominio.
-const SHELL = 'alba-shell-v4';
-const FILE = ['./', 'index.html', 'manifest.webmanifest', 'icona.svg', 'caratteri/pinyon-script-latin.woff2'];
+const SHELL = 'alba-shell-v5';
+const FILE = ['./', 'index.html', 'manifest.webmanifest', 'icona.svg', 'caratteri/italianno-latin.woff2'];
 const diLibro = n => n.endsWith('-audio-v1');
 
 self.addEventListener('install', e => {

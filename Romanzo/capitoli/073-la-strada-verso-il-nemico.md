@@ -12,7 +12,7 @@ Vaan corse verso di lui. «Stai bene?»
 
 «Splendidamente.» Al-Cid guardò il ragazzo, poi la propria spalla. «Questa è solo una piccola divergenza di opinioni con un soldato del Ministero, che sosteneva che i rozarriani non hanno diritto di asilo nei luoghi sacri. Lui ha espresso il suo punto di vista con una lama. Io ho espresso il mio con un'altra. Siamo rimasti in disaccordo, ma io sono ancora qui a parlarne, il che, in diplomazia, si chiama vincere.»
 
-La donna dal velo verde disse una parola in rozarriano, breve, che fece ridere Balthier e arrossire Al-Cid.
+La donna dal velo verde disse una parola in dialetto rozarriano, breve, che fece ridere Balthier e arrossire Al-Cid.
 
 «Lei è Tavina» disse Al-Cid. «Mi accompagna. Mi accompagnano in quattro, di solito, ma le altre tre le ho mandate giù dalla montagna stamattina, con i feriti. Tavina si è rifiutata. Tavina si rifiuta spesso.» La guardò, e c'era nello sguardo qualcosa che non era galanteria. «Mi ha salvato la vita due volte, stanotte. La terza volta, dice, mi lascerà morire per principio.»
 
@@ -122,7 +122,7 @@ Tavina tirò fuori dal mantello un paio di occhiali scuri, perché era lei a por
 
 «E comunque» disse, rialzandosi «se cambiaste idea, Rozarria ha un clima molto migliore.»
 
-Tavina gli disse un'altra parola in rozarriano. Lui le rispose che lo sapeva. E se ne andarono così, lui appoggiato a lei, giù per la navata grigia, oltre le porte storte, nella pioggia.
+Tavina gli disse un'altra parola in dialetto rozarriano. Lui le rispose che lo sapeva. E se ne andarono così, lui appoggiato a lei, giù per la navata grigia, oltre le porte storte, nella pioggia.
 
 ---
 

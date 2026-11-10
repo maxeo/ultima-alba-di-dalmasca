@@ -9,24 +9,35 @@ const files = ['__current_', '__saved_', '__'].map(x => path.join(P, x + f + '.j
 const j = JSON.parse(fs.readFileSync(files[0], 'utf8'));
 const frasi = j.blocks[0].sentences;
 
-// Parole confrontate: solo lettere e numeri (pause, punteggiatura e spazi cambiati dal programma non contano).
+// Parole confrontate: solo lettere e numeri. La punteggiatura fra le parole si confronta dopo, a parte (vedi segni).
 const parole = t => [...t.matchAll(/\[[^\]]*\]|[\p{L}\p{N}]+/gu)].filter(m => m[0][0] !== '[').map(m => ({ a: m.index, b: m.index + m[0].length, k: m[0].toLowerCase() }));
+// ini: la parola viene dopo una fine di frase o una pausa.
+const stacco = t => /[.!?…]|\[/.test(t);
 const vecchie = [];
-frasi.forEach((s, i) => { for (const w of parole(s)) vecchie.push({ ...w, i }); });
+let coda = '.';
+frasi.forEach((s, i) => {
+  let fine = 0;
+  for (const w of parole(s)) { const g = coda + s.slice(fine, w.a); vecchie.push({ ...w, i, g, ini: stacco(g) }); coda = ''; fine = w.b; }
+  coda += s.slice(fine);
+});
 // Gli a capo diventano le pause che usa il programma: [pause] fra paragrafi, [break] dentro un paragrafo.
 const piatto = nuovo.replace(/\r/g, '').trim().replace(/\[pause:2\]/g, '[pause][pause].').replace(/\n\n+/g, ' [pause]').replace(/\n/g, ' [break]')
   .replace(/[«»“”"]/g, '').replace(/[ \t]+/g, ' ');
 const nuove = parole(piatto);
+nuove.forEach((w, j) => { w.ini = j === 0 || stacco(piatto.slice(nuove[j - 1].b, w.a)); });
 
-// LCS sulle chiavi.
-const n = vecchie.length, m = nuove.length, L = Array.from({ length: n + 1 }, () => new Uint16Array(m + 1));
+// LCS sulle chiavi. A parità di parole abbinate vince l'abbinamento che rispetta gli inizi di frase:
+// così una parola nuova uguale alla prima della frase seguente non si aggancia a quella.
+const n = vecchie.length, m = nuove.length, L = Array.from({ length: n + 1 }, () => new Int32Array(m + 1));
+const peso = (x, y) => 65536 + (vecchie[x].ini === nuove[y].ini ? 1 : 0);
 for (let x = n - 1; x >= 0; x--) for (let y = m - 1; y >= 0; y--)
-  L[x][y] = vecchie[x].k === nuove[y].k ? L[x + 1][y + 1] + 1 : Math.max(L[x + 1][y], L[x][y + 1]);
-const cambi = []; let x = 0, y = 0;
+  L[x][y] = Math.max(L[x + 1][y], L[x][y + 1], vecchie[x].k === nuove[y].k ? L[x + 1][y + 1] + peso(x, y) : 0);
+const abbinate = (x, y) => x < n && y < m && vecchie[x].k === nuove[y].k && L[x][y] === L[x + 1][y + 1] + peso(x, y);
+const cambi = [], coppie = []; let x = 0, y = 0;
 while (x < n || y < m) {
-  if (x < n && y < m && vecchie[x].k === nuove[y].k) { x++; y++; continue; }
+  if (abbinate(x, y)) { coppie.push([x, y]); x++; y++; continue; }
   const c = { i1: x, j1: y };
-  while ((x < n || y < m) && !(x < n && y < m && vecchie[x].k === nuove[y].k)) {
+  while ((x < n || y < m) && !abbinate(x, y)) {
     if (y >= m || (x < n && L[x + 1][y] >= L[x][y + 1])) x++; else y++;
   }
   c.i2 = x; c.j2 = y;
@@ -34,6 +45,22 @@ while (x < n || y < m) {
   if (c.i2 - c.i1 === c.j2 - c.j1) for (let k = 0; k < c.i2 - c.i1; k++) cambi.push({ i1: c.i1 + k, i2: c.i1 + k + 1, j1: c.j1 + k, j2: c.j1 + k + 1 });
   else cambi.push(c);
 }
+// Cambi di sola punteggiatura fra due parole rimaste uguali e vicine: contano come un cambio delle due parole.
+// Davanti a [pause] il programma mette sempre un punto al posto di ? ! …, quindi lì i segni di fine frase non si confrontano;
+// [break] non si confronta perché il programma a volte lo toglie.
+const segni = g => {
+  const s = g.replace(/\[[^\]]*\]/g, '').replace(/[^.!?…,;:]/g, '').replace(/[.…]{2,}/g, p => /…|\.{3}/.test(p) ? '…' : '.');
+  return g.includes('[pause') ? 'P' + s.replace(/[.!?…]/g, '') : s;
+};
+const punti = [];
+for (let k = 1; k < coppie.length; k++) {
+  const [i, j] = coppie[k];
+  if (coppie[k - 1][0] !== i - 1 || coppie[k - 1][1] !== j - 1) continue;
+  if (segni(vecchie[i].g) === segni(piatto.slice(nuove[j - 1].b, nuove[j].a))) continue;
+  const u = punti[punti.length - 1];
+  if (u && u.i2 === i) { u.i2 = i + 1; u.j2 = j + 1; } else punti.push({ i1: i - 1, i2: i + 1, j1: j - 1, j2: j + 1 });
+}
+if (punti.length) { cambi.push(...punti); cambi.sort((a, b) => a.i1 - b.i1 || a.j1 - b.j1); }
 
 // Per ogni cambio cerca un aggancio: la parola uguale a sinistra, nessuna (se si sostituiscono parole)
 // o quella a destra, preferendo quello che resta dentro una sola frase.

@@ -4,11 +4,11 @@ L'ufficiale grasso si chiamava Tullian, e di lui la storia non ricorda altro che
 
 Si fermò al centro della conca, dove poco prima Vaan e Balthier avevano lasciato i tre Seeq, e guardò il pavimento con l'elmo sotto il braccio. C'era sangue. C'erano due bastoni rotti. C'era il Bangaa con la coda spezzata, che non era riuscito a trascinarsi via e che adesso stava immobile, con gli occhi chiusi, fingendo di essere morto con la bravura di chi lo ha già fatto altre volte. Tullian lo spinse con la punta dello stivale. Il Bangaa non si mosse.
 
-«Qui» disse Tullian, voltandosi verso i quattro Bangaa che lo seguivano «non c'è nessun pirata. Ve l'avevo detto. Qui c'è la feccia della guarnigione e qualche ribelle di Rabanastre. I pirati non li mettiamo con la feccia.»
+«Qui» disse Tullian, voltandosi verso i quattro Bangaa che lo seguivano «non c'è nessun aviopirata. Ve l'avevo detto. Qui c'è la feccia della guarnigione e qualche ribelle di Rabanastre. I pirati non li mettiamo con la feccia.»
 
 Il Bangaa con la cicatrice si fece avanti. Era più alto di Tullian di una testa e più largo di due, e lo guardò dall'alto con il labbro tirato.
 
-«Ieri mattina» disse «i vostri soldati hanno portato via da Rabanastre un uomo con il panciotto e una viera. Li ho visti con questi occhi. L'uomo si chiama Balthier. Ha una taglia sulla testa da Balfonheim a Bhujerba, e la taglia è mia. È mia da due anni. Voglio il pirata.»
+«Ieri mattina» disse «i vostri soldati hanno portato via da Rabanastre un uomo con il panciotto e una viera. Li ho visti con questi occhi. L'uomo si chiama Balthier. Ha una taglia sulla testa da Balfonheim a Bhujerba, e la taglia è mia. È mia da due anni. Voglio l'aviopirata.»
 
 Dietro il pilastro mezzo crollato, nell'ombra, Vaan sentì il nome e si voltò verso l'uomo accanto a lui. Balthier aveva chiuso gli occhi. Teneva la testa appoggiata alla pietra, con un'espressione di sofferenza profonda e composta, come un attore che sente sbagliare la sua battuta da un collega.
 
@@ -144,9 +144,9 @@ Vaan non ce l'aveva. Lo disse.
 
 Prima, però, le armi.
 
-Le trovarono in una stanza che Balthier riconobbe dalla porta. Era una porta di ferro, in un corridoio laterale che saliva verso i livelli della guarnigione, con un catenaccio tirato e una targa di ottone avvitata sopra, in archadiano. Balthier la lesse ad alta voce, con una certa delizia.
+Le trovarono in una stanza che Balthier riconobbe dalla porta. Era una porta di ferro, in un corridoio laterale che saliva verso i livelli della guarnigione, con un catenaccio tirato e una targa di ottone avvitata sopra. Balthier la lesse ad alta voce, con una certa delizia.
 
-«Deposito dei beni sequestrati ai detenuti in attesa di giudizio.» Si voltò verso gli altri. «Non è stupendo? Che nome elegante. Che lunghezza. Che senso dello Stato.» Toccò il catenaccio. «Nella mia lingua, che è molto più povera, una stanza piena di cose prese a gente che non può protestare si chiama in un altro modo.»
+«Deposito dei beni sequestrati ai detenuti in attesa di giudizio.» Si voltò verso gli altri. «Non è stupendo? Che nome elegante. Che lunghezza. Che senso dello Stato.» Toccò il catenaccio. «Nel mio dialetto, che è molto più povero, una stanza piena di cose prese a gente che non può protestare si chiama in un altro modo.»
 
 «Come?» chiese Vaan.
 

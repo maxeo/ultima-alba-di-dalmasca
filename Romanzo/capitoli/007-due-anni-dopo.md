@@ -16,7 +16,7 @@ Quella mattina, nel tratto di fogna sotto la via dei Calderai, le code ancora at
 
 «Chi vuoi che arrivi? Qui sotto non ci viene nessuno. Per questo i topi sono così grossi.»
 
-Erano grossi davvero. I topi delle fogne di Rabanastre mangiano quello che la città butta via, e una città che ha perso una guerra butta via meno di prima ma butta via cose più strane, e i topi si erano adattati. Quei tre arrivavano al ginocchio. Giravano attorno a Vaan sull'orlo dello scolo, a distanza di una spada e mezzo, perché avevano capito qualcosa sulla lunghezza della spada; erano topi che avevano già incontrato altri ragazzi. Vaan teneva la lama bassa e la testa un poco di lato, per abitudine, perché sopra l'orecchio sinistro gli cresceva una ciocca bionda più lunga delle altre che gli cadeva sugli occhi; era lì da due anni, da quando suo fratello aveva provato a tagliargli i capelli con le forbici delle corde e aveva promesso, ridendo, di farla sistemare dal barbiere al ritorno. Vaan non l'aveva mai fatta tagliare. La spada era corta, da soldato, con l'impugnatura fasciata di cuoio nuovo sopra il cuoio vecchio, e lui la usava con una sicurezza che non veniva da nessun maestro: due anni di topi, di cani randagi, di bastoni contro un palo nel cortile di Migelo, quando Migelo non guardava.
+Erano grossi davvero. I topi delle fogne di Rabanastre mangiano quello che la città butta via, e una città che ha perso una guerra butta via meno di prima ma butta via cose più strane, e i topi si erano adattati. Quei tre arrivavano al ginocchio. Giravano attorno a Vaan sull'orlo dello scolo, a distanza di una spada e mezza, perché avevano capito qualcosa sulla lunghezza della spada; erano topi che avevano già incontrato altri ragazzi. Vaan teneva la lama bassa e la testa un poco di lato, per abitudine, perché sopra l'orecchio sinistro gli cresceva una ciocca bionda più lunga delle altre che gli cadeva sugli occhi; era lì da due anni, da quando suo fratello aveva provato a tagliargli i capelli con le forbici delle corde e aveva promesso, ridendo, di farla sistemare dal barbiere al ritorno. Vaan non l'aveva mai fatta tagliare. La spada era corta, da soldato, con l'impugnatura fasciata di cuoio nuovo sopra il cuoio vecchio, e lui la usava con una sicurezza che non veniva da nessun maestro: due anni di topi, di cani randagi, di bastoni contro un palo nel cortile di Migelo, quando Migelo non guardava.
 
 Sotto la camicia, la spilla azzurra di Reks gli batteva sullo sterno, appesa a un laccio infilato nella chiusura. Vaan l'aveva staccata dalla giubba del fratello al ritorno da Nalbina; lo spillo storto non teneva più. Strinse la fascia rossa in vita e tornò a guardare i topi.
 
@@ -62,7 +62,7 @@ I soldati erano la cosa che si notava per ultima, ed era questo, forse, il cambi
 
 Sopra la porta del palazzo reale sventolava lo stendardo di Archadia, nero e oro. Al posto dell'azzurro e del bianco. Lo si vedeva da quasi tutta la città alta, e anche questo, col tempo, si era smesso di guardarlo.
 
-Vaan attraversò il mercato di Muthru con una pesca in mano. Questa l'aveva pagata: aveva lasciato due coppe sul banco della vedova Hanna, la fruttivendola con il fazzoletto giallo, che le aveva prese senza guardarlo e senza ringraziare, perché Vaan aveva un conto aperto con lei da un certo pomeriggio di tre anni prima e il conto, secondo lei, non si sarebbe chiuso mai. Il mercato era pieno. C'erano Huma e Bangaa, c'erano Seeq che contrattavano con la voce nasale della loro gente, c'erano due moguri che vendevano carta da lettere e penne e che litigavano fra loro in un modo così cortese che sembrava un complimento. I tappeti erano stesi sotto le tende, le spezie nei sacchi aperti, le lame appese per il manico ai pali dei banchi del vicolo dei fabbri. Si contrattava come si era sempre contrattato, a voce alta, con gli occhi al cielo e le mani sul cuore, e chi non sapeva nulla di guerre avrebbe giurato che a Rabanastre non fosse successo niente.
+Vaan attraversò il mercato di Muthru con una pesca in mano. Questa l'aveva pagata: aveva lasciato due coppe sul banco della vedova Hanna, la fruttivendola con il fazzoletto giallo, che le aveva prese senza guardarlo e senza ringraziare, perché Vaan aveva un conto aperto con lei da una certa mattina di due anni prima e il conto, secondo lei, non si sarebbe chiuso mai. Il mercato era pieno. C'erano Huma e Bangaa, c'erano Seeq che contrattavano con la voce nasale della loro gente, c'erano due moguri che vendevano carta da lettere e penne e che litigavano fra loro in un modo così cortese che sembrava un complimento. I tappeti erano stesi sotto le tende, le spezie nei sacchi aperti, le lame appese per il manico ai pali dei banchi del vicolo dei fabbri. Si contrattava come si era sempre contrattato, a voce alta, con gli occhi al cielo e le mani sul cuore, e chi non sapeva nulla di guerre avrebbe giurato che a Rabanastre non fosse successo niente.
 
 Al banco di Sahra successe qualcosa.
 
@@ -108,9 +108,9 @@ Vaan proseguì, sempre guardando le stoffe. Contò fra sé, senza muovere le lab
 
 «La borsa!»
 
-Al sette il soldato se n'era accorto. Era un soldato sveglio, almeno su questo. Vaan non si voltò a vederlo. Sentì il grido e sentì i passi pesanti che partivano, e partì anche lui, e la differenza fra un soldato archadiano in armatura e un ragazzo della Città Bassa in sandali, sulle pietre storte della via dei Tessitori, è una cosa che a Rabanastre si poteva misurare in palmi, e ogni volta i palmi erano di più.
+Al sette il soldato se n'era accorto. Era un soldato sveglio, almeno su questo. Vaan non si voltò a vederlo. Sentì il grido e sentì i passi pesanti che partivano, e partì anche lui, e la differenza fra un soldato archadiano in armatura e un ragazzo della Città Bassa in sandali, sulle pietre storte della via dei Tessitori, era una cosa che a Rabanastre si poteva misurare in palmi, e ogni volta i palmi erano di più.
 
-Sgusciò sotto un telo di cotone giallo. Saltò un cesto di matasse. Girò a destra nel vicolo del tintore, dove l'acqua delle vasche colava per terra in rivoli blu e rossi, e scivolò di proposito, sapendo come si scivolava lì; dietro di lui il soldato scivolò senza saperlo e finì con un ginocchio nell'indaco. Le voci dei due imperiali si alzarono e poi si spezzarono contro un ostacolo: la moglie del tintore, che usciva proprio allora dalla bottega con una tinozza in braccio e si fermava in mezzo al vicolo, spaventatissima, scusandosi in tre lingue e senza spostarsi di un passo. Al fondo del vicolo un vecchio seduto su uno sgabello allungò distrattamente un bastone attraverso la strada, per stirarsi una gamba. Nessuno, a Rabanastre, aveva mai aiutato Vaan a scappare. Gli ostacoli, semplicemente, si trovavano dove si trovavano.
+Sgusciò sotto un telo di cotone giallo. Saltò un cesto di matasse. Girò a destra nel vicolo del tintore, dove l'acqua delle vasche colava per terra in rivoli blu e rossi, e scivolò di proposito, sapendo come si scivolava lì; dietro di lui il soldato scivolò senza saperlo e finì con un ginocchio nell'indaco. Le voci dei due imperiali si alzarono e poi si spezzarono contro un ostacolo: la moglie del tintore, che usciva proprio allora dalla bottega con una tinozza in braccio e si fermava in mezzo al vicolo, spaventatissima, scusandosi in tre dialetti e senza spostarsi di un passo. Al fondo del vicolo un vecchio seduto su uno sgabello allungò distrattamente un bastone attraverso la strada, per stirarsi una gamba. Nessuno, a Rabanastre, aveva mai aiutato Vaan a scappare. Gli ostacoli, semplicemente, si trovavano dove si trovavano.
 
 Quando arrivò alla scalinata che scende verso la Città Bassa, le voci erano lontane. Si fermò dietro un muro, nell'ombra, con il fiato corto e la borsa in mano. Era di cuoio buono, archadiano, con le cuciture fatte a macchina. Pesava bene.
 
@@ -136,7 +136,7 @@ Penelo aveva diciassette anni, i capelli biondi raccolti in due codini legati co
 
 «Mi impiccano in piazza e poi tu vieni a portarmi i fiori.»
 
-«Ti mettono in una cella a Nalbina e non ti vede più nessuno.» Lo disse senza alzare la voce, e Vaan smise di sorridere. Quella parola, a Rabanastre, aveva ancora il potere di far smettere di sorridere. «E dopo chi ci va a liberare i condotti dai topi? Chi ruba le pesche alla vedova Hanna e poi gliele paga tre anni dopo?»
+«Ti mettono in una cella a Nalbina e non ti vede più nessuno.» Lo disse senza alzare la voce, e Vaan smise di sorridere. Quella parola, a Rabanastre, aveva ancora il potere di far smettere di sorridere. «E dopo chi ci va a liberare i condotti dai topi? Chi ruba le pesche alla vedova Hanna e poi gliele paga due anni dopo?»
 
 «Non sono affari tuoi.»
 
@@ -166,7 +166,7 @@ Vaan aprì la bocca. La richiuse. Era una di quelle volte, rare ma non abbastanz
 
 «Più gli interessi. Più il fatto che il popolo sono io, quando sto al banco, e il banco non è mio.» Si strofinò le mani infarinate sul grembiule. «Migelo è buono, Vaan. Ma non è scemo. Se continui a prendere pane come se il forno fosse tuo, un giorno se ne accorge, e non dirà niente, e sarà peggio.»
 
-Vaan non rispose. Soppesò la borsa, se la mise alla cintura accanto alle code di topo, e per un momento, uno solo, ebbe sulla faccia un'espressione che non era quella del ragazzo che ride da solo dietro un muro. Lo sapeva. Lo sapeva anche lui che non poteva continuare così: pesche pagate tre anni dopo, pane preso e non pagato, il soldo di un soldato rubato in una via di tintori. Non gli piaceva rubare. Non gli piaceva nemmeno non rubare, e chiedere, e ringraziare. Ogni volta che Migelo gli metteva in mano un lavoretto, ogni volta che Penelo gli lasciava una focaccia sul davanzale, sentiva una cosa che non avrebbe saputo nominare e che assomigliava a una corda. Una corda gentile. Una corda di cui avrebbe dovuto essere grato, e lo era, e che lo legava comunque a quel quartiere, a quelle strade, a quella stanza sopra la bottega dove dormiva ancora, e dove dormiva male.
+Vaan non rispose. Soppesò la borsa, se la mise alla cintura accanto alle code di topo, e per un momento, uno solo, ebbe sulla faccia un'espressione che non era quella del ragazzo che ride da solo dietro un muro. Lo sapeva. Lo sapeva anche lui che non poteva continuare così: pesche pagate due anni dopo, pane preso e non pagato, il soldo di un soldato rubato in una via di tintori. Non gli piaceva rubare. Non gli piaceva nemmeno non rubare, e chiedere, e ringraziare. Ogni volta che Migelo gli metteva in mano un lavoretto, ogni volta che Penelo gli lasciava una focaccia sul davanzale, sentiva una cosa che non avrebbe saputo nominare e che assomigliava a una corda. Una corda gentile. Una corda di cui avrebbe dovuto essere grato, e lo era, e che lo legava comunque a quel quartiere, a quelle strade, a quella stanza sopra la bottega dove dormiva ancora, e dove dormiva male.
 
 Un'ombra attraversò la piazza.
 
@@ -184,11 +184,11 @@ Vaan la seguì con gli occhi finché fu un punto, e poi anche dopo.
 
 «Lo so, Vaan.»
 
-«Non devo chiedere il permesso a nessuno. Né a Migelo, né agli imperiali, né alle guardie della Porta Est. Prendo e vado. Su, sopra le nuvole. Giù a Bhujerba, su ad Archades se mi va, e se non mi va non ci vado. Nessuno sa dove sono. Nessuno mi cerca.» Si accorse di aver detto l'ultima frase e se ne pentì subito, perché non era quella che voleva dire. «Un pirata dei cieli. Ecco cosa faccio.»
+«Non devo chiedere il permesso a nessuno. Né a Migelo, né agli imperiali, né alle guardie della Porta Est. Prendo e vado. Su, sopra le nuvole. Giù a Bhujerba, su ad Archades se mi va, e se non mi va non ci vado. Nessuno sa dove sono. Nessuno mi cerca.» Si accorse di aver detto l'ultima frase e se ne pentì subito, perché non era quella che voleva dire. «Un aviopirata. Ecco cosa faccio.»
 
 Penelo aveva sentito quel discorso tante volte che avrebbe potuto recitarlo al posto suo, con le pause giuste. Lo lasciò finire. Poi guardò il punto dove l'aeronave era sparita, e per un momento, un momento solo, sembrò che ci pensasse anche lei.
 
-«I pirati dei cieli» disse «non stanno nelle celle di Nalbina. È una delle poche cose che so di loro.»
+«I pirati del cielo» disse «non stanno nelle celle di Nalbina. È una delle poche cose che so di loro.»
 
 «Non ci finirò, a Nalbina.»
 

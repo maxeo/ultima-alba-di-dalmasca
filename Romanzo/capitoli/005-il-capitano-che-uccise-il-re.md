@@ -1,4 +1,4 @@
-## 5. Il capitano che uccise il re
+## 5. L'uomo che uccise il re
 
 Il primo che arrivò era più basso di lui. Reks lo notò perché si era preparato a guardare in alto, e invece si trovò davanti un elmo all'altezza dei propri occhi, con la celata alzata e dentro una faccia giovane, rasata male, che respirava con la bocca. Si guardarono per un istante. Poi l'archadiano attaccò, e Reks fece quello che gli era stato detto: non gli andò incontro, tenne la schiena contro il muro, lasciò che fosse l'altro a venire, e quando l'altro venne gli mise la spada sotto lo scudo, dove la cotta finisce e comincia la coscia.
 
@@ -14,11 +14,11 @@ Si erano ritirati. O erano andati a cercare un'altra strada.
 
 L'archadiano che si muoveva era il primo, quello basso con la faccia rasata male. Si era trascinato fino al muro di fronte e ci si era appoggiato con la schiena, tenendosi la coscia con le mani, e guardava Reks con gli occhi di un cane che non sa se verrà bastonato. Aveva perso l'elmo. Senza l'elmo dimostrava sedici anni, forse meno. Aveva i capelli rossicci tagliati cortissimi, alla maniera delle reclute, e una lentiggine grande sulla guancia sinistra, e le labbra bianche.
 
-Disse qualcosa in archadiano. Reks non capì. Lo ripeté, più piano, e questa volta fece con la mano il gesto di bere.
+Disse qualcosa in un dialetto archadiano così stretto che Reks non capì. Lo ripeté, più piano, e questa volta fece con la mano il gesto di bere.
 
 Reks rimase a guardarlo per un tempo che non avrebbe saputo misurare. Poi slacciò dalla cintura la fiaschetta di Migelo, quella del vino delle Pianure, la stappò con i denti e attraversò il corridoio scavalcando i morti. Si inginocchiò accanto al ragazzo archadiano, tenendo la spada nella destra, e con la sinistra gli avvicinò la fiaschetta alla bocca. L'altro bevve. Tossì, perché era vino e non acqua, e bevve ancora.
 
-«Grazie» disse, in un dalmasco stentato, l'unica parola che probabilmente conosceva.
+«Grazie» disse, con la stessa cadenza stretta, e questa volta Reks capì.
 
 Reks annuì. Si rialzò. Gli lasciò la fiaschetta in grembo, perché a lui, pensò, sarebbe servita di più. Poi si accorse di avere le guance bagnate, e non avrebbe saputo dire da quando, e se le asciugò con il dorso della mano sporca.
 
@@ -34,7 +34,7 @@ Era una scala a chiocciola, senza luce, e Reks la salì tenendo la mano sinistra
 
 Gli appartamenti dove l'Impero aveva alloggiato il re di Dalmasca erano quelli del vecchio governatore della fortezza: tre stanze in fila, con i soffitti a volta e le finestre strette che davano sul deserto. Reks entrò nella prima dalla porta di servizio, quella da cui era passato il capitano, e la prima cosa che vide fu Orren.
 
-Il cavaliere anziano era seduto per terra contro il muro, accanto alla porta, con le gambe distese davanti a sé e la spada in grembo. Aveva gli occhi aperti. Aveva sul petto una ferita larga come una mano, e la giubba azzurra, lì, era diventata nera. Sembrava che si fosse seduto a riposare un momento dopo una lunga marcia, e che si fosse dimenticato di rialzarsi. Reks si chinò su di lui e lo chiamò per nome. Orren non rispose. Reks gli toccò la spalla, piano, come si sveglia qualcuno che ha diritto di dormire, e la spalla era ancora calda, e la testa del vecchio si piegò di lato contro il muro. Soltanto allora Reks capì. Restò accovacciato lì davanti per qualche respiro, senza sapere che cosa si fa. All'addestramento non lo avevano detto. Alla fine gli chiuse gli occhi con due dita, come aveva visto fare a sua madre con suo padre, tre anni prima, nella stanza della febbre, e si stupì che le palpebre fossero così leggere.
+Il cavaliere anziano era seduto per terra contro il muro, accanto alla porta, con le gambe distese davanti a sé e la spada in grembo. Aveva gli occhi aperti. Aveva sul petto una ferita larga come una mano, e la giubba azzurra, lì, era diventata nera. Sembrava che si fosse seduto a riposare un momento dopo una lunga marcia, e che si fosse dimenticato di rialzarsi. Reks si chinò su di lui e lo chiamò per nome. Orren non rispose. Reks gli toccò la spalla, piano, come si sveglia qualcuno che ha diritto di dormire, e la spalla era ancora calda, e la testa del vecchio si piegò di lato contro il muro. Soltanto allora Reks capì. Restò accovacciato lì davanti per qualche respiro, senza sapere che cosa si fa. All'addestramento non lo avevano detto. Alla fine gli chiuse gli occhi con due dita, come aveva visto fare a sua madre con suo padre, tre anni prima, nella stanza della peste, e si stupì che le palpebre fossero così leggere.
 
 Gli altri erano nella seconda stanza. Reks li contò senza volerlo, perché gli era rimasta l'abitudine di contarli da quando, nel corridoio, erano diventati nove: uno vicino al camino, due sotto la finestra, uno a faccia in giù in mezzo al pavimento, con il braccio piegato in un modo che le braccia non hanno. Cinque, con Orren. Andò da ciascuno. Li girò, quelli che erano girati, e guardò le loro facce alla luce che veniva dalla terza stanza, una dopo l'altra, con il cuore che gli batteva in gola, perché aveva paura di trovarne una. Non la trovò. Erano uomini che conosceva di vista, dalla caserma: il sergente che russava, quello che giocava a dadi con Orren e perdeva sempre, un cavaliere giovane di Nalbina che quella sera, nelle cisterne, gli aveva prestato una cinghia. Nessuno era il capitano. Mancavano due cavalieri, e mancava il capitano, e Reks si rialzò con un sollievo così grande che se ne vergognò davanti ai morti. Non c'erano archadiani. Non ce n'era nemmeno uno, morto o vivo, in tutta la stanza. Reks lo notò e non seppe che cosa farne.
 
@@ -64,7 +64,7 @@ Era la voce del capitano. Era la voce che nel corridoio gli aveva chiesto quanti
 
 Raminas scosse la testa, piano.
 
-«Ho comprato del tempo» disse. «Pagandolo caro. È diverso, anche se capisco che da dove stai tu non si veda la differenza.» Guardò il foglio sotto la sua mano. «Qui c'è scritto che Dalmasca resta Dalmasca, con un governatore archadiano e le sue tasse e le sue guarnigioni. C'è scritto che le cisterne restano nostre, e i templi, e la lingua. C'è scritto che nessuno verrà impiccato per aver combattuto a Nalbina. Sono cose piccole. Un re che non può più vincere compra cose piccole. Le compra una per una, e se ne trova abbastanza, un giorno forse si ricompone qualcosa di grande.» Alzò gli occhi. «Tu queste cose le hai lette? O ti hanno soltanto detto che c'era un foglio?»
+«Ho comprato del tempo» disse. «Pagandolo caro. È diverso, anche se capisco che da dove stai tu non si veda la differenza.» Guardò il foglio sotto la sua mano. «Qui c'è scritto che Dalmasca resta Dalmasca, con un governatore archadiano e le sue tasse e le sue guarnigioni. C'è scritto che le cisterne restano nostre, e i templi, e le usanze. C'è scritto che nessuno verrà impiccato per aver combattuto a Nalbina. Sono cose piccole. Un re che non può più vincere compra cose piccole. Le compra una per una, e se ne trova abbastanza, un giorno forse si ricompone qualcosa di grande.» Alzò gli occhi. «Tu queste cose le hai lette? O ti hanno soltanto detto che c'era un foglio?»
 
 Il cavaliere non rispose. Raminas sospirò, come sospira un vecchio che ha visto troppi giovani convinti. Prese il bastone. Lo puntò contro il pavimento e, con uno sforzo che gli fece tremare il braccio, si alzò dalla sedia. Era più piccolo, in piedi, di quanto Reks avesse pensato. Si raddrizzò quanto poteva. «Ecco. Non mi va di farlo seduto. Un re dovrebbe almeno stare in piedi.»
 
@@ -126,7 +126,7 @@ Gli stivali si allontanarono di qualche passo. Si fermarono accanto al re.
 
 Dopo, ci furono rumori.
 
-Passi, molti, che entravano dalla porta principale della terza stanza, quella che Reks non aveva visto. Armature. Voci in archadiano, una lingua che Reks conosceva soltanto per le bestemmie dei soldati di guarnigione al mercato, e che adesso gli arrivava ovattata, da lontano, come attraverso una parete d'acqua. Una voce più alta delle altre, che dava ordini.
+Passi, molti, che entravano dalla porta principale della terza stanza, quella che Reks non aveva visto. Armature. Voci con l'accento archadiano, quello che Reks conosceva soltanto per le bestemmie dei soldati di guarnigione al mercato. Adesso gli arrivavano ovattate, da lontano, come attraverso una parete d'acqua. Una voce più alta delle altre, che dava ordini.
 
 «Arrestatelo.»
 
@@ -134,7 +134,7 @@ Qualcuno si mosse sopra di lui. Ci fu un rumore di ferro, e poi la voce del capi
 
 «Il re ha tradito Dalmasca! Ha venduto il suo popolo! Dalmasca non si inginocchierà mai davanti all'Impero, mai, finché ci sarà un solo uomo...»
 
-«La guerra è finita.» La voce degli ordini non si era alzata. Parlava in dalmasco, con un accento pulito e una certa soddisfazione. «Dalmasca l'ha persa stanotte, per mano di un suo capitano. Avremmo potuto lasciarle qualcosa. Ora non le lasceremo niente. E il nome di Basch fon Ronsenburg lo maledirà ogni bocca del regno.»
+«La guerra è finita.» La voce degli ordini non si era alzata. Parlava con un accento dalmasco pulito e una certa soddisfazione. «Dalmasca l'ha persa stanotte, per mano di un suo capitano. Avremmo potuto lasciarle qualcosa. Ora non le lasceremo niente. E il nome di Basch fon Ronsenburg lo maledirà ogni bocca del regno.»
 
 Reks voleva alzare la testa. Voleva guardare. Non ci riuscì. Riusciva a vedere soltanto, a una spanna dal proprio viso, il pomo d'argento del bastone del re, consumato dalla mano, che rifletteva la luce delle candele, e oltre il pomo, sfocato, il bordo del panno verde che pendeva dal tavolo e gocciolava inchiostro.
 

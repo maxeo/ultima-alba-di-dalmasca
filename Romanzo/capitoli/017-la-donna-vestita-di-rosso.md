@@ -44,7 +44,7 @@ Lei lo guardò. Aveva gli occhi azzurri, di un azzurro chiaro e duro, e lo guard
 
 Si girò. Balthier si era allontanato di qualche passo e stava esaminando con grande interesse una delle ruote dentate appese al muro, con le mani dietro la schiena, come un visitatore in un museo. Non si voltò. Fran era accanto a lui e guardava la donna, invece, con gli occhi rossi socchiusi.
 
-«...Balthier e Fran» finì Vaan. «Sono pirati.»
+«...Balthier e Fran» finì Vaan. «Sono aviopirati.»
 
 «Grazie, ragazzo» disse Balthier alla ruota dentata. «Grazie davvero. La discrezione è una virtù che si impara col tempo.»
 

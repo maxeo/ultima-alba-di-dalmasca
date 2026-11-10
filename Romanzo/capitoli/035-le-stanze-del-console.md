@@ -36,7 +36,7 @@ Drace non riprese la lettera. «Vuole sapere perché la guarnigione di Rabanastr
 
 «Ghis lo ha ritrovato.»
 
-«Ghis lo ha ritrovato ieri, davanti a una miniera, dopo che il ragazzo era sceso da solo, con un nome falso, in mezzo a dei pirati, fino al settimo livello di Lhusu.» Drace si alzò. Non lo fece in fretta, ma tutto il suo corpo si alzò insieme, come se non avesse aspettato altro. «Ha dodici anni. Gli ho insegnato io a tenere una spada. Lo so di che cosa è capace. È capace di tutto, ed è proprio per questo che non deve andare in giro da solo in un paese che non è il suo, con il nome dei Solidor cucito sui bottoni.»
+«Ghis lo ha ritrovato ieri, davanti a una miniera, dopo che il ragazzo era sceso da solo, con un nome falso, in mezzo a dei pirati del cielo, fino al settimo livello di Lhusu.» Drace si alzò. Non lo fece in fretta, ma tutto il suo corpo si alzò insieme, come se non avesse aspettato altro. «Ha dodici anni. Gli ho insegnato io a tenere una spada. Lo so di che cosa è capace. È capace di tutto, ed è proprio per questo che non deve andare in giro da solo in un paese che non è il suo, con il nome dei Solidor cucito sui bottoni.»
 
 «Il nome dei Solidor lo protegge.»
 

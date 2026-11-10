@@ -10,7 +10,7 @@ Teneva qualcosa in mano. Glielo porse sul palmo aperto, con un piccolo inchino, 
 
 Al suo posto c'era Vaan. Stava nello stesso punto, nella stessa luce, con la giubba aperta sporca di sabbia e i capelli in disordine, e la guardava con l'espressione di chi è entrato in una stanza sbagliata e non sa se scusarsi. Non disse niente. Lei nemmeno.
 
-Si svegliò con la mano chiusa a pugno sul petto. Dentro il pugno c'era l'anello, largo come sempre, che di notte le scivolava fino alla nocca, e che lei la sera si legava al dito con un filo di cotone e la mattina slegava prima che qualcuno la vedesse.
+Si svegliò con la mano chiusa a pugno sul petto. Dentro il pugno c'era l'anello.
 
 ---
 

@@ -36,7 +36,7 @@ Vaan si girò verso di lei, pronto a litigare. Ma la viera non aveva detto la fr
 
 Vaan aprì la bocca per dire che lui non aveva guardato nessuno, e la richiuse, perché era vero il contrario e Fran lo sapeva. Si voltò verso Balthier per avere man forte, e Balthier aveva un'espressione molto divertita e niente affatto disposta ad aiutarlo.
 
-«Fran conosce le persone meglio di chiunque» disse il pirata. «È un talento che la rende insopportabile alle feste.»
+«Fran conosce le persone meglio di chiunque» disse l'aviopirata. «È un talento che la rende insopportabile alle feste.»
 
 «E tu come fai a sapere dei bottoni?» chiese Vaan, che aveva trovato un altro bersaglio. «Dei figli cadetti e il fiore all'ingiù. Come fai a sapere queste cose?»
 

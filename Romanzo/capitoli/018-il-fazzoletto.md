@@ -1,8 +1,8 @@
 # Parte II. Le segrete e il traditore
 
-*Del capitano Basch fon Ronsenburg ho scritto altrove, e non intendo ripetermi. Basti ricordare che fu processato dal tribunale militare della guarnigione di Nalbina nell'autunno del 704, riconosciuto colpevole dell'assassinio di re Raminas e giustiziato pochi giorni dopo la sentenza. Non assistetti all'esecuzione. Ne ebbi notizia da un dispaccio ufficiale, che conservo, e non ho motivo di dubitare di quanto vi si legge.*
+*Del capitano Basch fon Ronsenburg ho scritto altrove, e non intendo ripetermi. Basti ricordare che fu processato dal tribunale militare della guarnigione di Nalbina nella primavera del 704, riconosciuto colpevole dell'assassinio di re Raminas e giustiziato prima ancora che la sentenza fosse letta in pubblico. Non assistetti all'esecuzione. Ne ebbi notizia da un dispaccio ufficiale, che conservo, e non ho motivo di dubitare di quanto vi si legge.*
 
-*Mi si è chiesto più volte, negli anni seguenti, perché il marchese di Bhujerba non abbia mai preso pubblicamente la parola su quella vicenda. La risposta è semplice, e chi conosce il mestiere del governo la troverà ovvia: vi sono morti di cui è prudente non parlare, perché parlarne non li riporterebbe in vita e potrebbe costare la vita ad altri. Ho scelto la prudenza. Non me ne vanto, e non me ne scuso.*
+*Mi si è chiesto più volte, negli anni seguenti, perché il marchese di Bhujerba, dando quella notizia, non vi abbia mai aggiunto una parola di suo. La risposta è semplice, e chi conosce il mestiere del governo la troverà ovvia: vi sono morti di cui è prudente non parlare, perché parlarne non li riporterebbe in vita e potrebbe costare la vita ad altri. Ho scelto la prudenza. Non me ne vanto, e non me ne scuso.*
 
 *Halim Ondore IV, marchese di Bhujerba, Memorie, libro secondo*
 
@@ -30,7 +30,7 @@ L'ufficiale la guardò come si guarda un cane che abbaia.
 
 «Lo deciderà il tribunale.»
 
-«Il tribunale deciderà quello che gli diranno di decidere. Lo deciderete voi, adesso.» La voce di Amalia era salita di un tono, ed era diventata quella delle chiuse: la voce di qualcuno abituato a ricevere le risposte prima di aver finito la domanda. «Sono un ragazzo, un pirata e una viera. Credete davvero che la Resistenza di Dalmasca recluti pirati?»
+«Il tribunale deciderà quello che gli diranno di decidere. Lo deciderete voi, adesso.» La voce di Amalia era salita di un tono, ed era diventata quella delle chiuse: la voce di qualcuno abituato a ricevere le risposte prima di aver finito la domanda. «Sono un ragazzo, un aviopirata e una viera. Credete davvero che la Resistenza di Dalmasca recluti pirati?»
 
 «Credo che stanotte c'erano molte persone dove non dovevano essere.»
 
@@ -62,7 +62,7 @@ Arrivò al cordone dei soldati e ci sbatté contro.
 
 «Indietro, ragazza.»
 
-«Lui non c'entra niente.» Penelo cercò di infilarsi fra due soldati. Uno la prese per la spalla e la rimise al suo posto, senza violenza, come si rimette a posto una sedia. «Vaan! Ditegli... lui non c'entra. Non è un ribelle. Non sa neanche cosa vuol dire, ribelle. È un ragazzo. È uno che ruba le pesche. Vi prego. È uno che ruba le pesche e poi le paga tre anni dopo.»
+«Lui non c'entra niente.» Penelo cercò di infilarsi fra due soldati. Uno la prese per la spalla e la rimise al suo posto, senza violenza, come si rimette a posto una sedia. «Vaan! Ditegli... lui non c'entra. Non è un ribelle. Non sa neanche cosa vuol dire, ribelle. È un ragazzo. È uno che ruba le pesche. Vi prego. È uno che ruba le pesche e poi le paga due anni dopo.»
 
 Qualcuno nella folla rise, e si zittì subito. La vedova Hanna, con il suo fazzoletto giallo, era in prima fila con una brocca vuota in mano, e non rideva.
 
@@ -84,7 +84,7 @@ Penelo lo fissò. Per un momento parve non capire, e poi capì, e la sua faccia 
 
 «Basta» disse un soldato.
 
-Lo disse in archadiano, una parola sola, e poi alzò il calcio della lancia e lo calò sulla testa di Vaan, di traverso, sopra l'orecchio sinistro. Non lo fece con rabbia. Lo fece come si chiude una porta che sbatte.
+Lo disse con l'accento archadiano, una parola sola, e poi alzò il calcio della lancia e lo calò sulla testa di Vaan, di traverso, sopra l'orecchio sinistro. Non lo fece con rabbia. Lo fece come si chiude una porta che sbatte.
 
 Vaan cadde. Cadde in avanti, sulle ginocchia, e poi di lato, con le mani legate che non potevano fermarlo, e la testa batté sulla pietra del cortile, e lui non sentì più niente.
 
@@ -118,7 +118,7 @@ Balthier, già fra i soldati, già quasi in mezzo alla colonna che si formava pe
 
 La viera, dietro di lui, girò la testa verso Penelo. Non disse niente. Ma le sue orecchie si inclinarono un poco in avanti, appena, e Penelo, senza sapere perché, ebbe l'impressione che fosse il suo modo di dire che era vero.
 
-Poi la colonna partì. Due soldati sollevarono Vaan per le braccia e lo trascinarono, con la testa che gli ciondolava e i piedi che strisciavano sulla pietra del cortile; Amalia camminava dritta davanti a lui, senza voltarsi, e Penelo vide che teneva la mano sinistra chiusa a pugno contro il fianco, anche legata, anche così. Il pirata camminava fischiettando. La viera camminava senza fare rumore. Uscirono dal cortile per la via che sale verso la Porta Est, e la folla si aprì per lasciarli passare, e si richiuse dietro di loro, e cominciò a parlare.
+Poi la colonna partì. Due soldati sollevarono Vaan per le braccia e lo trascinarono, con la testa che gli ciondolava e i piedi che strisciavano sulla pietra del cortile; Amalia camminava dritta davanti a lui, senza voltarsi, e Penelo vide che teneva la mano sinistra chiusa a pugno contro il fianco, anche legata, anche così. L'aviopirata camminava fischiettando. La viera camminava senza fare rumore. Uscirono dal cortile per la via che sale verso la Porta Est, e la folla si aprì per lasciarli passare, e si richiuse dietro di loro, e cominciò a parlare.
 
 Penelo rimase dov'era, a piedi nudi sulla pietra, con il fazzoletto di un pirata in mano. Lo guardò. La F nell'angolo la guardò a sua volta, con tutti i suoi riccioli. Si chiese, per un momento, di chi fosse quella lettera, su un fazzoletto di un uomo che non le aveva detto il suo nome.
 
@@ -136,7 +136,7 @@ Non tutti, quella mattina, avevano guardato la colonna con gli stessi occhi.
 
 In fondo al cortile, all'imbocco di un vicolo che scendeva verso la cisterna vecchia, due Bangaa stavano appoggiati al muro all'ombra, con le braccia incrociate e i mantelli da viaggio ancora coperti di polvere. Erano grossi, con le squame grigio-verdi e le zanne lunghe, e portavano alla cintura armi che a Rabanastre non si vedevano spesso, nemmeno addosso ai soldati: lame curve, ricurve due volte, e una specie di balestra corta con il calcio fasciato di cuoio. Uno dei due, il più grosso e il più vecchio, aveva sul muso una cicatrice che gli tirava il labbro all'insù da un lato, così che sembrava sempre sul punto di ridere di qualcosa che non era divertente.
 
-«È lui» disse il più giovane. Parlava troppo e troppo in fretta, con la voce sibilante della sua gente. «Hai visto, capo? È lui. Il pirata. Quello del manifesto. Te l'avevo detto, che era a Rabanastre. Te l'avevo detto ieri, alla Sandsea, quando quel moguri...»
+«È lui» disse il più giovane. Parlava troppo e troppo in fretta, con la voce sibilante della sua gente. «Hai visto, capo? È lui. L'aviopirata. Quello del manifesto. Te l'avevo detto, che era a Rabanastre. Te l'avevo detto ieri, alla Sandsea, quando quel moguri...»
 
 «Bwagi.»
 

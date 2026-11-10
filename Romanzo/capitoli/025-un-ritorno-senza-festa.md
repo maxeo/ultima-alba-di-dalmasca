@@ -12,7 +12,7 @@ Il capitano guardò la pattuglia che attraversava il mercato. Aveva contato gli 
 
 «Almeno lascia che siano gli altri a scoprirlo.»
 
-Basch ringraziò Fran, poi Balthier. Fece un piccolo inchino a entrambi, e il pirata accolse il gesto con una gravità insolita. Quando si voltò verso Vaan, il ragazzo stava guardando un carretto di cipolle. Ne avevano appena scaricate altre. C'era una quantità irritante di cipolle in una città che avrebbe dovuto fare posto ad altri pensieri.
+Basch ringraziò Fran, poi Balthier. Fece un piccolo inchino a entrambi, e l'aviopirata accolse il gesto con una gravità insolita. Quando si voltò verso Vaan, il ragazzo stava guardando un carretto di cipolle. Ne avevano appena scaricate altre. C'era una quantità irritante di cipolle in una città che avrebbe dovuto fare posto ad altri pensieri.
 
 «Vorrei sapere dove riposa tuo fratello» disse Basch.
 
@@ -42,7 +42,7 @@ Vaan tirò fuori la pietra da sotto la camicia. Alla luce del pomeriggio sembrav
 
 Vaan la rimise subito al sicuro. «Non ve la stavo dando.»
 
-«Me ne ero accorto. Sei generoso con le domande, molto meno con le risposte.» Balthier indicò la salita verso la Sandsea. «Restiamo a Rabanastre ancora un poco. Se dovessero chiederti di due pirati, non li conosci.»
+«Me ne ero accorto. Sei generoso con le domande, molto meno con le risposte.» Balthier indicò la salita verso la Sandsea. «Restiamo a Rabanastre ancora un poco. Se dovessero chiederti di due aviopirati, non li conosci.»
 
 «E se chiedo io?»
 

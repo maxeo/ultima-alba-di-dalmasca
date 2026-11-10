@@ -4,7 +4,7 @@ Il primo cavaliere del mare di sabbia non fece rumore. Passò sotto la grata con
 
 «Dobbiamo andare.»
 
-Balthier guardò oltre il serbatoio. Sul ponte successivo due figure stavano già salendo una scala esterna. Le maschere ricordavano ossa di pesce; le vesti avevano il colore del mare e sembravano fatte con la stessa materia che copriva le raffinerie. Una lancia comparve sopra il parapetto. Il pirata la seguì con gli occhi fino alla punta.
+Balthier guardò oltre il serbatoio. Sul ponte successivo due figure stavano già salendo una scala esterna. Le maschere ricordavano ossa di pesce; le vesti avevano il colore del mare e sembravano fatte con la stessa materia che copriva le raffinerie. Una lancia comparve sopra il parapetto. L'aviopirata la seguì con gli occhi fino alla punta.
 
 «Gli Urutan-Yensa» disse. «I padroni di casa.»
 
@@ -110,7 +110,7 @@ Il moguri gli mostrò una direzione, poi prese una manciata di sabbia e la lasci
 
 Ashe si alzò. Vossler fece un passo per parlarle; lei indicò la borraccia appena riempita. «Abbiamo acqua. Abbiamo una strada. Lui no.»
 
-Vossler serrò le labbra. Basch aveva già raccolto la propria sacca. Balthier guardò Fran, la quale prese l'arco. Il pirata sospirò e controllò la carica della pistola.
+Vossler serrò le labbra. Basch aveva già raccolto la propria sacca. Balthier guardò Fran, la quale prese l'arco. L'aviopirata sospirò e controllò la carica della pistola.
 
 ---
 
@@ -196,7 +196,7 @@ Fran ci pensò. «Lo dico a Basch?»
 
 «Basch lo sa già. Non lo vuole sapere. È diverso.» Il pirata si sdraiò sulla roccia con le mani dietro la testa. «Teniamo gli occhi aperti, e le orecchie, e le tue funzionano meglio delle mie. E speriamo di sbagliarci. Mi succede di rado, ma quando succede è sempre una festa.»
 
-Accanto al fuoco, Vossler finì di affilare la spada. La guardò controluce, la rinfoderò, e si voltò verso l'imbocco della cavità, dove i due pirati stavano zitti nel buio. Li guardò per un momento. Poi si stese con la schiena contro la roccia e chiuse gli occhi, e Fran, che lo stava ascoltando respirare, sentì che non dormiva.
+Accanto al fuoco, Vossler finì di affilare la spada. La guardò controluce, la rinfoderò, e si voltò verso l'imbocco della cavità, dove i due aviopirati stavano zitti nel buio. Li guardò per un momento. Poi si stese con la schiena contro la roccia e chiuse gli occhi, e Fran, che lo stava ascoltando respirare, sentì che non dormiva.
 
 ---
 

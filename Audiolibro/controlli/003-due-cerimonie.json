@@ -1,0 +1,20 @@
+{
+ "capitolo": "003-due-cerimonie",
+ "somiglianza": 0.9761,
+ "problemi": [
+  {
+   "tempo": "8:47",
+   "secondi": 527.3,
+   "tipo": "diverso",
+   "testo": "dentro la carne pause2 basch la aspettava fuori dalla",
+   "audio": "dentro la carne bascia l 'aspettava fuori dalla"
+  },
+  {
+   "tempo": "14:29",
+   "secondi": 869.2,
+   "tipo": "in più",
+   "testo": "chiese se stringeva lei disse di",
+   "audio": "e si stringeva. Lei disse di no. Lei disse di"
+  }
+ ]
+}

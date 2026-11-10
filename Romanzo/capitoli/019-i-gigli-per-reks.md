@@ -168,7 +168,7 @@ Balthier si tirò giù le maniche. Prima una, poi l'altra.
 
 ---
 
-Non ebbero il tempo di godersela. Dal corridoio sopra la conca arrivò un rumore che tutti, nella fossa, conoscevano meglio dei propri nomi: stivali ferrati, a passo di marcia, e il tintinnio delle armature, e una voce che dava ordini in archadiano. Gli spettatori sparirono dal bordo come acqua in un tombino. I Seeq a terra si trascinarono via, uno con il naso storto, verso le nicchie. Il Bangaa con la coda spezzata non si mosse; non poteva.
+Non ebbero il tempo di godersela. Dal corridoio sopra la conca arrivò un rumore che tutti, nella fossa, conoscevano meglio dei propri nomi: stivali ferrati, a passo di marcia, e il tintinnio delle armature, e una voce che dava ordini con l'accento archadiano. Gli spettatori sparirono dal bordo come acqua in un tombino. I Seeq a terra si trascinarono via, uno con il naso storto, verso le nicchie. Il Bangaa con la coda spezzata non si mosse; non poteva.
 
 Balthier prese Vaan per il colletto e lo tirò, oltre il cancello di ferro, che qualcuno nella fuga aveva lasciato aperto, dietro un pilastro mezzo crollato, nell'ombra.
 
@@ -180,4 +180,4 @@ Erano Bangaa. Quattro. Il primo era il più grosso, con le squame grigio-verdi e
 
 Vaan sentì Balthier, accanto a lui, irrigidirsi tutto.
 
-«Oh, no» disse il pirata, in un sussurro così basso che fu più un respiro che una frase. «Lui no. Non anche lui. Non oggi.»
+«Oh, no» disse l'aviopirata, in un sussurro così basso che fu più un respiro che una frase. «Lui no. Non anche lui. Non oggi.»

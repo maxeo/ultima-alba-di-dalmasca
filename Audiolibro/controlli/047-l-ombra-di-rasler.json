@@ -1,0 +1,20 @@
+{
+ "capitolo": "047-l-ombra-di-rasler",
+ "somiglianza": 0.9727,
+ "problemi": [
+  {
+   "tempo": "22:57",
+   "secondi": 1377.9,
+   "tipo": "diverso",
+   "testo": "ha trovata disse basch annui adesso dovranno ascoltarla",
+   "audio": "la trovata disse bascia a noi adesso dovranno ascoltarla"
+  },
+  {
+   "tempo": "28:42",
+   "secondi": 1722.1,
+   "tipo": "diverso",
+   "testo": "l altra mano van vide lo scambio senza avvicinarsi",
+   "audio": "l 'altra mano. Vandy dello scambio senza avvicinarsi."
+  }
+ ]
+}

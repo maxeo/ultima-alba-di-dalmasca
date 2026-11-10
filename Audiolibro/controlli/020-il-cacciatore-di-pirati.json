@@ -1,0 +1,27 @@
+{
+ "capitolo": "020-il-cacciatore-di-pirati",
+ "somiglianza": 0.9736,
+ "problemi": [
+  {
+   "tempo": "0:26",
+   "secondi": 26.5,
+   "tipo": "diverso",
+   "testo": "dove poco prima van e baltier avevano lasciato i",
+   "audio": "dove poco prima a Vantier avevano lasciato i"
+  },
+  {
+   "tempo": "9:59",
+   "secondi": 599.7,
+   "tipo": "in più",
+   "testo": "la vecchia cisterna nessuno ci e",
+   "audio": "la vecchia cisterna. Ma ne date che nessun enigrante ha con l 'audiciato la vecchia cisterna. Nessuno ci è"
+  },
+  {
+   "tempo": "19:29",
+   "secondi": 1169.9,
+   "tipo": "diverso",
+   "testo": "qualche biblioteca di arcaades o un morto erano lente gravi",
+   "audio": "qualche biblioteca di arcades erano lente gravi"
+  }
+ ]
+}

@@ -64,7 +64,7 @@ Vaan lo guardò. Penelo aspettò. Reddas fece scorrere la stoffa sul filo fino a
 
 «Si può scappare?» chiese Vaan. Non era una domanda ingenua; o lo era, ma era anche la sola che contasse.
 
-«Ci si prova.» Reddas fece un mezzo sorriso, senza allegria. «Si attraversa un mare. Si cambia mestiere. Si cambia porto, si cambia lingua, si cambia nome. Ci si costruisce una casa con le finestre sul mare e ci si mette dentro uomini che non fanno domande. Funziona per un anno, per due, per cinque. Poi un giorno arriva una ragazza con due spade e una domanda, e si scopre che il fantasma non ha mai smesso di camminarti dietro. Ti ha solo lasciato credere di essere più veloce.»
+«Ci si prova.» Reddas fece un mezzo sorriso, senza allegria. «Si attraversa un mare. Si cambia mestiere. Si cambia porto, si cambia accento, si cambia nome. Ci si costruisce una casa con le finestre sul mare e ci si mette dentro uomini che non fanno domande. Funziona per un anno, per due, per cinque. Poi un giorno arriva una ragazza con due spade e una domanda, e si scopre che il fantasma non ha mai smesso di camminarti dietro. Ti ha solo lasciato credere di essere più veloce.»
 
 Lo disse senza guardare Ashe. Ashe, alla finestra, non si voltò; ma la sua schiena, che fino a quel momento era stata dritta come un'asta, si mosse appena, come si muove quella di chi sente il proprio nome detto in un'altra stanza.
 
@@ -94,7 +94,7 @@ Balthier si fermò sulla soglia e si guardò alle spalle. Da lì si vedeva un pe
 
 «Dire cosa?» chiese Vaan.
 
-«Chi siamo. Per il registro.» Balthier contò con le dita. «Una principessa senza regno. Un cavaliere che il mondo crede impiccato. Due orfani di Città Bassa, uno dei quali ruba frutta. Una viera esiliata. Un signore di pirati che non è di Balfonheim. E il protagonista.» Abbassò la mano. «Settecento anni fa qui c'è salito un re con un esercito alle spalle. Oggi ci saliamo noi. Se Raithwall ci vede da qualche parte, spero abbia il senso dell'umorismo.»
+«Chi siamo. Per il registro.» Balthier contò con le dita. «Una principessa senza regno. Un cavaliere che il mondo crede impiccato. Due orfani di Città Bassa, uno dei quali ruba frutta. Una viera esiliata. Un signore di aviopirati che non è di Balfonheim. E il protagonista.» Abbassò la mano. «Settecento anni fa qui c'è salito un re con un esercito alle spalle. Oggi ci saliamo noi. Se Raithwall ci vede da qualche parte, spero abbia il senso dell'umorismo.»
 
 «Non ce l'aveva» disse Fran.
 

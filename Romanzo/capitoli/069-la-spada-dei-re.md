@@ -78,7 +78,7 @@ Larsa la guardò. Poi chinò la testa, un piccolo inchino, il più breve dell'et
 
 «Ci proverò» disse.
 
-Vaan gli diede una pacca sulla spalla, troppo forte, e Larsa barcollò e rise. Basch gli fece un cenno con la testa, uno solo, da soldato a soldato, che il ragazzo ricambiò con la stessa serietà. Balthier gli disse che era stato un piacere viaggiare con l'unico principe di sua conoscenza capace di lavarsi le scarpe da solo, e Larsa rispose che era stato un piacere viaggiare con l'unico pirata di sua conoscenza capace di lamentarsi degli stivali per tre settimane di fila, e Fran disse una parola sola, «bene», che poteva riferirsi a tutti e due.
+Vaan gli diede una pacca sulla spalla, troppo forte, e Larsa barcollò e rise. Basch gli fece un cenno con la testa, uno solo, da soldato a soldato, che il ragazzo ricambiò con la stessa serietà. Balthier gli disse che era stato un piacere viaggiare con l'unico principe di sua conoscenza capace di lavarsi le scarpe da solo, e Larsa rispose che era stato un piacere viaggiare con l'unico pirata del cielo di sua conoscenza capace di lamentarsi degli stivali per tre settimane di fila, e Fran disse una parola sola, «bene», che poteva riferirsi a tutti e due.
 
 Penelo fu l'ultima. Si fermò davanti a lui. Non aveva niente da dargli. Aveva dato via il miele, aveva dato via le focacce, la pietra ce l'aveva lui, e la Lacrima era una cosa del Bosco, che non si regala. Lo guardò e si accorse di avere le mani vuote, e per un momento non seppe cosa fare con le mani.
 

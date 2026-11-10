@@ -54,7 +54,7 @@ La regina attese altro. Non arrivò. Quando si svegliò, il cristallo spezzato e
 
 ---
 
-Arrivarono in tempi diversi e protestarono tutti contro chi era arrivato prima. Vaan sosteneva di aver trovato un vento contrario sul tratto occidentale; Balthier gli spiegò che i venti contrari esistevano anche prima che lui prendesse a usarli come giustificazione. Penelo posò sul tavolo la carta con le ore di volo e invitò il pirata a fare il conto. Fran guardò le due facce e disse che Ashe li aspettava.
+Arrivarono in tempi diversi e protestarono tutti contro chi era arrivato prima. Vaan sosteneva di aver trovato un vento contrario sul tratto occidentale; Balthier gli spiegò che i venti contrari esistevano anche prima che lui prendesse a usarli come giustificazione. Penelo posò sul tavolo la carta con le ore di volo e invitò il pirata del cielo a fare il conto. Fran guardò le due facce e disse che Ashe li aspettava.
 
 La Strahl era cambiata. Nello scafo comparivano pannelli di generazioni diverse, con rivetti che Nono non avrebbe scelto dello stesso colore; i motori conservavano la propria eleganza finché non si guardava dove erano stati costretti a entrare i rinforzi. Balthier aveva fili d'argento fra i capelli. Fran sembrava averli conservati tutti dov'erano sempre stati, ma ascoltava il mondo con una fatica nuova.
 
@@ -102,7 +102,7 @@ Larsa vi trovò cifre che non erano negli archivi aperti. Chiese carta. Penelo g
 
 La pagina seguente portava la morte di Vayne. Balthier la lesse sopra la spalla di Ashe, poi le chiese di lasciargliela vedere. Nel racconto c'era la Regina Dinasta che sconfiggeva l'usurpatore. Non c'erano la mano di Larsa alzata contro suo fratello, la spada raccolta da Vaan, Gabranth con l'elmo spezzato. Reddas compariva come colui che aveva distrutto la Crisalide Solare, ma il gesto era disposto sotto la volontà della prescelta, quasi fosse un ordine ricevuto.
 
-«Questo non è il modo in cui è andata» disse il pirata.
+«Questo non è il modo in cui è andata» disse l'aviopirata.
 
 Ashe guardò il nome del vecchio signore di Balfonheim. «Reddas decise da solo.»
 
@@ -242,7 +242,7 @@ Dal tubo delle comunicazioni arrivava la storia di una fortezza sul mare e di un
 
 «E la tua età?»
 
-Il pirata controllò il motore, poi la linea del mare. «Un protagonista dovrebbe avere il diritto di correggere la propria età negli archivi.»
+L'aviopirata controllò il motore, poi la linea del mare. «Un protagonista dovrebbe avere il diritto di correggere la propria età negli archivi.»
 
 Fran gli indicò il comando che stava trascurando. Lui lo sistemò e cambiò rotta soltanto dopo aver chiesto quanta acqua avessero a bordo.
 

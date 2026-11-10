@@ -8,7 +8,7 @@ Ashe era seduta dietro di lui con l'astuccio delle carte sulle ginocchia. «Non 
 
 «È il difetto principale. Quando lo vedi dal basso è già tardi.»
 
-Fran fece virare la nave. La lancetta continuò a tremare, ma perse il ritmo furioso di prima. Sotto lo scafo si allargava una piana di ghiaia; oltre, un muro di sabbia cancellava la distanza. Il pirata toccò il bordo dello strumento, senza provare a correggerlo.
+Fran fece virare la nave. La lancetta continuò a tremare, ma perse il ritmo furioso di prima. Sotto lo scafo si allargava una piana di ghiaia; oltre, un muro di sabbia cancellava la distanza. L'aviopirata toccò il bordo dello strumento, senza provare a correggerlo.
 
 «Jagd» disse. «Il Mystes non lascia lavorare la pietra di volo. Possiamo scegliere fra arrivare vicini e diventare parte del paesaggio.»
 
@@ -74,7 +74,7 @@ Balthier, intanto, faceva i conti. Li faceva a voce alta, perché un conto fatto
 
 «Ce ne sono?» chiese Penelo.
 
-«Di collezionisti che non fanno domande? È l'unica categoria di persone di cui Archades non è mai a corto.» Il pirata si aggiustò la benda sul naso. «Poi le armi. Un re che ha unificato Ivalice avrà avuto delle armi. Mettiamone dodici. E i doni dei re vassalli, che per definizione erano più preziosi del necessario, perché un vassallo che regala poco smette presto di essere vassallo e diventa cadavere.» Si fermò, guardò il cielo, mosse le labbra. «Siamo a un milione e mezzo.»
+«Di collezionisti che non fanno domande? È l'unica categoria di persone di cui Archades non è mai a corto.» L'aviopirata si aggiustò la benda sul naso. «Poi le armi. Un re che ha unificato Ivalice avrà avuto delle armi. Mettiamone dodici. E i doni dei re vassalli, che per definizione erano più preziosi del necessario, perché un vassallo che regala poco smette presto di essere vassallo e diventa cadavere.» Si fermò, guardò il cielo, mosse le labbra. «Siamo a un milione e mezzo.»
 
 «Se c'è» disse Fran.
 
@@ -186,7 +186,7 @@ Basch si spostò per mettersi fra lui e la principessa. «Ha scelto di partire.�
 
 «L'ho accompagnata.»
 
-Vossler osservò l'acqua distribuita fra le sacche, la carta aperta, le armi dei pirati. Il suo sguardo si fermò su Balthier. «Con loro.»
+Vossler osservò l'acqua distribuita fra le sacche, la carta aperta, le armi degli aviopirati. Il suo sguardo si fermò su Balthier. «Con loro.»
 
 «Ci hanno portati fuori dal Leviatano.»
 

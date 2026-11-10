@@ -99,11 +99,47 @@ class Console:
     """Console del container: una riga per messaggio, nel formato del log di BankMonitor.
 
     L'avanzamento di ebook2audiobook arriva a pezzi separati da ritorno carrello:
-    qui diventa una riga per frase, con l'inizio della frase in lavorazione.
+    qui diventa una riga per ogni frase generata davvero. Le frasi già pronte (che il
+    programma scorre in pochi millisecondi) non si scrivono una per una: si contano.
+    I messaggi tecnici ripetuti a ogni lavoro si tolgono, gli altri si traducono.
     """
 
     AVANZAMENTO = re.compile(r'^\d+(?:\.\d+)?%:\s*:\s*(\d+)/(\d+)\b(.*)$', re.S)
     ORNAMENTO = re.compile(r'^[\s*\-=_#]+$')
+    # Sotto questo tempo la frase non è stata generata: c'era già.
+    SALTATA = 0.4
+    # (espressione, testo da scrivere; None = non scrivere). Vale il primo che combacia.
+    MESSAGGI = [
+        (r'^v\d+\.\d+\.\d+ .*mode$', None),
+        (r'^---> Hardware detected', None),
+        (r'^vram_dict:', None),
+        (r'^Using CUDA$', None),
+        (r'^Free Memory available', None),
+        (r'^Processing eBook file', None),
+        (r'^Warning! Some sentences are already converted', None),
+        (r'^Get sentences', None),
+        (r'^Block \d+ — sentences already split', None),
+        (r'^Loading TTS .* please be patient', None),
+        (r'^TTS .* Loaded!$', None),
+        (r'^A total of \d+ blocks? and (\d+) sentences', r'capitolo di \1 frasi'),
+        (r'^\d{3}-[\w-]+$', None),
+        (r'Block \d+ has \d+ missing audio files, reconverting only those: \[(.*)\]', r'frasi da generare: \1'),
+        (r'^Block \d+ chapter audio missing', 'manca il blocco montato: si rifà tutto il capitolo'),
+        (r'^Chapter \d+ \(block \d+\) containing', None),
+        (r'^Chapter \d+ \(block \d+\) — has all sentences', 'tutte le frasi sono già pronte'),
+        (r'^Converting builtin eng voice to (\w+)', r'preparo la voce (\1)'),
+        (r'^Normalize completed', None),
+        (r'^Computing speaker latents', 'calcolo i parametri della voce'),
+        (r'^End of Chapter', None),
+        (r'^Combining chapter \d+ \(block \d+\) to audio', 'monto le frasi del capitolo'),
+        (r'^Combining sentences and chapters', "monto l'audio finale"),
+        (r'^Assemble - ', None),
+        (r'^Assemble completed', None),
+        (r'^Completed →', None),
+        (r'^\*+ Combined block audio file saved', None),
+        (r'^Export - ', 'esporto mp3 e sottotitoli'),
+        (r'^Frasi pronte: montaggio saltato', 'frasi pronte, montaggio saltato (prova)'),
+    ]
 
     def __init__(self, componente, uscita, livello='INFO', libro=PROGRAMMA):
         self.componente = componente
@@ -114,6 +150,9 @@ class Console:
         # L'avanzamento della stessa frase arriva in più pezzi: il testo della frase
         # sta nell'ultimo. Si tiene da parte e si scrive quando cambia la frase.
         self.sospeso = None
+        self.ultimo = time.time()
+        self.saltate = 0
+        self.una_volta = set()
 
     def write(self, testo):
         self.resto += testo
@@ -126,6 +165,8 @@ class Console:
     def riga(self, testo):
         if not testo or self.ORNAMENTO.match(testo) or 'files/s' in testo:
             return
+        adesso, prima = time.time(), self.ultimo
+        self.ultimo = adesso
         avanzamento = self.AVANZAMENTO.match(testo)
         if avanzamento:
             fatte, totali, coda = avanzamento.group(1), avanzamento.group(2), avanzamento.group(3)
@@ -133,17 +174,19 @@ class Console:
             frase = re.sub(r'\[[a-z0-9]+\]', '', frase).strip()[:90]
             if self.sospeso and self.sospeso[0] == fatte:
                 if frase and not self.sospeso[2]:
-                    self.sospeso = (fatte, totali, frase)
+                    self.sospeso = (fatte, totali, frase, self.sospeso[3])
                 return
             self.scrivi_sospeso()
-            self.sospeso = (fatte, totali, frase)
+            # Il programma scrive l'avanzamento di una frase dopo averla generata:
+            # il tempo dalla riga precedente è quanto ci ha messo.
+            self.sospeso = (fatte, totali, frase, adesso - prima)
             return
         if testo.startswith(':') and self.sospeso:
             # Il testo della frase arriva su stdout, su una riga che comincia con ':'.
             coda = re.sub(r'\[[a-z0-9]+\]', '', re.sub(r'^:\s*', '', testo)).strip()[:90]
             if coda:
                 if not self.sospeso[2]:
-                    self.sospeso = (self.sospeso[0], self.sospeso[1], coda)
+                    self.sospeso = (self.sospeso[0], self.sospeso[1], coda, self.sospeso[3])
                 return
         self.scrivi_sospeso()
         livello = self.livello
@@ -151,15 +194,43 @@ class Console:
             livello = 'ERROR'
         elif re.search(r'\b(warning|warn)\b', testo, re.I):
             livello = 'WARN'
+        if livello == self.livello or testo.startswith('Warning! Some sentences'):
+            for espressione, sostituto in self.MESSAGGI:
+                m = re.search(espressione, testo)
+                if not m:
+                    continue
+                if sostituto is None:
+                    return
+                # Messaggi che arrivano a ripetizione (l'esportazione): una volta sola.
+                if espressione.startswith('^Export'):
+                    if espressione in self.una_volta:
+                        return
+                    self.una_volta.add(espressione)
+                testo, livello = m.expand(sostituto), self.livello
+                break
+        self.scrivi_saltate()
         registra(self.componente, testo, livello, self.uscita, self.libro)
+
+    def scrivi_saltate(self):
+        if self.saltate:
+            registra(self.componente, ('1 frase già pronta, saltata' if self.saltate == 1 else '%d frasi già pronte, saltate' % self.saltate), self.livello, self.uscita, self.libro)
+            self.saltate = 0
 
     def scrivi_sospeso(self):
         if not self.sospeso:
             return
-        fatte, totali, frase = self.sospeso
+        fatte, totali, frase, durata = self.sospeso
         self.sospeso = None
-        registra(self.componente, 'frase %s/%s' % (fatte, totali) + ('  ' + frase if frase else ''),
+        if durata < self.SALTATA:
+            self.saltate += 1
+            return
+        self.scrivi_saltate()
+        registra(self.componente, 'frase %s di %s generata in %.1f s' % (fatte, totali, durata) + ('  ' + frase if frase else ''),
                  self.livello, self.uscita, self.libro)
+
+    def chiudi(self):
+        self.scrivi_sospeso()
+        self.scrivi_saltate()
 
     def flush(self):
         # Il sospeso non si scrive qui: app.main() chiama flush() di continuo e
@@ -185,11 +256,11 @@ class Doppio:
         self.console.flush()
 
 
-def converti(argv, log, libro=PROGRAMMA, solo_frasi=False):
+def converti(argv, log, libro=PROGRAMMA, solo_frasi=False, operazione=''):
     componente = re.sub(r'^log-|\.txt$', '', os.path.basename(log))
     _solo_frasi.attivo = solo_frasi
     inizio = time.time()
-    registra(componente, 'conversione avviata', uscita=sys.__stdout__, libro=libro)
+    registra(componente, 'avviato: ' + (operazione or 'conversione'), uscita=sys.__stdout__, libro=libro)
     # Una sola Console per i due flussi: l'avanzamento esce su stderr (tqdm) e il
     # testo della frase su stdout, quindi solo così restano appaiati e in ordine.
     console = Console(componente, sys.__stdout__, 'INFO', libro)
@@ -208,7 +279,7 @@ def converti(argv, log, libro=PROGRAMMA, solo_frasi=False):
         except BaseException:
             traceback.print_exc()
             codice = 1
-    console.scrivi_sospeso()
+    console.chiudi()
     registra(componente, 'conversione finita: uscita=%d durata=%ds' % (codice, time.time() - inizio),
              'INFO' if codice == 0 else 'ERROR', libro=libro)
     return codice
@@ -238,7 +309,7 @@ class Gestore(BaseHTTPRequestHandler):
         try:
             stato.update(occupato=True, lavoro=dati['args'], dal=time.strftime('%F %T'))
             codice = converti(dati['args'], dati.get('log', '/app/audiobooks/ultimo-log.txt'), nome_libro(dati),
-                              bool(dati.get('solo_frasi')))
+                              bool(dati.get('solo_frasi')), dati.get('operazione', ''))
         finally:
             stato.update(occupato=False)
             blocco.release()

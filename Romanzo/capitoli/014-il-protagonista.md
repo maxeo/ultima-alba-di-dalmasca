@@ -190,7 +190,7 @@ Vaan non seppe se era un complimento. Lo prese come tale, nel dubbio, e si strin
 
 Fran alzò la testa.
 
-Fu un movimento brusco, il primo che le avesse visto fare: tutte e due le orecchie si girarono insieme verso il corridoio, tese, e lei rimase così, immobile, ad ascoltare qualcosa che gli altri due non sentivano. Poi lo sentirono anche loro. Passi. Molti. Pesanti. Metallo su pietra, nel corridoio, lontano, oltre la parete che si era richiusa, oltre il vano con le tacche: il rumore di uomini in armatura che correvano. E voci. Gridavano in archadiano.
+Fu un movimento brusco, il primo che le avesse visto fare: tutte e due le orecchie si girarono insieme verso il corridoio, tese, e lei rimase così, immobile, ad ascoltare qualcosa che gli altri due non sentivano. Poi lo sentirono anche loro. Passi. Molti. Pesanti. Metallo su pietra, nel corridoio, lontano, oltre la parete che si era richiusa, oltre il vano con le tacche: il rumore di uomini in armatura che correvano. E voci. Gridavano con l'accento archadiano.
 
 «Hanno aperto» disse Fran. «Dall'altra parte.»
 

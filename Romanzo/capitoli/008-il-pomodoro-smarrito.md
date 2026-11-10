@@ -12,7 +12,7 @@ Quando Vaan entrò, la coda fece un tac doppio.
 
 La bottega di Migelo stava sulla piazza bassa, all'incrocio fra la via dei Calderai e la discesa verso la Città Bassa, e vendeva tutto quello che una casa di Rabanastre poteva desiderare e non poteva permettersi: lampade, olio, spezie, stoffe di seconda mano, pentole, corde, attrezzi da viaggio, pozioni per le febbri del deserto in boccette di vetro verde che il vecchio comprava a Nalbina e rivendeva con un ricarico che chiamava «il rischio della strada». Era stretta e profonda, con gli scaffali fino al soffitto e una scala a pioli che correva su un binario. Dietro la bottega c'era un cortile con un pozzo, e sopra la bottega c'era la stanza dove Vaan dormiva, e prima di lui avevano dormito altri ragazzi. Migelo prendeva in casa gli orfani della Città Bassa come altri prendono i gatti: senza decidere, uno alla volta, lamentandosi di ognuno.
 
-Quel giorno, sul bancone, c'era una lista. Era lunga quanto un braccio, scritta in archadiano da una mano di cancelleria, con un timbro in fondo. Migelo la toccava ogni tanto, come si tocca una ferita per vedere se fa ancora male.
+Quel giorno, sul bancone, c'era una lista. Era lunga quanto un braccio, scritta da una mano di cancelleria archadiana, con un timbro in fondo. Migelo la toccava ogni tanto, come si tocca una ferita per vedere se fa ancora male.
 
 «Stasera» disse «al palazzo c'è il banchetto per il console nuovo. Lo sai, no? Tutta la città lo sa. Arriva da Archades, arriva da Nalbina, non si sa bene da dove arriva, ma arriva, e il banchetto è stasera, e una parte di quello che si mangia stasera lo porto io.» Batté la lista con un artiglio. «Io. Migelo. Ci sono quattro mercanti in tutta Rabanastre che hanno avuto la lista, e uno sono io.»
 
@@ -48,7 +48,7 @@ Vaan aveva l'idea che Kytes, tre ore prima, fosse in fondo a un condotto con una
 
 ---
 
-La Sandsea era la taverna dei forestieri, e lo si capiva dal modo in cui la gente ci entrava: piano, guardandosi attorno, con la mano vicino alla borsa. Stava sulla via principale, a due passi dalla Porta Est, con una sala bassa e fresca piena di tavoli di legno scuro, una scala che portava al piano di sopra e un bancone dove Tomaj spillava birra di Bhujerba e vino di Nabradia per gente che arrivava da tutte le direzioni e ci restava poco. Si parlavano cinque o sei lingue alla volta. Le pareti erano coperte di avvisi.
+La Sandsea era la taverna dei forestieri, e lo si capiva dal modo in cui la gente ci entrava: piano, guardandosi attorno, con la mano vicino alla borsa. Stava sulla via principale, a due passi dalla Porta Est, con una sala bassa e fresca piena di tavoli di legno scuro, una scala che portava al piano di sopra e un bancone dove Tomaj spillava birra di Bhujerba e vino di Nabradia per gente che arrivava da tutte le direzioni e ci restava poco. Si parlavano cinque o sei dialetti alla volta. Le pareti erano coperte di avvisi.
 
 Kytes stava davanti alla bacheca. Aveva le mani dietro la schiena e il naso a un palmo da un foglio, e muoveva le labbra mentre leggeva, perché aveva imparato da poco.
 
@@ -142,7 +142,7 @@ Vaan ci pensò per tutto il tempo che gli serviva, cioè pochissimo.
 
 Alla Porta Est c'erano sei soldati. Vaan li contò mentre si avvicinava: quattro alla barriera, uno sulla torretta, uno seduto all'ombra con un registro sulle ginocchia. Erano nuovi davvero; avevano le armature pulite di chi non ha ancora fatto la polvere di Rabanastre, e la pelle rossa di chi non ha ancora fatto il sole.
 
-Quello del registro gli chiese i documenti. Vaan glieli diede. Il soldato lesse il lasciapassare, lo rigirò, lo lesse di nuovo, con la lentezza di un uomo che non sa leggere il dalmasco e non vuole che si sappia.
+Quello del registro gli chiese i documenti. Vaan glieli diede. Il soldato lesse il lasciapassare, lo rigirò, lo lesse di nuovo, con la lentezza di un uomo che non sa leggere bene e non vuole che si sappia.
 
 «Motivo dell'uscita.»
 
@@ -164,7 +164,7 @@ Il soldato guardò il lasciapassare. Guardò Vaan. Guardò il compagno alla barr
 
 «Grazie, signore.»
 
-Mentre la barriera si alzava, Vaan sentì quello della torretta dire a quello del registro, in archadiano, una frase in cui comparivano due parole che conosceva: il nome del console e un'altra, che a Rabanastre i soldati usavano spesso e che voleva dire più o meno «macellaio». Lo disse con ammirazione.
+Mentre la barriera si alzava, Vaan sentì quello della torretta dire a quello del registro, in un dialetto archadiano stretto, una frase in cui capì soltanto due parole: il nome del console e un'altra, che a Rabanastre i soldati usavano spesso e che voleva dire più o meno «macellaio». Lo disse con ammirazione.
 
 Vaan se la mise da parte, per Montblanc. Poi uscì nel deserto.
 

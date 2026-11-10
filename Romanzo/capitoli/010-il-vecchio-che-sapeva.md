@@ -68,7 +68,7 @@ Vaan lo fissò.
 
 «Non ho detto questo. Ho detto che mi piace. Mi piacciono molte cose che non farei.» Dalan posò la tazza. «Il palazzo ha le sue porte, e le sue porte hanno le loro guardie, e tu le hai contate, immagino, per due giorni di fila, seduto sui tetti come un gatto. Sì, me l'hanno detto anche questo. Le guardie sono troppe. Ma i palazzi vecchi hanno sempre una porta in più. Quella che i re si facevano fare per uscire senza che nessuno lo sapesse, o per far entrare qualcuno senza che nessuno lo vedesse. I re di Dalmasca non erano diversi dagli altri.»
 
-Si alzò. Fu un'operazione lunga, che passò per il bordo del tavolo e per lo schienale della sedia e per una serie di lamenti in una lingua che Vaan non conosceva. Andò allo scaffale più alto, quello vicino al letto, e ci frugò dentro, spostando scatole, finché non trovò quella che cercava. Era piccola, di legno nero, senza ornamenti. La posò sul tavolo e la aprì.
+Si alzò. Fu un'operazione lunga, che passò per il bordo del tavolo e per lo schienale della sedia e per una serie di lamenti in un dialetto che Vaan non conosceva. Andò allo scaffale più alto, quello vicino al letto, e ci frugò dentro, spostando scatole, finché non trovò quella che cercava. Era piccola, di legno nero, senza ornamenti. La posò sul tavolo e la aprì.
 
 Dentro, su un letto di stoffa sbiadita, c'era una pietra.
 

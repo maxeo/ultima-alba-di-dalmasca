@@ -6,7 +6,7 @@ La principessa non venne. Il maggiordomo disse che si era ritirata nelle sue sta
 
 Il marchese non venne nemmeno lui.
 
-Alla fine della cena, mentre i servitori sparecchiavano, Basch si avvicinò a Balthier e gli disse una cosa all'orecchio. Il pirata alzò un sopracciglio, guardò Fran, e Fran mosse appena un orecchio. Poi Balthier si stirò, sbadigliò in modo molto convincente, disse che per un uomo del suo rango tre ore di cena erano l'equivalente di una battaglia campale, e andò a dormire.
+Alla fine della cena, mentre i servitori sparecchiavano, Basch si avvicinò a Balthier e gli disse una cosa all'orecchio. L'aviopirata alzò un sopracciglio, guardò Fran, e Fran mosse appena un orecchio. Poi Balthier si stirò, sbadigliò in modo molto convincente, disse che per un uomo del suo rango tre ore di cena erano l'equivalente di una battaglia campale, e andò a dormire.
 
 Vaan non dormì.
 
@@ -30,7 +30,7 @@ Entrò senza fare rumore, perché era una cosa che sapeva fare, e salì la passe
 
 C'era qualcuno al posto di pilotaggio.
 
-Era seduta sul sedile di Fran, con la lampada a mano appoggiata sul pannello e le mani sulle leve, e guardava gli strumenti con una concentrazione furiosa, come si guarda un testo in una lingua straniera che si è sicuri di poter capire se lo si guarda abbastanza a lungo. Aveva cambiato vestiti. Non portava più il corpetto strappato dei canali, ma una casacca da viaggio che non le apparteneva, troppo larga sulle spalle, e degli stivali da uomo, e aveva una spada al fianco. Aveva spostato una leva. Ne stava spostando un'altra.
+Era seduta sul sedile di Fran, con la lampada a mano appoggiata sul pannello e le mani sulle leve, e guardava gli strumenti con una concentrazione furiosa, come si guarda un testo in una scrittura antica che si è sicuri di poter capire se lo si guarda abbastanza a lungo. Aveva cambiato vestiti. Non portava più il corpetto strappato dei canali, ma una casacca da viaggio che non le apparteneva, troppo larga sulle spalle, e degli stivali da uomo, e aveva una spada al fianco. Aveva spostato una leva. Ne stava spostando un'altra.
 
 «Che stai facendo?»
 
@@ -114,7 +114,7 @@ Ashe lo guardò. Per un lungo momento non disse niente. Poi si alzò dal sedile 
 
 Non si stava arrendendo. Stava cambiando strategia.
 
-«Sei un pirata» disse.
+«Sei un aviopirata» disse.
 
 «Lo dicono.»
 
@@ -128,7 +128,7 @@ Balthier non rispose subito. Vaan smise di ridere.
 
 «Prego?»
 
-«Rapiscimi.» Ashe fece un passo verso di lui. «Una principessa è una cosa che si porta via di notte, no? Fallo. Portami via da questa casa con la tua nave, contro il volere di mio zio, e portami dove dico io. Nessuno potrà dire che Bhujerba mi ha aiutata. Nessuno potrà accusare mio zio di niente. Sarò stata rapita da un pirata famoso. È una cosa che succede. Le ballate ne sono piene.»
+«Rapiscimi.» Ashe fece un passo verso di lui. «Una principessa è una cosa che si porta via di notte, no? Fallo. Portami via da questa casa con la tua nave, contro il volere di mio zio, e portami dove dico io. Nessuno potrà dire che Bhujerba mi ha aiutata. Nessuno potrà accusare mio zio di niente. Sarò stata rapita da un aviopirata famoso. È una cosa che succede. Le ballate ne sono piene.»
 
 «Le ballate finiscono sempre male per il pirata.»
 
@@ -148,7 +148,7 @@ Balthier fischiò. Piano, fra i denti, una nota sola.
 
 «Raithwall.»
 
-«La tomba di Raithwall.» Il pirata guardò Fran, che era comparsa alle sue spalle nel corridoio senza che nessuno l'avesse sentita arrivare, e che guardava la principessa con le orecchie dritte. «Hai sentito, Fran?»
+«La tomba di Raithwall.» L'aviopirata guardò Fran, che era comparsa alle sue spalle nel corridoio senza che nessuno l'avesse sentita arrivare, e che guardava la principessa con le orecchie dritte. «Hai sentito, Fran?»
 
 «Ho sentito.»
 
@@ -156,7 +156,7 @@ Balthier fischiò. Piano, fra i denti, una nota sola.
 
 «Non piccolo» disse Fran.
 
-Balthier fece una faccia che Vaan non gli aveva mai visto: la faccia di un uomo che ha promesso a qualcuno di smettere di bere e si trova davanti la botte migliore della sua vita. Poi il suo sguardo scivolò in basso, sulla mano sinistra della principessa. La mano era chiusa a pugno contro il fianco, e fra due dita spuntava il bordo di un anello d'oro rosso e d'argento bianco, largo, che di notte le scivolava fino alla nocca.
+Balthier fece una faccia che Vaan non gli aveva mai visto: la faccia di un uomo che ha promesso a qualcuno di smettere di bere e si trova davanti la botte migliore della sua vita. Poi il suo sguardo scivolò in basso, sulla mano sinistra della principessa. La mano era chiusa a pugno contro il fianco, e fra due dita spuntava il bordo di un anello d'oro rosso e d'argento bianco.
 
 «E quello?» disse Balthier.
 
@@ -346,7 +346,7 @@ Vaan la guardò. Poi sorrise, il suo sorriso largo di sempre.
 
 «Lo so.»
 
-Balthier si guardò attorno: un cavaliere morto, una principessa morta, due ragazzi della Città Bassa, Penelo in camicia da notte, una viera con l'arco e un pirata spettinato, alle tre di notte su una piattaforma di Bhujerba, con una carta antica e una spada piantata in una cassa.
+Balthier si guardò attorno: un cavaliere morto, una principessa morta, due ragazzi della Città Bassa, Penelo in camicia da notte, una viera con l'arco e un aviopirata spettinato, alle tre di notte su una piattaforma di Bhujerba, con una carta antica e una spada piantata in una cassa.
 
 «Il mio equipaggio» disse a nessuno «ha superato ogni aspettativa.»
 

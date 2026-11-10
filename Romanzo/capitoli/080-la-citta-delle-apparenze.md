@@ -32,7 +32,7 @@ Penelo lo guardò mentre lui guardava, e a un certo punto smise di prenderlo in 
 
 Vaan ci pensò. Era una delle cose che Penelo diceva e che poi gli restavano in testa per giorni.
 
-«Ho visto un sacco di posti» disse alla fine. «Non pensavo di vederne neanche uno. Pensavo di diventare pirata e poi di vederli tutti, ma non ci credevo davvero. Era una cosa che dicevo.» Guardò di nuovo la torre con gli alberi. «Adesso li ho visti, e ho visto anche quelli dove non c'è più niente. Allora quelli dove c'è qualcosa li guardo bene.»
+«Ho visto un sacco di posti» disse alla fine. «Non pensavo di vederne neanche uno. Pensavo di diventare aviopirata e poi di vederli tutti, ma non ci credevo davvero. Era una cosa che dicevo.» Guardò di nuovo la torre con gli alberi. «Adesso li ho visti, e ho visto anche quelli dove non c'è più niente. Allora quelli dove c'è qualcosa li guardo bene.»
 
 Penelo non rispose. Aveva gli occhi altrove, più su, dove fra due torri si vedeva un pezzo di un edificio diverso dagli altri: più basso, più largo, con le cupole verdi di rame e una bandiera nera e oro sul tetto più alto.
 

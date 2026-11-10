@@ -96,7 +96,7 @@ Il Giudice non lo guardò. Vossler sì. «Due anni» disse al pirata. «Due anni
 
 «E volete regalarle una cantina con le finestre.»
 
-Vossler mosse una mano. Basch si spostò quanto gli permisero le lance e si mise davanti al pirata. Il gesto lasciò Vossler interdetto più della battuta. Erano arrivati a difendere due lati della stessa stanza, e Vossler parve accorgersene soltanto vedendo il corpo dell'altro fra sé e Balthier.
+Vossler mosse una mano. Basch si spostò quanto gli permisero le lance e si mise davanti all'aviopirata. Il gesto lasciò Vossler interdetto più della battuta. Erano arrivati a difendere due lati della stessa stanza, e Vossler parve accorgersene soltanto vedendo il corpo dell'altro fra sé e Balthier.
 
 Ashe guardò Ghis. «Chi garantisce l'accordo?»
 
@@ -162,7 +162,7 @@ Balthier alzò la testa. Il movimento tirò la pelle del taglio e vi fece tornar
 
 Ghis richiuse la custodia. «Il Laboratorio Draklor saprà attribuirle un valore più esatto del vostro.»
 
-Il pirata guardò le cerniere di ottone, il piccolo sigillo, il tecnico che la prendeva con entrambe le mani. Fran gli vide cambiare il respiro. Sul coperchio della custodia c'era inciso un segno piccolissimo, tre linee e un cerchio. Lo stesso della scheggia di Lhusu. Balthier lo aveva letto nella caverna fredda, sei livelli sotto Bhujerba, e lo rilesse adesso senza volerlo, e qualcosa nelle sue spalle si chiuse. Nessun altro ebbe tempo di notarlo, perché Ghis ordinò di trasferirli sullo Shiva.
+L'aviopirata guardò le cerniere di ottone, il piccolo sigillo, il tecnico che la prendeva con entrambe le mani. Fran gli vide cambiare il respiro. Sul coperchio della custodia c'era inciso un segno piccolissimo, tre linee e un cerchio. Lo stesso della scheggia di Lhusu. Balthier lo aveva letto nella caverna fredda, sei livelli sotto Bhujerba, e lo rilesse adesso senza volerlo, e qualcosa nelle sue spalle si chiuse. Nessun altro ebbe tempo di notarlo, perché Ghis ordinò di trasferirli sullo Shiva.
 
 «Un incrociatore leggero» aggiunse. «Vi ricondurrà a Dalmasca. Il capitano Azelas avrà cura che il viaggio non presenti altri contrattempi.»
 

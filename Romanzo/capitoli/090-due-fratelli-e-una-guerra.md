@@ -66,7 +66,7 @@ Portava l'armatura completa dei Magister, nera, con l'elmo chiuso, e camminava c
 
 Gabranth non disse niente.
 
-«La troverai» continuò Vayne. «Non sarà difficile: dove c'è un disastro, c'è la principessa, e di solito c'è anche un pirata vestito troppo bene. La seguirai. Osserverai. Non interverrai, a meno che non sia necessario. E mi riferirai che cosa cerca davvero, e che cosa intende farne quando lo avrà trovato.»
+«La troverai» continuò Vayne. «Non sarà difficile: dove c'è un disastro, c'è la principessa, e di solito c'è anche un aviopirata vestito troppo bene. La seguirai. Osserverai. Non interverrai, a meno che non sia necessario. E mi riferirai che cosa cerca davvero, e che cosa intende farne quando lo avrà trovato.»
 
 «E se cerca la guerra, maestà?»
 

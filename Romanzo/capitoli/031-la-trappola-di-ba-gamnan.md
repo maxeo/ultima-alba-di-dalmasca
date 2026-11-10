@@ -38,7 +38,7 @@ Vaan non se ne accorse. Aveva sentito *lasciata andare* e *stamattina* e qualcos
 
 «Dove?» disse. «Dove l'avete lasciata? Quale strada?»
 
-«Non lo so. Non mi interessa.» Ba'Gamnan fece un passo avanti, e i suoi tre fecero un passo avanti con lui, insieme. «Adesso mi interessa il pirata. E mi interessa» e qui girò gli occhi gialli oltre Vaan, oltre Basch, fino al ragazzo con la casacca scura che era rimasto contro la parete con una mano nella tasca interna «anche il piccolo signore. Bel vestito. Belle mani. Uno con quelle mani, se lo porti a casa sua, qualcuno ti dà più di ventimila.» Sorrise. «Oggi è una giornata fortunata.»
+«Non lo so. Non mi interessa.» Ba'Gamnan fece un passo avanti, e i suoi tre fecero un passo avanti con lui, insieme. «Adesso mi interessa l'aviopirata. E mi interessa» e qui girò gli occhi gialli oltre Vaan, oltre Basch, fino al ragazzo con la casacca scura che era rimasto contro la parete con una mano nella tasca interna «anche il piccolo signore. Bel vestito. Belle mani. Uno con quelle mani, se lo porti a casa sua, qualcuno ti dà più di ventimila.» Sorrise. «Oggi è una giornata fortunata.»
 
 Balthier sospirò. «Ba'Gamnan, sei di una volgarità commovente.»
 

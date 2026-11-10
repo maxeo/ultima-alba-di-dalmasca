@@ -84,7 +84,7 @@ Vaan ci pensò. Era una delle cose belle di Vaan, che quando gli si faceva una d
 
 Basch lo guardò ancora un momento. Poi gli posò una mano sulla spalla, e sotto la barba gli si mosse qualcosa, all'angolo della bocca, che in un altro uomo sarebbe stato un sorriso.
 
-«Parli ogni giorno di più come un pirata» disse.
+«Parli ogni giorno di più come un aviopirata» disse.
 
 Vaan diventò rosso fino alle orecchie. Non disse niente. Guardò davanti a sé, verso il vuoto, con un'espressione così felice che Penelo, dietro di lui, dovette voltarsi per non ridere.
 

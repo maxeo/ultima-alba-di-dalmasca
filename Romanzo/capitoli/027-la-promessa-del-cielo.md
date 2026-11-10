@@ -50,7 +50,7 @@ Balthier lasciò passare l'urto delle coppe. «Questo rende il messaggio più sg
 
 «E lui lo sa. Sa anche come si entra nelle miniere e dove mi metterei per sparargli. Preferirei non recitare la parte che ha scritto per me.»
 
-Vaan gli prese il polso. Era un gesto che non aveva mai fatto con il pirata. «Portami.»
+Vaan gli prese il polso. Era un gesto che non aveva mai fatto con l'aviopirata. «Portami.»
 
 Balthier guardò la mano del ragazzo, poi lui. «Lascia.»
 
@@ -64,7 +64,7 @@ Vaan la tolse. «Portami e basta. Non devi venire con me. Mi dici dove sono le m
 
 Basch avanzò fino al tavolo. «Vengo anch'io.»
 
-Il pirata si girò. «Una bella riunione. Mancava soltanto qualcuno con una taglia più grande della mia.»
+L'aviopirata si girò. «Una bella riunione. Mancava soltanto qualcuno con una taglia più grande della mia.»
 
 «Ho affari a Bhujerba.»
 
@@ -120,7 +120,7 @@ Vaan gli mise una mano sulla testa e il piccolo si scostò. Aveva un registro da
 
 ---
 
-L'aerodromo sapeva di olio caldo anche prima che sorgesse il sole. Entrarono dal lato dei magazzini, dove un carrettiere rovesciava sacchi davanti a una porta che nessuno aveva ancora aperto. Balthier li aspettava sotto la passerella. Fran era già dentro. Il pirata controllò la sacca di Vaan con uno sguardo e guardò poi gli stivali di Basch.
+L'aerodromo sapeva di olio caldo anche prima che sorgesse il sole. Entrarono dal lato dei magazzini, dove un carrettiere rovesciava sacchi davanti a una porta che nessuno aveva ancora aperto. Balthier li aspettava sotto la passerella. Fran era già dentro. L'aviopirata controllò la sacca di Vaan con uno sguardo e guardò poi gli stivali di Basch.
 
 «Vedo che Dalmasca ti ha restituito il grado, meno le calzature.»
 
@@ -180,7 +180,7 @@ Da dentro arrivò un rumore metallico, poi il meccanico scivolò fuori e si rial
 
 Vaan aprì la bocca, ma Nono gli aveva già consegnato una lampada e gli indicava un pannello basso. Lo tenne aperto mentre il moguri stringeva un fermaglio. Da vicino il motore non era una promessa: era metallo unto, un odore acre e il ticchettio di qualcosa che si raffreddava. Gli piacque più delle dieci navi che aveva inventato.
 
-Salì a bordo per ultimo. Fran occupava il posto di pilotaggio; Basch si era sistemato contro la paratia, lasciando libero il passaggio. Balthier mostrò a Vaan dove sedersi e quale cinghia chiudere. Il ragazzo tirò quella sbagliata. Il pirata gliela tolse dalle dita senza commentare, e questo fu peggio di una battuta.
+Salì a bordo per ultimo. Fran occupava il posto di pilotaggio; Basch si era sistemato contro la paratia, lasciando libero il passaggio. Balthier mostrò a Vaan dove sedersi e quale cinghia chiudere. Il ragazzo tirò quella sbagliata. L'aviopirata gliela tolse dalle dita senza commentare, e questo fu peggio di una battuta.
 
 «Può battere l'Ifrit?» domandò Vaan.
 

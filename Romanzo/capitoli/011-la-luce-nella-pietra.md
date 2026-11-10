@@ -2,7 +2,7 @@
 
 Vaan entrò nel villaggio dei nomadi correndo all'indietro, con la spada alzata davanti a sé e la cockatrice che lo seguiva a becco aperto, e la prima persona che lo vide rise così forte che dovette sedersi.
 
-Era una vecchia. Stava sulla soglia di una tenda, su uno sgabello di vimini, a sgranare fagioli in una ciotola, e aveva una faccia piena di rughe così fitte che il riso gliele riempiva tutte, come l'acqua riempie un campo arato. Quando riuscì a smettere, si asciugò gli occhi con il dorso della mano, mise giù la ciotola, si alzò, e disse alla cockatrice una parola sola, secca, in una lingua che Vaan non conosceva. L'uccello si fermò di colpo. Guardò la vecchia, poi Vaan, poi di nuovo la vecchia, e se ne andò verso i recinti con l'andatura offesa di chi è stato trattato ingiustamente.
+Era una vecchia. Stava sulla soglia di una tenda, su uno sgabello di vimini, a sgranare fagioli in una ciotola, e aveva una faccia piena di rughe così fitte che il riso gliele riempiva tutte, come l'acqua riempie un campo arato. Quando riuscì a smettere, si asciugò gli occhi con il dorso della mano, mise giù la ciotola, si alzò, e disse alla cockatrice una parola sola, secca, in un dialetto che Vaan non conosceva. L'uccello si fermò di colpo. Guardò la vecchia, poi Vaan, poi di nuovo la vecchia, e se ne andò verso i recinti con l'andatura offesa di chi è stato trattato ingiustamente.
 
 «Non la guardare negli occhi» disse la vecchia. «Le cockatrici pensano che chi le guarda negli occhi voglia rubare loro le uova. Non ne hanno, di uova. È un maschio. Ma lui non lo sa.»
 

@@ -8,7 +8,7 @@ Il Giudice Ghis aspettava con le mani dietro la schiena.
 
 Dietro di lui, a semicerchio, c'erano soldati. Venti, forse di più. Altri ne uscirono dalle porte laterali appena il gruppo fu entrato, e le porte si chiusero alle loro spalle, e Vaan sentì il rumore dei chiavistelli.
 
-«Avete preso la strada lunga» disse Ghis. «Ma l'avete presa bene. Le mie congratulazioni al pirata per il pannello delle sirene. Il mio tecnico di bordo è ancora lì che cerca di capire come avete fatto. Gli ho detto di non preoccuparsi: alla fine si arriva sempre qui.» Allargò le braccia, e la luce gli corse sull'armatura d'oro e bianca. «Qui non c'è niente da spegnere.»
+«Avete preso la strada lunga» disse Ghis. «Ma l'avete presa bene. Le mie congratulazioni all'aviopirata per il pannello delle sirene. Il mio tecnico di bordo è ancora lì che cerca di capire come avete fatto. Gli ho detto di non preoccuparsi: alla fine si arriva sempre qui.» Allargò le braccia, e la luce gli corse sull'armatura d'oro e bianca. «Qui non c'è niente da spegnere.»
 
 Nessuno rispose. Basch si era messo davanti, e la principessa, questa volta, era rimasta dietro di lui senza dire niente. Balthier aveva la pistola in mano. Fran l'arco. Vaan aveva la spada e Penelo, che di armi non ne aveva, si era guardata attorno e aveva staccato dal muro, da una rastrelliera di attrezzi, un'asta di ferro per agganciare le catene delle navette, lunga quanto lei, e la teneva con tutte e due le mani, un poco sbilanciata, ma la teneva.
 
@@ -114,7 +114,7 @@ Il colpo prese Ghis sull'elmo, di piatto, dall'alto, e il suono riempì l'hangar
 
 Ghis cadde su un ginocchio.
 
-Vaan lo guardò. Era la prima volta che vedeva la faccia di un Giudice Magister, e restò deluso, poi spaventato di esserlo. Era la faccia di un uomo sulla quarantina, con i capelli grigio acciaio ricci schiacciati dall'elmo, un pizzetto, le guance scavate e una piccola cicatrice bianca all'angolo della bocca, e due occhi grigi, chiari, molto stanchi. Non era terribile. Era la faccia di un funzionario a fine giornata. Guardava il pavimento davanti a sé con un'espressione di sorpresa infinita, come se non riuscisse a mettere insieme le cose: il comandante dell'Ottava Flotta, il signore del Leviatano, in ginocchio nel suo hangar davanti a una principessa morta, un regicida morto, due pirati, una ladra con un'asta da catene e un ragazzo che gli era venuto addosso come in una rissa.
+Vaan lo guardò. Era la prima volta che vedeva la faccia di un Giudice Magister, e restò deluso, poi spaventato di esserlo. Era la faccia di un uomo sulla quarantina, con i capelli grigio acciaio ricci schiacciati dall'elmo, un pizzetto, le guance scavate e una piccola cicatrice bianca all'angolo della bocca, e due occhi grigi, chiari, molto stanchi. Non era terribile. Era la faccia di un funzionario a fine giornata. Guardava il pavimento davanti a sé con un'espressione di sorpresa infinita, come se non riuscisse a mettere insieme le cose: il comandante dell'Ottava Flotta, il signore del Leviatano, in ginocchio nel suo hangar davanti a una principessa morta, un regicida morto, due aviopirati, una ladra con un'asta da catene e un ragazzo che gli era venuto addosso come in una rissa.
 
 Ashe gli era sopra con la spada alzata.
 
@@ -192,7 +192,7 @@ Ashe si era rannicchiata sotto l'oblò, con Penelo accanto. Basch aveva la mano 
 
 Fu Balthier ad alzarsi. Con calma. Andò in cabina, si chinò accanto alla sedia di Fran, prese il tubo di ottone e ci parlò dentro.
 
-Parlò in archadiano. Non nell'archadiano che Vaan aveva sentito dai soldati nelle strade di Rabanastre, quello delle bestemmie e degli ordini: in un archadiano piatto, nasale, annoiato, l'archadiano degli uffici e delle caserme, senza un accento fuori posto, con una cantilena da burocrate che legge l'ennesimo modulo della giornata. Disse un numero di nave. Disse una sigla. Disse una frase lunga in cui Vaan riconobbe soltanto la parola *trasferimento* e la parola *scorta*. E finì con una formula breve, che tutti i soldati dell'impero dicono alla fine di ogni rapporto e che nessuno di loro pensa più, e la disse esattamente nel tono in cui la dicono loro, cioè come se fosse una parola sola.
+Parlò con l'accento archadiano. Non quello che Vaan aveva sentito dai soldati nelle strade di Rabanastre, quello delle bestemmie e degli ordini: un accento piatto, nasale, annoiato, l'accento degli uffici e delle caserme, senza una sillaba fuori posto, con una cantilena da burocrate che legge l'ennesimo modulo della giornata. Disse un numero di nave. Disse una sigla. Disse una frase lunga in cui Vaan riconobbe soltanto la parola *trasferimento* e la parola *scorta*. E finì con una formula breve, che tutti i soldati dell'impero dicono alla fine di ogni rapporto e che nessuno di loro pensa più, e la disse esattamente nel tono in cui la dicono loro, cioè come se fosse una parola sola.
 
 Il tubo gracchiò. *Ricevuto. Procedete.*
 
@@ -218,6 +218,6 @@ Nella stiva nessuno parlava. Penelo si era addormentata quasi subito, con la tes
 
 Ashe sedeva da sola sulla panca in fondo. Aveva posato la spada imperiale accanto a sé e guardava l'oblò, il cielo, le nuvole che scorrevano, e non le vedeva. Teneva la mano sinistra in grembo, chiusa. Basch stava a tre passi, dall'altra parte della stiva, e non la guardava, e sapeva esattamente dove fosse in ogni momento.
 
-A un certo punto, molto più tardi, quando il sole era già alto, Vaan la vide aprire la mano sinistra. La aprì lentamente, dito per dito. Sul dito, largo, c'era l'anello. Lo guardò per un pezzo. Poi richiuse la mano.
+A un certo punto, molto più tardi, quando il sole era già alto, Vaan la vide aprire la mano sinistra. La aprì lentamente, dito per dito. Sul dito c'era l'anello. Lo guardò per un pezzo. Poi richiuse la mano.
 
 E Vaan, che non avrebbe saputo dire perché, distolse gli occhi.

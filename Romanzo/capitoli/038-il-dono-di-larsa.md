@@ -8,9 +8,9 @@ Vaan lo fissò.
 
 «Quella con scritto *allarme*» disse Balthier. «Ce n'erano tre, ma le altre due dicevano *allarme generale* e *allarme di settore*, e io ho pensato che fosse meglio non esagerare.»
 
-«C'era scritto in archadiano.»
+«C'era scritto in gergo militare archadiano.»
 
-«Leggo l'archadiano. Lo leggono tutti quelli che hanno un debito con una banca di Archades.» Si girò verso Vossler. «Quanto dura?»
+«Leggo il gergo archadiano. Lo leggono tutti quelli che hanno un debito con una banca di Archades.» Si girò verso Vossler. «Quanto dura?»
 
 «Finché qualcuno non se ne accorge.»
 

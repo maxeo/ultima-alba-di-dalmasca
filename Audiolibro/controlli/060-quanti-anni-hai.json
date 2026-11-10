@@ -1,0 +1,20 @@
+{
+ "capitolo": "060-quanti-anni-hai",
+ "somiglianza": 0.9718,
+ "problemi": [
+  {
+   "tempo": "1:36",
+   "secondi": 96.2,
+   "tipo": "diverso",
+   "testo": "ho capito niente ammise gallerie ferro freddo occidente",
+   "audio": "ha capito niente a mese delle rie ferro freddo occidente"
+  },
+  {
+   "tempo": "17:42",
+   "secondi": 1062.6,
+   "tipo": "in più",
+   "testo": "non dovrebbero essere a mille miglia",
+   "audio": "non dovrebbero essere qui non dovrebbero essere a mille miglia"
+  }
+ ]
+}

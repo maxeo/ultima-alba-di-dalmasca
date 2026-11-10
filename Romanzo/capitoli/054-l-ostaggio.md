@@ -126,7 +126,7 @@ Fuori la notte era chiara. Le nuvole se n'erano andate verso est e sopra Kerwon 
 
 Ashe camminava. Non sapeva dove andava. Aveva lasciato la casa perché dentro c'era un ragazzo che le aveva offerto se stesso come si offre una moneta, e lei non aveva saputo cosa rispondere, e una principessa che non sa cosa rispondere deve almeno avere la decenza di non farsi vedere. Attraversò un ponte. I suoi passi facevano oscillare le tavole. Si fermò al centro, con le mani sulle corde, e guardò giù, verso la pianura nera, dove l'erba di Ozmone si muoveva sotto il vento senza luce.
 
-La vendetta era una cosa semplice. Questa era la cosa che nessuno le aveva mai detto e che lei aveva scoperto da sola, in due anni di nascondigli e di cantine: la vendetta era una cosa semplice e calda, e stava in mano come una pietra levigata, e la sera, quando ci si sdraiava al buio, era l'unica cosa che non pungeva. Ci si poteva dormire sopra. Si sapeva dove stava. La pace che il ragazzo le offriva non aveva forma. Non si poteva stringere. Le sfuggiva tra le dita come il suo anello, che le era sempre stato largo e che adesso non c'era più.
+La vendetta era una cosa semplice. Questa era la cosa che nessuno le aveva mai detto e che lei aveva scoperto da sola, in due anni di nascondigli e di cantine: la vendetta era una cosa semplice e calda, e stava in mano come una pietra levigata, e la sera, quando ci si sdraiava al buio, era l'unica cosa che non pungeva. Ci si poteva dormire sopra. Si sapeva dove stava. La pace che il ragazzo le offriva non aveva forma. Non si poteva stringere. Le sfuggiva tra le dita.
 
 Sollevò la testa.
 

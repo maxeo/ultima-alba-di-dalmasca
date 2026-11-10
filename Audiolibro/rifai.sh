@@ -32,7 +32,7 @@ args=(--script_mode full_docker --headless --session "$S" --ebook "/app/testo/$f
 # Fa credere al programma che il blocco sia già finito: così controlla le frasi mancanti e rifà solo quelle.
 ripresa() { node -e "const fs=require('fs'),p='$J',j=JSON.parse(fs.readFileSync(p));j.block_resume=j.blocks.length;j.sentence_resume=0;fs.writeFileSync(p,JSON.stringify(j,null,4))"; }
 # Solo le frasi mancanti, senza montaggio: il capitolo pubblicato resta com'è.
-solo_frasi() { ripresa; SOLO_FRASI=1 bash tts.sh "audio/rifai-$id.txt" "${args[@]}"; }
+solo_frasi() { ripresa; SOLO_FRASI=1 TTS_OPERAZIONE="cap. ${id#00}: $1" bash tts.sh "audio/rifai-$id.txt" "${args[@]}"; }
 # Rimonta il capitolo dalle frasi (rifacendo quelle mancanti), poi controllo e pubblicazione.
 # Le frasi rifatte con MONTA=no si segnano in audio/da-montare-NNN.txt: al montaggio Whisper riascolta anche quelle.
 monta() {
@@ -46,7 +46,7 @@ monta() {
   if [ -n "$2" ] && [ -f "audiobooks/$f.vtt" ]; then cp "audiobooks/$f.vtt" "controlli/$f.vtt-prima"; else rm -f "controlli/$f.vtt-prima"; fi
   rm -f "$P/chapters/$B.flac" "$P/$f.flac" "audiobooks/$f.mp3" "audiobooks/$f.vtt"
   S0=$(date +%s)
-  bash tts.sh "audio/rifai-$id.txt" "${args[@]}"
+  TTS_OPERAZIONE="cap. ${id#00}: $1, rimontaggio" bash tts.sh "audio/rifai-$id.txt" "${args[@]}"
   if [ -s "audiobooks/$f.mp3" ]; then
     echo "$(date '+%F %T') $f $1 in $(( $(date +%s)-S0 ))s" | tee -a audio/stato.txt
     rm -f "audio/da-montare-$id.txt"
@@ -57,12 +57,13 @@ monta() {
 }
 case "$1" in
   --prove)
-    i=$2; n=${3:-4}; [ -n "$i" ] && [ -f "$D/$i.flac" ] || { echo "Frase $i non trovata"; exit 2; }
+    i=$2; n=${3:-4}; [[ "$i" =~ ^[0-9]+$ ]] && [ -f "$D/$i.flac" ] || { echo "Frase $i non trovata"; exit 2; }
+    [[ "$n" =~ ^[0-9]+$ ]] && [ "$n" -ge 1 ] && [ "$n" -le 10 ] || { echo "Numero di prese non valido: $n (da 1 a 10)"; exit 2; }
     mkdir -p audio/prove
     [ -f "audio/prove/$id-$i-0.flac" ] || cp "$D/$i.flac" "audio/prove/$id-$i-0.flac"
     for k in $(seq "$n"); do
       rm -f "$D/$i.flac"; S0=$(date +%s)
-      solo_frasi || { cp "audio/prove/$id-$i-0.flac" "$D/$i.flac"; echo "ERRORE: vedi Audiolibro/audio/rifai-$id.txt"; exit 1; }
+      solo_frasi "prova $k di $n della frase $i" || { cp "audio/prove/$id-$i-0.flac" "$D/$i.flac"; echo "ERRORE: vedi Audiolibro/audio/rifai-$id.txt"; exit 1; }
       cp "$D/$i.flac" "audio/prove/$id-$i-$k.flac"; echo "presa $k pronta in $(( $(date +%s)-S0 ))s"
     done
     cp "audio/prove/$id-$i-0.flac" "$D/$i.flac"
@@ -80,7 +81,7 @@ esac
 [ $# -gt 0 ] || { echo "Indica almeno una frase"; exit 2; }
 for j in "$@"; do rm -f "$D/$j.flac"; done
 if [ "$MONTA" = "no" ]; then
-  solo_frasi || { echo "ERRORE: vedi Audiolibro/audio/rifai-$id.txt"; exit 1; }
+  solo_frasi "frasi $* senza montaggio" || { echo "ERRORE: vedi Audiolibro/audio/rifai-$id.txt"; exit 1; }
   echo "$*" >> "audio/da-montare-$id.txt"
   echo "$(date '+%F %T') $f frasi $* pronte, da rimontare (rifai.sh ${id#00} --monta)" | tee -a audio/stato.txt; exit 0
 fi

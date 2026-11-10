@@ -24,7 +24,7 @@ Ondore si tolse gli occhiali dal naso e si rimise quelli della fronte, e guardò
 
 Il capitano non rispose. Ondore annuì, come se la risposta l'avesse data.
 
-«Diventa il campo su cui gli altri due combattono.» Prese la penna. «È quello che Dalmasca rischia di diventare, e che Raminas, che riposi in pace, ha evitato per trent'anni con la pazienza di un santo e la diplomazia di un mercante di tappeti. Io non ho la pazienza di Raminas. Ho cinquantadue navi.» Intinse la penna. «E l'unica lettera che mi abbia mai dato una risposta onesta, in tutta questa guerra, viene da un pirata.»
+«Diventa il campo su cui gli altri due combattono.» Prese la penna. «È quello che Dalmasca rischia di diventare, e che Raminas, che riposi in pace, ha evitato per trent'anni con la pazienza di un santo e la diplomazia di un mercante di tappeti. Io non ho la pazienza di Raminas. Ho cinquantadue navi.» Intinse la penna. «E l'unica lettera che mi abbia mai dato una risposta onesta, in tutta questa guerra, viene da un aviopirata.»
 
 Tirò fuori da sotto le carte nautiche un foglio diverso dagli altri. Era carta grossa, color crema, senza intestazione, piegata in quattro e poi spiegata tante volte che le pieghe erano diventate morbide come stoffa. La grafia era grande, diritta, antiquata. Ondore non la rilesse. La conosceva.
 
@@ -180,11 +180,11 @@ Tutti si voltarono.
 
 Fran era rimasta in piedi vicino alla finestra, come Reddas qualche settimana prima, e guardava la baia. Non si girò. Cominciò a parlare, e non era la sua voce di sempre, quella delle frasi di due parole; era una voce più bassa, più lenta, che andava su e giù per una melodia che nessuno di loro aveva mai sentito, e le parole non erano proprio parole, o lo erano in una lingua che il comune aveva preso in prestito molto tempo prima e poi dimenticato. Lo cantava. Lo cantava piano, come si canta a un bambino che non dorme, e quando arrivava alla fine di un verso si fermava, e poi riprendeva.
 
-*Oltre la riva lontana del fiume del tempo,*
-*dove la nebbia non si alza e il Mystes non scorre,*
-*dorme la città che non dorme.*
-*Gli uomini la cercano con gli occhi,*
-*e gli occhi la nascondono.*
+*Oltre la riva lontana del fiume del tempo,*  
+*dove la nebbia non si alza e il Mystes non scorre,*  
+*dorme la città che non dorme.*  
+*Gli uomini la cercano con gli occhi,*  
+*e gli occhi la nascondono.*  
 *Chi la trova, la trova perché è stato chiamato.*
 
 Si fermò. Nella stanza nessuno si mosse. Raz aveva smesso di servire la zuppa, con il mestolo a mezz'aria.
@@ -219,7 +219,7 @@ Più tardi, quando gli altri erano scesi sotto il portico a guardare il tramonto
 
 «Uno.»
 
-«Allora il campione è piccolo.» Reddas sorrise appena. «E il vostro pirata, perdonatemi, è un pirata strano anche lui. Si veste troppo bene.»
+«Allora il campione è piccolo.» Reddas sorrise appena. «E il vostro aviopirata, perdonatemi, è un pirata strano anche lui. Si veste troppo bene.»
 
 «Siete di qui? Di Balfonheim?»
 

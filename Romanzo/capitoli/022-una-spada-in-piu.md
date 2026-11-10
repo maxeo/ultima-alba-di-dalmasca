@@ -40,7 +40,7 @@ Il pugno non arrivò. Balthier gli prese il braccio da dietro, a metà strada, c
 
 «No.» Balthier non stringeva forte. Stringeva il giusto. «Non adesso. Ne avrai il tempo, se vuoi. Ma non adesso.»
 
-«È lui! L'hai sentito! È lui che...» Vaan si girò verso il pirata, con il braccio ancora preso. «Hai detto anche tu che non fai affari con i morti che hanno ammazzato un re. L'hai detto tu.»
+«È lui! L'hai sentito! È lui che...» Vaan si girò verso l'aviopirata, con il braccio ancora preso. «Hai detto anche tu che non fai affari con i morti che hanno ammazzato un re. L'hai detto tu.»
 
 «Ho detto molte cose, sterminatore. Fa parte del mio fascino.» Balthier lo lasciò andare, ma rimase fra lui e Basch, un passo di lato, con le mani basse. «Ascoltami, perché lo dico una volta sola e poi divento noioso. Io non so chi ha ammazzato il tuo re. Non c'ero. Non c'eri neanche tu. So solo quello che dice un foglio letto in piazza, e i fogli letti in piazza, nella mia esperienza, li scrive chi ha vinto. Questo non vuol dire che lui sia innocente. Vuol dire che io non lo so.» Indicò la caverna, il buio, il ronzio. «Quello che so è che siamo sotto Nalbina, in un posto dove nessuno ha messo piede da chissà quando, e che da qualche parte, qui dentro, ci sono cose che non hanno bisogno di fogli per decidere chi mangiare. Siamo in tre. Con lui siamo in quattro.»
 
@@ -52,7 +52,7 @@ Basch lo guardò. Poi guardò Vaan, che ansimava a due passi, con il pugno ancor
 
 «Se ho una spada» disse «so tenerla.»
 
-«Ecco. Un'altra spada.» Balthier allargò le mani verso Vaan, come un mercante che mostra un tappeto. «Un'altra spada è sempre meglio di nessuna. È uno dei pochi principi su cui un pirata e un capitano dell'esercito possono trovarsi d'accordo.»
+«Ecco. Un'altra spada.» Balthier allargò le mani verso Vaan, come un mercante che mostra un tappeto. «Un'altra spada è sempre meglio di nessuna. È uno dei pochi principi su cui un pirata del cielo e un capitano dell'esercito possono trovarsi d'accordo.»
 
 «Non mi fido di lui.»
 

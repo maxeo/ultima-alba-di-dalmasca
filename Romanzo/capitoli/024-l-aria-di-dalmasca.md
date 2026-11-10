@@ -18,7 +18,7 @@ La bestia urtò il sostegno della pensilina. La tettoia si abbassò di un palmo 
 
 «Lo vedo.»
 
-«Lo dico perché...» Vaan lasciò la frase. Balthier aveva già passato la ringhiera ed era finito sul tetto di un carrello fermo, da dove poteva sparare oltre le zampe. Fran tese l'arco. Il primo colpo del pirata rimbalzò sulla corazza, il secondo entrò vicino alla giuntura; la creatura girò il corpo verso di lui e lasciò libera per un istante la scala.
+«Lo dico perché...» Vaan lasciò la frase. Balthier aveva già passato la ringhiera ed era finito sul tetto di un carrello fermo, da dove poteva sparare oltre le zampe. Fran tese l'arco. Il primo colpo dell'aviopirata rimbalzò sulla corazza, il secondo entrò vicino alla giuntura; la creatura girò il corpo verso di lui e lasciò libera per un istante la scala.
 
 «Adesso» disse Basch.
 

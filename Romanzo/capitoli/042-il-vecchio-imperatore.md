@@ -24,7 +24,7 @@ Era il più vecchio dei Giudici presenti, anche se non il più anziano di serviz
 
 «L'ho riportato io» disse Gabranth.
 
-«Lo so. Grazie.» Drace si voltò. «Ha detto che a Bhujerba ha visto una miniera, un marchese, un pirata e una principessa morta. Ha detto che il pirata gli ha fatto un inchino perfetto. Ha detto che vuole parlare con il padre.» Una pausa. «Non gli hanno permesso di salire.»
+«Lo so. Grazie.» Drace si voltò. «Ha detto che a Bhujerba ha visto una miniera, un marchese, un aviopirata e una principessa morta. Ha detto che il pirata gli ha fatto un inchino perfetto. Ha detto che vuole parlare con il padre.» Una pausa. «Non gli hanno permesso di salire.»
 
 «Sua Maestà riposa» disse Zargabaath.
 
@@ -40,7 +40,7 @@ Bergan rise, alla finestra. Una risata grossa, breve, che rimbombò nella sala d
 
 «Vayne» disse Drace.
 
-«Vayne. Che ha preso Dalmasca in un mese e Nabradia in una notte. Che ha fatto più per l'impero in due anni di quanto il Senato abbia fatto in venti.» Bergan fece un passo verso di lei. «Mentre il tuo ragazzino gioca con le pietre di Lhusu e si fa fare gli inchini dai pirati.»
+«Vayne. Che ha preso Dalmasca in un mese e Nabradia in una notte. Che ha fatto più per l'impero in due anni di quanto il Senato abbia fatto in venti.» Bergan fece un passo verso di lei. «Mentre il tuo ragazzino gioca con le pietre di Lhusu e si fa fare gli inchini dagli aviopirati.»
 
 «Il mio ragazzino» disse Drace, molto piano «ha dodici anni, e a dodici anni ha già capito che cosa succede a chi si trova fra un Solidor e il trono. Tu lo hai capito a trentatré?»
 

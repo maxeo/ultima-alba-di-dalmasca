@@ -26,7 +26,7 @@ Ba'Gamnan dovette chinarsi per entrare. Era il più grosso dei quattro, e il pi�
 
 Ba'Gamnan non la ascoltava. Si era chinato su una delle casse e ci aveva steso sopra un foglio unto, una specie di mappa disegnata a carbone, e ci batteva sopra l'unghia del dito, che era lunga e gialla e aveva una tacca anche lei.
 
-«Il pirata vale ventimila vivo» disse, ai suoi. «Diecimila morto. Chi lo ammazza per sbaglio paga la differenza di tasca sua.»
+«L'aviopirata vale ventimila vivo» disse, ai suoi. «Diecimila morto. Chi lo ammazza per sbaglio paga la differenza di tasca sua.»
 
 «Non abbiamo ventimila in tasca» disse Bwagi.
 
@@ -44,7 +44,7 @@ Ba'Gamnan si raddrizzò lentamente. La cicatrice gli tirò il labbro ancora più
 
 Penelo aprì la bocca e la richiuse.
 
-«Per una che ha visto una volta sola» continuò il Bangaa «il pirata è salito sulla sua bella nave e ha attraversato mezzo cielo in un giorno. Io ho una sorella, ragazzina. L'ho vista ogni giorno per vent'anni. Se la rapissero domani, aspetterei di sapere quanto chiedono.»
+«Per una che ha visto una volta sola» continuò il Bangaa «il pirata del cielo è salito sulla sua bella nave e ha attraversato mezzo cielo in un giorno. Io ho una sorella, ragazzina. L'ho vista ogni giorno per vent'anni. Se la rapissero domani, aspetterei di sapere quanto chiedono.»
 
 «È quello che vorrei sapere anch'io» disse Penelo, e le uscì così sincera, così stizzita, che perfino Gijuk girò la testa. «Perché viene? Che cosa gli ho fatto? Non lo conosco! Gli ho detto grazie per un fazzoletto e basta, e adesso lui viene, e voi mi tenete qui, e io non ho mai neanche visto una nave da vicino...»
 
@@ -188,7 +188,7 @@ Basch gli restituì l'inchino, perché non sapeva fare altrimenti.
 
 Scesero verso la città per una scalinata scavata nel fianco della roccia, che girava attorno alla montagna come il filo attorno a un fuso. Bhujerba, vista da dentro, era meno favolosa e più viva. Le strade erano strette e ripide, lastricate di una pietra grigia lucidata dai piedi, con un canaletto al centro dove scorreva l'acqua delle cisterne. Le case avevano finestre piccole, per il freddo, e porte dipinte di azzurro, per il cielo, e sopra ogni porta un cristallo appeso a un filo che girava piano nel vento. Lamont spiegò che era un'usanza antica: un pezzetto di magilite davanti all'uscio tiene la casa leggera, e una casa leggera non crolla. Vaan osservò che a Rabanastre, davanti alle porte, si appendevano le cipolle, e che anche quelle non crollavano. Lamont rise. Aveva una risata breve, sorpresa, come se non gli capitasse spesso.
 
-C'era ricchezza dappertutto, ma una ricchezza particolare, che stava nelle mani più che nelle case. I minatori che risalivano dalle gallerie alla fine del turno avevano le dita grigie fino alle nocche e anelli d'argento su ogni dito. Le botteghe vendevano bussole, lanterne, cristalli di ogni misura in cesti come la frutta, e in una piazzetta una vecchia seduta su uno sgabello offriva ai forestieri «pietre del cielo, vere, che galleggiano» e ne teneva una sospesa sul palmo a un dito dalla pelle. Vaan si fermò a guardarla, rapito. Balthier, passando, le infilò sotto il palmo un'unghia e la pietra cadde; ci aveva legato sotto un capello. La vecchia gli disse una cosa in bhujerbano che Lamont si rifiutò di tradurre.
+C'era ricchezza dappertutto, ma una ricchezza particolare, che stava nelle mani più che nelle case. I minatori che risalivano dalle gallerie alla fine del turno avevano le dita grigie fino alle nocche e anelli d'argento su ogni dito. Le botteghe vendevano bussole, lanterne, cristalli di ogni misura in cesti come la frutta, e in una piazzetta una vecchia seduta su uno sgabello offriva ai forestieri «pietre del cielo, vere, che galleggiano» e ne teneva una sospesa sul palmo a un dito dalla pelle. Vaan si fermò a guardarla, rapito. Balthier, passando, le infilò sotto il palmo un'unghia e la pietra cadde; ci aveva legato sotto un capello. La vecchia gli disse una cosa in dialetto bhujerbano che Lamont si rifiutò di ripetere.
 
 Dappertutto c'erano soldati archadiani, e dappertutto la gente faceva finta di non vederli. Era una finzione ben educata e piena di regole, che a Vaan, abituato alle strade di Rabanastre dove i soldati si guardavano storto e si insultavano a bassa voce, parve stranissima. Qui un mercante vendeva un pane a un soldato e gli diceva che il cielo gli fosse lieve, e il soldato pagava e se ne andava, e il mercante si puliva le mani sul grembiule con una cura eccessiva, dito per dito.
 

@@ -60,7 +60,7 @@ Si strinse nelle spalle.
 
 Ashe non lo interruppe.
 
-«Le aeronavi, il cielo, diventare pirata. Lo sai. Lo dico a tutti. L'ho detto così tante volte che ci credevo anch'io. Ci credo anche adesso, a metà.» Vaan alzò gli occhi verso le stelle. «Però a casa di Dalan, quando Balthier mi ha chiesto cosa cerco, non sapevo rispondere. E allora ci ho pensato. E credo che il cielo… credo che non volevo il cielo. Volevo andare via. Da Rabanastre. Dalla stanza sopra la bottega, dove c'era il letto. Dalla via delle Fontane. Da tutti i posti dove passavo e mi veniva in mente lui. Se sei su una nave, sei in un posto dove lui non è mai stato. Non c'è niente che te lo ricorda. È per questo.»
+«Le aeronavi, il cielo, diventare aviopirata. Lo sai. Lo dico a tutti. L'ho detto così tante volte che ci credevo anch'io. Ci credo anche adesso, a metà.» Vaan alzò gli occhi verso le stelle. «Però a casa di Dalan, quando Balthier mi ha chiesto cosa cerco, non sapevo rispondere. E allora ci ho pensato. E credo che il cielo… credo che non volevo il cielo. Volevo andare via. Da Rabanastre. Dalla stanza sopra la bottega, dove c'era il letto. Dalla via delle Fontane. Da tutti i posti dove passavo e mi veniva in mente lui. Se sei su una nave, sei in un posto dove lui non è mai stato. Non c'è niente che te lo ricorda. È per questo.»
 
 Si fermò. Poi aggiunse, più piano:
 

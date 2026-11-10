@@ -1,6 +1,6 @@
 ## 6. La morte di un regno
 
-Il primo documento arrivò a Rabanastre tre giorni dopo la notte di Nalbina, inchiodato alle porte della città da soldati che non parlavano dalmasco e che non ne avevano bisogno, perché il foglio era scritto in un dalmasco eccellente. Era stampato, non copiato a mano. A Rabanastre i fogli stampati si vedevano di rado, e la gente si fermava a toccarli prima ancora di leggerli, a passare il dito sulle lettere tutte uguali, come se l'uniformità dei caratteri fosse già una prova della loro verità.
+Il primo documento arrivò a Rabanastre tre giorni dopo la notte di Nalbina, inchiodato alle porte della città da soldati che non dissero una parola e che non ne avevano bisogno, perché il foglio era scritto benissimo. Era stampato, non copiato a mano. A Rabanastre i fogli stampati si vedevano di rado, e la gente si fermava a toccarli prima ancora di leggerli, a passare il dito sulle lettere tutte uguali, come se l'uniformità dei caratteri fosse già una prova della loro verità.
 
 Il foglio diceva che re Raminas di Dalmasca, recatosi a Nalbina per sottoscrivere un trattato di pace con l'Impero di Archadia, era stato assassinato a tradimento, nella notte, da un ufficiale del suo stesso esercito. Diceva che l'Impero deplorava il crimine con tutta la forza del suo sdegno. Diceva che l'assassino era stato catturato sul fatto da reparti imperiali accorsi in difesa del sovrano, e che i reparti imperiali erano accorsi troppo tardi, e che di questo ritardo l'Impero si rammaricava. Diceva, in fondo, in caratteri più piccoli, che per garantire l'ordine pubblico e la sicurezza dei cittadini in un momento di così grave lutto, le truppe imperiali sarebbero entrate a Rabanastre il giorno seguente.
 
@@ -32,21 +32,23 @@ Il proclama non diceva come. Non diceva dove fosse il corpo, né quando sarebbe 
 
 ---
 
-Il terzo documento fu letto due settimane dopo, in piazza, davanti al palazzo, da un araldo archadiano in tabarro grigio, con un dalmasco senza accento. Era una sentenza.
+Il terzo documento fu letto due settimane dopo, in piazza, davanti al palazzo, da un araldo archadiano in tabarro grigio, senza nessun accento. Era una sentenza.
 
 Diceva che Basch fon Ronsenburg, già capitano dell'Ordine dei Cavalieri di Dalmasca, nativo di Landis, riconosciuto colpevole di regicidio e di alto tradimento davanti a un tribunale militare dell'Impero, era stato giustiziato a Nalbina all'alba del giorno precedente. Diceva che la sentenza era stata eseguita secondo la legge, con la dovuta solennità e alla presenza di testimoni. Non diceva i nomi dei testimoni. Diceva che chiunque, da quel giorno, avesse continuato a impugnare le armi contro l'ordine stabilito sarebbe stato considerato complice del traditore, e trattato di conseguenza.
+
+Qualche giorno dopo la stessa notizia arrivò da Bhujerba, in un secondo proclama del marchese, che la riportava parola per parola e non vi aggiungeva niente di suo.
 
 L'araldo arrotolò il foglio. La piazza era piena. Una donna accanto alla fontana, quella con il re di pietra, disse «Bene» ad alta voce, e la parola rimbalzò sulle facciate, e qualcuno intorno a lei ripeté «bene», e poi un altro, e per un poco la piazza fu piena di gente che diceva bene senza guardarsi in faccia. Fra loro c'era un ragazzo magro, con le gambe troppo lunghe e una ciocca di capelli storta sopra l'orecchio, che non disse niente ad alta voce ma lo pensò con tanta forza che gli fece male la testa. Poi se ne tornò di corsa verso la Città Bassa, perché c'era qualcuno, nella stanza sopra la bottega di Migelo, che non poteva essere lasciato solo troppo a lungo.
 
 ---
 
-La resa fu firmata un mese dopo, a Nalbina, dal cancelliere Halvor, in quanto più alto ufficiale superstite della corona. Fu una resa senza condizioni. Il trattato che Raminas aveva letto fino alla penultima riga, quello che lasciava a Dalmasca le cisterne e i templi e la lingua, non fu mai ritrovato; fu sostituito da un altro, più breve, che non lasciava niente e che non aveva bisogno di essere letto fino in fondo, perché diceva tutto nella prima riga. Il cancelliere lo firmò senza leggerlo. Gli tremava la mano. Gli archadiani presenti furono così cortesi da non notarlo.
+La resa fu firmata un mese dopo, a Nalbina, dal cancelliere Halvor, in quanto più alto ufficiale superstite della corona. Fu una resa senza condizioni. Il trattato che Raminas aveva letto fino alla penultima riga, quello che lasciava a Dalmasca le cisterne e i templi e le usanze, non fu mai ritrovato; fu sostituito da un altro, più breve, che non lasciava niente e che non aveva bisogno di essere letto fino in fondo, perché diceva tutto nella prima riga. Il cancelliere lo firmò senza leggerlo. Gli tremava la mano. Gli archadiani presenti furono così cortesi da non notarlo.
 
 Il giorno dopo, sul palazzo di Rabanastre, le bandiere azzurre e bianche vennero ammainate e piegate con cura da soldati imperiali che avevano ricevuto istruzioni precise su come piegarle, perché l'Impero teneva molto alla forma. Al loro posto salirono le insegne di Archadia. Il leone di pietra sopra la porta grande non fu toccato; sarebbe costato troppo smontarlo, e un leone su una porta conquistata, del resto, fa la figura del trofeo.
 
 Quello stesso giorno entrò nella sala del consiglio un tribuno archadiano giovane, con i guanti bianchi e un segretario che portava una cartella di cuoio. Trovò il tesoriere Ostram ancora al suo posto, perché nessuno gli aveva detto di andarsene, seduto davanti alla mappa di pelle di capra con le mani in grembo. Il tribuno si avvicinò al tavolo, guardò i pesi d'ottone per un tempo educato e poi, con due dita guantate, cominciò a raccoglierli. Prese prima quello di Nabradia, poi quelli di Dalmasca, uno dopo l'altro, e li mise nella cartella del segretario, che li riceveva con l'aria di chi raccoglie le briciole da una tovaglia. Lasciò sulla mappa gli undici pesi di Archadia, dove stavano.
 
-«Si era parlato di un'autonomia» disse Ostram. Non sapeva perché lo stesse dicendo. «Nel trattato. Le cisterne, i templi, la lingua.»
+«Si era parlato di un'autonomia» disse Ostram. Non sapeva perché lo stesse dicendo. «Nel trattato. Le cisterne, i templi, le usanze.»
 
 «Se n'era parlato» disse il tribuno. «Con un re. Il re non c'è più, e non per colpa nostra.» Chiuse la cartella. «Ringraziate il vostro capitano.»
 
@@ -64,7 +66,7 @@ Non disse niente quel giorno. Non disse niente il giorno dopo, quando le giovani
 
 La sera del terzo giorno, quando le ragazze se n'erano andate, prese un piatto dalla credenza, ci mise sopra una focaccia della Città Bassa, un pezzo di formaggio di capra e una manciata di datteri, ci posò sopra un tovagliolo pulito e lo mise da parte nella dispensa, sul ripiano più alto, dove gli archadiani non guardavano.
 
-Il cuoco archadiano che il governatore aveva mandato a ispezionare le cucine la vide farlo e le chiese, in un dalmasco faticoso, per chi fosse.
+Il cuoco archadiano che il governatore aveva mandato a ispezionare le cucine la vide farlo e le chiese, con un accento archadiano stretto, per chi fosse.
 
 «Per nessuno» disse la vecchia.
 

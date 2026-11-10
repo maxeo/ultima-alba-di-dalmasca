@@ -36,7 +36,7 @@ Si fermarono tutti. Basch continuò a camminare due passi, poi si accorse di ess
 
 Balthier fu il primo a riprendersi.
 
-«Dubito molto» disse, con tutta la dignità che riuscì a raccogliere «che sua altezza abbia bisogno di un pirata per sottrarsi ai suoi doveri. Sua altezza sa sottrarsi benissimo da sola. L'ho vista farlo.»
+«Dubito molto» disse, con tutta la dignità che riuscì a raccogliere «che sua altezza abbia bisogno di un aviopirata per sottrarsi ai suoi doveri. Sua altezza sa sottrarsi benissimo da sola. L'ho vista farlo.»
 
 «Siete tutti molto sicuri di me» disse Ashe.
 

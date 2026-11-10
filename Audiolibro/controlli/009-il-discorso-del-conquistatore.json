@@ -1,0 +1,20 @@
+{
+ "capitolo": "009-il-discorso-del-conquistatore",
+ "somiglianza": 0.9716,
+ "problemi": [
+  {
+   "tempo": "0:07",
+   "secondi": 7.3,
+   "tipo": "diverso",
+   "testo": "discorso del conquistatore pause2 l araldo aveva una lista",
+   "audio": "discorso del conquistatore laraldo aveva una lista"
+  },
+  {
+   "tempo": "13:37",
+   "secondi": 817.6,
+   "tipo": "diverso",
+   "testo": "arcadia forse altezza vein lo prese per un",
+   "audio": "arcadia forse altezza vain le ho prese per un"
+  }
+ ]
+}

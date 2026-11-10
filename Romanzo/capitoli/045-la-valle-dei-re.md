@@ -38,7 +38,7 @@ Fran tirò. La freccia deviò la discesa del rapace, che colpì un gradino con u
 
 «Balthier!»
 
-Il pirata si voltò e vide il frutto scuro fra le dita. Indicò la terrazza dove il Garuda stava per posarsi. «Sopra il vento. Aspetta che scenda.»
+L'aviopirata si voltò e vide il frutto scuro fra le dita. Indicò la terrazza dove il Garuda stava per posarsi. «Sopra il vento. Aspetta che scenda.»
 
 Vaan non aspettò abbastanza. Corse per tre gradini e lanciò. La pezza si aprì in aria, le bacche colpirono il fianco della colonna e si ruppero; un odore acre, di resina e frutta fermentata, lo investì subito. Il Garuda piegò la testa. Provò a battere le ali, perse il ritmo e scese proprio dentro la nube.
 
@@ -142,7 +142,7 @@ Il pirata si girò verso Fran. «Noi siamo intrusi molto esperti.»
 
 Vossler prese la parola prima che la principessa potesse rispondere. «Se l'accesso richiede una prova, quella prova è il Frammento del Crepuscolo. Che abbiamo perso.»
 
-Ashe sentì l'anello scivolarle verso la nocca e lo rimandò alla base del dito con il pollice. «Lo so.»
+Ashe sfiorò l'anello con il pollice. «Lo so.»
 
 «Non possiamo contare soltanto sul sangue.»
 
@@ -162,7 +162,7 @@ Balthier si mise la pistola nella cintura. «Oltre al compenso che mi è stato p
 
 La principessa lo guardò in viso. «Il tesoro è dentro.»
 
-Il pirata fece passare un istante, il tempo di dare alla frase tutto il valore che voleva sentirci. Poi si avvicinò al congegno e ne esaminò le linee luminose, senza toccarle.
+L'aviopirata fece passare un istante, il tempo di dare alla frase tutto il valore che voleva sentirci. Poi si avvicinò al congegno e ne esaminò le linee luminose, senza toccarle.
 
 «Non c'è un cardine» osservò Vaan.
 
