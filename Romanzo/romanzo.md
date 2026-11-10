@@ -775,181 +775,673 @@ Migelo salì le scale con il passo pesante e cauto dei bangaa, che hanno le gino
 
 «Coraggioso» disse a Reks, con la sua voce di ghiaia, e non era chiaro se parlasse della partenza o del taglio. Se ne andò com'era venuto.
 
-Reks prese la giubba, che Migelo gli aveva lasciato piegata ai piedi del letto, e se la mise sulle ginocchia. Le maniche adesso erano giuste. Dalla tasca tirò fuori la spilla. Era un ovale d'argento grande come un'unghia di pollice, con dentro una goccia di smalto azzurro, e il padre l'aveva portata per tutta la vita sul bavero della giacca della festa. Era l'unica cosa d'argento rimasta in famiglia. Reks la appuntò sul petto della giubba, a sinistra, e ci mise tre tentativi, perché lo spillo era storto e la chiusura non teneva.
+Reks prese la giubba che Migelo gli aveva lasciato piegata ai piedi del letto e se la sistemò sulle ginocchia. Le maniche, dopo il lavoro del vecchio bangaa, erano finalmente della lunghezza giusta. Passò una mano sulle cuciture, poi tirò fuori dalla tasca una piccola spilla d'argento, grande quanto un'unghia, con una goccia di smalto azzurro al centro.
 
-«Ti cadrà» disse Vaan dalla finestra, senza voltarsi. Lo aveva visto riflesso nel vetro.
+Era appartenuta a suo padre, che la portava sul bavero della giacca nelle occasioni importanti. Reks ricordava ancora come la lucidasse prima di uscire, strofinandola con un angolo della camicia finché l'argento non tornava a brillare. Dopo la sua morte, era rimasta l'unica cosa di valore che i due fratelli possedevano.
+
+Reks decise che l'avrebbe portata con sé. Provò ad appuntarla sul petto della giubba, ma lo spillo era storto e la chiusura non voleva saperne di restare ferma. Dovette riprovarci tre volte prima di riuscire a fissarla.
+
+«Ti cadrà» disse Vaan dalla finestra.
+
+Reks alzò lo sguardo. Suo fratello gli dava ancora le spalle, offeso per il taglio di capelli, ma lo aveva osservato attraverso il riflesso del vetro.
 
 «Non cade.»
 
-«Lo spillo è storto da quando papà ci si è seduto sopra.»
+«Lo spillo è storto da quando papà ci si è seduto sopra. Te lo ricordi?»
 
-«Se cade, la raccogli tu. Ci metti un laccio e te l'appendi al collo, così non la perdi più.»
+«Me lo ricordo.»
 
-Vaan non rispose. Dopo un po' venne a sedersi sulla branda accanto a lui, di peso, apposta, così che la branda gemette e Reks fece un piccolo salto.
+Reks provò a tirare delicatamente la spilla. Sembrava tenere.
 
-«Perché parti tu?» chiese. «Ci vanno quelli che non sanno fare niente. Tu sai fare i conti. Sai legare le casse. Lo dice anche Migelo.»
+«Visto?»
 
-Reks ci pensò. Delle ragioni che aveva, nessuna era adatta a un fratello di quindici anni con un gradino nei capelli sopra l'orecchio. Scelse quella che gli parve più vera fra quelle che si potevano dire.
+«Aspetta di cominciare a correre.»
 
-«Tu stai qui» disse. «Aiuti Migelo, non rubi niente a nessuno...»
+«Se cade, la raccoglierò.»
 
-«Io non rubo.»
+«Sempre che te ne accorga.»
 
-«... non rubi niente a nessuno che abbia un coltello più grande del tuo, e mi aspetti. Qualcuno deve restare a casa.» Guardò il vaso verde sulla finestra. «Altrimenti non si torna da nessuna parte. Si va e basta. Io voglio tornare, e per tornare ci vuole qualcuno a casa.»
+Reks sorrise. «Sei proprio deciso a portarmi sfortuna, stasera.»
 
-Vaan guardava anche lui il vaso.
+Vaan non rispose subito. Rimase a guardare fuori dalla finestra, poi si allontanò e venne a sedersi sulla branda accanto al fratello. Si lasciò cadere con tutto il peso, facendo gemere il legno.
 
-«La mamma ci teneva i gigli» disse dopo un po'. «Non mi ricordo più l'odore.»
+«Ma perché devi partire proprio tu?» chiese.
 
-«Io sì. Si aprivano di sera, quando faceva meno caldo, e la stanza si riempiva tutta. Sembrava di stare in una casa più ricca.» Reks si stese sulla branda con le mani dietro la testa. «Quando torno andiamo a prenderne. Ne crescono anche nel deserto, verso est, fra le rocce. Si va e si torna in un giorno. Li prendiamo con le radici e li mettiamo nel vaso.»
+Reks si voltò verso di lui.
+
+«Ci sono tanti soldati. Tu sai fare i conti, sai lavorare in bottega. Migelo dice sempre che senza di te non riuscirebbe a mandare avanti tutte le consegne.»
+
+«Migelo dice anche che senza di te riuscirebbe a finire una giornata senza perdere la pazienza.»
+
+«Non cambiare discorso.»
+
+Reks abbassò gli occhi sulla giubba. Aveva già spiegato al fratello che la paga sarebbe servita a entrambi, ma sapeva che non era quella la risposta che Vaan cercava. Le altre ragioni erano più difficili da raccontare, soprattutto a lui.
+
+«Vaan, non starò via per sempre. È una missione, non una guerra intera.»
+
+«Non sai nemmeno dove ti mandano.»
+
+«Lo saprò quando arriveremo.»
+
+«E questo dovrebbe tranquillizzarmi?»
+
+Reks non seppe cosa rispondere. Ripiegò con cura la giubba e la posò accanto a sé.
+
+«Ascolta. Tu intanto resti qui, aiuti Migelo e cerchi di non combinare guai.»
+
+«Io non combino guai.»
+
+«Allora cerca di non rubare niente.»
+
+«Io non rubo!»
+
+«D'accordo. Non rubare niente a nessuno che abbia un coltello più grande del tuo.»
+
+Vaan cercò di mantenere un'espressione offesa, ma gli sfuggì un sorriso.
+
+Reks gli diede una leggera spinta con la spalla.
+
+«E soprattutto aspettami. Qualcuno deve pur restare a casa.»
+
+«Perché?»
+
+Reks guardò il vecchio vaso verde sul davanzale.
+
+«Perché voglio avere un posto in cui tornare. Se partissimo tutti e due, chi ci aspetterebbe?»
+
+Vaan seguì il suo sguardo. Per qualche momento rimasero in silenzio.
+
+«La mamma ci teneva i gigli» disse infine.
+
+Reks annuì.
+
+«Non mi ricordo più che odore avevano.»
+
+«Io sì. Si aprivano la sera, quando faceva meno caldo. Ti ricordi quando la mamma metteva il vaso vicino al letto?»
+
+Vaan scosse la testa.
+
+«La stanza profumava tutta. A volte era talmente forte che dovevamo aprire la finestra.»
+
+Vaan si alzò e andò a osservare il vaso. Sfiorò lo stelo secco con un dito, facendo cadere un piccolo frammento di terra sul davanzale.
+
+«Dovremmo metterci qualcosa di nuovo.»
+
+«Quando torno, andiamo a cercare dei gigli. Ne crescono anche fuori città, verso il deserto. Ne prendiamo qualcuno con le radici e lo piantiamo lì.»
 
 «Il vaso è crepato.»
 
-«Il vaso è riparato. È diverso.»
+«L'abbiamo riparato.»
 
-Reks soffiò sulla lampada. Vaan si stese accanto a lui, nella branda troppo stretta per due, con i piedi fuori dal bordo. Sotto, la bottega chiudeva: si sentivano la sbarra della porta e Migelo che contava le monete ad alta voce nella sua lingua, come ogni sera da tre anni.
+«Potrebbe rompersi di nuovo.»
+
+«Allora lo ripareremo ancora.»
+
+Vaan rimase qualche istante davanti alla finestra, poi tornò a sedersi accanto al fratello.
+
+* * *
+
+Era ormai tardi. Reks spense la lampada e si distese sulla propria branda, cercando una posizione comoda. Vaan, invece di raggiungere il suo letto, venne a sdraiarsi accanto a lui. La branda era troppo stretta per entrambi, e il ragazzo dovette lasciare i piedi sporgenti dal bordo.
+
+«Hai un letto tutto tuo» gli ricordò Reks.
+
+«Lo so.»
+
+«Allora perché sei qui?»
+
+«Perché voglio stare qui.»
+
+Reks non insistette. Si spostò appena per fargli spazio.
+
+Dal piano di sotto arrivavano i rumori della bottega che chiudeva: il tintinnio delle ultime monete, qualche cassa trascinata sul pavimento e infine il tonfo della sbarra che Migelo sistemava dietro la porta. Erano suoni familiari, gli stessi che li accompagnavano ogni sera da quando vivevano lì.
 
 «Reks.»
 
-«Mm.»
+«Mm?»
 
-«Se il capitano Basch non ti riporta a casa, vengo a Nalbina e lo ammazzo.» Lo disse con la bocca contro il cuscino, e la voce arrivò storta.
+«Se il capitano Basch non ti riporta a casa, vengo a Nalbina e lo ammazzo.»
 
-«Va bene» disse.
+La voce di Vaan arrivò soffocata dal cuscino.
+
+Reks sorrise nel buio.
+
+«Non sai nemmeno se andiamo a Nalbina.»
+
+«Lo so dove andrete.»
+
+«Ah, sì?»
+
+«Sì. E se non torni, lo ammazzo.»
+
+«Va bene.»
 
 «Dico sul serio.»
 
-«Lo so. Dormi.»
+«Lo so, Vaan.»
 
-Vaan si addormentò presto, di colpo, con la bocca aperta e una gamba sopra quella del fratello. Reks rimase sveglio. Quando le campane della Città Bassa suonarono l'undicesima ora, si sfilò da sotto la gamba di Vaan, piano, e la gamba ricadde fuori dalla branda e restò lì. Si vestì al buio. La giubba stretta da Migelo gli stava bene sulle spalle, e lui le tenne dritte per non stropicciarla.
+Reks allungò una mano e gli scompigliò i capelli, facendo attenzione a non toccare la chiazza che gli aveva lasciato sopra l'orecchio.
 
-Prima di uscire guardò le tacche sulla trave. Pensò che al ritorno ne avrebbe incisa una coppia nuova, perché Vaan cresceva in fretta, e che per arrivarci avrebbe dovuto salire sulla sedia. Non svegliò suo fratello. Aveva già detto quello che aveva da dire, e non era sicuro di riuscire a dirlo una seconda volta.
+«Adesso dormi.»
 
-In bottega c'era ancora una lampada accesa. Migelo, seduto al banco, alzò la sbarra della porta senza una parola e la rimise dopo che Reks fu uscito.
+Vaan si addormentò poco dopo, con la bocca socchiusa e una gamba abbandonata sopra quella del fratello. Reks, invece, rimase sveglio a fissare il soffitto.
 
----
+Aveva cercato di mostrarsi tranquillo per tutta la serata, ma ora che la partenza si avvicinava sentiva crescere l'agitazione. Pensava alla missione, ai soldati che avrebbe incontrato, a quello che avrebbe dovuto fare una volta arrivato. Aveva passato appena due settimane ad addestrarsi con una spada, e fino a quel momento il suo avversario più temibile era stato un fantoccio di paglia.
 
-Partirono in venti a mezzanotte, a dorso di chocobo, dalla Porta Est. Cavalcarono tutta la notte verso est, e quando sorse il sole si nascosero in un letto di torrente asciutto, sotto un telo color sabbia, ad aspettare il buio. Nessuno disse dove andavano, ma in quella direzione c'era soltanto Nalbina.
+Cercò di rassicurarsi pensando a Basch. Il capitano conosceva la guerra, aveva combattuto a Nalbina ed era tornato. Reks non avrebbe dovuto fare altro che ascoltarlo e seguire gli ordini.
 
-Reks passò la giornata sotto il telo senza dormire. Il sergente grosso che sbadigliava all'appello russava, a pancia in su, con l'elmo sulla faccia. Orren giocava a dadi con un cavaliere magro, che perdeva sempre e continuava a giocare. A un certo punto Orren disse, senza guardare nessuno, che i ragazzi rallentavano tutti. Reks si guardò le mani. Il capitano, l'unico che non stava seduto, passò il pomeriggio a controllare le cinghie dei chocobo, una per una.
+Quando le campane della Città Bassa suonarono l'undicesima ora, capì che era arrivato il momento.
 
-Al tramonto ripartirono, e a mezzanotte erano sotto le mura. Il capitano li fece entrare da un canale delle cisterne che conosceva da quando, da ragazzo, era stato di guarnigione lì. Nel canale l'acqua arrivava alle ginocchia. A Reks si strappò la cinghia che reggeva il fodero, e il fodero cominciò a sbattergli contro la gamba a ogni passo. Un cavaliere giovane, nato a Nalbina, che camminava dietro di lui, gli passò una cinghia di riserva senza dire niente e lo aiutò a legarla al buio.
+Si liberò lentamente dalla gamba di Vaan, facendo attenzione a non svegliarlo. Il ragazzo si girò dall'altra parte e continuò a dormire.
 
----
+Reks si vestì al buio. La giubba sistemata da Migelo gli stava finalmente bene, e per qualche istante si fermò ad aggiustarne il colletto. Controllò la spilla sul petto: era ancora al suo posto.
 
-Dentro la fortezza i corridoi erano stretti, illuminati a tratti da torce archadiane fissate a supporti di ferro nuovo. I soldati imperiali erano dappertutto, a gruppi di tre e di quattro, svegli e ben armati, molti di più di quanti ne servissero per scortare un re a firmare. Si combatteva in fretta, al buio, a distanze in cui non c'è tempo di pensare. Alla prima ora dopo mezzanotte i venti erano già quindici.
+Prima di uscire, guardò le tacche incise sulla trave sopra la porta. Vaan era cresciuto parecchio negli ultimi mesi. Al ritorno avrebbe dovuto misurarlo di nuovo, magari usando la sedia per arrivare più in alto.
 
-Reks cadde al secondo scontro, senza aver colpito nessuno. Un archadiano uscì da una porta laterale che nessuno aveva visto e lo colpì alla tempia con l'elsa della spada, e Reks si ritrovò a terra con la pietra fredda contro la guancia e un fischio nell'orecchio destro. Sentì intorno a sé il rumore del ferro, poi più niente. Poi una mano sulla spalla.
+Si voltò un'ultima volta verso il fratello.
 
-«Mi senti?»
+Avrebbe voluto salutarlo, ma lo aveva già fatto. E se Vaan si fosse svegliato e gli avesse chiesto ancora di restare, non era sicuro che sarebbe riuscito a rispondergli con la stessa tranquillità.
 
-Aprì gli occhi. Sopra di lui, inginocchiato, c'era il capitano Basch, con l'elmo tolto e la faccia sporca di fumo. Reks lo vide doppio, poi una volta sola.
+Scese le scale senza fare rumore.
+
+In bottega c'era ancora una lampada accesa. Migelo sedeva dietro il banco, con un registro aperto davanti a sé, ma non stava scrivendo nulla.
+
+Quando vide Reks, lo richiuse.
+
+«Hai preso tutto?»
+
+«Sì.»
+
+Il vecchio bangaa si alzò e andò alla porta. Sollevò la pesante sbarra di legno, poi si fermò a guardare il ragazzo.
+
+«La giubba ti sta bene.»
+
+Reks abbassò gli occhi sulle maniche.
+
+«Grazie, Migelo.»
+
+«Cerca di riportarmela intera. Non ho intenzione di passarci un altro pomeriggio.»
+
+«Farò del mio meglio.»
+
+Migelo gli posò una mano sulla spalla, stringendola appena.
+
+«Mi raccomando, ragazzo. Ascolta il capitano e non fare l'eroe.»
+
+Reks annuì.
+
+«E torna a casa.»
+
+«Tornerò.»
+
+Il vecchio gli aprì la porta. Reks uscì nella strada deserta e si incamminò verso la caserma.
+
+Alle sue spalle sentì Migelo rimettere la sbarra al suo posto.
+
+* * *
+
+Poco prima di mezzanotte, i venti uomini scelti da Basch si ritrovarono nel cortile della caserma. I chocobo erano già sellati, e il furiere controllava le ultime provviste alla luce di una lanterna.
+
+Reks montò con qualche difficoltà. Non era abituato a cavalcare con la spada al fianco e dovette sistemare il fodero due volte prima di trovare una posizione comoda.
+
+Il capitano passò in rassegna gli uomini, verificò che nessuno mancasse e diede l'ordine di partire.
+
+Attraversarono Rabanastre in silenzio e uscirono dalla Porta Est. Le strade erano quasi deserte, e in breve tempo le mura della città scomparvero alle loro spalle.
+
+Cavalcarono per tutta la notte, senza fermarsi più del necessario. Reks cercò più volte di capire dove fossero diretti, ma nessuno parlava della destinazione. Quando il sole cominciò a sorgere, Basch li condusse in un letto di torrente asciutto, dove poterono nascondere i chocobo e ripararsi sotto alcuni teli color sabbia.
+
+Avrebbero aspettato lì fino al tramonto.
+
+Reks trascorse gran parte della giornata senza riuscire a dormire. Il terreno era duro, faceva caldo e ogni volta che chiudeva gli occhi gli sembrava di sentire qualcosa muoversi oltre il telo.
+
+Gli altri parevano molto meno preoccupati. Un sergente si era addormentato con l'elmo sulla faccia e russava rumorosamente. Poco distante, Orren, un cavaliere anziano dall'aria severa, giocava a dadi con un compagno che continuava a perdere senza decidersi a smettere.
+
+Reks li osservò per qualche minuto, poi tornò a controllare la propria spada.
+
+«È inutile continuare a guardarla» disse Orren, senza alzare gli occhi dai dadi. «Non diventerai più bravo per questo.»
+
+Reks rimise la lama nel fodero.
+
+«Volevo soltanto controllare che fosse a posto.»
+
+«I ragazzi dovrebbero imparare a combattere prima di farsi mandare in guerra.»
+
+L'altro cavaliere sorrise, ma non intervenne.
+
+Reks abbassò lo sguardo. Avrebbe voluto rispondere che non era stato obbligato a partire, che si era presentato volontario come tutti gli altri. Preferì tacere.
+
+Poco distante, Basch stava controllando le cinghie dei chocobo. Lo aveva fatto già al mattino e continuava a passare da un animale all'altro, assicurandosi che le selle fossero fissate correttamente.
+
+Reks lo osservò mentre lavorava. Gli sembrò curioso che il capitano si occupasse personalmente di quelle cose, ma vederlo così attento lo rassicurò.
+
+Al tramonto ripartirono.
+
+Più avanzavano, più il terreno gli diventava familiare. Reks aveva percorso quelle strade durante le consegne per Migelo e ricordava abbastanza bene la direzione della fortezza.
+
+Quando, poco prima di mezzanotte, intravide le mura di Nalbina, ebbe la conferma di ciò che sospettava.
+
+Era lì che stavano andando.
+
+Basch condusse il reparto verso un vecchio canale di scolo collegato alle cisterne. Conosceva quel passaggio dagli anni in cui aveva prestato servizio nella fortezza.
+
+Entrarono uno alla volta, chinandosi per non battere la testa contro la volta di pietra. L'acqua arrivava alle ginocchia ed era così fredda che Reks dovette stringere i denti per non lamentarsi.
+
+Dopo pochi passi, la cinghia del suo fodero cedette. La spada cominciò a sbattergli contro la gamba, producendo un rumore che nel cunicolo sembrava molto più forte di quanto fosse.
+
+Reks provò inutilmente a tenerla ferma.
+
+Il cavaliere che camminava dietro di lui gli toccò una spalla e gli passò una cinghia di riserva.
+
+«Prendi.»
+
+«Grazie.»
+
+«Fermati un momento. Ti aiuto.»
+
+L'uomo gli sistemò il fodero e strinse il nodo con gesti rapidi, poi gli fece cenno di proseguire.
+
+Reks riprese a camminare, cercando di non perdere di vista gli uomini davanti a sé.
+
+* * *
+
+All'interno della fortezza, le cose andarono male quasi subito.
+
+I corridoi erano stretti e scarsamente illuminati, ma i soldati archadiani erano ovunque. Alcuni pattugliavano gli accessi, altri presidiavano le scale e le porte che conducevano ai piani superiori. Erano molti più di quanti sarebbero serviti per garantire la sicurezza di una trattativa diplomatica.
+
+Basch non ebbe bisogno di spiegare ai suoi uomini cosa significasse quella presenza.
+
+Il primo scontro scoppiò vicino all'ingresso delle cisterne. I cavalieri di Dalmasca riuscirono a sorprendere una pattuglia e ad aprirsi un passaggio, ma il rumore delle armi attirò altri soldati. Da quel momento avanzarono combattendo, cercando di non fermarsi più dello stretto necessario.
+
+Reks seguiva il reparto con la spada stretta fra le mani, tentando di ricordare tutto quello che gli avevano insegnato durante l'addestramento.
+
+Non era preparato a quel genere di combattimento. Nel cortile della caserma c'era spazio per muoversi e il suo istruttore gli aveva sempre lasciato il tempo di correggere la posizione. Nella fortezza gli uomini gli passavano accanto correndo, le lame si incrociavano a pochi passi dal suo viso e gli ordini si confondevano con il rumore del ferro.
+
+Al secondo scontro non ebbe neppure il tempo di difendersi.
+
+Un soldato imperiale sbucò da una porta laterale e lo colpì alla tempia con l'elsa della spada. Reks perse l'equilibrio e cadde pesantemente sul pavimento.
+
+Per un istante sentì soltanto il freddo della pietra contro la guancia e un fischio acuto nell'orecchio destro. Cercò di rialzarsi, ma il corridoio sembrava girargli intorno.
+
+Poi tutto si fece confuso.
+
+Quando tornò a distinguere le voci, qualcuno gli stava scuotendo una spalla.
+
+«Reks. Mi senti?»
+
+Aprì lentamente gli occhi.
+
+Il capitano Basch era inginocchiato accanto a lui, con l'elmo sotto un braccio e il viso sporco di fumo. Per qualche secondo Reks vide due capitani sovrapposti, poi le immagini tornarono a unirsi.
 
 «Sì, capitano.»
 
 «Riesci ad alzarti?»
 
+Reks provò a sollevare la testa. Una fitta lo costrinse a fermarsi.
+
+«Credo di sì.»
+
+«Non avere fretta. Guardami.»
+
+Basch gli passò due dita davanti agli occhi, controllando che riuscisse a seguirle.
+
+«Bene. Adesso prova a sederti.»
+
+Reks obbedì, appoggiandosi a una mano.
+
+Dietro di loro Orren sbuffò.
+
+«Non abbiamo tempo da perdere, capitano. Lo sapevamo che portare un ragazzo sarebbe stato un problema.»
+
+Basch continuò a osservare Reks.
+
+«Se ci fermiamo ogni volta che cade qualcuno, non arriveremo mai dal re» insistette Orren. «Lasciamolo qui. Al ritorno vedremo se è ancora in grado di camminare.»
+
+Basch si voltò verso di lui.
+
+«E se fossi stato tu a cadere, Orren?»
+
+«Saprei cavarmela.»
+
+«Me lo auguro. Ma non lascerò indietro un uomo perché ha meno esperienza degli altri.»
+
+Orren serrò la mascella, senza aggiungere nulla.
+
+Basch tornò a rivolgersi a Reks.
+
+«Come va la testa?»
+
+«Meglio, capitano.»
+
+«Riesci a stare in piedi?»
+
+Reks annuì.
+
+«Allora dammi la mano.»
+
+Il capitano lo aiutò ad alzarsi. Reks barcollò appena, ma riuscì a reggersi sulle proprie gambe.
+
+«Hai qualcuno che ti aspetta a casa?» chiese Basch, mentre gli controllava la ferita alla tempia.
+
+«Mio fratello. Si chiama Vaan. Ha quindici anni.»
+
+«È lui quello che vive con te sopra la bottega?»
+
 «Sì, capitano.»
 
-«Non ti ho chiesto di scattare sull'attenti. Voglio sapere se ti reggono le gambe.» Basch gli passò due dita davanti agli occhi e guardò come le seguiva. «Va bene.»
+Basch annuì, ricordando le informazioni lette sul registro dei volontari.
 
-Dietro di lui Orren sputò in terra.
+«Gli ho promesso che sarei tornato» aggiunse Reks.
 
-«Non abbiamo tempo, capitano. Lo sapevamo che i ragazzi ci avrebbero rallentati. Lasciatelo qui. Se ha fortuna, lo raccolgono i nostri al ritorno.»
-
-Basch non si voltò.
-
-«Non tutti si arruolano perché amano la guerra, Orren» disse. «Alcuni lo fanno perché hanno qualcosa da difendere. Per quelli, di solito, vale la pena di fermarsi un minuto.» Poi, a Reks: «Come ti chiami?»
-
-«Reks, capitano.»
-
-«Quanti anni hai, Reks?»
-
-«Diciassette.»
-
-«Famiglia?»
-
-Reks esitò. I capitani non facevano quella domanda, e lì, nel corridoio, la risposta gli sembrò una cosa privata.
-
-«Un fratello, capitano. Più piccolo di due anni. A Rabanastre.» Poi, siccome il capitano aspettava ancora, aggiunse la prima cosa che gli venne. «È insopportabile.»
-
-«I genitori?»
-
-«La peste. Tre anni fa.»
-
-Basch non disse niente. Lo guardò per un momento, e Reks ebbe l'impressione che stesse contando qualcosa che si portava dietro e che ogni tanto ricontava. Poi gli tese la mano, e Reks la prese e si tirò su.
-
-Mentre si alzava vide il taglio. Il capitano aveva il dorso della mano sinistra aperto di traverso, dalla nocca dell'indice al polso, e il sangue usciva piano dal guanto di cuoio squarciato. Doveva esserselo fatto mentre Reks era a terra. Basch non lo guardava.
-
-Le bende di Migelo erano rimaste nel fagotto, legato alla sella di un chocobo fuori dalle mura; con sé Reks aveva soltanto la fiaschetta, appesa alla cintura. Ci pensò, e pensò anche al pomeriggio di Migelo al banco con l'ago dei sacchi, e alla manica che gli aveva stretto punto per punto. Poi afferrò la manica destra della giubba, la strappò alla cucitura della spalla con uno strattone solo, ne ricavò una striscia con i denti e la passò attorno alla mano del capitano, tre giri stretti sopra il guanto. La chiuse con un nodo doppio, girato due volte e ripassato sotto. Era il nodo con cui legava le casse di Migelo, quelle che non si aprono neanche se le butti dal tetto. Non chiese il permesso. Ci pensò soltanto dopo, quando il nodo era fatto.
-
-Basch guardò la propria mano. Guardò il nodo. Guardò la spalla del ragazzo, dove adesso c'era una cucitura vuota con i fili tirati.
-
-«Il furiere te la farà pagare» disse.
+«Allora cerca di mantenere la promessa. Ma per farlo devi restare vicino agli altri e non perdere di vista chi ti precede. Hai capito?»
 
 «Sì, capitano.»
 
-«Due gil. Tre, se è di cattivo umore.» Basch piegò le dita sotto la fasciatura, una per una. Tenevano. «Pagali volentieri.»
+Reks abbassò gli occhi e soltanto allora notò il sangue.
 
-Si rimise l'elmo e si alzò. Da quel momento, per il resto della notte, Reks camminò alla sua destra, e il capitano non gli disse mai di stare indietro.
+Il guanto sinistro di Basch era squarciato sul dorso, dalla nocca dell'indice fin quasi al polso. Il taglio sembrava profondo e il cuoio si era già scurito.
 
----
+«Capitano, la vostra mano...»
 
-A un incrocio di corridoi li raggiunse il capitano Vossler, con altri quattro uomini. Aveva una ferita alla fronte e il fiato corto. Disse che la strada verso gli appartamenti del re era chiusa e che bisognava passare dai cammini di ronda esterni. Basch disse che allora sarebbero passati dai cammini di ronda esterni. Vossler disse che lassù non c'era riparo. Basch disse che lo sapeva.
+Basch la guardò appena.
 
-«Prendi i tuoi e va' avanti» aggiunse. «Noi teniamo questo incrocio finché non siete passati.»
+«Non è niente.»
 
-Vossler guardò lui, poi Reks con la sua manica mancante, poi di nuovo lui. «Buona fortuna» disse, nel tono di chi alla fortuna non crede, e se ne andò.
+Ma quando provò a chiudere le dita, il movimento gli strappò una smorfia.
 
-I cammini di ronda erano larghi due uomini, senza parapetto dalla parte interna, aperti sul cielo. Il cielo era pieno di fumo e di luci di aeronavi. Li percorsero in fila, chinati, e a metà strada sentirono il rombo.
+Reks si ricordò delle bende che Migelo aveva preparato per lui. Erano rimaste nel fagotto legato alla sella del chocobo, fuori dalle mura.
 
-Era un'aeronave piccola, di quelle rapide, con il muso affilato e le ali corte, che gli archadiani chiamavano tagliavento. Salì da sotto le mura, si fermò sospesa a dieci passi dal camminamento, e girò verso di loro le bocche delle armi. Per il tempo che servì ai suoi artiglieri per prendere la mira, nessuno si mosse.
+Si guardò intorno, cercando qualcosa che potesse usare, poi abbassò gli occhi sulla propria giubba.
 
-Poi Orren si buttò di lato, dietro un torrione, e altri due lo seguirono. Era la cosa giusta da fare, e l'istruttore di Reks lo aveva insegnato due settimane prima, in un cortile.
+Esitò soltanto un istante.
 
-Reks non si buttò. Non decise di restare: se ne accorse dopo. Era rimasto in piedi perché il capitano era rimasto in piedi, e lui camminava alla sua destra. Basch aveva alzato la spada a due mani sopra la testa, e Reks vide la fasciatura azzurra stringersi sull'elsa. Poi il capitano colpì, non l'aeronave ma l'aria fra sé e l'aeronave, con un colpo dall'alto in basso troppo veloce per l'occhio. Dalla lama partì qualcosa che Reks non riuscì a vedere bene, e attraversò il vuoto e prese la macchina sotto il ventre, dove stavano i motori.
+Afferrò la manica destra vicino alla spalla e tirò con forza. La cucitura resistette al primo strattone, poi cedette. Reks riuscì a staccare una lunga striscia di tessuto, che ripiegò rapidamente prima di avvolgerla intorno alla mano del capitano.
 
-La tagliavento sobbalzò. Un motore tossì e buttò fuori fumo nero. Le armi spararono, ma troppo in alto, e i colpi si schiantarono su un torrione lontano. Poi l'aeronave si piegò su un'ala e si allontanò nel fumo, perdendo quota, verso la piana.
+«Che cosa stai facendo?» chiese Basch.
 
-Basch abbassò la spada. Respirava forte. Guardò Reks, e Reks aspettò che dicesse qualcosa. Il capitano non disse niente: gli fece un cenno con la testa, piccolo, quello che si fa a un compagno, e riprese a camminare. Reks gli andò dietro. Per tutto il resto del cammino di ronda si sentì le orecchie calde, e fu contento che fosse buio.
+«Vi fascio la mano, capitano.»
 
-Orren uscì da dietro il torrione e non guardò nessuno.
+«Lo vedo.»
 
----
+Reks strinse il tessuto sopra il guanto ferito e cominciò a fare un nodo. Le mani gli tremavano ancora per il colpo ricevuto, ma quel genere di lavoro lo conosceva bene.
 
-Alla fine del cammino di ronda c'era una scala, in cima alla scala una porta, e dietro la porta un corridoio lungo che portava agli appartamenti dove l'Impero aveva alloggiato il re. Basch li conosceva dagli anni della guarnigione. Erano rimasti in nove.
+Aveva passato anni a legare le casse della bottega, assicurandosi che le corde non cedessero durante il trasporto. Migelo gli aveva insegnato diversi nodi, e Reks ne scelse uno che poteva stringere senza farlo scivolare.
 
-Il corridoio era vuoto. Lo percorsero di corsa. In fondo c'era una seconda scala, più stretta, e quando arrivarono ai primi gradini sentirono i passi.
+Quando ebbe finito, provò a tirare il tessuto per controllarne la tenuta.
 
-Venivano da dietro, dal corridoio che avevano appena attraversato. Erano molti, pesanti, a tempo, e si avvicinavano.
+«Ecco. Dovrebbe reggere.»
 
-Basch si fermò. Guardò la scala, poi il corridoio. Nessuno parlò. Erano tutti soldati e sapevano fare il conto: se si fermavano tutti a combattere, il re restava solo, e se salivano tutti, i passi li avrebbero raggiunti sulla scala, dove non si combatte.
+Basch mosse lentamente le dita, una dopo l'altra.
 
-Anche Reks fece il conto, e lo fece come lo faceva al banco di Migelo, con le cose che aveva davanti. Il corridoio era largo quanto due uomini. Due uomini alla volta si potevano tenere, almeno per un po'. Lassù serviva ogni spada che sapesse fare il suo mestiere, e la sua, per adesso, non aveva ancora toccato nessuno. Gli venne in mente, mentre apriva la bocca, che da quando si era arruolato era la prima cosa che decideva da solo, e che si era arruolato proprio per non doverne decidere più. Non ebbe il tempo di trovarlo buffo.
+La fasciatura non si allentò.
+
+Il capitano osservò il nodo, poi la spalla di Reks, dove la manica mancava del tutto.
+
+«Il furiere te la farà pagare.»
+
+Reks si ricordò dell'avvertimento ricevuto quella mattina e abbassò gli occhi.
+
+«Lo so, capitano.»
+
+«Due gil, almeno. Forse tre.»
+
+«Sì, capitano.»
+
+Basch provò di nuovo a chiudere la mano, poi accennò un sorriso.
+
+«Direi che li hai spesi bene.»
+
+Si rimise l'elmo e recuperò la spada.
+
+«Avanti. E cerca di non farti colpire un'altra volta.»
+
+Reks gli andò dietro.
+
+Da quel momento rimase vicino al capitano, che non gli ordinò più di raggiungere la retroguardia.
+
+* * *
+
+Raggiunsero un incrocio di corridoi, dove incontrarono Vossler e altri quattro cavalieri dalmaschi. Il capitano aveva una ferita alla fronte e respirava a fatica, come se avesse appena corso per parecchio tempo.
+
+«Basch! Gli accessi agli appartamenti del re sono bloccati.»
+
+«Tutti?»
+
+«Quelli interni, sì. Hanno messo uomini a ogni scala. Possiamo ancora passare dai cammini di ronda, ma dovremo uscire sulle mura.»
+
+Basch conosceva quel percorso. Lo aveva utilizzato più volte quando era di guarnigione a Nalbina.
+
+«Lassù saremo allo scoperto» osservò.
+
+«Non abbiamo altre strade.»
+
+Il capitano guardò gli uomini che gli erano rimasti, poi annuì.
+
+«Allora passeremo di lì.»
+
+Vossler indicò il corridoio alle loro spalle, da cui cominciavano ad arrivare nuove voci.
+
+«Ci stanno seguendo.»
+
+«Prendi i tuoi e raggiungi il camminamento» ordinò Basch. «Noi li tratteneremo quanto basta per darvi un po' di vantaggio.»
+
+Vossler esitò.
+
+«E voi?»
+
+«Vi raggiungeremo.»
+
+Vossler annuì. Prima di ripartire, il suo sguardo cadde su Reks e sulla manica mancante della sua giubba.
+
+«Buona fortuna.»
+
+Poi si allontanò con i suoi uomini.
+
+Basch e gli altri rimasero all'incrocio finché il gruppo di Vossler non fu al sicuro, respingendo i primi imperiali che cercavano di raggiungerli. Quando il passaggio si liberò, ripresero la corsa verso le mura.
+
+I cammini di ronda erano stretti, appena sufficienti per consentire a due uomini di procedere affiancati. Da una parte si alzava il muro esterno della fortezza, dall'altra si apriva il vuoto del cortile interno, molti metri più in basso.
+
+Reks cercò di non guardare giù.
+
+Il cielo sopra Nalbina era illuminato dalle luci delle aeronavi imperiali. Alcune sorvolavano lentamente la fortezza, altre rimanevano sospese a grande altezza, quasi immobili.
+
+Procedevano chinati, cercando di mantenersi vicini alla parete, quando sentirono un rombo crescente.
+
+Reks alzò la testa.
+
+Un'aeronave più piccola delle altre stava salendo da sotto le mura. Aveva il muso affilato, le ali corte e due motori che emettevano un sibilo acuto. Era una di quelle macchine rapide che gli archadiani chiamavano tagliavento.
+
+L'aeronave rallentò fino a fermarsi davanti al camminamento.
+
+Reks vide le bocche delle armi ruotare verso di loro.
+
+«Al riparo!» gridò qualcuno.
+
+Orren si gettò dietro un torrione, trascinando con sé altri due soldati. Era la cosa più sensata da fare: durante l'addestramento avevano insegnato a Reks che, davanti alle armi di un'aeronave, bisognava cercare immediatamente una copertura.
+
+Ma lui non si mosse.
+
+Non fu una decisione coraggiosa. Per un istante rimase semplicemente paralizzato, con gli occhi fissi sulle armi puntate contro di loro.
+
+Poi vide Basch avanzare di un passo.
+
+Il capitano aveva impugnato la spada con entrambe le mani. La fascia azzurra che Reks gli aveva stretto intorno alla sinistra spiccava contro il cuoio scuro del guanto.
+
+«Capitano!» gridò Reks.
+
+Basch non rispose.
+
+Sollevò la lama sopra la testa e la abbassò con un movimento deciso, come se volesse colpire un nemico che si trovava davanti a lui.
+
+Ma tra il capitano e l'aeronave c'erano diversi metri di vuoto.
+
+Reks vide una scia luminosa staccarsi dalla spada e attraversare l'aria a una velocità impressionante. Non riuscì a capire di cosa fosse fatta, né come Basch l'avesse prodotta. Vide soltanto la luce raggiungere la parte inferiore dell'aeronave e colpirla in pieno.
+
+La tagliavento sobbalzò.
+
+Uno dei motori emise uno scoppio secco, seguito da una nuvola di fumo nero. Le armi spararono, ma l'aeronave aveva già perso l'equilibrio e i colpi finirono contro un torrione più lontano.
+
+La macchina si inclinò bruscamente su un fianco. Per qualche istante sembrò sul punto di precipitare nel cortile, poi riuscì ad allontanarsi, lasciandosi dietro una scia di fumo.
+
+Reks rimase immobile, incapace di distogliere gli occhi dal punto in cui era scomparsa.
+
+Aveva sentito raccontare molte storie sulle capacità del capitano Basch. In caserma qualcuno sosteneva che fosse in grado di affrontare da solo un intero reparto nemico. Reks aveva sempre pensato che si trattasse delle solite esagerazioni dei soldati.
+
+Adesso non ne era più così sicuro.
+
+Basch abbassò la spada e riprese fiato. Quando si voltò, trovò Reks ancora in piedi accanto a lui.
+
+«Tutto bene?»
+
+«Sì, capitano.»
+
+Reks avrebbe voluto chiedergli come avesse fatto, ma non riuscì a trovare le parole.
+
+Basch gli rivolse un piccolo cenno d'intesa.
+
+«Allora muoviamoci.»
+
+Riprese a camminare e Reks lo seguì, cercando di nascondere il sorriso che gli era comparso sul viso.
+
+Orren uscì da dietro il torrione senza dire nulla.
+
+* * *
+
+Alla fine del cammino di ronda raggiunsero una porta che conduceva all'interno della fortezza. Oltre la soglia si apriva un lungo corridoio, dal quale una seconda scala saliva verso gli appartamenti riservati agli ospiti del re.
+
+Basch conosceva bene quella parte dell'edificio. Da giovane aveva prestato servizio proprio a Nalbina, e ricordava ancora la disposizione delle stanze.
+
+Del reparto iniziale erano rimasti soltanto nove uomini.
+
+Il corridoio sembrava deserto.
+
+«Svelti» ordinò il capitano.
+
+Attraversarono il passaggio di corsa. In fondo, la scala saliva ripida verso il piano superiore, dove speravano di trovare Raminas.
+
+Avevano appena raggiunto i primi gradini quando sentirono dei passi alle loro spalle.
+
+Basch si fermò.
+
+Il rumore proveniva dal corridoio che avevano appena attraversato. Non era quello di una pattuglia isolata: erano molti uomini, e avanzavano rapidamente.
+
+Reks si voltò.
+
+In lontananza vide comparire i primi riflessi delle torce sulle pareti.
+
+«Ci hanno trovati» mormorò uno dei cavalieri.
+
+Basch guardò la scala, poi il corridoio.
+
+Se fossero saliti tutti insieme, gli imperiali li avrebbero raggiunti prima che potessero arrivare agli appartamenti del re. La scala era troppo stretta per combattere e, una volta intrappolati sui gradini, non avrebbero avuto alcuna possibilità di difendersi.
+
+Qualcuno doveva trattenere gli inseguitori.
+
+Reks osservò il passaggio davanti a sé. Era largo appena abbastanza da consentire a due uomini di combattere affiancati. Se qualcuno fosse rimasto lì, avrebbe potuto rallentare gli imperiali, almeno per qualche minuto.
+
+Guardò i soldati che lo circondavano. Erano tutti più esperti di lui e avrebbero avuto maggiori possibilità di proteggere il re. La sua spada, invece, non aveva ancora colpito nessun nemico.
+
+Aspettò che Basch desse un ordine.
+
+Ma il capitano esitava, valutando le poche possibilità che avevano.
+
+Reks ripensò per un istante a ciò che aveva desiderato quando aveva scelto di arruolarsi: trovare finalmente qualcuno a cui affidarsi, qualcuno che prendesse le decisioni al posto suo.
+
+Eppure, mentre le voci degli imperiali si facevano sempre più vicine, capì che c'era una cosa che poteva fare senza aspettare che gliela chiedessero.
 
 «Vado io, capitano.»
 
-Basch lo guardò.
+Basch si voltò.
 
-«Il corridoio è stretto. Ne passano due alla volta. Li tengo io.» La voce gli uscì ferma, più di quanto si aspettasse. «Voi andate dal re.»
+«Che cosa hai detto?»
 
-«Sei un ragazzo.»
+«Resto qui. Il corridoio è stretto, non potranno arrivare tutti insieme. Posso trattenerli mentre voi raggiungete il re.»
 
-«Sì, capitano. Me l'avete chiesto prima. Diciassette.» Reks strinse la spada. «Ma il re è più importante di un ragazzo. E poi l'avete detto voi, a Orren. Che alcuni hanno qualcosa da difendere.»
+«Reks, sei un ragazzo.»
 
-Basch rimase zitto per il tempo di due respiri. A Reks sembrò molto di più. I passi si avvicinavano, e in fondo al corridoio si vedevano già le torce, che facevano ballare la luce sui muri.
+«Lo so, capitano.»
 
-«Tieni la schiena al muro» disse il capitano. «Non andargli incontro. Lascia che vengano loro. Quando non ce la fai più, scendi le scale e vai verso le cisterne. Non verso di noi. Verso le cisterne. È un ordine.»
+Strinse la spada, cercando di ignorare il tremito delle dita.
+
+«Ma voi dovete arrivare dal re. Io non sono bravo a combattere come gli altri. Se qualcuno deve restare indietro, è meglio che sia io.»
+
+Basch lo fissò per qualche istante.
+
+«Non devi dimostrare niente a nessuno.»
+
+«Non lo faccio per questo.»
+
+Reks deglutì.
+
+«Avete detto che non bisogna abbandonare chi ha qualcosa da difendere. Io ho mio fratello a casa. E lui ha bisogno che questa guerra finisca.»
+
+Le torce erano ormai visibili in fondo al corridoio.
+
+Basch guardò gli uomini che gli restavano. Ogni momento perso rendeva più difficile raggiungere il re.
+
+Tornò a rivolgersi a Reks.
+
+«Ascoltami bene. Non devi affrontarli tutti. Devi soltanto rallentarli.»
 
 «Sì, capitano.»
 
-«Ripetilo.»
+«Tieni la schiena al muro, dove il corridoio si restringe. Lasciali venire verso di te, non corrergli incontro.»
 
-«Le cisterne.»
+Reks annuì.
 
-Basch gli mise la mano fasciata sulla spalla, quella senza manica, e la tenne lì un momento. Poi si voltò e salì la scala di corsa con gli altri sette, senza guardare indietro.
+«E quando diventano troppi, ti ritiri. Scendi verso le cisterne e cerca di tornare al passaggio da cui siamo entrati. Hai capito?»
 
-Reks rimase solo ai piedi della scala. Si mise con la schiena contro la pietra, come gli era stato detto, e strinse la spada con tutte e due le mani. Si accorse che la spilla del padre era ancora al suo posto, sul petto, storta, e che aveva tenuto per tutta la notte. Al ritorno lo avrebbe detto a Vaan, che la spilla non era caduta. Pensò al gradino sopra l'orecchio sinistro di suo fratello, e quasi rise.
+«Sì.»
+
+«Non seguirci sulla scala. Torna alle cisterne. È un ordine.»
+
+«Sì, capitano.»
+
+«Ripetimi dove devi andare.»
+
+«Alle cisterne.»
+
+Basch annuì.
+
+Poi gli mise una mano sulla spalla. Era la sinistra, quella che Reks aveva fasciato con la manica della giubba.
+
+«Hai fatto bene stanotte, Reks. Molto bene.»
+
+Il ragazzo sentì stringersi la gola.
+
+«Grazie, capitano.»
+
+Basch rimase ancora un istante accanto a lui, poi si voltò verso gli altri.
+
+«Andiamo!»
+
+Gli otto uomini salirono di corsa la scala, scomparendo uno dopo l'altro oltre la svolta.
+
+Reks rimase solo.
+
+Per un momento ascoltò il rumore dei loro passi che si allontanavano. Poi si girò verso il corridoio e cercò il punto indicato da Basch.
+
+Si sistemò con la schiena contro la parete, stringendo l'elsa della spada con entrambe le mani. Il cuore gli batteva così forte che riusciva a sentirlo persino sopra il rumore degli imperiali.
+
+Provò a ricordare gli insegnamenti ricevuti in caserma. Tenere i piedi ben piantati. Non sollevare troppo la lama. Non guardare la spada dell'avversario, ma le sue spalle, perché da lì si capisce in che direzione sta per colpire.
+
+Respirò profondamente.
+
+Abbassando gli occhi, si accorse che la spilla di suo padre era ancora al suo posto. Era rimasta attaccata alla giubba nonostante la corsa, i combattimenti e la caduta.
+
+Sorrise appena.
+
+Vaan aveva avuto torto, dopotutto.
+
+Pensò a suo fratello, addormentato nella stanza sopra la bottega. Al buco che gli aveva lasciato nei capelli e alla faccia che aveva fatto quando si era guardato nella padella di rame.
+
+Quando fosse tornato, glielo avrebbe raccontato. Gli avrebbe mostrato la spilla ancora attaccata alla giubba e lo avrebbe portato dal barbiere, come promesso.
+
+Poi sarebbero andati a cercare i gigli per il vaso della madre.
+
+Un rumore di ferraglia lo riportò al presente.
+
+In fondo al corridoio comparvero le prime sagome dei soldati imperiali. Le loro torce proiettavano ombre irregolari sulle pareti.
+
+Reks strinse la spada e si preparò a riceverli.
 
 Le torce arrivarono.
 
