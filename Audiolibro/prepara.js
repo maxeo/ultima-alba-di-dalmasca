@@ -42,7 +42,15 @@ for (const arg of process.argv.slice(2)) {
     if (/^-{3,}$/.test(r)) { out.push('[pause:2]'); continue; }
     out.push(r.replace(/[*_]/g, '').replace(/[«»]/g, ''));
   }
+  // Dopo un paragrafo breve (una battuta di dialogo) il paragrafo seguente si attacca con un solo a capo:
+  // lo scambio di battute diventa un paragrafo unico, senza la pausa lunga tra l'una e l'altra.
+  const BREVE = 90, gruppi = [];
+  for (const r of out) {
+    const g = gruppi[gruppi.length - 1], prec = g && g[g.length - 1];
+    if (prec && !r.startsWith('[') && !prec.startsWith('[') && prec.length <= BREVE) g.push(r);
+    else gruppi.push([r]);
+  }
   const dest = path.join(__dirname, 'testo', f.replace(/\.md$/, '.txt'));
-  fs.writeFileSync(dest, pronuncia(out.join('\n\n')) + '\n');
+  fs.writeFileSync(dest, pronuncia(gruppi.map(g => g.join('\n')).join('\n\n')) + '\n');
   console.log(dest);
 }

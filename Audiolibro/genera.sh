@@ -11,12 +11,12 @@ for n in $(seq "$PRIMO" "$ULTIMO"); do
   node prepara.js "$n" >/dev/null || exit 2
   for tentativo in 1 2; do
     S=$(date +%s)
-    MSYS_NO_PATHCONV=1 docker run --rm --gpus all -e USER=root -v "$A/testo:/app/testo" -v "$A/audiobooks:/app/audiobooks" -v "$A/models:/app/models" -v "$A/tmp:/app/tmp" e2a-locale:cu126 --script_mode full_docker --headless --ebook "/app/testo/$f.txt" --language ita --tts_engine xtts --device CUDA --output_format mp3 --output_dir /app/audiobooks > "audio/log-$id.txt" 2>&1 </dev/null
+    bash tts.sh "audio/log-$id.txt" --script_mode full_docker --headless --ebook "/app/testo/$f.txt" --language ita --tts_engine xtts --device CUDA --output_format mp3 --output_dir /app/audiobooks
     e=$?
     if [ $e -eq 0 ] && [ -s "audiobooks/$f.mp3" ]; then
       echo "$(date '+%F %T') $f OK $(( $(date +%s)-S ))s" >> audio/stato.txt; ERRORI=0
-      # Un errore di pubblicazione non deve fermare la generazione.
-      node pubblica.js --push >> audio/pubblica.log 2>&1
+      # Whisper: controllo delle parole e tempi per il lettore. Un errore qui o nella pubblicazione non ferma la generazione.
+      bash dopo.sh "$f"
       break
     fi
     echo "$(date '+%F %T') $f ERRORE exit=$e tentativo=$tentativo" >> audio/stato.txt

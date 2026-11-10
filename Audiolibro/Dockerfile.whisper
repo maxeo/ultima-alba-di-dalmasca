@@ -1,0 +1,5 @@
+# Immagine per controlla.py: stessa base di e2a-locale (torch cu126 per la GTX 1070 Ti) più faster-whisper.
+FROM e2a-locale:cu126
+RUN pip install --no-cache-dir faster-whisper --no-deps && pip install --no-cache-dir "av>=11" onnxruntime tokenizers huggingface_hub
+COPY controlla.py /app/controlla.py
+ENTRYPOINT ["python", "/app/controlla.py"]

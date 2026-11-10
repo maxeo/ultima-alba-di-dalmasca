@@ -1,0 +1,4 @@
+# e2a-locale con la modifica per rigenerare solo le frasi mancanti (vedi patch-frasi.py e rifai.sh).
+FROM e2a-locale:cu126
+COPY patch-frasi.py /tmp/patch-frasi.py
+RUN python /tmp/patch-frasi.py

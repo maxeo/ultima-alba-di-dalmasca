@@ -1,0 +1,39 @@
+# Server dell'audiolibro: resta acceso con XTTS caricato. Avvio: docker compose up -d (dalla cartella Audiolibro).
+services:
+  tts: &tts
+    image: e2a-frasi
+    container_name: audiolibro-tts
+    entrypoint: ["python", "-u", "/srv/server.py"]
+    working_dir: /app
+    environment:
+      TZ: Europe/Rome
+      PYTHONUTF8: "1"
+      PYTHONIOENCODING: utf-8
+      TTS_CACHE: /app/models
+      TESSDATA_PREFIX: /app/models/tessdata
+      TMPDIR: /app/run
+      USER: root
+    ports:
+      - "127.0.0.1:8770:8770"
+    volumes:
+      - ./testo:/app/testo
+      - ./audiobooks:/app/audiobooks
+      - ./models:/app/models
+      - ./tmp:/app/tmp
+      - ./audio:/app/registri
+      - ./server:/srv:ro
+    restart: unless-stopped
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+
+  # Secondo server sulla stessa GPU: due capitoli in parallelo (bash coda.sh 8771).
+  tts2:
+    <<: *tts
+    container_name: audiolibro-tts2
+    ports:
+      - "127.0.0.1:8771:8770"
