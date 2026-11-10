@@ -26,4 +26,4 @@ for n in $(seq "$PRIMO" "$ULTIMO"); do
     if [ $ERRORI -ge 3 ]; then echo "FERMO: tre capitoli di fila falliti, ultimo $f"; exit 3; fi
   fi
 done
-echo "FINITO: $(ls audiobooks/[0-9]*.mp3 | grep -vc 000-campione) mp3"; grep -c ERRORE audio/stato.txt
+echo "FINITO: $(ls audiobooks/[0-9]*.mp3 | grep -vc 000-campione) mp3"; grep -c ERRORE audio/stato.txt || [ "$?" -eq 1 ]

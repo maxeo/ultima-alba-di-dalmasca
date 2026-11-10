@@ -71,6 +71,26 @@ docker build -t e2a-locale:cu126 Audiolibro
 bash Audiolibro/genera.sh 1 113
 ```
 
+### Modalità autore sul PC
+
+Avvia il server dalla cartella del progetto con `node Audiolibro/autore/server.js` e apri [Leggio autore sul capitolo 4](http://localhost:8765/?write=true#4).
+
+1. **Correggi.** Seleziona il passaggio, anche su più paragrafi. Dal menu del clic destro scegli **Correggi passaggio** o **Correggi paragrafi selezionati**. Lascia una riga vuota per creare un nuovo paragrafo.
+2. **Salva la bozza.** **Salva bozza locale** conserva la modifica sul PC. Nel lettore i paragrafi modificati hanno uno sfondo evidenziato. **Mostra diff inline** rivela aggiunte e rimozioni parola per parola.
+3. **Rivedi.** Apri il pannello dal contatore in alto o dal pulsante **Autore**. Il contatore mostra le parole aggiunte e rimosse e stima quante parole di audio sono da aggiornare. Ogni scheda ha un’anteprima cliccabile che porta al testo. **Mostra altro** espande il diff nella scheda. La matita riapre l’editor e **Ripristina** chiede conferma sul posto.
+4. **Applica e aggiorna.** In fondo al pannello, **Applica bozza al testo** scrive la correzione nel romanzo. Quando vuoi sincronizzare la voce, conferma **Aggiorna audio del capitolo**. Il server accoda il lavoro in background e il lettore continua a usare l’audio precedente finché quello nuovo è pronto.
+
+Per lavorare con un agente, usa la CLI con il server in esecuzione.
+
+```sh
+node Audiolibro/autore/cli.js selezione
+node Audiolibro/autore/cli.js diff 4
+node Audiolibro/autore/cli.js stato 4
+node Audiolibro/autore/cli.js prese --selezione
+```
+
+`selezione` legge il passaggio selezionato nell’editor attivo. Se la selezione corrisponde a una frase dell’audio in uso, `prese --selezione` prepara letture alternative. Per tutti i comandi usa `node Audiolibro/autore/cli.js --aiuto`. Dal telefono puoi trasferire i segnalibri al PC con **Impostazioni → Progressi → Esporta progressi**.
+
 ## Avviso e licenza
 
 Opera di fan, non ufficiale e non commerciale, senza legami con Square Enix. *Final Fantasy XII*, la sua trama, i suoi personaggi e il suo mondo appartengono a Square Enix.

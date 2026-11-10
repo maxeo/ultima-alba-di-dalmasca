@@ -8,7 +8,15 @@ const { execFileSync } = require('child_process');
 const QUI = __dirname, ROOT = path.join(QUI, '..');
 const CAP = path.join(ROOT, 'Romanzo', 'capitoli');
 const SRC = path.join(QUI, 'audiobooks'), TESTO = path.join(QUI, 'testo');
-const DOCS = path.join(ROOT, 'docs'), AUDIO = path.join(DOCS, 'audio'), TESTI = path.join(DOCS, 'testi');
+const sito = path.join(ROOT, 'docs');
+const capArg = process.argv.find(x => x.startsWith('--capitolo='));
+const destinazione = process.argv.find(x => x.startsWith('--destino='));
+const solo = capArg ? Number(capArg.slice('--capitolo='.length)) : null;
+if ((solo !== null && (!Number.isInteger(solo) || solo < 1 || solo > 999 || process.argv.includes('--push'))) || (destinazione && solo === null)) {
+  throw new Error('Usa --capitolo=N [--destino=cartella] per preparare un solo capitolo in locale.');
+}
+const DOCS = destinazione ? path.resolve(destinazione.slice('--destino='.length)) : sito;
+const AUDIO = path.join(DOCS, 'audio'), TESTI = path.join(DOCS, 'testi');
 const BITRATE = '48k'; // Con circa 40 ore di audio il sito resta sotto il limite di 1 GB di GitHub Pages.
 fs.mkdirSync(AUDIO, { recursive: true });
 fs.mkdirSync(TESTI, { recursive: true });
@@ -133,8 +141,15 @@ function sincronizza(f, cue) {
 
 const parti = [];
 const capitoli = [];
+const codaAutore = path.join(QUI, 'audio', 'autore', 'lavori.json');
+const sospesi = new Map();
+if (solo === null && fs.existsSync(codaAutore)) {
+  for (const j of JSON.parse(fs.readFileSync(codaAutore, 'utf8'))) {
+    if (['modifica', 'scegli', 'rigenera'].includes(j.tipo)) sospesi.set(j.capitolo, j.stato !== 'pronto');
+  }
+}
 // Capitolo in rigenerazione (mp3 tolto da audiobooks): resta ascoltabile la versione già pubblicata.
-const prima = (() => { try { return Object.fromEntries(JSON.parse(fs.readFileSync(path.join(DOCS, 'capitoli.json'), 'utf8')).capitoli.map(c => [c.n, c])); } catch { return {}; } })();
+const prima = (() => { try { return Object.fromEntries(JSON.parse(fs.readFileSync(path.join(sito, 'capitoli.json'), 'utf8')).capitoli.map(c => [c.n, c])); } catch { return {}; } })();
 let parte = '';
 let nuovi = [];
 for (const file of fs.readdirSync(CAP).filter(x => x.endsWith('.md')).sort()) {
@@ -145,6 +160,7 @@ for (const file of fs.readdirSync(CAP).filter(x => x.endsWith('.md')).sort()) {
   const tit = righe.find(r => /^## /.test(r));
   const titolo = tit ? tit.replace(/^## (\d+\. )?/, '') : f.slice(4).replace(/-/g, ' ').replace(/^./, c => c.toUpperCase());
   const voce = { n, titolo, parte };
+  if ((solo !== null && n !== solo) || sospesi.get(n)) { capitoli.push(prima[n] || voce); continue; }
 
   const mp3 = path.join(SRC, f + '.mp3'), vtt = path.join(SRC, f + '.vtt');
   const out = path.join(AUDIO, id + '.mp3'), js = path.join(TESTI, id + '.json');
@@ -168,17 +184,21 @@ for (const file of fs.readdirSync(CAP).filter(x => x.endsWith('.md')).sort()) {
     }
     const cue = leggiVtt(vtt);
     const { par, esatto, ripiego } = sincronizza(f, cue);
+    if (solo !== null && (!esatto || !cue.length)) throw new Error(`${id}: il testo letto non coincide con il capitolo.`);
     // Se il testo e' stato corretto dopo l'audio non combaciano piu': fino alla rigenerazione resta il file con i paragrafi.
     if (ripiego && fs.existsSync(js)) console.log(`${id} testo diverso dall'audio: da rigenerare, tengo il file esistente`);
     else fs.writeFileSync(js, JSON.stringify(par));
     voce.durata = Math.round(cue[cue.length - 1].fine);
     voce.byte = fs.statSync(out).size;
+    if (solo !== null) voce.versioneAudio = fs.statSync(mp3).mtimeMs;
     console.log(`${id} ${voce.durata}s ${(voce.byte / 1048576).toFixed(1)} MiB testo ${esatto ? 'esatto' : 'come letto'}`);
   }
+  else if (solo !== null) throw new Error(`${id}: MP3 o sottotitoli mancanti.`);
   else if (prima[n] && prima[n].durata && fs.existsSync(out)) { voce.durata = prima[n].durata; voce.byte = prima[n].byte; }
   capitoli.push(voce);
 }
 fs.writeFileSync(path.join(DOCS, 'capitoli.json'), JSON.stringify({ parti, capitoli }));
+if (solo !== null) process.exit(0);
 
 // Rifa' il lettore in docs/ con Leggio: installato con npm, clonato accanto al repo, oppure indicato da $LEGGIO.
 const leggio = [process.env.LEGGIO, path.join(ROOT, 'node_modules', 'leggio'), path.join(ROOT, '..', 'leggio')]

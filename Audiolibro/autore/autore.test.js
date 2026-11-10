@@ -1,0 +1,235 @@
+const { test } = require('node:test');
+const assert = require('node:assert/strict');
+const fs = require('node:fs');
+const path = require('node:path');
+const os = require('node:os');
+const { once } = require('node:events');
+const { execFile } = require('node:child_process');
+const { promisify } = require('node:util');
+const { createHash } = require('node:crypto');
+const { indiceVtt } = require('./audio');
+
+test('il riepilogo autore è pronto solo dopo avere sia le modifiche sia il testo', () => {
+  const { statoCaricamentoAutore } = require('./ui');
+  assert.equal(statoCaricamentoAutore(4, null, 'pronto'), 'caricamento');
+  assert.equal(statoCaricamentoAutore(4, 4, 'caricamento'), 'caricamento');
+  assert.equal(statoCaricamentoAutore(4, 3, 'pronto'), 'caricamento');
+  assert.equal(statoCaricamentoAutore(4, null, 'pronto', 4), 'errore');
+  assert.equal(statoCaricamentoAutore(4, 4, 'errore'), 'errore');
+  assert.equal(statoCaricamentoAutore(4, 4, 'pronto'), 'pronto');
+});
+
+test('il testo in linea evidenzia solo i cambiamenti, anche se sono separati', () => {
+  const { differenze, riepilogoParole } = require('./ui');
+  const prima = 'Un cavaliere stanco passò di corsa.';
+  const dopo = 'Un soldato stanco passò piano.';
+  const { aggiunte, rimosse } = differenze(prima, dopo);
+  assert.deepEqual(aggiunte.map(([a, b]) => dopo.slice(a, b)), ['soldato', 'piano']);
+  assert.deepEqual(rimosse.map(([a, b]) => prima.slice(a, b)), ['cavaliere', 'di corsa']);
+  assert.deepEqual(differenze('Una,  frase.', 'Una frase.'), { aggiunte: [], rimosse: [[3, 4]], tagli: [4] });
+  assert.deepEqual(riepilogoParole('Un cavaliere passò. Rimase fermo.', 'Un soldato passò. Rimase fermo.'), { piu: 1, meno: 1, audio: 3 });
+  assert.deepEqual(riepilogoParole('Un cavaliere stanco passò. Rimase fermo.', 'Un cavaliere passò. Rimase fermo.'), { piu: 0, meno: 1, audio: 3 });
+});
+
+test('il diff colloca le rimozioni accanto alla sostituzione o al testo conservato', () => {
+  const { diffConRimozioni } = require('./ui');
+  const sostituzione = diffConRimozioni('Il capitano parla.', 'Il soldato parla.');
+  assert.deepEqual(sostituzione.rimozioni, [{ posizione: 3, testo: 'capitano', prima: '', dopo: ' ' }]);
+  assert.deepEqual(diffConRimozioni('Una, frase.', 'Una frase.').rimozioni, [{ posizione: 3, testo: ',', prima: '', dopo: '' }]);
+  assert.deepEqual(diffConRimozioni('Prima.\n\nPoi il capitano riparte.', 'Prima.\n\nPoi riparte.').rimozioni,
+    [{ posizione: 12, testo: 'il capitano', prima: '', dopo: ' ' }]);
+});
+
+test('un estratto naviga al paragrafo della modifica anche quando il contesto parte prima', () => {
+  const { diffConRimozioni, puntoDiff } = require('./ui');
+  const prima = 'Prima frase.\n\nIl capitano parla.';
+  const dopo = 'Prima frase.\n\nIl soldato parla.';
+  assert.deepEqual(puntoDiff(dopo, diffConRimozioni(prima, dopo), 0, dopo.length), { indice: 1, testo: 'Il soldato parla.', offset: 3 });
+});
+
+test('la prima anteprima limita anche le parole rimosse e consente di vedere il diff completo', () => {
+  const { anteprimaDiff, diffConRimozioni } = require('./ui');
+  const dopo = 'In città il capitano attese in silenzio.';
+  const diff = diffConRimozioni('In città ' + 'un lungo inciso ormai superato '.repeat(10) + 'il capitano attese in silenzio.', dopo);
+  const breve = anteprimaDiff(dopo, diff, [0, dopo.length], 85);
+  assert.equal(breve.tagliata, true);
+  assert.equal(breve.diff.rimozioni.length, 1);
+  assert.ok(breve.fine + breve.diff.rimozioni[0].testo.length <= 85);
+  assert.ok(breve.diff.rimozioni[0].testo.endsWith('…'));
+  assert.equal(diff.rimozioni[0].testo.includes('…'), false);
+  assert.equal(anteprimaDiff(dopo, diffConRimozioni('In città il furiere attese in silenzio.', dopo), [0, dopo.length]).tagliata, false);
+});
+
+test('un minuto del lettore individua il blocco XTTS che lo contiene', () => {
+  const vtt = 'WEBVTT\r\n\r\n00:00:00.000 --> 00:00:02.100\r\nPrima.\r\n\r\n00:00:02.100 --> 00:00:04.000\r\nSeconda.\r\n';
+  assert.equal(indiceVtt(vtt, 2.1), 1);
+  assert.equal(indiceVtt(vtt, 0), 0);
+  assert.throws(() => indiceVtt(vtt, 5), /fuori/);
+  const arrotondato = vtt.replaceAll('02.100', '02.103');
+  assert.equal(indiceVtt(arrotondato, 2.1, 'Seconda.'), 1);
+  assert.throws(() => indiceVtt(arrotondato, 2.1, 'Frase precedente diversa.'), /non coincide/);
+});
+
+test('Leggio e CLI condividono una coda che pubblica solo la revisione corrente', async t => {
+  const { creaServer } = require('./server');
+  const root = fs.mkdtempSync(path.join(os.tmpdir(), 'leggio-autore-'));
+  t.after(() => fs.rmSync(root, { recursive: true, force: true }));
+  const copie = ['Romanzo', '.claude/worktrees/revisione-ia/Romanzo'];
+  for (const copia of copie) {
+    fs.mkdirSync(path.join(root, copia, 'capitoli'), { recursive: true });
+    fs.writeFileSync(path.join(root, copia, 'capitoli/004-reks.md'), '## 4. Reks\r\n\r\nTesto prima.\r\n\r\nAltro.\r\n\r\nTesto prima.\r\n');
+    fs.writeFileSync(path.join(root, copia, 'romanzo.md'), '# Libro\n\n## 4. Reks\n\nTesto prima.\n\nAltro.\n\nTesto prima.\n\n## 5. Dopo\n\nTesto prima.\n');
+  }
+  fs.mkdirSync(path.join(root, 'docs'));
+  fs.writeFileSync(path.join(root, 'docs/index.html'), '<body>Leggio</body>');
+  let sblocca;
+  const primo = new Promise(resolve => { sblocca = resolve; });
+  let avvia;
+  const avviato = new Promise(resolve => { avvia = resolve; });
+  const pubblicati = [];
+  const server = creaServer({ root, audio: {
+    async lavora(lavoro) { if (lavoro.dopo === 'Prima modifica.') { avvia(); await primo; } },
+    async pubblica(lavoro) { pubblicati.push(lavoro.dopo); },
+  } });
+  server.listen(0, '127.0.0.1');
+  t.after(() => { server.close(); });
+  await once(server, 'listening');
+  const url = `http://127.0.0.1:${server.address().port}`;
+  const api = (p, body, origin) => fetch(url + '/__autore/' + p, body && {
+    method: 'POST', headers: { 'Content-Type': 'application/json', ...(origin && { Origin: origin }) }, body: JSON.stringify(body),
+  });
+  const capitolo = async () => (await api('capitolo/4')).json();
+  const modifica = (revisione, testo, origin) => api('modifica', { capitolo: 4, revisione, riga: 2, testo }, origin);
+  assert.doesNotMatch(await (await fetch(url)).text(), /__autore/);
+  assert.match(await (await fetch(url + '/?write=true')).text(), /__autore\/ui\.js/);
+  const originale = await capitolo();
+  assert.equal(originale.passaggi[0].testo, 'Testo prima.');
+  const cli = async (...args) => JSON.parse((await promisify(execFile)(process.execPath, [path.join(__dirname, 'cli.js'), ...args], {
+    env: { ...process.env, AUTORE_URL: url },
+  })).stdout);
+  const tab = 'aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaaa';
+  const dati = { capitolo: 4, riga: 2, fine: 4, revisione: originale.revisione, testo: 'Testo prima.\n\nAltro.', da: 6, a: 18 };
+  assert.equal((await api('selezione', { tab, seq: 1, dati })).status, 200);
+  assert.equal((await cli('selezione')).testoSelezionato, 'prima.\n\nAltr');
+  assert.equal((await api('selezione', { tab, seq: 2, dati: null })).status, 200);
+  await api('selezione', { tab, seq: 1, dati });
+  assert.equal(await cli('selezione'), null);
+  const proposta = await cli('proponi', '4', '2', originale.revisione, 'Alternativa dell’agente.');
+  assert.equal((await capitolo()).passaggi[0].testo, 'Testo prima.');
+  assert.equal((await cli('diff', '4'))[0].id, proposta.id);
+  assert.equal((await modifica(originale.revisione, 'Prima modifica.', 'https://example.com')).status, 403);
+  assert.equal((await modifica(originale.revisione, 'Prima modifica.')).status, 202);
+  await avviato;
+  assert.equal((await modifica(originale.revisione, 'Versione obsoleta.')).status, 409);
+  assert.equal((await modifica((await capitolo()).revisione, 'Ultima modifica.')).status, 202);
+  sblocca();
+  const scadenza = Date.now() + 3000;
+  let finale;
+  do {
+    finale = await capitolo();
+    if (finale.lavori.some(j => j.stato === 'pronto')) break;
+    await new Promise(resolve => setTimeout(resolve, 20));
+  } while (Date.now() < scadenza);
+  assert.deepEqual(pubblicati, ['Ultima modifica.']);
+  assert.equal(finale.lavori.find(j => j.dopo === 'Prima modifica.').stato, 'superato');
+  assert.equal((await cli('stato', '4')).find(j => j.id === proposta.id).stato, 'proposta');
+  assert.equal(finale.passaggi[0].testo, 'Ultima modifica.');
+  for (const copia of copie) {
+    assert.match(fs.readFileSync(path.join(root, copia, 'capitoli/004-reks.md'), 'utf8'), /\r\nUltima modifica\.\r\n/);
+    assert.match(fs.readFileSync(path.join(root, copia, 'romanzo.md'), 'utf8'), /## 4\. Reks\n\nUltima modifica\.\n\nAltro\.\n\nTesto prima\.\n\n## 5\. Dopo\n\nTesto prima\./);
+  }
+  const copia = path.join(root, copie[1], 'capitoli/004-reks.md');
+  const soloTesto = await api('modifica', { capitolo: 4, revisione: finale.revisione, riga: 2, testo: 'Correzione senza voce.', audio: false });
+  assert.equal(soloTesto.status, 202);
+  const j = await soloTesto.json();
+  assert.equal(j.stato, 'audio da aggiornare');
+  const senzaAudio = await capitolo();
+  assert.equal(senzaAudio.passaggi[0].testo, 'Correzione senza voce.');
+  assert.deepEqual(pubblicati, ['Ultima modifica.']);
+  fs.writeFileSync(copia, fs.readFileSync(copia, 'utf8').replace('Correzione senza voce.', 'Divergenza.'));
+  assert.equal((await modifica(senzaAudio.revisione, 'Non sovrascrivere.')).status, 409);
+  assert.equal((await capitolo()).passaggi[0].testo, 'Correzione senza voce.');
+  assert.equal((await api('aggiorna-audio', { id: j.id })).status, 202);
+  const attesa = Date.now() + 3000;
+  while (!pubblicati.includes('Correzione senza voce.') && Date.now() < attesa) await new Promise(resolve => setTimeout(resolve, 20));
+  assert.deepEqual(pubblicati, ['Ultima modifica.', 'Correzione senza voce.']);
+  const revisione = (await capitolo()).revisione;
+  const bozza = await api('bozza', { capitolo: 4, revisione, riga: 4, fine: 6,
+    testo: 'Secondo paragrafo.\n\nNuovo paragrafo.\n\nTerzo paragrafo.' });
+  assert.equal(bozza.status, 202);
+  const salvata = await bozza.json();
+  assert.deepEqual((await capitolo()).passaggi.map(p => p.testo), ['Correzione senza voce.', 'Altro.', 'Testo prima.']);
+  assert.equal((await cli('diff', '4'))[0].id, salvata.id);
+  const salvaBlocco = () => api('applica-bozza', { id: salvata.id });
+  fs.writeFileSync(copia, fs.readFileSync(copia, 'utf8').replace('Testo prima.', 'Divergenza nel terzo.'));
+  assert.equal((await salvaBlocco()).status, 409);
+  assert.equal((await capitolo()).passaggi[1].testo, 'Altro.');
+  fs.writeFileSync(copia, fs.readFileSync(copia, 'utf8').replace('Divergenza nel terzo.', 'Testo prima.'));
+  const blocco = await salvaBlocco();
+  assert.equal(blocco.status, 202);
+  assert.equal((await blocco.json()).stato, 'audio da aggiornare');
+  assert.deepEqual((await capitolo()).passaggi.map(p => p.testo), ['Correzione senza voce.', 'Secondo paragrafo.', 'Nuovo paragrafo.', 'Terzo paragrafo.']);
+  assert.match(fs.readFileSync(copia, 'utf8'), /Secondo paragrafo\.\r\n\r\nNuovo paragrafo\.\r\n\r\nTerzo paragrafo\./);
+  assert.deepEqual(pubblicati, ['Ultima modifica.', 'Correzione senza voce.']);
+  const applicato = (await capitolo()).lavori.find(x => x.tipo === 'modifica' && x.blocchi?.length);
+  const corrente = await capitolo();
+  const primaBozza = await (await api('bozza', { capitolo: 4, revisione: corrente.revisione, riga: 4, testo: 'Bozza due.' })).json();
+  const dueBozze = await (await api('bozza', { capitolo: 4, revisione: corrente.revisione, bozza: primaBozza.id, riga: 8, testo: 'Bozza tre.' })).json();
+  const annullaUna = await api('ripristina', { id: dueBozze.id, indice: 0 });
+  assert.equal(annullaUna.status, 202);
+  assert.deepEqual((await capitolo()).bozza.blocchi.map(b => b.dopo[0]), ['Bozza tre.']);
+  assert.equal((await api('ripristina', { id: applicato.id, indice: 0 })).status, 409);
+  const rimanente = (await capitolo()).bozza;
+  assert.equal((await api('ripristina', { id: rimanente.id, indice: 0 })).status, 202);
+  const ripristino = await api('ripristina', { id: applicato.id, indice: 0 });
+  assert.equal(ripristino.status, 202);
+  assert.deepEqual((await capitolo()).passaggi.map(p => p.testo), ['Correzione senza voce.', 'Altro.', 'Testo prima.']);
+  assert.deepEqual(pubblicati, ['Ultima modifica.', 'Correzione senza voce.']);
+  const base = await capitolo();
+  const b1 = await (await api('bozza', { capitolo: 4, revisione: base.revisione, riga: 4, testo: 'Prima parte.\n\nSeconda parte.' })).json();
+  const b2 = await (await api('bozza', { capitolo: 4, revisione: base.revisione, bozza: b1.id, riga: 6, testo: 'Terza modifica.' })).json();
+  const dueApplicati = await (await api('applica-bozza', { id: b2.id })).json();
+  const nuova = await capitolo();
+  await api('bozza', { capitolo: 4, revisione: nuova.revisione, riga: 8, testo: 'Terza bozza.' });
+  const senzaPrimo = await api('ripristina', { id: dueApplicati.id, indice: 0 });
+  assert.equal(senzaPrimo.status, 202);
+  const uno = await capitolo();
+  assert.deepEqual(uno.passaggi.map(p => p.testo), ['Correzione senza voce.', 'Altro.', 'Terza modifica.']);
+  assert.deepEqual(uno.bozza.blocchi[0], { riga: 6, fine: 6, ordine: 2, prima: ['Terza modifica.'], dopo: ['Terza bozza.'] });
+  const ultimo = await api('ripristina', { id: (await senzaPrimo.json()).id, indice: 0 });
+  assert.equal(ultimo.status, 202);
+  const due = await capitolo();
+  assert.deepEqual(due.passaggi.map(p => p.testo), ['Correzione senza voce.', 'Altro.', 'Testo prima.']);
+  assert.deepEqual(due.bozza.blocchi[0], { riga: 6, fine: 6, ordine: 2, prima: ['Testo prima.'], dopo: ['Terza bozza.'] });
+  assert.deepEqual(pubblicati, ['Ultima modifica.', 'Correzione senza voce.']);
+});
+
+test('un riavvio completa un salvataggio interrotto prima di accodare la voce', async t => {
+  const { creaServer } = require('./server');
+  const root = fs.mkdtempSync(path.join(os.tmpdir(), 'leggio-ripresa-'));
+  t.after(() => fs.rmSync(root, { recursive: true, force: true }));
+  const dir = path.join(root, 'Audiolibro/audio/autore');
+  fs.mkdirSync(dir, { recursive: true });
+  fs.mkdirSync(path.join(root, 'Romanzo/capitoli'), { recursive: true });
+  const prima = '## 4. Reks\n\nPrima.\n';
+  const dopo = '## 4. Reks\n\nDopo.\n';
+  const file = ['Romanzo/capitoli/004-reks.md', 'Romanzo/romanzo.md'].map(f => ({ file: path.join(root, f), prima, dopo }));
+  fs.writeFileSync(file[0].file, dopo);
+  fs.writeFileSync(file[1].file, prima);
+  const revisione = createHash('sha256').update(dopo).digest('hex');
+  const j = { id: 'ripresa', tipo: 'modifica', capitolo: 4, revisione, stato: 'in coda' };
+  fs.writeFileSync(path.join(dir, 'salvataggio.json'), JSON.stringify({ j, file }));
+  let pubblicato;
+  const pronto = new Promise(resolve => { pubblicato = resolve; });
+  const server = creaServer({ root, audio: {
+    async lavora() { assert.equal(fs.readFileSync(file[1].file, 'utf8'), dopo); },
+    async pubblica(lavoro) { pubblicato(lavoro.id); },
+  } });
+  server.listen(0, '127.0.0.1');
+  t.after(() => server.close());
+  assert.equal(await pronto, 'ripresa');
+  await new Promise(resolve => setImmediate(resolve));
+  assert.equal(fs.existsSync(path.join(dir, 'salvataggio.json')), false);
+  const stato = JSON.parse(fs.readFileSync(path.join(dir, 'lavori.json'), 'utf8'));
+  assert.deepEqual(stato.map(x => [x.id, x.stato]), [['ripresa', 'pronto']]);
+});

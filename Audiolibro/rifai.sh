@@ -19,7 +19,8 @@ J=$(ls -t tmp/proc-*/*/__current_$f.json 2>/dev/null | head -1)
 P=$(dirname "$J"); S=$(basename "$(dirname "$P")"); S=${S#proc-}
 if [ "$1" = "--testo" ]; then
   node prepara.js "${id#00}" >/dev/null || exit 2
-  R=$(node aggiorna.js "$P" "$f") || exit 3; set -- $R
+  R=$(node aggiorna.js "$P" "$f") || exit 3
+  if [ "$R" = "RIMONTA" ]; then set -- --monta; else set -- $R; fi
   [ $# -gt 0 ] || { echo "$f: nessuna frase cambiata"; exit 0; }
   echo "$f: frasi cambiate $*"
 fi
@@ -28,6 +29,11 @@ if [ "$1" = "--elenca" ]; then
 fi
 B=$(node -e "console.log(require('./$J').blocks[0].id)")
 D="$P/chapters/sentences/$B"
+PROVE=audio/prove
+if [ -n "$GRUPPO_PRESE" ]; then
+  [[ "$GRUPPO_PRESE" =~ ^[0-9a-f-]{36}$ ]] || exit 2
+  PROVE="audio/autore/prese/$GRUPPO_PRESE"
+fi
 args=(--script_mode full_docker --headless --session "$S" --ebook "/app/testo/$f.txt" --language ita --tts_engine xtts --device CUDA --output_format mp3 --output_dir /app/audiobooks)
 # Fa credere al programma che il blocco sia già finito: così controlla le frasi mancanti e rifà solo quelle.
 ripresa() { node -e "const fs=require('fs'),p='$J',j=JSON.parse(fs.readFileSync(p));j.block_resume=j.blocks.length;j.sentence_resume=0;fs.writeFileSync(p,JSON.stringify(j,null,4))"; }
@@ -57,23 +63,26 @@ monta() {
 }
 case "$1" in
   --prove)
-    i=$2; n=${3:-4}; [[ "$i" =~ ^[0-9]+$ ]] && [ -f "$D/$i.flac" ] || { echo "Frase $i non trovata"; exit 2; }
+    i=$2; n=${3:-4}; [[ "$i" =~ ^[0-9]+$ ]] || { echo "Indice della frase non valido"; exit 2; }
     [[ "$n" =~ ^[0-9]+$ ]] && [ "$n" -ge 1 ] && [ "$n" -le 10 ] || { echo "Numero di prese non valido: $n (da 1 a 10)"; exit 2; }
-    mkdir -p audio/prove
-    [ -f "audio/prove/$id-$i-0.flac" ] || cp "$D/$i.flac" "audio/prove/$id-$i-0.flac"
+    mkdir -p "$PROVE"
+    if [ ! -f "$D/$i.flac" ] && [ -f "$PROVE/$id-$i-0.flac" ]; then cp "$PROVE/$id-$i-0.flac" "$D/$i.flac" || exit 2; fi
+    [ -f "$D/$i.flac" ] || { echo "Frase $i non trovata"; exit 2; }
+    [ -f "$PROVE/$id-$i-0.flac" ] || cp "$D/$i.flac" "$PROVE/$id-$i-0.flac"
     for k in $(seq "$n"); do
       rm -f "$D/$i.flac"; S0=$(date +%s)
-      solo_frasi "prova $k di $n della frase $i" || { cp "audio/prove/$id-$i-0.flac" "$D/$i.flac"; echo "ERRORE: vedi Audiolibro/audio/rifai-$id.txt"; exit 1; }
-      cp "$D/$i.flac" "audio/prove/$id-$i-$k.flac"; echo "presa $k pronta in $(( $(date +%s)-S0 ))s"
+      solo_frasi "prova $k di $n della frase $i" || { cp "$PROVE/$id-$i-0.flac" "$D/$i.flac"; echo "ERRORE: vedi Audiolibro/audio/rifai-$id.txt"; exit 1; }
+      cp "$D/$i.flac" "$PROVE/$id-$i-$k.flac"; echo "presa $k pronta in $(( $(date +%s)-S0 ))s"
     done
-    cp "audio/prove/$id-$i-0.flac" "$D/$i.flac"
-    for x in audio/prove/$id-$i-*.flac; do
-      MSYS_NO_PATHCONV=1 docker exec audiolibro-tts ffmpeg -v error -y -i "/app/registri/prove/$(basename "$x")" -b:a 96k "/app/registri/prove/$(basename "$x" .flac).mp3"
+    cp "$PROVE/$id-$i-0.flac" "$D/$i.flac"
+    for x in "$PROVE"/$id-$i-*.flac; do
+      uscita=${x%.flac}.mp3
+      MSYS_NO_PATHCONV=1 docker exec audiolibro-tts ffmpeg -v error -y -i "/app/registri/${x#audio/}" -b:a 96k "/app/registri/${uscita#audio/}" || exit 1
     done
-    ls audio/prove/$id-$i-*.mp3; echo "Per usarne una: bash rifai.sh ${id#00} --scegli $i K"; exit 0 ;;
+    ls "$PROVE"/$id-$i-*.mp3; echo "Per usarne una: bash rifai.sh ${id#00} --scegli $i K"; exit 0 ;;
   --scegli)
-    [ -f "audio/prove/$id-$2-$3.flac" ] || { echo "Presa audio/prove/$id-$2-$3.flac non trovata"; exit 2; }
-    cp "audio/prove/$id-$2-$3.flac" "$D/$2.flac"
+    [ -f "$PROVE/$id-$2-$3.flac" ] || { echo "Presa $PROVE/$id-$2-$3.flac non trovata"; exit 2; }
+    cp "$PROVE/$id-$2-$3.flac" "$D/$2.flac"
     monta "SCELTA presa $3 della frase $2" "$2"; exit ;;
   --monta)
     monta "RIMONTATO" ""; exit ;;

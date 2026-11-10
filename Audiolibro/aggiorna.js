@@ -8,6 +8,8 @@ const nuovo = fs.readFileSync(path.join(__dirname, 'testo', f + '.txt'), 'utf8')
 const files = ['__current_', '__saved_', '__'].map(x => path.join(P, x + f + '.json')).filter(fs.existsSync);
 const j = JSON.parse(fs.readFileSync(files[0], 'utf8'));
 const frasi = j.blocks[0].sentences;
+const transazione = path.join(P, '.aggiorna-in-corso');
+const recupero = fs.existsSync(transazione);
 
 // Parole confrontate: solo lettere e numeri. La punteggiatura fra le parole si confronta dopo, a parte (vedi segni).
 const parole = t => [...t.matchAll(/\[[^\]]*\]|[\p{L}\p{N}]+/gu)].filter(m => m[0][0] !== '[').map(m => ({ a: m.index, b: m.index + m[0].length, k: m[0].toLowerCase() }));
@@ -104,22 +106,26 @@ for (const u of uniti.reverse()) {
 }
 const idx = lista.map((x, p) => x.orig === null ? p : -1).filter(p => p >= 0);
 for (const i of idx) console.error(`${i}: ${lista[i].t}`);
-if (idx.length) {
+if (idx.length || recupero) {
+  fs.writeFileSync(transazione, '');
   const nuoveSent = lista.map(x => x.t);
   for (const file of files) {
     const k = JSON.parse(fs.readFileSync(file, 'utf8'));
     k.blocks[0].sentences = nuoveSent; k.blocks[0].text = nuoveSent.join(' ');
-    fs.writeFileSync(file, JSON.stringify(k, null, 4));
+    const tmp = file + '.aggiorna';
+    fs.writeFileSync(tmp, JSON.stringify(k, null, 4));
+    fs.renameSync(tmp, file);
   }
   // Le frasi rimaste uguali ma spostate di posto: il loro audio cambia nome (in due passaggi, per non sovrascrivere).
   const dir = path.join(P, 'chapters', 'sentences', j.blocks[0].id);
   if (fs.existsSync(dir)) {
-    const tieni = lista.map((x, p) => [x.orig, p]).filter(([o]) => o !== null);
+    const tieni = recupero ? [] : lista.map((x, p) => [x.orig, p]).filter(([o]) => o !== null);
     for (const [o] of tieni) { const da = path.join(dir, o + '.flac'); if (fs.existsSync(da)) fs.renameSync(da, path.join(dir, 't' + o + '.flac')); }
-    for (const nome of fs.readdirSync(dir)) if (/^\d+\.flac$/.test(nome)) fs.unlinkSync(path.join(dir, nome));
+    for (const nome of fs.readdirSync(dir)) if ((recupero ? /^t?\d+\.flac$/ : /^\d+\.flac$/).test(nome)) fs.unlinkSync(path.join(dir, nome));
     for (const [o, p] of tieni) { const da = path.join(dir, 't' + o + '.flac'); if (fs.existsSync(da)) fs.renameSync(da, path.join(dir, p + '.flac')); }
   }
 }
 // Impronta del nuovo testo: se non coincide, il programma rifà tutto il capitolo.
 fs.writeFileSync(path.join(P, 'checksum'), crypto.createHash('sha256').update(fs.readFileSync(path.join(__dirname, 'testo', f + '.txt'))).digest('hex'));
-console.log(idx.join(' '));
+fs.rmSync(transazione, { force: true });
+console.log(recupero ? 'RIMONTA' : idx.join(' '));
