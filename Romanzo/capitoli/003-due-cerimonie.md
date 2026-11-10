@@ -132,7 +132,7 @@ Il furiere si chinò sulla lista. «Arruolato dopo Nalbina, capitano. Volontario
 
 «Diciassette.»
 
-Basch guardò il nome a lungo. Pensò a quanti ragazzi di diciassette anni aveva visto nel fumo di Nalbina, e a quanti ne aveva riportati indietro, e pensò che non c'era nessuna ragione per prendere un ragazzo in un reparto di venti uomini destinato a entrare in una fortezza nemica di notte. Poi pensò che quelli esperti erano quasi tutti morti, e che si era presentato.
+Basch guardò il nome a lungo. Di ragazzi di diciassette anni ne aveva avuti con sé a Nalbina, e sapeva quanti ne erano tornati. Un reparto che entra di notte in una fortezza nemica non era posto per uno di loro. Però in quella lista ce n'erano altri che avrebbe lasciato a casa volentieri, e a scartarli tutti non gli restavano abbastanza uomini. Il ragazzo, almeno, nessuno lo aveva obbligato a farsi avanti.
 
 «Famiglia?» chiese.
 

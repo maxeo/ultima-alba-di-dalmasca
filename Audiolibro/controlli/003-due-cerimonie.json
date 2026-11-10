@@ -1,6 +1,6 @@
 {
  "capitolo": "003-due-cerimonie",
- "somiglianza": 0.9761,
+ "somiglianza": 0.9773,
  "problemi": [
   {
    "tempo": "8:47",
@@ -10,11 +10,18 @@
    "audio": "dentro la carne bascia l 'aspettava fuori dalla"
   },
   {
-   "tempo": "14:29",
-   "secondi": 869.2,
+   "tempo": "10:02",
+   "secondi": 602.8,
+   "tipo": "diverso",
+   "testo": "decisione e presa basch annui non si mosse",
+   "audio": "decisione è presa bascia a noi non si mosse"
+  },
+  {
+   "tempo": "14:28",
+   "secondi": 868.8,
    "tipo": "in più",
    "testo": "chiese se stringeva lei disse di",
-   "audio": "e si stringeva. Lei disse di no. Lei disse di"
+   "audio": "e se stringeva lei disse di no lei disse di"
   }
  ]
 }
