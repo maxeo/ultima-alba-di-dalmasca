@@ -808,6 +808,18 @@ function apriPagina() {
   $('testo').classList.add('attivo');
   seguiVoce = true;
   altezzaLettore();
+  vaiAllaVoce();
+}
+// Aprendo il testo si parte da dove sta la voce, non dall'inizio del capitolo. Dopo un ricaricamento
+// il testo arriva dopo l'audio, quindi si aspetta: senza le frasi non c'è niente da centrare.
+function vaiAllaVoce(tentativi = 25) {
+  if (MODO === 'testo') return;
+  setTimeout(() => {
+    if ($('pagina').classList.contains('nascosto') || !seguiVoce) return;
+    if (!cue.length) { if (tentativi) vaiAllaVoce(tentativi - 1); return; }
+    segnaCue(a.currentTime || 0);
+    cue[cueOra]?.el.scrollIntoView({ block: 'center' });
+  }, 60);
 }
 function carica(n, avvia, da) {
   const c = capitoli.find(k => k.n === n);
@@ -1169,7 +1181,7 @@ $('testo').onclick = () => {
   const ora = pg.classList.toggle('nascosto');
   $('testo').classList.toggle('attivo', !ora);
   stato.pagina = !ora; salvaStato();
-  if (!ora) { seguiVoce = true; altezzaLettore(); setTimeout(() => cue[cueOra]?.el.scrollIntoView({ block: 'center' }), 60); }
+  if (!ora) { seguiVoce = true; altezzaLettore(); vaiAllaVoce(); }
 };
 $('chiudi-pagina').onclick = () => { $('pagina').classList.add('nascosto'); $('testo').classList.remove('attivo'); $('segui').classList.add('nascosto'); stato.pagina = false; salvaStato(); };
 const staccaSegui = () => { if (seguiVoce && !$('pagina').classList.contains('nascosto')) { seguiVoce = false; $('segui').classList.remove('nascosto'); } };
