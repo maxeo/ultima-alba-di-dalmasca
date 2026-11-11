@@ -6,7 +6,7 @@ import { aggiorna, dati } from './dati.mjs';
 import { mappaVisiva, mostraModifiche } from './proiezione.mjs';
 import { aggiornaComandi, aggiornaContatori, stato } from './pannello.mjs';
 import { bloccoDelPassaggio } from './pendenti.mjs';
-import { colora, confrontoModifiche } from './diff-testo.mjs';
+import { colora } from './diff-testo.mjs';
 
 export const area = el('textarea');
 area.rows = 1;
@@ -99,11 +99,11 @@ export function paragrafoDi(n) {
   if (letto === normalizza(dati.passaggi[i].testo) || dati.lavori.some(j => j.tipo === 'modifica' && j.riga === n && [j.prima, j.dopo].some(t => normalizza(t) === letto))) return p;
 }
 
+// Mentre si scrive si guarda quello che si sta scrivendo, evidenziato in verde nel riquadro. Quello
+// che si toglie sotto non serve: si vede nella scheda del pannello, a correzione salvata.
 export function aggiornaBozza() {
-  const { aggiunte, rimosse } = differenze(originale, area.value);
+  const { aggiunte } = differenze(originale, area.value);
   colora(specchio, area.value + '\u200b', aggiunte);
-  inLinea.querySelector(':scope > .autore-confronto')?.remove();
-  if (rimosse.length) inLinea.append(confrontoModifiche(originale, area.value));
   aggiornaComandi();
   aggiornaContatori();
 }
