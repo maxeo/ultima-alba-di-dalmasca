@@ -134,10 +134,8 @@ test('Leggio e CLI condividono una coda che pubblica solo la revisione corrente'
   assert.equal(finale.lavori.find(j => j.dopo === 'Prima modifica.').stato, 'superato');
   assert.equal((await cli('stato', '4')).find(j => j.id === proposta.id).stato, 'proposta');
   assert.equal(finale.passaggi[0].testo, 'Ultima modifica.');
-  for (const copia of copie) {
-    assert.match(fs.readFileSync(path.join(root, copia, 'capitoli/004-reks.md'), 'utf8'), /\r\nUltima modifica\.\r\n/);
-    assert.match(fs.readFileSync(path.join(root, copia, 'romanzo.md'), 'utf8'), /## 4\. Reks\n\nUltima modifica\.\n\nAltro\.\n\nTesto prima\.\n\n## 5\. Dopo\n\nTesto prima\./);
-  }
+  assert.match(fs.readFileSync(path.join(root, copie[0], 'capitoli/004-reks.md'), 'utf8'), /\r\nUltima modifica\.\r\n/);
+  assert.match(fs.readFileSync(path.join(root, copie[0], 'romanzo.md'), 'utf8'), /## 4\. Reks\n\nUltima modifica\.\n\nAltro\.\n\nTesto prima\.\n\n## 5\. Dopo\n\nTesto prima\./);
   const copia = path.join(root, copie[1], 'capitoli/004-reks.md');
   const soloTesto = await api('modifica', { capitolo: 4, revisione: finale.revisione, riga: 2, testo: 'Correzione senza voce.', audio: false });
   assert.equal(soloTesto.status, 202);
@@ -146,9 +144,13 @@ test('Leggio e CLI condividono una coda che pubblica solo la revisione corrente'
   const senzaAudio = await capitolo();
   assert.equal(senzaAudio.passaggi[0].testo, 'Correzione senza voce.');
   assert.deepEqual(pubblicati, ['Ultima modifica.']);
-  fs.writeFileSync(copia, fs.readFileSync(copia, 'utf8').replace('Correzione senza voce.', 'Divergenza.'));
+  // Il romanzo.md non è una cortesia: se diverge, la correzione si ferma e non scrive da nessuna parte.
+  const romanzo = path.join(root, copie[0], 'romanzo.md');
+  const divergi = (file, da, a) => fs.writeFileSync(file, fs.readFileSync(file, 'utf8').replace(da, a));
+  divergi(romanzo, 'Correzione senza voce.', 'Divergenza.');
   assert.equal((await modifica(senzaAudio.revisione, 'Non sovrascrivere.')).status, 409);
   assert.equal((await capitolo()).passaggi[0].testo, 'Correzione senza voce.');
+  divergi(romanzo, 'Divergenza.', 'Correzione senza voce.');
   assert.equal((await api('aggiorna-audio', { id: j.id })).status, 202);
   const attesa = Date.now() + 3000;
   while (!pubblicati.includes('Correzione senza voce.') && Date.now() < attesa) await new Promise(resolve => setTimeout(resolve, 20));
@@ -161,10 +163,10 @@ test('Leggio e CLI condividono una coda che pubblica solo la revisione corrente'
   assert.deepEqual((await capitolo()).passaggi.map(p => p.testo), ['Correzione senza voce.', 'Altro.', 'Testo prima.']);
   assert.equal((await cli('diff', '4'))[0].id, salvata.id);
   const salvaBlocco = () => api('applica-bozza', { id: salvata.id });
-  fs.writeFileSync(copia, fs.readFileSync(copia, 'utf8').replace('Testo prima.', 'Divergenza nel terzo.'));
+  divergi(romanzo, 'Testo prima.', 'Divergenza nel terzo.');
   assert.equal((await salvaBlocco()).status, 409);
   assert.equal((await capitolo()).passaggi[1].testo, 'Altro.');
-  fs.writeFileSync(copia, fs.readFileSync(copia, 'utf8').replace('Divergenza nel terzo.', 'Testo prima.'));
+  divergi(romanzo, 'Divergenza nel terzo.', 'Testo prima.');
   const blocco = await salvaBlocco();
   assert.equal(blocco.status, 202);
   // Applicare la bozza accoda l'audio da solo: non resta un secondo passo da fare a mano.
@@ -175,7 +177,7 @@ test('Leggio e CLI condividono una coda che pubblica solo la revisione corrente'
   while (Date.now() < scadenzaBlocco && await statoBlocco() !== 'pronto') await new Promise(resolve => setTimeout(resolve, 20));
   assert.equal(await statoBlocco(), 'pronto');
   assert.deepEqual((await capitolo()).passaggi.map(p => p.testo), ['Correzione senza voce.', 'Secondo paragrafo.', 'Nuovo paragrafo.', 'Terzo paragrafo.']);
-  assert.match(fs.readFileSync(copia, 'utf8'), /Secondo paragrafo\.\r\n\r\nNuovo paragrafo\.\r\n\r\nTerzo paragrafo\./);
+  assert.match(fs.readFileSync(path.join(root, copie[0], 'capitoli/004-reks.md'), 'utf8'), /Secondo paragrafo\.\r\n\r\nNuovo paragrafo\.\r\n\r\nTerzo paragrafo\./);
   assert.deepEqual(pubblicati.filter(x => x !== undefined), ['Ultima modifica.', 'Correzione senza voce.']);
   const applicato = (await capitolo()).lavori.find(x => x.tipo === 'modifica' && x.blocchi?.length);
   const corrente = await capitolo();
@@ -208,6 +210,9 @@ test('Leggio e CLI condividono una coda che pubblica solo la revisione corrente'
   assert.deepEqual(due.passaggi.map(p => p.testo), ['Correzione senza voce.', 'Altro.', 'Testo prima.']);
   assert.deepEqual(due.bozza.blocchi[0], { riga: 6, fine: 6, ordine: 2, prima: ['Testo prima.'], dopo: ['Terza bozza.'] });
   assert.deepEqual(pubblicati.filter(x => x !== undefined), ['Ultima modifica.', 'Correzione senza voce.']);
+  // Il testo non esce dal romanzo: di tutto questo, nella copia del worktree non è arrivato niente.
+  assert.equal(fs.readFileSync(copia, 'utf8'), '## 4. Reks\r\n\r\nTesto prima.\r\n\r\nAltro.\r\n\r\nTesto prima.\r\n');
+  assert.equal(fs.readFileSync(path.join(root, copie[1], 'romanzo.md'), 'utf8'), '# Libro\n\n## 4. Reks\n\nTesto prima.\n\nAltro.\n\nTesto prima.\n\n## 5. Dopo\n\nTesto prima.\n');
 });
 
 test('un riavvio completa un salvataggio interrotto prima di accodare la voce', async t => {
@@ -326,17 +331,16 @@ test('lo stacco di scena si sposta dal lettore e vale in tutte le copie', async 
   assert.equal(messo.status, 202);
   const dopo = await capitolo();
   assert.deepEqual(dopo.passaggi.map(p => [p.testo, !!p.stacco]), [['Primo.', false], ['Secondo.', false], ['Terzo.', true]]);
-  for (const copia of copie) {
-    assert.match(fs.readFileSync(path.join(root, copia, 'capitoli/004-reks.md'), 'utf8'), /Primo\.\n\nSecondo\.\n\n---\n\nTerzo\./);
-    assert.match(fs.readFileSync(path.join(root, copia, 'romanzo.md'), 'utf8'), /Primo\.\n\nSecondo\.\n\n---\n\nTerzo\.\n\n## 5\. Dopo/);
-  }
+  assert.match(fs.readFileSync(path.join(root, copie[0], 'capitoli/004-reks.md'), 'utf8'), /Primo\.\n\nSecondo\.\n\n---\n\nTerzo\./);
+  assert.match(fs.readFileSync(path.join(root, copie[0], 'romanzo.md'), 'utf8'), /Primo\.\n\nSecondo\.\n\n---\n\nTerzo\.\n\n## 5\. Dopo/);
   const spostato = await api('stacco', { capitolo: 4, revisione: dopo.revisione, riga: dopo.passaggi[2].riga, a: dopo.passaggi[1].riga });
   assert.equal(spostato.status, 202);
   const mosso = await capitolo();
   assert.deepEqual(mosso.passaggi.map(p => [p.testo, !!p.stacco]), [['Primo.', false], ['Secondo.', true], ['Terzo.', false]]);
-  for (const copia of copie) {
-    assert.match(fs.readFileSync(path.join(root, copia, 'capitoli/004-reks.md'), 'utf8'), /Primo\.\n\n---\n\nSecondo\.\n\nTerzo\./);
-  }
+  assert.match(fs.readFileSync(path.join(root, copie[0], 'capitoli/004-reks.md'), 'utf8'), /Primo\.\n\n---\n\nSecondo\.\n\nTerzo\./);
+  // Nemmeno lo stacco esce dal romanzo: la copia nel worktree è rimasta com'era.
+  assert.equal(fs.readFileSync(path.join(root, copie[1], 'capitoli/004-reks.md'), 'utf8'),
+    '## 4. Reks\n\nPrimo.\n\n---\n\nSecondo.\n\nTerzo.\n');
   const scadenza = Date.now() + 3000;
   while (accodati.length < 3 && Date.now() < scadenza) await new Promise(r => setTimeout(r, 20));
   assert.deepEqual(accodati, ['stacco', 'stacco', 'stacco']);

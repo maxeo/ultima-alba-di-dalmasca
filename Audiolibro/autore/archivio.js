@@ -73,6 +73,8 @@ function bloccoValido(capitolo, riga, fine, testo) {
   return { riga, fine, ordine, prima, dopo };
 }
 
+// Il testo sta in due posti soltanto: il capitolo e il romanzo intero, che ne è una copia. Si cambiano
+// insieme o non si scrive niente, e nient'altro nel repository viene toccato da qui.
 function sostituisci(root, n, capitolo, blocchi) {
   const indiciBase = blocchi.map(b => capitolo.passaggi.slice(b.ordine, b.ordine + soloParagrafi(b.prima).length).map(p => p.riga * 2));
   function aggiorna(righe, indici, nome) {
@@ -93,11 +95,6 @@ function sostituisci(root, n, capitolo, blocchi) {
     return righe.join('');
   }
   const file = [{ file: capitolo.file, prima: capitolo.fonte, dopo: aggiorna([...capitolo.righe], indiciBase, capitolo.file) }];
-  const copia = path.join(root, '.claude', 'worktrees', 'revisione-ia', 'Romanzo');
-  const copie = [{ file: path.join(root, 'Romanzo', 'romanzo.md') }];
-  if (fs.existsSync(copia)) {
-    copie.push({ file: path.join(copia, 'capitoli', `${capitolo.nome}.md`) }, { file: path.join(copia, 'romanzo.md') });
-  }
   let versioneBase;
   function testoBase(ordine) {
     if (versioneBase === undefined) try {
@@ -108,9 +105,9 @@ function sostituisci(root, n, capitolo, blocchi) {
     } catch { versioneBase = null; }
     return versioneBase?.[ordine];
   }
-  for (const c of copie) {
-    if (!fs.existsSync(c.file)) throw errore(409, `Copia mancante: ${path.relative(root, c.file)}`);
-    const fonte = fs.readFileSync(c.file, 'utf8');
+  function copiaAggiornata(nome) {
+    if (!fs.existsSync(nome)) throw errore(409, `Copia mancante: ${path.relative(root, nome)}`);
+    const fonte = fs.readFileSync(nome, 'utf8');
     const righe = fonte.split(/(\r?\n)/);
     const indice = righe.findIndex(x => new RegExp(`^## ${n}\\. `).test(x));
     const fine = righe.findIndex((x, i) => i > indice && /^## \d+\. |^# /.test(x));
@@ -128,8 +125,9 @@ function sostituisci(root, n, capitolo, blocchi) {
       if (stessaStruttura && !uguali.length && vicino && righe[corrispondente]?.trim() === testoBase(ordine)) return corrispondente;
       return -1;
     }));
-    file.push({ file: c.file, prima: fonte, dopo: aggiorna(righe, indici, c.file) });
+    return { file: nome, prima: fonte, dopo: aggiorna(righe, indici, nome) };
   }
+  file.push(copiaAggiornata(path.join(root, 'Romanzo', 'romanzo.md')));
   return file;
 }
 
@@ -164,14 +162,12 @@ function cambiaStacco(root, n, capitolo, cambi) {
     return righe.join('');
   }
   const file = [{ file: capitolo.file, prima: capitolo.fonte, dopo: aggiorna([...capitolo.righe], capitolo.file) }];
-  const copia = path.join(root, '.claude', 'worktrees', 'revisione-ia', 'Romanzo');
-  const copie = [path.join(root, 'Romanzo', 'romanzo.md')];
-  if (fs.existsSync(copia)) copie.push(path.join(copia, 'capitoli', `${capitolo.nome}.md`), path.join(copia, 'romanzo.md'));
-  for (const c of copie) {
-    if (!fs.existsSync(c)) throw errore(409, `Copia mancante: ${path.relative(root, c)}`);
-    const fonte = fs.readFileSync(c, 'utf8');
-    file.push({ file: c, prima: fonte, dopo: aggiorna(fonte.split(/(\r?\n)/), c) });
+  function copiaAggiornata(nome) {
+    if (!fs.existsSync(nome)) throw errore(409, `Copia mancante: ${path.relative(root, nome)}`);
+    const fonte = fs.readFileSync(nome, 'utf8');
+    return { file: nome, prima: fonte, dopo: aggiorna(fonte.split(/(\r?\n)/), nome) };
   }
+  file.push(copiaAggiornata(path.join(root, 'Romanzo', 'romanzo.md')));
   return file;
 }
 

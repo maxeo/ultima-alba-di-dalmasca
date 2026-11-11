@@ -12,8 +12,9 @@ volta, si segue: se non va più bene si cambia la regola qui, non la si aggira n
 
 È il principio da cui discende tutto il resto.
 
-- Le correzioni si fanno in `Romanzo/capitoli/NNN-*.md`. `Romanzo/romanzo.md` e le copie nei worktree vengono
-  dopo, e le riallinea lo strumento dell'autore: a mano non si toccano.
+- Le correzioni si fanno in `Romanzo/capitoli/NNN-*.md`. `Romanzo/romanzo.md` viene dopo e lo riallinea lo
+  strumento dell'autore, nella stessa scrittura: a mano non si tocca. Fuori da quei due file lo strumento non
+  scrive, nemmeno nelle copie del romanzo che stanno nei worktree.
 - `docs/` è un prodotto. Audio, testi sincronizzati e `index.html` escono da `Audiolibro/pubblica.js` e da Leggio,
   che sta fuori dal progetto: quello che si corregge lì si perde alla pubblicazione successiva.
 - Una pronuncia sbagliata non si aggiusta storpiando il romanzo: si aggiunge una riga a `Audiolibro/pronuncia.tsv`.
