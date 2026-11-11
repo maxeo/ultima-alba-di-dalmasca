@@ -41,7 +41,8 @@
   box-shadow: 0 12px 40px #0005;
 }
 
-.autore-pannello[hidden], .autore-pannello [hidden] { display: none; }
+/* Le classi qui sotto impostano display: senza questa riga nasconderle da codice non basterebbe. */
+.autore-pannello[hidden], :is(.autore-pannello, .autore-in-linea) [hidden] { display: none; }
 .autore-barra, .autore-azioni, .autore-presa { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
 .autore-barra { justify-content: space-between; }
 .autore-pannello h2 { font: 600 1.24rem system-ui; margin: 0; }
@@ -167,7 +168,7 @@
 .autore-anteprima.autore-mostra-originale > .autore-versione { display: none; }
 .autore-avviso { margin: 4px 0 0; font-size: 12px; }
 .autore-in-linea > .autore-azioni { display: flex; margin-top: 10px; }
-.autore-conferma-ripristino:not([hidden]) { flex-basis: 100%; margin-top: 2px; }
+.autore-conferma-ripristino { flex-basis: 100%; margin-top: 2px; }
 .autore-in-linea button {
   padding: 5px 9px;
   border: 1px solid var(--linea);
@@ -195,7 +196,7 @@
 }
 .autore-pannello button.autore-altro-diff:is(:hover, :focus-visible) { color: var(--testo); }
 .autore-blocco-diff { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: start; gap: 4px 6px; margin-bottom: 8px; }
-.autore-azioni-blocco:not([hidden]) { display: flex; gap: 4px; margin-top: .4em; }
+.autore-azioni-blocco { display: flex; gap: 4px; margin-top: .4em; }
 .autore-pannello .autore-azioni-blocco button { display: grid; place-items: center; width: 28px; height: 28px; padding: 0; border-radius: 5px; }
 .autore-blocco-diff > .autore-ripristino { grid-column: 1 / -1; }
 .autore-pannello .autore-ripristino button { font-size: 12px; line-height: 1.25; padding: 3px 7px; border-radius: 5px; }
