@@ -260,7 +260,7 @@ Vaan si alzò e andò a osservare il vaso. Sfiorò lo stelo secco con un dito, f
 
 Vaan rimase qualche istante davanti alla finestra, poi tornò a sedersi accanto al fratello.
 
-* * *
+---
 
 Era ormai tardi. Reks spense la lampada e si distese sulla propria branda, cercando una posizione comoda. Vaan, invece di raggiungere il suo letto, venne a sdraiarsi accanto a lui. La branda era troppo stretta per entrambi, e il ragazzo dovette lasciare i piedi sporgenti dal bordo.
 
@@ -358,7 +358,7 @@ Il vecchio gli aprì la porta. Reks uscì nella strada deserta e si incamminò v
 
 Alle sue spalle sentì Migelo rimettere la sbarra al suo posto.
 
-* * *
+---
 
 Poco prima di mezzanotte, i venti uomini scelti da Basch si ritrovarono nel cortile della caserma. I chocobo erano già sellati, e il furiere controllava le ultime provviste alla luce di una lanterna.
 
@@ -422,7 +422,7 @@ L'uomo gli sistemò il fodero e strinse il nodo con gesti rapidi, poi gli fece c
 
 Reks riprese a camminare, cercando di non perdere di vista gli uomini davanti a sé.
 
-* * *
+---
 
 All'interno della fortezza, le cose andarono male quasi subito.
 
@@ -578,7 +578,7 @@ Reks gli andò dietro.
 
 Da quel momento rimase vicino al capitano, che non gli ordinò più di raggiungere la retroguardia.
 
-* * *
+---
 
 Raggiunsero un incrocio di corridoi, dove incontrarono Vossler e altri quattro cavalieri dalmaschi. Il capitano aveva una ferita alla fronte e respirava a fatica, come se avesse appena corso per parecchio tempo.
 
@@ -684,7 +684,7 @@ Riprese a camminare e Reks lo seguì, cercando di nascondere il sorriso che gli 
 
 Orren uscì da dietro il torrione senza dire nulla.
 
-* * *
+---
 
 Alla fine del cammino di ronda raggiunsero una porta che conduceva all'interno della fortezza. Oltre la soglia si apriva un lungo corridoio, dal quale una seconda scala saliva verso gli appartamenti riservati agli ospiti del re.
 

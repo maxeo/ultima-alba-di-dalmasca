@@ -1,27 +1,13 @@
 {
  "capitolo": "004-reks",
- "somiglianza": 0.9539,
+ "somiglianza": 0.954,
  "problemi": [
   {
-   "tempo": "1:11",
-   "secondi": 71.6,
-   "tipo": "diverso",
-   "testo": "ne una partita a dadi reks contava al quindicesimo",
-   "audio": "né una partita ad adi bergs contava al quindicesimo"
-  },
-  {
    "tempo": "10:56",
-   "secondi": 656.6,
+   "secondi": 656.9,
    "tipo": "in più",
    "testo": "lo dice penelo dice che mi",
-   "audio": "lo dice Penelo». «Sì, non ho molto». «Dice che mi"
-  },
-  {
-   "tempo": "18:05",
-   "secondi": 1085.8,
-   "tipo": "saltato",
-   "testo": "quella del fratello reks rimase sveglio quando le campane",
-   "audio": "quella del fratello quando le campane"
+   "audio": "lo dice Penelo. Sì, non ho molto. Dice che mi"
   }
  ]
 }
