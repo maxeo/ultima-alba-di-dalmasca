@@ -1,20 +1,27 @@
 {
  "capitolo": "004-reks",
- "somiglianza": 0.9537,
+ "somiglianza": 0.9531,
  "problemi": [
   {
-   "tempo": "10:57",
-   "secondi": 657.8,
+   "tempo": "0:02",
+   "secondi": 2.0,
+   "tipo": "diverso",
+   "testo": "pause2 capitolo quarto reks pause2 il capitano basch",
+   "audio": "Capitolo IV. Rex. Il capitano Bash"
+  },
+  {
+   "tempo": "10:55",
+   "secondi": 655.6,
    "tipo": "in più",
    "testo": "lo dice penelo dice che mi",
    "audio": "lo dice Penelo. Sì, non ho detto. Dice che mi"
   },
   {
-   "tempo": "47:37",
-   "secondi": 2857.3,
+   "tempo": "18:47",
+   "secondi": 1127.2,
    "tipo": "diverso",
-   "testo": "non corrergli incontro reks annui e quando diventano",
-   "audio": "non corrergli incontro rex a noi e quando diventano"
+   "testo": "gigli disse infine reks annui non mi ricordo",
+   "audio": "gigli disse infine rex a noi non mi ricordo"
   }
  ]
 }

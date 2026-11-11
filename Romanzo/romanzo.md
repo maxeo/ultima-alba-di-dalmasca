@@ -707,7 +707,7 @@ Tra le tante cose che Reks aveva imparato a fare da quando erano rimasti soli c'
 
 «Quello della taglia. Il manifesto è al Mare di sabbia, sul muro degli avvisi, l'hai visto cento volte.»
 
-Gli aviopirati erano ladri con una nave propria, che assaltavano in volo le navi da carico e sparivano fra le nuvole prima che arrivasse qualcuno. Quello del manifesto aveva una faccia sola, di profilo, con un naso lungo e dritto e una macchia d'inchiostro proprio sul nome.
+Gli aviopirati erano ladri con una nave propria, che assaltavano in volo le navi da carico e sparivano fra le nuvole prima che arrivasse qualcuno. Quello del manifesto aveva una faccia di profilo, con un naso lungo e dritto e una macchia d'inchiostro proprio sul nome.
 
 «Ho capito a quale ti riferisci. Sul manifesto non si capisce bene il taglio» disse Reks. «E poi tu sei biondo, e lui ha i capelli neri.»
 
