@@ -1,13 +1,20 @@
 {
  "capitolo": "004-reks",
- "somiglianza": 0.954,
+ "somiglianza": 0.9537,
  "problemi": [
   {
-   "tempo": "10:56",
-   "secondi": 656.9,
+   "tempo": "10:57",
+   "secondi": 657.8,
    "tipo": "in più",
    "testo": "lo dice penelo dice che mi",
-   "audio": "lo dice Penelo. Sì, non ho molto. Dice che mi"
+   "audio": "lo dice Penelo. Sì, non ho detto. Dice che mi"
+  },
+  {
+   "tempo": "47:37",
+   "secondi": 2857.3,
+   "tipo": "diverso",
+   "testo": "non corrergli incontro reks annui e quando diventano",
+   "audio": "non corrergli incontro rex a noi e quando diventano"
   }
  ]
 }

@@ -619,9 +619,9 @@ Basch prese la penna dalle mani del furiere e lasciò il nome dov'era.
 
 ## 4. Reks
 
-Il capitano Basch lesse la lista all'alba, seduto su un barile in mezzo al cortile della caserma, con il furiere accanto che gli teneva la lanterna. Si erano presentati in quarantadue, la notte prima, quando un sergente era passato per le camerate a dire che il capitano cercava volontari per un'uscita e che non avrebbe detto dove. Reks stava in terza fila. Era alto per i suoi diciassette anni, con i capelli così chiari che in Città Bassa li chiamavano capelli di sale.
+Il capitano Basch lesse la lista all'alba, seduto su un barile in mezzo al cortile della caserma, con il furiere accanto che gli teneva la lanterna. Si erano presentati in ventidue, la notte prima, quando un sergente era passato per le camerate a dire che il capitano cercava volontari per un'uscita e che non avrebbe detto dove. Due uomini il capitano li aveva mandati via quella notte stessa: un sergente con il braccio al collo e un vecchio delle scuderie. Reks si era aspettato di essere il terzo. Reks stava in terza fila. Era alto per i suoi diciassette anni, con i capelli così chiari che in Città Bassa li chiamavano capelli di sale.
 
-Il capitano leggeva i nomi senza alzare la voce, e a ogni nome un uomo usciva dalle file e andava a mettersi contro il muro del pozzo. Il primo fu Orren, un cavaliere anziano con le guance scavate che in caserma aveva fama di non aver mai perso né una battaglia né una partita a dadi. Reks contava. Al quindicesimo il capitano si fermò.
+Il capitano leggeva i nomi senza alzare la voce, e a ogni nome un uomo usciva dalle file e andava a mettersi contro il muro del pozzo. Il primo fu Orren, un cavaliere anziano con le guance scavate che in caserma aveva fama di non aver mai perso né una battaglia né una partita a dadi. Reks teneva il conto man mano che venivano chiamati. Al quindicesimo il capitano si fermò.
 
 Si fermò a lungo. Disse qualcosa al furiere, e il furiere rispose a bassa voce, seguendo una riga con il dito. Reks capì che parlavano di lui. Era il più giovane. Si era arruolato dopo la caduta di Nalbina, aveva fatto due settimane di addestramento con una spada presa in prestito dall'armeria, e prima di allora aveva maneggiato soprattutto casse.
 
@@ -635,7 +635,7 @@ Reks aveva diverse ragioni per essersi arruolato, ma non raccontava a tutti le s
 
 C'era un'altra ragione per cui Reks si era arruolato, una che non avrebbe saputo spiegare facilmente nemmeno a Vaan. La peste gli aveva portato via i genitori tre anni prima, quando aveva appena quattordici anni. Da allora si era occupato del fratello e della casa, cercando di comportarsi come avrebbe fatto suo padre, anche se spesso non aveva idea di cosa fosse giusto fare. Aveva imparato a nascondere le proprie incertezze, perché Vaan era ancora un ragazzino e aveva bisogno di credere che suo fratello maggiore sapesse sempre come cavarsela. Ma Reks non era molto più grande di lui. Quando aveva deciso di arruolarsi, aveva pensato anche a questo: alla possibilità di seguire qualcuno, anziché essere sempre quello che gli altri seguivano. Nell'esercito avrebbe avuto degli ordini, dei compagni più esperti e, soprattutto, un capitano come Basch, al quale poter affidare almeno una parte delle proprie paure.
 
-Terminato l'appello, il furiere aprì una cassa e cominciò a distribuire le giubbe ai soldati scelti, senza preoccuparsi troppo delle taglie. A Reks ne capitò una nuova, di tela azzurra, decisamente troppo grande per lui. Le maniche gli coprivano le mani e le spalle gli cadevano larghe. Il furiere annotò il suo nome sul registro e lo avvertì che ogni oggetto dell'Ordine danneggiato o smarrito sarebbe stato addebitato alla sua paga.
+Terminato l'appello, il furiere aprì una cassa e cominciò a distribuire le giubbe ai soldati scelti, senza preoccuparsi troppo delle taglie. A Reks ne capitò una nuova, di tela azzurra, decisamente troppo grande per lui. Le maniche gli coprivano le mani e le spalle gli cadevano larghe. Il furiere annotò il suo nome sul registro e lo avvertì che ogni oggetto dell'Ordine danneggiato o smarrito sarebbe stato addebitato alla loro paga.
 
 «Anche la giubba?» chiese Reks.
 
@@ -663,7 +663,7 @@ Reks rise, si tirò su le maniche fino ai gomiti, ma quelle ricaddero subito.
 
 «Non hai capito niente.» Reks si sedette sul bordo del banco. «Vado con il capitano Basch! Te lo ricordi? Quello che abbiamo visto alle nozze, la settimana scorsa. Guardava sempre i tetti.»
 
-«Chi, quello che non sorrideva mai?»
+«Chi, quello che non sorrideva mai e rimaneva sempre serio?»
 
 «Esatto! Proprio lui.»
 
@@ -671,7 +671,7 @@ Vaan gli afferrò una manica e gliela tirò ancora più giù.
 
 «Con queste non riesci nemmeno a tenere una spada. Magari ti rimandano a casa.»
 
-«Piantala, Vaan.»
+«Piantala, Vaan. Non sei simpatico.»
 
 «Dico sul serio!»
 
@@ -695,7 +695,7 @@ Non era la prima volta che Migelo lo aiutava a diventare soldato. Era stato lui 
 
 La stanza che Reks e Vaan dividevano sopra la bottega era piccola, con appena lo spazio per due brande e pochi mobili. Gli odori del magazzino salivano attraverso il pavimento, mescolando il cuoio all'olio per le lampade. Sulla finestra c'era ancora il vecchio vaso verde della madre, con la crepa che avevano riparato anni prima e lo stelo ormai secco di una pianta che nessuno dei due aveva avuto il coraggio di togliere. Sopra la porta, una serie di tacche segnava quanto erano cresciuti. Reks aveva ricopiato le prime dalla vecchia casa, dove era stata la madre a misurarli. Le altre le aveva aggiunte lui, anno dopo anno.
 
-Tra le tante cose che Reks aveva imparato a fare da quando erano rimasti soli c'era anche tagliare i capelli a Vaan. Non era particolarmente bravo, ma suo fratello si era sempre accontentato, almeno fino a quando aveva cominciato a interessarsi al proprio aspetto. Quella sera Reks gli propose di dargli una sistemata prima della partenza. Vaan esitò, poi accettò, non senza qualche raccomandazione. Dopo cena Reks preparò la sedia e il solito lenzuolo, accese la lampada e lo fece accomodare.
+Tra le tante cose che Reks aveva imparato a fare da quando erano rimasti soli c'era anche tagliare i capelli a Vaan. Non era particolarmente bravo, ma suo fratello si era sempre accontentato, almeno da quando aveva cominciato a interessarsi al proprio aspetto. Quella sera Reks gli propose di dargli una sistemata prima della partenza. Vaan esitò, poi accettò, non senza qualche raccomandazione. Dopo cena Reks preparò la sedia e il solito lenzuolo, accese la lampada e lo fece accomodare.
 
 «Non così corti» disse Vaan.
 
@@ -705,7 +705,7 @@ Tra le tante cose che Reks aveva imparato a fare da quando erano rimasti soli c'
 
 «Quale aviopirata?»
 
-«Quello della taglia. Il manifesto è sulla porta della tua caserma, l'hai visto cento volte.»
+«Quello della taglia. Il manifesto è al Mare di sabbia, sul muro degli avvisi, l'hai visto cento volte.»
 
 Gli aviopirati erano ladri con una nave propria, che assaltavano in volo le navi da carico e sparivano fra le nuvole prima che arrivasse qualcuno. Quello del manifesto aveva una faccia sola, di profilo, con un naso lungo e dritto e una macchia d'inchiostro proprio sul nome.
 
