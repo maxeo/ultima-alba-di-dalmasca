@@ -1,6 +1,6 @@
 {
  "capitolo": "004-reks",
- "somiglianza": 0.9531,
+ "somiglianza": 0.9527,
  "problemi": [
   {
    "tempo": "0:02",
@@ -11,17 +11,24 @@
   },
   {
    "tempo": "10:55",
-   "secondi": 655.6,
+   "secondi": 655.5,
    "tipo": "in più",
    "testo": "lo dice penelo dice che mi",
-   "audio": "lo dice Penelo. Sì, non ho detto. Dice che mi"
+   "audio": "lo dice penelo si non ho detto dice che mi"
   },
   {
-   "tempo": "18:47",
-   "secondi": 1127.2,
+   "tempo": "44:10",
+   "secondi": 2650.4,
    "tipo": "diverso",
-   "testo": "gigli disse infine reks annui non mi ricordo",
-   "audio": "gigli disse infine rex a noi non mi ricordo"
+   "testo": "uno alla volta reks annui al primo pianerottolo",
+   "audio": "uno alla volta rex a noi al primo pianerottolo"
+  },
+  {
+   "tempo": "44:39",
+   "secondi": 2679.0,
+   "tipo": "diverso",
+   "testo": "ordine si capitano basch lo guardo ancora per un",
+   "audio": "ordine si capitano bash luogò ancora per un"
   }
  ]
 }
