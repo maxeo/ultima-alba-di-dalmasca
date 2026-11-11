@@ -84,7 +84,7 @@ export function etichettaLavoro(j) {
   const percento = percentuale(j);
   const avanzamento = percento === undefined ? '' : ` ${percento}%`;
   const data = dataBreve(j.aggiornato || j.creato);
-  return `${nomiLavoro[j.tipo]} · ${stato}${avanzamento}${j.segnalazioni?.length ? ' · da controllare' : ''}${data ? ' · ' + data : ''}`;
+  return `${nomiLavoro[j.tipo]} · ${stato}${avanzamento}${data ? ' · ' + data : ''}`;
 }
 
 // L'MP3 nuovo prende il posto del vecchio mentre il lettore lo sta ancora leggendo: il server chiude il flusso
@@ -181,30 +181,18 @@ export function disegnaLavori() {
   const inLavorazione = [];
   const storico = [];
   const segnalati = new Set();
-  let avvisiPronto = false;
   for (const j of dati.lavori) {
     if (j.tipo === 'bozza' && (j.id !== dati.bozza?.id || !j.blocchi.length)) continue;
     if (ripristinati.has(j.id) || j.ripristinaDi && !j.blocchi.length) continue;
-    if (['rigenera', 'scegli'].includes(j.tipo) && j.stato === 'pronto' && !j.segnalazioni?.length) continue;
+    if (['rigenera', 'scegli'].includes(j.tipo) && j.stato === 'pronto') continue;
     const valido = j.revisione === dati.revisione;
     const azionabile = j.tipo === 'bozza' || j === attuale;
     const testuale = ['bozza', 'modifica', 'stacco'].includes(j.tipo) && !j.errore;
     // Le modifiche già nel testo che aspettano l'audio stanno tutte in una riga sola, senza diff.
     if (testuale && ['in coda', 'in generazione'].includes(j.stato)) { inLavorazione.push(j); continue; }
-    // Superate o già pubblicate: il diff è storia, l'audio è già quello. Restano le segnalazioni dell'ultimo controllo.
-    if (testuale && (j.stato === 'superato' || j.stato === 'pronto')) {
-      if (j.stato !== 'pronto' || !j.segnalazioni?.length || avvisiPronto) { storico.push(j); continue; }
-      avvisiPronto = true;
-      voci.push({ ordine: Infinity, creato: j.creato, nodo: () => {
-        const carta = el('section', 'autore-voce');
-        const intestazione = el('p', 'autore-riga-stato');
-        intestazione.dataset.lavoro = j.id;
-        intestazione.textContent = etichettaLavoro(j);
-        carta.append(intestazione, avvisiLavoro(j, segnalati));
-        return carta;
-      } });
-      continue;
-    }
+    // Superate o già pubblicate: il diff è storia e l'audio è quello. Quando è fatto è fatto, anche se il
+    // controllo della voce aveva segnalato qualcosa: quelle righe restano nei controlli del capitolo.
+    if (testuale && (j.stato === 'superato' || j.stato === 'pronto')) { storico.push(j); continue; }
     if (testuale && j.prima) {
       voci.push({ ordine: ordineDiRiga(j.riga), creato: j.creato,
         nodo: () => cartaTesto(j, valido, [j.prima], [j.dopo], [j.riga], azionabile ? 0 : undefined, 0, 1,
