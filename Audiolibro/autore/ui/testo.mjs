@@ -164,3 +164,40 @@ export const dataBreve = iso => {
   const d = new Date(iso || '');
   return Number.isNaN(d.getTime()) ? '' : d.toLocaleString('it-IT', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' });
 };
+
+// Le correzioni che l'audio non ha ancora: quelle gia' nel testo ma non rilette, piu' la bozza da applicare.
+export const lavoriPendenti = dati => (dati?.lavori || []).filter(j => j.tipo === 'modifica' && !['pronto', 'superato'].includes(j.stato));
+const testoDelBlocco = v => unisci(soloParagrafi(v).map(testoVisibile));
+
+export function conteggiPendenti(dati) {
+  const conteggi = new Map();
+  const somma = (riga, c) => {
+    const avuto = conteggi.get(riga);
+    conteggi.set(riga, avuto ? { piu: avuto.piu + c.piu, meno: avuto.meno + c.meno, audio: avuto.audio + c.audio } : c);
+  };
+  const perRiga = new Map();
+  for (const j of lavoriPendenti(dati)) {
+    if (j.blocchi?.length) for (const b of j.blocchi) somma(b.riga, riepilogoParole(testoDelBlocco(b.prima), testoDelBlocco(b.dopo)));
+    // Piu' correzioni sullo stesso paragrafo: la voce e' ferma alla piu' vecchia, quindi conta quella.
+    else if (j.riga !== undefined) {
+      const primo = perRiga.get(j.riga);
+      if (!primo) perRiga.set(j.riga, { prima: j.prima, dopo: j.dopo });
+      else if (j.dopo === primo.prima) primo.prima = j.prima;
+    }
+  }
+  for (const [riga, v] of perRiga) somma(riga, riepilogoParole(testoVisibile(v.prima), testoVisibile(v.dopo)));
+  for (const b of dati?.bozza?.blocchi || []) somma(b.riga, riepilogoParole(testoDelBlocco(b.prima), testoDelBlocco(b.dopo)));
+  return conteggi;
+}
+
+// Quanti paragrafi il lavoro in sospeso puo' spiegare: oltre questi l'audio in uso e' di un'altra versione.
+export function paragrafiPendenti(dati) {
+  let quanti = 0;
+  const conta = b => { quanti += Math.max(soloParagrafi(b.prima).length, soloParagrafi(b.dopo).length); };
+  for (const j of lavoriPendenti(dati)) {
+    if (j.blocchi?.length) j.blocchi.forEach(conta);
+    else if (j.riga !== undefined) quanti += 1;
+  }
+  (dati?.bozza?.blocchi || []).forEach(conta);
+  return quanti;
+}

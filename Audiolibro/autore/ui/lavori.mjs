@@ -1,5 +1,5 @@
 // Le schede dei lavori nel pannello: diff, ripristini, prese audio, stato della generazione.
-import { api, apiBase, bottone, bottoneIcona, el, voce } from './base.mjs';
+import { api, apiBase, bottone, bottoneIcona, el, matita, voce } from './base.mjs';
 import { allineaParagrafi, compatto, dataBreve, soloParagrafi, unisci } from './testo.mjs';
 import { cap, paragrafi, passaggioDi } from './stato.mjs';
 import { aggiorna, azione, dati } from './dati.mjs';
@@ -18,14 +18,7 @@ export function bloccoConAzioni(anteprima, j, indice, dopo, righe, offset = 0, p
   richiesta.hidden = true;
   const insieme = paragrafiBlocco > 1 ? ' Riguarda tutti i paragrafi del blocco.' : '';
   const domanda = el('span', '', (locale ? 'Scartare questo blocco della bozza?' : 'Ripristinare il testo precedente di questo blocco?') + insieme);
-  const svg = 'http://www.w3.org/2000/svg';
-  const matita = document.createElementNS(svg, 'svg');
-  matita.setAttribute('class', 'ic');
-  matita.setAttribute('viewBox', '0 0 24 24');
-  const tratto = document.createElementNS(svg, 'path');
-  tratto.setAttribute('d', 'm3 17.25 11.9-11.9 3.75 3.75L6.75 21H3zM16.3 3.95l1.4-1.4a1 1 0 0 1 1.4 0l2.35 2.35a1 1 0 0 1 0 1.4l-1.4 1.4z');
-  matita.append(tratto);
-  const modifica = bottoneIcona('Modifica', matita, () => {
+  const modifica = bottoneIcona('Modifica', matita(), () => {
     if (bozzaAperta()) return;
     if (inLinea.isConnected) chiudiEditor();
     const tutti = paragrafi();
@@ -113,9 +106,11 @@ export function rimettiAudio() {
   audioFermo = undefined;
   const a = document.querySelector('audio');
   if (!a || a.getAttribute('src')) return;
-  if (tempo) a.addEventListener('loadedmetadata', () => { a.currentTime = tempo; }, { once: true });
+  // Chi rimette mano al lettore di solito vuole andare da un'altra parte: quel punto vince su dov'era.
+  const punto = a.currentTime || tempo;
   a.setAttribute('src', src);
   a.load();
+  if (punto) a.addEventListener('loadedmetadata', () => { if (!a.currentTime) a.currentTime = punto; }, { once: true });
 }
 export function generazione() {
   const elencoLavori = dati?.lavori || [];
@@ -179,6 +174,29 @@ export function testoDelLavoro(j) {
   for (const b of blocchi) {
     const p = dati?.passaggi.find(x => compatto(x.testo) === compatto(b.prima[0]));
     if (p) return { riga: p.riga, testo: unisci(b.dopo) };
+  }
+  return undefined;
+}
+// Il blocco ancora in sospeso che tiene questo paragrafo, com'e' numerato nelle schede del pannello.
+export function bloccoDelPassaggio(n) {
+  if (n === undefined || !dati) return undefined;
+  const ripristinati = new Set(dati.lavori.map(j => j.ripristinaDi));
+  for (const j of dati.lavori) {
+    const suo = j.tipo === 'bozza' ? j.id === dati.bozza?.id
+      : j.tipo === 'modifica' && !['pronto', 'superato'].includes(j.stato);
+    if (!suo || ripristinati.has(j.id) || j.revisione !== dati.revisione) continue;
+    if (!j.blocchi?.length) {
+      if (j.riga === n) return { lavoro: j, indice: 0 };
+      continue;
+    }
+    let scarto = 0;
+    for (const [i, b] of j.blocchi.entries()) {
+      const dopoBlocco = soloParagrafi(b.dopo);
+      const righe = j.tipo === 'bozza' ? dati.passaggi.filter(p => p.riga >= b.riga && p.riga <= (b.fine ?? b.riga)).map(p => p.riga)
+        : dati.passaggi.slice(b.ordine + scarto, b.ordine + scarto + dopoBlocco.length).map(p => p.riga);
+      if (righe.includes(n)) return { lavoro: j, indice: i };
+      if (j.tipo !== 'bozza') scarto += dopoBlocco.length - soloParagrafi(b.prima).length;
+    }
   }
   return undefined;
 }
@@ -328,6 +346,7 @@ export function disegnaLavori() {
 }
 
 export function installaLavori() {
-  document.addEventListener('pointerdown', e => { if (e.target.closest?.('.barra')) rimettiAudio(); }, true);
+  // Anche il clic sul testo serve ad ascoltare: senza questo l'audio staccato non tornerebbe mai.
+  document.addEventListener('pointerdown', e => { if (e.target.closest?.('.barra, #articolo')) rimettiAudio(); }, true);
   document.addEventListener('keydown', e => { if (e.key === ' ' || e.key.startsWith('Arrow')) rimettiAudio(); }, true);
 }

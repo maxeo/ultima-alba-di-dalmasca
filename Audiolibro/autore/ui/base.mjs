@@ -23,9 +23,20 @@ export const bottoneIcona = (etichetta, disegno, clic, mostraEtichetta = false, 
   b.setAttribute('aria-label', etichetta);
   disegno.setAttribute('aria-hidden', 'true');
   b.append(disegno);
-  if (mostraEtichetta) b.append(etichetta);
+  if (mostraEtichetta) b.append(el('span', 'autore-etichetta', etichetta));
   return b;
 };
+// La matita non sta fra le icone del lettore: la disegniamo qui, una nuova a ogni bottone.
+export function matita() {
+  const svg = 'http://www.w3.org/2000/svg';
+  const disegno = document.createElementNS(svg, 'svg');
+  disegno.setAttribute('class', 'ic');
+  disegno.setAttribute('viewBox', '0 0 24 24');
+  const tratto = document.createElementNS(svg, 'path');
+  tratto.setAttribute('d', 'm3 17.25 11.9-11.9 3.75 3.75L6.75 21H3zM16.3 3.95l1.4-1.4a1 1 0 0 1 1.4 0l2.35 2.35a1 1 0 0 1 0 1.4l-1.4 1.4z');
+  disegno.append(tratto);
+  return disegno;
+}
 
 const tooltip = el('div', 'autore-tooltip');
 tooltip.id = 'autore-tooltip';

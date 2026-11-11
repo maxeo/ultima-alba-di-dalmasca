@@ -267,7 +267,8 @@ function creaServer({ root = path.resolve(__dirname, '../..'), audio } = {}) {
       const c = verificaVersione(j);
       if (ultimaBozza(j.capitolo, c.revisione) !== j || !j.blocchi.length) throw errore(409, 'La bozza è cambiata o è vuota.');
       const file = sostituisci(root, j.capitolo, c, j.blocchi);
-      return json(res, 202, aggiungi(j, 'modifica', c, { blocchi: j.blocchi, stato: 'audio da aggiornare' }, file));
+      // Applicare la bozza vuol dire volerla sentire: l'audio si accoda subito, dietro a quello che c'e' gia'.
+      return json(res, 202, aggiungi(j, 'modifica', c, { blocchi: j.blocchi, stato: 'in coda' }, file));
     }
     if (route === 'ripristina') {
       const j = trova(d.id);

@@ -3,12 +3,10 @@ import { articolo, bottone, bottoneIcona, el, pagina, tooltipSu } from './base.m
 import { compatto, riepilogoParole, statoCaricamentoAutore, testoVisibile } from './testo.mjs';
 import { cap, paragrafiAudio, testoLetto } from './stato.mjs';
 import { azione, caricaRiepilogo, dati, erroreCaricamento } from './dati.mjs';
-import { annulla, area, bloccoEditor, bozzaAperta, inLinea, originale, riga, salva,
+import { aggiornaRipristino, annulla, area, bloccoEditor, bozzaAperta, inLinea, originale, riga, salva,
   salvando } from './editor.mjs';
-import { conteggiSalvati } from './proiezione.mjs';
+import { audioAltraVersione, conteggiSalvati } from './proiezione.mjs';
 import { generazione } from './lavori.mjs';
-
-let azioneDaConfermare;
 
 export const pannello = el('aside', 'autore-pannello');
 pannello.setAttribute('aria-label', 'Revisione del romanzo');
@@ -16,7 +14,6 @@ pannello.hidden = true;
 const barra = el('div', 'autore-barra');
 const titolo = el('h2', '', 'Modalità autore');
 const chiudi = bottone('Chiudi', () => {
-  chiudiConferma();
   pannello.hidden = true;
   document.body.classList.remove('autore-aperto');
   apri.setAttribute('aria-expanded', 'false');
@@ -29,30 +26,31 @@ stato.setAttribute('role', 'status');
 export const lavorazione = el('p', 'autore-lavorazione');
 lavorazione.setAttribute('role', 'status');
 lavorazione.hidden = true;
+export const avvisoAudio = el('p', 'autore-didascalia autore-avviso',
+  'L’audio in uso è di un’altra versione del capitolo: nel testo il confronto resta nascosto e i numeri contano solo il lavoro in sospeso.');
+avvisoAudio.setAttribute('role', 'status');
+avvisoAudio.hidden = true;
 export const avvisoCarico = el('p', 'autore-didascalia');
 avvisoCarico.setAttribute('role', 'status');
+// Un comando alla volta: senza conferma di mezzo, il doppio clic non deve partire due volte.
+async function comando(b, nome, id) {
+  if (b.disabled || b.hidden) return;
+  b.disabled = true;
+  try { await azione(nome, { id }); }
+  finally { b.disabled = false; }
+}
 export const aggiornaAudio = bottoneIcona('Aggiorna audio del capitolo', icona('i-cuffie'), () => {
   const j = lavoroAudio();
-  if (j && !aggiornaAudio.hidden) chiediConferma(aggiornaAudio, 'aggiorna-audio', j.id, 'Accodare l’aggiornamento audio del capitolo?');
+  if (j) comando(aggiornaAudio, 'aggiorna-audio', j.id);
 }, true);
 export const applicaBozza = bottoneIcona('Applica bozza al testo', icona('i-casella-ok'), () => {
-  if (dati?.bozza?.blocchi.length && !bozzaAperta()) chiediConferma(applicaBozza, 'applica-bozza', dati.bozza.id, 'Applicare la bozza al testo del romanzo?');
+  if (dati?.bozza?.blocchi.length && !bozzaAperta()) comando(applicaBozza, 'applica-bozza', dati.bozza.id);
 }, true);
-for (const b of [applicaBozza, aggiornaAudio]) {
-  b.hidden = true;
-  b.setAttribute('aria-expanded', 'false');
-}
-const richiestaConferma = el('div', 'autore-richiesta-conferma');
-richiestaConferma.hidden = true;
-const testoConferma = el('span');
-testoConferma.setAttribute('role', 'status');
-export const accettaConferma = bottone('Conferma', eseguiConferma);
-const annullaConferma = bottone('Annulla', () => chiudiConferma(true));
-richiestaConferma.append(testoConferma, accettaConferma, annullaConferma);
+for (const b of [applicaBozza, aggiornaAudio]) b.hidden = true;
 export const conferma = el('footer', 'autore-azioni autore-conferma');
-conferma.append(applicaBozza, aggiornaAudio, richiestaConferma);
+conferma.append(applicaBozza, aggiornaAudio);
 export const elenco = el('div', 'autore-lavori');
-pannello.append(barra, stato, lavorazione, avvisoCarico, elenco, conferma);
+pannello.append(barra, stato, lavorazione, avvisoAudio, avvisoCarico, elenco, conferma);
 export const apri = bottone('Autore', apriRiepilogo);
 apri.className = 'autore-apri';
 apri.setAttribute('aria-expanded', 'false');
@@ -76,6 +74,7 @@ export function aggiornaContatori() {
   const fase = statoCaricamentoAutore(cap(), dati?.capitolo, testo, erroreCaricamento?.capitolo);
   const pronto = fase === 'pronto';
   stato.hidden = elenco.hidden = conferma.hidden = !pronto;
+  avvisoAudio.hidden = !pronto || !audioAltraVersione;
   avvisoCarico.hidden = pronto;
   const avviso = {
     'nessun-capitolo': 'Apri un capitolo per vedere modifiche e azioni.',
@@ -120,50 +119,16 @@ export function lavoroAudio() {
   return dati?.lavori.find(x => ['modifica', 'stacco', 'rigenera', 'scegli'].includes(x.tipo));
 }
 
-export function chiediConferma(origine, comando, id, domanda) {
-  if (accettaConferma.disabled) return;
-  azioneDaConfermare?.origine.setAttribute('aria-expanded', 'false');
-  azioneDaConfermare = { origine, comando, id };
-  origine.setAttribute('aria-expanded', 'true');
-  testoConferma.textContent = domanda;
-  richiestaConferma.hidden = false;
-  annullaConferma.focus();
-}
-
-export function chiudiConferma(focus = false) {
-  const origine = azioneDaConfermare?.origine;
-  azioneDaConfermare = undefined;
-  origine?.setAttribute('aria-expanded', 'false');
-  richiestaConferma.hidden = true;
-  if (focus && !origine?.hidden) origine?.focus();
-}
-
-export async function eseguiConferma() {
-  const richiesta = azioneDaConfermare;
-  if (!richiesta || richiesta.comando === 'applica-bozza' && bozzaAperta()) return;
-  accettaConferma.disabled = annullaConferma.disabled = true;
-  try {
-    const eseguita = await azione(richiesta.comando, { id: richiesta.id });
-    if (azioneDaConfermare !== richiesta) return;
-    if (eseguita) chiudiConferma(true);
-    else testoConferma.textContent = stato.textContent;
-  } finally {
-    accettaConferma.disabled = annullaConferma.disabled = false;
-  }
-}
 export function aggiornaComandi() {
   const j = lavoroAudio();
   salva.disabled = salvando || !area.value.trim() || area.value.trim() === originale;
   annulla.disabled = salvando;
+  aggiornaRipristino();
   applicaBozza.hidden = !dati?.bozza?.blocchi.length;
   const letti = j?.ripristinaDi ? paragrafiAudio() : [];
   const audioGiaCoerente = !!letti.length && letti.length === dati.passaggi.length &&
     letti.every((p, i) => compatto(testoLetto(p)) === compatto(dati.passaggi[i].testo));
   aggiornaAudio.hidden = j?.stato !== 'audio da aggiornare' || j.revisione !== dati.revisione || audioGiaCoerente;
-  if (azioneDaConfermare) {
-    const id = azioneDaConfermare.origine === applicaBozza ? dati?.bozza?.id : j?.id;
-    if (azioneDaConfermare.origine.hidden || azioneDaConfermare.id !== id) chiudiConferma();
-  }
 }
 export async function apriRiepilogo() {
   pannello.hidden = false;

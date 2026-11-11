@@ -65,9 +65,6 @@
 .autore-pannello .autore-conferma button.autore-icona-azione:not([hidden]) { display: inline-flex; align-items: center; gap: 6px; min-height: 32px; padding: 4px 8px; font-size: 12px; }
 .autore-icona-azione .ic { width: 16px; height: 16px; flex: none; }
 .autore-pannello button.autore-icona-azione[aria-expanded="true"] { border-color: var(--accento); color: var(--accento); }
-.autore-richiesta-conferma { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; flex-basis: 100%; font-size: 12px; }
-.autore-richiesta-conferma > span { flex-basis: 100%; }
-.autore-pannello .autore-richiesta-conferma button { padding: 4px 8px; font-size: 12px; }
 .autore-lavori details { border-top: 1px solid color-mix(in srgb, currentColor 24%, transparent); padding: 8px 0; }
 .autore-lavori summary { cursor: pointer; font-weight: 600; }
 .autore-errore { padding: 6px 9px; border-radius: 6px; overflow-wrap: anywhere; background: #a348422b; }
@@ -142,16 +139,35 @@
   margin-top: 5px;
 }
 .autore-controllo-diff {
-  padding: 3px 6px;
-  color: var(--testo);
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 3px 9px 3px 7px;
+  color: color-mix(in srgb, var(--testo) 72%, transparent);
   background: var(--pannello);
   border: 1px solid var(--linea);
-  border-radius: 5px;
-  font: 12px/1.4 system-ui, sans-serif;
+  border-radius: 999px;
+  font: 500 12px/1.5 system-ui, sans-serif;
   user-select: none;
+  transition: color .15s, border-color .15s, background-color .15s;
 }
-.autore-controllo-diff:is(:hover, :focus-visible) { border-color: var(--accento); }
+.autore-controllo-diff .ic { width: 13px; height: 13px; flex: none; }
+.autore-controllo-diff:is(:hover, :focus-visible) {
+  color: var(--testo);
+  border-color: var(--accento);
+  background: color-mix(in srgb, var(--accento) 12%, var(--pannello));
+}
+.autore-controllo-diff[aria-pressed="true"] {
+  color: var(--accento);
+  border-color: var(--accento);
+  background: color-mix(in srgb, var(--accento) 14%, var(--pannello));
+}
+/* Con «Originale» si rivede il paragrafo come lo legge l'audio, tempi delle parole compresi. */
+.autore-anteprima.autore-mostra-originale > [data-i] { display: inline; }
+.autore-anteprima.autore-mostra-originale > .autore-versione { display: none; }
+.autore-avviso { margin: 4px 0 0; font-size: 12px; }
 .autore-in-linea > .autore-azioni { display: flex; margin-top: 10px; }
+.autore-conferma-ripristino:not([hidden]) { flex-basis: 100%; margin-top: 2px; }
 .autore-in-linea button {
   padding: 5px 9px;
   border: 1px solid var(--linea);

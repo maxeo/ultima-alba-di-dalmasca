@@ -152,7 +152,7 @@ test('Leggio e CLI condividono una coda che pubblica solo la revisione corrente'
   assert.equal((await api('aggiorna-audio', { id: j.id })).status, 202);
   const attesa = Date.now() + 3000;
   while (!pubblicati.includes('Correzione senza voce.') && Date.now() < attesa) await new Promise(resolve => setTimeout(resolve, 20));
-  assert.deepEqual(pubblicati, ['Ultima modifica.', 'Correzione senza voce.']);
+  assert.deepEqual(pubblicati.filter(x => x !== undefined), ['Ultima modifica.', 'Correzione senza voce.']);
   const revisione = (await capitolo()).revisione;
   const bozza = await api('bozza', { capitolo: 4, revisione, riga: 4, fine: 6,
     testo: 'Secondo paragrafo.\n\nNuovo paragrafo.\n\nTerzo paragrafo.' });
@@ -167,10 +167,16 @@ test('Leggio e CLI condividono una coda che pubblica solo la revisione corrente'
   fs.writeFileSync(copia, fs.readFileSync(copia, 'utf8').replace('Divergenza nel terzo.', 'Testo prima.'));
   const blocco = await salvaBlocco();
   assert.equal(blocco.status, 202);
-  assert.equal((await blocco.json()).stato, 'audio da aggiornare');
+  // Applicare la bozza accoda l'audio da solo: non resta un secondo passo da fare a mano.
+  const bloccoApplicato = await blocco.json();
+  assert.equal(bloccoApplicato.stato, 'in coda');
+  const statoBlocco = async () => (await capitolo()).lavori.find(j => j.id === bloccoApplicato.id)?.stato;
+  const scadenzaBlocco = Date.now() + 3000;
+  while (Date.now() < scadenzaBlocco && await statoBlocco() !== 'pronto') await new Promise(resolve => setTimeout(resolve, 20));
+  assert.equal(await statoBlocco(), 'pronto');
   assert.deepEqual((await capitolo()).passaggi.map(p => p.testo), ['Correzione senza voce.', 'Secondo paragrafo.', 'Nuovo paragrafo.', 'Terzo paragrafo.']);
   assert.match(fs.readFileSync(copia, 'utf8'), /Secondo paragrafo\.\r\n\r\nNuovo paragrafo\.\r\n\r\nTerzo paragrafo\./);
-  assert.deepEqual(pubblicati, ['Ultima modifica.', 'Correzione senza voce.']);
+  assert.deepEqual(pubblicati.filter(x => x !== undefined), ['Ultima modifica.', 'Correzione senza voce.']);
   const applicato = (await capitolo()).lavori.find(x => x.tipo === 'modifica' && x.blocchi?.length);
   const corrente = await capitolo();
   const primaBozza = await (await api('bozza', { capitolo: 4, revisione: corrente.revisione, riga: 4, testo: 'Bozza due.' })).json();
@@ -184,7 +190,7 @@ test('Leggio e CLI condividono una coda che pubblica solo la revisione corrente'
   const ripristino = await api('ripristina', { id: applicato.id, indice: 0 });
   assert.equal(ripristino.status, 202);
   assert.deepEqual((await capitolo()).passaggi.map(p => p.testo), ['Correzione senza voce.', 'Altro.', 'Testo prima.']);
-  assert.deepEqual(pubblicati, ['Ultima modifica.', 'Correzione senza voce.']);
+  assert.deepEqual(pubblicati.filter(x => x !== undefined), ['Ultima modifica.', 'Correzione senza voce.']);
   const base = await capitolo();
   const b1 = await (await api('bozza', { capitolo: 4, revisione: base.revisione, riga: 4, testo: 'Prima parte.\n\nSeconda parte.' })).json();
   const b2 = await (await api('bozza', { capitolo: 4, revisione: base.revisione, bozza: b1.id, riga: 6, testo: 'Terza modifica.' })).json();
@@ -201,7 +207,7 @@ test('Leggio e CLI condividono una coda che pubblica solo la revisione corrente'
   const due = await capitolo();
   assert.deepEqual(due.passaggi.map(p => p.testo), ['Correzione senza voce.', 'Altro.', 'Testo prima.']);
   assert.deepEqual(due.bozza.blocchi[0], { riga: 6, fine: 6, ordine: 2, prima: ['Testo prima.'], dopo: ['Terza bozza.'] });
-  assert.deepEqual(pubblicati, ['Ultima modifica.', 'Correzione senza voce.']);
+  assert.deepEqual(pubblicati.filter(x => x !== undefined), ['Ultima modifica.', 'Correzione senza voce.']);
 });
 
 test('un riavvio completa un salvataggio interrotto prima di accodare la voce', async t => {
@@ -408,4 +414,26 @@ test('una correzione può attraversare lo stacco di scena, anche incollata', asy
   // Tornando indietro lo stacco di scena resta al suo posto.
   assert.equal((await api('ripristina', { id: modifica.id, indice: 0 })).status, 202);
   assert.equal(capitoloFile(), testo);
+});
+
+test('i contatori contano il lavoro in sospeso, non la distanza dall’audio pubblicato', async () => {
+  const { conteggiPendenti, paragrafiPendenti } = await import('./ui/testo.mjs');
+  const dati = {
+    lavori: [
+      { tipo: 'modifica', stato: 'audio da aggiornare', riga: 8, prima: 'Il soldato tacque.', dopo: 'Il soldato non disse nulla.' },
+      { tipo: 'modifica', stato: 'audio da aggiornare', riga: 8, prima: 'Il capitano tacque.', dopo: 'Il soldato tacque.' },
+      { tipo: 'modifica', stato: 'pronto', riga: 20, prima: 'Vecchio passaggio già riletto.', dopo: 'Nuovo passaggio già riletto.' },
+      { tipo: 'bozza', stato: 'bozza locale', blocchi: [{ riga: 40, prima: ['Non conta.'], dopo: ['Conta solo la bozza in cima.'] }] },
+    ],
+    bozza: { blocchi: [{ riga: 12, prima: ['Vaan corse.', '---', 'Reks lo seguì.'], dopo: ['Vaan corse via.', '---', 'Reks lo seguì.'] }] },
+  };
+  const conteggi = conteggiPendenti(dati);
+  assert.deepEqual([...conteggi.keys()], [8, 12]);
+  // Due correzioni sullo stesso paragrafo: la voce è ferma alla più vecchia, quindi si conta da quella.
+  assert.deepEqual(conteggi.get(8), { piu: 4, meno: 2, audio: 5 });
+  assert.deepEqual(conteggi.get(12), { piu: 1, meno: 0, audio: 3 });
+  // Il budget dei paragrafi è una stima per eccesso: serve solo a riconoscere un audio di un'altra versione.
+  assert.equal(paragrafiPendenti(dati), 4);
+  assert.equal(conteggiPendenti({ lavori: [] }).size, 0);
+  assert.equal(paragrafiPendenti(undefined), 0);
 });

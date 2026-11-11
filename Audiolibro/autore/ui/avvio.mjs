@@ -3,7 +3,7 @@ import { articolo, installaBase, pagina, voce } from './base.mjs';
 import { cap, paragrafi, passaggioDi } from './stato.mjs';
 import { caricaRiepilogo, dati } from './dati.mjs';
 import { mostraModifiche } from './proiezione.mjs';
-import { aggiornaContatori, chiudiConferma, installaPannello, pannello } from './pannello.mjs';
+import { aggiornaContatori, installaPannello, pannello } from './pannello.mjs';
 import { area, attaccaEditor, bloccoEditor, capitoloEditor, chiudiEditor, inLinea, installaEditor,
   riga } from './editor.mjs';
 import { installaLavori } from './lavori.mjs';
@@ -31,7 +31,6 @@ function avvia() {
   }).observe(articolo, { childList: true });
   addEventListener('hashchange', () => {
     chiudiMenu();
-    chiudiConferma();
     if (capitoloEditor !== cap()) chiudiEditor();
     caricaRiepilogo()?.catch(() => {});
   });

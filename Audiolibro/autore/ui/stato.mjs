@@ -5,7 +5,7 @@ import { mappaVisiva } from './proiezione.mjs';
 import { inLinea } from './editor.mjs';
 
 export const cap = () => typeof corrente === 'number' ? corrente : Number(/^#(\d+)$/.exec(location.hash)?.[1]);
-export const paragrafi = () => [...articolo.querySelectorAll(':scope > p:not(.h, .autore-sostituito, .autore-solo-diff)')];
+export const paragrafi = () => [...articolo.querySelectorAll(':scope > p:not(.h, .autore-sostituito, .autore-solo-diff, [hidden])')];
 export const paragrafiAudio = () => [...articolo.querySelectorAll(':scope > p:not(.h, .autore-proiezione)')];
 export const ornamentiDiff = '.autore-rimozione, .autore-controlli-paragrafo, .autore-controllo-diff, .autore-paragrafo-rimosso';
 export function testoSenzaRimozioni(nodo) {

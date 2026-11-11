@@ -5,6 +5,7 @@ import { cap, paragrafi, passaggioDi, testoLetto, testoSenzaRimozioni } from './
 import { aggiorna, dati } from './dati.mjs';
 import { mappaVisiva, mostraModifiche } from './proiezione.mjs';
 import { aggiornaComandi, aggiornaContatori, stato } from './pannello.mjs';
+import { bloccoDelPassaggio } from './lavori.mjs';
 import { colora, confrontoModifiche } from './diff-testo.mjs';
 
 export const area = el('textarea');
@@ -20,8 +21,27 @@ salva.className = 'autore-primario';
 export const annulla = bottone('Annulla', () => chiudiEditor(true));
 export const riscontro = el('span', 'autore-riscontro');
 riscontro.setAttribute('role', 'status');
+// Il ripristino si chiede e si conferma qui dentro: chi corregge non deve andarlo a cercare nel pannello.
+export const ripristina = bottone('Ripristina', () => {
+  if (ripristina.hidden || ripristina.disabled) return;
+  const blocco = bloccoDelPassaggio(riga);
+  if (!blocco) return;
+  domandaRipristino.textContent = area.value.trim() !== originale
+    ? 'Ripristinare il testo di prima? Quello che hai scritto qui va perso.'
+    : blocco.lavoro.tipo === 'bozza' ? 'Togliere questo blocco dalla bozza?' : 'Ripristinare il testo di prima?';
+  confermaRipristino.disabled = annullaRipristino.disabled = false;
+  richiestaRipristino.hidden = false;
+  annullaRipristino.focus();
+});
+const richiestaRipristino = el('span', 'autore-ripristino autore-conferma-ripristino');
+richiestaRipristino.hidden = true;
+const domandaRipristino = el('span');
+domandaRipristino.setAttribute('role', 'status');
+const confermaRipristino = bottone('Conferma', eseguiRipristino);
+const annullaRipristino = bottone('Annulla', () => { richiestaRipristino.hidden = true; ripristina.focus(); });
+richiestaRipristino.append(domandaRipristino, confermaRipristino, annullaRipristino);
 const azioniInLinea = el('span', 'autore-azioni');
-azioniInLinea.append(salva, annulla, riscontro);
+azioniInLinea.append(salva, annulla, ripristina, riscontro, richiestaRipristino);
 inLinea.append(griglia, azioniInLinea);
 
 export let revisioneEditor, riga, originale, riferimento, capitoloEditor, salvando = false;
@@ -141,6 +161,33 @@ export function modificaInLinea(evidenziata = '', bozza, selezione) {
   area.setSelectionRange(sinistra < 0 ? valore.length : sinistra, sinistra < 0 ? valore.length : Math.max(sinistra, destra));
   aggiornaSelezione();
   inLinea.scrollIntoView({ block: 'nearest' });
+}
+
+// Si puo' ripristinare solo dove c'e' qualcosa da disfare, e mai mentre si sta salvando.
+export function aggiornaRipristino() {
+  const blocco = inLinea.isConnected ? bloccoDelPassaggio(riga) : undefined;
+  ripristina.hidden = !blocco;
+  ripristina.disabled = salvando;
+  if (!blocco) richiestaRipristino.hidden = true;
+}
+
+export async function eseguiRipristino() {
+  const blocco = bloccoDelPassaggio(riga);
+  const capitolo = capitoloEditor;
+  if (!blocco || confermaRipristino.disabled) return;
+  const locale = blocco.lavoro.tipo === 'bozza';
+  confermaRipristino.disabled = annullaRipristino.disabled = true;
+  try {
+    await api('ripristina', { id: blocco.lavoro.id, indice: blocco.indice });
+    if (cap() !== capitolo) return;
+    richiestaRipristino.hidden = true;
+    chiudiEditor(true);
+    await aggiorna(capitolo);
+    stato.textContent = locale ? 'Blocco rimosso dalla bozza.' : 'Testo del blocco ripristinato.';
+  } catch (e) {
+    riscontro.textContent = e.message;
+    confermaRipristino.disabled = annullaRipristino.disabled = false;
+  }
 }
 
 export function bozzaAperta() {
