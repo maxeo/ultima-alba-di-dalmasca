@@ -6,7 +6,7 @@ const { errore, scrivi, numero, testoValido, leggiCapitolo, analizzaCapitolo, bl
   soloParagrafi } = require('./archivio');
 
 const prefisso = '/__autore/';
-const mime = { '.html': 'text/html', '.js': 'text/javascript', '.css': 'text/css', '.json': 'application/json',
+const mime = { '.html': 'text/html', '.js': 'text/javascript', '.mjs': 'text/javascript', '.css': 'text/css', '.json': 'application/json',
   '.webmanifest': 'application/manifest+json', '.svg': 'image/svg+xml', '.mp3': 'audio/mpeg', '.woff2': 'font/woff2',
   '.png': 'image/png', '.jpg': 'image/jpeg', '.webp': 'image/webp', '.ico': 'image/x-icon', '.txt': 'text/plain' };
 
@@ -209,7 +209,7 @@ function creaServer({ root = path.resolve(__dirname, '../..'), audio } = {}) {
   async function api(req, res, url) {
     const route = url.pathname.slice(prefisso.length);
     const get = req.method === 'GET' || req.method === 'HEAD';
-    if (get && ['ui.js', 'ui.css'].includes(route)) return serveFile(req, res, path.join(__dirname, route));
+    if (get && (['ui.js', 'ui.css'].includes(route) || /^ui[/][a-z-]+[.]mjs$/.test(route))) return serveFile(req, res, path.join(__dirname, route));
     const presa = /^prese\/([a-f\d-]{36})\/(\d{1,2})\.mp3$/.exec(route);
     if (get && presa) {
       const j = trova(presa[1], 'prese');

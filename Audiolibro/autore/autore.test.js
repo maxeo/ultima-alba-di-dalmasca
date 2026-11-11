@@ -9,8 +9,8 @@ const { promisify } = require('node:util');
 const { createHash } = require('node:crypto');
 const { indiceVtt } = require('./audio');
 
-test('il riepilogo autore è pronto solo dopo avere sia le modifiche sia il testo', () => {
-  const { statoCaricamentoAutore } = require('./ui');
+test('il riepilogo autore è pronto solo dopo avere sia le modifiche sia il testo', async () => {
+  const { statoCaricamentoAutore } = await import('./ui/testo.mjs');
   assert.equal(statoCaricamentoAutore(4, null, 'pronto'), 'caricamento');
   assert.equal(statoCaricamentoAutore(4, 4, 'caricamento'), 'caricamento');
   assert.equal(statoCaricamentoAutore(4, 3, 'pronto'), 'caricamento');
@@ -19,8 +19,8 @@ test('il riepilogo autore è pronto solo dopo avere sia le modifiche sia il test
   assert.equal(statoCaricamentoAutore(4, 4, 'pronto'), 'pronto');
 });
 
-test('il testo in linea evidenzia solo i cambiamenti, anche se sono separati', () => {
-  const { differenze, riepilogoParole } = require('./ui');
+test('il testo in linea evidenzia solo i cambiamenti, anche se sono separati', async () => {
+  const { differenze, riepilogoParole } = await import('./ui/testo.mjs');
   const prima = 'Un cavaliere stanco passò di corsa.';
   const dopo = 'Un soldato stanco passò piano.';
   const { aggiunte, rimosse } = differenze(prima, dopo);
@@ -31,8 +31,8 @@ test('il testo in linea evidenzia solo i cambiamenti, anche se sono separati', (
   assert.deepEqual(riepilogoParole('Un cavaliere stanco passò. Rimase fermo.', 'Un cavaliere passò. Rimase fermo.'), { piu: 0, meno: 1, audio: 3 });
 });
 
-test('il diff colloca le rimozioni accanto alla sostituzione o al testo conservato', () => {
-  const { diffConRimozioni } = require('./ui');
+test('il diff colloca le rimozioni accanto alla sostituzione o al testo conservato', async () => {
+  const { diffConRimozioni } = await import('./ui/testo.mjs');
   const sostituzione = diffConRimozioni('Il capitano parla.', 'Il soldato parla.');
   assert.deepEqual(sostituzione.rimozioni, [{ posizione: 3, testo: 'capitano', prima: '', dopo: ' ' }]);
   assert.deepEqual(diffConRimozioni('Una, frase.', 'Una frase.').rimozioni, [{ posizione: 3, testo: ',', prima: '', dopo: '' }]);
@@ -40,15 +40,15 @@ test('il diff colloca le rimozioni accanto alla sostituzione o al testo conserva
     [{ posizione: 12, testo: 'il capitano', prima: '', dopo: ' ' }]);
 });
 
-test('un estratto naviga al paragrafo della modifica anche quando il contesto parte prima', () => {
-  const { diffConRimozioni, puntoDiff } = require('./ui');
+test('un estratto naviga al paragrafo della modifica anche quando il contesto parte prima', async () => {
+  const { diffConRimozioni, puntoDiff } = await import('./ui/testo.mjs');
   const prima = 'Prima frase.\n\nIl capitano parla.';
   const dopo = 'Prima frase.\n\nIl soldato parla.';
   assert.deepEqual(puntoDiff(dopo, diffConRimozioni(prima, dopo), 0, dopo.length), { indice: 1, testo: 'Il soldato parla.', offset: 3 });
 });
 
-test('la prima anteprima limita anche le parole rimosse e consente di vedere il diff completo', () => {
-  const { anteprimaDiff, diffConRimozioni } = require('./ui');
+test('la prima anteprima limita anche le parole rimosse e consente di vedere il diff completo', async () => {
+  const { anteprimaDiff, diffConRimozioni } = await import('./ui/testo.mjs');
   const dopo = 'In città il capitano attese in silenzio.';
   const diff = diffConRimozioni('In città ' + 'un lungo inciso ormai superato '.repeat(10) + 'il capitano attese in silenzio.', dopo);
   const breve = anteprimaDiff(dopo, diff, [0, dopo.length], 85);
@@ -394,7 +394,7 @@ test('una correzione può attraversare lo stacco di scena, anche incollata', asy
     [['Primo.', false], ['Secondo.', false], ['Terzo.', true], ['Quarto.', false]]);
   // Il pezzo incollato arriva con lo stacco scritto come capita negli appunti.
   const bozza = await api('bozza', { capitolo: 4, revisione: c.revisione, bozza: null,
-    riga: c.passaggi[1].riga, fine: c.passaggi[2].riga, testo: 'Secondo nuovo.\n\n***\n\nTerzo nuovo.' });
+    riga: c.passaggi[1].riga, fine: c.passaggi[2].riga, testo: 'Secondo nuovo.\n\n* * *\n\nTerzo nuovo.' });
   assert.equal(bozza.status, 202);
   const salvata = await bozza.json();
   assert.deepEqual(salvata.blocchi[0].prima, ['Secondo.', '---', 'Terzo.']);

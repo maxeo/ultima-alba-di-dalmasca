@@ -5,7 +5,7 @@ const { execFileSync } = require('node:child_process');
 
 const ePassaggio = t => t && !/^#{1,6}\s|^-{3,}$/.test(t);
 // Lo stacco di scena vale come un paragrafo a se': si scrive e si incolla insieme al testo.
-const eStacco = t => /^\s*(?:-{3,}|\*{3,}|_{3,})\s*$/.test(t || '');
+const eStacco = t => /^\s*(?:(?:-[ \t]*){3,}|(?:\*[ \t]*){3,}|(?:_[ \t]*){3,})$/.test(t || '');
 const soloParagrafi = v => v.filter(t => !eStacco(t));
 
 function errore(status, messaggio) {
