@@ -88,8 +88,8 @@ export function etichettaLavoro(j) {
 }
 
 // Stato della generazione del capitolo aperto: serve al contatore in testata e al pannello.
-// Windows non lascia sostituire l'MP3 finche' il lettore lo tiene aperto: mentre c'e' un lavoro sul capitolo,
-// se l'audio e' fermo lo si stacca, e torna al suo posto appena il lavoro finisce o si rimette mano al lettore.
+// Windows non lascia sostituire l'MP3 finché il lettore lo tiene aperto: mentre c'è un lavoro sul capitolo,
+// se l'audio è fermo lo si stacca, e torna al suo posto appena il lavoro finisce o si rimette mano al lettore.
 let audioFermo;
 export function staccaAudio(inCorso) {
   const a = document.querySelector('audio');
@@ -167,36 +167,13 @@ export function avvisiLavoro(j, visti) {
   return avvisi;
 }
 
-// Di un lavoro andato male si puo' riprendere il testo e rimetterlo a mano dove va,
-// se il paragrafo di partenza e' ancora quello di prima.
+// Di un lavoro andato male si può riprendere il testo e rimetterlo a mano dove va,
+// se il paragrafo di partenza è ancora quello di prima.
 export function testoDelLavoro(j) {
   const blocchi = j.blocchi?.length ? j.blocchi : j.prima && j.dopo ? [{ prima: [j.prima], dopo: [j.dopo] }] : [];
   for (const b of blocchi) {
     const p = dati?.passaggi.find(x => compatto(x.testo) === compatto(b.prima[0]));
     if (p) return { riga: p.riga, testo: unisci(b.dopo) };
-  }
-  return undefined;
-}
-// Il blocco ancora in sospeso che tiene questo paragrafo, com'e' numerato nelle schede del pannello.
-export function bloccoDelPassaggio(n) {
-  if (n === undefined || !dati) return undefined;
-  const ripristinati = new Set(dati.lavori.map(j => j.ripristinaDi));
-  for (const j of dati.lavori) {
-    const suo = j.tipo === 'bozza' ? j.id === dati.bozza?.id
-      : j.tipo === 'modifica' && !['pronto', 'superato'].includes(j.stato);
-    if (!suo || ripristinati.has(j.id) || j.revisione !== dati.revisione) continue;
-    if (!j.blocchi?.length) {
-      if (j.riga === n) return { lavoro: j, indice: 0 };
-      continue;
-    }
-    let scarto = 0;
-    for (const [i, b] of j.blocchi.entries()) {
-      const dopoBlocco = soloParagrafi(b.dopo);
-      const righe = j.tipo === 'bozza' ? dati.passaggi.filter(p => p.riga >= b.riga && p.riga <= (b.fine ?? b.riga)).map(p => p.riga)
-        : dati.passaggi.slice(b.ordine + scarto, b.ordine + scarto + dopoBlocco.length).map(p => p.riga);
-      if (righe.includes(n)) return { lavoro: j, indice: i };
-      if (j.tipo !== 'bozza') scarto += dopoBlocco.length - soloParagrafi(b.prima).length;
-    }
   }
   return undefined;
 }

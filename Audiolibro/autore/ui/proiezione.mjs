@@ -1,7 +1,8 @@
 // Il testo del lettore mostrato com’è e come diventerà: diff, proiezione della bozza e conteggi.
 import { articolo, bottoneIcona, el, matita } from './base.mjs';
-import { allineaParagrafi, compatto, conteggiPendenti, diffConRimozioni, eStacco, fettaDiff, normalizza,
-  paragrafiPendenti, soloParagrafi, testoVisibile, unisci } from './testo.mjs';
+import { allineaParagrafi, compatto, diffConRimozioni, eStacco, fettaDiff, normalizza, soloParagrafi,
+  testoVisibile, unisci } from './testo.mjs';
+import { conteggiPendenti, paragrafiPendenti } from './pendenti.mjs';
 import { cap, ornamentiDiff, paragrafi, paragrafiAudio, passaggioDi, testoLetto } from './stato.mjs';
 import { dati } from './dati.mjs';
 import { inserisciRimozioni, nodiTesto, rendiDiff } from './diff-testo.mjs';
@@ -10,7 +11,7 @@ import { aggiornaContatori } from './pannello.mjs';
 
 export let mappaVisiva = new Map();
 export let conteggiSalvati = new Map();
-// Vero quando l'audio in uso non e' quello di questo testo: il confronto riga per riga non direbbe nulla.
+// Vero quando l'audio in uso non è quello di questo testo: il confronto riga per riga non direbbe nulla.
 export let audioAltraVersione = false;
 
 let evidenzeLettura = [];
@@ -18,7 +19,7 @@ const diffAperti = new Set();
 const originaliAperti = new Set();
 
 // Il bottone «Originale» rimette sotto gli occhi il testo che l'audio legge adesso, con i suoi tempi:
-// vale per tutto il gruppo, cosi' i paragrafi nuovi e quelli vecchi non si vedono mai insieme.
+// vale per tutto il gruppo, così i paragrafi nuovi e quelli vecchi non si vedono mai insieme.
 function vistaOriginale(chiave, applica) {
   const bottoni = [];
   const attivo = () => originaliAperti.has(chiave);
@@ -61,7 +62,7 @@ export function marcaParagrafo(p, chiave, haDiff, vista) {
     vista.bottoni.push(originale);
     controlli.append(originale);
   }
-  // Il paragrafo rimosso non esiste piu' nel testo: non c'e' niente da correggere.
+  // Il paragrafo rimosso non esiste più nel testo: non c'è niente da correggere.
   if (!p.classList.contains('autore-solo-diff')) {
     const modifica = bottoneIcona('Modifica', matita(),
       () => apriPassaggio(contestoPassaggio(p.querySelector('[data-i]') || p, null)), true, 'Correggi il passaggio');
@@ -183,7 +184,7 @@ export function mostraProiezione(letti, evidenze) {
   const prima = letti.map(testoLetto);
   const dopo = fonte.map(p => testoVisibile(p.testo));
   const gruppi = allineaParagrafi(prima.map(compatto), dopo.map(compatto));
-  // Il lavoro in sospeso dice quanti paragrafi possono divergere: molti di piu' vuol dire audio di un'altra versione.
+  // Il lavoro in sospeso dice quanti paragrafi possono divergere: molti di più vuol dire audio di un'altra versione.
   const scollegati = gruppi.filter(g => g.letto === undefined).reduce((somma, g) => somma + Math.max(g.a - g.da, g.fine - g.inizio), 0);
   if (scollegati > 2 * paragrafiPendenti(dati) + 4) { audioAltraVersione = true; return; }
   const corrispondenze = new Map(gruppi.filter(g => g.letto !== undefined && fonte[g.fonte].fine === undefined)
@@ -245,7 +246,7 @@ export function mostraProiezione(letti, evidenze) {
       mappaVisiva.set(p, fonte[i]);
       articolo.insertBefore(p, letti[g.da] || null);
     }
-    // Anche il testo di prima porta i suoi comandi, se no da li' non si tornerebbe piu' indietro.
+    // Anche il testo di prima porta i suoi comandi, se no da lì non si tornerebbe più indietro.
     if (vista) {
       for (const r of sostituiti) marcaParagrafo(r, `gruppo-${g.da}-${g.inizio}`, false, vista);
       vista.scegli(vista.attivo());

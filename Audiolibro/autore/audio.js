@@ -193,7 +193,7 @@ function creaAudio(root) {
     }
   }
 
-  // Su Windows il file non si puo' sostituire mentre il lettore lo sta leggendo: si riprova per qualche secondo.
+  // Su Windows il file non si può sostituire mentre il lettore lo sta leggendo: si riprova per qualche secondo.
   async function rinomina(da, a) {
     for (let tentativo = 0; ; tentativo++) {
       try { return fs.renameSync(da, a); }

@@ -267,7 +267,7 @@ function creaServer({ root = path.resolve(__dirname, '../..'), audio } = {}) {
       const c = verificaVersione(j);
       if (ultimaBozza(j.capitolo, c.revisione) !== j || !j.blocchi.length) throw errore(409, 'La bozza è cambiata o è vuota.');
       const file = sostituisci(root, j.capitolo, c, j.blocchi);
-      // Applicare la bozza vuol dire volerla sentire: l'audio si accoda subito, dietro a quello che c'e' gia'.
+      // Applicare la bozza vuol dire volerla sentire: l'audio si accoda subito, dietro a quello che c'è già.
       return json(res, 202, aggiungi(j, 'modifica', c, { blocchi: j.blocchi, stato: 'in coda' }, file));
     }
     if (route === 'ripristina') {
@@ -313,7 +313,7 @@ function creaServer({ root = path.resolve(__dirname, '../..'), audio } = {}) {
       const sposta = d.a !== undefined;
       if (!sposta && typeof d.stacco !== 'boolean') throw errore(400, 'Indica se mettere o togliere lo stacco.');
       if (d.audio !== undefined && typeof d.audio !== 'boolean') throw errore(400, 'Indica se aggiornare anche l’audio.');
-      // Spostare lo stacco e' toglierlo da dov'e' e rimetterlo prima di un altro paragrafo, in un colpo solo.
+      // Spostare lo stacco è toglierlo da dov'è e rimetterlo prima di un altro paragrafo, in un colpo solo.
       const cambi = sposta ? [{ riga: d.riga, stacco: false }, { riga: d.a, stacco: true }] : [{ riga: d.riga, stacco: d.stacco }];
       const file = cambiaStacco(root, d.capitolo, c, cambi);
       const stato = d.audio === false ? 'audio da aggiornare' : 'in coda';

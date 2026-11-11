@@ -373,7 +373,7 @@ test('un lavoro in errore si mette da parte e lo storico si pulisce', async t =>
   assert.equal(messoDaParte.errore, undefined);
   assert.equal((await (await api('pulisci', { capitolo: 4 })).json()).tolti, 1);
   assert.deepEqual(await lavori(), []);
-  // Il testo gia' scritto nel capitolo resta dov'e': si pulisce lo storico, non il romanzo.
+  // Il testo già scritto nel capitolo resta dov'è: si pulisce lo storico, non il romanzo.
   assert.match(fs.readFileSync(path.join(root, 'Romanzo', 'capitoli', '004-reks.md'), 'utf8'), /Primo cambiato\./);
 });
 
@@ -417,7 +417,7 @@ test('una correzione può attraversare lo stacco di scena, anche incollata', asy
 });
 
 test('i contatori contano il lavoro in sospeso, non la distanza dall’audio pubblicato', async () => {
-  const { conteggiPendenti, paragrafiPendenti } = await import('./ui/testo.mjs');
+  const { conteggiPendenti, paragrafiPendenti } = await import('./ui/pendenti.mjs');
   const dati = {
     lavori: [
       { tipo: 'modifica', stato: 'audio da aggiornare', riga: 8, prima: 'Il soldato tacque.', dopo: 'Il soldato non disse nulla.' },
@@ -436,4 +436,32 @@ test('i contatori contano il lavoro in sospeso, non la distanza dall’audio pub
   assert.equal(paragrafiPendenti(dati), 4);
   assert.equal(conteggiPendenti({ lavori: [] }).size, 0);
   assert.equal(paragrafiPendenti(undefined), 0);
+});
+
+test('il ripristino trova il blocco che tiene quel paragrafo', async () => {
+  const { bloccoDelPassaggio } = await import('./ui/pendenti.mjs');
+  const bozza = { id: 'b1', blocchi: [{ riga: 30, fine: 32, prima: ['Vecchio.'], dopo: ['Nuovo.'] }] };
+  const dati = {
+    revisione: 'r7',
+    bozza,
+    passaggi: [{ riga: 8 }, { riga: 10 }, { riga: 30 }, { riga: 32 }],
+    lavori: [
+      { id: 'm1', tipo: 'modifica', stato: 'audio da aggiornare', revisione: 'r7', riga: 8 },
+      { id: 'm2', tipo: 'modifica', stato: 'pronto', revisione: 'r7', riga: 10 },
+      { id: 'm3', tipo: 'modifica', stato: 'audio da aggiornare', revisione: 'r6', riga: 12 },
+      { id: 'm4', tipo: 'modifica', stato: 'audio da aggiornare', revisione: 'r7', riga: 14 },
+      { id: 'm5', tipo: 'modifica', stato: 'audio da aggiornare', revisione: 'r7', riga: 16, ripristinaDi: 'm4' },
+      { ...bozza, tipo: 'bozza', stato: 'bozza locale', revisione: 'r7' },
+    ],
+  };
+  assert.equal(bloccoDelPassaggio(dati, 8).lavoro.id, 'm1');
+  // Già letto dalla voce: non c'è più niente da disfare.
+  assert.equal(bloccoDelPassaggio(dati, 10), undefined);
+  // Di un'altra revisione del capitolo, e quindi di un altro testo.
+  assert.equal(bloccoDelPassaggio(dati, 12), undefined);
+  // Disfatto una volta non si disfa due.
+  assert.equal(bloccoDelPassaggio(dati, 14), undefined);
+  // Il blocco della bozza tiene tutti i paragrafi fra la riga e la fine.
+  assert.deepEqual(bloccoDelPassaggio(dati, 32), { lavoro: dati.lavori[5], indice: 0 });
+  assert.equal(bloccoDelPassaggio(dati, undefined), undefined);
 });

@@ -5,7 +5,7 @@ import { cap, paragrafi, passaggioDi, testoLetto, testoSenzaRimozioni } from './
 import { aggiorna, dati } from './dati.mjs';
 import { mappaVisiva, mostraModifiche } from './proiezione.mjs';
 import { aggiornaComandi, aggiornaContatori, stato } from './pannello.mjs';
-import { bloccoDelPassaggio } from './lavori.mjs';
+import { bloccoDelPassaggio } from './pendenti.mjs';
 import { colora, confrontoModifiche } from './diff-testo.mjs';
 
 export const area = el('textarea');
@@ -24,7 +24,7 @@ riscontro.setAttribute('role', 'status');
 // Il ripristino si chiede e si conferma qui dentro: chi corregge non deve andarlo a cercare nel pannello.
 export const ripristina = bottone('Ripristina', () => {
   if (ripristina.hidden || ripristina.disabled) return;
-  const blocco = bloccoDelPassaggio(riga);
+  const blocco = bloccoDelPassaggio(dati, riga);
   if (!blocco) return;
   domandaRipristino.textContent = area.value.trim() !== originale
     ? 'Ripristinare il testo di prima? Quello che hai scritto qui va perso.'
@@ -151,7 +151,7 @@ export function modificaInLinea(evidenziata = '', bozza, selezione) {
   aggiornaBozza();
   const valore = area.value;
   const trovato = evidenziata ? valore.indexOf(evidenziata) : -1;
-  // Nel testo dell'editor ogni stacco di scena occupa una riga in piu'.
+  // Nel testo dell'editor ogni stacco di scena occupa una riga in più.
   const offset = i => voci.slice(0, i - inizio).reduce((n, p, k) => n + p.testo.length + 2 + (k && p.stacco ? 5 : 0), 0)
     + ((i - inizio) && voci[i - inizio]?.stacco ? 5 : 0);
   const haSelezione = selezione?.inizio !== undefined;
@@ -163,16 +163,16 @@ export function modificaInLinea(evidenziata = '', bozza, selezione) {
   inLinea.scrollIntoView({ block: 'nearest' });
 }
 
-// Si puo' ripristinare solo dove c'e' qualcosa da disfare, e mai mentre si sta salvando.
+// Si può ripristinare solo dove c'è qualcosa da disfare, e mai mentre si sta salvando.
 export function aggiornaRipristino() {
-  const blocco = inLinea.isConnected ? bloccoDelPassaggio(riga) : undefined;
+  const blocco = inLinea.isConnected ? bloccoDelPassaggio(dati, riga) : undefined;
   ripristina.hidden = !blocco;
   ripristina.disabled = salvando;
   if (!blocco) richiestaRipristino.hidden = true;
 }
 
 export async function eseguiRipristino() {
-  const blocco = bloccoDelPassaggio(riga);
+  const blocco = bloccoDelPassaggio(dati, riga);
   const capitolo = capitoloEditor;
   if (!blocco || confermaRipristino.disabled) return;
   const locale = blocco.lavoro.tipo === 'bozza';

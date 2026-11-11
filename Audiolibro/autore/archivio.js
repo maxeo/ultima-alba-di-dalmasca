@@ -149,7 +149,7 @@ function cambiaStacco(root, n, capitolo, cambi) {
     const limite = fine < 0 ? righe.length : fine;
     const posizioni = righe.flatMap((x, i) => i % 2 === 0 && i > indice && i < limite && ePassaggio(x.trim()) ? [i] : []);
     if (posizioni.length !== capitolo.passaggi.length) throw errore(409, `Passaggio divergente in ${path.relative(root, nome)}.`);
-    // Dal fondo verso l'inizio, cosi' le righe aggiunte o tolte non spostano i punti ancora da sistemare.
+    // Dal fondo verso l'inizio, così le righe aggiunte o tolte non spostano i punti ancora da sistemare.
     for (const { ordine, stacco, atteso } of [...richieste].sort((x, y) => y.ordine - x.ordine)) {
       const i = posizioni[ordine];
       if (righe[i]?.trim() !== atteso) throw errore(409, `Passaggio divergente in ${path.relative(root, nome)}.`);
