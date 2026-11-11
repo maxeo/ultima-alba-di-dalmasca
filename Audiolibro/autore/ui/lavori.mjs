@@ -87,31 +87,25 @@ export function etichettaLavoro(j) {
   return `${nomiLavoro[j.tipo]} · ${stato}${avanzamento}${j.segnalazioni?.length ? ' · da controllare' : ''}${data ? ' · ' + data : ''}`;
 }
 
+// L'MP3 nuovo prende il posto del vecchio mentre il lettore lo sta ancora leggendo: il server chiude il flusso
+// aperto su quel file e qui l'audio si ferma. Invece di tenerlo staccato per tutta la generazione, lo si
+// riattacca subito dov'era: lo stacco dura un istante.
+let ripresa = 0;
+export function riprendiAudio() {
+  const a = document.querySelector('audio');
+  const src = a?.getAttribute('src');
+  // Se cade di continuo il file non c'è più o è rotto: si lascia stare, l'errore lo deve vedere il lettore.
+  if (!src || Date.now() - ripresa < 2000) return;
+  ripresa = Date.now();
+  const punto = a.currentTime;
+  const andava = !a.paused;
+  a.load();
+  a.addEventListener('loadedmetadata', () => {
+    if (punto && !a.currentTime) a.currentTime = punto;
+    if (andava) a.play().catch(() => {});
+  }, { once: true });
+}
 // Stato della generazione del capitolo aperto: serve al contatore in testata e al pannello.
-// Windows non lascia sostituire l'MP3 finché il lettore lo tiene aperto: mentre c'è un lavoro sul capitolo,
-// se l'audio è fermo lo si stacca, e torna al suo posto appena il lavoro finisce o si rimette mano al lettore.
-let audioFermo;
-export function staccaAudio(inCorso) {
-  const a = document.querySelector('audio');
-  if (!a) return;
-  if (!inCorso) return rimettiAudio();
-  if (audioFermo || !a.paused || !a.getAttribute('src')) return;
-  audioFermo = { src: a.getAttribute('src'), tempo: a.currentTime };
-  a.removeAttribute('src');
-  a.load();
-}
-export function rimettiAudio() {
-  if (!audioFermo) return;
-  const { src, tempo } = audioFermo;
-  audioFermo = undefined;
-  const a = document.querySelector('audio');
-  if (!a || a.getAttribute('src')) return;
-  // Chi rimette mano al lettore di solito vuole andare da un'altra parte: quel punto vince su dov'era.
-  const punto = a.currentTime || tempo;
-  a.setAttribute('src', src);
-  a.load();
-  if (punto) a.addEventListener('loadedmetadata', () => { if (!a.currentTime) a.currentTime = punto; }, { once: true });
-}
 export function generazione() {
   const elencoLavori = dati?.lavori || [];
   const inCorso = elencoLavori.find(j => j.stato === 'in generazione');
@@ -127,7 +121,6 @@ export function generazione() {
 // Le righe di stato e i comandi cambiano a ogni lettura, senza ridisegnare i diff.
 export function aggiornaStatiLavori() {
   const g = generazione();
-  staccaAudio(!!g?.inCorso);
   for (const nodo of elenco.querySelectorAll('[data-lavoro]')) {
     const j = dati?.lavori.find(x => x.id === nodo.dataset.lavoro);
     if (!j) continue;
@@ -323,7 +316,5 @@ export function disegnaLavori() {
 }
 
 export function installaLavori() {
-  // Anche il clic sul testo serve ad ascoltare: senza questo l'audio staccato non tornerebbe mai.
-  document.addEventListener('pointerdown', e => { if (e.target.closest?.('.barra, #articolo')) rimettiAudio(); }, true);
-  document.addEventListener('keydown', e => { if (e.key === ' ' || e.key.startsWith('Arrow')) rimettiAudio(); }, true);
+  document.querySelector('audio')?.addEventListener('error', riprendiAudio);
 }

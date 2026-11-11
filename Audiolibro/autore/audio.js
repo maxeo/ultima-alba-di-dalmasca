@@ -24,7 +24,7 @@ function indiceVtt(vtt, tempo, frase) {
   return indice;
 }
 
-function creaAudio(root) {
+function creaAudio(root, libera) {
   const base = path.join(root, 'Audiolibro');
   const autore = path.join(base, 'audio', 'autore');
   const tmp = path.join(base, 'tmp');
@@ -193,13 +193,15 @@ function creaAudio(root) {
     }
   }
 
-  // Su Windows il file non si può sostituire mentre il lettore lo sta leggendo: si riprova per qualche secondo.
+  // Su Windows il file non si può sostituire mentre il lettore lo sta leggendo: prima si chiudono i flussi
+  // che il server ha aperto su quel file, poi si riprova per qualche secondo per chi è arrivato nel frattempo.
   async function rinomina(da, a) {
     for (let tentativo = 0; ; tentativo++) {
+      libera?.(a);
       try { return fs.renameSync(da, a); }
       catch (e) {
         if (tentativo >= 60 || !['EPERM', 'EBUSY', 'EACCES'].includes(e.code)) {
-          if (tentativo >= 60) throw new Error(`Il lettore sta usando ${path.basename(a)}: ricarica la pagina del lettore e riprova.`);
+          if (tentativo >= 60) throw new Error(`Non riesco a sostituire ${path.basename(a)}: qualcuno lo tiene aperto. Chiudi i lettori aperti e riprova.`);
           throw e;
         }
         await pausa(250);

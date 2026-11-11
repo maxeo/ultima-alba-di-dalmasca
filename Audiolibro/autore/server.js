@@ -31,6 +31,16 @@ async function corpo(req) {
   throw errore(400, 'Dati JSON non validi.');
 }
 
+// Windows non lascia sostituire un file mentre qualcuno lo sta leggendo, e chi lo tiene aperto è questo server:
+// il lettore scarica l'MP3 a pezzi e la connessione resta lì. Teniamo da parte i flussi per poterli chiudere noi.
+const flussiAperti = new Map();
+
+function liberaFile(file) {
+  const chiave = path.resolve(file);
+  for (const flusso of flussiAperti.get(chiave) || []) flusso.destroy();
+  flussiAperti.delete(chiave);
+}
+
 function serveFile(req, res, file, inserisciAutore = false) {
   const info = fs.statSync(file, { throwIfNoEntry: false });
   if (!info?.isFile()) throw errore(404, 'File non trovato.');
@@ -53,6 +63,10 @@ function serveFile(req, res, file, inserisciAutore = false) {
   res.writeHead(range ? 206 : 200, headers);
   if (req.method === 'HEAD' || !info.size) return res.end();
   const stream = fs.createReadStream(file, { start, end });
+  const chiave = path.resolve(file);
+  const aperti = flussiAperti.get(chiave) || flussiAperti.set(chiave, new Set()).get(chiave);
+  aperti.add(stream);
+  stream.on('close', () => { aperti.delete(stream); if (!aperti.size) flussiAperti.delete(chiave); });
   stream.on('error', () => res.destroy());
   res.on('close', () => stream.destroy());
   stream.pipe(res);
@@ -80,7 +94,7 @@ function creaServer({ root = path.resolve(__dirname, '../..'), audio } = {}) {
     }
     fs.rmSync(transazione);
   }
-  audio ??= require('./audio').creaAudio(root);
+  audio ??= require('./audio').creaAudio(root, liberaFile);
   let attivo = false;
   let chiuso = false;
   for (const j of lavori) if (j.stato === 'in generazione') { j.stato = 'in coda'; delete j.avviato; }
