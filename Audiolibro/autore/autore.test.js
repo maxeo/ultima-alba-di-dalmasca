@@ -442,6 +442,20 @@ test('i contatori contano il lavoro in sospeso, non la distanza dall’audio pub
   assert.equal(paragrafiPendenti(undefined), 0);
 });
 
+test('incollare un capitolo intero non porta dentro la riga del titolo', () => {
+  const { analizzaCapitolo, bloccoValido, testoValido } = require('./archivio');
+  const capitolo = analizzaCapitolo('## 6. La morte di un regno\n\nPrimo.\n\n---\n\nSecondo.\n');
+  const tutto = (testo) => bloccoValido(capitolo, capitolo.passaggi[0].riga, capitolo.passaggi.at(-1).riga, testo).dopo;
+  // Chi copia il capitolo da un editor si porta dietro il titolo: è già nel file, quindi si toglie da solo.
+  assert.deepEqual(tutto('## 6. La morte di un regno\n\nNuovo primo.\n\n---\n\nNuovo secondo.'),
+    ['Nuovo primo.', '---', 'Nuovo secondo.']);
+  assert.deepEqual(tutto('Nuovo primo.\n\nNuovo secondo.'), ['Nuovo primo.', 'Nuovo secondo.']);
+  // Un titolo in mezzo invece vuol dire due capitoli insieme, e lo si dice.
+  assert.throws(() => tutto('Primo.\n\n## 7. Altro capitolo\n\nSecondo.'), /titolo del capitolo/);
+  assert.throws(() => testoValido('## 7. Altro capitolo'), /titolo del capitolo/);
+  assert.equal(testoValido('  Un paragrafo.  '), 'Un paragrafo.');
+});
+
 test('il ripristino trova il blocco che tiene quel paragrafo', async () => {
   const { bloccoDelPassaggio } = await import('./ui/pendenti.mjs');
   const bozza = { id: 'b1', blocchi: [{ riga: 30, fine: 32, prima: ['Vecchio.'], dopo: ['Nuovo.'] }] };

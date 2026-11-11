@@ -29,9 +29,12 @@ function numero(n) {
 
 function testoValido(testo) {
   if (typeof testo !== 'string' || !testo.trim() || testo.length > 25000 || /[\r\n\0]/.test(testo) ||
-      /^\s*#/.test(testo) || /^\s*-{3,}/.test(testo) && !eStacco(testo)) {
+      /^\s*-{3,}/.test(testo) && !eStacco(testo)) {
     throw errore(400, 'Scrivi un paragrafo su una riga.');
   }
+  // Il titolo sta nel file, non fra i paragrafi. Quello in cima all'incollato lo toglie bloccoValido;
+  // se ne arriva un altro vuol dire che la selezione ha preso due capitoli, e conviene dirlo.
+  if (/^\s*#/.test(testo)) throw errore(400, 'Il titolo del capitolo non si corregge da qui: togli la riga che comincia con #.');
   return eStacco(testo) ? '---' : testo.trim();
 }
 
@@ -69,7 +72,10 @@ function bloccoValido(capitolo, riga, fine, testo) {
   const prima = righe.flatMap((p, i) => i && p.stacco ? ['---', p.testo] : [p.testo]);
   const blocco = capitolo.righe.slice(riga * 2, fine * 2 + 1).join('');
   if (/^#{1,6}\s/m.test(blocco)) throw errore(400, 'Seleziona paragrafi dello stesso capitolo.');
-  const dopo = testo.trim().split(/\r?\n(?:[ \t]*\r?\n)+/).map(t => testoValido(t.replace(/\s*\r?\n\s*/g, ' ')));
+  // Chi copia un capitolo intero si porta dietro la riga del titolo: non è un paragrafo e nel file c'è
+  // già, quindi si toglie invece di rifiutare tutto quello che è stato incollato.
+  const senzaTitolo = testo.trim().replace(/^#{1,6}[^\r\n]*(?:[ \t]*\r?\n)+/, '');
+  const dopo = senzaTitolo.split(/\r?\n(?:[ \t]*\r?\n)+/).map(t => testoValido(t.replace(/\s*\r?\n\s*/g, ' ')));
   return { riga, fine, ordine, prima, dopo };
 }
 
