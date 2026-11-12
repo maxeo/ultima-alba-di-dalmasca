@@ -40,7 +40,8 @@ for (const arg of process.argv.slice(2)) {
     if (r.startsWith('# ')) { out.push(r.slice(2).replace(/\.$/, '') + '.', '[pause:2]'); continue; }
     if ((m = r.match(/^## (\d+)\. (.+)$/))) { out.push('[pause:2]', `Capitolo ${ordinale(+m[1])}: ${m[2]}.`, '[pause:2]'); continue; }
     if (/^-{3,}$/.test(r)) { out.push('[pause:2]'); continue; }
-    out.push(r.replace(/[*_]/g, '').replace(/[«»]/g, ''));
+    // Il > che in Markdown apre una citazione non si legge ad alta voce.
+    out.push(r.replace(/^>\s+/, '').replace(/[*_]/g, '').replace(/[«»]/g, ''));
   }
   // Dopo un paragrafo breve (una battuta di dialogo) il paragrafo seguente si attacca con un solo a capo:
   // lo scambio di battute diventa un paragrafo unico, senza la pausa lunga tra l'una e l'altra.

@@ -51,9 +51,11 @@ function sincronizza(f, cue) {
     righe.push(r); dopoStacco.push(stacco); stacco = false;
   }
   // Paragrafo tutto in corsivo: citazione (cit); se è breve e senza punto finale, è la firma della citazione (firma).
+  // Lo è anche una riga che comincia con >, come i proclami: è il modo di scrivere una citazione in Markdown.
   const stile = (r, i) => {
     const o = dopoStacco[i] ? { st: 1 } : {};
-    if (/^\*[^*][\s\S]*\*$/.test(r)) { if (r.length < 90 && !/[.!?…»]\*$/.test(r)) o.firma = 1; else o.cit = 1; }
+    if (/^>\s/.test(r)) o.cit = 1;
+    else if (/^\*[^*][\s\S]*\*$/.test(r)) { if (r.length < 90 && !/[.!?…»]\*$/.test(r)) o.firma = 1; else o.cit = 1; }
     return o;
   };
   const letti = fs.readFileSync(path.join(TESTO, f + '.txt'), 'utf8').split(/\n+/).map(r => r.trim())
@@ -62,7 +64,7 @@ function sincronizza(f, cue) {
   if (righe.length !== letti.length) return piano();
   const par = righe.map((r, i) => /^#/.test(r)
     ? { h: 1, s: nomi(letti[i]) }
-    : { s: r.replace(/[*_]/g, ''), ...stile(r, i) });
+    : { s: r.replace(/^>\s+/, '').replace(/[*_]/g, ''), ...stile(r, i) });
 
   let p = 0, pos = 0;
   const avanza = quante => { // Prende dal paragrafo corrente fino a contare quante lettere.
