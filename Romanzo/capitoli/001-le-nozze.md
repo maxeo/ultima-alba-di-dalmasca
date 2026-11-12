@@ -54,6 +54,8 @@ La folla rise. La principessa, invece, no. Sotto il velo faceva caldo, e il mond
 
 «Ti vedono.»
 
+«Mi vedono felice. È il mio compito di oggi.»
+
 Da un balcone poco più avanti, tre donne anziane si erano sporte per salutare gli sposi. Una di loro agitava un fazzoletto, mentre un'altra, con le mani attorno alla bocca, gridò in dialetto:
 
 «Principessa! Stanotte non lasciatelo dormire!» Le altre due scoppiarono a ridere, agitando i fazzoletti verso la carrozza. Il cocchiere abbassò appena la testa, fingendo di non aver sentito.
@@ -94,7 +96,7 @@ Ashelia B'nargin Dalmasca, unica erede di re Raminas, era cresciuta in un palazz
 
 «Lo so dov'è. Ti ho chiesto se è della misura giusta. Ieri non hai voluto mostrarmelo, e la mia sarta dice che una sposa deve...»
 
-«La tua sarta dice molte cose.» Rasler salutò un soldato di guarnigione che piangeva apertamente, appoggiato alla lancia. «Comunque, non preoccuparti. La misura l'ho presa io.»
+«La tua sarta dice molte cose.» Rasler salutò un soldato di guarnigione che piangeva apertamente, appoggiato alla lancia. «Comunque, non preoccuparti. La misura l'ho presa io, con la massima cura.»
 
 «Davvero? Come?»
 
@@ -108,7 +110,7 @@ Ashe si voltò verso di lui, dimenticando per un momento la folla.
 
 «Un mio guanto?»
 
-«Ho chiesto alla tua cameriera di prestarmene uno. Ho avvolto un filo attorno all'anulare, fatto un nodo e portato tutto all'orafo.»
+«Ho chiesto alla tua cameriera di prestarmene uno. Le ho fatto promettere di non dirtelo. Ho avvolto un filo attorno all'anulare, fatto un nodo e portato tutto all'orafo.»
 
 Ashe lo fissò.
 
