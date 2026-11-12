@@ -1,5 +1,27 @@
 {
  "capitolo": "006-la-morte-di-un-regno",
- "somiglianza": 0.971,
- "problemi": []
+ "somiglianza": 0.9571,
+ "problemi": [
+  {
+   "tempo": "9:13",
+   "secondi": 553.1,
+   "tipo": "in più",
+   "testo": "un istante si lo scrivano continuo",
+   "audio": "un istante. «Sì, mi sento ne alisano bocraton per evadere. Deglio so il sepoto ne abbranto analese no conoscetevi». Lo scrivano, continuò"
+  },
+  {
+   "tempo": "21:33",
+   "secondi": 1293.4,
+   "tipo": "in più",
+   "testo": "lungo papa mormoro si era sua",
+   "audio": "lungo papà mormorò di condisse il mura che sulleva sì era sua"
+  },
+  {
+   "tempo": "23:28",
+   "secondi": 1408.7,
+   "tipo": "in più",
+   "testo": "a lui fino alla fine non",
+   "audio": "a lui fino alla fine ponodido alla fine non"
+  }
+ ]
 }

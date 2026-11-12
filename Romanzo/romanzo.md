@@ -1732,7 +1732,7 @@ Le discussioni riguardavano soprattutto la morte del sovrano.
 
 C'era chi sosteneva che gli imperiali lo avessero assassinato perché aveva rifiutato di firmare la resa. Altri pensavano che fosse morto durante un tentativo di fuga e che Archadia avesse inventato la storia del traditore per nascondere la propria responsabilità.
 
-«E dovremmo credergli?» domandò un venditore di stoffe, indicando uno dei proclami. «Prima ci prendono il regno, poi ci dicono che il nostro re è stato ucciso da uno dei suoi?»
+«E dovremmo credergli?» domandò un venditore di stoffe, indicando uno dei proclami. «Prima ci prendono il regno, poi ci dicono che il nostro re è stato ucciso da uno dei nostri?»
 
 Non tutti erano così sicuri. Qualcuno ricordava che a Nalbina erano rimasti soldati dalmaschi e che, in mezzo alla disperazione di una sconfitta, poteva essere accaduto qualsiasi cosa.
 
@@ -1886,15 +1886,9 @@ L'ufficiale non rispose. Raccolse le carte e fece cenno allo scrivano di seguirl
 
 Reks rimase a fissare la porta.
 
-Continuava a tornargli in mente qualcosa di quella notte, un particolare che gli era sembrato strano. Ma ogni volta che cercava di ricordarlo, il pensiero si confondeva con il dolore, le candele e il volto del capitano.
+Aveva risposto a tutte le domande, raccontando ancora una volta ciò che era accaduto nella fortezza. Era stanco, e il dolore alla ferita cominciava a farsi sentire.
 
-Alla fine smise di provarci.
-
-La sua testimonianza, invece, non aveva niente di confuso.
-
-Gli ufficiali disponevano ormai delle parole di un soldato dalmasco che aveva visto il proprio capitano uccidere il re.
-
-E quelle parole sarebbero state sufficienti.
+Si sistemò come meglio poteva sul cuscino e chiuse gli occhi.
 
 ---
 
@@ -1988,239 +1982,167 @@ Il leone di pietra che sovrastava l'ingresso del palazzo rimase dov'era. Era tro
 
 Sotto quel leone, le guardie dalmasche furono sostituite da soldati dell'Impero.
 
-Nella sala del consiglio, intanto, il tesoriere Ostram aspettava ancora istruzioni.
+Nella sala del consiglio, Ostram era ancora seduto davanti alla grande mappa di pelle di capra.
 
-Era seduto davanti alla grande mappa di pelle di capra, quella che per anni aveva utilizzato durante le riunioni del re. Sopra erano disposti piccoli pesi d'ottone, ciascuno con il simbolo di un regno o di una provincia.
+Quando entrò il tribuno archadiano, si alzò per salutarlo. L'ufficiale era giovane, portava guanti bianchi ed era accompagnato da un segretario con una cartella di cuoio.
 
-Quando entrò il tribuno incaricato di riorganizzare gli uffici, Ostram si alzò.
+«Ostram, tesoriere della corona» si presentò.
 
-L'ufficiale era giovane, con i guanti bianchi e una cartella di documenti affidata a un segretario.
+«Bene. Avremo bisogno dei registri.»
 
-«Siete il tesoriere?»
+Il tribuno si avvicinò alla mappa. Osservò per qualche istante i piccoli pesi d'ottone, poi raccolse quelli di Nabradia e Dalmasca e li consegnò al segretario.
 
-«Ostram, al servizio della corona di Dalmasca.»
+Ostram seguì il gesto senza parlare.
 
-Il tribuno guardò la stanza, poi la mappa.
+«Potete far portare via anche questa» aggiunse l'ufficiale, indicando la mappa. «Non ci servirà.»
 
-«Da oggi sarete al servizio dell'amministrazione imperiale. I registri rimarranno qui. Avremo bisogno di esaminare le entrate della città e le proprietà della famiglia reale.»
+«Certamente.»
 
-Ostram annuì.
+Il tribuno gli consegnò alcune disposizioni scritte e lasciò la stanza.
 
-L'ufficiale si avvicinò alla mappa e cominciò a raccogliere i pesi che rappresentavano Nabradia e Dalmasca. Li consegnò al segretario, che li ripose nella cartella.
+Ostram rimase davanti al tavolo. I pesi di Archadia occupavano ancora le loro posizioni, gli stessi undici cilindri che aveva spostato tante volte davanti a re Raminas.
 
-Lasciò al loro posto quelli di Archadia.
+Pochi giorni dopo, mentre compilava l'inventario del palazzo, arrivò agli appartamenti della principessa.
 
-Ostram seguì il movimento delle sue mani.
+Le stanze erano state lasciate in ordine. Gli abiti erano ancora negli armadi e alcuni mobili erano coperti da teli per proteggerli dalla polvere.
 
-«Nel trattato precedente si era parlato di un'autonomia» disse.
+In un mobile della camera nuziale trovò una cassetta foderata di velluto. Conteneva due calici di cristallo, con lo stemma imperiale inciso sul piede.
 
-Il tribuno si voltò.
+Li ricordava. Erano stati consegnati dall'ambasciatore di Archadia durante il banchetto delle nozze.
 
-«Quale trattato?»
+Li esaminò alla luce della finestra. Erano entrambi intatti e non sembravano essere mai stati usati.
 
-«Quello che il re avrebbe dovuto firmare a Nalbina. Le amministrazioni locali, i templi, le nostre usanze...»
+Ostram li ripose nella cassetta, prese il registro e scrisse:
 
-«Il re non ha firmato alcun trattato.»
+*Due calici di cristallo. Dono della corte imperiale. Da restituire.*
+
+Poi passò alla stanza successiva.
+
+---
+
+All'inizio Vaan pensò che Reks avrebbe avuto soltanto bisogno di tempo.
+
+La ferita al ventre era grave, ma suo fratello era tornato da Nalbina. Aveva parlato, aveva scherzato sui suoi capelli e gli aveva perfino promesso, ancora una volta, di accompagnarlo dal barbiere.
+
+Poi arrivò la febbre.
+
+Reks cominciò a dormire sempre più a lungo. A volte si svegliava agitato, chiamava qualcuno che non era nella stanza e cercava di alzarsi, dimenticando la ferita che aveva al ventre.
+
+Vaan imparò a calmarlo, ma non sempre ci riusciva.
+
+Un giorno Reks gli chiese dove fosse Migelo. Vaan gli rispose che era alla bottega.
+
+«Devo portargli le casse» disse Reks.
+
+«Ci penso io.»
+
+«No, sono pesanti.»
+
+«Reks, sei ferito.»
+
+Suo fratello lo guardò senza capire.
+
+Pochi minuti dopo dormiva di nuovo.
+
+Migelo chiese ai medici perché stesse succedendo. Ricevette risposte diverse, nessuna definitiva. La ferita sembrava migliorare, ma la febbre tornava, e ogni volta lasciava Reks più debole e confuso.
+
+Quando gli imperiali comunicarono che avrebbero avuto bisogno del letto per altri soldati, Migelo insistette per ottenere il trasferimento.
+
+Fu ricevuto da un funzionario che gli ricordò quanto l'amministrazione imperiale fosse stata generosa nel consentire a un dalmasco di rimanere tanto a lungo nell'infermeria della caserma.
+
+Migelo ascoltò, ringraziò e chiese soltanto dove potesse portarlo.
+
+Dopo alcuni giorni ottenne il permesso di trasferirlo in una stanza tranquilla, presso un'infermeria civile.
+
+Vaan vi sistemò una sedia accanto al letto.
+
+Nella nuova stanza Reks sembrò stare meglio per un pomeriggio. Riuscì a seguire il racconto di una lite fra Migelo e un fornitore e sorrise quando Vaan esagerò la voce del mercante per imitarlo.
+
+Il giorno dopo non ricordava più la conversazione.
+
+Le settimane successive furono peggiori.
+
+Reks cominciò a parlare sempre meno. Quando Vaan gli faceva una domanda, sembrava impiegare uno sforzo enorme per rispondere. A volte apriva la bocca senza riuscire a pronunciare nulla.
+
+Un pomeriggio Vaan gli mostrò la spilla d'argento recuperata dalla giubba.
+
+«Questa l'ho trovata io.»
+
+Reks la guardò a lungo.
+
+«Papà» mormorò.
+
+«Sì. Era sua.»
+
+«Tienila.»
+
+Vaan aspettò che aggiungesse qualcosa, ma suo fratello aveva già distolto lo sguardo.
+
+Dopo un mese non parlava più.
+
+Vaan continuò a tornare ogni giorno, convinto che prima o poi avrebbe pronunciato almeno il suo nome.
+
+Per qualche tempo Reks sembrò ancora riconoscerlo. Quando entrava nella stanza, girava lentamente la testa verso la porta. Qualche volta cercava di muovere una mano.
+
+Poi smise anche di farlo.
+
+Vaan cominciò a chiedersi se suo fratello sapesse ancora che era lì.
+
+Gli raccontava della bottega e di Penelo. Gli parlava dei lavori che Migelo gli affidava e delle cose che vedeva al mercato. Gli ricordava episodi della loro infanzia, sperando che almeno uno riuscisse a raggiungerlo.
+
+Reks non rispondeva.
+
+I mesi passarono senza che nulla cambiasse, se non il suo corpo, che diventava sempre più magro, e il respiro, che a volte sembrava richiedergli tutta la forza rimasta.
+
+Vaan finì per conoscere ogni rumore della stanza. Il cigolio della finestra, i passi dell'infermiera nel corridoio e soprattutto il respiro di Reks, che ascoltava anche mentre faceva finta di occuparsi d'altro.
+
+Ogni tanto gli prendeva la mano e aspettava.
+
+Quando era piccolo, Reks riusciva sempre a capire se qualcosa non andava, anche quando lui si ostinava a dire il contrario.
+
+Adesso Vaan gli parlava per ore senza sapere se venisse ascoltato.
+
+Quasi un anno dopo Nalbina, il respiro di Reks divenne sempre più debole.
+
+Vaan rimase accanto a lui fino alla fine.
+
+Non ci furono ultime parole, né un gesto che potesse interpretare come un saluto.
+
+Per mesi aveva aspettato che suo fratello tornasse a guardarlo.
+
+Alla fine dovette salutarlo senza sapere se lo avesse riconosciuto un'ultima volta.
+
+Nei giorni successivi Vaan tornò alla bottega.
+
+Migelo cercò di affidargli soltanto i lavori più semplici, ma il ragazzo insisteva per occuparsi delle consegne, del magazzino e di qualsiasi altra cosa lo tenesse fuori dalla stanza al piano di sopra.
+
+Quando non aveva niente da fare, usciva per le vie di Rabanastre.
+
+Gli imperiali erano ovunque. Pattugliavano le piazze, controllavano le merci alle porte e passavano davanti alla bottega con le loro armature lucide.
+
+Vaan li guardava senza nascondere il proprio disprezzo.
+
+Ogni tanto riconosceva un'uniforme simile a quella degli uomini che avevano interrogato suo fratello. Allora si fermava e li seguiva con gli occhi finché non sparivano dietro un angolo.
+
+Migelo se ne accorse e cominciò a preoccuparsi.
+
+Una sera lo trovò sul tetto della bottega, seduto con le gambe penzoloni sopra il cortile.
+
+«È tardi» gli disse.
 
 «Lo so.»
 
-«E adesso non c'è più un re con cui trattare.»
+«Domani devi lavorare.»
 
-Ostram abbassò lo sguardo.
+«Lo so.»
 
-«Capisco.»
+Migelo rimase accanto a lui per qualche istante, poi rientrò.
 
-L'ufficiale richiuse la cartella.
+Vaan sollevò gli occhi.
 
-«Ringraziate il vostro capitano per questo.»
+Nel cielo passava un'aeronave imperiale, diretta verso la fortezza. La seguì finché le luci non scomparvero oltre i tetti.
 
-«Lo ringrazierò» rispose Ostram, «se mai avrò occasione di incontrarlo.»
-
-Il tribuno lo osservò, cercando di capire se quella fosse un'insolenza. Ma il tesoriere aveva l'espressione stanca di un uomo troppo vecchio per discutere, e l'ufficiale decise di lasciar perdere.
-
-Gli consegnò un elenco degli incarichi da svolgere e uscì.
-
-Ostram rimase da solo davanti alla mappa.
-
-Dove prima c'erano i simboli dei diversi regni, ora rimanevano soltanto gli undici pesi imperiali.
-
-Non li toccò.
-
----
-
-Nei giorni successivi, Ostram ricevette l'ordine di compilare l'inventario del palazzo per il nuovo governatore.
-
-Lavorò stanza per stanza, registrando mobili, arazzi, candelieri e oggetti preziosi. Ogni cosa doveva essere descritta e valutata, anche quando apparteneva alla famiglia reale da generazioni.
-
-Nell'armeria annotò le spade cerimoniali ancora presenti sulle rastrelliere.
-
-Nella sala del consiglio registrò la grande mappa di pelle di capra e gli undici pesi d'ottone che vi erano rimasti.
-
-Quando raggiunse gli appartamenti della principessa, trovò le stanze in ordine.
-
-I servitori avevano coperto alcuni mobili con dei teli per proteggerli dalla polvere. Gli abiti erano ancora negli armadi e sul tavolino accanto alla finestra c'erano alcune lettere che nessuno aveva avuto il permesso di aprire.
-
-Ostram le registrò senza leggerle.
-
-In un mobile della camera nuziale trovò una cassetta foderata di velluto.
-
-Conteneva due calici di cristallo, sottilissimi, con lo stemma imperiale inciso sul piede.
-
-Li riconobbe.
-
-Erano il dono che l'ambasciatore di Archadia aveva consegnato agli sposi durante il banchetto delle nozze. Ricordava ancora le parole pronunciate in quell'occasione, quando l'ambasciatore aveva paragonato la fragilità del cristallo a quella della pace.
-
-Ostram sollevò uno dei calici e lo esaminò alla luce della finestra.
-
-Era intatto.
-
-Anche l'altro.
-
-Non erano mai stati usati.
-
-Li ripose nella cassetta e annotò sul registro:
-
-*Due calici di cristallo, dono della corte imperiale. Da restituire.*
-
-Poi richiuse il mobile e passò alla stanza successiva.
-
----
-
-Reks rimase nell'infermeria per molti mesi.
-
-La ferita al ventre si richiuse lentamente, ma il ragazzo non recuperò mai davvero le forze. Ci furono settimane in cui sembrò migliorare e altre in cui la febbre lo costrinse nuovamente a letto.
-
-Migelo pagò quanto poteva per le cure e si occupò delle pratiche necessarie a ottenere il trasferimento di Reks in una stanza più tranquilla, lontano dai soldati imperiali che andavano e venivano dalla caserma.
-
-Vaan passava da lui quasi ogni giorno.
-
-Portava del pane, qualche frutto rubato alle proprie razioni e le notizie della bottega. Gli raccontava dei clienti, delle discussioni di Migelo con i fornitori e di Penelo, che continuava a passare a chiedere come stesse.
-
-Nei giorni migliori Reks lo ascoltava e ogni tanto rideva.
-
-Una volta gli chiese se si fosse finalmente fatto sistemare i capelli.
-
-«Da solo» rispose Vaan.
-
-«Non ci credo.»
-
-«Mi ha aiutato Penelo.»
-
-«Allora forse ci credo.»
-
-Vaan sorrise. Poi si accorse che Reks aveva già chiuso gli occhi.
-
-Con il passare dei mesi, quei momenti divennero sempre più rari.
-
-Reks parlava meno. A volte rimaneva sveglio per ore senza prestare attenzione a ciò che accadeva attorno a lui. Altre volte sembrava non riconoscere subito le persone che entravano nella stanza.
-
-Vaan continuò a fargli visita.
-
-Aveva portato a casa la giubba azzurra che gli avevano restituito dopo il trasferimento da Nalbina. La manica destra mancava ancora, e sul petto c'era la piccola spilla d'argento del padre, rimasta al suo posto nonostante tutto.
-
-La tolse con attenzione e la conservò.
-
-Un giorno chiese a Reks se la rivolesse.
-
-Suo fratello la guardò per qualche istante.
-
-«Tienila tu.»
-
-«È tua.»
-
-«Era di papà.»
-
-Vaan abbassò gli occhi sulla spilla.
-
-«Allora è anche tua» aggiunse Reks.
-
-Vaan la chiuse nel palmo.
-
-Non parlarono più di quella notte.
-
-Reks aveva già raccontato abbastanza, agli ufficiali imperiali e a chiunque fosse venuto a chiedergli della morte del re. Vaan conosceva la sua versione e non aveva bisogno di sentirla di nuovo.
-
-Gli bastava sapere che suo fratello si era fidato del capitano Basch, e che quella fiducia gli era costata tutto.
-
-Quando, quasi un anno dopo Nalbina, le condizioni di Reks peggiorarono definitivamente, Vaan era seduto accanto a lui.
-
-Non ci fu un ultimo discorso.
-
-Reks era troppo debole per parlare e da qualche giorno sembrava non rendersi più conto di dove si trovasse.
-
-Vaan rimase a tenergli la mano.
-
-Il medico gli disse che poteva andare a riposare, ma lui scosse la testa.
-
-Aveva aspettato suo fratello una volta, nella stanza sopra la bottega, e non voleva più svegliarsi scoprendo che se n'era andato senza salutarlo.
-
-Quella notte non si mosse dal suo fianco.
-
----
-
-Nelle cucine del palazzo, intanto, la vecchia cuoca continuava a lavorare come aveva fatto per quarant'anni.
-
-Aveva servito tre generazioni della famiglia reale e conosceva le abitudini di ogni membro della casa. Sapeva quali piatti piacevano al re, quali spezie la principessa non sopportava e quali dolci i servitori dovevano nascondere quando Ashe era bambina.
-
-Era la stessa donna che, durante il banchetto nuziale, era uscita in cortile con il grembiule ancora addosso per insegnare agli sposi una danza che nessuno dei due conosceva.
-
-Aveva sentito il proclama del marchese Ondore dalla finestra della dispensa.
-
-Non aveva pianto.
-
-Quando le giovani aiutanti avevano cominciato a raccontarsi come la principessa potesse essersi tolta la vita, le aveva rimandate al lavoro.
-
-Non aveva discusso con loro, né aveva cercato di convincerle del contrario.
-
-Ma da quel giorno aveva preso un'abitudine.
-
-Ogni tanto preparava un piatto di cibo e lo lasciava nella dispensa, sul ripiano più alto, lontano dagli scaffali utilizzati dai nuovi cuochi imperiali.
-
-Una focaccia, del formaggio, qualche dattero. Cose semplici, che si conservavano abbastanza a lungo e che potevano essere sostituite senza attirare l'attenzione.
-
-Quando il cibo diventava vecchio, lo portava via e ne preparava dell'altro.
-
-Un giorno, mentre sistemava il piatto, un cuoco archadiano la sorprese.
-
-«Per chi è quello?»
-
-«Per nessuno.»
-
-L'uomo guardò il piatto, poi lei.
-
-«Allora perché continuate a prepararlo?»
-
-La vecchia richiuse la credenza.
-
-«Perché è il mio lavoro.»
-
-«Il palazzo non ospita più la famiglia reale.»
-
-«Questo lo so.»
-
-«E la principessa è morta.»
-
-La cuoca si voltò.
-
-Per un momento sembrò sul punto di rispondere bruscamente, ma si limitò a guardare l'uomo.
-
-«Io l'ho vista ballare, quella ragazza» disse infine. «La sera delle nozze. Aveva un anello troppo largo e teneva la mano chiusa per paura di perderlo.»
-
-Il cuoco rimase in silenzio.
-
-«Aveva appena sposato un uomo che amava, e rideva come se per una sera non ci fosse niente di cui preoccuparsi. Poi ha perso tutto, lo so.»
-
-La vecchia sistemò il grembiule.
-
-«Ma la conosco da quando era abbastanza piccola da nascondersi sotto i tavoli di queste cucine. E conosco la differenza fra una ragazza che ha smesso di voler vivere e una che non sa ancora come andare avanti.»
-
-«Il marchese ha detto...»
-
-«Il marchese scrive bene.»
-
-La cuoca tornò ai fornelli.
-
-«Ma quella sera, alle nozze, non c'era.»
+Rimase ancora un po' a guardare il cielo. Gli sarebbe piaciuto poter raccontare a Reks di quell'aeronave, chiedergli dove pensasse fosse diretta. Suo fratello avrebbe probabilmente saputo rispondere, o avrebbe inventato qualcosa pur di accontentarlo. Vaan sorrise appena, poi tornò a osservare le stelle.
 
 
 # Parte I. Il ladro di Rabanastre
