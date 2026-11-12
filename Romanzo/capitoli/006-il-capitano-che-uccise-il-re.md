@@ -1,4 +1,4 @@
-## 6. L'uomo che uccise il re
+## 6. La scala
 
 Il primo soldato archadiano raggiunse la scala con lo scudo sollevato. Quando vide Reks ad aspettarlo qualche gradino più in alto, rallentò appena, poi riprese a salire.
 

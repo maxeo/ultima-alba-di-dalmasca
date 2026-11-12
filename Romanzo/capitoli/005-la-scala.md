@@ -1,4 +1,4 @@
-## 5. La scala
+## 5. Il nodo
 
 Poco prima di mezzanotte, i venti uomini scelti da Basch si ritrovarono nel cortile della caserma. I chocobo erano già sellati, e il furiere controllava le ultime provviste alla luce di una lanterna.
 
@@ -18,7 +18,7 @@ Gli altri parevano molto meno preoccupati. Un sergente si era addormentato con l
 
 Reks li osservò per qualche minuto, poi tornò a controllare la propria spada.
 
-«È inutile continuare a guardarla» disse Orren, senza alzare gli occhi dai dadi. «Non diventerai più bravo se la osservi solo.»
+«È inutile continuare a guardarla» disse Orren, senza alzare gli occhi dai dadi. «Non diventerai più bravo se rimani a osservarla.»
 
 Reks rimise la lama nel fodero.
 
@@ -154,7 +154,7 @@ Il capitano lo aiutò ad alzarsi. Reks barcollò appena, ma riuscì a reggersi s
 
 «Mio fratello. Si chiama Vaan. Ha quindici anni.»
 
-«È lui quello che vive con te sopra la bottega?»
+«Vivi con lui quello che vive con te sopra la bottega del mercante?»
 
 «Sì, capitano.»
 

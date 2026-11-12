@@ -9,8 +9,8 @@ di questi meccanismi si aggiorna anche questo file.
 ## Dal capitolo all'audio
 
 - Il testo sta in `Romanzo/capitoli/NNN-slug.md`, prima riga `## N. Titolo` (o `# Parte …` / `# Epilogo` /
-  `# Appendice apocrifa`, con il `## N.` più sotto). Lo slug non è il titolo: `005-il-capitano-che-uccise-il-re.md`
-  si intitola «L'uomo che uccise il re».
+  `# Appendice apocrifa`, con il `## N.` più sotto). Lo slug non è il titolo: `006-il-capitano-che-uccise-il-re.md`
+  si intitola «La scala».
 - `Audiolibro/prepara.js N` → `Audiolibro/testo/NNN-slug.txt`. Il titolo **si legge ad alta voce**
   («Capitolo quinto: …», `ordinale()` regge fino a 114 e oltre): cambiare numero a un capitolo vuol dire rifare
   quella frase dell'audio.

@@ -1,6 +1,6 @@
 ## 4. Reks
 
-Il capitano Basch lesse la lista all'alba, seduto su un barile in mezzo al cortile della caserma, con il furiere accanto che gli teneva la lanterna. Si erano presentati in ventidue, la notte prima, quando un sergente era passato per le camerate a dire che il capitano cercava volontari per un'uscita e che non avrebbe detto dove. Due uomini il capitano li aveva mandati via quella notte stessa: un sergente con il braccio al collo e un vecchio delle scuderie. Reks si era aspettato di essere il terzo. Reks stava in terza fila. Era alto per i suoi diciassette anni, con i capelli così chiari che in Città Bassa li chiamavano capelli di sale.
+Il capitano Basch lesse la lista all'alba, seduto su un barile in mezzo al cortile della caserma, con il furiere accanto che gli teneva la lanterna. Si erano presentati in ventidue, la notte prima, quando un sergente era passato per le camerate a dire che il capitano cercava volontari per un'uscita e che non avrebbe detto dove. Due uomini il capitano li aveva mandati via quella notte stessa: un sergente con il braccio al collo e un vecchio delle scuderie. Reks si era aspettato di essere il terzo. Stava in terza fila. Era alto per i suoi diciassette anni, con i capelli così chiari che in Città Bassa li chiamavano capelli di sale.
 
 Il capitano leggeva i nomi senza alzare la voce, e a ogni nome un uomo usciva dalle file e andava a mettersi contro il muro del pozzo. Il primo fu Orren, un cavaliere anziano con le guance scavate che in caserma aveva fama di non aver mai perso né una battaglia né una partita a dadi. Reks teneva il conto man mano che venivano chiamati. Al quindicesimo il capitano si fermò.
 
@@ -184,7 +184,7 @@ Reks provò a tirare delicatamente la spilla. Sembrava tenere.
 
 Reks sorrise. «Sei proprio deciso a portarmi sfortuna, stasera.»
 
-Vaan non rispose subito. Rimase a guardare fuori dalla finestra, poi si allontanò e venne a sedersi sulla branda accanto al fratello. Si lasciò cadere con tutto il peso, facendo gemere il legno.
+Vaan non rispose subito. Rimase a guardare fuori dalla finestra, poi si allontanò e venne a sedersi sulla branda accanto al fratello. Si lasciò cadere con tutto il peso, facendo risuonare il legno.
 
 «Ma perché devi partire proprio tu?» chiese.
 

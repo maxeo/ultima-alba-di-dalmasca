@@ -357,7 +357,7 @@ Raminas osservò la figlia ballare finché la musica non cominciò a rallentare.
 
 ## 2. La barriera di Nalbina
 
-Sul grande tavolo della sala del consiglio c'era una mappa di Ivalice dipinta su pelle di capra, e sopra la mappa c'erano i pesi. Erano piccoli cilindri d'ottone, ciascuno con un'insegna incisa sulla testa, e servivano a segnare dove stavano gli eserciti; li aveva fatti fare il nonno di Raminas, che amava le cose precise, e da allora nessuno aveva avuto il coraggio di sostituirli con qualcosa di più moderno. Quelli di Dalmasca erano lucidi di mani. Quello di Nabradia, che negli ultimi mesi i consiglieri avevano spostato avanti e indietro lungo il confine orientale a ogni dispaccio, era il più lucido di tutti. Quelli di Archadia erano undici, e restavano opachi per quanto li spostassero. Forse era l'ottone, che veniva da un'altra fusione. Forse erano le mani, che li toccavano malvolentieri. A palazzo nessuno se l'era mai chiesto davvero.
+Nella sala del consiglio del palazzo reale di Rabanastre, sul grande tavolo c'era una mappa di Ivalice dipinta su pelle di capra, e sopra la mappa c'erano i pesi. Erano piccoli cilindri d'ottone, ciascuno con un'insegna incisa sulla testa, e servivano a segnare dove stavano gli eserciti; li aveva fatti fare il nonno di Raminas, che amava le cose precise, e da allora nessuno aveva avuto il coraggio di sostituirli con qualcosa di più moderno. Quelli di Dalmasca erano lucidi di mani. Quello di Nabradia, che negli ultimi mesi i consiglieri avevano spostato avanti e indietro lungo il confine orientale a ogni dispaccio, era il più lucido di tutti. Quelli di Archadia erano undici, e restavano opachi per quanto li spostassero. Forse era l'ottone, che veniva da un'altra fusione. Forse erano le mani, che li toccavano malvolentieri. A palazzo nessuno se l'era mai chiesto davvero.
 
 Sei giorni dopo le nozze, a notte fonda, il re li stava guardando da un'ora.
 
@@ -379,13 +379,13 @@ Tutti si voltarono. Ostram arrossì fino alle orecchie, ma continuò.
 
 «Ho solo detto Rozarria. Se scrivessimo oggi a Rozarria...»
 
-«Una lettera per Rozarria ci mette una settimana ad arrivare, e la risposta un mese, perché a Rozarria la fretta la considerano una mancanza di stile. E si apre sempre con un "considerata la delicatezza del momento"» disse il cancelliere, raddrizzando un foglio che era già dritto. «Conosco lo stile. Ho conservato le loro lettere degli ultimi vent'anni. Sono bellissime.»
+«Una lettera per Rozarria ci mette una settimana ad arrivare, e la risposta un mese, perché a Rozarria la fretta la considerano una mancanza di stile. E si apre sempre con un "considerata la delicatezza del momento"» disse il cancelliere, raddrizzando un foglio che era già dritto. «Conosco lo stile. Ho conservato le loro lettere degli ultimi vent'anni. Scrivono pagine magnifiche per non dire assolutamente niente.»
 
 «Allora trattiamo con Archadia.»
 
 «Con che cosa, Ostram? Con il grano della dote?»
 
-Il tesoriere aprì la bocca, la richiuse, e guardò Rasler. Il principe, che fino a quel punto non aveva detto niente, sorrise appena, per gentilezza. Era la prima volta in sei giorni che qualcuno, in quella sala, nominava la dote senza imbarazzo. Raminas sollevò una mano, e tutti tacquero.
+Il tesoriere aprì la bocca, la richiuse e guardò Rasler. Il principe, che fino a quel momento non aveva detto niente, accennò un sorriso cortese. Era la prima volta dalle nozze che qualcuno si permetteva di scherzare sulla dote davanti a lui. Raminas sollevò una mano, e tutti tacquero.
 
 «Ostram ha ragione su una cosa» disse il re. «Archadia tratta. Tratta sempre. È il suo modo di fare la guerra senza pagarla.» Prese uno dei pesi archadiani, lo soppesò, lo rimise sul dispaccio. «Ma tratta dopo. Non prima.»
 
@@ -399,7 +399,7 @@ Il maresciallo fece con la gola il rumore che faceva prima di gridare un ordine,
 
 «È impossibile» disse Raminas. Lo disse piano, e intanto cercava con gli occhi, sulla mappa, il peso di Nabradia. «Nabudis ha mura doppie. Ha la guardia reale e tutta la cavalleria del nord. L'ultimo dispaccio diceva che gli archadiani erano ancora sulla riva sbagliata del fiume.»
 
-«L'ultimo dispaccio aveva nove giorni, maestà. Questo ne ha tre.» Basch porse il cilindro. «Sono andato di persona a prenderlo al guado. Il corriere che lo portava è morto lì, alla stazione di posta, di fatica. Ha cavalcato quattro chocobo.»
+«L'ultimo dispaccio aveva nove giorni, maestà. Questo ne ha tre. È stato scritto da un avamposto sulla strada a sud di Nabudis.» Basch porse il cilindro. «Sono andato di persona a prenderlo al guado. Il corriere che lo portava è morto lì, alla stazione di posta, di fatica. Ha cavalcato quattro chocobo.»
 
 «Mio padre» disse Rasler.
 
@@ -411,17 +411,21 @@ Basch si voltò verso di lui e ci mise troppo, a rispondere.
 
 «Come non lo sai?»
 
-«Non lo sa nessuno. È questo che non va, in tutta la faccenda.» Basch si passò una mano sulla barba, e la polvere gli rimase sulle dita. «Non ci sono superstiti. Voglio dire che non ce ne sono di attendibili. Non c'è un ufficiale fuggito con i suoi uomini, né un corriere del palazzo, e nemmeno un cittadino scappato con il carro. Una città di quella grandezza, quando cade, manda gente sulle strade per settimane. Nabudis non ha mandato nessuno.»
+«Non lo sa nessuno. È questo che non va, in tutta la faccenda.» Basch si passò una mano sulla barba, e la polvere gli rimase sulle dita. «Sono arrivati dei profughi dai villaggi vicini. Raccontano di un bagliore sopra Nabudis, seguito da un boato che hanno sentito a molte leghe di distanza. Quando sono saliti sulle colline per vedere cosa fosse successo, la città era scomparsa dietro una nube.»
 
-«Qualcuno ci sarà» disse Vossler.
+«E quelli che erano dentro?» chiese Vossler.
 
-«Un soldato. Lo hanno trovato i nostri esploratori a un giorno dal confine, che camminava verso sud senza elmo e senza armi. Non sapeva come si chiamava.» Basch guardò il cilindro, che il re non aveva ancora aperto. «Ripeteva una cosa sola. Che gli uccelli erano caduti tutti insieme. Dagli alberi, dai tetti, dal cielo. Tutti insieme, e senza un segno addosso.»
+«Non ne abbiamo trovato nessuno. Né soldati, né mercanti, né un solo abitante. Le strade che portano alla capitale sono piene di gente in fuga, ma nessuno di quelli che abbiamo interrogato viene dalla città stessa.»
+
+«Qualcuno deve aver visto qualcosa» disse Raminas.
+
+«Un soldato di Nabradia. Era di pattuglia fuori dalle mura. I nostri esploratori lo hanno trovato che camminava verso sud, senza elmo e senza armi. Non ricordava nemmeno il proprio nome.» Basch esitò. «Continuava a ripetere che gli uccelli erano caduti tutti insieme. Dagli alberi, dai tetti, dal cielo. Tutti insieme, e senza un segno addosso.»
 
 Il cancelliere Halvor si fece il segno della Madre, di nascosto, con la mano sotto il tavolo.
 
 «E l'altro» disse Raminas, che aveva rotto il sigillo e stava leggendo. «Qui parla di un prigioniero archadiano.»
 
-«Un esploratore della loro avanguardia, maestà. Si è perso nella sabbia e si è fatto prendere quasi volentieri. Racconta che uno dei loro Giudici Magister era entrato in città con i primi reparti: i reparti sono usciti, e lui no. Lo stanno cercando. Il prigioniero dice che i Giudici non sanno dove sia, e che la cosa li spaventa più della battaglia.»
+«Un esploratore della loro avanguardia, maestà. Si è perso nella sabbia e si è fatto prendere quasi volentieri. Racconta che uno dei loro Giudici Magister era entrato in città con i primi reparti. Da allora non ne hanno più notizie. Lo stanno cercando. Il prigioniero dice che i Giudici non sanno dove sia, e che la cosa li spaventa più della battaglia.»
 
 «Come si chiama?»
 
@@ -429,9 +433,25 @@ Il cancelliere Halvor si fece il segno della Madre, di nascosto, con la mano sot
 
 Rasler aveva appoggiato le mani sul tavolo, accanto al peso di Nabradia. Lo prese e lo girò fra le dita: era tiepido sui fianchi, dove lo avevano spostato tante mani, e freddo sotto. Lo rimise giù in un punto della mappa che non era più un confine.
 
-«Allora resta Nalbina» disse il maresciallo, con la sua voce rovinata. Non lo disse a nessuno in particolare, e lo dissero tutti con lui, in un modo o nell'altro, con lo sguardo che andava alla fortezza dipinta sulla pelle di capra. Fra Nabudis e Rabanastre c'era una sola porta, e quella porta aveva un nome.
+«Allora resta Nalbina» disse il maresciallo, con la sua voce rovinata. Non lo disse a nessuno in particolare, e lo dissero tutti con lui, in un modo o nell'altro, con lo sguardo che andava alla fortezza dipinta sulla pelle di capra. Nalbina sorgeva sulla via che da Nabradia conduceva a Rabanastre. Con Nabudis distrutta, quella fortezza era rimasta l'ultimo grande ostacolo fra l'esercito archadiano e la capitale di Dalmasca.
 
-La discussione che seguì durò un'ora, e chi era presente la ricordò poi come la più disordinata della lunga carriera di Raminas. Vossler voleva partire quella notte stessa con tutto ciò che si poteva caricare su un chocobo. Il maresciallo voleva aspettare i rinforzi dal sud, che non sarebbero arrivati prima di dieci giorni. Il cancelliere voleva mandare un'ambasciata ad Archades, e il tesoriere voleva mandarla a Rozarria, e per un breve, terribile quarto d'ora i due vecchi litigarono su quale delle due ambasciate costasse meno, mentre il resto del consiglio guardava il soffitto. Basch non disse quasi nulla. Stava in piedi accanto alla porta, ancora sporco, e ascoltava. Quando il re gli chiese che cosa pensasse, disse che Nalbina poteva reggere se la barriera reggeva; la barriera, se le mura restavano in mano loro; e le mura restavano in mano loro finché c'erano uomini per tenerle.
+unga carriera di Raminas. Vossler voleva partire quella notte stessa con quanti più uomini possibile. Il maresciallo preferiva attendere i rinforzi dal sud, anche se sarebbero arrivati soltanto dopo dieci giorni. Halvor insisteva per mandare un'ambasciata ad Archades, Ostram ne voleva una a Rozarria. A un certo punto i due si misero a discutere delle rispettive spese, dimenticando per qualche minuto perfino il motivo della riunione.
+
+Basch non intervenne. Rimase accanto alla porta, ancora coperto della polvere del viaggio, ad ascoltare gli altri.
+
+«Voi che cosa fareste?» Chiese Raminas  a Bash,
+
+«Difenderei Nalbina, maestà.»
+
+«Per quanto tempo potremo resistere?»
+
+«Finché reggerà la barriera, maestà. Se dovesse cadere, tenteremo di tenere le mura.»
+
+«E dopo?»
+
+«Allora dovremo capire a quali condizioni saranno disposti a fermarsi.»
+
+Raminas annuì lentamente.
 
 «E ci sono, uomini?» chiese il re.
 
@@ -447,7 +467,9 @@ Raminas alzò gli occhi.
 
 «Tuo padre è un uomo testardo» disse Raminas.
 
-«Lo era sempre stato» disse Rasler, e si fermò: del tempo del verbo si era accorto solo dopo averlo usato.
+«Lo era sempre stato» disse Rasler.
+
+Abbassò gli occhi sulla mappa e non aggiunse altro.
 
 Il re lo guardò, e lo guardò ancora, finché il tesoriere non cominciò a pulirsi le dita d'inchiostro sulla manica. Poi si alzò, con fatica, perché a quell'ora le ginocchia gli facevano male, e girò attorno al tavolo fino alla rastrelliera dove stavano appese le spade di cerimonia. Ne staccò una che non era di cerimonia. Aveva l'elsa fasciata di cuoio scuro, consumato, e una lama larga senza ornamenti, salvo una piccola incisione vicino all'impugnatura: il leone di Dalmasca, così sbiadito che bisognava sapere che c'era per vederlo. Il cuoio aveva un avvallamento, lasciato tanto tempo prima dal suo pollice, e il re si accorse che ci entrava ancora.
 
@@ -465,13 +487,13 @@ Aveva saputo della partenza prima della fine del consiglio, perché a palazzo le
 
 «Non sapevo di avere un appuntamento.»
 
-«Adesso lo sai.» Si alzò. Gli guardò l'armatura, la spada, l'elmo, come la sua sarta guardava un orlo storto. «L'elmo ti sta male.»
+«Adesso lo sai.» Si alzò. Gli guardò l'armatura, la spada, poi l'elmo che teneva sotto il braccio. «È proprio necessario quel pennacchio?»
 
-«Lo so. Era di un mio cugino. Aveva la testa più piccola.»
+«L'armaiolo sostiene che mi darà un'aria più autorevole.»
 
-«Si vede.»
+«E tu gli hai creduto?»
 
-«Lo dicevano tutti, del cugino.» Rasler provò a sorridere, e il sorriso gli venne, ma a metà, e lui lo lasciò lì così. «Non dovresti essere qui. C'è un protocollo per queste cose. Credo che la principessa debba stare su un balcone e agitare un fazzoletto.»
+«Non volevo deluderlo.» Rasler provò a sorridere, e il sorriso gli venne, ma a metà, e lui lo lasciò lì così. «Non dovresti essere qui. C'è un protocollo per queste cose. Credo che la principessa debba stare su un balcone e agitare un fazzoletto.»
 
 «Ho la nausea dei balconi.»
 
@@ -517,41 +539,49 @@ La battaglia di Nalbina durò quattro giorni. I primi tre si somigliarono.
 
 Gli archadiani arrivarono da est con le legioni a terra e le aeronavi in cielo, e le aeronavi erano tante che, viste dalle mura, coprivano il sole a strisce, come imposte socchiuse. Bombardarono dal primo mattino al tramonto. Le bombe colpivano la barriera e si aprivano contro di essa in fiori di fuoco bianco, a cento piedi sopra i tetti, senza toccare niente, e il rumore era tale che i soldati sulle mura impararono in un giorno a parlarsi a gesti. La barriera reggeva. Era una cupola che non si vedeva se non quando veniva colpita, sostenuta da venti maghi che si davano il turno sulle torri principali, in piedi dentro cerchi di gesso, con le mani alzate e le labbra che si muovevano senza sosta. Dormivano due ore e tornavano su. Ai soldati di guardia era stato ordinato di non rivolgere loro la parola per nessun motivo, e i soldati, che di solito disprezzavano i maghi, li guardavano ora da lontano, con una specie di timore.
 
-A terra si combatteva davanti alle porte. Le legioni archadiane avanzavano a blocchi, con gli scudi alti e i lanciatori dietro, e venivano respinte, e tornavano, e venivano nuovamente respinte. Rasler combatteva in prima linea, sul chocobo, con la spada di Raminas, e Basch combatteva accanto a lui, perché quello era l'ordine che si era dato da solo il primo giorno, e nessuno glielo aveva revocato. Il principe era bravo. Era più bravo di quanto Basch si aspettasse, rapido, attento, con un modo di girare la cavalcatura nella mischia che si impara solo in un paese di pianure. La sera del secondo giorno sedeva con i soldati attorno al fuoco, a mangiare la stessa zuppa dalla stessa pentola, e sapeva già il nome di metà di loro. Quando qualcuno scherzò sul suo elmo, troppo piccolo, fu il primo a riderne. Basch lo guardava ridere e pensava che un uomo così, in un'altra stagione, sarebbe stato un buon re.
+A terra si combatteva davanti alle porte. Le legioni archadiane avanzavano a blocchi, con gli scudi alti e i lanciatori dietro, e venivano respinte, e tornavano, e venivano nuovamente respinte. La cavalleria dalmasca usciva per respingere gli assalti e ripiegava entro le mura quando gli imperiali tornavano a raccogliere le forze. Rasler combatteva in prima linea, sul chocobo, con la spada di Raminas, e Basch combatteva accanto a lui, perché quello era l'ordine che si era dato da solo il primo giorno, e nessuno glielo aveva revocato. Il principe era bravo. Era più bravo di quanto Basch si aspettasse, rapido, attento, con un modo di girare la cavalcatura nella mischia che si impara solo in un paese di pianure. La sera del secondo giorno sedeva con i soldati attorno al fuoco, a mangiare la stessa zuppa dalla stessa pentola, e sapeva già il nome di metà di loro. Quando qualcuno scherzò sul vistoso pennacchio del suo elmo, fu il primo a riderne. Basch lo guardava ridere e pensava che un uomo così, in un'altra stagione, sarebbe stato un buon re.
 
-La sera del terzo giorno Rasler non rideva più. Era arrivata da nord una colonna di carri con dei feriti nabradiani raccolti per strada, gente che non veniva da Nabudis ma dai villaggi di confine, e nessuno di loro aveva notizie. Uno, un fabbro con la mano fasciata, aveva detto che dalle colline la città non si vedeva più. Non che bruciava. Non si vedeva. Rasler aveva ascoltato tutto con la faccia ferma, poi era salito sulle mura a guardare a nord fino a notte, e Basch era rimasto ai piedi della scala, senza salire, finché non era sceso.
+La sera del terzo giorno Rasler non rideva più. Era arrivata da nord una colonna di carri con dei feriti nabradiani raccolti per strada, gente che non veniva da Nabudis ma dai villaggi di confine, e nessuno di loro aveva notizie. Uno, un fabbro con la mano fasciata, aveva detto che dalle colline la città non si vedeva più. Non che bruciava. Non si vedeva. Rasler aveva ascoltato tutto con la faccia ferma, poi era salito sulle mura a guardare verso nord. Basch lo vide ancora lassù quando venne il momento di cambiare le sentinelle.
 
-Il quarto giorno le aeronavi cambiarono tattica. Smisero di bombardare la barriera e cominciarono a sbarcare uomini.
+Il quarto giorno, dopo un altro scontro davanti alle porte, Basch aveva richiamato i cavalieri entro le mura. Stavano riordinando le file nella piazza d'armi, pronti a tornare fuori, quando le aeronavi cambiarono tattica. Smisero di bombardare la barriera e cominciarono a sbarcare uomini.
 
-Lo fecero dove nessuno se lo aspettava, sulle torri stesse. Le aeronavi più piccole, quelle rapide che gli archadiani usavano per la ricognizione, scesero rasenti alla cupola fino al punto dove questa toccava la pietra, là dove l'incantesimo era più debole perché doveva piegarsi; lì gettarono funi, e lungo le funi scivolarono soldati in armatura leggera, uno dopo l'altro, a decine. Toccavano le mura già con la spada in mano. Andavano dritti verso i cerchi di gesso.
+Lo fecero dove nessuno se lo aspettava, sulle torri stesse. Le aeronavi più piccole, quelle rapide che gli archadiani usavano per la ricognizione, seguirono la curva della cupola fino alle torri, dove il campo si assottigliava e lasciava brevi tratti scoperti contro la pietra. Da lì gettarono funi e calarono soldati in armatura leggera direttamente sui camminamenti, senza dover attraversare la barriera. Toccavano le mura già con la spada in mano. Andavano dritti verso i cerchi di gesso.
 
-Basch lo vide dalla piazza d'armi, dove stava riordinando la cavalleria per una carica. Vide i primi soldati archadiani arrivare sulla torre di nord-est, vide i difensori correre loro incontro e cadere, vide il mago dentro il cerchio continuare a muovere le labbra con le mani alzate mentre la lama lo raggiungeva. Il mago non si difese, perché non avrebbe potuto farlo senza abbassare le mani, e cadde con la bocca ancora aperta sull'ultima parola.
+Basch lo vide dalla piazza d'armi. Vide i primi soldati archadiani arrivare sulla torre di nord-est, vide i difensori correre loro incontro e cadere, vide il mago dentro il cerchio continuare a muovere le labbra con le mani alzate mentre la lama lo raggiungeva. Il mago non si difese, perché non avrebbe potuto farlo senza abbassare le mani, e cadde con la bocca ancora aperta sull'ultima parola.
 
-Sopra la torre di nord-est, la cupola tremò. Per la prima volta in quattro giorni la si vide tutta: una pelle sottile di luce azzurra che andava da un orizzonte all'altro, attraversata da rughe. Poi cadde il mago della torre di nord-ovest. Poi quello della porta grande. Sulle mura, gli altri continuavano a recitare, sempre più in fretta, con le voci che si alzavano e si spezzavano, e uno dopo l'altro venivano raggiunti, e la luce sopra Nalbina si strappò come un velo vecchio e cadde in pezzi che si spensero prima di toccare terra.
+La morte del primo mago fece tremare la barriera. Un'onda azzurra attraversò la cupola, rendendola visibile per intero sopra Nalbina.
+
+Sulla torre di nord-ovest i difensori stavano già cedendo. Un altro mago cadde sotto le spade archadiane e la luce si abbassò, lasciando intravedere le aeronavi che attendevano dall'altra parte.
+
+Gli uomini rimasti sulle mura gridavano ai maghi di resistere. Quelli continuavano a recitare, le mani alzate, mentre gli imperiali avanzavano verso di loro.
+
+Poi cadde il mago della porta principale.
+
+La cupola cominciò a spegnersi a tratti. I cerchi di luce si restringevano, si riaccendevano per un istante e scomparivano di nuovo. Gli ultimi incantesimi non bastarono.
+
+La barriera cedette.
+
+Per la prima volta in quattro giorni, nulla separava Nalbina dalla flotta imperiale.
 
 Le aeronavi archadiane, che non aspettavano altro, aprirono il fuoco tutte insieme.
 
 «Altezza!» Basch aveva girato il chocobo e cercava il principe nel fumo. «Altezza, la barriera è caduta. Dobbiamo ritirarci. Ora.»
 
-Rasler era a venti passi da lui, sulla strada che dalla piazza d'armi portava alla porta nord. Stava fermo e guardava il cielo, dove fino a un istante prima c'era stata la cupola, e dove ora c'erano soltanto le aeronavi, e il fumo, e un sole bianco che entrava nella fortezza per la prima volta dall'inizio dell'assedio.
+Rasler era a venti passi da lui, sulla strada che dalla piazza d'armi portava alla porta nord. Le aeronavi imperiali avevano cominciato a bombardare la fortezza e il fumo saliva dagli edifici colpiti.
 
-«Altezza!»
+«Altezza! Dobbiamo ritirarci!»
 
-«La porta nord» disse Rasler. Non lo disse a Basch. «Di là si va a Nabudis.»
+Una parte del tetto di una caserma crollò sulla strada. Rasler tirò le redini e guidò il chocobo verso destra, dove fra le macerie si apriva ancora un passaggio. Basch, rimasto dall'altra parte del crollo, lo vide dirigersi verso la porta nord.
 
-«Di là ci sono tre legioni. Altezza, vi prego.»
+«Altezza! Tornate indietro!»
 
-Rasler girò il chocobo verso la porta nord. Basch non seppe mai, e non volle mai sapere, se il principe intendesse davvero caricare da solo in quella direzione, o se il suo corpo stesse soltanto andando dove andava il suo pensiero da quattro giorni. Rasler gridò qualcosa, una parola sola, a voce altissima, e il fragore delle esplosioni se la mangiò. Basch la capì dalle labbra.
+Rasler lo sentì, ma prima di voltarsi guardò oltre le mura. Conosceva quella strada. Da ragazzo l'aveva percorsa accanto a suo padre, durante i viaggi verso Dalmasca. Ricordava le soste alle stazioni di posta, le discussioni con le guardie e le lunghe cavalcate attraverso le colline. Adesso non sapeva cosa fosse rimasto di tutto questo. Un'esplosione lo riportò alla battaglia. Strinse le redini, pronto a tornare verso Basch, ma il suo sguardo indugiò. Da giorni cercava di immaginare che cosa fosse accaduto a Nabudis. Per la prima volta, si accorse di avere paura della risposta.
 
-«Papà.»
-
-La seconda volta Rasler la disse quasi a mezza voce, e si fermò ad ascoltare, come se da nord potesse davvero arrivare una risposta. Sotto la visiera alzata aveva gli occhi spalancati, e li faceva correre lungo le colline, si fermavano su un punto, ripartivano, come se Nabudis potesse ricomparire proprio dove non aveva ancora guardato. Era la stessa faccia che la sera prima aveva tenuto ferma davanti al fabbro. Adesso non ci riusciva più.
-
-Sulla torre di guardia sopra la porta, un arciere archadiano aveva incoccato una freccia, e la teneva puntata su quell'unico cavaliere fermo in mezzo alla battaglia, con la visiera alzata.
+Dalla torre di guardia sopra la porta, un arciere archadiano seguiva i movimenti di Rasler. Lo vide voltare il chocobo fra le macerie e sollevò l'arco, aspettando che il principe uscisse dal fumo per avere un tiro pulito.
 
 Basch lo vide, e per un istante tutto il resto si spense: le esplosioni, le grida, il fumo. Rimasero soltanto quella punta di ferro lassù e il principe immobile sotto di lei, che non si era accorto di niente. Sentì il cuore battergli in gola, così forte da coprire tutto il resto. Non aveva un arco.
 
-Un chocobo impazzito gli passò accanto trascinando il suo cavaliere morto, con un piede ancora nella staffa. Basch allungò il braccio senza pensarci, e le dita trovarono l'arco corto legato alla sella prima ancora che gli occhi lo cercassero. Lo strappò via. Dalla faretra del morto prese una freccia, e il legno gli parve leggero, troppo leggero, come se non potesse servire a niente. La incoccò. Le mani volevano tremare, e lui non glielo permise, perché da bambino gli avevano insegnato a non farle tremare, e quello che ti insegnano da bambino resta anche quando tutto il resto se ne va. Tese la corda fino all'orecchio. In cima alla torre, l'arciere chiuse un occhio.
+Un chocobo impazzito gli passò accanto trascinando il suo cavaliere morto, con un piede ancora nella staffa. Basch allungò il braccio senza pensarci, e le dita trovarono l'arco corto legato alla sella prima ancora che gli occhi lo cercassero. Lo strappò via. Dalla faretra del morto prese una freccia, e il legno gli parve leggero, troppo leggero, come se non potesse servire a niente. La incoccò. Le mani volevano tremare, e lui non glielo permise. Strinse l'arco, costrinse il respiro a rallentare e tenne gli occhi fissi sull'uomo in cima alla torre. Tese la corda fino all'orecchio. In cima alla torre, l'arciere chiuse un occhio.
 
 Basch tirò.
 
@@ -559,7 +589,7 @@ La sua freccia colpì l'arciere alla gola. L'uomo lasciò la presa, barcollò, e
 
 Ma la freccia dell'arciere era già partita.
 
-Rasler la prese al petto mentre guardava ancora verso le colline. Fu un colpo secco, un rumore come quello di un pugno su una porta. La punta passò fra due piastre della corazza, sotto la clavicola sinistra, e il principe si piegò in avanti sulla sella senza un grido, con la bocca ancora aperta sull'ultima parola. Non cadde: si tenne alle redini con tutte e due le mani, e il chocobo, sentendolo pesante, si fermò da solo.
+Rasler la prese al petto mentre guardava ancora verso le colline. Fu un colpo secco, un rumore come quello di un pugno su una porta. La punta passò fra due piastre della corazza, sotto la clavicola sinistra, e il principe si piegò in avanti sulla sella senza un grido. Non cadde: si tenne alle redini con tutte e due le mani, e il chocobo, sentendolo pesante, si fermò da solo.
 
 Basch gli fu accanto in tre balzi. Lo afferrò per la cintura prima che scivolasse, lo tirò sulla propria sella, lo tenne contro di sé con il braccio sinistro e prese le redini con il destro. Intorno a loro la fortezza crollava. I soldati di Dalmasca arretravano verso la piazza d'armi, e dalle mura scendevano gli archadiani, e le aeronavi passavano basse sopra i tetti sparando su tutto ciò che si muoveva. La strada verso la porta sud era chiusa da un incendio. La porta ovest era già persa.
 
@@ -567,9 +597,43 @@ Poi un'aeronave archadiana, colpita da una delle ultime catapulte rimaste in man
 
 Cadde sulle scuderie della guarnigione, che erano addossate alle mura meridionali, e le sfondò, e sfondò il muro dietro di esse, e quando il fumo e la polvere si diradarono, al posto del muro c'era un varco largo come una strada, ingombro di pietre e di legno in fiamme, oltre il quale si vedeva il deserto. Basch spronò il chocobo. Passò attraverso il fuoco senza guardarlo. Dietro di lui passarono altri cinque o sei cavalieri, quelli che lo avevano visto, e poi il varco si richiuse sotto una seconda frana, e Nalbina restò dentro.
 
-Rasler respirava ancora. Respirava a fatica, con un rumore bagnato, e Basch sentiva contro il braccio il sangue che usciva dalla ferita e scendeva lungo il fianco, caldo, poi tiepido. La freccia era ancora conficcata, e Basch non la toccò. Sapeva che, a toccarla, sarebbe finito tutto in fretta, e sapeva anche che non toccarla non avrebbe cambiato niente, ma non la toccò lo stesso.
+Rasler respirava ancora, a fatica, con un rumore bagnato. Basch sentiva il sangue che gli scendeva lungo il fianco, caldo contro il braccio con cui lo teneva stretto. La freccia era ancora conficcata nel petto e non osò toccarla.
 
-Il principe aprì gli occhi una volta, a mezza lega dalla fortezza, quando il chocobo rallentò in un avvallamento sabbioso. Guardò il cielo. Il cielo era pieno di fumo nero che il vento portava verso ovest, verso Rabanastre.
+Quando raggiunsero un piccolo posto di soccorso lungo la strada per Rabanastre, Basch fermò il chocobo e chiamò un guaritore.
+
+Gli venne incontro un ragazzo con la tunica sporca di sangue e una borsa di medicamenti a tracolla. Non doveva avere più di vent'anni.
+
+«Dov'è il medico responsabile?» chiese Basch.
+
+«Sono rimasto soltanto io, capitano.»
+
+Basch guardò verso le tende, poi tornò al ragazzo.
+
+«Allora fate qualcosa.»
+
+Il giovane si avvicinò. Esaminò la ferita, controllò il respiro del principe e gli posò due dita sul collo. Rimase così qualche istante, poi sollevò gli occhi verso Basch.
+
+«La freccia è penetrata troppo in profondità.»
+
+«Potete estrarla?»
+
+«Non qui. E nelle sue condizioni...» Il ragazzo si interruppe, cercando le parole.
+
+«Ditemi cosa devo fare.»
+
+Il giovane medico guardò di nuovo Rasler. Prese una benda pulita e la sistemò con cautela intorno alla ferita, senza muovere l'asta.
+
+«Cercate di tenerlo fermo durante il viaggio.»
+
+Basch aspettò che aggiungesse qualcosa.
+
+«Nient'altro?»
+
+Il ragazzo scosse appena la testa.
+
+Basch rimase a guardarlo per un istante, poi sistemò meglio il principe contro di sé e riprese le redini. Non ringraziò il medico. Spronò il chocobo e tornò sulla strada.
+
+Il fragore della battaglia era ormai lontano quando Rasler riaprì gli occhi. Basch se ne accorse dal piccolo movimento della testa contro il suo braccio. Il principe guardava il cielo, attraversato dal fumo nero che il vento portava verso Rabanastre.
 
 «Basch» disse.
 
@@ -579,7 +643,7 @@ Il principe aprì gli occhi una volta, a mezza lega dalla fortezza, quando il ch
 
 Basch non capì, e non chiese. Disse «Sì, altezza», perché era la risposta giusta a qualunque cosa il principe volesse dire, e Rasler parve contento, e chiuse gli occhi.
 
-Morì poco dopo, mentre il sole calava sul deserto orientale, senza dire altro. Basch lo capì perché il corpo contro il suo braccio smise di fare fatica. Non fermò il chocobo. Cavalcò tutta la notte verso ovest, con gli altri cavalieri dietro che non osavano avvicinarsi, e a notte fonda si accorse che stava dicendo a mezza voce i nomi dei pozzi che passavano, uno dopo l'altro, come a qualcuno che non conosceva la strada. Cavalcò tenendo il principe di Nabradia dritto sulla sella davanti a sé come se fosse soltanto addormentato, perché non voleva che le sentinelle di Rabanastre, all'alba, lo vedessero arrivare disteso.
+Morì poco dopo, mentre il sole calava sul deserto orientale. Basch se ne accorse quando il principe smise di respirare. Gli cercò il battito, attese qualche istante, poi tornò a stringere le redini. Non fermò il chocobo. Cavalcò tutta la notte verso ovest, con gli altri cavalieri che lo seguivano in silenzio. Conosceva bene quella strada, ma più volte si sorprese a controllare dove si trovassero, a riconoscere i pozzi e le vecchie stazioni di posta. All'alba, quando apparvero le mura di Rabanastre, Rasler era ancora davanti a lui sulla sella. Basch gli sostenne la testa con una mano e proseguì verso le porte della città.
 
 
 ## 3. Due cerimonie
@@ -654,7 +718,7 @@ Di giorno Ashe riceveva chi veniva a farle le condoglianze e rispondeva alle let
 
 Al buio le tornavano in mente le parole di Basch: il suo nome, e poi «il pugno». Rasler era caduto a Nalbina con una freccia nel petto, e una delle ultime cose a cui aveva pensato era la mano di lei, chiusa attorno a un anello troppo largo. Le tornò in mente anche suo padre, la notte delle nozze, che le teneva il pugno mentre ballavano: le cose che contano, quando scappano, si tengono così. Non per sempre. Finché non c'è il modo di sistemarle.
 
-La mattina dopo mandò a chiamare l'orafo. Era lo stesso che aveva fatto la fede, un uomo pratico che entrò inchinandosi troppo e non sapeva dove guardare. Ashe si sfilò l'anello e glielo posò sul palmo. Non lo toglieva dal giorno delle nozze, e senza le sembrò di avere la mano di un'altra. L'orafo le misurò il dito con un filo, come Rasler aveva fatto con il guanto, e disse che avrebbe tolto un poco d'argento dove non si vedeva. Lei gli chiese di non toccare le tacche. Il giorno dopo l'orafo tornò con la fede avvolta in un pezzo di velluto. Lo aprì sul tavolo e si fece da parte perché lei potesse guardare. Ashe cercò le tacche. C'erano tutte. L'orafo prese l'anello e fece per infilarglielo lui, come faceva con i clienti. Ashe ritirò la mano. Alle nozze era stato Rasler a farlo, e l'anello era sceso senza fatica. Stavolta lo fece lei, e dovette spingere per passare la nocca. La fede scese fino alla base del dito e si fermò lì, senza girare. L'orafo le chiese se stringeva. Lei disse di no. Aprì la mano e la scosse piano. L'anello non si mosse. L'orafo si inchinò, di nuovo troppo, e uscì. Non c'era più bisogno di tenere il pugno chiuso. Per qualche giorno Ashe lo chiuse lo stesso, senza accorgersene.
+La mattina dopo mandò a chiamare l'orafo. Era lo stesso che aveva fatto la fede, un uomo pratico che entrò inchinandosi troppo e non sapeva dove guardare. Ashe si sfilò l'anello e glielo posò sul palmo. Non lo toglieva dal giorno delle nozze, e senza le sembrò di avere la mano di un'altra. L'orafo le misurò il dito con un filo, come Rasler aveva fatto con il guanto, e disse che avrebbe tolto un poco d'argento dove non si vedeva. Lei gli chiese di non toccare le tacche. Il giorno dopo l'orafo tornò con la fede avvolta in un pezzo di velluto. Lo aprì sul tavolo e si fece da parte perché lei potesse guardare. Ashe cercò le tacche. C'erano tutte. L'orafo prese l'anello e fece per infilarglielo lui, come faceva con i clienti. Ashe ritirò la mano. Alle nozze era stato Rasler a farlo, e l'anello era sceso senza fatica. Stavolta lo fece lei, e dovette spingere per passare la nocca. La fede scese fino alla base del dito e si fermò lì, senza girare. L'orafo le chiese se stringeva, e lei disse di no. Aprì la mano e la scosse piano. L'anello non si mosse. L'orafo si inchinò, di nuovo troppo, e uscì. Non c'era più bisogno di tenere il pugno chiuso. Per qualche giorno Ashe lo chiuse lo stesso, senza accorgersene.
 
 ---
 
@@ -727,7 +791,7 @@ Basch prese la penna dalle mani del furiere e lasciò il nome dov'era.
 
 ## 4. Reks
 
-Il capitano Basch lesse la lista all'alba, seduto su un barile in mezzo al cortile della caserma, con il furiere accanto che gli teneva la lanterna. Si erano presentati in ventidue, la notte prima, quando un sergente era passato per le camerate a dire che il capitano cercava volontari per un'uscita e che non avrebbe detto dove. Due uomini il capitano li aveva mandati via quella notte stessa: un sergente con il braccio al collo e un vecchio delle scuderie. Reks si era aspettato di essere il terzo. Reks stava in terza fila. Era alto per i suoi diciassette anni, con i capelli così chiari che in Città Bassa li chiamavano capelli di sale.
+Il capitano Basch lesse la lista all'alba, seduto su un barile in mezzo al cortile della caserma, con il furiere accanto che gli teneva la lanterna. Si erano presentati in ventidue, la notte prima, quando un sergente era passato per le camerate a dire che il capitano cercava volontari per un'uscita e che non avrebbe detto dove. Due uomini il capitano li aveva mandati via quella notte stessa: un sergente con il braccio al collo e un vecchio delle scuderie. Reks si era aspettato di essere il terzo. Stava in terza fila. Era alto per i suoi diciassette anni, con i capelli così chiari che in Città Bassa li chiamavano capelli di sale.
 
 Il capitano leggeva i nomi senza alzare la voce, e a ogni nome un uomo usciva dalle file e andava a mettersi contro il muro del pozzo. Il primo fu Orren, un cavaliere anziano con le guance scavate che in caserma aveva fama di non aver mai perso né una battaglia né una partita a dadi. Reks teneva il conto man mano che venivano chiamati. Al quindicesimo il capitano si fermò.
 
@@ -911,7 +975,7 @@ Reks provò a tirare delicatamente la spilla. Sembrava tenere.
 
 Reks sorrise. «Sei proprio deciso a portarmi sfortuna, stasera.»
 
-Vaan non rispose subito. Rimase a guardare fuori dalla finestra, poi si allontanò e venne a sedersi sulla branda accanto al fratello. Si lasciò cadere con tutto il peso, facendo gemere il legno.
+Vaan non rispose subito. Rimase a guardare fuori dalla finestra, poi si allontanò e venne a sedersi sulla branda accanto al fratello. Si lasciò cadere con tutto il peso, facendo risuonare il legno.
 
 «Ma perché devi partire proprio tu?» chiese.
 
@@ -1108,7 +1172,7 @@ Il vecchio gli aprì la porta. Reks uscì nella strada deserta e si incamminò v
 Alle sue spalle sentì Migelo rimettere la sbarra al suo posto.
 
 
-## 5. La scala
+## 5. Il nodo
 
 Poco prima di mezzanotte, i venti uomini scelti da Basch si ritrovarono nel cortile della caserma. I chocobo erano già sellati, e il furiere controllava le ultime provviste alla luce di una lanterna.
 
@@ -1128,7 +1192,7 @@ Gli altri parevano molto meno preoccupati. Un sergente si era addormentato con l
 
 Reks li osservò per qualche minuto, poi tornò a controllare la propria spada.
 
-«È inutile continuare a guardarla» disse Orren, senza alzare gli occhi dai dadi. «Non diventerai più bravo se la osservi solo.»
+«È inutile continuare a guardarla» disse Orren, senza alzare gli occhi dai dadi. «Non diventerai più bravo se rimani a osservarla.»
 
 Reks rimise la lama nel fodero.
 
@@ -1264,7 +1328,7 @@ Il capitano lo aiutò ad alzarsi. Reks barcollò appena, ma riuscì a reggersi s
 
 «Mio fratello. Si chiama Vaan. Ha quindici anni.»
 
-«È lui quello che vive con te sopra la bottega?»
+«Vivi con lui quello che vive con te sopra la bottega del mercante?»
 
 «Sì, capitano.»
 
@@ -1475,7 +1539,7 @@ Due soldati si staccarono dal gruppo e avanzarono verso i gradini.
 Reks sollevò la spada e arretrò di un passo, mantenendo il vantaggio dell'altezza.
 
 
-## 6. L'uomo che uccise il re
+## 6. La scala
 
 Il primo soldato archadiano raggiunse la scala con lo scudo sollevato. Quando vide Reks ad aspettarlo qualche gradino più in alto, rallentò appena, poi riprese a salire.
 
