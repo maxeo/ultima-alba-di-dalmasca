@@ -1,0 +1,55 @@
+# L'ultima alba di Dalmasca
+
+Romanzo di fan tratto da Final Fantasy XII, con audiolibro generato (XTTS in Docker) e lettore web (Leggio) in
+`docs/`. Si risponde in italiano; le regole di lavoro stanno in `BEST-PRACTICES.md`, lo stato in `HANDOFF.md`.
+
+Qui sotto c'è come è fatta la filiera, già verificato: non serve ricontrollarlo ogni volta, ma se si cambia uno
+di questi meccanismi si aggiorna anche questo file.
+
+## Dal capitolo all'audio
+
+- Il testo sta in `Romanzo/capitoli/NNN-slug.md`, prima riga `## N. Titolo` (o `# Parte …` / `# Epilogo` /
+  `# Appendice apocrifa`, con il `## N.` più sotto). Lo slug non è il titolo: `005-il-capitano-che-uccise-il-re.md`
+  si intitola «L'uomo che uccise il re».
+- `Audiolibro/prepara.js N` → `Audiolibro/testo/NNN-slug.txt`. Il titolo **si legge ad alta voce**
+  («Capitolo quinto: …», `ordinale()` regge fino a 114 e oltre): cambiare numero a un capitolo vuol dire rifare
+  quella frase dell'audio.
+- XTTS → `Audiolibro/audiobooks/NNN-slug.mp3` e `.vtt` (i master). `controlla.sh` → `Audiolibro/controlli/
+  NNN-slug.json` e `.parole.json`. `pubblica.js` → `docs/audio/NNN.mp3` (48 kbps, riconverte solo se il master è
+  più recente), `docs/testi/NNN.json`, `docs/capitoli.json`.
+- Altri file legati al numero: `Audiolibro/audio/log-NNN.txt`, `rifai-NNN.txt`, `da-montare-NNN.txt`,
+  `audio/prove/NNN-i-K.*`, e i lavori in `Audiolibro/audio/autore/lavori.json` (`capitolo`, `nome`, `riga`).
+
+## Sessioni di ebook2audiobook (`Audiolibro/tmp/`, ~21 GB)
+
+- Ogni capitolo generato ha una sessione `tmp/proc-<uuid>/<hash>/`, con
+  `hash = md5("/app/audiobooks/" + "NNN-slug")` (`lib/core.py` nel contenitore). Dentro: `__current_`,
+  `__saved_`, `__NNN-slug.json`, `NNN-slug.*`, `chapters/sentences/<blocco>/<i>.flac`; il vecchio nome compare
+  anche in `concat_list_*.txt` e `metadata.txt`.
+- `rifai.sh` trova la sessione con `ls -t tmp/proc-*/*/__current_NNN-slug.json`. Se si rinomina un capitolo
+  senza spostare la sessione (cartella con il nuovo hash, file rinominati), ogni correzione futura richiede di
+  rigenerare il capitolo intero.
+- `rifai.sh N --testo` lancia `prepara.js` e `aggiorna.js`, che confronta parola per parola il testo nuovo con
+  le frasi della sessione e rifà solo quelle cambiate. `--monta` rimonta e basta: **non** rilegge il capitolo.
+- XTTS può inventare parole su una frase rifatta: dopo ogni rifacimento si guarda il controllo Whisper.
+
+## Server dell'autore (`Audiolibro/autore/`, porta 8765)
+
+- Tiene `lavori.json` **in memoria** e lo riscrive a ogni salvataggio: chi modifica quel file deve farlo a
+  server fermo e a coda vuota, altrimenti viene sovrascritto.
+- Trova il capitolo in `Romanzo/romanzo.md` con la riga `## N. `: se i numeri lì non coincidono con i file, la
+  correzione dal pannello si ferma con 409. `romanzo.md` oggi non è identico ai capitoli assemblati (il
+  capitolo 3 lì è più vecchio): non si riassembla senza che l'autore lo chieda.
+- La coda appartiene al pannello: i rifacimenti audio passano da lì (un lavoro `modifica` in coda fa
+  `rifai.sh --testo`, controllo Whisper e pubblicazione del capitolo), non da `rifai.sh` lanciato a mano mentre
+  l'autore lavora.
+- `pubblica.js` completo, per un capitolo con un lavoro ancora aperto, riusa la voce di `docs/capitoli.json`
+  **con lo stesso numero**: se i numeri cambiano, quel file va rinumerato prima di accodare i lavori.
+
+## Sito
+
+- `docs/index.html` è generato da Leggio (`../leggio/strumenti/crea-sito.js docs`) e non contiene l'elenco dei
+  capitoli: lo legge da `capitoli.json`. `docs/sw.js` tiene gli audio scaricati in cache per indirizzo
+  (`audio/NNN.mp3`).
+- Gli mp3 vecchi non si tengono: quando un audio è rigenerato si tolgono anche dalla storia git. Il force push lo
+  lancia l'autore.
