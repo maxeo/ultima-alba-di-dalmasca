@@ -79,6 +79,24 @@ function bloccoValido(capitolo, riga, fine, testo) {
   return { riga, fine, ordine, prima, dopo };
 }
 
+// I paragrafi del capitolo n dentro un file diviso con split(/(\r?\n)/): nel romanzo intero il capitolo comincia
+// al suo «## N.», ma il prologo e i capitoli che aprono una Parte hanno prima il titolo della Parte e un'epigrafe,
+// che nel file del capitolo stanno in testa. Così la sezione parte dalla prima riga del file del capitolo, se la
+// si trova subito prima del titolo, e i paragrafi tornano uno per uno con quelli del capitolo.
+function sezione(righe, n, capitolo) {
+  const indice = righe.findIndex(x => new RegExp(`^## ${n}\\. `).test(x));
+  if (indice < 0) return { indice, posizioni: [] };
+  let inizio = indice;
+  for (let i = indice - 2; i >= 0 && capitolo.righe[0] !== righe[indice]; i -= 2) {
+    if (righe[i] === capitolo.righe[0]) { inizio = i; break; }
+    if (/^## \d+\. /.test(righe[i])) break;
+  }
+  const fine = righe.findIndex((x, i) => i > indice && /^## \d+\. |^# /.test(x));
+  const limite = fine < 0 ? righe.length : fine;
+  const posizioni = righe.flatMap((x, i) => i % 2 === 0 && i >= inizio && i < limite && ePassaggio(x.trim()) ? [i] : []);
+  return { indice, posizioni };
+}
+
 // Il testo sta in due posti soltanto: il capitolo e il romanzo intero, che ne è una copia. Si cambiano
 // insieme o non si scrive niente, e nient'altro nel repository viene toccato da qui.
 function sostituisci(root, n, capitolo, blocchi) {
@@ -115,10 +133,7 @@ function sostituisci(root, n, capitolo, blocchi) {
     if (!fs.existsSync(nome)) throw errore(409, `Copia mancante: ${path.relative(root, nome)}`);
     const fonte = fs.readFileSync(nome, 'utf8');
     const righe = fonte.split(/(\r?\n)/);
-    const indice = righe.findIndex(x => new RegExp(`^## ${n}\\. `).test(x));
-    const fine = righe.findIndex((x, i) => i > indice && /^## \d+\. |^# /.test(x));
-    const limite = fine < 0 ? righe.length : fine;
-    const posizioni = righe.flatMap((x, i) => i % 2 === 0 && i > indice && i < limite && ePassaggio(x.trim()) ? [i] : []);
+    const { indice, posizioni } = sezione(righe, n, capitolo);
     const indici = blocchi.map(b => soloParagrafi(b.prima).map((prima, j) => {
       const ordine = b.ordine + j;
       const uguali = posizioni.filter(i => righe[i].trim() === prima);
@@ -148,10 +163,7 @@ function cambiaStacco(root, n, capitolo, cambi) {
   if (!richieste.length) throw errore(400, 'Scegli un paragrafo del capitolo.');
   if (new Set(richieste.map(r => r.ordine)).size !== richieste.length) throw errore(400, 'Scegli un altro paragrafo.');
   function aggiorna(righe, nome) {
-    const indice = righe.findIndex(x => new RegExp(`^## ${n}\. `).test(x));
-    const fine = righe.findIndex((x, i) => i > indice && /^## \d+\. |^# /.test(x));
-    const limite = fine < 0 ? righe.length : fine;
-    const posizioni = righe.flatMap((x, i) => i % 2 === 0 && i > indice && i < limite && ePassaggio(x.trim()) ? [i] : []);
+    const { posizioni } = sezione(righe, n, capitolo);
     if (posizioni.length !== capitolo.passaggi.length) throw errore(409, `Passaggio divergente in ${path.relative(root, nome)}.`);
     // Dal fondo verso l'inizio, così le righe aggiunte o tolte non spostano i punti ancora da sistemare.
     for (const { ordine, stacco, atteso } of [...richieste].sort((x, y) => y.ordine - x.ordine)) {

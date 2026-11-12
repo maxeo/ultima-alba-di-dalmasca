@@ -456,6 +456,27 @@ test('incollare un capitolo intero non porta dentro la riga del titolo', () => {
   assert.equal(testoValido('  Un paragrafo.  '), 'Un paragrafo.');
 });
 
+test('il prologo e i capitoli che aprono una Parte si correggono anche nel romanzo intero', t => {
+  const { leggiCapitolo, sostituisci, bloccoValido, cambiaStacco } = require('./archivio');
+  const root = fs.mkdtempSync(path.join(os.tmpdir(), 'leggio-parte-'));
+  t.after(() => fs.rmSync(root, { recursive: true, force: true }));
+  fs.mkdirSync(path.join(root, 'Romanzo', 'capitoli'), { recursive: true });
+  const capitolo = '# Parte II. Le segrete\n\n*Epigrafe.*\n\n## 19. Il fazzoletto\n\nPrimo.\n\nSecondo.\n';
+  fs.writeFileSync(path.join(root, 'Romanzo', 'capitoli', '019-il-fazzoletto.md'), capitolo);
+  fs.writeFileSync(path.join(root, 'Romanzo', 'romanzo.md'), `# Libro\n\n## 18. Prima\n\nAltro.\n\n${capitolo}\n## 20. Dopo\n\nFine.\n`);
+  // Nel file del capitolo l'epigrafe è il primo paragrafo; nel romanzo intero sta prima di «## 19.». Prima della
+  // correzione la sezione cominciava dal titolo, i paragrafi non tornavano e tutto finiva in 409.
+  const c = leggiCapitolo(root, 19);
+  assert.deepEqual(c.passaggi.map(p => p.testo), ['*Epigrafe.*', 'Primo.', 'Secondo.']);
+  for (const [i, testo] of [[0, '*Epigrafe nuova.*'], [2, 'Secondo, corretto.']]) {
+    const [, romanzo] = sostituisci(root, 19, c, [bloccoValido(c, c.passaggi[i].riga, c.passaggi[i].riga, testo)]);
+    assert.equal(romanzo.dopo, romanzo.prima.replace(c.passaggi[i].testo, testo));
+  }
+  const [file, romanzo] = cambiaStacco(root, 19, c, [{ riga: c.passaggi[2].riga, stacco: true }]);
+  assert.match(file.dopo, /Primo\.\n\n---\n\nSecondo\.\n$/);
+  assert.match(romanzo.dopo, /Altro\.\n\n# Parte II[^]*Primo\.\n\n---\n\nSecondo\.\n\n## 20\. Dopo/);
+});
+
 test('il ripristino trova il blocco che tiene quel paragrafo', async () => {
   const { bloccoDelPassaggio } = await import('./ui/pendenti.mjs');
   const bozza = { id: 'b1', blocchi: [{ riga: 30, fine: 32, prima: ['Vecchio.'], dopo: ['Nuovo.'] }] };
