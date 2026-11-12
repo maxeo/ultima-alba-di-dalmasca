@@ -16,7 +16,8 @@ di questi meccanismi si aggiorna anche questo file.
   quella frase dell'audio.
 - XTTS → `Audiolibro/audiobooks/NNN-slug.mp3` e `.vtt` (i master). `controlla.sh` → `Audiolibro/controlli/
   NNN-slug.json` e `.parole.json`. `pubblica.js` → `docs/audio/NNN.mp3` (48 kbps, riconverte solo se il master è
-  più recente), `docs/testi/NNN.json`, `docs/capitoli.json`.
+  più recente), `docs/testi/NNN.json`, `docs/capitoli.json`. La durata in
+  `capitoli.json` si conta dai frame dell'mp3 pubblicato (coincide con ffprobe), non dai sottotitoli.
 - Altri file legati al numero: `Audiolibro/audio/log-NNN.txt`, `rifai-NNN.txt`, `da-montare-NNN.txt`,
   `audio/prove/NNN-i-K.*`, e i lavori in `Audiolibro/audio/autore/lavori.json` (`capitolo`, `nome`, `riga`).
 
@@ -28,7 +29,10 @@ di questi meccanismi si aggiorna anche questo file.
   anche in `concat_list_*.txt` e `metadata.txt`.
 - `rifai.sh` trova la sessione con `ls -t tmp/proc-*/*/__current_NNN-slug.json`. Se si rinomina un capitolo
   senza spostare la sessione (cartella con il nuovo hash, file rinominati), ogni correzione futura richiede di
-  rigenerare il capitolo intero.
+  rigenerare il capitolo intero. Qualche cartella ha un hash diverso dal nome (prove fatte a parte, con
+  `index.flac`): `rifai.sh` non la raggiunge e si lascia dov'è.
+- Per dividere un capitolo si copia la sua sessione sotto il nome nuovo (cartella `proc-` nuova, hash del nome
+  nuovo): `aggiorna.js` toglie le frasi che non ci sono più e rifà solo il titolo e le frasi di confine.
 - `rifai.sh N --testo` lancia `prepara.js` e `aggiorna.js`, che confronta parola per parola il testo nuovo con
   le frasi della sessione e rifà solo quelle cambiate. `--monta` rimonta e basta: **non** rilegge il capitolo.
 - XTTS può inventare parole su una frase rifatta: dopo ogni rifacimento si guarda il controllo Whisper.
@@ -40,6 +44,9 @@ di questi meccanismi si aggiorna anche questo file.
 - Trova il capitolo in `Romanzo/romanzo.md` con la riga `## N. `: se i numeri lì non coincidono con i file, la
   correzione dal pannello si ferma con 409. `romanzo.md` oggi non è identico ai capitoli assemblati (il
   capitolo 3 lì è più vecchio): non si riassembla senza che l'autore lo chieda.
+- Il prologo e i capitoli che aprono una Parte cominciano prima del loro `## N.` (titolo della Parte, epigrafe):
+  `sezione()` in `archivio.js` li fa partire dalla prima riga del file del capitolo. Dove `romanzo.md` ha un testo
+  più vecchio (oggi il 3 e il primo paragrafo del 28) il 409 è giusto: la copia non combacia.
 - La coda appartiene al pannello: i rifacimenti audio passano da lì (un lavoro `modifica` in coda fa
   `rifai.sh --testo`, controllo Whisper e pubblicazione del capitolo), non da `rifai.sh` lanciato a mano mentre
   l'autore lavora.
@@ -48,6 +55,12 @@ di questi meccanismi si aggiorna anche questo file.
 
 ## Sito
 
+- Sul sito pubblico l'audio c'è solo per il prologo (capitoli 1-7, `ULTIMO_PUBBLICO` in `pubblica.js`); gli altri
+  capitoli si leggono soltanto (`docs/solotesto/NNN.json`, voce con `parole` e `testo` e senza `durata`). Gli audio
+  8-18 restano in `docs/audio` ma li elenca solo `Audiolibro/capitoli-autore.json`, che il server dell'autore dà al
+  posto di `capitoli.json` quando c'è il cookie `autore=1` (messo aprendo `?write=true`, tolto aprendo la pagina
+  senza). Dal 19 in poi non c'è audio: niente mp3 né master, e la coda non li rifà.
+- Leggio regge capitoli solo testo dentro un libro con l'audio (`modoCap()` in `lettore/index.html`).
 - `docs/index.html` è generato da Leggio (`../leggio/strumenti/crea-sito.js docs`) e non contiene l'elenco dei
   capitoli: lo legge da `capitoli.json`. `docs/sw.js` tiene gli audio scaricati in cache per indirizzo
   (`audio/NNN.mp3`).
