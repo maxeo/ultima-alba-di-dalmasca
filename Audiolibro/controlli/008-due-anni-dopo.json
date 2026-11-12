@@ -1,0 +1,34 @@
+{
+ "capitolo": "008-due-anni-dopo",
+ "somiglianza": 0.9693,
+ "problemi": [
+  {
+   "tempo": "5:13",
+   "secondi": 313.0,
+   "tipo": "diverso",
+   "testo": "fortuna in code caits rise poi si ricordo",
+   "audio": "fortuna in code e it's it's easy poi si ricordò"
+  },
+  {
+   "tempo": "19:17",
+   "secondi": 1157.1,
+   "tipo": "in più",
+   "testo": "imperiali hanno rubato a dalmasca lo",
+   "audio": "imperiali hanno rubato ad almasca lo dice a miguelo lo"
+  },
+  {
+   "tempo": "19:20",
+   "secondi": 1160.1,
+   "tipo": "diverso",
+   "testo": "a dalmasca lo dici a mighelo lo dici a",
+   "audio": "a miguelo lo dice kites lo dice ai"
+  },
+  {
+   "tempo": "19:21",
+   "secondi": 1161.5,
+   "tipo": "diverso",
+   "testo": "a mighelo lo dici a caits lo dici ai topi hanno",
+   "audio": "dice kites lo dice ai topi hanno"
+  }
+ ]
+}

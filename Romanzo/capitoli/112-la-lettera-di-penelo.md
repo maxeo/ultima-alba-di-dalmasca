@@ -1,0 +1,147 @@
+# Epilogo
+
+## 112. La lettera di Penelo
+
+Un anno dopo la caduta di Bahamut, a Rabanastre, l'acqua costava quanto deve costare l'acqua. Lo si poteva verificare alla fontana della via delle Fontane, dove i musi di leone buttavano come sempre e nessuno riempiva più le bottiglie vuote del vino delle feste per metterle sotto il letto; lo si poteva verificare dai carrettieri delle case alte, che erano tornati a chiedere il loro prezzo di prima e a lamentarsene, come facevano prima. La Città Bassa, che non legge le stelle e non ascolta i proclami, aveva guardato il prezzo dell'acqua e aveva deciso che la guerra era finita davvero.
+
+Penelo comprò tre fogli di carta. Il cartolaio gliene consigliò cinque, spiegandole con molta pazienza che le lettere destinate a un imperatore vengono copiate almeno una volta da un segretario, e che una ragazza prudente se ne tiene una copia a sua volta, per ogni evenienza. Penelo gli chiese se l'imperatore pagasse lui la carta in più. Il cartolaio disse che non era quello il punto. Penelo gli lasciò sul banco il prezzo di tre fogli e se ne andò con tre fogli e una busta, che aveva ottenuto in omaggio a metà della discussione senza che il cartolaio capisse esattamente quando.
+
+Al mercato di Muthru le tende nuove si riconoscevano da quelle vecchie perché il sole non aveva ancora avuto il tempo di scolorirle. Fra un banco e l'altro restava qualche spazio vuoto, dove il padrone non era tornato o non aveva avuto di che ricominciare; la pace aveva riaperto le strade, ma non aveva rimesso tutte le mani dietro tutti i banchi. All'angolo fra Muthru e la via delle Fontane, però, c'era di nuovo il braciere di Sahra, e c'era Sahra, che vendeva focacce di ceci e raccontava a chiunque che lei, l'anno prima, aveva attraversato il mare di sabbia su una barca guidata da un insetto alto due metri, e che l'insetto le aveva fatto lo sconto. Nessuno le aveva mai chiesto che sconto. Penelo ne comprò una. Era bruciata da una parte, come sempre.
+
+Migelo la vide arrivare dalla porta della bottega. Aveva due clienti e un sacco di lenticchie aperto sul banco, e teneva occupato Kytes a cercare nel registro un credito di cui ricordavano due versioni diverse; ma quando vide i fogli sotto il braccio di Penelo abbassò la voce, come se la persona a cui erano destinati potesse essere nascosta dietro la porta.
+
+«Scrivi ad Archades?»
+
+«A Larsa.»
+
+«È la stessa cosa.»
+
+«Per la posta sì.»
+
+La coda di Migelo batté una volta sul pavimento. Tac. Da quando la Città Bassa aveva saputo che una ragazza della sua bottega scriveva all'imperatore di Archades, Migelo aveva preso l'abitudine di nominarlo nelle trattative come si nomina un cugino che ha fatto fortuna, e di smentirlo subito dopo con grande modestia, il che gli aveva fatto vendere più lenticchie in un anno che nei dieci precedenti.
+
+Kytes alzò gli occhi dal registro. Aveva una matita dietro l'orecchio, e da qualche mese aveva imparato a non perderla quando chinava la testa. Per Penelo era un cambiamento grande quanto le insegne nuove sulle porte.
+
+«Digli che il mare è salato.»
+
+«Lo sa.»
+
+«Lo sa lui. Ma io prima no. Adesso l'ho assaggiato.» Kytes era stato a Balfonheim in primavera, con un carico di Migelo, e da allora lo diceva a tutti. «Digli che adesso lo so anch'io.»
+
+Penelo salì le scale.
+
+---
+
+La stanza sopra la bottega sapeva di cumino, come sempre. Il letto di Reks era contro il muro, con una coperta pulita; il pagliericcio non c'era più. Sulla trave, accanto alle due file di tacche che si fermavano a metà, ce n'era una terza, più bassa, nuova: Kytes, che ci dormiva quando Vaan era fuori, si era fatto misurare in primavera e aveva preteso il coltello.
+
+Nel vaso verde crepato della madre di Vaan, sulla finestra, c'erano due gigli bianchi. Kytes cambiava l'acqua ogni tre giorni e ne rovesciava metà sul pavimento, e le assi sotto la finestra avevano ormai una macchia più chiara a forma di nuvola. Penelo spostò il vaso di un dito per fare posto alla carta, si sedette al tavolino, intinse la penna.
+
+Dalla strada saliva il rumore di un carrettiere che bestemmiava contro una ruota. Non saliva più il rumore delle armature ferme davanti alla bottega. Penelo ci mise un momento ad accorgersi che era quello che non sentiva, e sorrise.
+
+*Caro Larsa,*
+
+*ho scritto «maestà» e l'ho cancellato, scusa la macchia. Non è che me ne dimentichi. È che ti sto per raccontare di Migelo, e se lui sapesse che la sua bottega compare sotto un titolo così grande si monterebbe la testa più di quanto già faccia. Adesso, ogni volta che entro, mi chiede se puoi far scendere il prezzo dei trasporti da Archades. Io gli dico che anche tu paghi chi porta le cose. Non mi crede.*
+
+*Qui hanno riaperto il forno della via delle Fontane. Fanno il pane come lo facevano quando eravamo piccoli, oppure siamo noi che lo ricordiamo così. Vaan dice che è più caro. Lo dice con la bocca piena, quindi non credo che sia una protesta seria. Sahra è tornata al suo angolo e brucia le focacce da una parte sola, come prima. Il vecchio dei datteri dice che l'anno scorso ha dato via quattro sacchi, e ogni volta che lo racconta i sacchi sono di più. Siamo a sei.*
+
+*Kytes vuole farti sapere che il mare è salato. Me l'ha fatto promettere.*
+
+*Le cucine del palazzo hanno di nuovo la loro cuoca. Quella vecchia, quella delle frittelle di sesamo. Ashe l'ha fatta chiamare il giorno dopo, e lei è entrata dalla porta di servizio con la sua cesta e ha detto al maggiordomo che il piatto in dispensa lo aveva messo da parte per due anni e che adesso voleva vedere chi se lo mangiava. Se lo è mangiato Ashe. Davanti a lei. In piedi in cucina.*
+
+Penelo si fermò. Dalla finestra si vedeva la parte alta del palazzo, con le bandiere azzurre e bianche che il vento girava tutte dalla stessa parte. Lì dentro Ashe riceveva ministri, mercanti, ambasciatori, e soprattutto persone che avevano aspettato due anni per raccontare alla corona che cosa avevano perduto. Ogni richiesta passava per una fila di stanze con un nome diverso e un usciere diverso. La principessa aveva provato a saltarne qualcuna, e aveva scoperto che si poteva litigare con un usciere senza riuscire a diventare meno regina.
+
+Penelo l'aveva vista pochi giorni prima. Le avevano portato una sedia troppo lontana dal tavolo; Ashe l'aveva fatta spostare accanto alla sua, e le aveva chiesto se Vaan continuasse a smontare cose che non sapeva rimontare. Poi era arrivato un segretario con una questione d'acqua: tre cisterne contese fra due quartieri, e uomini che avevano alzato i prezzi durante l'occupazione e adesso giuravano di non poterli abbassare. Ashe aveva letto il foglio. Poi aveva chiesto di far entrare le persone, tutte, anche quella che il segretario aveva lasciato fuori perché non sapeva scrivere il proprio nome. Penelo era rimasta per il primo tratto. Aveva visto quanto costava alla principessa ascoltare una cosa per intero senza decidere al posto di chi la stava raccontando. Alla fine si era alzata per andarsene, e Ashe l'aveva fermata con una mano, *ancora un momento*; e il momento se l'era preso un'altra persona con un'altra carta.
+
+*La vediamo meno*, scrisse. *A volte mi manca anche quando ce l'ho davanti, perché c'è sempre qualcuno che sta per chiamarla. Il mese prossimo c'è l'incoronazione. Ci sono persone che ci lavorano da così tanto che se il giorno arrivasse prima chiederebbero di rimandarlo. Lei dice che sta bene. Almeno, quando glielo chiedo, risponde così.*
+
+*Però l'altro giorno ha fatto entrare una donna che nessuno ascoltava, e le ha dato da bere prima di farle domande. Non so se questa è una cosa da notizie di palazzo. Te la scrivo qui.*
+
+Posò la penna. Non voleva raccontare Ashe come una persona diventata irraggiungibile per scelta. La distanza aveva un nome, un orario, una fila di donne sedute con le mani sulle ginocchia. Penelo la guardava crescere e la capiva, e questo non impediva che le facesse male. Le due cose stavano insieme, come stanno insieme il pane più caro e la bocca piena.
+
+---
+
+Il secondo foglio cominciò con una domanda su Basch, e Penelo lo cominciò due volte.
+
+La prima volta scrisse: *Come sta Basch?* Le sembrò una domanda troppo piccola per un uomo chiuso nell'armatura di un altro. La seconda volta scrisse: *Basch tornerà?* Le sembrò una domanda troppo grande da fare a un ragazzo a cui quel ritorno avrebbe tolto lo scudo. Strappò il foglio a metà, si ricordò che ne aveva comprati tre e non cinque, e lo rimise insieme con la saliva sul bordo, il che non funzionò.
+
+Alla fine scrisse quello che sapeva.
+
+*E Basch? Digli che se scrive due righe possiamo leggerle anche senza un sigillo. Ashe non lo chiede mai quando ci sono gli altri. Quando non ci sono, fa finta di chiedermi di te, e poi alla terza domanda su di te chiede se mangi abbastanza e se c'è qualcuno che ti sta accanto, e io non sono stupida.*
+
+Rilesse e scosse la testa. Larsa avrebbe capito. Era diventato imperatore senza smettere di essere una persona a cui si potevano raccontare queste cose. Le sue lettere arrivavano con domande precise su Migelo, sui bambini del vicolo del tintore, sulle navi che Vaan continuava a immaginare più belle di quelle che poteva permettersi. In una le aveva disegnato il giro che faceva per entrare nel suo studio senza essere visto dai funzionari, con le scale e le porte segnate a puntini. Nella lettera successiva aveva aggiunto che un funzionario lo aveva visto.
+
+Gli scrisse di mangiare. Sapeva quanto dovesse essere irritante ricevere un ordine così piccolo da una persona così lontana, e glielo scrisse lo stesso, sottolineato.
+
+Poi arrivò all'ultima notizia, quella che aveva tenuto per la fine. Guardò il terzo foglio. Sorrise prima ancora di cominciare. Cambiò penna, perché quella perdeva.
+
+Quella notizia, il cronista la racconterà a suo tempo, cioè nel capitolo che segue, perché Penelo stessa la scrisse per ultima e con un certo gusto teatrale, e non sarebbe giusto rubargliela.
+
+La busta la chiuse soltanto la sera. Sul davanti scrisse il nome intero del destinatario con la cura che metteva nei conti importanti di Migelo, *Larsa Ferrinas Solidor*, e sotto, più piccolo, *Archades*, come se ci fosse il rischio di confonderlo. Il corriere le chiese se il contenuto fosse ufficiale. Penelo rispose che era una lettera. Il corriere capì che non avrebbe ottenuto una categoria più comoda, e la mise con le altre.
+
+---
+
+Ad Archades la posta privata dell'imperatore arrivava in una cassetta chiusa. La apriva un segretario; la controllava un funzionario incaricato di controllare il segretario; tutti e due sapevano che le buste di Rabanastre dovevano arrivare sul tavolo intere. Larsa aveva dato l'ordine una sola volta. Gli era costato meno di quello sui tributi delle province occidentali, e lo aveva visto eseguito molto prima.
+
+La lettera raggiunse il suo tavolo dopo una mattina di udienze. C'erano ancora mappe sul legno, e lui ne spostò una per non dover leggere Penelo sopra una frontiera. Riconobbe la calligrafia e sorrise. Si tolse il fermaglio del mantello, lo posò accanto al calamaio, e aprì la busta con un coltellino, senza strapparla.
+
+Aveva tredici anni, adesso, e qualche dito di più. Portava i capelli scuri lunghi come li aveva portati suo fratello, perché a corte nessuno aveva osato suggerirgli di tagliarli, e lui non ci aveva pensato. Al collo aveva lo stemma azzurro dei Solidor. In un cassetto del tavolo, sotto le carte, teneva una pietra piccola e liscia, diventata nera, con una crepa da una parte all'altra; ogni tanto, durante le udienze più lunghe, apriva il cassetto di un dito per guardarla, e i ministri avevano imparato a non chiedere.
+
+Un Giudice Magister entrò mentre era al secondo foglio.
+
+Aveva l'armatura nera, l'elmo chiuso, due spade al fianco, e il passo di chi ha imparato a non urtare gli stipiti con il metallo. La guardia alla porta lo salutò con il suo nome e il suo grado, *Giudice Gabranth*, e lui rispose con un cenno dell'elmo. Aspettò che il battente fosse richiuso alle sue spalle.
+
+«Una risposta dalla frontiera?» chiese.
+
+La voce usciva dall'elmo larga e rimbombante, la voce di un'istituzione. Ma Larsa, dopo un anno, ci sentiva dentro la pausa un poco più lunga fra le frasi, quella che il Giudice di prima non aveva mai fatto.
+
+«Da Rabanastre» disse. «La frontiera aspetta.»
+
+Il Giudice si tolse l'elmo. Lo fece con due mani, come si toglie una cosa pesante, e lo tenne sotto il braccio. Nello studio non c'erano prigionieri, soltanto un ragazzo cresciuto di qualche dito e troppe carte.
+
+Basch fon Ronsenburg si era tagliato i capelli corti, per portarli sotto il ferro. La barba se l'era rasata quasi del tutto, perché Noah non l'aveva, e ogni mattina, davanti allo specchio, si guardava e per un momento non era sicuro di chi stesse guardando. Ma sul sopracciglio sinistro c'era la sua cicatrice, che il fratello non aveva mai avuto, e quella lo rimetteva al suo posto.
+
+L'armatura era quella di Noah. Gliel'avevano tolta i medici dell'aerodromo, dopo l'atterraggio; Basch l'aveva fatta raddrizzare da un fabbro di Archades che non aveva fatto domande, e se l'era messa addosso la mattina del funerale privato, sotto una lapide dove era scritto soltanto *Noah*. Infilando la mano nella tasca interna del pettorale, contro il petto, aveva ritrovato la pastiglia di miele e menta, ancora nella carta sottile: l'aveva rimessa lì lui, sul pavimento della Strahl. Non l'aveva più tolta. Non l'avrebbe mangiata nemmeno lui.
+
+Larsa gli tese la lettera.
+
+«Ti saluta.»
+
+Basch guardò il foglio, poi l'imperatore. Era ancora una cosa strana, per lui, sentirsi dare del tu da quella bocca: Larsa lo faceva soltanto nelle stanze private, e lasciava ai corridoi il grado e il cognome che tenevano in piedi la finzione. Il capitano prese la lettera dal lato pulito, perché aveva le dita sporche dell'olio delle cinghie, e cominciò a leggere.
+
+Il forno della via delle Fontane. La bottega. Sahra e le focacce bruciate da una parte. I sacchi di datteri che diventavano sei. La cuoca in piedi in cucina. Kytes e il mare. Erano notizie di persone che tornavano alle loro occupazioni senza diventare nomi in un rapporto, e Basch le lesse lentamente, una per una, come si beve dopo una marcia. Poi arrivò alla riga che lo riguardava, e si fermò, e non cercò subito quella dopo.
+
+«Puoi scriverle» disse Larsa.
+
+«Sì, maestà.»
+
+«Come Basch.»
+
+Il capitano alzò la testa.
+
+Larsa aprì il cassetto. Prese la pietra nera con la crepa e la posò sul tavolo, accanto alla busta di Penelo. Il colore di quando gliel'aveva regalata sul Leviatano non c'era più.
+
+«Le ho scritto che non funziona più» disse. «Mi ha risposto che, per quello che doveva fare, ha funzionato abbastanza.»
+
+Basch guardò la crepa. La mano sinistra gli si chiuse da sola, la mano con la cicatrice sul dorso, nel punto dove un ragazzo di diciassette anni, una notte a Nalbina, gliel'aveva fasciata con la propria manica. Pensò al pavimento della Strahl. Alla mano di Noah nella sua, e al peso che era rimasto quando la voce aveva smesso. Guardò l'elmo sotto il proprio braccio. La promessa che aveva fatto gli chiedeva di restare invisibile. Non gli chiedeva di lasciare senza risposta chi sapeva il suo nome.
+
+«Scriverò» disse.
+
+Larsa gli indicò una sedia. Basch esitò, poi si sedette, e posò l'elmo sul tavolo con la visiera girata verso la porta, come una sentinella. Dal corridoio arrivò un passo, si fermò, riprese. Fra poco qualcuno avrebbe avuto bisogno del Giudice Gabranth. Per adesso c'erano ancora due righe da leggere.
+
+«L'incoronazione» disse Basch. «Sarebbe possibile...»
+
+«Andiamo tutti e due.»
+
+Il capitano lo guardò. Larsa aveva già preso un foglio per la risposta, come se la decisione fosse così semplice da poter essere scritta in margine a una lettera. Forse lo era.
+
+«Se mi portate» disse Basch, e si accorse di aver detto una cosa che Larsa, a dodici anni, avrebbe detto a lui.
+
+«Ti porto» disse Larsa. «E tu la saluti.»
+
+«Sì.»
+
+«Non soltanto con l'elmo.»
+
+Basch guardò il metallo nero sul tavolo. Non sorrise; gli angoli della bocca gli si allentarono un poco, quel tanto che a Larsa bastò per tornare al suo foglio. Il capitano riprese la lettera di Penelo e la distese sul ginocchio, con attenzione, cercando la riga dove si era fermato.
+
+Molto lontano, a Rabanastre, nello stesso momento o quasi, in una stanza del palazzo con le finestre sui tetti, la principessa di Dalmasca teneva sul palmo una cosa piccola che non vedeva da più di un anno, e non riusciva a chiudere la mano. Come ci fosse arrivata, quella cosa, è una storia che comincia in un hangar.

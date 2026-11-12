@@ -1,0 +1,143 @@
+## 72. Il fumo sul monte
+
+Le navi passarono sopra la valle di Miriam a metà mattina, tre, in fila, così basse che il loro rombo fece cadere la neve dalle colonne del portico. Erano grigie, con le pance lunghe e piatte e le fiancate irte di bocche da fuoco, e sulle fiancate avevano il sigillo della casa Solidor dipinto in rosso, grande come una casa. Andavano verso nord. Non deviarono, non rallentarono, non si accorsero di sei persone ferme su un ponte di pietra sopra un precipizio, che le guardavano passare con la testa all'indietro e la bocca aperta.
+
+«Volano» disse Vaan.
+
+Lo disse come si dice una bestemmia in chiesa. Lo pensavano tutti. Paramina era terra di Jagd, come il Bur-Omisace, come la Valle dei Re: le pietre del cielo, lì, si spegnevano. Le aeronavi comuni non ci arrivavano. Il sacerdote giovane con i geloni l'aveva detto a Vaan, davanti alle isole sospese, con l'aria di chi rivela un segreto rassicurante: nessun impero ci può arrivare in volo.
+
+Le navi volavano.
+
+«Il Leviatano» disse Balthier. Aveva la faccia di un uomo che si vede confermare un'ipotesi e se ne pente. «Ve l'avevo detto. Una pietra che beve il Mystes intorno a sé. Una pietra che lascia l'aria pulita per un tratto, il tempo di passare.» Guardò le navi allontanarsi. «Ne hanno ancora. E le hanno montate su quelle.»
+
+«Dove vanno?» chiese Penelo.
+
+Nessuno rispose. A nord, oltre le montagne, c'era una cosa sola.
+
+---
+
+Sulla plancia dell'Alexander faceva caldo. Era la prima cosa che chiunque saliva a bordo notava, e la più sgradevole: un caldo secco, metallico, che veniva dalle griglie del pavimento dove sotto, nel ventre della nave, giravano i motori, e che dopo un'ora faceva sudare sotto l'armatura anche i Giudici Magister, che per regolamento non sudano.
+
+Zargabaath stava davanti alla grande finestra di prua, con le mani dietro la schiena. Guardava le montagne scorrere sotto la nave, bianche, una dopo l'altra, come onde di un mare gelato. Era al comando da due giorni. In due giorni non aveva dormito più di quattro ore, e aveva passato quasi tutto il tempo a quella finestra, nella stessa posizione, così che gli ufficiali di plancia avevano cominciato a scommettere, sottovoce, su quando si sarebbe mosso.
+
+«Il monte sarà in vista fra un'ora, signore» disse il timoniere.
+
+«Bene.»
+
+«Gli ordini per le batterie, signore?»
+
+Zargabaath non si voltò.
+
+«Nessun colpo» disse. «Nessuno. Le batterie restano fredde. Il principe è sulla montagna, e con lui ci sono migliaia di persone che non hanno fatto niente a nessuno. Atterriamo sulla spianata nord, scendiamo, e chiediamo. Con cortesia.» Fece una pausa. «Chi apre il fuoco senza un mio ordine diretto risponde a me. Non al Ministero. A me.»
+
+Il timoniere salutò. Gli ufficiali di plancia si guardarono.
+
+Dietro di loro, nella penombra della plancia, appoggiato a una delle colonne di sostegno con le braccia incrociate, Bergan rise.
+
+Era una risata bassa, che il suo elmo rendeva cavernosa. Non era del tutto una risata cattiva; era quella di un uomo che sente un bambino dire una cosa ingenua e la trova divertente.
+
+«Con cortesia» disse. «Hai sentito, Gabranth? Con cortesia.»
+
+Gabranth stava in fondo alla plancia, vicino alla porta, dove stava da quando erano partiti. Non rispose. Non si era mosso, non aveva parlato, non si era tolto l'elmo in due giorni, e gli uomini dell'equipaggio avevano smesso di salutarlo quando passava perché lui non ricambiava mai.
+
+«Quel monte, Zargabaath» disse Bergan, staccandosi dalla colonna e venendo avanti con il suo passo che faceva tremare le griglie «quel monte ha un debito con l'Impero. Da settecento anni. Da settecento anni ci chiede di lasciarlo in pace, e noi lo lasciamo in pace. Da settecento anni prende i nostri nemici, li nasconde, li sfama, li benedice, e quando andiamo a chiedere chi c'è dietro quelle mura, ci risponde che la Luce non fa domande.» Si fermò accanto a Zargabaath, davanti alla finestra. «I debiti si accumulano. Anche quelli dei santi. E un giorno qualcuno passa a riscuotere.»
+
+Zargabaath non si voltò a guardarlo.
+
+«Il nostro ordine è riportare il principe» disse. «Non riscuotere niente.»
+
+«Il nostro ordine è riportare il principe» ripeté Bergan, quasi con dolcezza. «E se qualcuno, lassù, non vuole che il principe torni a casa?»
+
+«Allora me lo dirai, e io deciderò.»
+
+Bergan guardò il vecchio a lungo, attraverso le fessure del suo elmo nero e oro. Poi tornò alla sua colonna, adagio, e ci si appoggiò di nuovo, e incrociò di nuovo le braccia. Ma prima di farlo si guardò per un momento la mano sinistra, quella guantata, e strinse e aprì le dita due volte, come chi si accerta che una cosa ci sia ancora.
+
+Zargabaath, alla finestra, lo vide nel riflesso del vetro. Non disse niente. Ma quando il monte comparve all'orizzonte, bianco, con le sue torri sottili e le rocce sospese intorno, e il timoniere annunciò la distanza, Zargabaath fece una cosa che gli ufficiali di plancia non gli avevano mai visto fare: si tolse un guanto e si passò la mano nuda sull'elmo, all'altezza degli occhi, e trovò il metallo. Alle sue spalle, l'ufficiale più giovane mise mano al borsello.
+
+---
+
+Il fumo lo vide Fran.
+
+Era il pomeriggio. Erano usciti dalla valle di Miriam e risalivano la prima gola verso nord, sulla strada da cui erano venuti, e la viera, che camminava in testa, si fermò all'improvviso e alzò un braccio. Gli altri si fermarono. Lei indicava qualcosa lontano, oltre le creste, dove il cielo era grigio chiaro.
+
+C'era una riga. Sottile, scura, dritta, che saliva da dietro le montagne e si allargava in alto, nel vento, come l'inchiostro in un bicchiere d'acqua.
+
+«Fumo» disse Vaan. «Perché c'è del fumo?»
+
+Nessuno gli rispose subito. Tutti sapevano da dove veniva. Da quella parte, oltre quelle creste, c'era una cosa sola.
+
+«Le navi» disse Basch.
+
+Ashe era rimasta immobile. Guardava la riga scura nel cielo. Aveva la Spada dei Re legata sulla schiena, avvolta in una coperta, e il frammento alla cintura, e le mani lungo i fianchi, e non diceva niente. Poi disse una parola sola.
+
+«Larsa.»
+
+E si mise a correre.
+
+---
+
+Corsero per tre giorni. Non tutto il tempo, perché nessuno può correre per tre giorni nella neve di Paramina; ma il passo che tennero non era un passo da viaggio, e Basch, che aveva marciato con l'esercito di Dalmasca nel deserto, disse poi che non aveva mai visto nessuno camminare così, nemmeno soldati in ritirata. Dormirono poco. Non si fermarono al rifugio dei pellegrini, e passando Basch vide il fascio di legna che avevano lasciato contro il muro, ancora lì, intatto, e nessuno ci aveva aggiunto niente, perché nessuno era passato.
+
+Ashe camminava in testa. Non parlava. La spada sulla schiena le pesava, e non la passò a nessuno, e quando Basch le si avvicinò per offrirsi di portarla lei lo guardò in un modo che lo fece tornare indietro. La notte non dormiva. Stava seduta con la schiena contro una roccia e guardava a nord, dove il fumo, di notte, non si vedeva; e la mattina si alzava prima degli altri.
+
+Il terzo giorno cominciò a piovere.
+
+Era una pioggia gelata, mista a neve, che veniva giù di traverso e trasformava la pista in una striscia di fango grigio. Quando arrivarono in vista del monte, alla fine della salita, era pomeriggio e sembrava sera. Le torri del Bur-Omisace si alzavano davanti a loro, nere contro il cielo nero, e le rocce sospese intorno alle torri erano soltanto ombre più scure nella pioggia. Il fumo c'era ancora. Saliva da tre o quattro punti diversi, sottile, piegato dal vento, e la pioggia non riusciva a spegnerlo.
+
+E le navi se n'erano andate.
+
+---
+
+La prima cosa che trovarono fu la tenda dei Fratelli Haddur.
+
+Era all'ingresso del santuario, contro il muro dove la donna l'aveva piantata, al riparo dal vento. Era strappata. Qualcuno ci era passato sopra, o in molti, e la tela cerata era stata calpestata nel fango fino a diventare dello stesso colore del fango, e il nome della ditta di trasporti, stampato sopra, si leggeva appena. Dentro non c'era nessuno. C'era una pentola rovesciata. C'era una scarpa da bambino.
+
+Vaan la guardò e si fermò.
+
+Penelo gli prese il braccio. Lui non si mosse. Guardava la scarpa.
+
+«Vaan» disse lei.
+
+«Non c'è» disse Vaan. «Non c'è.»
+
+«Non vuol dire niente. Può essere scappata. Possono essere dentro. Vaan.»
+
+Lui si lasciò tirare via. Ma per tutto il resto della strada, fino alle porte, si voltò indietro tre volte.
+
+---
+
+Il santuario era pieno di gente che si muoveva piano.
+
+Fu questo che colpì tutti, più delle macerie e del fumo. Le macerie c'erano: un muro crollato su una terrazza, una scala di pietra spezzata a metà, le tende bruciate a decine, nere, fumanti sotto la pioggia, con l'odore di stoffa e di pelle che si mescolava a quello dell'incenso dei templi. C'erano i segni dei colpi sulle colonne, quei colpi da cui si capiva che qualcuno aveva combattuto. C'erano i corpi. Alcuni erano coperti, con coperte, con mantelli, con le tuniche bianche dei sacerdoti; altri no. Ma più di tutto c'era la gente viva, che si muoveva fra i corpi e le macerie lentamente, senza correre, senza gridare, con i passi incerti dei sonnambuli. Una donna portava un secchio d'acqua da una fontana a una tenda e ritorno, da una fontana a una tenda e ritorno, e la tenda era bruciata e non c'era nessuno dentro. Un vecchio stava seduto sui gradini di una cappella con le mani in grembo e guardava la pioggia. Due bambini, sotto un'arcata, giocavano con dei sassi, in silenzio.
+
+Basch si fermò davanti a un corpo. Era un sacerdote Kiltias, giovane, con la tunica bianca macchiata. Era sdraiato sulla schiena, sui gradini di una terrazza, con le braccia aperte. Aveva i geloni sulle dita.
+
+Vaan lo riconobbe. Non disse niente.
+
+«Non erano armati» disse Basch. Lo disse piano, a nessuno, guardando le mani del sacerdote. «Nessuno di loro. Non lo sono mai stati. Non c'era bisogno di…»
+
+Non finì.
+
+Balthier si era fermato accanto a lui. Guardava le terrazze, le colonne, il muro crollato. Guardava con l'occhio di uno che sa leggere un campo di battaglia, e che ha imparato a leggerlo in un posto dove si insegnava a scriverlo.
+
+«Non sono state le navi» disse. «Le navi non hanno sparato. Guarda le torri. Intatte. Guarda i tetti. Se avessero aperto le batterie, qui non resterebbe una pietra in piedi.» Indicò le colonne segnate. «Sono scesi. Sono venuti a piedi. E hanno fatto questo a mano.»
+
+«Chi ordina una cosa del genere?» chiese Penelo. Aveva la voce rotta. «Chi?»
+
+Balthier non rispose.
+
+Fran, accanto a lui, aveva alzato la testa. Aveva le orecchie dritte, tese verso il grande tempio in cima alla salita, verso le porte della Sala della Luce. Le narici le si muovevano.
+
+«Mystes» disse. «Lassù.»
+
+«Come a Henne?» chiese Vaan.
+
+Fran non rispose. Ma le sue orecchie si piegarono all'indietro, adagio, e restarono così.
+
+Ashe guardò le porte del tempio.
+
+Erano aperte. Erano state aperte con forza, si vedeva da come stavano, una tutta spalancata contro il muro, l'altra storta sui cardini; e dall'interno, dalla navata lunga e alta dove i fasci di luce scendevano lenti dal soffitto invisibile, non veniva nessuna luce.
+
+La principessa si slegò la Spada dei Re dalla schiena. Tolse la coperta. La prese con tutte e due le mani, come le aveva insegnato Basch, vicina al corpo, le mani in alto sull'elsa.
+
+Poi salì i gradini.

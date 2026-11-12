@@ -1,0 +1,20 @@
+{
+ "capitolo": "014-la-strada-del-ladro",
+ "somiglianza": 0.9763,
+ "problemi": [
+  {
+   "tempo": "13:03",
+   "secondi": 783.5,
+   "tipo": "diverso",
+   "testo": "i ponti erano diciannove al ventesimo senti",
+   "audio": "i ponti erano 19 erano 19 al ventesimo sentirli"
+  },
+  {
+   "tempo": "22:50",
+   "secondi": 1370.9,
+   "tipo": "diverso",
+   "testo": "fa ogni volta gli ho fatto lo",
+   "audio": "fa ogni volta lo fa ogni volta io ho fatto lo"
+  }
+ ]
+}

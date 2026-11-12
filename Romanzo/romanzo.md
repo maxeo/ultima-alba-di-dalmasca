@@ -999,7 +999,7 @@ Il vecchio gli aprì la porta. Reks uscì nella strada deserta e si incamminò v
 
 Alle sue spalle sentì Migelo rimettere la sbarra al suo posto.
 
----
+## 5. La scala
 
 Poco prima di mezzanotte, i venti uomini scelti da Basch si ritrovarono nel cortile della caserma. I chocobo erano già sellati, e il furiere controllava le ultime provviste alla luce di una lanterna.
 
@@ -1365,7 +1365,7 @@ Due soldati si staccarono dal gruppo e avanzarono verso i gradini.
 
 Reks sollevò la spada e arretrò di un passo, mantenendo il vantaggio dell'altezza.
 
-## 5. L'uomo che uccise il re
+## 6. L'uomo che uccise il re
 
 Il primo soldato archadiano raggiunse la scala con lo scudo sollevato. Quando vide Reks ad aspettarlo qualche gradino più in alto, rallentò appena, poi riprese a salire.
 
@@ -1700,7 +1700,7 @@ La luce delle candele si fece sempre più indistinta.
 Poi scomparve.
 
 
-## 6. La morte di un regno
+## 7. La morte di un regno
 
 Il primo documento arrivò a Rabanastre tre giorni dopo la notte di Nalbina.
 
@@ -2147,7 +2147,7 @@ Rimase ancora un po' a guardare il cielo. Gli sarebbe piaciuto poter raccontare 
 
 # Parte I. Il ladro di Rabanastre
 
-## 7. Due anni dopo
+## 8. Due anni dopo
 
 Sotto Rabanastre i topi si pagavano a coda. Lo aveva stabilito, molti anni prima della guerra, un decreto del vecchio consiglio cittadino, e nessuno si era preso la briga di abolirlo: tre coppe di rame per ogni coda consegnata all'ufficio delle cisterne, che adesso aveva un'insegna archadiana sopra la porta e un impiegato archadiano dietro il banco, ma pagava ancora in rame dalmasco, perché il rame dalmasco era l'unica cosa che i conquistatori non avevano avuto voglia di cambiare. Le code si portavano in un sacchetto. L'impiegato le contava con una pinza, senza toccarle, e annotava la cifra in un registro con l'espressione di un uomo che aveva studiato contabilità ad Archades per finire così.
 
@@ -2356,7 +2356,7 @@ Prima di andare da Migelo fece un giro largo, per il mercato. Passò davanti al 
 Erano le sei coppe che le code di topo gli avrebbero reso all'ufficio delle cisterne, il giorno dopo. Le monete del soldato se le tenne.
 
 
-## 8. Il Pomodoro Smarrito
+## 9. Il Pomodoro Smarrito
 
 Migelo batteva la coda. Era il suo modo di contare il tempo che perdeva, e quel giorno ne perdeva molto: la coda squamosa del vecchio Bangaa colpiva il pavimento di terracotta della bottega a intervalli regolari, tac, tac, come un pendolo di cuoio, e ogni tanto, quando qualcosa andava storto più del solito, faceva un tac doppio che le ragazze del forno accanto avevano imparato a riconoscere attraverso il muro.
 
@@ -2639,7 +2639,7 @@ Vaan era già partito. Correva verso la piazza con il ciuffo del Pomodoro in man
 Montblanc ebbe la sua notizia il giorno dopo. Gliela portò Kytes, perché Vaan aveva altro per la testa: sei soldati alla Porta Est, arrivati da Nalbina, che chiamavano il loro console con una parola che voleva dire macellaio e la dicevano con ammirazione. Il moguri la scrisse nel quaderno, accanto alla piccola spiga, e ringraziò. Poi chiese a Kytes, con molto garbo, se il suo amico avesse trovato dei fiori, nel deserto. Kytes non seppe rispondere. Non sapeva come facesse il moguri a saperlo, e non lo seppe mai.
 
 
-## 9. Il discorso del conquistatore
+## 10. Il discorso del conquistatore
 
 L'araldo aveva una lista di titoli lunga quanto quella di Migelo, e la leggeva con lo stesso amore. Stava sul palco di legno che i carpentieri della guarnigione avevano montato in tre giorni davanti al portone del palazzo, coperto di velluto nero e frange d'oro, e scandiva ogni titolo con una pausa dopo, perché la piazza avesse il tempo di apprezzarlo. Figlio terzo di Sua Maestà Imperiale Gramis Gana Solidor. Comandante supremo delle armate dell'Occidente. Vincitore di Nalbina. Pacificatore delle province di frontiera. Membro del Consiglio della Casa. Cavaliere della Croce di...
 
@@ -2806,7 +2806,7 @@ Lei lo guardò, e vide la sua faccia, e capì prima che lui parlasse.
 Ma lui guardava le sei finestre buie sotto le cupole, e lei sapeva per esperienza che quando Vaan guardava una cosa in quel modo, la cosa, prima o poi, finiva nei guai, e lui con lei.
 
 
-## 10. Il vecchio che sapeva
+## 11. Il vecchio che sapeva
 
 Le feste per l'insediamento del console durarono cinque giorni, secondo l'uso di Archades, che misura l'importanza di un uomo dal numero di sere in cui lo si festeggia. La prima sera mangiarono gli ufficiali, la seconda e la terza i mercanti e i notabili che avevano chiesto di essere invitati, la quarta i comandanti della guarnigione di Nalbina, venuti apposta, e la quinta, la più grande, la vecchia nobiltà di Dalmasca, quella che era rimasta, convocata con biglietti scritti a mano su carta color avorio e un sigillo che nessuno poteva permettersi di rifiutare. Migelo aveva la lista per tutte e cinque. Dormiva quattro ore per notte e batteva la coda anche nel sonno.
 
@@ -2935,7 +2935,7 @@ Poi un uccello grosso e grigio, con la cresta rossa e un'aria profondamente stup
 Le cockatrici dei nomadi, aveva detto Dalan, sono stupide ma beccano. Vaan scoprì che il vecchio, come sempre, sapeva.
 
 
-## 11. La luce nella pietra
+## 12. La luce nella pietra
 
 Vaan entrò nel villaggio dei nomadi correndo all'indietro, con la spada alzata davanti a sé e la cockatrice che lo seguiva a becco aperto, e la prima persona che lo vide rise così forte che dovette sedersi.
 
@@ -3100,7 +3100,7 @@ Camminarono a lungo senza parlare. Poi Penelo si mise a contare le onde del vent
 Nella tasca, contro la coscia, la Pietra del Sole scaldava ancora.
 
 
-## 12. Una promessa prima dell'addio
+## 13. Una promessa prima dell'addio
 
 La pattuglia la sentirono prima di vederla. Era passata mezzanotte, e la strada che da Giza risale verso Rabanastre correva fra due argini d'erba alta, e da dietro una curva arrivò un rumore che nella pianura non c'entrava niente: metallo contro metallo, a ritmo, e il raspare di zampe artigliate sulla terra battuta. Chocobo. Almeno quattro. E uomini in armatura che ci stavano sopra.
 
@@ -3342,7 +3342,7 @@ Poi si voltò a destra e scese i trenta gradini della Città Bassa, due alla vol
 Nella stanza sopra la bottega, sulla finestra, il vaso verde restò vuoto anche quella notte.
 
 
-## 13. La strada del ladro
+## 14. La strada del ladro
 
 Dalan prese la Pietra del Sole con due dita e la tenne alla luce del pozzo d'aerazione, e per la prima volta da quando Vaan lo conosceva il vecchio non disse niente di spiritoso. La guardò a lungo. La pietra era gialla e calda e pulsava appena, come un cuore piccolo, e la luce che saliva dal fondo dei suoi riflessi era la stessa che Vaan aveva visto nei cristalli di Giza, raccolta e chiusa dentro una noce.
 
@@ -3573,7 +3573,7 @@ Andò alla parete. Mise la Luna Crescente nella mezzaluna di pietra, e la pietra
 La parete si aprì senza rumore, verso l'interno, su un buio fresco che odorava di polvere e di qualcosa di più antico della polvere. Vaan sfilò la Luna Crescente dall'incavo, se la rimise in tasca ed entrò. Dietro di lui, il leone sul pavimento si spense, linea per linea, e tornò a essere un vecchio disegno consumato su cui gli archadiani avrebbero camminato senza vederlo.
 
 
-## 14. Il protagonista
+## 15. Il protagonista
 
 La parete si richiuse alle sue spalle senza rumore, come si era aperta, e Vaan si accorse che si era richiusa solo quando si voltò per guardarla e non la trovò più. Al suo posto c'era pietra. Pietra liscia, fredda, senza mezzaluna e senza fessure. Ci passò sopra le mani, tutte e due, palmo a palmo, dal basso fino a dove arrivava in punta di piedi, e la pietra restò pietra. La Luna Crescente, nella sua tasca, aveva smesso di brillare.
 
@@ -3790,7 +3790,7 @@ Vaan salì. I gradini giravano su se stessi, stretti, dentro un muro, e salivano
 Sotto di lui, nel cortile, qualcuno stava gridando. Poi il cortile esplose.
 
 
-## 15. Il cielo in fiamme
+## 16. Il cielo in fiamme
 
 La terrazza dava sul cortile grande, quello delle parate, e dal cortile saliva il fuoco.
 
@@ -3923,7 +3923,7 @@ Caddero dentro la buca. Caddero oltre i bordi frastagliati del cortile, oltre le
 Poi l'acqua dei canali di Garamsythe, fredda come la notte di Giza, gli si chiuse sopra la testa.
 
 
-## 16. Tre sconosciuti nelle fogne
+## 17. Tre sconosciuti nelle fogne
 
 Vaan tornò in sé tossendo acqua, a pancia in giù su una lastra di pietra bagnata, con la sensazione precisa di aver bevuto mezza Rabanastre e la sensazione meno precisa, ma più urgente, di avere ancora la pietra. Ce l'aveva. Era sotto di lui, schiacciata fra il petto e la lastra, e gli premeva contro lo sterno come un pugno tiepido. La toccò attraverso la camicia fradicia. Poi si girò sulla schiena e guardò in alto.
 
@@ -4114,7 +4114,7 @@ E sopra tutte quelle voci, nitida, una voce di donna, giovane, che non chiedeva 
 «Chi è il prossimo?»
 
 
-## 17. La donna vestita di rosso
+## 18. La donna vestita di rosso
 
 La galleria sbucava in una sala delle chiuse, una di quelle camere alte e quadrate dove i costruttori dei canali avevano messo le paratie che regolavano l'acqua, e dove le grandi ruote dentate per alzarle e abbassarle stavano ancora appese ai muri, ferme da un secolo, con le catene arrugginite che pendevano nel vuoto come liane. L'acqua, lì, cadeva da una paratia rotta in una cascata bassa e larga, con un rumore che riempiva tutto. Sopra la cascata, a metà altezza, correva una piattaforma di ferro. Sulla piattaforma c'erano cinque soldati archadiani e una donna.
 
@@ -4323,7 +4323,7 @@ Vayne la guardò ancora un momento. Poi si raddrizzò, tolse le mani dal parapet
 
 *Halim Ondore IV, marchese di Bhujerba, Memorie, libro secondo*
 
-## 18. Il fazzoletto
+## 19. Il fazzoletto
 
 La grata del quartiere delle cisterne si apriva in un cortile quadrato, fra quattro case alte con le scale esterne, dove al mattino le donne della Città Bassa venivano a prendere l'acqua alla vecchia pompa di bronzo. Quel mattino le donne c'erano già, con le brocche e i secchi in fila davanti alla pompa, perché a Rabanastre l'acqua si prende all'alba qualunque cosa sia successa la notte; e videro la grata alzarsi, e i soldati salire, e dietro i soldati quattro persone con le mani legate davanti. Una brocca cadde. Nessuno si chinò a raccoglierla.
 
@@ -4476,7 +4476,7 @@ Ba'Gamnan si frugò sotto il mantello e tirò fuori un foglio piegato, sporco, c
 «Permesso di caccia dell'impero» disse. «Firmato dal governatore di Nalbina. Vale in tutti i territori di Sua Maestà Imperiale, comprese le cantine.» Il labbro tirato, adesso, sembrava davvero sul punto di ridere. «Noi entriamo dalla porta, Bwagi. Con il permesso. E poi vediamo chi esce.»
 
 
-## 19. I gigli per Reks
+## 20. I gigli per Reks
 
 Nella stanza sopra la bottega era sera, e i gigli si erano aperti.
 
@@ -4661,7 +4661,7 @@ Vaan sentì Balthier, accanto a lui, irrigidirsi tutto.
 «Oh, no» disse l'aviopirata, in un sussurro così basso che fu più un respiro che una frase. «Lui no. Non anche lui. Non oggi.»
 
 
-## 20. Il cacciatore di pirati
+## 21. Il cacciatore di pirati
 
 L'ufficiale grasso si chiamava Tullian, e di lui la storia non ricorda altro che il nome e il sudore; ma quel giorno, in fondo alla fossa di Nalbina, ebbe la sua ora, e la passò male.
 
@@ -4862,7 +4862,7 @@ Balthier controllò che l'arma fosse carica, e la rimise alla cintura.
 E scesero dietro il Giudice.
 
 
-## 21. L'uomo che il mondo credeva morto
+## 22. L'uomo che il mondo credeva morto
 
 Oltre la porta l'aria cambiava. Nei livelli alti di Nalbina faceva il caldo grasso delle caserme, quello che sa di sudore vecchio, di rancio bruciato e di olio per le armature; qui sotto il caldo finiva di colpo, come finisce al bordo di un pozzo, e restava un freddo umido che saliva dalle pietre e si attaccava ai vestiti. Le scale scendevano a spirale nella roccia viva, e ogni gradino aveva un incavo nel mezzo, lasciato da secoli di piedi che non erano tornati su. Ogni venti gradini c'era una lampada di magilite in una gabbietta di ferro. Metà erano spente.
 
@@ -5067,7 +5067,7 @@ Balthier sospirò, breve. «Ma certo» disse. «Perché no.»
 Fran tirò la leva.
 
 
-## 22. Una spada in più
+## 23. Una spada in più
 
 La leva scese con un rumore di ossa, e il mondo sotto i piedi di Vaan smise di esistere.
 
@@ -5228,7 +5228,7 @@ Basch si alzò. Si appoggiò un momento al muro, come dopo ogni scontro, e poi s
 Vaan non rispose. Non disse né sì né no. Si alzò anche lui, e prese la sua spada, e si mise in cammino per primo verso il fondo della galleria, dove il Mystes si raccoglieva e Fran aveva detto grande; e contò i passi, uno dopo l'altro, a mezza voce, per non sentire nient'altro.
 
 
-## 23. Il volto del traditore
+## 24. Il volto del traditore
 
 La stazione si chiamava Barheim Bassa, e lo diceva ancora una tavola di legno inchiodata sopra la porta del casotto del capostazione, con le lettere dipinte di bianco che il tempo aveva fatto diventare grigie. Sotto, più piccolo, c'era l'orario dell'ultima corsa. Nessuno l'aveva mai cancellato. Diceva che il convoglio per Nalbina partiva al terzo rintocco, e che i passeggeri erano pregati di non portare a bordo animali vivi. Erano trent'anni che nessun convoglio partiva al terzo rintocco, e trent'anni che nessuno portava animali vivi da nessuna parte, là sotto. Ma l'orario era ancora lì.
 
@@ -5447,7 +5447,7 @@ Balthier si sistemò un polsino, quello senza bottone.
 E mentre camminavano nel buio, Vaan, senza accorgersene, si toccò la manica sinistra della camicia, all'altezza della spalla, dove la cucitura teneva; e la tenne stretta fra le dita per un lungo tratto di galleria, finché la galleria non finì.
 
 
-## 24. L'aria di Dalmasca
+## 25. L'aria di Dalmasca
 
 La galleria finiva su una scala di ferro, e in cima alla scala una lampada si staccò dal muro con un colpo venuto dal basso e rimase appesa al cavo. Dondolò per tre colpi del cavo contro il muro. Al quarto si spense. Sotto la scala, nel punto in cui la ferrovia entrava nell'ultima sala, le altre luci si abbassarono tutte insieme; una riga verde corse sui binari e sparì fra le zampe di una creatura che occupava quasi tutta l'apertura. Vaan vide prima le zampe. Il corpo venne dopo, sollevandosi dal pavimento con il rumore di una cassa trascinata su cento chiodi.
 
@@ -5592,7 +5592,7 @@ Il pirata lo guardò, poi guardò Basch. «Perché oggi abbiamo già messo abbas
 Fran passò davanti e si avviò verso la porta. Le guardie avevano acceso il braciere per la cena.
 
 
-## 25. Un ritorno senza festa
+## 26. Un ritorno senza festa
 
 La guardia aveva in mano una cipolla. La tagliava sopra un pezzo di pane, usando il coltello di servizio, e per questo controllò i viaggiatori con un solo occhio: l'altro lacrimava. Balthier gli diede un nome che non era il suo, parlò di una carovana rimasta senza un asse e fece una considerazione sul prezzo indecente dei ricambi. La guardia trovò che il prezzo fosse indecente davvero. Li lasciò passare senza chiedere a Basch di alzare la testa.
 
@@ -5877,7 +5877,7 @@ Tornò a strofinare. La macchia rimase dov'era.
 Vaan restò sul gradino un momento ancora. Poi scese in strada, dove Basch lo aspettava all'ombra del muro senza chiedere niente, e per la prima volta da Barheim non si mise a camminare davanti a lui.
 
 
-## 26. Le ferite
+## 27. Le ferite
 
 Il lastricato davanti alla casa di Vossler era bagnato. La guardia aveva finito di lavare la finestra e vuotato il secchio sui gradini, spingendo nella strada una striscia di acqua grigia che non arrivava fino allo scolo. Basch vi posò un piede e lo ritrasse subito. La fasciatura del tacco era scivolata. Si chinò per rifarla, con una mano sul ginocchio; Vaan lo aspettò due passi più avanti.
 
@@ -6232,7 +6232,7 @@ Scesero insieme. Kytes alzò il capo dal registro; Vaan gli chiese un'ultima vol
 Al cortile della pompa non c'era più nessuno. I bambini avevano lasciato la corda e portato via la tazza. Vaan si fermò a sciogliere il capo dal chiodo: qualcuno, passando al buio, ci avrebbe lasciato un piede. Basch tenne l'altra estremità finché il nodo venne via. Poi ripresero la strada della Sandsea, e il ragazzo gli camminò accanto.
 
 
-## 27. La promessa del cielo
+## 28. La promessa del cielo
 
 Migelo teneva un foglio sopra un piatto. La salsa aveva già raggiunto un angolo della carta, ma lui non se ne accorgeva: lo agitava sotto il naso di Balthier, che arretrava con la sedia finché le gambe posteriori non incontravano il muro. Al piano alto della Sandsea la discussione aveva fermato il servizio. Un cameriere attendeva sul penultimo gradino con due coppe; Fran, seduta di lato, gli fece cenno di posarle e andarsene.
 
@@ -6449,7 +6449,7 @@ Si tolse la pietra dal collo e la ripose nella sacca, dove non avrebbe urtato il
 
 # Parte III. La città celeste e il Leviatano
 
-## 28. L'esca
+## 29. L'esca
 
 La stanza aveva una porta, una finestra grande quanto un mattone e un odore che Penelo non conosceva. Ci mise mezza giornata a dargli un nome. Era polvere di pietra, ma non la polvere bianca di Rabanastre, che sa di calce e di sole; questa era grigia e azzurrina, si posava su tutto in un velo sottile che brillava appena quando la luce lo prendeva di taglio, e se ci si passava un dito sopra restava sulla pelle un formicolio leggero, come quando si tocca la lingua con una moneta. Nelle casse accatastate contro il muro c'erano attrezzi da scavo, picconi dal manico lucido, lanterne con il vetro rotto. Qualcuno, prima di lei, aveva inciso sulla trave sopra la porta una fila di tacche, forse i giorni di paga, forse altro. Erano quarantuno. Penelo le aveva contate tre volte, perché non c'era altro da contare.
 
@@ -6672,7 +6672,7 @@ Fran guardò la schiena di Lamont, la casacca scura, i bottoni tutti uguali.
 «Quale dei due?» disse.
 
 
-## 29. Il marchese e il Giudice
+## 30. Il marchese e il Giudice
 
 L'ingresso delle miniere di Lhusu era stato costruito da gente che voleva farsi ricordare. Sopra la bocca della galleria principale, scolpito nella roccia viva, c'era un arco alto come tre case, con due figure di minatori che reggevano sulle spalle un cristallo grande quanto una botte, e sotto l'arco un'iscrizione in caratteri antichi che Lamont lesse senza fermarsi: *ciò che la terra trattiene, il cielo restituisce*. Sotto l'iscrizione, inchiodato al legno di una baracca, c'era un cartello più recente, scritto a mano, con le ore dei turni, il prezzo del pane alla mensa e l'avviso che chi portava fuori pietre nelle scarpe veniva frustato in piazza il primo giorno del mese. Vaan lesse questo.
 
@@ -6813,7 +6813,7 @@ Basch si fermò un momento ancora a guardare la galleria del marchese. Fran gli 
 Basch non rispose. Si voltò e seguì il ragazzo verso il basso, verso la luce azzurra che diventava più forte e il ronzio della pietra che saliva, e per un lungo tratto non disse una parola, nemmeno quando Vaan, davanti a tutti, sbagliò galleria due volte e la seconda volta diede la colpa ai binari.
 
 
-## 30. La pietra che divora
+## 31. La pietra che divora
 
 Al terzo livello delle miniere c'era un posto di ristoro per i minatori, e il posto di ristoro aveva un vecchio.
 
@@ -7042,7 +7042,7 @@ Aveva girato le orecchie di scatto verso il fondo della caverna, verso la galler
 «Finalmente.»
 
 
-## 31. La trappola di Ba'Gamnan
+## 32. La trappola di Ba'Gamnan
 
 Venivano dalla galleria del cancello, e il cancello di ferro buono, notò Basch, era aperto. Ba'Gamnan entrò per primo, chinando la testa sotto l'architrave anche se non ce n'era bisogno, per abitudine o per teatro. Dietro di lui gli altri tre si allargarono a ventaglio, ciascuno al suo posto, senza che nessuno avesse dato un ordine: Bwagi a sinistra con una rete arrotolata sulla spalla, Gijuk a destra con due lame corte, Rinok in mezzo con una mazza ferrata che teneva appoggiata alla spalla come un bastone da passeggio. Erano cacciatori. Si vedeva da come stavano. Si vedeva anche da come guardavano la caverna, e cioè senza guardarla: i loro occhi andavano agli uomini, alle mani degli uomini, alle armi nelle mani, e la caverna spenta e fredda con le sue rastrelliere di pietra viola non la vedevano neanche.
 
@@ -7259,7 +7259,7 @@ E Balthier, che si era fermato sotto l'arco con le braccia conserte e i capelli 
 «Va bene» disse. «Te lo dico.»
 
 
-## 32. Sono Basch
+## 33. Sono Basch
 
 «I bottoni» disse Balthier.
 
@@ -7478,7 +7478,7 @@ Balthier si staccò dallo stipite. Si guardò attorno, guardò i volti degli uom
 «Bene» disse. «Adesso che abbiamo fatto le presentazioni, credo che il vostro padrone vorrà vederci. E credo anche che vorrà vederci in fretta, prima che il suo ospite con l'elmo a corna senta lo stesso pettegolezzo che avete sentito voi.»
 
 
-## 33. Due ragazzi e un fratello
+## 34. Due ragazzi e un fratello
 
 Nella casa del marchese c'erano sette tipi di cucchiaio. Penelo li contò la sera stessa, sulla tavola apparecchiata per lei sola in una saletta con le pareti di legno di cedro, e il fatto di contarli la rimise in piedi più del pane, più della zuppa di lenticchie gialle e più del bagno caldo che una cameriera di nome Tahla le aveva preparato appena arrivata, in una vasca di rame grande come la bottega di Migelo, con dell'acqua che sapeva di fiori secchi. Contare è un modo di tenere le cose al loro posto. Sette cucchiai. Uno era così piccolo che non riusciva a immaginare cosa ci si potesse mangiare; forse le lenticchie, una per volta.
 
@@ -7702,7 +7702,7 @@ Penelo si coprì la faccia con tutte e due le mani.
 E per quanto ci provasse, e ci provò per un bel pezzo, non riuscì a smettere di ridere.
 
 
-## 34. Il tradimento che non era
+## 35. Il tradimento che non era
 
 L'uomo della casa di Ondore arrivò alla taverna delle Nuvole un'ora dopo, da una porta che nessuno aveva visto aprirsi. Era un segretario, magro, con le dita macchiate d'inchiostro e la voce di chi passa la vita a leggere ad alta voce documenti che non ha scritto. Havharo gli disse tre parole all'orecchio. Il segretario guardò Basch. Poi guardò di nuovo Havharo, e Havharo annuì, e il segretario guardò Basch ancora una volta, più a lungo, come si guarda una data sbagliata in un registro che si è firmato.
 
@@ -7897,7 +7897,7 @@ Basch non rispose.
 Il marchese si voltò e tornò accanto al camino. Le guardie spinsero i prigionieri verso la porta. Vaan si girò, all'ultimo, sulla soglia, e lo vide in piedi davanti al fuoco piccolo con le mani di nuovo nelle maniche e il bastone appoggiato alla poltrona, e lo vide guardare le finestre, dove il Leviatano era sceso ormai così vicino che i suoi oblò illuminati riempivano tutto il vetro. Il segretario gli stava porgendo la tavoletta perché la firmasse. Il marchese la prese e lesse. La calligrafia del segretario era quella delle cancellerie, impeccabile, fatta per durare negli archivi. La firma che Halim Ondore IV ci mise sotto, quella sera, per la prima volta in trent'anni di trattati, gli venne un poco tremata.
 
 
-## 35. Le stanze del console
+## 36. Le stanze del console
 
 Nel palazzo reale di Rabanastre le lampade le accendeva un moguri di nome Pukko.
 
@@ -8132,7 +8132,7 @@ E Montblanc, che a quell'ora stava già a letto con il berretto da notte, ascolt
 E che i favori, kupò, si pagano dopo.
 
 
-## 36. L'erede
+## 37. L'erede
 
 La navetta che li portò sul Leviatano aveva le panche di ferro e un oblò solo, e i soldati di scorta si erano seduti tutti dalla parte dell'oblò. Vaan vide Bhujerba allontanarsi tra le spalle di due elmi: le luci della città che diventavano un grappolo, poi una manciata, poi niente, inghiottite dal mare di nuvole che di notte era grigio e gonfio come una coperta di lana bagnata. Poi l'oblò si riempì di metallo.
 
@@ -8411,7 +8411,7 @@ Era spenta, adesso. Un cristallo grande quanto un uovo di gallina, di un colore 
 Il cristallo non rispose. Sui banchi degli ufficiali, a tre passi da lui, due lampade di bordo tremolarono, impallidirono per un istante, e poi tornarono a brillare come prima, e nessuno ci fece caso.
 
 
-## 37. Il soldato che non era
+## 38. Il soldato che non era
 
 I corridoi del Leviatano erano tutti uguali, e questo, disse Balthier, era il segno più sicuro di una buona amministrazione. Pareti di metallo grigio, pavimenti a griglia, una lampada ogni dodici passi, una porta ogni trenta, e sopra ogni porta un numero dipinto in bianco. A ogni incrocio un cartello indicava i ponti, le stive, le sale macchine, con frecce precise e parole abbreviate che Vaan non riusciva a decifrare. I soldati di scorta erano sei: due davanti, due dietro, due ai fianchi. Camminavano allo stesso passo, e i loro stivali sul metallo facevano un rumore solo.
 
@@ -8586,7 +8586,7 @@ Vossler lo guardò di lato. «Lo so» disse. «È questo che mi preoccupa di te.
 Davanti a loro, Ashe si era fermata a un incrocio. Si voltò. Per un istante il suo sguardo passò su Basch, e Vaan, che le stava accanto, ebbe l'impressione che stesse per dire qualcosa. Poi la principessa girò la testa verso Fran, che indicava un corridoio, e chiese da che parte fossero gli hangar.
 
 
-## 38. Il dono di Larsa
+## 39. Il dono di Larsa
 
 Gli hangar del Leviatano stavano sotto la pancia della nave, e per arrivarci bisognava scendere quattro ponti. Le sirene, a un certo punto, smisero. Non perché qualcuno avesse ritrovato la calma: Balthier, in una sala piena di cristalli dove i soldati di guardia erano corsi via all'allarme lasciando una tazza di tè ancora fumante sul banco, aveva messo le mani sulla chiave che Vossler aveva preso agli ufficiali delle celle, aveva guardato il pannello per tre secondi, ci aveva girato due manopole e abbassato una leva, e le sirene si erano spente come un gallo a cui si tira il collo.
 
@@ -8783,7 +8783,7 @@ Poi, in fondo alla galleria, si aprì una porta, e la luce del giorno, la luce v
 Basch si rimise a camminare. Davanti a tutti. E la principessa, questa volta, lo lasciò fare senza dire niente.
 
 
-## 39. La falsa erede
+## 40. La falsa erede
 
 L'hangar era grande come la piazza della cattedrale di Rabanastre, e da una parte non aveva muro.
 
@@ -9016,7 +9016,7 @@ E Vaan, che non avrebbe saputo dire perché, distolse gli occhi.
 
 *Halim Ondore IV, marchese di Bhujerba, Memorie, libro terzo*
 
-## 40. La città che mente
+## 41. La città che mente
 
 L'Atomos toccò la piattaforma dell'aerodromo di Bhujerba con un colpo secco, come una padella posata male sul fuoco, e restò lì a fumare. Fran spense i motori. Per un momento, nella stiva, nessuno si mosse. Si sentiva soltanto il metallo che si raffreddava con piccoli schiocchi, e fuori il vento, e da qualche parte, sotto la terrazza, un barcaiolo dell'aria che cantava.
 
@@ -9245,7 +9245,7 @@ Lo disse nel tono in cui si dice di sì a un bambino che promette di non mangiar
 Balthier richiuse gli occhi. Allungò una mano fuori dall'acqua, a tentoni, e la posò sul fazzoletto piegato sul bordo della vasca, e la lasciò lì.
 
 
-## 41. Il furto di una nave pirata
+## 42. Il furto di una nave pirata
 
 Il pasto, Ondore lo mantenne. Si servì in una sala piccola, con le pareti di legno e un solo lampadario, e durò tre ore, e c'erano undici portate, e Balthier le commentò tutte con la serietà di un giudice di gara: la zuppa di lenticchie gialle con lo zafferano, che approvò; l'agnello delle isole basse cotto nel fieno, davanti al quale tacque per un lungo momento, con gli occhi chiusi; le piccole torte di miele e noci, di cui mangiò sei, una dopo l'altra, con un'espressione di malinconia crescente, perché sapeva che la sesta sarebbe stata l'ultima. Penelo mangiò tutto e contò i cucchiai. Vaan mangiò tutto due volte. Fran mangiò pochissimo e soltanto le cose verdi. Basch mangiò in piedi, accanto alla porta.
 
@@ -9620,7 +9620,7 @@ Il marchese lesse il biglietto due volte. Poi lo piegò, lo infilò nella manica
 Più tardi, il giardiniere trovò il glicine rotto, e pianse.
 
 
-## 42. Il vecchio imperatore
+## 43. Il vecchio imperatore
 
 Ad Archades, quell'anno, l'imperatore tossiva.
 
@@ -9865,7 +9865,7 @@ Poi infilò una mano sotto il bordo del pettorale, nella tasca interna, contro i
 Nella torre dell'imperatore, il cancelliere, che aveva aspettato tutto il tempo dietro una porta laterale con il suo registro, entrò nella sala vuota, si sedette alla panca, aprì il registro e scrisse la sua riga. Poi ci pensò. Poi scrisse la nota. Poi la cancellò.
 
 
-## 43. Dove la sabbia diventa oceano
+## 44. Dove la sabbia diventa oceano
 
 La prima lancetta impazzì sopra un canyon vuoto. Salì fino al segno rosso, tornò giù e riprese a salire, mentre la Strahl si inclinava quel tanto che bastava a far correre una coppa lungo il pavimento. Penelo la fermò con uno stivale. Vaan, che fino a quel momento aveva spiegato quale leva avrebbe toccato al posto di Fran, si afferrò alla paratia e non finì la frase.
 
@@ -10100,7 +10100,7 @@ Era una risposta da soldato. Basch la accettò come tale. Fran, a dieci passi, c
 Fran, che era rimasta presso la ringhiera, tese improvvisamente un orecchio. Sotto la piattaforma qualcosa passò controcorrente. Balthier le vide girare il capo e smise di osservare i capitani.
 
 
-## 44. Il popolo del mare
+## 45. Il popolo del mare
 
 Il primo cavaliere del mare di sabbia non fece rumore. Passò sotto la grata con una maschera chiara rivolta verso l'alto, le mani chiuse su due redini e il corpo stretto al dorso di un animale che apriva la distesa senza lasciare un solco. Poi ne arrivò un secondo, e dietro di lui molti altri. Vaan si sporse. Fran gli prese la giubba e lo rimise al centro della passerella.
 
@@ -10305,7 +10305,7 @@ Accanto al fuoco, Vossler finì di affilare la spada. La guardò controluce, la 
 Più avanti la carta degli Ondore finiva di segnare passerelle. Le rocce si stringevano, formando una gola che nascondeva il sole. Vaan mise le bacche al sicuro nella sacca e passò per primo fra le pareti.
 
 
-## 45. La valle dei re
+## 46. La valle dei re
 
 Il vento lasciò cadere la sabbia appena entrarono nella gola. Fino a quel punto gliel'aveva gettata in faccia per due giorni; fra le pareti alte diventò una corrente bassa, che correva a terra e si raccoglieva negli angoli. Vaan si liberò il naso dalla benda e inspirò troppo in fretta. Tossì. Penelo non gli disse nulla, ma lui la guardò ugualmente con aria di difesa.
 
@@ -10500,7 +10500,7 @@ Vaan guardò Basch, che gli restituì l'astuccio perché potesse chiuderlo nella
 Ashe posò il palmo sulla pietra luminosa. Il segno si allargò sotto le dita. Alle loro spalle la valle cominciò a perdere colore, e Vaan sentì il gradino scomparire sotto le suole senza che il corpo cadesse.
 
 
-## 46. Le pareti che camminano
+## 47. Le pareti che camminano
 
 Il primo odore della tomba fu quello delle loro borracce. In una stanza in cui l'aria non si muoveva, cuoio bagnato e acqua tiepida arrivarono al naso con una forza insolita; per un istante Vaan pensò che il trasporto non li avesse portati da nessuna parte, che avesse soltanto spento il sole. Poi sentì freddo alle caviglie e vide la sabbia fermarsi sul gradino dietro di loro. Non c'era una porta aperta sulla valle. C'era un altro segno luminoso, uguale a quello che avevano toccato fuori.
 
@@ -10713,7 +10713,7 @@ Discesero. Il congegno li portò nell'ultima camera, una sala stretta sopra cui 
 La principessa lo sentì da molto lontano. Fece un passo verso il piedistallo e vide la pietra cominciare a risplendere.
 
 
-## 47. L'ombra di Rasler
+## 48. L'ombra di Rasler
 
 Il piedistallo aveva una scanalatura lungo il bordo, larga quanto un dito. Ashe la vide perché guardava in basso, cercando un gradino che non c'era. Si era preparata a un'altra prova, a un guardiano o a una porta chiusa; la pietra era invece davanti a lei, così vicina che bastava tendere il braccio. La scanalatura conteneva polvere bianchissima. Nessuna impronta, nessun segno di mano.
 
@@ -11022,7 +11022,7 @@ Ashe posò la mano libera sul centro della lastra. Sentì sotto il palmo la stes
 Quando li riaprì, il vento della valle le aveva già riempito la bocca di sabbia.
 
 
-## 48. Il prezzo
+## 49. Il prezzo
 
 Il primo soldato aveva già preso l'ultimo gradino. Quando la luce del trasporto lasciò tornare la valle, Ashe lo vide dal basso, con il bordo dell'elmo contro il sole e la lancia tenuta di traverso. Dietro di lui c'erano altri uomini. Non le lasciarono lo spazio per voltarsi verso il congegno. Una squadra salì dai lati della scalinata e ne chiuse l'accesso mentre il rombo delle navi cancellava ogni rumore di passi.
 
@@ -11225,7 +11225,7 @@ La pietra entrò nel dispositivo dentro una gabbia di sostegni lucidi. Le prime 
 Il tecnico non rispose. Stava controllando una seconda misura, quella che avrebbe dovuto restare costante nei motori. L'ago aveva cominciato a scendere.
 
 
-## 49. Lo Shiva
+## 50. Lo Shiva
 
 Sullo Shiva cambiarono le corde. Il marinaio incaricato del lavoro aveva un coltello ricurvo e un gomitolo di canapa ai piedi; tagliava un nodo, prendeva la misura e ne faceva uno nuovo, senza alzare gli occhi. Quando arrivò a Vaan, il ragazzo tenne i polsi un poco distanti. Il marinaio gli strinse la mano finché non li accostò.
 
@@ -11452,7 +11452,7 @@ L'aviopirata non rispose. Liberò un fermo con l'unghia e portò la leva fino in
 Ashe era sola davanti al vetro laterale. L'ultima esplosione cancellò l'ombra del Leviatano e le illuminò le mani vuote. Non si coprì gli occhi. La luce restò anche quando la nave non c'era più.
 
 
-## 50. Le versioni ufficiali
+## 51. Le versioni ufficiali
 
 La luce nel cielo si fece abbastanza piccola da poterla guardare. Vaan se ne accorse dalle palpebre, che smisero di bruciargli, poi dai frammenti di metallo che ricomparvero sotto la nube. Cadevano lentamente, girando su se stessi. Uno conservava ancora una fila di finestre. Un altro sembrava un ponte, ma il ragazzo non riuscì a capire da quale nave fosse stato strappato.
 
@@ -11627,7 +11627,7 @@ La principessa gli chiese una stanza. Il vecchio la precedette nel corridoio sen
 
 # Parte V. La spada di una regina
 
-## 51. Il ricordo di Nabudis
+## 52. Il ricordo di Nabudis
 
 L'acqua non aveva rive. Ashe se ne accorse dopo, quando provò a cercarle, e capì di essere in piedi su una lastra di pietra grigia che finiva nel nulla da ogni lato, e che il nulla era un lago fermo, senza un'onda, senza un riflesso di cielo, perché un cielo non c'era. C'era una luce uguale dappertutto, la luce di un'ora che non esiste, né mattina né sera. Faceva freddo, ma non il freddo del deserto di notte; era il freddo delle cantine, quello che non viene dall'aria ma dalle cose.
 
@@ -11792,7 +11792,7 @@ Fran guardava la pietra. Le sue orecchie lunghe, sotto la luce della lampada, er
 «Le pietre» disse. «E chi le ha avute prima dei re.»
 
 
-## 52. L'anello
+## 53. L'anello
 
 I Garif, disse Fran, abitavano a sud, oltre Ozmone, in una terra che le carte di Rabanastre chiamavano Kerwon e che le carte di Archades non si prendevano nemmeno il disturbo di chiamare. Erano un popolo antico. Portavano maschere, vivevano in villaggi di legno su alture che nessun esercito aveva mai trovato utile conquistare, e da prima che esistessero gli imperi raccoglievano pietre, le ascoltavano e se ne tramandavano le storie.
 
@@ -11991,7 +11991,7 @@ Penelo ci pensò a lungo.
 All'alba ripresero a camminare verso sud, dove le prime alture di Kerwon cominciavano a salire dall'erba, e sulle alture, piccole come segni su una carta, si vedevano già i ponti.
 
 
-## 53. Coloro che ricordano
+## 54. Coloro che ricordano
 
 Il guerriero che sbarrava il ponte era alto il doppio di Vaan e largo come una porta, e portava una maschera di legno dipinto che gli copriva tutta la faccia: due occhi rotondi, un becco corto, strisce rosse e ocra che partivano dalla fronte e finivano sotto il mento. Dietro la maschera, dove avrebbero dovuto esserci gli occhi veri, c'era soltanto ombra. Aveva una lancia, e la teneva di traverso sul ponte con la serietà di chi ha deciso molto tempo fa che nessuno sarebbe passato senza una buona ragione e non ne ha ancora trovata una.
 
@@ -12144,7 +12144,7 @@ Ashe si alzò. Si voltò. Lo riconobbe.
 «Signorina Penelo.» Il ragazzo fece un piccolo inchino. Poi si raddrizzò e guardò la principessa di Dalmasca, la nipote di Raithwall, l'unica erede di un regno che suo fratello aveva conquistato, in piedi davanti a lui con una pietra spenta fra le mani. «Altezza. Speravo di trovarvi qui. Non speravo di trovarvi così presto.»
 
 
-## 54. L'ostaggio
+## 55. L'ostaggio
 
 I Garif diedero agli stranieri una casa vuota sul fianco della collina, con il pavimento di tavole che scricchiolava a ogni passo e un focolare in mezzo, sotto un buco nel tetto da cui il fumo usciva solo quando il vento era d'accordo. Larsa ci entrò per ultimo. Si tolse il mantello infangato, lo piegò con cura, lo appoggiò su una panca, e si sedette accanto al fuoco con le mani in grembo, con l'aria di un ospite in una casa di campagna che aspetta che gli servano il tè. Aveva dodici anni. Guardandolo, a nessuno sarebbe venuto in mente di chiedersi dove fosse la sua scorta. Veniva da chiedersi, piuttosto, dove fosse la sua governante.
 
@@ -12321,7 +12321,7 @@ Lui alzò le spalle. Era un gesto da ragazzo, da Città Bassa, il gesto che si f
 «Reks» disse.
 
 
-## 55. La confessione di Vaan
+## 56. La confessione di Vaan
 
 Ashe si sedette per prima, con le gambe raccolte e la schiena contro uno dei pali che reggevano le corde. Aveva stretto tanto a lungo il corrimano che le fibre le avevano lasciato un solco sui palmi. Vaan si sedette davanti a lei, con le gambe a penzoloni nel vuoto, e il ponte ondeggiò per il suo peso e poi si fermò. Sotto di loro, molto sotto, c'era il buio di un torrente che non si vedeva e si sentiva.
 
@@ -12456,7 +12456,7 @@ Larsa dormiva accanto al fuoco, raggomitolato sotto il suo mantello grigio, con 
 Ashe le guardò per molto tempo. Poi si sdraiò dall'altra parte del fuoco, con la schiena al muro e il frammento sotto la testa, e non dormì.
 
 
-## 56. Il mattino di Jahara
+## 57. Il mattino di Jahara
 
 All'alba Jahara faceva un rumore che nessuno degli stranieri aveva previsto: il rumore di cento pestelli. Le donne dei Garif pestavano le radici della sera prima nei mortai di legno, davanti alle case, tutte insieme, con un ritmo lento e regolare che saliva dalle terrazze più basse fino alla Collina degli Antichi, e che chi dormiva ancora sentiva arrivare attraverso le tavole del pavimento, nella schiena, prima che nelle orecchie. Vaan si svegliò convinto che stesse arrivando un esercito. Penelo, che si era svegliata prima, gli disse che era la colazione.
 
@@ -12635,7 +12635,7 @@ Davanti, Ashe sentì le loro voci e non si voltò. Ma Basch, che camminava al su
 Dietro di loro, sul ponte d'ingresso di Jahara, il guerriero grande come una porta batté ancora due volte la lancia sulle tavole. Poi, quando gli stranieri furono abbastanza lontani da non poterlo vedere, si tolse la maschera e si asciugò la fronte, perché faceva caldo, e una maschera di legno, a metà mattina sulle alture di Kerwon, è una cosa che si porta per dovere e non per piacere.
 
 
-## 57. Il peso della corona
+## 58. Il peso della corona
 
 Il messaggero del Clan li raggiunse il secondo giorno, in mezzo alla pianura, e arrivò nel modo in cui arrivano le notizie peggiori, cioè correndo e con l'aria contenta.
 
@@ -12852,7 +12852,7 @@ Gabranth abbassò la testa. Lo fece adagio, l'elmo scuro con le sue corna di met
 
 # Parte VI. Le figlie del Bosco
 
-## 58. Il regno del silenzio
+## 59. Il regno del silenzio
 
 La Giungla di Golmore cominciava come comincia un muro: tutta in una volta. L'erba di Ozmone arrivava fino a un certo punto, sempre più bassa, sempre più rada, e poi finiva contro una linea di tronchi così alti e così fitti che dalla pianura sembravano una sola cosa, una parete verde scuro che saliva fino a mangiarsi metà del cielo. Non c'erano margini, non c'erano boschetti che annunciassero la foresta, né cespugli, né alberi giovani. C'era la pianura, e poi c'era Golmore, e fra le due cose correva una striscia di terra nuda larga dieci passi dove non cresceva niente, come se l'erba avesse paura di avvicinarsi troppo.
 
@@ -13031,7 +13031,7 @@ Balthier fu l'ultimo a seguirla. Si fermò sull'imbocco del sentiero, guardò la
 «Almeno è asciutto» disse a nessuno in particolare. E andò.
 
 
-## 59. La Parola Verde
+## 60. La Parola Verde
 
 Eruyt non si vedeva arrivare. La passerella aperta da Fran saliva fra i tronchi per un tempo lungo, girava attorno a un albero così grande che ci volle mezza giornata per capire che era un albero solo, e poi, senza preavviso, si allargava in una piattaforma di legno chiaro, e sulla piattaforma c'erano due moguri seduti dietro un banco.
 
@@ -13220,7 +13220,7 @@ Fran si voltò. Lo guardò per un istante, e qualcosa le si mosse all'angolo del
 Scese per la passerella. Balthier le andò dietro.
 
 
-## 60. Quanti anni hai?
+## 61. Quanti anni hai?
 
 Scesero da Eruyt per la stessa passerella da cui erano saliti, e le viere sui rami li guardarono andare via con la stessa immobilità con cui li avevano guardati arrivare. Nessuna li salutò. I due moguri al banco salutarono per tutte, con grandi gesti, e uno dei due corse dietro a Penelo per un tratto per venderle un barattolo di miele, e glielo vendette.
 
@@ -13421,7 +13421,7 @@ Lo disse guardando la bocca della miniera. Le sue orecchie erano dritte, tese in
 Basch sguainò la spada.
 
 
-## 61. La voce che non era di Mjrn
+## 62. La voce che non era di Mjrn
 
 Dentro, le Miniere di Henne facevano rumore senza nessuno che lo facesse.
 
@@ -13558,7 +13558,7 @@ Fran non rispose. La teneva.
 Mjrn chiuse di nuovo gli occhi, e si addormentò, o svenne, con la testa sulla spalla di Fran e una mano chiusa sulla stoffa del suo vestito, stretta, come si stringe da bambini il lembo della gonna di chi ci porta via da un posto dove abbiamo avuto paura.
 
 
-## 62. Il segreto di Draklor
+## 63. Il segreto di Draklor
 
 Mjrn si svegliò all'aperto, sotto le stelle, sullo spiazzo davanti alla miniera, dove gli altri l'avevano portata perché nessuno di loro voleva passare una notte in più sotto quelle travi. Avevano spostato i corpi. Basch e Balthier li avevano allineati dietro una delle baracche e li avevano coperti con dei teli trovati accanto all'argano, e Larsa aveva chiesto di poter restare un momento solo con loro, e nessuno gli aveva chiesto perché. Quando era tornato al fuoco aveva gli occhi asciutti e la faccia molto composta, la faccia di un ragazzo a cui hanno insegnato che un principe non piange davanti ai sudditi, e che non sa ancora se quelli che ha davanti siano sudditi o no.
 
@@ -13711,7 +13711,7 @@ Larsa rimase in silenzio a lungo.
 Penelo si voltò a guardarlo. Larsa non aggiunse altro, e lei non gli chiese niente. Restarono seduti così, uno accanto all'altra, fino a quando il fuoco non fu ridotto a un mucchio di braci; e quando Penelo, alla fine, si alzò per andare a dormire, Larsa aprì il pugno, guardò la pietra, e se la mise in tasca, nella tasca del petto, dove si tengono le cose che non si vogliono perdere.
 
 
-## 63. La menzogna più gentile
+## 64. La menzogna più gentile
 
 Riportarono Mjrn a Eruyt in quattro giorni. Per i primi due camminò poco e dormì molto, sul chocobo, legata alla sella con una cinghia che Basch aveva ricavato dal suo stesso cinturone, e il chocobo, che fino a quel momento aveva tollerato soltanto Fran, la portò con un'attenzione così delicata che Penelo disse che sembrava una balia. Il terzo giorno Mjrn scese e volle camminare. Il quarto giorno parlava senza smettere.
 
@@ -13894,7 +13894,7 @@ Vaan non disse più niente fino a sera, e quella sera, accanto al fuoco, fu lui 
 
 *Halim Ondore IV, marchese di Bhujerba, Memorie, libro quarto*
 
-## 64. Dove la foresta incontra l'inverno
+## 65. Dove la foresta incontra l'inverno
 
 Il fiume li accompagnò per sei giorni, e ogni giorno era più freddo del precedente.
 
@@ -14075,7 +14075,7 @@ Larsa non rise. Guardò su per la pista, dove Balthier e Fran erano già piccoli
 Poi riprese a camminare anche lui. Ma da quel momento, per tutta la salita, non parlò più di suo padre.
 
 
-## 65. Le mani del padre
+## 66. Le mani del padre
 
 L'imperatore Gramis aveva un orologio che nessuno doveva toccare. Era un orologio d'ottone e di cristallo, alto quanto un bambino, che stava sul pavimento della sua camera da letto accanto alla finestra, e aveva dentro un pendolo e una sfera di magilite che girava piano su se stessa e faceva luce, così che di notte, quando l'imperatore non dormiva, poteva guardare l'ora senza chiamare nessuno. Glielo aveva regalato sua moglie, molti anni prima, quando nessuno dei loro figli era ancora nato. L'imperatrice era morta da anni. L'orologio andava avanti di quattro minuti al giorno, e ogni mattina un servitore apposito, un vecchio che non aveva altro compito a palazzo, veniva a rimetterlo, e l'imperatore gli diceva ogni volta di lasciarlo stare, e il vecchio lo rimetteva lo stesso.
 
@@ -14208,7 +14208,7 @@ Allungò la mano. La mano gli tremava, e la tazza tintinnò contro il piattino. 
 Poi rimise la tazza sul piattino, e guardò l'orologio della moglie, che segnava le quattro e quarantasei, ed erano le quattro e quarantadue.
 
 
-## 66. Il sognatore
+## 67. Il sognatore
 
 Le rocce galleggiavano perché nessuno aveva detto loro di non farlo. Questa, almeno, era la spiegazione del primo pellegrino a cui Vaan lo chiese, un vecchio seeq con un berretto di lana che vendeva candele all'ingresso del santuario e che rispose con l'autorità di chi ripete una cosa da quarant'anni. Il secondo pellegrino, una donna di Rozarria con un bambino in braccio, disse che le rocce erano i resti di una montagna che gli dèi avevano spaccato in collera, e che stavano su perché la collera degli dèi non finisce mai del tutto. Il terzo, un sacerdote giovane con la tunica bianca dei Kiltias e i geloni sulle dita, disse che erano sospese per la grazia della Luce, e poi, abbassando la voce, che comunque non bisognava passarci sotto con un'aeronave.
 
@@ -14313,7 +14313,7 @@ Fran lo guardò.
 «Uno come me» disse Balthier. «Ma con più soldi.»
 
 
-## 67. Il principe galante
+## 68. Il principe galante
 
 «Al-Cid» disse Larsa.
 
@@ -14468,7 +14468,7 @@ Erano bianchi. Tutti e due. Senza pupilla, senza iride, bianchi come il latte, c
 «Ah» disse il vecchio. «Eccolo, il sogno vero.»
 
 
-## 68. La caduta dell'imperatore
+## 69. La caduta dell'imperatore
 
 Il bollettino del Ministero della Legge che annunciava la morte dell'imperatore Gramis era lungo undici righe, ed era stato affisso su tutte le porte dei ministeri di Archades prima ancora che il corpo dell'imperatore fosse freddo. Aveva il timbro un poco sbavato e la firma di un funzionario che nessuno ricorda. Diceva che il sovrano si era spento serenamente. Diceva che un'indagine era stata aperta. Diceva che il responsabile aveva confessato. Per chi sa leggere i bollettini era un piccolo capolavoro: in undici righe riusciva a dire che la morte era stata serena e che qualcuno l'aveva provocata, senza che le due cose sembrassero litigare.
 
@@ -14655,7 +14655,7 @@ Poi si voltò verso la sala. Verso i soldati, i senatori, i Giudici. Verso il co
 Lo disse piano. Lo disse con la voce di chi recita una preghiera di famiglia. E i soldati lungo le pareti, che nessuno aveva comandato, si raddrizzarono tutti insieme, con un solo rumore di metallo, come Bergan aveva detto che facevano quando lui passava.
 
 
-## 69. La Spada dei Re
+## 70. La Spada dei Re
 
 Gli occhi del Gran Kiltias erano bianchi, ma guardavano. Nessuno dei sette compagni davanti alla sua sedia, quel pomeriggio, nella Sala della Luce, avrebbe saputo dire come facesse; eppure lo sapevano tutti, con la pelle, come si sa di essere osservati da una finestra. Anastasis guardava Ashe. La guardava da capo a piedi, adagio, come un mercante di stoffe guarda una pezza contro la luce per vedere se ha difetti nella trama.
 
@@ -14812,7 +14812,7 @@ Ashe la guardò. Aveva le ciglia bianche di brina e le labbra spaccate dal fredd
 Nessuno le chiese come lo sapesse. Lo sapevano anche loro.
 
 
-## 70. Il frammento mancato
+## 71. Il frammento mancato
 
 La sala dopo la porta era piccola. Fu la prima sorpresa, e la più strana. Dopo il colosso, dopo le sale che cambiavano forma, dopo il freddo dell'Esper che entrava nei pensieri, si erano preparati a qualcosa di enorme: una navata, una cripta, un trono. Trovarono una stanza quadrata grande come la cucina di una casa di campagna, con le pareti di pietra nuda e il soffitto basso, a volta, annerito dal fumo di torce che nessuno accendeva più da secoli. Non c'erano statue. Non c'erano iscrizioni, tranne una, sopra la porta, dalla parte interna, che Fran lesse a bassa voce e tradusse con due parole: *la camera del campione*.
 
@@ -15091,7 +15091,7 @@ All'alba, quando la valle era ancora grigia, Fran si alzò per prima. Uscì dal 
 Poi lo sentirono anche loro. Un rombo lontano, basso, continuo, che veniva dal cielo.
 
 
-## 71. Il fumo sul monte
+## 72. Il fumo sul monte
 
 Le navi passarono sopra la valle di Miriam a metà mattina, tre, in fila, così basse che il loro rombo fece cadere la neve dalle colonne del portico. Erano grigie, con le pance lunghe e piatte e le fiancate irte di bocche da fuoco, e sulle fiancate avevano il sigillo della casa Solidor dipinto in rosso, grande come una casa. Andavano verso nord. Non deviarono, non rallentarono, non si accorsero di sei persone ferme su un ponte di pietra sopra un precipizio, che le guardavano passare con la testa all'indietro e la bocca aperta.
 
@@ -15236,7 +15236,7 @@ La principessa si slegò la Spada dei Re dalla schiena. Tolse la coperta. La pre
 Poi salì i gradini.
 
 
-## 72. Il nuovo Re Dinasta
+## 73. Il nuovo Re Dinasta
 
 Nella Sala della Luce non c'era più luce. I fasci obliqui che scendevano dal soffitto invisibile si erano spenti, o li aveva spenti la pioggia, e la navata lunga e alta era piena di un grigio uniforme, senza ombre, come l'interno di una nuvola. Le colonne salivano nel grigio e sparivano. Il pavimento di pietra bianca era sporco di fango, e di impronte di stivali, e d'altro. Faceva freddo come la prima volta. Il rumore dei passi tornava indietro dalle pareti sdoppiato.
 
@@ -15395,7 +15395,7 @@ Fu Penelo, alla fine, a rompere il silenzio. Si era voltata, nella sala grigia, 
 La voce veniva dal fondo della sala, dalla parte delle porte. Era una voce che conoscevano, ma stanca, e senza nessuna allegria dentro.
 
 
-## 73. La strada verso il nemico
+## 74. La strada verso il nemico
 
 Al-Cid Margrace entrò nella Sala della Luce appoggiato a una donna.
 
@@ -15570,7 +15570,7 @@ Poi Vaan raggiunse gli altri, e la compagnia, in sei, scese dal monte sacro vers
 
 # Parte VIII. La strada per Archades
 
-## 74. Le montagne che separano i regni
+## 75. Le montagne che separano i regni
 
 Al Borgo di Nalbina l'acqua si vendeva a bicchiere, e il prezzo era scritto su una tavola appesa al pozzo, con il sigillo del quartiermastro imperiale in basso a destra. Un bicchiere, un gil. Una brocca, sei. Un otre da viaggio, venti, e l'otre bisognava portarselo. Sotto, in caratteri più piccoli, c'era scritto che chi attingeva senza pagare sarebbe stato punito secondo il regolamento della guarnigione, e qualcuno, con un coltello, aveva aggiunto in dialetto che il pozzo l'avevano scavato i suoi nonni. Il quartiermastro non aveva fatto togliere l'aggiunta. Forse non capiva il dialetto. Forse sapeva che l'acqua si vende meglio se chi la compra ha un posto dove sfogarsi.
 
@@ -15751,7 +15751,7 @@ Balthier la guardò, guardò lo stivale, guardò Fran.
 «Forse tre» disse Fran.
 
 
-## 75. Il regno perduto di Rasler
+## 76. Il regno perduto di Rasler
 
 Il bosco finì a metà di un passo. Da una parte c'erano ancora le felci, il muschio sulle radici e il verde fitto di Salika; dall'altra, a una spanna di distanza, il terreno era grigio. Non bruciato e nemmeno secco. Grigio come la cenere che resta in un braciere il giorno dopo, con la stessa consistenza morbida sotto i piedi. Vaan si chinò a toccarlo e ritirò la mano. Era umido, e freddo, e non sapeva di niente.
 
@@ -15920,7 +15920,7 @@ All'imbocco del ponte, Balthier li aspettava in piedi. Aveva in mano un sasso pi
 Balthier annuì e si voltò verso sud-ovest, verso il bosco, e si mise a camminare senza lamentarsi dei piedi. Fu l'unica volta in tutto il viaggio. Fran lo seguì a un passo di distanza, e prima di andare girò la testa verso il palazzo e la candela che bruciava sulla soglia, piccola, dritta, nel grigio, e la guardò finché la nebbia non la coprì.
 
 
-## 76. L'ultimo ponte di Salika
+## 77. L'ultimo ponte di Salika
 
 Il cancello di Salika era alto come tre carri messi uno sopra l'altro, fatto di travi di quercia nera cerchiate di ferro, e stava chiuso in fondo a una gola da cui non si passava altrimenti. Sopra, inciso su un architrave di pietra, c'era un avviso in lingua moguri, tradotto sotto in comune da qualcuno che la lingua comune la conosceva per sentito dire: CANCELLO IN RIPARAZZIONE. SI PREGA DI NON SPINGIERE. GRAZIE PER LA PAZZIENZA, KUPÒ.
 
@@ -16025,7 +16025,7 @@ Vaan non lo ascoltava. Aveva superato l'ultima duna, e si era fermato.
 Davanti a lui c'era il mare.
 
 
-## 77. Due giovani davanti al mare
+## 78. Due giovani davanti al mare
 
 L'accampamento dei cacciatori della Costa Phon era fatto di tende di tela cerata, tinte di colori diversi a seconda di chi le aveva comprate e di dove, e da lontano, sulla sabbia bianca, sembrava un mercato che qualcuno avesse dimenticato di smontare. C'erano due Bangaa che scuoiavano un pesce lungo quanto un uomo su un tavolo di assi, e sotto il tavolo tre gatti che non si erano mai visti prima in vita loro e che lavoravano insieme come una compagnia ben addestrata. C'era una Huma di mezza età che vendeva frecce e ami da una cassa e teneva i prezzi scritti col gesso sul coperchio, cancellandoli con il pollice quando cambiavano. Un Seeq dormiva in un'amaca fra due pali con un cappello sulla faccia, e russava. Nessuno chiese alla compagnia chi fosse. Ai cacciatori della Costa Phon interessava una cosa sola dei nuovi arrivati, cioè se avessero intenzione di cacciare le stesse bestie, e una volta stabilito di no li dimenticavano con perfetta cortesia.
 
@@ -16218,7 +16218,7 @@ Tornarono verso le tende. Davanti alla tenda più grande, quella blu dei Bangaa,
 Non era una domanda.
 
 
-## 78. Il volto dimenticato dell'Impero
+## 79. Il volto dimenticato dell'Impero
 
 Sugli Altopiani di Tchita le pietre miliari erano archadiane, e questo fu il primo segno che erano entrati davvero in casa del nemico. Non erano consumate e storte come quelle dei Mosfora. Erano colonnine di granito grigio alte fino al petto, tutte uguali, piantate a distanza esatta lungo una strada che nessuno percorreva più, e ciascuna portava inciso in alto lo stemma dei Solidor e sotto due numeri: le leghe da Archades e l'anno in cui la colonnina era stata posata. L'anno era lo stesso per tutte. Qualcuno, molto tempo prima, aveva deciso in un ufficio che quella strada doveva essere misurata, e un esercito di scalpellini l'aveva misurata in una sola estate. Poi erano arrivate le aeronavi, e la strada era rimasta lì, perfettamente misurata, per l'erba.
 
@@ -16393,7 +16393,7 @@ Balthier annuì, come se se lo aspettasse. Raccolse tutte le spade, una per una,
 «Allora aspettiamo che ci trovi» disse.
 
 
-## 79. Il mercante di segreti
+## 80. Il mercante di segreti
 
 Il passaggio fra Vecchia Archades e la città di sopra era un arco nel grande muro, alto e stretto, con una cancellata di ferro battuto aperta a metà e due soldati davanti. Accanto all'arco c'era un gabbiotto di legno verniciato di verde, con una finestrella, e nella finestrella un impiegato con le maniche di tela nera sopra le maniche della camicia, che timbrava fogli. Sopra il gabbiotto un cartello diceva: ACCESSO AL DISTRETTO SUPERIORE. MUNIRSI DI ATTESTATO DI RESIDENZA, LASCIAPASSARE DI SERVIZIO O CERTIFICATO DI MERITO CIVICO. NON SI ACCETTANO RECLAMI.
 
@@ -16584,7 +16584,7 @@ Vaan ci pensò. Poi frugò in tasca, trovò un pezzo di carbone e il retro del b
 Il moguri prese il biglietto, lo infilò nella borsa, chiuse il fermaglio, e se ne andò saltellando giù per i gradini verso Vecchia Archades, dove la rissa intorno al barile di Beasley stava ancora facendo il rumore di una fiera.
 
 
-## 80. La città delle apparenze
+## 81. La città delle apparenze
 
 In cima alla rampa di gradini bianchi c'era una fontana, e la fontana dava acqua per niente.
 
@@ -16827,7 +16827,7 @@ Vaan la guardò finché non scomparve dietro una torre.
 «Lo so.» Penelo si sedette accanto a lui e guardò fuori anche lei. «Però ci ha portati su.»
 
 
-## 81. Il ritorno del pirata
+## 82. Il ritorno del pirata
 
 A Tsenoble le strade avevano un nome solo, inciso nell'ottone all'angolo di ogni palazzo, e i palazzi non avevano numeri. Chi abitava a Tsenoble non aveva bisogno di numeri: lo si trovava chiedendo il nome della famiglia, e chi non sapeva dove abitasse una famiglia di Tsenoble, evidentemente, non aveva motivo di andarla a cercare. Le facciate erano di pietra color miele, alte e cieche al pianterreno, con le finestre che cominciavano al secondo piano, dove nessuno da fuori poteva guardare dentro. Davanti a ogni portone c'era un portiere in livrea. Davanti a ogni portiere c'era un tappeto. Non c'erano botteghe. Le botteghe erano più giù, dove la gente comprava; a Tsenoble la gente si faceva portare.
 
@@ -17010,7 +17010,7 @@ Il conducente accelerò. Fran, dall'altra parte, posò una mano sul bracciolo ac
 
 *Halim Ondore IV, marchese di Bhujerba, Memorie, libro quinto*
 
-## 82. Il silenzio di Draklor
+## 83. Il silenzio di Draklor
 
 La navetta li lasciò su una piattaforma di carico al quarto livello, fra due gru ferme e una pila di casse con il marchio del laboratorio stampato a fuoco su ogni lato: un cerchio con dentro una fiamma stilizzata e, sotto, una scritta in caratteri minuti che Vaan si chinò a leggere. *Fragile. Non capovolgere. Non aprire in presenza di fonti di Mystes. Non aprire.* L'ultima riga era stata aggiunta a mano, in un secondo momento, da qualcuno che evidentemente aveva visto aprire una di quelle casse.
 
@@ -17155,7 +17155,7 @@ Balthier guardò la mano di lei. Poi raddrizzò le spalle, alzò il mento, e qua
 Si incamminò verso la luce. Gli altri lo seguirono.
 
 
-## 83. Il padre e il figlio
+## 84. Il padre e il figlio
 
 La camera era rotonda, alta tre piani, e al centro, sotto una cupola di vetro che dava sul cielo nero di Archades, girava lentamente una macchina che nessuno di loro avrebbe saputo nominare. Erano anelli di metallo, uno dentro l'altro, ciascuno inclinato in un modo diverso, e al centro degli anelli, sospeso nell'aria senza niente che lo reggesse, c'era un frammento di pietra grande come un pugno, che pulsava di una luce rossa. Ogni volta che pulsava, la camera si accendeva di rosso e poi tornava in penombra. Era quella la luce che avevano visto dal corridoio. Attorno, sul pavimento, a cerchi concentrici, c'erano tavoli carichi di strumenti, lavagne coperte di calcoli, vasche, bobine, una poltrona di cuoio con un plaid sopra, e una teiera.
 
@@ -17340,7 +17340,7 @@ Non aggiunse altro. Si voltò verso la porta, dove le sirene si avvicinavano, e 
 Poi uscì.
 
 
-## 84. Il porto dei pirati
+## 85. Il porto dei pirati
 
 Sull'ammiraglia *Garland* la carta da lettere era finita da tre giorni, e il marchese di Bhujerba scriveva sul retro dei dispacci.
 
@@ -17638,7 +17638,7 @@ Dalla finestra della casa sotto il faro, sulla collina, Reddas guardò la barca 
 
 # Parte X. Il Grande Cristallo
 
-## 85. La foresta che inghiotte la verità
+## 86. La foresta che inghiotte la verità
 
 Nella Giungla di Golmore gli alberi si ricordavano di loro.
 
@@ -17797,7 +17797,7 @@ Balthier, dietro di loro, aveva ripreso in mano il fascicolo del Jagd Difohr e s
 Nessuno gli rispose. Ashe entrò per prima.
 
 
-## 86. La città oltre il tempo
+## 87. La città oltre il tempo
 
 A Giruvegan non c'era polvere.
 
@@ -17972,7 +17972,7 @@ Nessuno parlò. Balthier, che aveva sempre una battuta per tutto, non ne trovò 
 Lo disse piano, e la sua voce, lì dentro, tornò indietro da tutte le pareti insieme.
 
 
-## 87. Nel cuore del Cristallo
+## 88. Nel cuore del Cristallo
 
 Dentro il Grande Cristallo non c'era un sopra e non c'era un sotto, e dopo un po' si smetteva di cercarli.
 
@@ -18099,7 +18099,7 @@ La sua voce non tornò indietro. Lo spazio la prese e non la restituì.
 Poi, da ogni direzione insieme, qualcuno pronunciò il suo nome intero, sillaba per sillaba, come si legge un nome su un registro.
 
 
-## 88. Coloro che non muoiono
+## 89. Coloro che non muoiono
 
 «Ashelia B'nargin Dalmasca.»
 
@@ -18242,7 +18242,7 @@ Sulla piattaforma, dove fino a un attimo prima non c'era nessuno, c'era Vaan, pi
 Accanto alla spada, Rasler non c'era più.
 
 
-## 89. La volontà degli uomini
+## 90. La volontà degli uomini
 
 Vaan non vedeva nessuno.
 
@@ -18405,7 +18405,7 @@ Si raddrizzò. Si sistemò il colletto con un gesto solo, il primo gesto elegant
 Ashe lo seguì, con le due spade sulla schiena.
 
 
-## 90. Due fratelli e una guerra
+## 91. Due fratelli e una guerra
 
 Nel palazzo imperiale di Archades c'erano centoquattordici orologi, e da tre settimane erano tutti regolati su quello dello studio dell'imperatore.
 
@@ -18580,7 +18580,7 @@ Nel corridoio, a tre sale di distanza, un ragazzo di dodici anni camminava accan
 
 # Parte XI. Il Faro di Ridorana
 
-## 91. Due spade e un destino
+## 92. Due spade e un destino
 
 Le barche da pesca di Balfonheim hanno lo scafo dipinto di blu fino alla linea dell'acqua e di bianco sopra, e sulla prua un occhio, uno solo, perché i pescatori di quella costa dicono che due occhi vedono troppo e si spaventano. Quando la compagnia scese dalla strada alta verso il porto, una ventina di quegli occhi stava uscendo dal molo vecchio tutta insieme, a remi e a vela, con le reti lasciate a terra in mucchi sul selciato. Sulle banchine le donne guardavano partire gli uomini senza salutarli. Un ragazzo correva lungo il molo con una cesta di pane e la lanciava pezzo per pezzo sulle barche che passavano, e nessuno gliela pagava.
 
@@ -18793,7 +18793,7 @@ Vaan restò a guardare il punto dove era sparito. Poi guardò più in là, oltre
 Dietro di lui, sulla soglia, Ashe si era fermata con le due spade addosso. Non guardava il mare. Teneva la mano sinistra chiusa a pugno contro il fianco, su un dito che da mesi non portava più niente, e stringeva lo stesso.
 
 
-## 92. Il mare che precipita
+## 93. Il mare che precipita
 
 Nono aveva consumato due lampade e mezza, una notte intera e, a sentire lui, un anno di vita. All'alba lo trovarono seduto sulla pista dell'aerodromo di Balfonheim, la schiena contro il carrello della Strahl, le zampe nere di grasso fino ai gomiti e la chiave inglese in grembo, addormentato con la bocca aperta. Il pompon gli pendeva di lato. Sotto la pancia della nave, in uno sportello lasciato aperto, si vedeva la pietra celeste nel suo alloggio nuovo, stretta fra i tre innesti di rame come un uovo in un nido, con un filo di luce grigioazzurra che le pulsava dentro piano, a intervalli regolari, più lento del cuore di un uomo.
 
@@ -19002,7 +19002,7 @@ Molto più in alto, a metà della scalinata, Fran si era fermata ad aspettare. Q
 Balthier sospirò e la superò, e lei gli andò dietro, e la scalinata li portò su verso un portale alto come dieci uomini, sopra il quale, scolpite nella pietra in lettere che nessuno di loro sapeva leggere tranne una, correvano le parole di un re morto da settecento anni.
 
 
-## 93. La legge del sacrificio
+## 94. La legge del sacrificio
 
 Le lettere sopra il portale erano alte come un bambino e scavate così a fondo che la pioggia di sette secoli non era riuscita a smussarle. Erano lettere di una lingua che a Rabanastre si incontra solo sulle monete più vecchie e sulle lapidi della cattedrale, quelle che le vecchie lucidano la domenica senza sapere cosa dicono. Ashe ne riconobbe la forma e non il senso. Basch ne riconobbe tre, perché a Landis, da ragazzo, un precettore gli aveva fatto copiare un salterio. Balthier, che di solito riconosceva tutto, per una volta tenne la bocca chiusa.
 
@@ -19189,7 +19189,7 @@ Si accorse che durante tutto lo scontro aveva tenuto la mano sinistra su quella 
 Nessuno chiese cosa. Ripresero le armi, contarono le ferite, bevvero un sorso ciascuno dalla borraccia di Basch, che passava di mano in mano senza che nessuno la chiedesse. Reddas fu l'ultimo a bere. Bevve poco, e mentre beveva guardava Ashe da sopra la borraccia, con un'espressione che nessuno, lassù, pensò di interpretare.
 
 
-## 94. Le voci del passato
+## 95. Le voci del passato
 
 Sopra il novantesimo piano il Faro smise di sembrare un edificio. Le pareti c'erano ancora, e le scale, e gli archi; ma la pietra aveva cominciato a cambiare colore, dal grigio a un bianco sporco, poi a un bianco quasi trasparente nelle venature, e quando ci si appoggiava una mano la si sentiva vibrare piano, sempre allo stesso ritmo, come il fianco di un cavallo dopo una corsa. Le fiaccole non servivano più. La luce veniva dai muri.
 
@@ -19342,7 +19342,7 @@ Settecento anni prima un uomo si era fermato esattamente in quel punto, con una 
 Poi slegò la cinghia, e la Spada del Patto le scivolò nella mano sinistra.
 
 
-## 95. La scelta
+## 96. La scelta
 
 La Spada del Patto non aveva filo. Ashe lo aveva notato a Giruvegan, nella sala degli Occuria, e se n'era stupita; adesso, con l'elsa nella mano sinistra e la luce della Crisalide che le scendeva addosso, lo notò di nuovo, e non se ne stupì più. Era una spada che non era fatta per tagliare la carne. La lama era chiara, di un metallo che non si vedeva in nessuna fucina, e lungo il piatto aveva una venatura sottile che si accendeva e si spegneva al ritmo della pietra sopra di lei, come se le due cose si stessero parlando.
 
@@ -19501,7 +19501,7 @@ Gabranth spinse. Reddas tenne. Le quattro lame stridettero l'una sull'altra, e d
 «No.» Reddas fece forza sulle gambe, e il Giudice arretrò di un passo, sorpreso. «Questa la conosco. L'ho già sentita, la tua canzone. Prendete, colpite, è vostro di diritto. Gliel'hanno cantata anche a me.» Spinse di nuovo. Le lame si staccarono con un lampo. «E io ho obbedito. Ti racconto come è andata, Giudice. Così la sente anche lei.»
 
 
-## 96. Il nome di Zecht
+## 97. Il nome di Zecht
 
 Due uomini con quattro spade, in mezzo a una piazza di pietra liscia, in cima a una torre in fondo al mondo, sotto una pietra che beveva il cielo: Penelo, molti anni dopo, raccontò che la prima cosa a cui aveva pensato era quanto rumore facessero. Non le grida, perché non gridava nessuno. Il ferro. Ogni volta che le lame si toccavano la piazza rispondeva con un'eco lunga, chiara, che saliva fino ai pilastri spezzati e tornava giù raddoppiata, e fra un colpo e l'altro restava nell'aria un ronzio di metallo che si sommava al ronzio della Crisalide. Si combatteva dentro una campana.
 
@@ -19714,7 +19714,7 @@ Gabranth girò l'elmo verso di lui. Per un momento i due uomini stettero uno dav
 Poi Gabranth calciò via il Frammento d'Aurora, che rotolò lontano e si fermò contro un pilastro, e rialzò le spade verso suo fratello.
 
 
-## 97. I fratelli
+## 98. I fratelli
 
 A Landis, quando due bambini litigavano, le madri li mettevano uno di fronte all'altro in mezzo al cortile, con un bastone ciascuno, e li lasciavano fare finché uno dei due non chiedeva scusa. Era un'usanza di montagna, rozza e saggia, perché due bambini con un bastone si fanno meno male di quanto credano, e perché alla fine, di solito, chiedevano scusa tutti e due insieme. La madre di Basch e di Noah non li aveva mai messi in mezzo al cortile. Non ce n'era stato bisogno. Per tutta l'infanzia i due gemelli fon Ronsenburg avevano litigato soltanto con gli altri, sempre dalla stessa parte, e chi a Landis cercava guai con uno dei due finiva per averli con entrambi.
 
@@ -19859,7 +19859,7 @@ Fran cadde in ginocchio.
 «Ora» disse Cid, ma non a loro. Lo disse alla figura di luce, con la voce di un uomo che ha aspettato sei anni per dirlo. «Ora, amico mio. Adesso.»
 
 
-## 98. L'ultima prova
+## 99. L'ultima prova
 
 Dopo, quando ne parlarono, nessuno dei sei riuscì a descrivere bene il suono. Penelo disse che era come quando si stappa una botte di vino nuovo, ma in grande. Vaan disse di no, che era come il vento nel canalone sopra il pozzo di Dalan, d'inverno, quando sembra che la montagna respiri. Basch disse che era il rumore di una grande nave che si stacca dal molo e tira le gomene. Balthier non disse niente. Fran, che lo aveva sentito meglio di tutti, disse soltanto che era un rumore che non doveva esserci, e non volle aggiungere altro.
 
@@ -19986,7 +19986,7 @@ Fran non era più in ginocchio. Era a terra, distesa su un fianco, con le orecch
 Balthier si alzò. Il fazzoletto di sua madre gli cadde di mano, e lui non se ne accorse. Corse.
 
 
-## 99. Per Nabudis
+## 100. Per Nabudis
 
 Fran aveva gli occhi aperti. Fu la prima cosa che Balthier vide quando le si buttò accanto, scivolando in ginocchio sulle lastre, e fu la cosa che lo spaventò di più: gli occhi aperti, rossi come quelli delle viere quando hanno la febbre, e fissi su un punto in alto, dentro il vortice, dove nessun altro poteva guardare senza farsi male. Penelo le teneva la testa in grembo. Aveva le mani bagnate. Fran sudava, una cosa che nessuno le aveva mai visto fare, e il sudore aveva un odore di erba tagliata.
 
@@ -20143,7 +20143,7 @@ A bordo della Strahl, Vaan guardava indietro, verso la lisca spezzata che si all
 Ashe, seduta accanto a Basch, abbassò la testa. Non aveva più la Spada dei Re. Non aveva più la Spada del Patto. Aveva le mani vuote in grembo, e le guardava, e le teneva aperte.
 
 
-## 100. Il porto senza signore
+## 101. Il porto senza signore
 
 A Balfonheim, quando muore un capitano, le barche da pesca escono in mare con l'occhio di prua coperto da un panno nero. Lo fanno per tre giorni. L'usanza vuole che l'occhio non veda il mare senza il capitano, perché se lo vedesse si abituerebbe, e un occhio abituato non avverte più il pericolo. La Strahl arrivò sopra il porto la mattina dopo Ridorana, con il sole basso, e da lassù Vaan vide le barche uscire dal molo vecchio tutte insieme, a remi e a vela, e su ognuna, a prua, il panno nero.
 
@@ -20337,7 +20337,7 @@ La Strahl si alzò sul porto di Balfonheim per l'ultima volta prima della fine, 
 
 *Halim Ondore IV, marchese di Bhujerba, Memorie, libro ultimo*
 
-## 101. Le ultime stelle
+## 102. Le ultime stelle
 
 La notte prima della guerra, a Rabanastre, l'acqua costava il doppio. Non era mancata: le cisterne erano piene, le fontane della via delle Fontane buttavano come sempre dai loro musi di leone consumati, e nessun ufficiale imperiale aveva emanato un'ordinanza. Ma da tre giorni le notizie arrivavano dal nord una peggiore dell'altra, e la gente aveva cominciato a riempire tutto quello che poteva contenere un liquido, le giare, le pentole, gli otri, le scodelle, le bottiglie vuote del vino delle feste, e chi aveva un carretto per portare l'acqua alle case alte se la faceva pagare come vino. Era il modo in cui la Città Bassa prevedeva il futuro. Non leggeva le stelle e non ascoltava i proclami. Guardava il prezzo dell'acqua.
 
@@ -20550,7 +20550,7 @@ A nord, sopra il deserto, il cielo aveva cominciato a cambiare colore. Non era l
 Le tre stelle dei fornai si spensero una dopo l'altra.
 
 
-## 102. Bahamut
+## 103. Bahamut
 
 Il vento arrivò su Rabanastre come arriva un esercito, da una parte sola e tutto insieme. Strappò le tende dei banchi di Muthru e le portò in alto, sopra i tetti, dove volarono per un poco come grandi uccelli colorati prima di cadere nei cortili. Fece sbattere le imposte di via dei Tessitori, che erano state lasciate aperte da chi era partito di notte. Fece girare le insegne della via dei Calderai sui loro ganci, tutte nella stessa direzione, e poi le fece tornare indietro, e le insegne cigolarono tutte insieme con un lamento lungo che chi era rimasto in città non dimenticò. Sulle targhe doppie agli angoli delle strade, quelle di pietra dalmasca e quelle di metallo archadiano, la sabbia si posò in un velo uguale e le rese uguali.
 
@@ -20683,7 +20683,7 @@ Vayne sorrise.
 Dietro di lui, Zargabaath tornò al suo posto accanto al trono vuoto, e chiuse il giornale di bordo, e lo tenne sotto il braccio.
 
 
-## 103. La voce di un principe
+## 104. La voce di un principe
 
 Sul ponte della Garland, ammiraglia della flotta di Bhujerba, c'era un vaso di cristallo appeso sopra la porta della sala di comando, legato con un filo d'argento a un gancio del soffitto. Era un'usanza della città sospesa: un cristallo sopra la porta tiene la casa leggera. Il marchese Halim Ondore IV lo aveva fatto appendere lui stesso, la mattina in cui la nave era uscita dai cantieri, e aveva detto agli ufficiali che lo trovavano superstizioso che un uomo di studi deve rispettare le superstizioni, perché sono la storia di quello che la gente ha avuto paura di perdere. Quella mattina, sopra il deserto di Dalmasca, il cristallo oscillava piano al ritmo dei motori, e mandava sul pavimento di metallo una piccola luce che andava e veniva.
 
@@ -20896,7 +20896,7 @@ Fuori, sul fianco nord di Bahamut, le navi bianche e oro di Bhujerba cominciaron
 «Ecco il nostro bicchiere di vino» disse Balthier, e la Strahl accelerò.
 
 
-## 104. La danza fra le navi
+## 105. La danza fra le navi
 
 Il primo caccia imperiale si staccò dalla sua formazione quando la Strahl era ancora a mezza lega da Bahamut. Era una piccola nave nera e affusolata, con due ali corte e un muso a punta di lancia, e veniva giù dall'alto in diagonale, con il sole alle spalle, come insegnano a fare nelle scuole di volo di Archades. Fran lo vide per prima. Lo vide senza voltarsi, nel riflesso del vetro.
 
@@ -21059,7 +21059,7 @@ Ashe camminava davanti. Aveva una spada comune, presa a una delle guardie della 
 In cima alla fortezza, da qualche parte sopra di loro, c'era Vayne.
 
 
-## 105. I due figli di Landis
+## 106. I due figli di Landis
 
 Dentro Bahamut c'era odore di vernice fresca. Fu la cosa che stupì tutti, più dei corridoi larghi come strade e delle lampade che non tremavano: la fortezza era così nuova che in certi punti le pareti di metallo erano ancora appiccicose sotto le dita, e sui pavimenti, agli angoli, c'erano segni di gesso lasciati dagli operai, frecce, numeri, una volta perfino un disegno sconcio fatto da qualcuno che non si aspettava che lo vedesse un imperatore. Vaan lo indicò a Penelo. Penelo gli diede uno schiaffo sulla nuca senza guardare.
 
@@ -21236,7 +21236,7 @@ Poi, quando la piattaforma era già a metà delle colonne, Basch lo vide muovers
 Basch non disse a nessuno quello che aveva visto. Ma per il resto della salita, gli altri notarono che teneva la mano sinistra chiusa, quella con la cicatrice sul dorso, e che non la apriva.
 
 
-## 106. Il sovrano degli uomini
+## 107. Il sovrano degli uomini
 
 La sala di comando, a vederla dall'alto dell'ascensore che si fermava, era cambiata. Gli ufficiali non c'erano più. I banchi degli strumenti erano vuoti, con le manopole ancora girate e i piccoli schermi che continuavano a mandare la loro luce verdina a nessuno; i tubi d'ottone pendevano dai ganci; sul pavimento c'era una tazza rovesciata, e il liquido scuro che ne era uscito aveva fatto una macchia lunga, a forma di penisola. Qualcuno aveva dato l'ordine di sgombrare. Fuori dalle grandi vetrate, sui tre lati, il cielo bruciava ancora.
 
@@ -21417,7 +21417,7 @@ Vaan si voltò verso gli altri.
 Gli passò accanto e uscì sulla passerella, nel vento, dietro all'imperatore.
 
 
-## 107. L'Immortale
+## 108. L'Immortale
 
 La passerella esterna della torre di comando era larga quanto un vicolo della Città Bassa e non aveva parapetto. Chi l'aveva disegnata non aveva previsto che qualcuno ci camminasse durante una battaglia; serviva agli operai per ispezionare i condotti, e lungo il bordo correva soltanto una fila di anelli di ferro, a cui gli operai, si immagina, legavano le corde. Il vento passava sopra a raffiche. Sotto, a una profondità che girava la testa, c'era il deserto, e in mezzo al deserto la città, e sopra la città, dappertutto, il fumo nero delle navi cadute.
 
@@ -21542,7 +21542,7 @@ Giravano più piano.
 «No» disse.
 
 
-## 108. L'ultimo desiderio
+## 109. L'ultimo desiderio
 
 Gli anelli rallentavano. Dalla cima della torre lo si vedeva bene: i grandi cerchi di luce che giravano attorno alle torri di Bahamut, quelli che fino a un momento prima avevano girato con la regolarità di una macina, adesso andavano a scatti, come una ruota di carro con un raggio rotto, e a ogni scatto la luce si faceva più fioca. Sotto i loro piedi la piattaforma si inclinò, poi tornò dritta, poi si inclinò di nuovo, un poco di più.
 
@@ -21775,7 +21775,7 @@ Basch lo lasciò fare. Poi gli posò una mano sulla spalla. Larsa non si voltò.
 Larsa alzò gli occhi su di lui, poi continuò a pulire.
 
 
-## 109. La voce del Giudice
+## 110. La voce del Giudice
 
 Dal ponte della Garland, con il vetro sinistro sfondato e il vento che entrava a raffiche e portava dentro il fumo, il marchese Ondore vide una piccola nave staccarsi dal fianco di Bahamut. Era lontana. Si staccò con uno scarto brusco, come un uccello che si libera da un laccio, scese di colpo, risalì, sbandò a destra, si raddrizzò. Poi prese una rotta più o meno dritta verso sud-est, lontano dalla fortezza, e la tenne.
 
@@ -21920,7 +21920,7 @@ Bahamut si stava muovendo. Non come prima, sospesa, immensa, sicura. Scivolava. 
 E sotto la sua prua, esattamente sotto, nella linea della sua discesa, c'era Rabanastre.
 
 
-## 110. Il protagonista non può morire
+## 111. Il protagonista non può morire
 
 Da Rabanastre, quelli che erano rimasti la videro venire.
 
@@ -22103,7 +22103,7 @@ Sotto di loro, sul deserto, oltre la nube di sabbia, le vele triangolari degli U
 
 # Epilogo
 
-## 111. La lettera di Penelo
+## 112. La lettera di Penelo
 
 Un anno dopo la caduta di Bahamut, a Rabanastre, l'acqua costava quanto deve costare l'acqua. Lo si poteva verificare alla fontana della via delle Fontane, dove i musi di leone buttavano come sempre e nessuno riempiva più le bottiglie vuote del vino delle feste per metterle sotto il letto; lo si poteva verificare dai carrettieri delle case alte, che erano tornati a chiedere il loro prezzo di prima e a lamentarsene, come facevano prima. La Città Bassa, che non legge le stelle e non ascolta i proclami, aveva guardato il prezzo dell'acqua e aveva deciso che la guerra era finita davvero.
 
@@ -22250,7 +22250,7 @@ Basch guardò il metallo nero sul tavolo. Non sorrise; gli angoli della bocca gl
 Molto lontano, a Rabanastre, nello stesso momento o quasi, in una stanza del palazzo con le finestre sui tetti, la principessa di Dalmasca teneva sul palmo una cosa piccola che non vedeva da più di un anno, e non riusciva a chiudere la mano. Come ci fosse arrivata, quella cosa, è una storia che comincia in un hangar.
 
 
-## 112. Il furto della Strahl
+## 113. Il furto della Strahl
 
 Per un anno intero Vaan aveva tenuto la Strahl senza un graffio.
 
@@ -22523,7 +22523,7 @@ Sopra Rabanastre, intanto, la piccola nave fece un largo giro sulla città, come
 
 *Un futuro possibile, quindici anni dopo la caduta di Bahamut. Quanto segue non appartiene alla cronaca certa della guerra.*
 
-## 113. L'ultima pagina non scritta
+## 114. L'ultima pagina non scritta
 
 Nelle miniere di Lhusu, a Bhujerba, c'è un'usanza che i minatori seguono da trecento anni e che nessun regolamento ha mai previsto: la prima pietra di ogni turno la si prova sulla lampada del caposquadra, e se si accende si dice *buongiorno*, e se non si accende non si dice niente e la si butta nel pozzo vecchio. In trecento anni il pozzo vecchio si era riempito di poco. La mattina in cui questa storia ricomincia, quindici anni dopo la caduta di Bahamut, il caposquadra del settimo livello provò la prima pietra del turno, e non disse niente. Ne provò un'altra. Poi quella che aveva in tasca da una settimana, per scrupolo, e quella si accese. Rimise la nuova nel sostegno, premette il contatto e aspettò. Era un frammento intero, estratto da meno di un'ora, del colore che gli uomini del turno avrebbero scelto fra dieci. Non successe niente.
 

@@ -1,0 +1,159 @@
+# Parte II. Le segrete e il traditore
+
+*Del capitano Basch fon Ronsenburg ho scritto altrove, e non intendo ripetermi. Basti ricordare che fu processato dal tribunale militare della guarnigione di Nalbina nella primavera del 704, riconosciuto colpevole dell'assassinio di re Raminas e giustiziato prima ancora che la sentenza fosse letta in pubblico. Non assistetti all'esecuzione. Ne ebbi notizia da un dispaccio ufficiale, che conservo, e non ho motivo di dubitare di quanto vi si legge.*
+
+*Mi si è chiesto più volte, negli anni seguenti, perché il marchese di Bhujerba, dando quella notizia, non vi abbia mai aggiunto una parola di suo. La risposta è semplice, e chi conosce il mestiere del governo la troverà ovvia: vi sono morti di cui è prudente non parlare, perché parlarne non li riporterebbe in vita e potrebbe costare la vita ad altri. Ho scelto la prudenza. Non me ne vanto, e non me ne scuso.*
+
+*Halim Ondore IV, marchese di Bhujerba, Memorie, libro secondo*
+
+## 19. Il fazzoletto
+
+La grata del quartiere delle cisterne si apriva in un cortile quadrato, fra quattro case alte con le scale esterne, dove al mattino le donne della Città Bassa venivano a prendere l'acqua alla vecchia pompa di bronzo. Quel mattino le donne c'erano già, con le brocche e i secchi in fila davanti alla pompa, perché a Rabanastre l'acqua si prende all'alba qualunque cosa sia successa la notte; e videro la grata alzarsi, e i soldati salire, e dietro i soldati quattro persone con le mani legate davanti. Una brocca cadde. Nessuno si chinò a raccoglierla.
+
+In un quarto d'ora il cortile era pieno. La notizia corre nella Città Bassa più svelta dell'acqua nei canali, e quella mattina correva su una strada già bagnata: tutti avevano sentito i cannoni nella notte, tutti avevano visto il fuoco sopra il palazzo, e nessuno sapeva niente. Adesso c'era qualcosa da vedere. La gente usciva sulle scale esterne, si sporgeva dalle finestre, saliva sui muretti. I soldati formarono un cordone attorno ai prigionieri, e il cordone, dopo un po', dovette stringersi.
+
+«Sono i ladri» disse qualcuno. «Quelli che sono entrati al palazzo durante la cena. Me l'ha detto mio cognato, che fa il garzone nelle cucine.»
+
+«Ladri? Hanno sparato con la nave per dei ladri?»
+
+«Erano tanti, ladri. Una banda.»
+
+«Ladri» ripeté Amalia, fra i denti. Stava dritta in mezzo ai soldati, con la gonna rossa ancora bagnata e la casacca bruciata, e guardava la folla con un'espressione che Vaan aveva già visto una volta, sulla piattaforma delle chiuse, quando aveva dovuto saltare fra le braccia di uno sconosciuto. «Ci prendono per ladri.»
+
+«Io lo prenderei come un complimento» disse Balthier, accanto a lei. Aveva le mani legate come gli altri e il panciotto sporco di muschio, e riusciva lo stesso a sembrare un uomo che aspetta la carrozza. «Una ladra finisce in cella. Un'assassina finisce in piazza, su un palco, con un pubblico. Fra le due, dama, sceglierei la cella. Si dorme meglio.»
+
+Amalia non gli rispose. Si voltò verso l'ufficiale che comandava il cordone, un uomo di mezza età con l'elmo sotto il braccio e una faccia che aveva visto troppe albe.
+
+«Questi tre non sono dei nostri.» Indicò Vaan, Balthier e Fran con il mento, perché le mani non poteva. «Non fanno parte della Resistenza. Non sapevano niente dell'attacco. Li ho incontrati stanotte nei canali, per caso. Lasciateli andare.»
+
+L'ufficiale la guardò come si guarda un cane che abbaia.
+
+«Lo deciderà il tribunale.»
+
+«Il tribunale deciderà quello che gli diranno di decidere. Lo deciderete voi, adesso.» La voce di Amalia era salita di un tono, ed era diventata quella delle chiuse: la voce di qualcuno abituato a ricevere le risposte prima di aver finito la domanda. «Sono un ragazzo, un aviopirata e una viera. Credete davvero che la Resistenza di Dalmasca recluti pirati?»
+
+«Credo che stanotte c'erano molte persone dove non dovevano essere.»
+
+«Ma lei ha ragione» disse Vaan. Si era fatto avanti di un passo, e un soldato lo rimise indietro con l'asta della lancia. «Io ero lì per conto mio. Io ero entrato per prendere...»
+
+«Zitto» disse Amalia, senza guardarlo.
+
+«Ma sto dicendo che...»
+
+«Sto pensando. Stai zitto.»
+
+Vaan stette zitto. Non perché glielo avesse detto lei, si disse, ma perché si era accorto, a metà frase, che stava per dire davanti a cinquanta testimoni e a un ufficiale archadiano che era entrato nel palazzo per rubare, e che la cosa che aveva rubato era ancora sotto la sua camicia. Prima che i soldati scendessero dalle corde, l'aveva fatta scivolare nelle pieghe della fascia rossa, stretta sullo stomaco. L'avevano perquisito in fretta, con le mani che puzzavano di olio per armature: tasche, cintura, orli dei calzoni. Avevano preso la spada, le boccette e la borsa del soldato con quello che restava dentro, senza sciogliere la fascia. La pietra era tornata tiepida e quieta; Vaan la sentiva premere sotto la stoffa a ogni respiro.
+
+Sopra il cortile, su una delle scale esterne, si era fermato il console.
+
+Era venuto su dai canali per un'altra strada, con la sua scorta, e adesso guardava la scena dall'alto di un pianerottolo, con i guanti bianchi appoggiati alla ringhiera. Guardava la folla, non i prigionieri. Vaan lo vide contare le facce, una dopo l'altra, come la prima sera in piazza, e vide la folla accorgersene e diventare più silenziosa a mano a mano che lo sguardo passava. Poi il console disse qualcosa all'ufficiale accanto a lui, che annuì, e si voltò per andarsene.
+
+«Aspettate!»
+
+Fu una voce di ragazza, alta e rotta. Veniva dal fondo del cortile, vicino alla pompa. Vayne non si fermò; forse non l'aveva sentita, forse aveva deciso di non averla sentita. Ma la folla sì. La folla si aprì un poco, e nell'apertura Vaan vide un codino biondo, e un nastro azzurro, e due mani che spingevano.
+
+---
+
+Penelo aveva dormito due ore, vestita, sul letto del retro della bottega. Kytes l'aveva svegliata all'alba tirandola per un braccio, con la faccia bianca, e le aveva detto che c'era gente al cortile delle cisterne, che dicevano dei prigionieri, che uno era biondo con i capelli così. Lei era uscita senza scarpe. Le scarpe gliele aveva portate Kytes, di corsa, dietro di lei, e lei non le aveva prese.
+
+Arrivò al cordone dei soldati e ci sbatté contro.
+
+«Lasciatemi passare.»
+
+«Indietro, ragazza.»
+
+«Lui non c'entra niente.» Penelo cercò di infilarsi fra due soldati. Uno la prese per la spalla e la rimise al suo posto, senza violenza, come si rimette a posto una sedia. «Vaan! Ditegli... lui non c'entra. Non è un ribelle. Non sa neanche cosa vuol dire, ribelle. È un ragazzo. È uno che ruba le pesche. Vi prego. È uno che ruba le pesche e poi le paga due anni dopo.»
+
+Qualcuno nella folla rise, e si zittì subito. La vedova Hanna, con il suo fazzoletto giallo, era in prima fila con una brocca vuota in mano, e non rideva.
+
+Vaan la guardò attraverso le teste dei soldati. Aveva i capelli in disordine e la faccia gonfia di sonno e i piedi nudi sulla pietra del cortile, e lo guardava con una faccia che lui non le aveva mai visto, nemmeno quando erano tornati da Giza e lui le aveva detto non vado da nessuna parte. Specialmente non allora.
+
+Avrebbe voluto dire che gli dispiaceva. Guardò Penelo attraverso le aste delle lance e gli venne in mente un agnello.
+
+«Mi sa» disse, e gli uscì con un mezzo sorriso storto «che stasera non ce la faccio, per la cena.»
+
+Penelo lo fissò. Per un momento parve non capire, e poi capì, e la sua faccia fece una cosa strana, come se volesse ridere e piangere nello stesso tempo e non sapesse in che ordine.
+
+«Te l'avevo detto» disse. «Te l'avevo detto, Vaan. Te l'avevo...»
+
+«Lo so.»
+
+«Non lo sai! Tu non sai mai niente! Non vado da nessuna parte, hai detto, e io ti ho creduto, e sono stata così stupida da...»
+
+«Penelo...»
+
+«Basta» disse un soldato.
+
+Lo disse con l'accento archadiano, una parola sola, e poi alzò il calcio della lancia e lo calò sulla testa di Vaan, di traverso, sopra l'orecchio sinistro. Non lo fece con rabbia. Lo fece come si chiude una porta che sbatte.
+
+Vaan cadde. Cadde in avanti, sulle ginocchia, e poi di lato, con le mani legate che non potevano fermarlo, e la testa batté sulla pietra del cortile, e lui non sentì più niente.
+
+---
+
+Penelo gridò. Gridò il suo nome, una volta, così forte che le colombe sul tetto della pompa si alzarono tutte insieme, e si buttò contro il cordone con tutte e due le mani. Questa volta i soldati non la rimisero al suo posto come una sedia. Uno la spinse indietro con lo scudo, e lei inciampò, e sarebbe caduta, se qualcuno non l'avesse presa.
+
+Era l'uomo con il panciotto. Il pirata, aveva detto la donna in rosso. Era riuscito ad allungarsi oltre il soldato che lo teneva, con le mani legate, e l'aveva presa per un gomito, e l'aveva rimessa in piedi con una delicatezza così fuori luogo, in quel cortile, fra quelle lance, che lei per un attimo smise di gridare per lo stupore.
+
+«Piano» disse lui. «Piano, signorina. Così vi fate male, e a lui non serve.»
+
+«Chi siete?»
+
+«Un amico del ragazzo. Di stanotte. È un'amicizia recente, ma intensa.» Lui guardò il soldato più vicino, che stava per tirarlo indietro, e il soldato, chissà perché, aspettò un momento. «Ascoltatemi. Non ho molto tempo, e voi non avete nessuna ragione di fidarvi di me, quindi farò in fretta.»
+
+Con le dita delle mani legate, con un gesto che doveva aver fatto molte volte e che anche così riusciva elegante, tirò fuori qualcosa dal taschino del panciotto. Era un fazzoletto. Di seta, color crema, morbido, piegato in quattro, con un'iniziale ricamata in un angolo in filo scuro: una F, piena di riccioli, nella calligrafia arrotondata che a Rabanastre si vedeva soltanto sulle insegne degli uffici archadiani. Glielo mise in mano.
+
+«Tenetemelo» disse. «È di seta di Archades, e ci tengo. Tenetemelo fino a quando non vi riporto il ragazzo. Poi me lo restituite, lavato, e siamo pari.»
+
+Penelo guardò il fazzoletto. Guardò l'uomo.
+
+«Riportarlo? Da dove?»
+
+«Da dove lo portano. Non chiedetemi dove, perché non lo so ancora, e non vi mentirò su questo.» Il soldato, accanto a lui, aveva finito di aspettare e lo stava tirando via per la spalla. Lui si lasciò tirare, senza resistere, voltandosi a metà. «Ma lo riporto. È una promessa. Le mie promesse, vi avverto, sono rare, e per questo valgono molto.»
+
+«Perché?»
+
+Balthier, già fra i soldati, già quasi in mezzo alla colonna che si formava per partire, alzò le spalle, per quanto glielo permettevano le mani legate.
+
+«Perché mi ha rubato una cosa» disse. «E nessuno mi ruba niente, signorina. Nemmeno un ragazzino della Città Bassa. È una questione di principio.»
+
+La viera, dietro di lui, girò la testa verso Penelo. Non disse niente. Ma le sue orecchie si inclinarono un poco in avanti, appena, e Penelo, senza sapere perché, ebbe l'impressione che fosse il suo modo di dire che era vero.
+
+Poi la colonna partì. Due soldati sollevarono Vaan per le braccia e lo trascinarono, con la testa che gli ciondolava e i piedi che strisciavano sulla pietra del cortile; Amalia camminava dritta davanti a lui, senza voltarsi, e Penelo vide che teneva la mano sinistra chiusa a pugno contro il fianco, anche legata, anche così. L'aviopirata camminava fischiettando. La viera camminava senza fare rumore. Uscirono dal cortile per la via che sale verso la Porta Est, e la folla si aprì per lasciarli passare, e si richiuse dietro di loro, e cominciò a parlare.
+
+Penelo rimase dov'era, a piedi nudi sulla pietra, con il fazzoletto di un pirata in mano. Lo guardò. La F nell'angolo la guardò a sua volta, con tutti i suoi riccioli. Si chiese, per un momento, di chi fosse quella lettera, su un fazzoletto di un uomo che non le aveva detto il suo nome.
+
+Kytes arrivò accanto a lei con le sue scarpe. Gliele mise ai piedi, inginocchiato, una e poi l'altra, come si fa con i bambini piccoli, e lei lo lasciò fare. Poi le prese la mano. Non disse niente. Kytes non sapeva dire le bugie a Penelo, e quella mattina non trovò nemmeno una verità che valesse la pena di dire.
+
+«Dove lo portano?» chiese lei, dopo un po'.
+
+Nessuno le rispose. Ma una donna, dietro di lei, sulla scala esterna di una casa, disse a un'altra una parola sola, piano, e la parola arrivò fino alla pompa, e Penelo la sentì.
+
+Nalbina.
+
+---
+
+Non tutti, quella mattina, avevano guardato la colonna con gli stessi occhi.
+
+In fondo al cortile, all'imbocco di un vicolo che scendeva verso la cisterna vecchia, due Bangaa stavano appoggiati al muro all'ombra, con le braccia incrociate e i mantelli da viaggio ancora coperti di polvere. Erano grossi, con le squame grigio-verdi e le zanne lunghe, e portavano alla cintura armi che a Rabanastre non si vedevano spesso, nemmeno addosso ai soldati: lame curve, ricurve due volte, e una specie di balestra corta con il calcio fasciato di cuoio. Uno dei due, il più grosso e il più vecchio, aveva sul muso una cicatrice che gli tirava il labbro all'insù da un lato, così che sembrava sempre sul punto di ridere di qualcosa che non era divertente.
+
+«È lui» disse il più giovane. Parlava troppo e troppo in fretta, con la voce sibilante della sua gente. «Hai visto, capo? È lui. L'aviopirata. Quello del manifesto. Te l'avevo detto, che era a Rabanastre. Te l'avevo detto ieri, al Mare di sabbia, quando quel moguri...»
+
+«Bwagi.»
+
+«...ha detto che c'era una nave strana nell'hangar della Porta Sud, e io ho detto...»
+
+«Bwagi. Taci.»
+
+Bwagi tacque. Il più grosso, quello con la cicatrice, guardava la colonna che spariva verso la Porta Est. Guardava, in particolare, un uomo in panciotto che camminava fischiettando fra i soldati, e il suo labbro tirato, mentre lo guardava, si tirò ancora di più.
+
+«Gli archadiani» disse. Lo disse con una specie di disgusto profondo, quasi teologico. «Gli archadiani me l'hanno preso. Due anni che gli corro dietro. Due anni, da Balfonheim a Bhujerba, da Bhujerba a Nalbina, e adesso me lo prendono gli archadiani, in un cortile, per sbaglio, con un ragazzino.» Si staccò dal muro. «No.»
+
+«No cosa, capo?»
+
+«No e basta.» Ba'Gamnan si tirò il cappuccio sulla testa. «La taglia è mia. Non la lascio ai soldati. Dove lo portano, andiamo anche noi. Chiama gli altri due.»
+
+«E se lo portano a Nalbina? A Nalbina non si entra, capo. A Nalbina, per entrare, ti devono portare dentro in catene.»
+
+Ba'Gamnan si frugò sotto il mantello e tirò fuori un foglio piegato, sporco, con un sigillo di ceralacca nera mezzo sbriciolato. Lo agitò davanti al muso di Bwagi.
+
+«Permesso di caccia dell'impero» disse. «Firmato dal governatore di Nalbina. Vale in tutti i territori di Sua Maestà Imperiale, comprese le cantine.» Il labbro tirato, adesso, sembrava davvero sul punto di ridere. «Noi entriamo dalla porta, Bwagi. Con il permesso. E poi vediamo chi esce.»

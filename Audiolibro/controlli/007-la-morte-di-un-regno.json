@@ -1,0 +1,34 @@
+{
+ "capitolo": "007-la-morte-di-un-regno",
+ "somiglianza": 0.9604,
+ "problemi": [
+  {
+   "tempo": "4:49",
+   "secondi": 289.8,
+   "tipo": "diverso",
+   "testo": "loro c era reks pause2 van lo trovo nell",
+   "audio": "loro c 'era Rex. Lo trovò nell"
+  },
+  {
+   "tempo": "19:28",
+   "secondi": 1168.3,
+   "tipo": "diverso",
+   "testo": "chiese dove fosse mighelo van gli rispose",
+   "audio": "chiese dove fosse e mi dielo. Van gli rispose"
+  },
+  {
+   "tempo": "21:34",
+   "secondi": 1294.0,
+   "tipo": "in più",
+   "testo": "lungo papa mormoro si era sua",
+   "audio": "lungo. Papà mormorò. Dicondisse il mura che sulleva. Sì, era sua."
+  },
+  {
+   "tempo": "23:28",
+   "secondi": 1409.0,
+   "tipo": "in più",
+   "testo": "a lui fino alla fine non",
+   "audio": "a lui fino alla fine, ponosido alla fine. Non"
+  }
+ ]
+}
