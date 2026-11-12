@@ -42,11 +42,11 @@ di questi meccanismi si aggiorna anche questo file.
 - Tiene `lavori.json` **in memoria** e lo riscrive a ogni salvataggio: chi modifica quel file deve farlo a
   server fermo e a coda vuota, altrimenti viene sovrascritto.
 - Trova il capitolo in `Romanzo/romanzo.md` con la riga `## N. `: se i numeri lì non coincidono con i file, la
-  correzione dal pannello si ferma con 409. `romanzo.md` oggi non è identico ai capitoli assemblati (il
-  capitolo 3 lì è più vecchio): non si riassembla senza che l'autore lo chieda.
+  correzione dal pannello si ferma con 409 («Passaggio divergente»). Lo stesso succede se un paragrafo non
+  coincide con il capitolo. `romanzo.md` non si corregge a mano: dopo una correzione fatta direttamente nel file
+  del capitolo si rigenera con `bash Romanzo/lavoro/assembla.sh`, prima di accodare lavori dal pannello.
 - Il prologo e i capitoli che aprono una Parte cominciano prima del loro `## N.` (titolo della Parte, epigrafe):
-  `sezione()` in `archivio.js` li fa partire dalla prima riga del file del capitolo. Dove `romanzo.md` ha un testo
-  più vecchio (oggi il 3 e il primo paragrafo del 28) il 409 è giusto: la copia non combacia.
+  `sezione()` in `archivio.js` li fa partire dalla prima riga del file del capitolo.
 - La coda appartiene al pannello: i rifacimenti audio passano da lì (un lavoro `modifica` in coda fa
   `rifai.sh --testo`, controllo Whisper e pubblicazione del capitolo), non da `rifai.sh` lanciato a mano mentre
   l'autore lavora.

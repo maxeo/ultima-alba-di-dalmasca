@@ -33,15 +33,14 @@ la coda del pannello rifà l'audio.
   titolo letto nel numero nuovo. Coda vuota, server acceso.
 - Leggio (`C:\Users\matteo\Documents\leggio`): commit `e8f7c8f` per i capitoli solo testo, più due commit
   precedenti; tutto da pubblicare con un push normale.
-- Storia di `main` riscritta per togliere gli mp3 superati (vedi sotto se è andata a buon fine). Il ramo
-  `backup-prima-pulizia` tiene la storia di prima: si cancella dopo il force push.
+- Storia di `main` riscritta (restano solo i 18 mp3 attuali) e pubblicata col force push. Backup, worktree
+  vecchi, rami `claude/*` e checkpoint di Codex cancellati: `.git` locale 148 MB.
 
 ## Da guardare
 
 - Segnalazioni Whisper sui capitoli rifatti: 4, 5, 7, 8, 9, 10, 12, 14, 15, 16, 18. Quelle a 0:02 sui titoli
   sono falsi allarmi; quelle sui numeri in cifre anche. Il 7 ha ancora le parole inventate di XTTS (prima a
   9:13, 21:33, 23:28 col vecchio numero 6): da rifare dal pannello.
-- I rami remoti `origin/claude/*` puntano alla storia vecchia: finché ci sono, GitHub tiene gli mp3 vecchi.
 - Il pannello su un capitolo solo testo (dal 19) non è stato provato.
 - Leggio, se l'autore lo chiede: «Restano» negativo e progressi legati al numero del capitolo (la rinumerazione
   sposta posizioni e «Ascoltato» di chi ha già ascoltato).

@@ -38,39 +38,55 @@ Reks lo fissò, poi lasciò perdere, perché le trombe avevano cominciato a suon
 
 «Lo so.» Reks non ne era affatto sicuro: lo aveva sentito dire alla caserma dove andava a portare le consegne della bottega, e tanto gli bastava. «È quello che guarda i tetti.»
 
-Era vero: il cavaliere biondo in testa alla scorta destra guardava i tetti, uno per uno, e le finestre aperte, e le mani della gente. Vaan lo guardò per due secondi, decise che uno che non sorride a un matrimonio non poteva essere interessante, e tornò alla pesca. Era matura al punto giusto, e il succo gli colò fino al polso; se lo leccò via mentre i cavalieri finivano di sfilare.
+Era vero. Il cavaliere biondo alla testa della scorta destra continuava a osservare i tetti, le finestre e le persone lungo la strada. Aveva l'aria di uno che si aspettava un agguato da un momento all'altro.
 
-Dietro i cavalieri venivano i chocobo. Le cronache di palazzo giurano che erano dodici, tutti dorati, tutti appaiati per altezza e per tono di piuma. Un venditore di datteri della Città Bassa, molti anni dopo, ne contava otto e ricordava i nomi di ciascuno, perché li aveva nutriti lui nelle stalle reali durante la settimana delle prove. Sulla questione dei numeri lascio che litighino fra loro; sui nomi il venditore di datteri è più credibile, perché nessuna cronaca di palazzo avrebbe chiamato Pancia un uccello della casa reale. I chocobo avevano finimenti di cuoio rosso e campanelli d'argento sotto il becco, e camminavano con quel passo un po' offeso che i chocobo assumono quando li si costringe ad andare piano. La carrozza che tiravano era aperta, bianca e oro, con le ruote alte e un baldacchino di garza, inutile contro il sole, e comodissimo per farsi guardare.
+Vaan si domandò se fosse sempre così serio. Doveva essere piuttosto noioso passare un matrimonio a cercare nemici sui tetti. Decise che la sua pesca era una compagnia migliore. Ne prese un altro morso e il succo gli scivolò lungo il polso. Se lo leccò via, senza più badare ai cavalieri.
 
-Ai petali i chocobo non erano preparati. La prima manciata arrivò da un balcone sopra la via dei Tessitori, e Pancia, che stava in seconda fila a sinistra, si fermò di colpo per beccarla. Il chocobo dietro gli finì addosso. La carrozza reale di Dalmasca, con gli sposi a bordo, restò immobile in mezzo alla folla, mentre un uccello grande come un cavallo mangiava gelsomino con la serietà di un vescovo a pranzo.
+Dietro i cavalieri venivano i chocobo, bardati di cuoio rosso e campanelli d'argento. Le cronache di palazzo ne ricordano dodici, tutti dorati e perfettamente appaiati. Un venditore di datteri della Città Bassa sosteneva invece che fossero otto, e molti anni dopo sapeva ancora chiamarli per nome.
 
-La folla rise. La principessa, sotto il velo, no.
+Fra i due resoconti, confesso di preferire il suo. Dopotutto, le cronache ufficiali non avrebbero mai tramandato che uno dei chocobo reali si chiamasse Pancia.
 
-Sotto il velo faceva caldo, e il mondo le arrivava attraverso la garza come da dietro una tenda: facce, braccia alzate, petali che le si impigliavano nel tessuto e restavano lì, rossi e bianchi, a un dito dagli occhi. Una sposa che ride piace al popolo, lo sapeva; ma se avesse cominciato non avrebbe più smesso, e le istitutrici avrebbero passato la sera a scrivere lettere di scuse a qualcuno.
+Procedevano lenti, con quell'aria vagamente offesa che assumono quando devono adeguare il passo a quello degli uomini. Alle loro spalle avanzava la carrozza degli sposi, bianca e oro, con grandi ruote e un baldacchino di garza che lasciava filtrare la luce del sole. Ashe e Rasler sedevano uno accanto all'altra, ben visibili alla folla che li accompagnava lungo la strada.
 
-«Non ridere» disse Ashe senza muovere le labbra.
+Ai petali i chocobo non erano preparati. La prima manciata arrivò da un balcone sopra la via dei Tessitori, e Pancia, che stava in seconda fila a sinistra, si fermò di colpo per beccarla. Il chocobo dietro gli finì addosso. La carrozza reale di Dalmasca, con gli sposi a bordo, restò immobile in mezzo alla folla, mentre un uccello grande come un cavallo si prendeva tutto il tempo necessario per mangiare qualche fiore.
+
+La folla rise. La principessa, invece, no. Sotto il velo faceva caldo, e il mondo le arrivava attraverso la garza come da dietro una tenda: facce, braccia alzate, petali che le si impigliavano nel tessuto e restavano lì, rossi e bianchi, a un dito dagli occhi. Ashe cercò di trattenere una risata, ma ogni volta che ripensava al chocobo fermo in mezzo alla strada le tornava voglia di ridere. Abbassò leggermente il capo, sperando che nessuno se ne accorgesse.
+
+«Non ridere» disse Ashe.
 
 «Non sto ridendo» rispose Rasler, che salutava la folla a destra e rideva con tutta la faccia.
 
 «Ti vedono.»
 
-«Mi vedono felice. È il mio compito di oggi.» Alzò la mano verso un balcone dove tre vecchie agitavano fazzoletti, e le vecchie gridarono qualcosa in dialetto della Città Bassa che lui non capì e che fece arrossire il cocchiere. «Cosa hanno detto?»
+Da un balcone poco più avanti, tre donne anziane si erano sporte per salutare gli sposi. Una di loro agitava un fazzoletto, mentre un'altra, con le mani attorno alla bocca, gridò in dialetto:
 
-«Una benedizione.»
+«Principessa! Stanotte non lasciatelo dormire!» Le altre due scoppiarono a ridere, agitando i fazzoletti verso la carrozza. Il cocchiere abbassò appena la testa, fingendo di non aver sentito.
 
-«Era lunga, per una benedizione.»
+Rasler, impegnato a salutare dall'altro lato della carrozza, si voltò verso Ashe.
 
-«Era una benedizione dettagliata.» Ashe salutò a sinistra con il gesto che le avevano insegnato le istitutrici, la mano a mezz'altezza, il polso morbido, il palmo mai del tutto aperto. Aveva diciassette anni, era bravissima a quel gesto, e lo detestava. «Mi avevano detto che i chocobo erano addestrati.»
+«Cosa hanno detto?»
+
+«Ci hanno augurato buona fortuna.»
+
+Rasler guardò il cocchiere, che cercava ostinatamente di non voltarsi.
+
+«Solo quello?»
+
+«Più o meno.» Ashe salutò a sinistra con il gesto che le avevano insegnato le istitutrici, la mano a mezz'altezza, il polso morbido, il palmo mai del tutto aperto. Aveva diciassette anni, era bravissima a quel gesto, e lo detestava. «Mi avevano detto che i chocobo erano addestrati.»
 
 «Lo sono. Sono addestrati a mangiare.»
 
 «Rasler.»
 
-«Ti giuro che lo stalliere mi ha detto: altezza, sono addestratissimi. E io gli ho creduto, perché è il giorno del mio matrimonio e voglio credere a tutti.» Pancia si decise a ripartire, la carrozza diede uno strattone, e Ashe dovette afferrargli il braccio per non scivolare dal sedile. Lui le coprì la mano con la sua, e la lasciò lì. «Vedi? Anche questo era previsto. Un piano perfetto.»
+«Lo stalliere mi aveva assicurato che erano addestratissimi. E io gli ho creduto. Oggi mi sento abbastanza felice da credere a qualsiasi cosa.»
 
-Rasler Heios Nabradia era alto, con i capelli quasi bianchi a forza di essere biondi, gli occhi grigi della gente del nord-est e una faccia aperta che invitava alla confidenza. I soldati di Dalmasca lo conoscevano da pochi mesi e lo trattavano già come uno dei loro. Ashe lo punzecchiava dal giorno in cui si erano conosciuti, e lui la lasciava finire, ogni volta, e poi rideva, senza offendersi mai; lei non aveva ancora deciso se fosse sicurezza o ingenuità, e il non saperlo la irritava in un modo che le piaceva.
+Pancia finalmente ripartì. La carrozza diede uno strattone e Ashe dovette afferrare il braccio di Rasler per non scivolare dal sedile. Lui le coprì la mano con la propria, senza lasciarla andare.
 
-Ashelia B'nargin Dalmasca, unica erede di re Raminas, era cresciuta in un palazzo dove le si insegnava a essere una regina e a non esserlo ancora, e per difendersi si era fatta una lingua estremamente tagliente. Rispondeva prima che la domanda fosse finita. Correggeva gli ambasciatori sulla pronuncia dei loro stessi nomi. Il suo maestro di spada, un veterano che aveva servito sotto suo nonno, diceva che non aveva mai avuto un allievo così rapido e così incapace di aspettare, e lo diceva con orgoglio. Sotto il velo, quella mattina, aveva un'acconciatura che le avevano fatto in tre ore, e la testa le doleva in sei punti precisi, e non lo avrebbe ammesso con nessuno.
+«Visto? Tutto sotto controllo.»
+
+Rasler Heios Nabradia era alto, con i capelli quasi bianchi a forza di essere biondi, gli occhi grigi della gente del nord-est e una faccia aperta che invitava alla confidenza. I soldati di Dalmasca lo conoscevano da pochi mesi e lo trattavano già come uno dei loro. Ashe lo punzecchiava dal giorno in cui si erano conosciuti, e lui la lasciava finire, ogni volta, e poi rideva, senza offendersi mai. Lei non aveva ancora capito se fosse sicurezza o ingenuità, ma trovava entrambe le possibilità piuttosto affascinanti.
+
+Ashelia B'nargin Dalmasca, unica erede di re Raminas, era cresciuta in un palazzo dove le insegnavano a essere una regina, ricordandole ogni giorno che non lo era ancora. Aveva imparato presto a non tenersi le opinioni per sé. Rispondeva prima che le domande fossero finite e non esitava a correggere gli ambasciatori quando sbagliavano qualche dettaglio della storia di Dalmasca. Il suo maestro di spada, un veterano che aveva servito sotto suo nonno, diceva che non aveva mai avuto un'allieva così rapida e impaziente. E lo diceva con orgoglio. Sotto il velo, quella mattina, aveva un'acconciatura che le avevano fatto in tre ore. La testa le doleva in sei punti precisi, ma non lo avrebbe ammesso con nessuno.
 
 «Ho una domanda» disse lei, voltandosi a salutare la via delle Fontane.
 
@@ -82,37 +98,47 @@ Ashelia B'nargin Dalmasca, unica erede di re Raminas, era cresciuta in un palazz
 
 «Lo so dov'è. Ti ho chiesto se è della misura giusta. Ieri non hai voluto mostrarmelo, e la mia sarta dice che una sposa deve...»
 
-«La tua sarta dice molte cose.» Rasler salutò un soldato di guarnigione che piangeva apertamente, appoggiato alla lancia. «È della misura giusta. L'ho presa io, con la massima discrezione.»
+«La tua sarta dice molte cose.» Rasler salutò un soldato di guarnigione che piangeva apertamente, appoggiato alla lancia. «Comunque, non preoccuparti. La misura l'ho presa io.»
 
-«Come?»
+«Davvero? Come?»
 
-Lui esitò.
+Rasler esitò.
 
-«Come, Rasler?»
+«Rasler?»
 
-«Un tuo guanto.»
+«Con un tuo guanto.»
 
-Lei si voltò verso di lui, dimenticando la folla. «Un mio guanto.»
+Ashe si voltò verso di lui, dimenticando per un momento la folla.
 
-«La tua cameriera me ne ha prestato uno. Ho girato un filo attorno all'anulare, ci ho fatto un nodo e l'ho portato all'orafo. Le ho promesso che non te l'avrei detto.»
+«Un mio guanto?»
+
+«Ho chiesto alla tua cameriera di prestarmene uno. Ho avvolto un filo attorno all'anulare, fatto un nodo e portato tutto all'orafo.»
+
+Ashe lo fissò.
 
 «Hai misurato il mio dito su un guanto.»
 
-«Era un guanto tuo, non di un'altra. Mi è sembrato un dettaglio importante.»
+«Era un guanto tuo.»
 
-«I guanti sono più larghi delle dita» disse Ashe, con la pazienza che si usa con i bambini e con i forestieri. «È il loro mestiere. Altrimenti non ci si entrerebbe.»
+«Rasler, i guanti sono più larghi delle dita.»
 
-Rasler guardò la mano di lei. «Ah» disse.
+Lui abbassò lo sguardo sulla mano di lei.
 
-«Ah» ripeté lei.
+«Ah.»
 
-«Be', nella peggiore delle ipotesi non ti stringerà.»
+«Ah.» Rasler rimase a pensarci per un momento.
 
-Ashe tenne duro per tre case. Alla quarta, davanti a una fontana dove dei ragazzini si erano arrampicati sulla statua di un antico re per vedere meglio, e uno di loro aveva messo il proprio cappello in testa al re, la risata le sfuggì. Fu breve, alta, del tutto fuori protocollo, e la folla che la sentì cominciò ad applaudire senza sapere perché. Ashe si coprì la bocca con la mano.
+«Be', almeno non ti stringerà.»
 
-«Ti odio» disse lei dietro le dita.
+Ashe scosse la testa, ma prima che potesse rispondergli la sua attenzione fu attirata da un gruppo di ragazzini arrampicati sulla statua di un antico re, davanti a una fontana. Uno di loro aveva messo il proprio cappello in testa alla statua e adesso cercava di sistemarglielo meglio. Ashe scoppiò a ridere.
 
-«Lo so. È un bell'inizio.»
+«Guarda!» disse, indicando la fontana a Rasler.
+
+Lui si sporse appena per vedere.
+
+«Almeno qualcuno ha pensato di vestirlo per l'occasione.»
+
+La risata di Ashe attirò gli applausi della folla. Lei si coprì la bocca con una mano, ancora divertita, mentre Rasler tornava a salutare.
 
 Per un po' salutarono senza parlare. La strada saliva verso la piazza della cattedrale e la folla, lì, era così fitta che chi stava sui gradini delle case aveva le spalle schiacciate contro le porte e le braccia alzate, perché giù non c'era più posto nemmeno per quelle.
 
@@ -120,75 +146,125 @@ Per un po' salutarono senza parlare. La strada saliva verso la piazza della catt
 
 «Puoi provarci.»
 
-«Ieri, al consiglio, quando il ministro delle finanze ha letto la dote...»
+«Ieri, al consiglio, quando hanno letto la dote...»
 
 «Grano.»
 
-«Grano, sì. Diciottomila misure.» Lui sorrise a una ragazza che lanciava petali con tanta energia da colpire il chocobo di testa. «Hai fatto una faccia. Volevo sapere cosa pensavi.»
+«Diciottomila misure.» Rasler salutò una ragazza che lanciava petali con tanta energia da colpire il chocobo di testa. «Ho visto la tua faccia.»
 
-«Pensavo che mio padre ti ha comprato al prezzo di un cattivo raccolto.»
+«Pensavo che mio padre ti avesse comprato al prezzo di un cattivo raccolto.»
 
 «Un ottimo affare, quindi.»
 
 «Per lui.»
 
-«Per tutti e due, credo.» Lo disse in fretta, prima che lei potesse rispondere, e poi aggiunse, più piano: «So come si fanno questi matrimoni, Ashe. Me lo hanno spiegato da quando avevo otto anni. Una mappa su un tavolo, un confine troppo lungo per un esercito solo, due vecchi che si guardano e pensano la stessa cosa. Lo so che siamo una frontiera.» Si girò a salutare il lato opposto, così che lei non potesse vedergli la faccia mentre diceva il resto. «Volevo solo che sapessi che io, a quella frontiera, ci sarei venuto lo stesso.»
+Rasler rise.
 
-Ashe non rispose. Le tornò in mente, senza nessuna ragione, il giorno in cui lui era arrivato a Rabanastre la prima volta, con la polvere della strada sugli stivali e un regalo sbagliato: un libro di poesie nabradiane, rilegato in verde, che lei aveva ringraziato con freddezza e messo in un cassetto. Da un mese lo teneva sul comodino. Ne aveva letto metà. Non glielo aveva detto, e decise in quel momento che non glielo avrebbe detto ancora per un pezzo.
+«Sai, quando avevo otto anni mio padre mi mostrò una mappa. Mi spiegò che Dalmasca e Nabradia avevano un confine troppo lungo e troppo pochi uomini per difenderlo. Disse che un giorno avrei potuto fare qualcosa per cambiare le cose.»
 
-La carrozza attraversò una striscia d'ombra sotto un arco, e per due passi di chocobo nessuno li vide. Ashe gli prese la mano e la strinse, forte, con le dita che le avevano insegnato a tenere morbide.
+«Sposando una principessa.»
 
-«Se lo ripeti in pubblico, ti faccio esiliare» disse.
+«Eccoci qui.»
 
-«Dove?»
+«Già.»
 
-«Nabradia.»
+Rasler guardò la folla che si accalcava lungo la strada.
 
-«Ci torno volentieri, se vieni anche tu.» Poi, senza cambiare tono: «Mio padre ti manda i suoi rispetti. Ti scriverà.»
+«Per molto tempo ho pensato a questo matrimonio come a un dovere. Poi sono arrivato a Rabanastre e ho conosciuto una ragazza che mi ha detto che il mio regalo di benvenuto fosse orribile.»
 
-Lei sapeva che il re di Nabradia non era venuto. Lo sapeva tutta la corte, ed era stato spiegato con una lettera piena di gotta e di cortesia, una lettera che diceva tutto tranne il motivo vero; e il motivo vero erano i reggimenti archadiani accampati da due mesi sull'altra riva del confine orientale, che facevano manovre, e non attraversavano. Un re non lascia la capitale quando i vicini fanno manovre. Sapeva anche che Rasler aveva letto quella lettera tre volte, la sera prima, e che l'aveva poi bruciata nel braciere della sua stanza perché nessun cameriere potesse leggerla.
+Ashe lo fissò.
+
+«Il libro di poesie?»
+
+«Proprio quello.»
+
+«Non ho detto che fosse orribile.»
+
+«Hai detto che avevi già abbastanza libri.»
+
+«Era vero.»
+
+«E hai aggiunto che almeno gli altri erano scritti bene.»
+
+Ashe cercò di mantenere un'espressione seria.
+
+«Non ricordo.»
+
+«Io sì.»
+
+Rasler sorrise, poi aggiunse più piano:
+
+«È stato allora che ho cominciato a sperare che quella frontiera mi portasse proprio da te.»
+
+Ashe non rispose. Il libro di poesie che aveva tanto criticato riposava da settimane sul suo comodino. Aveva cominciato a leggerlo per curiosità, una sera in cui non riusciva a dormire, e da allora lo riprendeva quasi ogni notte. Non glielo aveva mai detto. Adesso, mentre lui tornava a salutare la folla, si domandò se avesse davvero capito quanto fosse felice di averlo accanto.
+
+La carrozza attraversò una striscia d'ombra sotto un arco, e per qualche istante la folla scomparve alla loro vista. Ashe si voltò verso Rasler.
+
+«Sai che sei riuscito a sorprendermi?»
+
+«Spero sia una cosa buona.»
+
+«Non ho ancora deciso.»
+
+Lui sorrise.
+
+«Allora aspetterò.»
+
+Ashe gli prese la mano e la strinse. Quando tornarono alla luce, ripresero entrambi a salutare la folla.
+
+«A proposito» disse Rasler, dopo un momento. «Mio padre ti manda i suoi rispetti. Ha promesso che continuerà a scriverti.»
+
+Ashe sapeva bene perché il re di Nabradia non fosse venuto. La corte aveva ricevuto una lettera piena di gotta e di cortesia, nella quale il sovrano si scusava per la propria assenza. Da due mesi, però, i reggimenti archadiani erano accampati nei pressi del confine orientale di Nabradia, impegnati in continue esercitazioni militari. Non avevano ancora attraversato il confine, ma nessun re avrebbe lasciato la propria capitale in una situazione simile. Rasler aveva letto quella lettera tre volte, la sera prima, e alla fine l'aveva bruciata nel braciere della sua stanza, perché nessun cameriere potesse leggerla.
 
 «Gli risponderò» disse lei.
 
-«Gli piacerai. Ti troverà insopportabile, e gli piacerai moltissimo.»
+«Sai che mio padre ti adora. Dice sempre che sei insopportabile, ma è proprio questo che gli piace di te. Devo aver preso da lui.»
 
-La carrozza uscì dall'arco nella luce della piazza, e la cattedrale si alzò davanti a loro con le sue cupole chiare, e le campane cominciarono a suonare tutte insieme, così forte che per un po' nessuno, né gli sposi né il popolo, poté più dire una parola.
+Superato l'arco, la carrozza entrò nella grande piazza. La cattedrale si ergeva davanti a loro, con le cupole chiare che brillavano al sole. Quando le campane cominciarono a suonare, il loro rintocco coprì ogni altro rumore, dalle grida della folla alle parole che gli sposi si stavano scambiando.
 
 ---
 
-Dentro faceva fresco. La cattedrale di Rabanastre ha muri spessi tre passi, costruiti da gente che conosceva il deserto, e chi ci entrava a mezzogiorno di primavera sentiva il sudore asciugarsi sulla schiena come se qualcuno avesse aperto una porta su un altro paese. I vetri colorati delle finestre gettavano sul pavimento macchie azzurre e rosse che si spostavano piano durante la cerimonia, tanto che alla fine il manto del vescovo era passato dal blu al viola senza che lui facesse un passo.
+Dentro faceva fresco. Le spesse mura di pietra della cattedrale trattenevano il calore all'esterno, offrendo un piacevole sollievo a chi entrava dal sole di mezzogiorno. La luce attraversava le vetrate colorate, disegnando sul pavimento macchie azzurre e rosse che si spostavano lentamente durante la cerimonia. Quando il sole cambiò posizione, il manto del vescovo, inizialmente blu, sembrò assumere sfumature violacee.
 
-Nei banchi davanti sedeva la nobiltà dei due regni, in quelli dietro i mercanti ricchi; gli ambasciatori stavano in una tribuna laterale, ciascuno con il suo seguito. Quello di Rozarria aveva portato un'intera famiglia di cugini e applaudiva più di tutti. Quello di Archadia era venuto da solo, con un segretario. Era un uomo magro, educatissimo, vestito di grigio scuro, che a ogni momento del rito si alzava un istante prima degli altri, perché lo aveva studiato per non sbagliarlo, e guardava la navata con l'interesse cortese di un architetto in visita.
+Nei primi banchi sedeva la nobiltà di Dalmasca e Nabradia. Dietro di loro avevano preso posto i mercanti più facoltosi, mentre agli ambasciatori era stata riservata una tribuna laterale. Il rappresentante di Rozarria era arrivato con un'intera famiglia di cugini e applaudiva più di tutti. Quello di Archadia aveva portato soltanto un segretario. Era un uomo magro, vestito di grigio scuro, tanto cortese da non lasciarsi sorprendere da nulla. Aveva studiato il cerimoniale e ne conosceva ogni passaggio, al punto da alzarsi un istante prima degli altri. Di tanto in tanto osservava le alte colonne, le finestre e la navata, con l'attenzione tranquilla di chi visita un edificio per la prima volta.
 
-Re Raminas aspettava all'altare. Aveva sessantasei anni e li mostrava tutti, con le spalle ancora larghe ma un poco curve. Era calvo da molto tempo, e la barba bianca e curata gli stava sotto un diadema d'oro da cui scendevano ai lati del volto due trecce di nappe. Sua figlia aveva preso gli occhi azzurri dalla madre, e da lui il modo di guardare la gente dritto in faccia. Gli occhi del re erano bruni, e più lenti di quelli di lei a giudicare, più rapidi a perdonare. Raminas B'nargin Dalmasca aveva governato per trent'anni un regno che stava esattamente in mezzo a due eserciti più grandi del suo, e lo aveva tenuto in piedi a forza di trattati, di matrimoni, di pazienza e di quella forma particolare di coraggio che consiste nel non fare niente di vistoso. Il popolo lo chiamava il re buono. Lui sapeva che era un modo gentile per dire il re debole, e non se ne offendeva.
+Re Raminas aspettava all'altare. Aveva sessantasei anni, le spalle ancora larghe, anche se un poco curve, e una barba bianca che portava sempre ben curata. Era calvo da molti anni e quel giorno indossava un diadema d'oro, ornato di due nappe intrecciate che gli scendevano ai lati del volto. Ashe aveva ereditato gli occhi azzurri dalla madre, ma dal padre aveva preso l'abitudine di guardare le persone dritte in faccia. Gli occhi di Raminas erano bruni, più pazienti dei suoi nel giudicare e più pronti a perdonare.
 
-Quando sua figlia entrò dalla navata al braccio di Rasler, la faccia di Raminas si aprì, e per un momento il re di Dalmasca si dimenticò di essere guardato.
+Governava Dalmasca da trent'anni. Aveva visto i due grandi imperi contendersi terre e alleanze, e aveva imparato che per un regno piccolo come il suo la prudenza valeva spesso più di una vittoria. Trattati, matrimoni e lunghe trattative gli avevano permesso di conservare la pace, anche quando i suoi consiglieri avrebbero preferito una dimostrazione di forza. Il popolo lo chiamava il re buono. Qualcuno lo diceva con affetto, altri perché lo ritenevano troppo debole per farsi temere. Raminas conosceva entrambe le opinioni e non se ne preoccupava troppo.
 
-La cerimonia fu lunga. Il vescovo di Rabanastre, un vecchio con la voce più grande del corpo, lesse le genealogie delle due case fino al terzo re di ciascuna, e a metà della seconda genealogia un nobile nabradiano nei primi banchi cominciò a dormire con molta dignità. Ashe recitò la sua parte senza un'esitazione. Rasler si perse una volta nella formula del giuramento, quella con il congiuntivo che a Dalmasca nessuno usa più da due secoli, e lei gliela suggerì in un sussurro che arrivò fino al terzo banco, e il terzo banco finse di non aver sentito.
+Poi vide Ashe avanzare lungo la navata al braccio di Rasler. Sorrise così apertamente che, per un momento, dimenticò le centinaia di persone che lo stavano guardando.
 
-Al momento degli anelli il re aprì una piccola scatola di legno scuro e la tese a Rasler, che ne tolse la fede e la sollevò perché i sacerdoti la benedicessero. Era una fascia sottile, larga quanto un chicco di riso, fatta di due fili di metallo ritorti l'uno sull'altro: uno d'oro rosso, l'oro delle miniere di Dalmasca che ha un colore caldo, quasi di rame, e l'altro d'argento bianco di Nabradia, che i gioiellieri del nord-est lavorano da secoli e che non annerisce. I due fili giravano attorno al dito come due persone che camminano sottobraccio, e dove si incrociavano l'orafo aveva lasciato piccole tacche, una ogni mezzo giro, perché la luce le prendesse. Non c'erano pietre e l'interno era liscio, come aveva chiesto Rasler: le parole, aveva detto all'orafo, ce le avrebbero messe loro, col tempo. L'orafo, che era un uomo pratico, aveva pensato che volesse risparmiare sull'incisione.
+La cerimonia fu lunga. Il vescovo di Rabanastre, un vecchio con una voce sorprendentemente potente, lesse le genealogie delle due famiglie reali fino al terzo re di ciascuna. A metà della seconda, un nobile nabradiano nei primi banchi cominciò ad assopirsi, mantenendo una postura impeccabile.
 
-Rasler prese la mano sinistra di Ashe e infilò l'anello. Andò giù senza fatica, fino alla base del dito e poi un po' oltre, e si fermò solo perché c'era la mano. Era largo di una buona misura. Largo come un guanto.
+Ashe pronunciò ogni risposta senza esitazione. Rasler, invece, inciampò in una formula del giuramento che conteneva un congiuntivo caduto in disuso da almeno due secoli. Lei gliela suggerì sottovoce, abbastanza forte perché la sentissero anche nel terzo banco. Nessuno dei presenti diede segno di essersene accorto.
 
-Ashe lo sentì girare quando mosse le dita, leggero, freddo per un istante e poi caldo come il resto della mano.
+Al momento degli anelli il re aprì una piccola scatola di legno scuro e la tese a Rasler, che ne tolse la fede e la sollevò perché i sacerdoti la benedicessero. Era una fascia sottile, larga quanto un chicco di riso, fatta di due fili di metallo ritorti l'uno sull'altro: uno d'oro rosso, l'oro delle miniere di Dalmasca che ha un colore caldo, quasi di rame, e l'altro d'argento bianco di Nabradia, che i gioiellieri del nord-est lavorano da secoli e che non annerisce. I due fili correvano intrecciati lungo tutta la fascia, come due persone che camminano sottobraccio. Nei punti in cui si incrociavano, l'orafo aveva inciso piccole tacche che catturavano la luce. All'interno non c'erano iscrizioni. Rasler aveva preferito lasciare spazio alle parole che lui e Ashe avrebbero scelto insieme, negli anni. L'orafo aveva interpretato la richiesta come un tentativo di risparmiare sull'incisione.
 
-Abbassò gli occhi sull'anello, e poi li alzò su Rasler, e lui la guardava con una tale espressione di colpa e di trionfo insieme che lei dovette mordersi l'interno della guancia, forte, davanti a cinquecento persone e a un vescovo che aveva appena alzato le braccia per la benedizione. Le tremavano le spalle. Dai banchi la si credette commossa. Qualche dama si asciugò gli occhi per solidarietà.
+Rasler prese la mano sinistra di Ashe e infilò l'anello. Andò giù senza fatica, fino alla base del dito e poi un po' oltre, e si fermò solo perché c'era la mano. Era troppo largo. Largo come un guanto, pensò Ashe.
 
-Il vescovo pronunciò la formula con tutta la voce che aveva, e la cattedrale gliela restituì da ogni cupola.
+Ashe guardò l'anello, poi Rasler. Lui aveva un'espressione a metà fra il senso di colpa e la soddisfazione, e lei dovette mordersi l'interno della guancia per trattenere una risata. Il vescovo aveva già alzato le braccia per la benedizione e cinquecento persone li stavano osservando. Ashe cercò di restare seria, ma le spalle cominciarono a tremarle. Nei banchi pensarono che stesse piangendo per la commozione. Qualche dama, intenerita, si asciugò gli occhi.
+
+Il vescovo pronunciò la formula a voce alta, e le sue parole risuonarono in tutta la cattedrale.
 
 «Davanti al Padre che dà la legge e alla Madre che accoglie tutto ciò che nasce e muore, davanti ai re che riposano sotto questa pietra e al popolo che vive sopra di essa, Ashelia e Rasler sono uniti. Ciò che hanno promesso li leghi, ciò che hanno di diverso li arricchisca, e gli dèi tengano sopra di loro la mano finché la loro strada sarà lunga. Faram.»
 
-«Faram» rispose la cattedrale, cinquecento voci che non si accordavano, e qualcuna in ritardo.
+«Faram» risposero i presenti. Cinquecento voci si levarono dai banchi, alcune profonde, altre appena sussurrate. Non tutti cominciarono insieme: qualcuno seguì il vicino con un istante di ritardo, e la parola continuò a risuonare nella navata anche dopo che i primi avevano già abbassato il capo.
 
-Rasler sollevò il velo. Il bacio fu breve e rituale, come vuole la liturgia di Dalmasca, ma quando si staccò lui le disse qualcosa a bassissima voce, e lei rise, questa volta senza riuscire a fermarsi in tempo, una risata soffocata nel colletto di lui. I testimoni nei primi banchi non sono d'accordo su che cosa le avesse detto. Il nobile nabradiano che dormiva, svegliato di soprassalto dal coro, sostenne fino alla vecchiaia che si trattava di un verso di poesia antica. È più probabile che fosse una frase sui guanti.
+Rasler sollevò il velo. Il bacio fu breve, come voleva la tradizione di Dalmasca, ma quando si separarono lui le sussurrò qualcosa che nessun altro riuscì a sentire. Ashe abbassò il capo per nascondere un sorriso. Poi le sfuggì una risata, che cercò inutilmente di soffocare contro il colletto di Rasler. Nei primi banchi si discusse a lungo di quelle poche parole. Il nobile nabradiano che si era addormentato durante le genealogie assicurò, fino alla vecchiaia, che il principe avesse recitato un verso di poesia antica. Nonostante avesse trascorso buona parte della cerimonia dormendo, nessuno riuscì mai a fargli cambiare idea. Probabilmente Rasler aveva soltanto detto qualcosa sui guanti.
 
-Raminas li guardò uscire per primi, lungo la navata, nel rumore delle campane che erano ripartite e dei petali che entravano dalle porte spalancate come neve rossa. Si appoggiò al bordo dell'altare. Sua moglie aveva percorso quella stessa navata trent'anni prima, con un vestito troppo pesante per la stagione e una fretta che le aveva fatto perdere una scarpa sul terzo gradino; lui l'aveva raccolta, e il vescovo di allora aveva fatto finta di niente. Pensò che a lei sarebbe piaciuto vedere la figlia ridere sotto il velo, davanti al vescovo.
+Raminas osservò gli sposi percorrere la navata verso l'uscita. Le campane avevano ricominciato a suonare e dalle porte spalancate entravano manciate di petali rossi, portati dal vento e dalla folla che li aspettava fuori. Il re rimase accanto all'altare, appoggiandovi una mano. Trent'anni prima sua moglie aveva percorso quella stessa navata. Indossava un abito troppo pesante per la stagione e aveva tanta fretta di raggiungerlo che, salendo i gradini, aveva perso una scarpa. Raminas si era chinato a raccoglierla, mentre il vescovo fingeva di non aver visto nulla. Sorrise al ricordo. Sua moglie avrebbe adorato vedere Ashe ridere durante la cerimonia. Probabilmente avrebbe riso con lei.
 
 ---
 
-Il banchetto si tenne nel cortile grande del palazzo, sotto tende di lino tirate fra le colonne, e durò fino al tramonto, perché a Rabanastre di giorno nessuno mangia volentieri e tutti mangiano molto appena il sole cala. C'erano agnelli arrostiti con il cumino e i datteri, focacce dei forni della Città Bassa, che il re aveva voluto al posto dei pani di corte per una questione di principio e di sapore, formaggi di capra delle Pianure di Giza in forme grandi come scudi. Il vino veniva da Nabradia, era scuro e un po' aspro, e i nobili dalmaschi lo bevevano facendo complimenti che non pensavano, e i nobili nabradiani lo bevevano ascoltando i complimenti con soddisfazione, e alla terza coppa le due nobiltà avevano smesso di distinguersi.
+Il banchetto si svolse nel cortile grande del palazzo, dove lunghe tende di lino proteggevano i tavoli dal sole. Le cucine avevano preparato agnello arrosto con cumino e datteri, formaggi delle Pianure di Giza e focacce dei forni della Città Bassa, che Raminas aveva voluto servire anche agli ospiti più illustri. Il vino, portato appositamente da Nabradia, era scuro e leggermente aspro. Fu servito in abbondanza e accompagnò le conversazioni fino a sera. I nobili dei due regni, inizialmente divisi in piccoli gruppi, finirono per mescolarsi, e quando furono accese le prime lanterne molti avevano già dimenticato le formalità del mattino.
 
-L'ambasciatore di Archadia si avvicinò agli sposi a metà banchetto, con il segretario un passo indietro e un dono fra le mani. Era una coppia di calici di cristallo, così sottili che la luce delle lanterne ci passava attraverso senza quasi piegarsi, e sul piede di ciascuno era inciso lo stemma della casa imperiale. L'ambasciatore li presentò con un discorso breve e perfetto, senza nessun accento. Disse che l'imperatore Gramis inviava ai giovani sposi l'augurio di un'unione lunga e serena, e che il cristallo era stato scelto perché è la materia che più somiglia alla pace: trasparente, preziosa e, purtroppo, fragile. Poi si inchinò, e prima di ritirarsi si complimentò con Rasler per il coraggio di suo padre, che restava a Nabudis in tempi così inquieti. Rasler lo ringraziò con la stessa cortesia. Solo Ashe, che gli teneva la mano sotto la tavola, sentì le sue dita diventare di pietra.
+L'ambasciatore di Archadia si avvicinò agli sposi durante il banchetto, seguito dal suo segretario, che portava una custodia di legno scuro. All'interno, adagiati sul velluto, c'erano due magnifici calici di cristallo. Le coppe erano decorate con incisioni delicate, mentre gli steli lavorati terminavano in ampie basi sulle quali era inciso lo stemma della casa imperiale. La luce delle lanterne si rifletteva sulle sfaccettature, disegnando piccoli bagliori sulla tovaglia.
+
+L'ambasciatore attese che gli sposi avessero ammirato il dono, poi si inchinò.
+
+«Sua Maestà l'imperatore Gramis vi augura un'unione lunga e felice. Ha scelto personalmente questo dono, nella speranza che possa ricordarvi quanto siano preziose le cose che uniscono i popoli. Preziose e, talvolta, fragili.»
+
+Pronunciò l'ultima parola con la stessa cortesia delle precedenti. Poi si rivolse a Rasler e gli chiese notizie del padre, complimentandosi per la decisione di restare a Nabudis in un periodo tanto incerto. Rasler rispose con un sorriso educato e lo ringraziò per il dono. Ashe, che gli teneva la mano sotto la tavola, sentì le sue dita stringersi attorno alle proprie.
 
 «Ha detto fragile» disse lei, quando l'ambasciatore se ne fu andato.
 
@@ -196,29 +272,55 @@ L'ambasciatore di Archadia si avvicinò agli sposi a metà banchetto, con il seg
 
 «Ha detto fragile a un matrimonio.»
 
-«E si è premurato di ricordarmi dov'è mio padre.» Rasler prese uno dei calici, lo guardò controluce, lo rimise giù con grande cura. «Li useremo per l'acqua. Così, se si rompono, non perdiamo il vino.»
+«E non si è dimenticato di mio padre.»
+
+Rasler abbassò gli occhi sui calici. Per qualche istante rimase in silenzio, poi ne prese uno.
+
+«Sono belli, bisogna ammetterlo.»
+
+«Rasler...»
+
+«Li useremo per l'acqua. Così, se si rompono, almeno salviamo il vino.»
+
+Ashe gli accarezzò il dorso della mano con il pollice. Lui sorrise, ma non aggiunse altro.
 
 Raminas, che sedeva alla loro destra e aveva sentito tutto, si chinò verso di loro con una coppa in mano.
 
-«Ad Archades ci considerano un ponte» disse. «Utile per passare da una riva all'altra. Su un ponte nessuno pianta un giardino.» Bevve un sorso e guardò la figlia, poi il genero. «Io ci ho provato lo stesso.»
+«Ad Archades guardano Dalmasca come si guarda una strada» disse Raminas. «Gli interessa soltanto dove conduce e quanto sia facile attraversarla.»
 
-Ashe gli prese la mano con quella libera. Lui gliela strinse, e poi tornò a sedersi dritto, a fare il re.
+Bevve un sorso, poi guardò la figlia e il genero.
 
-Il dispaccio arrivò poco dopo. Lo portò un ufficiale di cancelleria in tenuta da viaggio, ancora impolverato fino alle ginocchia, che attraversò il cortile rasente il muro, come chi spera di passare inosservato. Fra cento invitati seduti a tavola, un uomo che sgattaiola lungo un muro è la cosa più interessante del banchetto: si voltarono tutti. Si inginocchiò accanto al re e gli consegnò un cilindro di cuoio con il sigillo della guarnigione orientale. Raminas spezzò il sigillo, lesse il foglio una volta, lo arrotolò di nuovo e lo infilò nella manica. Disse qualcosa all'ufficiale, che si rialzò e se ne andò com'era venuto. Poi il re sorrise alla tavola e chiese che portassero la frutta.
+«Ma per noi questa è casa. E io ho passato trent'anni a cercare di proteggerla.»
 
-Ashe vide che suo padre, da quel momento, non toccò più la coppa, e che la mano sinistra gli tornava ogni tanto alla manica, a controllare che il foglio fosse ancora lì. Le venne una voglia infantile di alzarsi, di andare a sedersi accanto a lui e di leggergli il foglio da sopra la spalla, come faceva da bambina con le lettere che arrivavano nello studio; lui allora fingeva di non accorgersene e girava la pagina un po' più lentamente. Rimase dov'era. Era una donna sposata da sei ore, e accanto aveva un marito che le stava raccontando dei chocobo di suo nonno.
+Posò la coppa e sorrise agli sposi.
 
-Il sole calò, e accesero le lanterne di carta, centinaia, appese ai fili tesi fra le colonne, e il cortile diventò arancione. I liutisti lasciarono posto ai tamburi, e i tamburi a una danza della Città Bassa che le dame di corte non conoscevano e che impararono in fretta, ridendo, togliendosi le scarpe quando nessuno guardava.
+«Avremo tempo per preoccuparci di Archadia. Oggi è il vostro matrimonio, e vorrei vedervi festeggiare.»
 
-Rasler trascinò Ashe in mezzo al cortile, e lei disse che non sapeva quella danza, e lui disse che neanche lui, e la ballarono malissimo, girando dalla parte sbagliata, finché una cuoca anziana uscita dalle cucine con il grembiule ancora addosso non li prese per le braccia e non mostrò loro come si faceva, davanti a tutta la nobiltà dei due regni. Nessuno osò ridere, e alla fine risero tutti.
+Ashe gli prese la mano. Raminas gliela strinse, poi tornò a rivolgere la propria attenzione agli ospiti. Per un po' la festa proseguì senza altre interruzioni. I servitori riempirono le coppe e qualcuno, dall'altra parte del cortile, propose un brindisi agli sposi.
 
-Quando la danza finì, il re si alzò dal suo tavolo appoggiandosi con una mano al bordo e attraversò il cortile fra gli ospiti che gli aprivano un varco. Si fermò davanti alla figlia e le fece un piccolo inchino, da cavaliere di provincia.
+Fu durante uno di quei brindisi che un ufficiale di cancelleria comparve all'ingresso del cortile. Indossava ancora la tenuta da viaggio e aveva gli stivali impolverati fino alle ginocchia. Un servitore lo accompagnò discretamente al tavolo del re, dove l'uomo si chinò per consegnargli un cilindro di cuoio sigillato.
 
-«Una sola» disse al genero. «Poi te la restituisco.»
+Raminas riconobbe il sigillo della guarnigione orientale. Lo spezzò, lesse il dispaccio e rimase qualche istante a fissare il foglio. Poi lo arrotolò e lo nascose nella manica. Disse poche parole all'ufficiale, che si congedò con un inchino. Quando uno degli ospiti si rivolse a lui, Raminas aveva già ripreso a sorridere. Chiese ai servitori di portare la frutta.
 
-Rasler cedette la mano della sposa con una riverenza esagerata. I tamburieri, che conoscevano il loro mestiere, cambiarono passo. Era una danza lenta di Dalmasca, di quelle che si ballano a un braccio di distanza, con i palmi che si sfiorano e i piedi che fanno poco. Raminas l'aveva insegnata alla figlia quando lei gli arrivava alla cintura, nella sala del trono vuota, con i ritratti degli antenati per pubblico. Lei gli pestava i piedi, e lui diceva che anche il bisnonno, quello col naso grande, li aveva pestati a qualcuno. La mano di suo padre era asciutta e calda, e sapeva di cera da sigillo. Ballavano bene, loro due, e nel cortile nessuno lo sapeva: non lo avevano mai fatto davanti a qualcuno.
+Ashe continuò a osservare suo padre. Non aveva più bevuto dalla coppa e ogni tanto controllava con una mano il dispaccio nascosto nella manica.
 
-«Cosa c'era nel cilindro?» chiese lei al secondo giro.
+Da bambina gli si avvicinava spesso mentre leggeva le lettere dei suoi consiglieri. Si sporgeva sopra la sua spalla per curiosare, e lui, pur sapendo benissimo che era lì, rallentava apposta per permetterle di leggere. Per un momento desiderò tornare a quei pomeriggi, quando bastava avvicinarsi al padre per sapere cosa lo preoccupasse.
+
+Ma Raminas non alzò gli occhi verso di lei. Ashe rimase seduta accanto a Rasler, che le raccontava dei chocobo di suo nonno, e lasciò che la festa proseguisse.
+
+Al tramonto accesero le lanterne e il cortile cambiò aspetto. Le ombre delle colonne si allungarono sui tavoli, ormai quasi sparecchiati, mentre gli invitati si raccoglievano vicino ai musicisti.
+
+La prima danza della sera veniva dalla Città Bassa. I nobili dalmaschi ne conoscevano vagamente la melodia, quelli nabradiani non l'avevano mai sentita, e furono proprio alcuni mercanti di Rabanastre a mostrare agli altri come si ballava.
+
+Rasler si unì ai ballerini portandosi dietro Ashe, che cercò inutilmente di spiegargli di non sapere i passi. Lui non li conosceva affatto, ma aveva già deciso che questo non sarebbe stato un problema. Passarono buona parte della danza a osservare i piedi delle coppie vicine. Ashe imparava in fretta, Rasler molto meno, e ogni volta che cambiavano direzione lui arrivava un momento dopo. Alla fine si ritrovarono a ridere così tanto da perdere completamente il ritmo.
+
+Quando la musica terminò, tornarono verso il tavolo degli sposi ancora divertiti, senza accorgersi che Raminas li aveva osservati per tutto il tempo. Raminas si alzò e raggiunse la figlia. Si fermò davanti a lei e si inchinò leggermente.
+
+«Una sola» disse a Rasler. «Prometto di restituirtela.»
+
+Rasler rispose con una riverenza tanto profonda da far ridere Ashe, poi lasciò il posto al re. La musica rallentò. Raminas le prese la mano e cominciarono a ballare una vecchia danza di Dalmasca, fatta di passi brevi e movimenti tranquilli. Ashe la conosceva da quando era bambina. Suo padre gliel'aveva insegnata nella sala del trono, quando lei era così piccola che per seguirlo doveva quasi correre. Ricordava ancora le volte in cui gli pestava i piedi e lui, invece di rimproverarla, le raccontava che il bisnonno ritratto sopra il trono era stato un ballerino persino peggiore. Ora doveva rallentare un poco il passo per seguire quello del padre. Raminas le teneva la mano come allora. Era calda, asciutta, e conservava quel leggero odore di cera da sigillo che Ashe associava da sempre al suo studio. Per qualche minuto ballarono senza parlare, seguendo una musica che conoscevano entrambi a memoria.
+
+«Che cos'è arrivato prima?» chiese Ashe al secondo giro.
 
 «Frutta. Ho chiesto la frutta.»
 
@@ -232,7 +334,7 @@ Raminas guardò il pugno, poi la figlia.
 
 «Largo?»
 
-«Di una buona misura.»
+«Un bel po'.»
 
 «Tua madre aveva le dita sottili come le tue. Il suo l'ho fatto stringere due volte, e la seconda l'orafo si è rifiutato di farsi pagare.» Prese il pugno chiuso nella mano, senza aprirlo, e continuò a ballare così, palmo contro nocche, fuori da ogni regola della danza. «Tienilo chiuso, allora. Le cose che contano, quando scappano, si tengono così. Non per sempre. Finché non c'è il modo di sistemarle.»
 
@@ -244,13 +346,12 @@ Rasler guardò il pugno chiuso, e capì.
 
 «Non domani.» Ashe tenne la mano sinistra a pugno, con l'anello dentro, stretta contro il fianco. «Domani c'è il ricevimento dei corpi di guardia, e dopodomani il tempio, e poi le udienze. Fra una settimana.»
 
-«Fra una settimana, allora. Intanto, se vuoi, lo tengo io.»
+«Fra una settimana, allora.»
 
-«No. Lo tengo io.» Gli porse la mano destra, quella libera, per riprendere la danza. «Così. Non me lo perdo più.»
+Ashe gli sorrise e gli porse la mano destra per riprendere la danza. Rasler le prese la mano e tornarono a ballare. La festa proseguì fino a tarda notte. Ashe salutò gli invitati, ricevette gli auguri dei parenti e ballò ancora, tenendo sempre la mano sinistra chiusa attorno all'anello. Era stata una giornata lunga, piena di cerimonie, risate e persone che volevano congratularsi con lei. Quando le lanterne cominciarono a spegnersi, aveva ancora quel piccolo cerchio d'oro e d'argento stretto nel palmo.
 
-Rasler rise, e la riportò in mezzo al cortile. E Ashe ballò il resto della notte con il pugno chiuso, salutando gli ospiti con l'altra mano, accettando con l'altra mano i complimenti delle dame e gli auguri dei cavalieri e i baci dei vecchi zii nabradiani, mentre la sinistra restava serrata attorno a quel cerchio d'oro e d'argento che le stava largo. Le lanterne bruciavano. La città, di là dal muro, cantava ancora.
+Raminas osservò la figlia ballare finché la musica non cominciò a rallentare. La vide ridere con Rasler e salutare gli ultimi parenti nabradiani, ancora incapaci di decidersi ad andare via. Avrebbe voluto raggiungerli un'altra volta, magari per raccontare al genero qualcosa di imbarazzante sull'infanzia di Ashe. Aveva parecchie storie fra cui scegliere. Invece rimase al tavolo. Tirò fuori dalla manica il dispaccio della guarnigione orientale e lo aprì sotto la luce di una lanterna. La coppa di vino davanti a lui era rimasta intatta. Rilesse il messaggio, lentamente, mentre dall'altra parte del cortile sua figlia continuava a festeggiare.
 
-In fondo al cortile, al tavolo del re, Raminas aveva tirato fuori il dispaccio dalla manica e lo stava leggendo per la seconda volta, alla luce di una lanterna, con la coppa piena davanti, e le labbra che si muovevano piano, come quelle di chi conta.
 
 ## 2. La barriera di Nalbina
 
@@ -478,6 +579,7 @@ Basch non capì, e non chiese. Disse «Sì, altezza», perché era la risposta g
 
 Morì poco dopo, mentre il sole calava sul deserto orientale, senza dire altro. Basch lo capì perché il corpo contro il suo braccio smise di fare fatica. Non fermò il chocobo. Cavalcò tutta la notte verso ovest, con gli altri cavalieri dietro che non osavano avvicinarsi, e a notte fonda si accorse che stava dicendo a mezza voce i nomi dei pozzi che passavano, uno dopo l'altro, come a qualcuno che non conosceva la strada. Cavalcò tenendo il principe di Nabradia dritto sulla sella davanti a sé come se fosse soltanto addormentato, perché non voleva che le sentinelle di Rabanastre, all'alba, lo vedessero arrivare disteso.
 
+
 ## 3. Due cerimonie
 
 Gli spazzini della cattedrale avevano lavorato bene, dopo le nozze, ma non abbastanza. Fra le lastre dei gradini, nelle fessure dove la scopa non entra, erano rimasti dei petali di buganvillea, e in dodici giorni di sole erano diventati marroni e sottili come pelle di cipolla. La gente che saliva per il funerale li calpestava senza vederli. Ma non Ashe. Fra i petali bruni di buganvillea ce n'era uno di gelsomino, ancora quasi bianco, e le tornò in mente Pancia, il chocobo che si era fermato in mezzo alla via a mangiarne una manciata, e Rasler che rideva con tutta la faccia mentre lei, sotto il velo, si mordeva le labbra. Sentì salire la stessa risata di quel giorno, e ne ebbe paura. La ricacciò giù. Non sapeva se sarebbe uscita come una risata o come qualcos'altro, e davanti a tutta Rabanastre non poteva permettersi di scoprirlo.
@@ -594,11 +696,15 @@ Era la seconda volta in meno di un mese che qualcuno partiva per Nalbina e lei r
 
 ---
 
-Due giorni dopo, a notte fonda, tornarono a Rabanastre i resti di una compagnia di cavalieri che aveva tentato di riprendere una torre di vedetta sulla strada di Nalbina. Erano undici, su sessanta. Portavano notizie che era meglio non scrivere. Intorno alla fortezza c'erano troppe truppe per una semplice scorta, e i passaggi interni erano occupati da soldati senza le insegne della legione regolare. Un ufficiale archadiano catturato durante lo scontro aveva riso quando qualcuno aveva parlato di trattato, ed era morto prima di poter dire perché.
+Due giorni dopo, a notte fonda, tornarono a Rabanastre undici cavalieri. Erano partiti in sessanta per riprendere una torre di vedetta sulla strada di Nalbina. Dalla strada avevano visto la fortezza. C'erano troppi soldati imperiali per la scorta di una firma, e molti non portavano le insegne della legione. Avevano preso un prigioniero, un ufficiale archadiano ferito. Sentendo i cavalieri parlare del trattato aveva riso. Non aveva voluto dire altro, ed era morto prima dell'alba.
 
-Basch li ascoltò nel cortile delle caserme, alla luce delle torce, senza interromperli. Poi andò dal cancelliere e gli disse che sarebbe partito la notte seguente con un piccolo reparto, per entrare a Nalbina dai camminamenti e raggiungere il re prima che firmasse. Il cancelliere gli chiese quanti uomini gli servissero. Basch disse che gliene servivano pochi e buoni, e che ne avrebbe presi pochi e basta, perché i buoni erano quasi tutti morti.
+Basch li ascoltò nel cortile delle caserme, alla luce delle torce, senza interromperli. Poi andò dal cancelliere e gli disse che sarebbe partito la notte seguente con un piccolo reparto, per entrare a Nalbina dai camminamenti e raggiungere il re prima che firmasse.
 
-Fecero un bando nelle caserme, a voce, quella notte stessa. Si presentarono in quarantadue. Basch ne scelse venti. Lesse la lista all'alba, seduto su un barile nella polvere del cortile, con il furiere che gli teneva la lanterna. Alla quindicesima riga si fermò.
+«Quanti uomini vi servono?» chiese il cancelliere.
+
+«Venti» disse Basch. «Li vorrei esperti. Ma quelli esperti sono quasi tutti morti, e prenderò chi si presenta.»
+
+Fecero un bando nelle caserme, a voce, quella notte stessa. Si presentarono in ventidue. Basch ne mandò via due: un sergente che portava ancora il braccio al collo da Nalbina, e un vecchio delle scuderie che non era mai stato soldato. Gli altri il furiere li mise in lista. Lesse la lista all'alba, seduto su un barile nella polvere del cortile, con il furiere che gli teneva la lanterna. Alla quindicesima riga si fermò.
 
 «Questo» disse.
 
@@ -608,7 +714,7 @@ Il furiere si chinò sulla lista. «Arruolato dopo Nalbina, capitano. Volontario
 
 «Diciassette.»
 
-Basch guardò il nome a lungo. Pensò a quanti ragazzi di diciassette anni aveva visto nel fumo di Nalbina, e a quanti ne aveva riportati indietro, e pensò che non c'era nessuna ragione per prendere un ragazzo in un reparto di venti uomini destinato a entrare in una fortezza nemica di notte. Poi pensò che i buoni erano quasi tutti morti, e che si era presentato.
+Basch guardò il nome a lungo. Di ragazzi di diciassette anni ne aveva avuti con sé a Nalbina, e sapeva quanti ne erano tornati. Un reparto che entra di notte in una fortezza nemica non era posto per uno di loro. Però in quella lista ce n'erano altri che avrebbe lasciato a casa volentieri, e a scartarli tutti non gli restavano abbastanza uomini. Il ragazzo, almeno, nessuno lo aveva obbligato a farsi avanti.
 
 «Famiglia?» chiese.
 
@@ -999,6 +1105,7 @@ Il vecchio gli aprì la porta. Reks uscì nella strada deserta e si incamminò v
 
 Alle sue spalle sentì Migelo rimettere la sbarra al suo posto.
 
+
 ## 5. La scala
 
 Poco prima di mezzanotte, i venti uomini scelti da Basch si ritrovarono nel cortile della caserma. I chocobo erano già sellati, e il furiere controllava le ultime provviste alla luce di una lanterna.
@@ -1364,6 +1471,7 @@ L'uomo che guidava la pattuglia rallentò, sorpreso di trovare un ragazzo da sol
 Due soldati si staccarono dal gruppo e avanzarono verso i gradini.
 
 Reks sollevò la spada e arretrò di un passo, mantenendo il vantaggio dell'altezza.
+
 
 ## 6. L'uomo che uccise il re
 
@@ -2388,11 +2496,11 @@ Vaan non rispose. Era un discorso che aveva già sentito, e la cosa che lo irrit
 
 «Conosco la strada fino al primo pozzo...»
 
-«No. Tu nel deserto non ci vai. Il deserto non è una fogna. Nel deserto i topi sono grossi come carri e hanno le corna.» Migelo fece un gesto con la mano, a chiudere la questione. «Ho già trovato la soluzione. Tomaj, alla Sandsea, ha delle scorte. Me ne cede un po' a prezzo d'amico, cioè a prezzo di ladro, ma va bene, oggi va bene. Ho mandato Kytes a prenderle.»
+«No. Tu nel deserto non ci vai. Il deserto non è una fogna. Nel deserto i topi sono grossi come carri e hanno le corna.» Migelo fece un gesto con la mano, a chiudere la questione. «Ho già trovato la soluzione. Tomaj, al Mare di sabbia, ha delle scorte. Me ne cede un po' a prezzo d'amico, cioè a prezzo di ladro, ma va bene, oggi va bene. Ho mandato Kytes a prenderle.»
 
 «E allora?»
 
-«E allora Kytes è partito tre ore fa.» La coda fece tac. «La Sandsea è a dieci minuti. Kytes ha nove anni e le gambe buone. Dov'è Kytes?»
+«E allora Kytes è partito tre ore fa.» La coda fece tac. «Il Mare di sabbia è a dieci minuti. Kytes ha nove anni e le gambe buone. Dov'è Kytes?»
 
 Vaan aveva l'idea che Kytes, tre ore prima, fosse in fondo a un condotto con una lanterna fra le ginocchia, e decise che non era un'idea da condividere.
 
@@ -2406,7 +2514,7 @@ Vaan aveva l'idea che Kytes, tre ore prima, fosse in fondo a un condotto con una
 
 ---
 
-La Sandsea era la taverna dei forestieri, e lo si capiva dal modo in cui la gente ci entrava: piano, guardandosi attorno, con la mano vicino alla borsa. Stava sulla via principale, a due passi dalla Porta Est, con una sala bassa e fresca piena di tavoli di legno scuro, una scala che portava al piano di sopra e un bancone dove Tomaj spillava birra di Bhujerba e vino di Nabradia per gente che arrivava da tutte le direzioni e ci restava poco. Si parlavano cinque o sei dialetti alla volta. Le pareti erano coperte di avvisi.
+Il Mare di sabbia era la taverna dei forestieri, e lo si capiva dal modo in cui la gente ci entrava: piano, guardandosi attorno, con la mano vicino alla borsa. Stava sulla via principale, a due passi dalla Porta Est, con una sala bassa e fresca piena di tavoli di legno scuro, una scala che portava al piano di sopra e un bancone dove Tomaj spillava birra di Bhujerba e vino di Nabradia per gente che arrivava da tutte le direzioni e ci restava poco. Si parlavano cinque o sei dialetti alla volta. Le pareti erano coperte di avvisi.
 
 Kytes stava davanti alla bacheca. Aveva le mani dietro la schiena e il naso a un palmo da un foglio, e muoveva le labbra mentre leggeva, perché aveva imparato da poco.
 
@@ -2464,7 +2572,7 @@ Kytes ci pensò, con la serietà dei bambini che fanno i conti con la propria co
 
 «Non ringraziare me. Ringrazia lui.» Tomaj indicò col mento l'angolo più buio della sala, dove un tavolo era rimasto apparecchiato per una persona sola.
 
-Al tavolo sedeva un moguri. Era piccolo anche per un moguri, con il pelo color crema spazzolato con cura e il pompon rosso in cima all'antenna che si muoveva appena, come un fiore al vento. Davanti a sé aveva un bicchierino di liquore d'erbe, un quaderno aperto e una penna. Scriveva. Ogni tanto alzava la testa, guardava la sala con due occhietti neri e attentissimi, e tornava a scrivere. Nessuno, nella Sandsea, si sedeva ai tavoli accanto al suo.
+Al tavolo sedeva un moguri. Era piccolo anche per un moguri, con il pelo color crema spazzolato con cura e il pompon rosso in cima all'antenna che si muoveva appena, come un fiore al vento. Davanti a sé aveva un bicchierino di liquore d'erbe, un quaderno aperto e una penna. Scriveva. Ogni tanto alzava la testa, guardava la sala con due occhietti neri e attentissimi, e tornava a scrivere. Nessuno, nel Mare di sabbia, si sedeva ai tavoli accanto al suo.
 
 «Chi è?»
 
@@ -2830,7 +2938,7 @@ Vaan si fermò sulla soglia, con la tenda che gli ricadeva sulle spalle in un fr
 
 «Come lo sai?»
 
-«Lo sa mezza Rabanastre, ragazzo. L'altra mezza lo saprà domani.» Il vecchio si voltò. Era magro, curvo, con i capelli bianchi come l'argento, i baffi e un pizzetto lungo, e due occhi che non erano vecchi affatto, divertiti, attentissimi. Aveva orecchini d'oro e collane di perline, una veste sbiadita e uno zucchetto di feltro, ed era scalzo; ai suoi piedi, su un cuscino, dormiva una bestiola dalle orecchie lunghe che aprì un occhio su Vaan e lo richiuse, come se lo conoscesse già. «Il moguri della Sandsea ha messo il tuo nome nel suo quaderno, e quando quel moguri mette un nome nel quaderno, il nome comincia a camminare da solo. Sterminatore di topi. Te lo porterai dietro per anni, temo. Ci sono nomi peggiori.»
+«Lo sa mezza Rabanastre, ragazzo. L'altra mezza lo saprà domani.» Il vecchio si voltò. Era magro, curvo, con i capelli bianchi come l'argento, i baffi e un pizzetto lungo, e due occhi che non erano vecchi affatto, divertiti, attentissimi. Aveva orecchini d'oro e collane di perline, una veste sbiadita e uno zucchetto di feltro, ed era scalzo; ai suoi piedi, su un cuscino, dormiva una bestiola dalle orecchie lunghe che aprì un occhio su Vaan e lo richiuse, come se lo conoscesse già. «Il moguri del Mare di sabbia ha messo il tuo nome nel suo quaderno, e quando quel moguri mette un nome nel quaderno, il nome comincia a camminare da solo. Sterminatore di topi. Te lo porterai dietro per anni, temo. Ci sono nomi peggiori.»
 
 «Non è un nome. È uno scherzo.»
 
@@ -4453,7 +4561,7 @@ Non tutti, quella mattina, avevano guardato la colonna con gli stessi occhi.
 
 In fondo al cortile, all'imbocco di un vicolo che scendeva verso la cisterna vecchia, due Bangaa stavano appoggiati al muro all'ombra, con le braccia incrociate e i mantelli da viaggio ancora coperti di polvere. Erano grossi, con le squame grigio-verdi e le zanne lunghe, e portavano alla cintura armi che a Rabanastre non si vedevano spesso, nemmeno addosso ai soldati: lame curve, ricurve due volte, e una specie di balestra corta con il calcio fasciato di cuoio. Uno dei due, il più grosso e il più vecchio, aveva sul muso una cicatrice che gli tirava il labbro all'insù da un lato, così che sembrava sempre sul punto di ridere di qualcosa che non era divertente.
 
-«È lui» disse il più giovane. Parlava troppo e troppo in fretta, con la voce sibilante della sua gente. «Hai visto, capo? È lui. L'aviopirata. Quello del manifesto. Te l'avevo detto, che era a Rabanastre. Te l'avevo detto ieri, alla Sandsea, quando quel moguri...»
+«È lui» disse il più giovane. Parlava troppo e troppo in fretta, con la voce sibilante della sua gente. «Hai visto, capo? È lui. L'aviopirata. Quello del manifesto. Te l'avevo detto, che era a Rabanastre. Te l'avevo detto ieri, al Mare di sabbia, quando quel moguri...»
 
 «Bwagi.»
 
@@ -5636,7 +5744,7 @@ Vaan tirò fuori la pietra da sotto la camicia. Alla luce del pomeriggio sembrav
 
 Vaan la rimise subito al sicuro. «Non ve la stavo dando.»
 
-«Me ne ero accorto. Sei generoso con le domande, molto meno con le risposte.» Balthier indicò la salita verso la Sandsea. «Restiamo a Rabanastre ancora un poco. Se dovessero chiederti di due aviopirati, non li conosci.»
+«Me ne ero accorto. Sei generoso con le domande, molto meno con le risposte.» Balthier indicò la salita verso il Mare di sabbia. «Restiamo a Rabanastre ancora un poco. Se dovessero chiederti di due aviopirati, non li conosci.»
 
 «E se chiedo io?»
 
@@ -5744,7 +5852,7 @@ Vaan non sorrise. Dalan gli mise la spada fra le mani. Pesava molto più di quan
 
 «Chi?»
 
-«Il moguri della Sandsea, per esempio. Ha già mandato due dei suoi alla Porta Sud e uno all'aerodromo, prima ancora che tu bussassi.» Dalan riprese la pipa. «Non per bontà, intendiamoci. Montblanc non fa niente per bontà. Ma ha scritto il tuo nome nel suo quaderno, con la sua spiga accanto, e quelli con la spiga, quando si perdono, li cerca. Poi ti presenterà il conto. Lo presenta sempre, e sempre in una moneta che non ti aspetti.»
+«Il moguri del Mare di sabbia, per esempio. Ha già mandato due dei suoi alla Porta Sud e uno all'aerodromo, prima ancora che tu bussassi.» Dalan riprese la pipa. «Non per bontà, intendiamoci. Montblanc non fa niente per bontà. Ma ha scritto il tuo nome nel suo quaderno, con la sua spiga accanto, e quelli con la spiga, quando si perdono, li cerca. Poi ti presenterà il conto. Lo presenta sempre, e sempre in una moneta che non ti aspetti.»
 
 «Quale moneta?»
 
@@ -5907,7 +6015,7 @@ Basch misurò la risposta. «Sì.»
 
 Basch avrebbe voluto chiedere altro. Dove l'avevano presa, chi aveva pronunciato il suo nome, se Vayne l'aveva guardata in faccia. Quasi tutte le risposte potevano essere pericolose in una strada con finestre aperte. Aspettò il passaggio di due uomini con una portantina, poi domandò: «Sai dove trovare Balthier?»
 
-«Alla Sandsea, credo.»
+«Al Mare di sabbia, credo.»
 
 «Puoi accompagnarmi?»
 
@@ -6061,7 +6169,7 @@ Il baule teneva indumenti ricevuti in cambio di crediti mai saldati. Migelo se n
 
 Vaan sospese la mano sopra una camicia. «Meglio se non glielo dici adesso.»
 
-Trovarono calzoni che al capitano arrivavano corti ma meno di quelli della prigione e una giacca larga sulle spalle. Gli stivali erano un problema che il baule non poteva risolvere. Vaan prese un pezzo di cuoio dal cassetto dei lacci, si inginocchiò prima che Basch potesse protestare e lo fece passare intorno al tacco rotto. Lo aveva visto fare da Doran ai sandali di Penelo. Non era un lavoro bello; avrebbe retto fino alla Sandsea.
+Trovarono calzoni che al capitano arrivavano corti ma meno di quelli della prigione e una giacca larga sulle spalle. Gli stivali erano un problema che il baule non poteva risolvere. Vaan prese un pezzo di cuoio dal cassetto dei lacci, si inginocchiò prima che Basch potesse protestare e lo fece passare intorno al tacco rotto. Lo aveva visto fare da Doran ai sandali di Penelo. Non era un lavoro bello; avrebbe retto fino al Mare di sabbia.
 
 «Non ti ho chiesto le scarpe» disse Basch.
 
@@ -6229,12 +6337,12 @@ Vaan annuì appena. Avrebbe voluto chiedergli per cosa, per il cuoio sullo stiva
 
 Scesero insieme. Kytes alzò il capo dal registro; Vaan gli chiese un'ultima volta se fossero arrivate notizie, pur sapendo che il ragazzo sarebbe corso su a chiamarlo. Kytes scosse la testa. Basch aspettò sulla soglia, poi si fece da parte quando Vaan uscì.
 
-Al cortile della pompa non c'era più nessuno. I bambini avevano lasciato la corda e portato via la tazza. Vaan si fermò a sciogliere il capo dal chiodo: qualcuno, passando al buio, ci avrebbe lasciato un piede. Basch tenne l'altra estremità finché il nodo venne via. Poi ripresero la strada della Sandsea, e il ragazzo gli camminò accanto.
+Al cortile della pompa non c'era più nessuno. I bambini avevano lasciato la corda e portato via la tazza. Vaan si fermò a sciogliere il capo dal chiodo: qualcuno, passando al buio, ci avrebbe lasciato un piede. Basch tenne l'altra estremità finché il nodo venne via. Poi ripresero la strada del Mare di sabbia, e il ragazzo gli camminò accanto.
 
 
 ## 28. La promessa del cielo
 
-Migelo teneva un foglio sopra un piatto. La salsa aveva già raggiunto un angolo della carta, ma lui non se ne accorgeva: lo agitava sotto il naso di Balthier, che arretrava con la sedia finché le gambe posteriori non incontravano il muro. Al piano alto della Sandsea la discussione aveva fermato il servizio. Un cameriere attendeva sul penultimo gradino con due coppe; Fran, seduta di lato, gli fece cenno di posarle e andarsene.
+Migelo teneva un foglio sopra un piatto. La salsa aveva già raggiunto un angolo della carta, ma lui non se ne accorgeva: lo agitava sotto il naso di Balthier, che arretrava con la sedia finché le gambe posteriori non incontravano il muro. Al piano alto del Mare di sabbia la discussione aveva fermato il servizio. Un cameriere attendeva sul penultimo gradino con due coppe; Fran, seduta di lato, gli fece cenno di posarle e andarsene.
 
 «Non è una spiegazione» disse Migelo.
 
@@ -20379,7 +20487,7 @@ Kytes arrivò di corsa dal vicolo, con una brocca vuota in mano, e quando vide V
 
 «Cosa?»
 
-«Il mare è salato. Me l'hai scritto tu. Il moguri della Sandsea mi ha portato il foglio, c'era scritto: di' a Kytes che il mare è salato.» Kytes aveva le guance rosse. «Io l'ho detto a tutti. Nessuno ci credeva. Il vecchio Ammar ha detto che era una storia da pirati. È vero?»
+«Il mare è salato. Me l'hai scritto tu. Il moguri del Mare di sabbia mi ha portato il foglio, c'era scritto: di' a Kytes che il mare è salato.» Kytes aveva le guance rosse. «Io l'ho detto a tutti. Nessuno ci credeva. Il vecchio Ammar ha detto che era una storia da pirati. È vero?»
 
 «È vero» disse Vaan. «L'ho assaggiato.»
 
@@ -20413,7 +20521,7 @@ Vaan guardò Penelo. Penelo stava parlando con Fran in fondo alla bottega e non 
 
 ---
 
-La Sandsea, la sera prima della guerra, era piena come una nave di profughi. Tomaj spillava birra di Bhujerba con tutte e due le mani e non faceva pagare nessuno, cosa che a memoria d'uomo non era mai successa, e quando Vaan glielo fece notare rispose che se domani la taverna non c'era più preferiva che la birra fosse nella pancia dei clienti invece che sotto le macerie. Si parlavano cinque o sei dialetti alla volta. Le pareti erano coperte di avvisi, come sempre; ma gli avvisi di caccia erano stati coperti da altri fogli, scritti a mano, con nomi e indirizzi. *Cerco mio figlio Haddas, soldato della guarnigione di Nalbina.* *Chi ha notizie della carovana di Bur-Omisace.* *La famiglia del tintore della via dei Tessitori è partita per Giza: dite a chi chiede.*
+Il Mare di sabbia, la sera prima della guerra, era pieno come una nave di profughi. Tomaj spillava birra di Bhujerba con tutte e due le mani e non faceva pagare nessuno, cosa che a memoria d'uomo non era mai successa, e quando Vaan glielo fece notare rispose che se domani la taverna non c'era più preferiva che la birra fosse nella pancia dei clienti invece che sotto le macerie. Si parlavano cinque o sei dialetti alla volta. Le pareti erano coperte di avvisi, come sempre; ma gli avvisi di caccia erano stati coperti da altri fogli, scritti a mano, con nomi e indirizzi. *Cerco mio figlio Haddas, soldato della guarnigione di Nalbina.* *Chi ha notizie della carovana di Bur-Omisace.* *La famiglia del tintore della via dei Tessitori è partita per Giza: dite a chi chiede.*
 
 Montblanc era al suo tavolo, nell'angolo, da solo, con il quaderno aperto e la penna dietro l'orecchio. Quando vide Vaan non si alzò. Girò una pagina, trovò un nome, e ci passò sopra il dito.
 
@@ -20439,7 +20547,7 @@ Vaan lo guardò.
 
 «Non ho detto questo.» Montblanc si rimise la penna dietro l'orecchio. «Io non dico mai niente. Io scrivo.»
 
-In quel punto la porta della Sandsea si aprì e lasciò entrare il vento del deserto, la polvere, e un uomo con un berretto storto in testa e la faccia di chi ha volato per un giorno intero senza fermarsi.
+In quel punto la porta del Mare di sabbia si aprì e lasciò entrare il vento del deserto, la polvere, e un uomo con un berretto storto in testa e la faccia di chi ha volato per un giorno intero senza fermarsi.
 
 «Balthier!» gridò Rikken, dalla soglia, sopra il rumore di cinque dialetti. «Dov'è quel bellimbusto? Ho fatto Balfonheim-Rabanastre in diciannove ore. Diciannove! La sua barchetta quanto ci ha messo?»
 
