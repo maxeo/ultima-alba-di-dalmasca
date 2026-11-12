@@ -475,7 +475,8 @@ dialog.celebra::backdrop { background: var(--sfondo); }
 const LIBRO_SOLO = {"titolo":"L'ultima alba di Dalmasca","autore":"","chiave":"alba","modo":"sincronizzato","traguardi":{"primaParte":"Il crepuscolo","fine":"L'ultima alba"}};
 let LIBRO = LIBRO_SOLO || { titolo: '', chiave: 'leggio', traguardi: {} };
 // Libro aperto: catalogo, cartella dei dati, modo (sincronizzato, audio, testo), chiave.
-let CATALOGO = null, BASE = '', MODO = 'sincronizzato', libroAperto = null;
+// MODO e' il modo del capitolo aperto: in un libro con l'audio un capitolo senza audio si legge e basta.
+let CATALOGO = null, BASE = '', MODO = 'sincronizzato', MODO_LIBRO = 'sincronizzato', libroAperto = null;
 const $ = id => document.getElementById(id);
 const a = $('a');
 // Le impostazioni valgono per tutti i libri; progressi, segnalibri e traguardi stanno per libro.
@@ -531,12 +532,14 @@ function durataTesto(s) {
   return h ? `${h} h ${m} min` : `${m} min`;
 }
 const mb = b => b >= 1073741824 ? (b / 1073741824).toFixed(1).replace('.', ',') + ' GB' : (b / 1048576).toFixed(0) + ' MB';
-// Un capitolo e' pronto se c'e' quello che il modo del libro richiede: l'audio, oppure il testo.
-const prontoCap = (c, m = MODO) => (m === 'testo' ? c.parole > 0 : c.durata > 0);
+// Il modo di un capitolo: quello del libro, ma un capitolo senza audio e con le parole contate si legge soltanto.
+const modoCap = (c, m = MODO_LIBRO) => (m !== 'testo' && !(c.durata > 0) && c.parole > 0 ? 'testo' : m);
+// Un capitolo e' pronto se c'e' quello che il suo modo richiede: l'audio, oppure il testo.
+const prontoCap = (c, m = MODO_LIBRO) => (modoCap(c, m) === 'testo' ? c.parole > 0 : c.durata > 0);
 // Durata in secondi: quella dell'audio, oppure la lettura stimata a 200 parole al minuto.
-const quanto = (c, m = MODO) => (m === 'testo' ? Math.max(60, Math.round(c.parole / 200) * 60) : c.durata || 0);
+const quanto = (c, m = MODO_LIBRO) => (modoCap(c, m) === 'testo' ? Math.max(60, Math.round(c.parole / 200) * 60) : c.durata || 0);
 // Quanta parte del capitolo e' stata fatta, da 0 a 1. Solo testo: la posizione e' gia' una frazione.
-const fattaParte = (c, s, m = MODO) => (s && s.fatto ? 1 : m === 'testo' ? Math.min(1, (s && s.pos) || 0) : Math.min(1, ((s && s.pos) || 0) / (quanto(c, m) || 1)));
+const fattaParte = (c, s, m = MODO_LIBRO) => (s && s.fatto ? 1 : modoCap(c, m) === 'testo' ? Math.min(1, (s && s.pos) || 0) : Math.min(1, ((s && s.pos) || 0) / (quanto(c, m) || 1)));
 const pronti = () => capitoli.filter(c => prontoCap(c));
 const sc = n => stato.cap[n] || (stato.cap[n] = { pos: 0, fatto: false, ascoltati: 0, giro: 0, finito: false, sentito: [] });
 // Dove sta il file del capitolo: di solito "audio/001.mp3" dentro la cartella del libro, ma il capitolo
@@ -573,7 +576,7 @@ const icona = id => { const s = document.createElementNS('http://www.w3.org/2000
 function infoCap(c, s) {
   if (!prontoCap(c)) return 'In arrivo';
   const d = quanto(c);
-  if (MODO === 'testo') {
+  if (modoCap(c) === 'testo') {
     const f = Math.min(1, s.pos || 0);
     return s.fatto ? `Letto · ${durataTesto(d)}` : f > .02 ? `Restano ${durataTesto(d * (1 - f))}` : durataTesto(d);
   }
@@ -642,7 +645,7 @@ function chiudiSlider() {
   nodoSlider = null;
 }
 function apriSlider(c, r) {
-  if (MODO === 'testo') return;
+  if (modoCap(c) === 'testo') return;
   if (nodoSlider && +nodoSlider.dataset.n === c.n) return;
   chiudiSlider();
   chiudiScorsa();
@@ -780,14 +783,14 @@ function disegnaTotale() {
   const tot = p.reduce((x, c) => x + quanto(c), 0);
   const asc = p.reduce((x, c) => x + quanto(c) * fattaParte(c, stato.cap[c.n]), 0);
   const fatti = p.filter(c => stato.cap[c.n]?.fatto).length;
-  $('tot-a').textContent = `${fatti} di ${p.length} capitoli ${MODO === 'testo' ? 'letti' : 'ascoltati'}`;
+  $('tot-a').textContent = `${fatti} di ${p.length} capitoli ${MODO_LIBRO === 'testo' ? 'letti' : 'ascoltati'}`;
   $('tot-b').textContent = p.length < capitoli.length ? `${p.length} pronti su ${capitoli.length}` : durataTesto(tot);
   $('tot-barra').style.width = (tot ? asc / tot * 100 : 0) + '%';
   const u = stato.ultimo && capitoli.find(c => c.n === stato.ultimo);
   const r = $('riprendi');
-  if (u && prontoCap(u) && (MODO === 'testo' || a.paused)) {
+  if (u && prontoCap(u) && (modoCap(u) === 'testo' || a.paused)) {
     const s = sc(u.n);
-    const da = MODO === 'testo' ? `Riprendi dal ${Math.round(Math.min(1, s.pos || 0) * 100)}%` : `Riprendi da ${hms(s.pos)}`;
+    const da = modoCap(u) === 'testo' ? `Riprendi dal ${Math.round(Math.min(1, s.pos || 0) * 100)}%` : `Riprendi da ${hms(s.pos)}`;
     r.replaceChildren(el('small', {}, s.fatto ? 'Ricomincia' : da), el('b', {}, `${u.n}. ${u.titolo}`));
     r.onclick = () => { carica(u.n, true); };
     r.classList.remove('nascosto');
@@ -826,6 +829,13 @@ function carica(n, avvia, da) {
   if (!c || !prontoCap(c)) return;
   salvaPosizione(true);
   const stesso = corrente === n;
+  // Passando da un capitolo con l'audio a uno solo testo (o al contrario) cambia il lettore.
+  const modo = modoCap(c);
+  if (modo !== MODO) {
+    if (modo === 'testo') { a.pause(); a.removeAttribute('src'); a.load(); }
+    MODO = modo;
+    document.documentElement.dataset.modo = MODO;
+  }
   chiudiSerieSalti();
   tAscolto = null; mAscolto = null;
   corrente = n;
@@ -1254,7 +1264,8 @@ async function salva(c) {
   try {
     if (navigator.storage?.persist) navigator.storage.persist().catch(() => {});
     const cache = await caches.open(CACHE);
-    if (MODO !== 'testo') {
+    const m = modoCap(c);
+    if (m !== 'testo') {
       const url = assoluto(percorso(c, 'audio', 'mp3'));
       const r = await fetch(url, { cache: 'no-store' });
       if (!r.ok) throw new Error(r.status);
@@ -1269,11 +1280,11 @@ async function salva(c) {
       }
       await cache.put(url, new Response(new Blob(pezzi, { type: 'audio/mpeg' }), { headers: { 'Content-Type': 'audio/mpeg', 'Content-Length': String(letti) } }));
     }
-    if (MODO !== 'audio') {
+    if (m !== 'audio') {
       const urlT = assoluto(percorso(c, 'testi', 'json'));
       const t = await fetch(urlT, { cache: 'no-store' });
       if (t.ok) await cache.put(urlT, t);
-      else if (MODO === 'testo') throw new Error(t.status);
+      else if (m === 'testo') throw new Error(t.status);
     }
     salvati.add(c.n);
     annuncia(`Capitolo ${c.n} salvato.`);
@@ -1304,8 +1315,8 @@ async function leggiSalvati() {
   const cache = await caches.open(CACHE);
   // I file possono avere un nome qualsiasi: il capitolo salvato si riconosce dal suo indirizzo.
   const avuti = new Set((await cache.keys()).map(r => r.url));
-  const cart = MODO === 'testo' ? 'testi' : 'audio', est = MODO === 'testo' ? 'json' : 'mp3';
-  salvati = new Set(capitoli.filter(c => avuti.has(assoluto(percorso(c, cart, est)))).map(c => c.n));
+  const suo = c => (modoCap(c) === 'testo' ? percorso(c, 'testi', 'json') : percorso(c, 'audio', 'mp3'));
+  salvati = new Set(capitoli.filter(c => avuti.has(assoluto(suo(c)))).map(c => c.n));
 }
 function spazio() {
   const box = $('offline-corpo');
@@ -1838,7 +1849,7 @@ function corpoSolo() {
   verificaTraguardi();
   const st = statistiche(), presi = stato.traguardi;
   const stG = statGenerali(), presiG = stato.trofei || {}, listaG = traguardiGen();
-  const testo = MODO === 'testo';
+  const testo = MODO_LIBRO === 'testo';
   return [
     el('div', { class: 'trag-numeri' },
       numeroTrag(tempoTesto(st.totale), testo ? 'Tempo di lettura' : 'Tempo ascoltato', testo ? 'i-testo' : 'i-cuffie'),
@@ -1948,14 +1959,14 @@ function disegnaPannello() {
       scelte('Evidenziazione della frase', [[22, 'Leggera'], [38, 'Media'], [50, 'Forte']], u.evid, v => { u.evid = v; }),
       spunta('Segui anche parola per parola', !!u.parole, on => { u.parole = on; }, 'i-testo'),
       el('p', { class: 'nota' }, 'Dentro la frase evidenziata, la parola letta in quel momento ha un colore più marcato.')),
-    !conLibro || MODO !== 'testo' ? sezione('ascolto', 'i-cuffie', 'Ascolto', 'Salti, capitolo successivo',
+    !conLibro || MODO_LIBRO !== 'testo' ? sezione('ascolto', 'i-cuffie', 'Ascolto', 'Salti, capitolo successivo',
       spunta('Passa da solo al capitolo successivo', u.continua, on => { u.continua = on; }, 'i-continua'),
       sotto('Salti'),
       el('p', { class: 'nota' }, 'Ogni valore spuntato diventa un pulsante. Ecco come appare ora il lettore:'),
       anteprimaSalti(),
       sceltaSalti('Indietro', 'indietro'),
       sceltaSalti('Avanti', 'avanti')) : null,
-    !conLibro || MODO !== 'testo' ? sezione('lettore', 'i-barra', 'Lettore', 'Barre, pulsanti, disposizione',
+    !conLibro || MODO_LIBRO !== 'testo' ? sezione('lettore', 'i-barra', 'Lettore', 'Barre, pulsanti, disposizione',
       sotto('Barre'),
       spunta('Barra inferiore', !u.noBarra, on => { u.noBarra = !on; }, 'i-barra'),
       spunta('Titolo del capitolo', !u.noTitolo, on => { u.noTitolo = !on; }, 'i-testo'),
@@ -1970,9 +1981,9 @@ function disegnaPannello() {
       sotto('Disposizione'),
       spunta("Metti i pulsanti in linea finché c'è spazio", u.autoRiga, on => { u.autoRiga = on; }, 'i-riga'),
       spunta('Velocità a destra, testo a sinistra', u.scambia, on => { u.scambia = on; }, 'i-scambia')) : null,
-    sezione('traguardi', 'i-trofeo', 'Traguardi', conLibro ? (MODO === 'testo' ? 'Tempo di lettura, serie, medaglie' : 'Tempo ascoltato, serie, medaglie') : 'Tempo, serie, libri finiti', ...corpoTraguardi()),
+    sezione('traguardi', 'i-trofeo', 'Traguardi', conLibro ? (MODO_LIBRO === 'testo' ? 'Tempo di lettura, serie, medaglie' : 'Tempo ascoltato, serie, medaglie') : 'Tempo, serie, libri finiti', ...corpoTraguardi()),
     conLibro
-      ? sezione('offline', 'i-scarica', MODO === 'testo' ? 'Lettura senza rete' : 'Ascolto senza rete', 'Capitoli salvati, spazio occupato', el('div', { id: 'offline-corpo' }, ...corpoOffline()))
+      ? sezione('offline', 'i-scarica', MODO_LIBRO === 'testo' ? 'Lettura senza rete' : 'Ascolto senza rete', 'Capitoli salvati, spazio occupato', el('div', { id: 'offline-corpo' }, ...corpoOffline()))
       : sezione('offline', 'i-scarica', 'Senza rete', 'Capitoli salvati, spazio occupato', corpoOffScaffale()),
     conLibro ? sezione('progressi', 'i-esporta', 'Progressi', 'Esporta, importa', DATI) : null,
     el('div', { class: 'menu-piede' }, bottoneRipristina())
@@ -2201,7 +2212,7 @@ async function apriLibro(v) {
   if (corrente != null) salvaPosizione(true);
   svuotaLettore();
   corrente = null; capitoli = []; parti = []; cue = []; cueOra = -1; filtro = 'tutti';
-  LIBRO = v; BASE = v.base || ''; MODO = v.modo || 'sincronizzato';
+  LIBRO = v; BASE = v.base || ''; MODO = MODO_LIBRO = v.modo || 'sincronizzato';
   libroAperto = v.chiave;
   caricaStato(v.chiave);
   stato.aperti = { ...stato.aperti, [v.chiave]: Date.now() };

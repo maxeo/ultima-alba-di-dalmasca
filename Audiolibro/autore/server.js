@@ -46,6 +46,8 @@ function serveFile(req, res, file, inserisciAutore = false) {
   if (!info?.isFile()) throw errore(404, 'File non trovato.');
   const type = mime[path.extname(file)] || 'application/octet-stream';
   const headers = { 'Content-Type': type, 'Cache-Control': 'no-cache', 'Accept-Ranges': 'bytes' };
+  // Il cookie dice alle richieste successive (anche quelle del service worker) di dare l'elenco completo.
+  if (path.basename(file) === 'index.html') headers['Set-Cookie'] = inserisciAutore ? 'autore=1; Path=/; SameSite=Strict' : 'autore=; Path=/; Max-Age=0';
   if (inserisciAutore) {
     const html = fs.readFileSync(file, 'utf8').replace('</body>', `<script defer src="${prefisso}ui.js"></script></body>`);
     res.writeHead(200, { ...headers, 'Cache-Control': 'no-store', 'Content-Length': Buffer.byteLength(html) });
@@ -412,6 +414,11 @@ function creaServer({ root = path.resolve(__dirname, '../..'), audio } = {}) {
       const nome = decodeURIComponent(url.pathname.replace(/\/$/, '/index.html'));
       const file = path.resolve(cartella, '.' + nome);
       if (!file.startsWith(cartella + path.sep)) throw errore(404, 'File non trovato.');
+      // Nel pannello dell'autore l'elenco comprende anche i capitoli non ancora pubblici.
+      if (nome === '/capitoli.json' && /(?:^|;\s*)autore=1(?:;|$)/.test(req.headers.cookie || '')) {
+        const tutti = path.join(root, 'Audiolibro', 'capitoli-autore.json');
+        if (fs.existsSync(tutti)) return serveFile(req, res, tutti);
+      }
       return serveFile(req, res, file, file === path.join(cartella, 'index.html') && url.searchParams.get('write') === 'true');
     } catch (e) {
       if (res.headersSent) return res.destroy();

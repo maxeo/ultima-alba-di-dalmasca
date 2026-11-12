@@ -217,6 +217,9 @@ function creaAudio(root, libera) {
     const files = [`audio/${id}.mp3`, `testi/${id}.json`, 'capitoli.json'].map(f => ({
       file: path.join(root, 'docs', f), nuovo: path.join(dest, f),
     }));
+    files.push({ file: path.join(root, 'Audiolibro', 'capitoli-autore.json'), nuovo: path.join(dest, 'capitoli-autore.json') });
+    const soloTesto = path.join(dest, 'solotesto', `${id}.json`);
+    if (fs.existsSync(soloTesto)) files.push({ file: path.join(root, 'docs', 'solotesto', `${id}.json`), nuovo: soloTesto });
     for (const f of files) f.prima = fs.existsSync(f.file) ? fs.readFileSync(f.file) : null;
     const cambiati = [];
     try {
