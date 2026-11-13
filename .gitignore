@@ -2,6 +2,7 @@ Audiolibro/models/
 Audiolibro/tmp/
 Audiolibro/audio/
 Audiolibro/audiobooks/
+/docs/audio/
 Audiolibro/ebooks/
 Audiolibro/voices/
 Audiolibro/testo/

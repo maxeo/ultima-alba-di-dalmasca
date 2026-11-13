@@ -4,6 +4,7 @@
 // Uso: node pubblica.js [--push]
 const fs = require('fs'), path = require('path');
 const { execFileSync } = require('child_process');
+const { audioPubblico, pubblicaAudio } = require('./audio-pubblico');
 
 const QUI = __dirname, ROOT = path.join(QUI, '..');
 const CAP = path.join(ROOT, 'Romanzo', 'capitoli');
@@ -257,7 +258,9 @@ for (const file of fs.readdirSync(CAP).filter(x => x.endsWith('.md')).sort()) {
 }
 const elenco = lista => ({ parti: parti.filter(p => lista.some(c => c.parte === p)), capitoli: lista });
 fs.writeFileSync(ELENCO_AUTORE, JSON.stringify(elenco(capitoli)));
-fs.writeFileSync(path.join(DOCS, 'capitoli.json'), JSON.stringify(elenco(pubblici)));
+const indicePubblico = elenco(pubblici);
+const audioDaPubblicare = audioPubblico(DOCS, indicePubblico, { aggiorna: true, riserva: sito });
+fs.writeFileSync(path.join(DOCS, 'capitoli.json'), JSON.stringify(indicePubblico));
 if (solo !== null) process.exit(0);
 
 // Rifa' il lettore in docs/ con Leggio: installato con npm, clonato accanto al repo, oppure indicato da $LEGGIO.
@@ -267,11 +270,16 @@ if (leggio) execFileSync(process.execPath, [leggio, DOCS], { stdio: 'inherit' })
 else console.log("Leggio non trovato: il lettore in docs/ resta com'e' (npm install --save-dev github:maxeo/leggio)");
 
 if (process.argv.includes('--push')) {
-  const git = (...a) => execFileSync('git', a, { cwd: ROOT, stdio: 'pipe' }).toString().trim();
-  git('add', 'docs');
-  if (git('diff', '--cached', '--name-only', '--', 'docs')) {
+  const git = (...a) => execFileSync('git', a, { cwd: ROOT }).toString().trim();
+  if (git('ls-files', '--', 'docs/audio')) {
+    throw new Error('Prima della pubblicazione, rimuovi docs/audio dall’indice Git e completa la migrazione a GitHub Actions.');
+  }
+  pubblicaAudio(ROOT, audioDaPubblicare);
+  const fileSito = ['docs', ':(exclude)docs/audio'];
+  git('add', '-A', '--', ...fileSito);
+  if (git('diff', '--cached', '--name-only', '--', ...fileSito)) {
     const quali = nuovi.length ? nuovi.join(', ') : 'indice';
-    git('commit', '-m', `Pubblicato l'audio del lettore: ${quali}`.slice(0, 60), '--', 'docs');
+    git('commit', '-m', `Pubblicato l'audio del lettore: ${quali}`.slice(0, 60), '--', ...fileSito);
   }
   git('push', 'origin', 'main');
   console.log('pubblicato', new Date().toISOString(), nuovi.join(','));

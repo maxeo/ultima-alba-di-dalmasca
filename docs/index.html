@@ -546,8 +546,12 @@ const sc = n => stato.cap[n] || (stato.cap[n] = { pos: 0, fatto: false, ascoltat
 // puo' anche indicare il suo file con "file" (audio) o "testo", pure su un altro sito.
 const percorsoIn = (base, c, cart, est) => {
   const suo = cart === 'audio' ? c.file : c.testo;
-  return suo ? new URL(suo, new URL(base || './', location.href)).href
+  const percorso = suo ? new URL(suo, new URL(base || './', location.href)).href
     : `${base}${cart}/${String(c.n).padStart(3, '0')}.${est}`;
+  if (cart !== 'audio' || !c.audioSha256) return percorso;
+  const url = new URL(percorso, location.href);
+  url.searchParams.set('v', c.audioSha256);
+  return url.href;
 };
 const percorso = (c, cart, est) => percorsoIn(BASE, c, cart, est);
 const assoluto = p => new URL(p, location.href).href;

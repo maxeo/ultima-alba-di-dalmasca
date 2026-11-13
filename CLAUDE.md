@@ -103,5 +103,6 @@ porta occupata.
 - `docs/index.html` è generato da Leggio (`../leggio/strumenti/crea-sito.js docs`) e non contiene l'elenco dei
   capitoli: lo legge da `capitoli.json`. `docs/sw.js` tiene gli audio scaricati in cache per indirizzo
   (`audio/NNN.mp3`).
-- Gli mp3 vecchi non si tengono: quando un audio è rigenerato si tolgono anche dalla storia git. Il force push lo
-  lancia l'autore.
+- Gli MP3 in `docs/audio/` sono file locali ignorati da Git. `node Audiolibro/pubblica.js --push` sostituisce
+  gli audio pubblici cambiati nella release `audio-corrente`, poi pubblica l'indice e i testi sincronizzati.
+  GitHub Actions verifica le impronte SHA-256 e inserisce gli audio nell'artefatto di GitHub Pages.

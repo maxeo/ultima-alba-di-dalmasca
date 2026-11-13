@@ -56,7 +56,7 @@ Il romanzo è stato scritto con modelli di intelligenza artificiale sotto la dir
 | `Romanzo/capitoli/` | I capitoli, uno per file |
 | `Romanzo/lavoro/` | Materiali di lavoro: scaletta, personaggi, agganci e note di revisione. Contengono anticipazioni e usano la vecchia numerazione delle Parti, da I a XIII |
 | `Audiolibro/` | Script per generare e pubblicare l'audio, dizionario di pronuncia dei nomi |
-| `docs/` | Il sito pubblicato su GitHub Pages: audio compresso, testi sincronizzati e il lettore [Leggio](https://github.com/maxeo/leggio) |
+| `docs/` | Il lettore [Leggio](https://github.com/maxeo/leggio), i testi sincronizzati e la cartella locale degli MP3 |
 
 Per rigenerare il testo unico:
 
@@ -90,6 +90,10 @@ node Audiolibro/autore/cli.js prese --selezione
 ```
 
 `selezione` legge il passaggio selezionato nell’editor attivo. Se la selezione corrisponde a una frase dell’audio in uso, `prese --selezione` prepara letture alternative. Per tutti i comandi usa `node Audiolibro/autore/cli.js --aiuto`. Dal telefono puoi trasferire i segnalibri al PC con **Impostazioni → Progressi → Esporta progressi**.
+
+Con GitHub CLI autenticato, `node Audiolibro/pubblica.js --push` sostituisce gli MP3 pubblici aggiornati nella
+release `audio-corrente` e invia i file del sito a GitHub. Il workflow di GitHub Pages verifica che gli audio
+corrispondano all’indice prima di pubblicare. Gli MP3 che usa il pannello locale restano in `docs/audio/`.
 
 ## Avviso e licenza
 
