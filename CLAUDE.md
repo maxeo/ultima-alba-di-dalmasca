@@ -53,6 +53,25 @@ di questi meccanismi si aggiorna anche questo file.
 - `pubblica.js` completo, per un capitolo con un lavoro ancora aperto, riusa la voce di `docs/capitoli.json`
   **con lo stesso numero**: se i numeri cambiano, quel file va rinumerato prima di accodare i lavori.
 
+### Avviarlo o riavviarlo
+
+Quando l'autore lo chiede, fare questo e nient'altro:
+
+1. Vedere se gira (PowerShell):
+   `Get-NetTCPConnection -LocalPort 8765 -State Listen -ErrorAction SilentlyContinue | % { Get-CimInstance Win32_Process -Filter "ProcessId=$($_.OwningProcess)" | select ProcessId, CommandLine }`.
+   Nessuna riga = spento. Se il lettore apre la pagina ma senza capitoli, il server è spento e la pagina viene dalla
+   cache del service worker.
+2. Se gira, prima di fermarlo controllare che nessun lavoro sia `in generazione`:
+   `curl -s http://localhost:8765/__autore/lavori` (se ce n'è uno, dirlo e aspettare). Poi `Stop-Process -Id <pid>`.
+3. Avviarlo dalla radice del progetto con il Bash tool in background (`run_in_background`):
+   `node Audiolibro/autore/server.js` (porta facoltativa come argomento, predefinita 8765). Stampa
+   `Leggio autore: http://localhost:8765/?write=true`. All'avvio i lavori rimasti `in generazione` tornano `in coda`.
+4. Verificare: `curl -s -b autore=1 http://localhost:8765/capitoli.json` deve restituire l'elenco con `parti`.
+
+In alternativa al passo 3, `preview_start {name: "prova-lettore"}` (voce di `.claude/launch.json`) avvia lo stesso
+server e apre il lettore nel pannello. Si usa uno solo dei due modi: con il server già acceso il secondo trova la
+porta occupata.
+
 ## Sito
 
 - Sul sito pubblico l'audio c'è solo per il prologo (capitoli 1-7, `ULTIMO_PUBBLICO` in `pubblica.js`); gli altri

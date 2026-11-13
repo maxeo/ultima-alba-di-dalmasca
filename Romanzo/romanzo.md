@@ -1878,7 +1878,7 @@ Poi scomparve.
 
 Il primo documento arrivò a Rabanastre tre giorni dopo la notte di Nalbina.
 
-I soldati imperiali lo affissero alle porte della città e nelle piazze principali, senza fermarsi a dare spiegazioni. Non ce n'era bisogno: il foglio riportava il sigillo dell'Impero ed era stampato con caratteri nitidi, tutti perfettamente uguali.
+Un corriere imperiale lo consegnò alla cancelleria. Poche ore dopo, i banditori della città ne affissero copie alle porte e nelle piazze principali. Nessuno si fermò a dare spiegazioni.
 
 La gente si radunò per leggerlo. Chi non sapeva leggere si avvicinò agli altri, chiedendo che qualcuno ripetesse le parole ad alta voce.
 
