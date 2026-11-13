@@ -192,49 +192,19 @@ Si sistemò come meglio poteva sul cuscino e chiuse gli occhi.
 
 Poco più di due settimane dopo la notte di Nalbina, arrivò da Bhujerba un proclama del marchese Halim Ondore IV.
 
-Fu letto dagli araldi dalmaschi dal balcone del palazzo, lo stesso dal quale la principessa aveva salutato il popolo il giorno delle nozze.
+Ondore era stato amico di re Raminas per molti anni. Anche chi aveva liquidato il primo comunicato come una menzogna dell'Impero voleva sapere che cosa avesse da dire il marchese di Bhujerba.
 
-Ondore era stato amico di re Raminas per molti anni. Non era un generale archadiano e non aveva partecipato alla conquista di Rabanastre. Persino molti di quelli che avevano liquidato il primo comunicato come una menzogna dell'Impero erano pronti ad ascoltarlo.
+In piazza, davanti al palazzo, una copia del proclama passava di mano in mano. Sul balcone da cui Ashe aveva salutato la città il giorno delle nozze non c'era nessuno.
 
-La piazza si riempì prima ancora che gli araldi aprissero il documento.
+> «Figli e figlie di Dalmasca. Vi chiedo di deporre le armi e di innalzare preghiere al loro posto. Pregate per l'anima misericordiosa di Sua Altezza Raminas, che tanto desiderava la pace. E pregate anche per l'anima della fiera principessa Ashe che, di fronte alla sconfitta del suo Regno, ha preferito la morte. Sappiate, inoltre, che il capitano Basch von Ronsemburg, per incitamento alla sedizione e per l'assassinio di Sua Altezza Raminas, è stato giustiziato in quanto reo di alto tradimento. Chiunque si ostini a combattere è da considerarsi alla stregua del Capitano: un ignobile ribelle che porterà Dalmasca alla rovina».
 
-> «Figli e figlie di Dalmasca. Vi chiedo di deporre le armi e di innalzare preghiere al loro posto.»
+Una donna si coprì il volto con il grembiule. Qualcuno domandò dove fosse il corpo della principessa e quando si sarebbero celebrati i funerali. Nessuno seppe rispondere.
 
-Il marchese invitava i cittadini a pregare per Raminas, ricordandolo come un sovrano misericordioso che aveva dedicato la propria vita alla pace.
+Il nome di Basch passava di bocca in bocca. Molti ricordavano che era stato lui a riportare a casa il corpo del principe Rasler dopo la battaglia di Nalbina. Fino a quel giorno lo avevano considerato uno degli uomini più fedeli alla corona.
 
-Poi l'araldo annunciò che la principessa Ashe, sopraffatta dalla sconfitta del regno e dalla morte del padre e dello sposo, si era tolta la vita.
+«È una menzogna» disse qualcuno vicino alla fontana. Un uomo che pochi giorni prima aveva giurato che fosse tutta un'invenzione dell'Impero rimase in silenzio, con gli occhi fissi sul foglio.
 
-Un mormorio percorse la folla. Una donna si coprì il volto con il grembiule; un uomo si tolse il cappello e rimase a stringerlo fra le mani. Qualcuno chiese dove fosse il corpo della principessa, ma l'araldo proseguì senza interrompersi.
-
-C'era un'altra notizia.
-
-Il responsabile dell'assassinio di Raminas aveva finalmente un nome.
-
-Basch fon Ronsenburg.
-
-La folla reagì con sorpresa. Molti conoscevano quel capitano. Aveva combattuto a Nalbina, aveva riportato a casa il corpo del principe Rasler ed era considerato uno degli uomini più fedeli alla corona.
-
-Secondo il proclama, era stato riconosciuto colpevole di regicidio e alto tradimento. La condanna a morte era già stata eseguita.
-
-Ma stavolta a parlare non era l'Impero. Era Halim Ondore, un uomo che aveva conosciuto Raminas per molti anni e che il popolo dalmasco considerava suo amico.
-
-Qualcuno continuò a gridare che si trattava di una menzogna. Altri, che fino a quel momento avevano respinto ogni parola dei comunicati imperiali, non seppero più cosa pensare.
-
-Se anche Ondore confermava quella storia, forse c'era qualcosa di vero.
-
-Ondore concludeva esortando i dalmaschi a rinunciare a ogni resistenza: chiunque avesse continuato a combattere avrebbe seguito la strada del capitano, trascinando il regno verso un'altra rovina.
-
-L'araldo terminò la lettura e ripiegò il foglio.
-
-«Bene» disse una donna vicino alla fontana, quando qualcuno tornò a nominare Basch.
-
-Altri le diedero ragione. Un uomo che, fino a pochi giorni prima, aveva giurato che fosse tutta un'invenzione dell'Impero rimase in silenzio, con gli occhi fissi sul balcone.
-
-C'era anche chi chiedeva ancora della principessa: quando sarebbero stati celebrati i funerali? Dove era stata sepolta? Gli araldi non avevano risposte.
-
-Vaan era in mezzo alla folla, accanto a Migelo. Aveva seguito il proclama in silenzio, ma al nome di Basch aveva alzato la testa.
-
-Lo ricordava durante le nozze, quando Reks glielo aveva indicato con tanto entusiasmo. Ricordava anche suo fratello che rientrava in bottega con la giubba nuova, felice di partire sotto il suo comando.
+Vaan era in mezzo alla folla, accanto a Migelo. Al nome di Basch alzò la testa. Lo ricordava durante le nozze, quando Reks glielo aveva indicato con tanto entusiasmo. Ricordava anche suo fratello che rientrava in bottega con la giubba nuova, felice di partire sotto il suo comando.
 
 Adesso Reks era in un letto d'infermeria, con una ferita che forse non sarebbe mai guarita.
 
@@ -246,9 +216,9 @@ Non gli disse nulla del proclama. Non quel giorno.
 
 ---
 
-La resa ufficiale di Dalmasca venne firmata un mese dopo, a Nalbina.
+«La resa incondizionata di Dalmasca sarebbe avvenuta di lì a poco», avrebbe scritto Ondore nel tredicesimo capitolo delle sue *Memorie*, «La provincia degli alleati».
 
-A sottoscriverla fu il cancelliere Halvor, il più alto rappresentante dell'amministrazione reale rimasto in carica.
+Un mese dopo, a Nalbina, toccò al cancelliere Halvor sottoscriverla. Era il più alto rappresentante dell'amministrazione reale rimasto in carica.
 
 Il trattato che re Raminas aveva portato con sé nella fortezza non venne mai reso pubblico.
 

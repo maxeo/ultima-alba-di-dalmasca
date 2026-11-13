@@ -1,6 +1,6 @@
 {
  "capitolo": "007-la-morte-di-un-regno",
- "somiglianza": 0.9604,
+ "somiglianza": 0.9543,
  "problemi": [
   {
    "tempo": "4:49",
@@ -10,25 +10,25 @@
    "audio": "loro c 'era Rex. Lo trovò nell"
   },
   {
-   "tempo": "19:28",
-   "secondi": 1168.3,
-   "tipo": "diverso",
-   "testo": "chiese dove fosse mighelo van gli rispose",
-   "audio": "chiese dove fosse e mi dielo. Van gli rispose"
+   "tempo": "9:13",
+   "secondi": 553.3,
+   "tipo": "in più",
+   "testo": "un istante si lo scrivano continuo",
+   "audio": "un istante. «Sì, mi sento ne all 'isano potrà tontare vadere. Dello stesso poter ne abbrantare se non conoscervi». Lo scrivano continuò"
   },
   {
-   "tempo": "21:34",
-   "secondi": 1294.0,
+   "tempo": "20:20",
+   "secondi": 1220.5,
    "tipo": "in più",
    "testo": "lungo papa mormoro si era sua",
-   "audio": "lungo. Papà mormorò. Dicondisse il mura che sulleva. Sì, era sua."
+   "audio": "lungo papà mormorò di condizzo il muro che sulleva e si era sua"
   },
   {
-   "tempo": "23:28",
-   "secondi": 1409.0,
+   "tempo": "22:15",
+   "secondi": 1335.8,
    "tipo": "in più",
    "testo": "a lui fino alla fine non",
-   "audio": "a lui fino alla fine, ponosido alla fine. Non"
+   "audio": "a lui fino alla fine, con Olido alla fine. Non"
   }
  ]
 }

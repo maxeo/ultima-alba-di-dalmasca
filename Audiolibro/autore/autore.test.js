@@ -9,6 +9,13 @@ const { promisify } = require('node:util');
 const { createHash } = require('node:crypto');
 const { indiceVtt } = require('./audio');
 
+test('la proiezione mostra le citazioni senza il marcatore Markdown', async () => {
+  const { compatto, testoVisibile } = await import('./ui/testo.mjs');
+  assert.equal(testoVisibile('> *Una citazione.*'), 'Una citazione.');
+  assert.equal(compatto('> «Figli e figlie.»'), compatto('«Figli e figlie.»'));
+  assert.equal(testoVisibile('Il segno > resta nel testo.'), 'Il segno > resta nel testo.');
+});
+
 test('il riepilogo autore è pronto solo dopo avere sia le modifiche sia il testo', async () => {
   const { statoCaricamentoAutore } = await import('./ui/testo.mjs');
   assert.equal(statoCaricamentoAutore(4, null, 'pronto'), 'caricamento');

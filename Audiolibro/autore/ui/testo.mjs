@@ -151,7 +151,7 @@ export function statoCaricamentoAutore(capitolo, capitoloCaricato, testo, capito
   return capitolo === capitoloCaricato && testo === 'pronto' ? 'pronto' : 'caricamento';
 }
 
-export const testoVisibile = t => t.replace(/[*_]/g, '');
+export const testoVisibile = t => t.replace(/^>[ \t]+/gm, '').replace(/[*_]/g, '');
 export const compatto = t => testoVisibile(t).replace(/\s/g, '');
 export const unisci = v => v.join('\n\n');
 // Dentro un blocco lo stacco di scena è una voce '---' fra i paragrafi.
