@@ -1,0 +1,23 @@
+# Parole che Whisper sente male: «sentito<TAB>scritto». Le usa controlla.py solo dentro un punto già diverso
+# dal testo, per riconoscere i falsi allarmi. Dopo aver aggiunto righe: python controlla.py NNN-nome --rivaluta.
+bascia	basch
+bash	basch
+a noi	annui
+vanno	van
+ciocobo	chocobo
+gil	ghil
+ghili	ghil
+rex	reks
+baltiere	baltier
+alimondor	alim ondor
+ali mondor	alim ondor
+iv	quarto
+ii	secondo
+miguelo	mighelo
+arcades	arcaades
+geroni	geloni
+di se	disse
+vain	vein
+myrne	miurn
+kites	caits
+rex	reks

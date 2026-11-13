@@ -10,7 +10,8 @@ export MSYS_NO_PATHCONV=1
 P=${TTS_PORTA:-8770}
 LOG="$1"; shift
 curl -sf localhost:$P/stato >/dev/null || { docker compose up -d >/dev/null 2>&1; for i in $(seq 60); do sleep 3; curl -sf localhost:$P/stato >/dev/null && break; done; }
-CORPO=$(LOG="$LOG" SOLO_FRASI="$SOLO_FRASI" OPERAZIONE="$TTS_OPERAZIONE" node -e 'console.log(JSON.stringify({args: process.argv.slice(1), log: "/app/registri/" + require("path").basename(process.env.LOG), solo_frasi: process.env.SOLO_FRASI === "1", operazione: process.env.OPERAZIONE || ""}))' -- "$@")
+# Il corpo va solo in ASCII: da Git Bash curl non manda gli accenti in UTF-8 e il server rifiuta la richiesta.
+CORPO=$(LOG="$LOG" SOLO_FRASI="$SOLO_FRASI" OPERAZIONE="$TTS_OPERAZIONE" node -e 'console.log(JSON.stringify({args: process.argv.slice(1), log: "/app/registri/" + require("path").basename(process.env.LOG), solo_frasi: process.env.SOLO_FRASI === "1", operazione: process.env.OPERAZIONE || ""}).replace(/[\u0080-\uffff]/g, c => "\\u" + c.charCodeAt(0).toString(16).padStart(4, "0")))' -- "$@")
 while :; do
   R=$(curl -s --max-time 0 -X POST localhost:$P/converti -H 'Content-Type: application/json' -d "$CORPO")
   case "$R" in *'"errore": "occupato"'*) sleep 30 ;; *) break ;; esac

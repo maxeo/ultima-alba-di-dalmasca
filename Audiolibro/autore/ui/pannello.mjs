@@ -64,7 +64,22 @@ const meno = el('span', 'autore-meno');
 const stimaAudio = el('span', 'autore-stima-audio');
 const carico = el('span', 'autore-caricamento');
 const avanzamento = el('span', 'autore-avanzamento');
-pendenti.append(carico, avanzamento, piu, meno, stimaAudio);
+// Punti del controllo Whisper ancora da ascoltare nel capitolo aperto (gli ignorati non contano):
+// compaiono sia sul pulsante Autore sia sul contatore delle modifiche, quello dei due che si vede.
+const avvisiVoce = [el('span', 'autore-avviso-voce'), el('span', 'autore-avviso-voce')];
+apri.append(avvisiVoce[0]);
+pendenti.append(carico, avanzamento, piu, meno, stimaAudio, avvisiVoce[1]);
+function aggiornaAvvisoVoce() {
+  const n = dati && dati.capitolo === cap() ? (dati.controllo || []).filter(p => !p.ignorato).length : 0;
+  const testo = n ? `⚠ ${n}` : '';
+  const descrizione = n === 1 ? '1 punto da ascoltare (Whisper)' : `${n} punti da ascoltare (Whisper)`;
+  for (const a of avvisiVoce) {
+    a.hidden = !n;
+    if (a.textContent !== testo) a.textContent = testo;
+    a.title = n ? descrizione : '';
+  }
+  apri.setAttribute('aria-label', n ? `Autore, ${descrizione}` : 'Autore');
+}
 const titoloContatore = 'Parole aggiunte e rimosse rispetto all’audio in uso. La stima audio conta le parole nelle frasi interessate.';
 
 export function aggiornaContatori() {
@@ -73,6 +88,7 @@ export function aggiornaContatori() {
   const testo = testoInErrore ? 'errore' : articolo.querySelector('[data-i]') ? 'pronto' : 'caricamento';
   const fase = statoCaricamentoAutore(cap(), dati?.capitolo, testo, erroreCaricamento?.capitolo);
   const pronto = fase === 'pronto';
+  aggiornaAvvisoVoce();
   stato.hidden = elenco.hidden = conferma.hidden = !pronto;
   avvisoAudio.hidden = !pronto || !audioAltraVersione;
   avvisoCarico.hidden = pronto;
@@ -105,7 +121,8 @@ export function aggiornaContatori() {
     conteggi.set(riga, riepilogoParole(bloccoEditor.prima, testoVisibile(area.value.trim())));
   }
   piu.hidden = meno.hidden = stimaAudio.hidden = conteggi.size === 0;
-  pendenti.hidden = conteggi.size === 0 && !g;
+  const voceDaAscoltare = !avvisiVoce[1].hidden;
+  pendenti.hidden = conteggi.size === 0 && !g && !voceDaAscoltare;
   apri.hidden = !pendenti.hidden && !pagina?.classList.contains('nascosto');
   if (conteggi.size === 0) return;
   const totale = { piu: 0, meno: 0, audio: 0 };

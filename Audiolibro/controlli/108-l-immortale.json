@@ -1,12 +1,12 @@
 {
- "capitolo": "107-l-immortale",
- "somiglianza": 0.9817,
+ "capitolo": "108-l-immortale",
+ "somiglianza": 0.9839,
  "problemi": [
   {
-   "tempo": "0:03",
-   "secondi": 3.9,
-   "tipo": "saltato",
-   "testo": "pause2 capitolo centosettesimo l immortale pause2 la passerella esterna",
+   "tempo": "0:02",
+   "secondi": 2.2,
+   "tipo": "diverso",
+   "testo": "capitolo centoottesimo l immortale la passerella esterna",
    "audio": "Capitolo centosettesimo. La passerella esterna"
   },
   {

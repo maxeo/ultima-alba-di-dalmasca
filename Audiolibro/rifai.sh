@@ -7,6 +7,7 @@
 #                                                         audio/prove/NNN-i-K.mp3; la presa 0 è quella attuale)
 #      bash Audiolibro/rifai.sh N --scegli i K           (mette la presa K al posto della frase i e rimonta il capitolo)
 #      bash Audiolibro/rifai.sh N --monta                (rimonta il capitolo con le frasi che ci sono)
+#      bash Audiolibro/rifai.sh N --taglia               (taglia le parole in più trovate da Whisper, doppioni compresi, e rimonta: taglia.js)
 # Con MONTA=no genera solo le frasi, senza montare né pubblicare: si raccolgono più correzioni e si monta una volta con --monta.
 # Le frasi sono quelle in cui ebook2audiobook ha diviso il testo (spezzate anche alle virgole).
 # Serve la cartella di sessione in tmp/ della generazione precedente.
@@ -57,11 +58,20 @@ monta() {
     echo "$(date '+%F %T') $f $1 in $(( $(date +%s)-S0 ))s" | tee -a audio/stato.txt
     rm -f "audio/da-montare-$id.txt"
     bash dopo.sh "$f" "$2"
+    [ "$TAGLI" = "no" ] || taglia
   else
     echo "ERRORE: vedi Audiolibro/audio/rifai-$id.txt"; exit 1
   fi
 }
+# Dopo il controllo Whisper: le parole in più di XTTS (ripetizioni, parole inventate) si tagliano nella sessione
+# e si rimonta una volta sola.
+taglia() {
+  local T; T=$(node taglia.js "$P" "$f") || return 0
+  [ -z "$T" ] || TAGLI=no monta "TAGLIATE parole in più nelle frasi $T" "$T"
+}
 case "$1" in
+  --taglia)
+    taglia; exit ;;
   --prove)
     i=$2; n=${3:-4}; [[ "$i" =~ ^[0-9]+$ ]] || { echo "Indice della frase non valido"; exit 2; }
     [[ "$n" =~ ^[0-9]+$ ]] && [ "$n" -ge 1 ] && [ "$n" -le 10 ] || { echo "Numero di prese non valido: $n (da 1 a 10)"; exit 2; }

@@ -1,6 +1,6 @@
 {
  "capitolo": "015-il-protagonista",
- "somiglianza": 0.9872,
+ "somiglianza": 0.9887,
  "problemi": [
   {
    "tempo": "3:04",
@@ -10,11 +10,11 @@
    "audio": "quattro, cinque, A, sei, avanti così, quasi"
   },
   {
-   "tempo": "8:50",
-   "secondi": 530.5,
-   "tipo": "in più",
-   "testo": "valeva una flotta con questa in",
-   "audio": "Valeva una flotta. Con questa in tasca si poteva comprare il cielo. Con questa in"
+   "tempo": "3:08",
+   "secondi": 188.9,
+   "tipo": "diverso",
+   "testo": "cima fino a a 14 dopo il quattordici niente",
+   "audio": "cima, fino a quattordici. il 14, niente."
   }
  ]
 }

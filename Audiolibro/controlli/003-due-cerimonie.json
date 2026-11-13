@@ -1,20 +1,5 @@
 {
  "capitolo": "003-due-cerimonie",
- "somiglianza": 0.9773,
- "problemi": [
-  {
-   "tempo": "8:47",
-   "secondi": 527.3,
-   "tipo": "diverso",
-   "testo": "dentro la carne pause2 basch la aspettava fuori dalla",
-   "audio": "dentro la carne bascia l 'aspettava fuori dalla"
-  },
-  {
-   "tempo": "10:02",
-   "secondi": 602.8,
-   "tipo": "diverso",
-   "testo": "decisione e presa basch annui non si mosse",
-   "audio": "decisione è presa bascia a noi non si mosse"
-  }
- ]
+ "somiglianza": 0.9811,
+ "problemi": []
 }

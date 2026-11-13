@@ -222,6 +222,29 @@ function creaServer({ root = path.resolve(__dirname, '../..'), audio } = {}) {
     }).filter(b => b.prima.join('\n\n') !== b.dopo.join('\n\n'));
   }
 
+  // Le divergenze trovate da Whisper sull'audio attuale del capitolo, da riascoltare dal pannello.
+  // Contano solo se il controllo è dell'mp3 di adesso: uno più vecchio ha tempi che non tornano.
+  function controlloVoce(nome) {
+    const base = path.join(root, 'Audiolibro');
+    const f = path.join(base, 'controlli', `${nome}.json`);
+    const mp3 = fs.statSync(path.join(base, 'audiobooks', `${nome}.mp3`), { throwIfNoEntry: false });
+    const info = fs.statSync(f, { throwIfNoEntry: false });
+    if (!mp3 || !info || info.mtimeMs < mp3.mtimeMs) return null;
+    let problemi;
+    try { problemi = JSON.parse(fs.readFileSync(f, 'utf8')).problemi || []; } catch { return null; }
+    const via = new Set(ignorati()[nome] || []);
+    return problemi.map(p => {
+      const chiave = chiaveControllo(p);
+      return { ...p, chiave, ...(via.has(chiave) && { ignorato: true }) };
+    });
+  }
+  // Un punto messo da parte resta tale anche quando un rimontaggio sposta i tempi: la chiave è il testo.
+  const chiaveControllo = p => createHash('sha1').update(`${p.tipo}|${p.testo}|${p.audio}`).digest('hex').slice(0, 16);
+  const fileIgnorati = path.join(dir, 'controlli-ignorati.json');
+  function ignorati() {
+    try { return JSON.parse(fs.readFileSync(fileIgnorati, 'utf8')); } catch { return {}; }
+  }
+
   async function api(req, res, url) {
     const route = url.pathname.slice(prefisso.length);
     const get = req.method === 'GET' || req.method === 'HEAD';
@@ -238,7 +261,7 @@ function creaServer({ root = path.resolve(__dirname, '../..'), audio } = {}) {
       const { nome, revisione, passaggi } = leggiCapitolo(root, n);
       const bozza = ultimaBozza(n, revisione) || null;
       return json(res, 200, { capitolo: n, nome, revisione, passaggi, bozza, salvaSoloTesto: true,
-        lavori: conAvanzamento(lavori.filter(j => j.capitolo === n)).reverse() });
+        controllo: controlloVoce(nome), lavori: conAvanzamento(lavori.filter(j => j.capitolo === n)).reverse() });
     }
     if (get && route === 'lavori') {
       const n = url.searchParams.get('capitolo');
@@ -386,10 +409,33 @@ function creaServer({ root = path.resolve(__dirname, '../..'), audio } = {}) {
       salva();
       return json(res, 202, j);
     }
+    if (route === 'controllo') {
+      const { nome } = leggiCapitolo(root, d.capitolo);
+      if (typeof d.chiave !== 'string' || !/^[a-f0-9]{16}$/.test(d.chiave) || typeof d.ignora !== 'boolean') throw errore(400, 'Punto del controllo non valido.');
+      const tutti = ignorati();
+      const elenco = new Set(tutti[nome] || []);
+      if (d.ignora) elenco.add(d.chiave); else elenco.delete(d.chiave);
+      if (elenco.size) tutti[nome] = [...elenco]; else delete tutti[nome];
+      scrivi(fileIgnorati, JSON.stringify(tutti, null, 1));
+      return json(res, 200, { controllo: controlloVoce(nome) });
+    }
+    if (route === 'scarta') {
+      // Prese che non servono: si tolgono il lavoro e i suoi file. La lettura attuale non cambia.
+      const j = trova(d.id, 'prese');
+      if (['in coda', 'in generazione'].includes(j.stato)) throw errore(409, 'Le prese sono ancora in preparazione.');
+      lavori.splice(lavori.indexOf(j), 1);
+      for (const resto of [`${j.id}.log`, path.join('prese', j.id)]) fs.rmSync(path.join(dir, resto), { recursive: true, force: true });
+      salva();
+      return json(res, 200, { capitolo: j.capitolo });
+    }
     if (route === 'pulisci') {
       // Toglie dallo storico i lavori chiusi e i file che si portavano dietro.
+      // Una modifica di testo pronta è già pubblicata e il pannello la mostra solo nello storico: si toglie anche
+      // se è della versione di adesso. Restano le prese e le proposte ancora da scegliere.
+      const scelte = new Set(lavori.filter(j => j.tipo === 'scegli' && j.stato === 'pronto').map(j => j.gruppo));
       const finiti = lavori.filter(j => j.capitolo === d.capitolo &&
-        (['superato', 'errore'].includes(j.stato) || j.stato === 'pronto' && !corrente(j) ||
+        (['superato', 'errore'].includes(j.stato) || j.tipo === 'prese' && scelte.has(j.id) ||
+         j.stato === 'pronto' && (!corrente(j) || ['modifica', 'stacco', 'rigenera', 'scegli'].includes(j.tipo)) ||
          j.tipo === 'bozza' && !j.blocchi?.length && ultimaBozza(j.capitolo, j.revisione) !== j));
       for (const j of finiti) {
         lavori.splice(lavori.indexOf(j), 1);

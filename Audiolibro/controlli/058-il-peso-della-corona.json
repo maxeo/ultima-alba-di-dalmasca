@@ -1,6 +1,6 @@
 {
- "capitolo": "057-il-peso-della-corona",
- "somiglianza": 0.9652,
+ "capitolo": "058-il-peso-della-corona",
+ "somiglianza": 0.9668,
  "problemi": [
   {
    "tempo": "0:42",
@@ -8,13 +8,6 @@
    "tipo": "diverso",
    "testo": "il chocobo non con penelo poi si fermo",
    "audio": "il ciocobo non ho un compenelo poi si fermò"
-  },
-  {
-   "tempo": "11:03",
-   "secondi": 663.1,
-   "tipo": "diverso",
-   "testo": "odia l impero disse ash alla fine non",
-   "audio": "odia l 'impero di se ascia alla fine non"
   }
  ]
 }

@@ -1,6 +1,6 @@
 // Come si disegnano le differenze dentro i paragrafi del lettore e come ci si arriva.
 import { el, bottone, pagina, tooltipSu } from './base.mjs';
-import { anteprimaDiff, compatto, diffConRimozioni, fettaDiff, finestreDiff, puntoDiff } from './testo.mjs';
+import { allineaParagrafi, anteprimaDiff, compatto, differenze, diffConRimozioni, fettaDiff, finestreDiff, puntoDiff, soloParagrafi } from './testo.mjs';
 import { ornamentiDiff, paragrafi, passaggioDi, testoSenzaRimozioni } from './stato.mjs';
 import { stato } from './pannello.mjs';
 import { inLinea, posizioneNelTesto } from './editor.mjs';
@@ -139,4 +139,48 @@ export function vaiAllaModifica(punto, riga, indice = 0) {
   bersaglio.classList.add('autore-destinazione');
   bersaglio.scrollIntoView({ block: 'center', behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth' });
   timerDestinazione = setTimeout(() => bersaglio.classList.remove('autore-destinazione'), 1800);
+}
+
+// Dallo storico: seleziona nel testo di oggi le parole che quel lavoro aveva cambiato, senza mostrare il diff
+// vecchio. I paragrafi si cercano per contenuto; se dopo sono stati corretti ancora non ci sono più e lo si dice.
+function puntoNelParagrafo(p, testo, offset, avanza) {
+  const radice = p.querySelector(':scope > .autore-versione') || p;
+  const voluto = posizioneNelTesto(testoSenzaRimozioni(radice), testo.slice(0, offset), avanza);
+  const giro = nodiTesto(radice);
+  let pos = 0, ultimo;
+  for (let t = giro.nextNode(); t; t = giro.nextNode()) {
+    if (voluto <= pos + t.length) return [t, voluto - pos];
+    pos += t.length;
+    ultimo = t;
+  }
+  return ultimo ? [ultimo, ultimo.length] : [radice, 0];
+}
+export function selezionaNelTesto(j) {
+  const blocchi = j.blocchi?.length ? j.blocchi : j.dopo !== undefined ? [{ prima: [j.prima || ''], dopo: [j.dopo] }] : [];
+  for (const b of blocchi) {
+    const prima = soloParagrafi(b.prima || []), dopo = soloParagrafi(b.dopo || []);
+    const gruppi = allineaParagrafi(prima.map(compatto), dopo.map(compatto)).filter(g => g.letto === undefined && g.fine > g.inizio);
+    for (const g of gruppi) {
+      const primo = dopo[g.inizio], ultimo = dopo[g.fine - 1];
+      const pPrimo = paragrafoDelDiff(primo, undefined), pUltimo = paragrafoDelDiff(ultimo, undefined);
+      if (!pPrimo || !pUltimo) continue;
+      // Paragrafo per paragrafo: l'inizio è la prima parola nuova del primo, la fine l'ultima dell'ultimo.
+      const inizio = differenze(prima[g.da] ?? '', primo).aggiunte[0]?.[0] ?? 0;
+      const fine = differenze(prima[g.a - 1] ?? '', ultimo).aggiunte.at(-1)?.[1] ?? ultimo.length;
+      apriTesto();
+      const range = document.createRange();
+      range.setStart(...puntoNelParagrafo(pPrimo, primo, inizio, true));
+      range.setEnd(...puntoNelParagrafo(pUltimo, ultimo, fine, false));
+      if (range.collapsed) range.selectNodeContents(pPrimo);
+      const sel = getSelection();
+      sel.removeAllRanges();
+      sel.addRange(range);
+      (range.startContainer.parentElement || pPrimo).scrollIntoView({ block: 'center',
+        behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth' });
+      stato.textContent = '';
+      return true;
+    }
+  }
+  stato.textContent = 'Il passaggio di questa modifica è cambiato ancora: non lo trovo nel testo corrente.';
+  return false;
 }

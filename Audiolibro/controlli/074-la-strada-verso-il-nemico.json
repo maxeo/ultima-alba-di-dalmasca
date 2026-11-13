@@ -1,13 +1,5 @@
 {
- "capitolo": "073-la-strada-verso-il-nemico",
- "somiglianza": 0.9627,
- "problemi": [
-  {
-   "tempo": "0:10",
-   "secondi": 10.7,
-   "tipo": "diverso",
-   "testo": "verso il nemico pause2 al sid margreis entro nella sala",
-   "audio": "verso il nemico. Alcid Mark Reis entrò nella sala"
-  }
- ]
+ "capitolo": "074-la-strada-verso-il-nemico",
+ "somiglianza": 0.9636,
+ "problemi": []
 }

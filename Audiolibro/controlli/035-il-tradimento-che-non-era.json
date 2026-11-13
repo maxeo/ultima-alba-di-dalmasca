@@ -1,27 +1,13 @@
 {
- "capitolo": "034-il-tradimento-che-non-era",
- "somiglianza": 0.958,
+ "capitolo": "035-il-tradimento-che-non-era",
+ "somiglianza": 0.959,
  "problemi": [
-  {
-   "tempo": "4:33",
-   "secondi": 273.2,
-   "tipo": "diverso",
-   "testo": "navi della flotta alim ondor quarto guardo entrare il",
-   "audio": "navi della flotta. Alimondor IV guardò entrare il"
-  },
   {
    "tempo": "5:29",
    "secondi": 329.2,
    "tipo": "diverso",
    "testo": "van lo vide spiegatevi un prigioniero morto non lo cerca nessuno basch parlava piano come parlava sempre ma ogni parola era messa al suo posto lo si puo tenere per anni in fondo a una fortezza senza processo senza registri e lo si puo tirare fuori il giorno in cui serve il giorno in cui un marchese che ha firmato la notizia della sua morte comincia a parlare troppo o a dare oro a chi non dovrebbe una pausa nalbina me lo ha detto chiaramente finche io",
    "audio": "e vanno vide Piegatevi. chiaramente finché io"
-  },
-  {
-   "tempo": "21:29",
-   "secondi": 1289.8,
-   "tipo": "diverso",
-   "testo": "la firma che alim ondor quarto ci mise sotto",
-   "audio": "La firma che Ali Mondor IV ci mise sotto,"
   }
  ]
 }

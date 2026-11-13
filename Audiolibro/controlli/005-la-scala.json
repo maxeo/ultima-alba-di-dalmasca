@@ -1,13 +1,5 @@
 {
  "capitolo": "005-la-scala",
- "somiglianza": 0.9524,
- "problemi": [
-  {
-   "tempo": "19:09",
-   "secondi": 1149.8,
-   "tipo": "diverso",
-   "testo": "ordine si capitano basch lo guardo ancora per un",
-   "audio": "ordine si capitano bash luogò ancora per un"
-  }
- ]
+ "somiglianza": 0.9535,
+ "problemi": []
 }

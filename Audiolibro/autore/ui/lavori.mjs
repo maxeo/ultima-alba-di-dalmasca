@@ -1,12 +1,12 @@
 // Le schede dei lavori nel pannello: diff, ripristini, prese audio, stato della generazione.
-import { api, apiBase, bottone, bottoneIcona, el, matita, voce } from './base.mjs';
+import { api, apiBase, bottone, bottoneIcona, el, matita, pagina, tooltipSu, voce } from './base.mjs';
 import { allineaParagrafi, compatto, dataBreve, soloParagrafi, unisci } from './testo.mjs';
 import { cap, paragrafi, passaggioDi } from './stato.mjs';
 import { aggiorna, azione, dati } from './dati.mjs';
 import { elenco, stato } from './pannello.mjs';
 import { audioDelPassaggio, bozzaAperta, chiudiEditor, inLinea, modificaInLinea, scegliPassaggio,
   setRiferimento } from './editor.mjs';
-import { apriTesto, confrontoModifiche, paragrafoDelDiff, vaiAllaModifica } from './diff-testo.mjs';
+import { apriTesto, confrontoModifiche, paragrafoDelDiff, selezionaNelTesto, vaiAllaModifica } from './diff-testo.mjs';
 
 let sigla;
 
@@ -170,13 +170,257 @@ export function testoDelLavoro(j) {
   }
   return undefined;
 }
+// Le divergenze che Whisper ha sentito nell'audio attuale: si riascoltano dal punto e si mettono da parte
+// quelle che vanno bene. Le messe da parte restano in fondo, si possono riprendere.
+let controlloAperto = false, ignoratiAperti = false;
+// Testo e sentito parola per parola: in ognuno si segna quello che nell'altro non c'è.
+// Il confronto ignora accenti, maiuscole e punteggiatura, come il controllo.
+function diffPunto(scritto, sentito) {
+  const chiave = w => w.normalize('NFD').replace(/\p{M}/gu, '').toLowerCase().replace(/[^a-z0-9]/g, '');
+  const A = scritto.split(/\s+/).filter(Boolean), B = sentito.split(/\s+/).filter(Boolean);
+  const a = A.map(chiave), b = B.map(chiave);
+  const L = Array.from({ length: a.length + 1 }, () => new Uint16Array(b.length + 1));
+  for (let x = a.length - 1; x >= 0; x--) for (let y = b.length - 1; y >= 0; y--)
+    L[x][y] = a[x] && a[x] === b[y] ? L[x + 1][y + 1] + 1 : Math.max(L[x + 1][y], L[x][y + 1]);
+  const uguali = [new Set(), new Set()];
+  for (let x = 0, y = 0; x < a.length && y < b.length;) {
+    if (a[x] && a[x] === b[y]) { uguali[0].add(x++); uguali[1].add(y++); }
+    else if (L[x + 1][y] >= L[x][y + 1]) x++;
+    else y++;
+  }
+  const riga = (etichetta, parole, visti, classe) => {
+    const r = el('span', 'autore-diff-punto');
+    r.append(`${etichetta} `);
+    // Le parole diverse vicine si segnano insieme, in un pezzo solo.
+    let pezzo;
+    parole.forEach((w, i) => {
+      if (visti.has(i)) { r.append(i ? ' ' : '', w); pezzo = null; return; }
+      if (pezzo) { pezzo.append(' ' + w); return; }
+      if (i) r.append(' ');
+      pezzo = el(classe, '', w);
+      r.append(pezzo);
+    });
+    return r;
+  };
+  const diverse = a.filter((k, i) => k && !uguali[0].has(i));
+  return [riga('Testo:', A, uguali[0], 'del'), riga('Sentito:', B, uguali[1], 'mark'), diverse];
+}
+// Come un clic su una frase del lettore: la voce riparte da lì e il testo la segue, anche se lo si era
+// scorso a mano (seguiVoce, cue e segnaCue sono del lettore).
+function ascoltaDa(t) {
+  if (typeof apriPagina === 'function' && pagina?.classList.contains('nascosto')) apriPagina();
+  voce.currentTime = t;
+  voce.play().catch(() => {});
+  if (typeof seguiVoce !== 'undefined') {
+    seguiVoce = true;
+    document.getElementById('segui')?.classList.add('nascosto');
+  }
+  if (typeof segnaCue === 'function' && typeof cue !== 'undefined') {
+    segnaCue(t);
+    cue[cueOra]?.el?.scrollIntoView({ block: 'center', behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth' });
+  }
+}
+// Solo il testo: porta al punto e lo fa lampeggiare, la voce resta dov'è e non parte. Il lettore smette di
+// seguire la voce, come quando si scorre a mano.
+// Whisper fa cominciare una parola dentro la pausa che la precede, quindi il tempo può cadere nella frase
+// prima: fra le frasi vicine vince quella che contiene le parole del testo segnate come diverse.
+function mostraPunto(t, diverse = []) {
+  if (typeof cue === 'undefined' || !cue.length) return;
+  let i = cue.findIndex(c => c.t > t) - 1;
+  if (i < -1) i = cue.length - 1;
+  i = Math.max(0, i);
+  if (diverse.length) {
+    const chiave = w => w.normalize('NFD').replace(/\p{M}/gu, '').toLowerCase().replace(/[^a-z0-9]/g, '');
+    const quante = c => { const k = new Set((c?.testo || '').split(/[\s'’-]+/).map(chiave)); return diverse.filter(w => k.has(w)).length; };
+    for (const j of [i + 1, i + 2]) if (quante(cue[j]) > quante(cue[i])) i = j;
+  }
+  const frase = cue[i]?.el;
+  if (!frase) return;
+  portaA(frase);
+  frase.classList.add('autore-destinazione');
+  setTimeout(() => frase.classList.remove('autore-destinazione'), 1800);
+}
+function schedaControllo(punti) {
+  const box = el('details', 'autore-storico autore-controllo-voce');
+  box.open = controlloAperto;
+  box.addEventListener('toggle', () => { controlloAperto = box.open; });
+  const attivi = punti.filter(p => !p.ignorato), via = punti.filter(p => p.ignorato);
+  box.append(el('summary', '', attivi.length === 1 ? '1 punto da ascoltare (Whisper)'
+    : `${attivi.length} punti da ascoltare (Whisper)`));
+  const nomiTipo = { 'in più': 'detto in più', saltato: 'saltato', diverso: 'diverso' };
+  const riga = p => {
+    const r = el('div', 'autore-punto-voce');
+    const ascolta = bottone(`▶ ${p.tempo}`, () => ascoltaDa(Math.max(0, p.secondi - 1.5)));
+    ascolta.className = 'autore-ascolta-punto';
+    tooltipSu(ascolta, 'Ascolta da poco prima di questo punto');
+    const vai = bottone('Vai', () => mostraPunto(p.secondi, diverse));
+    vai.className = 'autore-ascolta-punto';
+    tooltipSu(vai, 'Mostra il punto nel testo, senza far partire la voce');
+    const tempi = el('div', 'autore-comandi-punto');
+    tempi.append(ascolta, vai);
+    const testo = el('div', 'autore-testo-punto');
+    const [scritto, sentito, diverse] = diffPunto(p.testo, p.audio);
+    testo.append(el('span', 'autore-tipo-punto', nomiTipo[p.tipo] || p.tipo), scritto, sentito);
+    const metti = bottone(p.ignorato ? 'Riprendi' : 'Ignora', async () => {
+      metti.disabled = true;
+      try {
+        await api('controllo', { capitolo: dati.capitolo, chiave: p.chiave, ignora: !p.ignorato });
+        await aggiorna(dati.capitolo);
+      } catch (e) { stato.textContent = e.message; metti.disabled = false; }
+    });
+    metti.className = 'autore-ignora-punto';
+    const comandi = el('div', 'autore-comandi-punto');
+    if (!p.ignorato) {
+      const prese = bottone('Prese', () => azione('prese', { capitolo: dati.capitolo, revisione: dati.revisione, tempo: p.secondi, numero: 3 }));
+      prese.className = 'autore-ignora-punto';
+      tooltipSu(prese, 'Rifai la frase in tre prese da ascoltare e scegliere');
+      comandi.append(prese);
+    }
+    comandi.append(metti);
+    r.append(tempi, testo, comandi);
+    return r;
+  };
+  if (!attivi.length) box.append(el('p', 'autore-didascalia', 'Nessun punto da ascoltare.'));
+  for (const p of attivi) box.append(riga(p));
+  if (via.length) {
+    const sotto = el('details', 'autore-ignorati');
+    sotto.open = ignoratiAperti;
+    sotto.addEventListener('toggle', () => { ignoratiAperti = sotto.open; });
+    sotto.append(el('summary', '', via.length === 1 ? '1 ignorato' : `${via.length} ignorati`));
+    for (const p of via) sotto.append(riga(p));
+    box.append(sotto);
+  }
+  return box;
+}
+
+// Sopra le prese: la frase nel testo e un volume solo per tutte (ricordato su questo dispositivo).
+let volumePrese = 1;
+try { volumePrese = Math.min(1, Math.max(0, Number(localStorage.getItem('autore-volume-prese') ?? 1))); } catch {}
+// Apre il testo se è chiuso e porta lì il nodo. Appena aperta, la pagina si sistema da sola sulla voce:
+// si aspetta un attimo, altrimenti lo scorrimento si perde.
+function portaA(nodo) {
+  const chiuso = typeof apriPagina === 'function' && pagina?.classList.contains('nascosto');
+  if (chiuso) apriPagina();
+  if (typeof staccaSegui === 'function') staccaSegui();
+  // A pagina appena aperta lo scorrimento animato si perde: si va subito, senza animazione.
+  const animato = !chiuso && !matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const vai = () => nodo.scrollIntoView({ block: 'center', behavior: animato ? 'smooth' : 'instant' });
+  if (chiuso) setTimeout(vai, 150); else vai();
+}
+// Il pezzo delle prese è una frase della sessione audio, che nel lettore può essere spezzata in più frasi:
+// si parte da quella al tempo delle prese e si allarga alle vicine che stanno nello stesso testo.
+function selezionaFrase(t, testo) {
+  if (typeof cue === 'undefined' || !cue.length) { stato.textContent = 'La frase non è nel testo aperto.'; return; }
+  const chiave = x => (x || '').replace(/\[[^\]]*\]/g, ' ').normalize('NFD').replace(/\p{M}/gu, '').toLowerCase().replace(/[^a-z0-9]/g, '');
+  const pezzo = chiave(testo);
+  const dentro = i => cue[i] && chiave(cue[i].testo) && pezzo.includes(chiave(cue[i].testo));
+  let i = Math.max(0, cue.findIndex(c => c.t > t + 0.05) - 1);
+  if (i < 0 || cue.findIndex(c => c.t > t + 0.05) < 0) i = cue.length - 1;
+  if (!dentro(i)) for (const j of [i + 1, i - 1]) if (dentro(j)) { i = j; break; }
+  let da = i, a = i;
+  while (dentro(da - 1)) da--;
+  while (dentro(a + 1)) a++;
+  portaA(cue[da].el);
+  const range = document.createRange();
+  range.setStartBefore(cue[da].el);
+  range.setEndAfter(cue[a].el);
+  const sel = getSelection();
+  sel.removeAllRanges();
+  sel.addRange(range);
+}
+function comandiPrese(j, valido) {
+  const riga = el('div', 'autore-comandi-prese');
+  if (valido) {
+    const seleziona = bottone('Seleziona nel testo', () => selezionaFrase(j.tempo, j.frase));
+    tooltipSu(seleziona, 'Seleziona nel testo la frase di queste prese');
+    riga.append(seleziona);
+  }
+  const volume = el('label', 'autore-volume-prese');
+  const cursore = el('input');
+  cursore.type = 'range';
+  cursore.min = '0';
+  cursore.max = '1';
+  cursore.step = '0.05';
+  cursore.value = String(volumePrese);
+  cursore.setAttribute('aria-label', 'Volume delle prese');
+  cursore.addEventListener('input', () => {
+    volumePrese = Number(cursore.value);
+    for (const a of elenco.querySelectorAll('.autore-presa audio')) a.volume = volumePrese;
+    try { localStorage.setItem('autore-volume-prese', String(volumePrese)); } catch {}
+  });
+  volume.append(el('span', '', '🔊'), cursore);
+  riga.append(volume);
+  return riga;
+}
+
+// Una presa per riga: play, nome con barra e tempi, «Usa» a destra. Il lettore nativo occupava tre righe a presa.
+const durataBreve = t => Number.isFinite(t) ? `${Math.floor(t / 60)}:${String(Math.floor(t % 60)).padStart(2, '0')}` : '–:––';
+function rigaPresa(j, k, valido) {
+  const r = el('div', 'autore-presa');
+  const etichetta = k === 0 ? 'Lettura attuale' : `Presa ${k}`;
+  const sample = el('audio');
+  sample.preload = 'metadata';
+  sample.volume = volumePrese;
+  sample.src = `${apiBase}prese/${j.id}/${k}.mp3`;
+  const play = bottone('▶', () => {
+    if (!sample.paused) return sample.pause();
+    voce.pause();
+    for (const altro of elenco.querySelectorAll('audio')) if (altro !== sample) altro.pause();
+    if (sample.ended) sample.currentTime = 0;
+    sample.play().catch(e => { stato.textContent = e.message; });
+  });
+  play.className = 'autore-play-presa';
+  play.setAttribute('aria-label', `Ascolta: ${etichetta}`);
+  const centro = el('div', 'autore-centro-presa');
+  const testa = el('div', 'autore-testa-presa');
+  const tempo = el('span', 'autore-tempo-presa', '–:––');
+  testa.append(el('span', k === 0 ? 'autore-nome-presa autore-attuale' : 'autore-nome-presa', etichetta), tempo);
+  const barra = el('div', 'autore-barra-presa');
+  const riempi = el('span');
+  barra.append(riempi);
+  barra.setAttribute('role', 'slider');
+  barra.setAttribute('aria-label', `Posizione in ${etichetta}`);
+  // Clic o trascinamento, anche col dito: con la cattura del puntatore la barra segue il movimento anche fuori
+  // dalla riga e il punto vale dove si lascia.
+  const porta = e => {
+    if (!Number.isFinite(sample.duration)) return;
+    const box = barra.getBoundingClientRect();
+    sample.currentTime = Math.max(0, Math.min(1, (e.clientX - box.left) / box.width)) * sample.duration;
+    disegna();
+  };
+  barra.addEventListener('pointerdown', e => {
+    barra.setPointerCapture(e.pointerId);
+    porta(e);
+  });
+  barra.addEventListener('pointermove', e => { if (barra.hasPointerCapture(e.pointerId)) porta(e); });
+  barra.addEventListener('pointerup', e => { if (barra.hasPointerCapture(e.pointerId)) { porta(e); barra.releasePointerCapture(e.pointerId); } });
+  centro.append(testa, barra);
+  const disegna = () => {
+    const d = sample.duration, t = sample.currentTime || 0;
+    tempo.textContent = sample.paused && !t ? durataBreve(d) : `${durataBreve(t)} / ${durataBreve(d)}`;
+    riempi.style.width = Number.isFinite(d) && d ? `${(t / d) * 100}%` : '0';
+    play.textContent = sample.paused ? '▶' : '❚❚';
+    r.classList.toggle('autore-in-ascolto', !sample.paused);
+  };
+  for (const ev of ['loadedmetadata', 'timeupdate', 'play', 'pause', 'ended']) sample.addEventListener(ev, disegna);
+  r.append(play, centro, sample);
+  if (k && valido) {
+    const usa = bottone('Usa', () => azione('scegli', { id: j.id, presa: k }));
+    usa.className = 'autore-primario autore-usa-presa';
+    usa.setAttribute('aria-label', `Usa presa ${k}`);
+    r.append(usa);
+  }
+  return r;
+}
+
 export function disegnaLavori() {
-  const firma = JSON.stringify([dati.revisione, dati.lavori.map(j => ({ ...j, progresso: undefined }))]);
+  const firma = JSON.stringify([dati.revisione, dati.controllo, dati.lavori.map(j => ({ ...j, progresso: undefined }))]);
   if (firma === sigla) return false;
   sigla = firma;
   elenco.replaceChildren();
   const attuale = dati.lavori.find(j => j.tipo === 'modifica' && j.revisione === dati.revisione);
   const ripristinati = new Set(dati.lavori.map(j => j.ripristinaDi));
+  const scelte = new Set(dati.lavori.filter(j => j.tipo === 'scegli' && !['errore', 'superato'].includes(j.stato)).map(j => j.gruppo));
   const voci = [];
   const inLavorazione = [];
   const storico = [];
@@ -185,6 +429,8 @@ export function disegnaLavori() {
     if (j.tipo === 'bozza' && (j.id !== dati.bozza?.id || !j.blocchi.length)) continue;
     if (ripristinati.has(j.id) || j.ripristinaDi && !j.blocchi.length) continue;
     if (['rigenera', 'scegli'].includes(j.tipo) && j.stato === 'pronto') continue;
+    // Prese di cui si è già usata una: la scelta ha la sua scheda, le prese non servono più.
+    if (j.tipo === 'prese' && scelte.has(j.id)) continue;
     const valido = j.revisione === dati.revisione;
     const azionabile = j.tipo === 'bozza' || j === attuale;
     const testuale = ['bozza', 'modifica', 'stacco'].includes(j.tipo) && !j.errore;
@@ -256,21 +502,18 @@ export function disegnaLavori() {
         scegliPassaggio(j.riga);
         modificaInLinea('', j.dopo);
       }));
-      if (j.prese) for (const k of j.prese) {
-        const r = el('div', 'autore-presa');
-        const etichetta = k === 0 ? 'Lettura attuale' : `Presa ${k}`;
-        const sample = el('audio');
-        sample.controls = true;
-        sample.preload = 'none';
-        sample.src = `${apiBase}prese/${j.id}/${k}.mp3`;
-        sample.setAttribute('aria-label', etichetta);
-        sample.addEventListener('play', () => {
-          voce.pause();
-          for (const altro of elenco.querySelectorAll('audio')) if (altro !== sample) altro.pause();
+      if (j.prese) {
+        box.append(comandiPrese(j, valido));
+        for (const k of j.prese) box.append(rigaPresa(j, k, valido));
+      }
+      if (j.tipo === 'prese' && !['in coda', 'in generazione'].includes(j.stato)) {
+        const scarta = bottone('Scarta le prese', async () => {
+          scarta.disabled = true;
+          try { await api('scarta', { id: j.id }); await aggiorna(j.capitolo); stato.textContent = 'Prese scartate.'; }
+          catch (e) { stato.textContent = e.message; scarta.disabled = false; }
         });
-        r.append(el('span', '', etichetta), sample);
-        if (k && valido) r.append(bottone(`Usa presa ${k}`, () => azione('scegli', { id: j.id, presa: k })));
-        box.append(r);
+        scarta.className = 'autore-pulisci';
+        box.append(scarta);
       }
       return box;
     } });
@@ -285,13 +528,22 @@ export function disegnaLavori() {
   } });
   voci.sort((a, b) => (a.ordine === b.ordine ? 0 : a.ordine - b.ordine) || Date.parse(a.creato) - Date.parse(b.creato));
   for (const v of voci) elenco.append(v.nodo());
+  if (dati.controllo?.length) elenco.append(schedaControllo(dati.controllo));
   if (storico.length) {
     const box = el('details', 'autore-storico');
     box.append(el('summary', '', storico.length === 1 ? '1 modifica precedente' : `${storico.length} modifiche precedenti`));
     for (const j of storico.slice().reverse()) {
-      const riga = el('p', 'autore-didascalia');
-      riga.dataset.lavoro = j.id;
-      riga.textContent = etichettaLavoro(j);
+      const riga = el('p', 'autore-didascalia autore-riga-storico');
+      // L'etichetta si riscrive a ogni lettura (aggiornaStatiLavori): il bottone sta fuori.
+      const etichetta = el('span', '', etichettaLavoro(j));
+      etichetta.dataset.lavoro = j.id;
+      riga.append(etichetta);
+      if (j.blocchi?.length || j.dopo !== undefined) {
+        const seleziona = bottone('Seleziona', () => selezionaNelTesto(j));
+        seleziona.className = 'autore-seleziona-storico';
+        tooltipSu(seleziona, 'Seleziona nel testo di oggi il punto cambiato');
+        riga.append(seleziona);
+      }
       box.append(riga);
     }
     const pulisci = bottone('Pulisci lo storico', () => azione('pulisci', { capitolo: dati.capitolo }));

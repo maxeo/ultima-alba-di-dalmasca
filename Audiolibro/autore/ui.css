@@ -17,6 +17,8 @@
 }
 
 .autore-apri[hidden] { display: none; }
+.autore-avviso-voce { margin-left: 6px; font-weight: 600; color: light-dark(#9a5b00, #f0b45a); }
+.autore-avviso-voce[hidden] { display: none; }
 .autore-disponibile .pagina header { padding-right: 75px; }
 .autore-disponibile:has(.autore-apri[hidden]) .pagina header { padding-right: 12px; }
 
@@ -24,6 +26,8 @@
   .autore-aperto { --autore-spazio: clamp(330px, 43vw, 445px); }
   .autore-aperto .pagina, .autore-aperto .lettore { right: var(--autore-spazio); }
   .autore-aperto .autore-apri { right: calc(var(--autore-spazio) + 16px); }
+  /* «Segui la voce» sta in basso a destra: col pannello aperto finirebbe sotto. */
+  .autore-aperto .segui { right: calc(var(--autore-spazio) + 16px); }
 }
 
 .autore-pannello {
@@ -43,7 +47,7 @@
 
 /* Le classi qui sotto impostano display: senza questa riga nasconderle da codice non basterebbe. */
 .autore-pannello[hidden], :is(.autore-pannello, .autore-in-linea) [hidden] { display: none; }
-.autore-barra, .autore-azioni, .autore-presa { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.autore-barra, .autore-azioni { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
 .autore-barra { justify-content: space-between; }
 .autore-pannello h2 { font: 600 1.24rem system-ui; margin: 0; }
 .autore-pannello h3 { font: 600 1rem system-ui; margin: 20px 0 8px; }
@@ -69,8 +73,24 @@
 .autore-lavori details { border-top: 1px solid color-mix(in srgb, currentColor 24%, transparent); padding: 8px 0; }
 .autore-lavori summary { cursor: pointer; font-weight: 600; }
 .autore-errore { padding: 6px 9px; border-radius: 6px; overflow-wrap: anywhere; background: #a348422b; }
-.autore-presa { padding: 5px 0; }
-.autore-presa audio { width: 100%; height: 36px; }
+.autore-presa { display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 10px; margin-top: 6px;
+  padding: 6px 8px; border: 1px solid var(--linea); border-radius: 10px; }
+.autore-presa.autore-in-ascolto { border-color: var(--accento); }
+.autore-comandi-prese { display: flex; align-items: center; justify-content: space-between; gap: 10px; flex-wrap: wrap; margin-top: 8px; }
+.autore-volume-prese { display: flex; align-items: center; gap: 6px; margin-left: auto; font-size: 14px; }
+.autore-volume-prese input { width: 110px; accent-color: var(--accento); }
+.autore-presa audio { display: none; }
+.autore-pannello button.autore-play-presa { width: 36px; height: 36px; padding: 0; border-radius: 50%; font-size: 13px; line-height: 1; }
+.autore-centro-presa { min-width: 0; display: flex; flex-direction: column; gap: 6px; }
+.autore-testa-presa { display: flex; justify-content: space-between; gap: 8px; font-size: 13px; }
+.autore-nome-presa.autore-attuale { opacity: .75; }
+.autore-tempo-presa { font-size: 12px; opacity: .75; font-variant-numeric: tabular-nums; }
+.autore-barra-presa { position: relative; height: 6px; border-radius: 3px; cursor: pointer; touch-action: none;
+  background: color-mix(in srgb, currentColor 15%, transparent); }
+/* Area di presa più alta della barra, per il dito. */
+.autore-barra-presa::before { content: ''; position: absolute; inset: -10px 0; }
+.autore-barra-presa > span { position: absolute; inset: 0 auto 0 0; width: 0; border-radius: 3px; background: var(--accento); }
+.autore-pannello button.autore-usa-presa { min-height: 36px; padding: 4px 14px; }
 
 .autore-in-modifica > :is([data-i], .autore-versione, .autore-confronto, .autore-controlli-paragrafo),
 .autore-anteprima > [data-i] { display: none; }
@@ -257,6 +277,17 @@
 .autore-storico { border-top: 1px solid color-mix(in srgb, currentColor 24%, transparent); padding: 8px 0; }
 .autore-storico summary { cursor: pointer; font-size: 12px; font-weight: 600; opacity: .83; }
 .autore-storico > .autore-didascalia { margin: 6px 0 0; font-size: 12px; }
+.autore-riga-storico { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.autore-seleziona-storico { flex: none; min-height: 32px; padding: 2px 10px; font-size: 12px; }
+.autore-punto-voce { display: flex; align-items: flex-start; gap: 8px; margin-top: 8px; font-size: 12px; }
+.autore-ascolta-punto, .autore-ignora-punto { flex: none; min-height: 32px; padding: 2px 10px; font-size: 12px; font-variant-numeric: tabular-nums; }
+.autore-testo-punto { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 2px; overflow-wrap: anywhere; }
+.autore-tipo-punto { font-weight: 600; opacity: .83; }
+.autore-comandi-punto { flex: none; display: flex; flex-direction: column; gap: 4px; }
+.autore-diff-punto del { text-decoration: line-through; opacity: .8; background: color-mix(in srgb, #c0392b 18%, transparent); border-radius: 2px; }
+.autore-diff-punto mark { color: inherit; background: color-mix(in srgb, var(--accento) 35%, transparent); border-radius: 2px; }
+.autore-ignorati { margin-top: 10px; }
+.autore-ignorati summary { font-weight: 400; }
 .autore-segnalazioni { margin: 6px 0 0; padding-left: 18px; font-size: 12px; opacity: .9; }
 .autore-voce { border-top: 1px solid color-mix(in srgb, currentColor 24%, transparent); padding: 8px 0; }
 .autore-voce > .autore-riga-stato { margin: 0 0 6px; font-size: 12px; font-weight: 600; opacity: .83; }

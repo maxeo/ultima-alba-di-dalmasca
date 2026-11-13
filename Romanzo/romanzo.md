@@ -1129,7 +1129,7 @@ Si liberò lentamente dalla gamba di Vaan, facendo attenzione a non svegliarlo. 
 
 Reks si vestì al buio. La giubba sistemata da Migelo gli stava finalmente bene, e per qualche istante si fermò ad aggiustarne il colletto. Controllò la spilla sul petto: era ancora al suo posto.
 
-Prima di uscire, guardò le tacche incise sulla trave sopra la porta. Vaan era cresciuto parecchio negli ultimi mesi. Al ritorno avrebbe dovuto misurarlo di nuovo, magari usando la sedia per arrivare più in alto.
+Prima di uscire, guardò le tacche incise sulla trave sopra la porta. Vaan era cresciuto parecchio negli ultimi mesi. Al ritorno avrebbe dovuto misurarlo di nuovo.
 
 Si voltò un'ultima volta verso il fratello.
 
@@ -2014,9 +2014,7 @@ Lo avevano interrogato già a Nalbina, quando aveva ripreso conoscenza. Gli avev
 
 Le domande erano state ripetute molte volte.
 
-Reks aveva raccontato dei cavalieri morti, del re e dell'uomo che aveva riconosciuto come il capitano Basch.
-
-Aveva anche raccontato di essere stato colpito da lui.
+Reks aveva raccontato dei cavalieri morti lungo i corridoi della fortezza, di come fosse riuscito a raggiungere gli appartamenti del re e di ciò che aveva visto una volta arrivato. Il capitano Basch aveva ucciso Raminas davanti ai suoi occhi e, quando Reks aveva cercato di chiedergli spiegazioni, aveva rivolto la spada anche contro di lui.
 
 Non aveva inventato nulla. Era certo di aver visto il capitano, e non riusciva a spiegarsi perché l'uomo che aveva cercato di salvarlo poche ore prima avesse assassinato il re.
 

@@ -1,13 +1,5 @@
 {
- "capitolo": "081-il-ritorno-del-pirata",
- "somiglianza": 0.9668,
- "problemi": [
-  {
-   "tempo": "8:48",
-   "secondi": 528.4,
-   "tipo": "diverso",
-   "testo": "il saldo dei duemilacinquecento ghil siamo pari siamo",
-   "audio": "il saldo dei 2 .500 Gil. Siamo pari. Siamo"
-  }
- ]
+ "capitolo": "082-il-ritorno-del-pirata",
+ "somiglianza": 0.9686,
+ "problemi": []
 }

@@ -47,7 +47,9 @@ export async function azione(comando, corpo, dopo) {
     const risultato = await api(comando, corpo);
     await aggiorna(dati.capitolo);
     dopo?.();
-    stato.textContent = comando === 'applica-bozza' ? 'Bozza applicata al testo. Audio precedente in uso.' : `Capitolo ${risultato.capitolo} · lavoro in coda`;
+    stato.textContent = comando === 'applica-bozza' ? 'Bozza applicata al testo. Audio precedente in uso.'
+      : comando === 'pulisci' ? `Capitolo ${risultato.capitolo} · storico pulito`
+      : `Capitolo ${risultato.capitolo} · lavoro in coda`;
     return true;
   } catch (e) { stato.textContent = e.message; return false; }
 }

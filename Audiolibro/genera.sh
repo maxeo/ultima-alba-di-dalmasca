@@ -17,6 +17,7 @@ for n in $(seq "$PRIMO" "$ULTIMO"); do
       echo "$(date '+%F %T') $f OK $(( $(date +%s)-S ))s" >> audio/stato.txt; ERRORI=0
       # Whisper: controllo delle parole e tempi per il lettore. Un errore qui o nella pubblicazione non ferma la generazione.
       bash dopo.sh "$f"
+      bash rifai.sh "$n" --taglia
       break
     fi
     echo "$(date '+%F %T') $f ERRORE exit=$e tentativo=$tentativo" >> audio/stato.txt

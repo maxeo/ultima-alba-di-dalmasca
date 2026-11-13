@@ -1,15 +1,19 @@
 # Controlla un audio generato: lo trascrive con Whisper e lo confronta con il testo dato alla voce.
 # Segnala i punti in cui la voce ha detto parole che nel testo non ci sono, o ne ha saltate.
 # Uso (dentro l'immagine e2a-whisper): python /app/controlla.py NNN-nome [--frasi i,j,...]
+# Con --rivaluta non riascolta niente: rifà il confronto dalle parole già trascritte (controlli/NNN-nome.parole.json),
+# per esempio dopo aver aggiunto righe a whisper-sente.tsv. Non serve la GPU: gira anche fuori dal contenitore.
 # Con --frasi riascolta solo quelle frasi (indici di rifai.sh, uguali ai blocchi del vtt) e aggiorna i risultati
 # del controllo precedente: serve il vtt di prima in /app/controlli/NNN-nome.vtt-prima, lasciato da rifai.sh.
 import sys, os, re, json, unicodedata, difflib
-from faster_whisper import WhisperModel
 
+BASE = os.path.dirname(os.path.abspath(__file__))
 nome = sys.argv[1]
 frasi = sorted({int(x) for x in sys.argv[sys.argv.index("--frasi") + 1].split(",") if x}) if "--frasi" in sys.argv else []
+rivaluta = "--rivaluta" in sys.argv
 modello = "large-v3-turbo"
-testo = open(f"/app/testo/{nome}.txt", encoding="utf-8").read()
+# I tag per la voce ([pause:2]) non si dicono: non vanno nel testo atteso.
+testo = re.sub(r"\[[^\]]*\]", " ", open(f"{BASE}/testo/{nome}.txt", encoding="utf-8").read())
 
 
 def norm(p):
@@ -23,6 +27,76 @@ def parole(s):
 
 
 atteso = parole(testo)
+
+# Whisper scrive i numeri in cifre («50 000», «19»), il testo li ha in lettere: le cifre si riscrivono in lettere.
+UNITA = "zero uno due tre quattro cinque sei sette otto nove dieci undici dodici tredici quattordici quindici sedici diciassette diciotto diciannove".split()
+DECINE = "_ _ venti trenta quaranta cinquanta sessanta settanta ottanta novanta".split()
+
+
+def in_lettere(n):
+    if n < 20:
+        return UNITA[n]
+    if n < 100:
+        d, u = divmod(n, 10)
+        t = DECINE[d]
+        if u == 0:
+            return t
+        return (t[:-1] if u in (1, 8) else t) + UNITA[u]
+    if n < 1000:
+        c, r = divmod(n, 100)
+        testa = "cento" if c == 1 else UNITA[c] + "cento"
+        if r == 0:
+            return testa
+        coda = in_lettere(r)
+        return (testa[:-1] if coda.startswith("o") else testa) + coda
+    if n < 1000000:
+        m, r = divmod(n, 1000)
+        testa = "mille" if m == 1 else in_lettere(m) + "mila"
+        return testa + (in_lettere(r) if r else "")
+    m, r = divmod(n, 1000000)
+    testa = "unmilione" if m == 1 else in_lettere(m) + "milioni"
+    return testa + (in_lettere(r) if r else "")
+
+
+def lettere(t):
+    t = re.sub(r"(?<!\d)(\d{1,3})(?:[ .](\d{3}))+(?!\d)", lambda m: m.group(0).replace(" ", "").replace(".", ""), t)
+    return re.sub(r"\d+", lambda m: in_lettere(int(m.group(0))) if len(m.group(0)) < 10 else m.group(0), t)
+
+
+# Parole che Whisper sente sempre male (soprattutto i nomi): whisper-sente.tsv, «sentito<TAB>scritto».
+# Valgono solo dentro un punto già diverso dal testo, per decidere se è un falso allarme.
+SENTE = []
+f_sente = os.path.join(BASE, "whisper-sente.tsv")
+if os.path.exists(f_sente):
+    for r in open(f_sente, encoding="utf-8"):
+        if r.strip() and not r.startswith("#") and "\t" in r:
+            a, b = r.rstrip("\r\n").split("\t")[:2]
+            if parole(a):
+                SENTE.append((parole(a), parole(b)))
+    SENTE.sort(key=lambda x: -len(x[0]))
+
+
+def corretto(sentito):
+    fuori, i = [], 0
+    while i < len(sentito):
+        for a, b in SENTE:
+            if sentito[i:i + len(a)] == a:
+                fuori += b
+                i += len(a)
+                break
+        else:
+            fuori.append(sentito[i])
+            i += 1
+    return fuori
+
+
+def falso_allarme(a, b):
+    # Dopo le correzioni note, quello che resta diverso è al più una parola qua e là, o la stessa cosa scritta attaccata.
+    b = corretto(parole(lettere(" ".join(b))))
+    if "".join(a) == "".join(b):
+        return True
+    sm = difflib.SequenceMatcher(None, a, b, autojunk=False)
+    return all(max(a2 - a1, b2 - b1) < 2 for op, a1, a2, b1, b2 in sm.get_opcodes() if op != "equal")
 
 
 
@@ -41,6 +115,8 @@ def confronta(atteso, sentito, tempi, crude):
         if max(na, nb) < 3:
             continue
         if op == "replace" and difflib.SequenceMatcher(None, "".join(atteso[a1:a2]), "".join(sentito[b1:b2])).ratio() > 0.75:
+            continue
+        if falso_allarme(atteso[a1:a2], sentito[b1:b2]):
             continue
         t = tempi[min(b1, len(tempi) - 1)] if tempi else 0
         problemi.append({
@@ -66,7 +142,7 @@ def trascrivi(m, da=None, a=None):
     # L'audio si decodifica con ffmpeg: la libreria av dell'immagine è troppo vecchia per faster-whisper.
     import subprocess, numpy as np
     taglio = ["-ss", f"{da:.3f}", "-to", f"{a:.3f}"] if da is not None else []
-    pcm = subprocess.run(["ffmpeg", "-v", "error", *taglio, "-i", f"/app/audiobooks/{nome}.mp3", "-f", "s16le", "-ac", "1", "-ar", "16000", "-"],
+    pcm = subprocess.run(["ffmpeg", "-v", "error", *taglio, "-i", f"{BASE}/audiobooks/{nome}.mp3", "-f", "s16le", "-ac", "1", "-ar", "16000", "-"],
                          capture_output=True, check=True).stdout
     audio = np.frombuffer(pcm, np.int16).astype(np.float32) / 32768.0
     segmenti, _ = m.transcribe(audio, language="it", word_timestamps=True,
@@ -81,15 +157,27 @@ def trascrivi(m, da=None, a=None):
     return sentito, tempi, crude, elenco
 
 
-f_json, f_parole = f"/app/controlli/{nome}.json", f"/app/controlli/{nome}.parole.json"
-f_prima = f"/app/controlli/{nome}.vtt-prima"
+f_json, f_parole = f"{BASE}/controlli/{nome}.json", f"{BASE}/controlli/{nome}.parole.json"
+f_prima = f"{BASE}/controlli/{nome}.vtt-prima"
 parziale = bool(frasi) and all(os.path.exists(x) for x in (f_json, f_parole, f_prima))
 if parziale:
-    nuovi, vecchi = leggi_vtt(f"/app/audiobooks/{nome}.vtt"), leggi_vtt(f_prima)
+    nuovi, vecchi = leggi_vtt(f"{BASE}/audiobooks/{nome}.vtt"), leggi_vtt(f_prima)
     parziale = len(nuovi) == len(vecchi) and max(frasi) < len(nuovi)
 
-m = WhisperModel(modello, device="cuda", compute_type="int8", download_root="/app/models/whisper")
-if parziale:
+if rivaluta:
+    parziale = False
+    elenco = json.load(open(f_parole, encoding="utf-8"))
+    sentito, tempi, crude = [], [], []
+    for a, _, w in elenco:
+        for x in parole(lettere(w)):
+            sentito.append(x); tempi.append(a); crude.append(w)
+    problemi, somiglianza = confronta(atteso, sentito, tempi, crude)
+else:
+    from faster_whisper import WhisperModel
+    m = WhisperModel(modello, device="cuda", compute_type="int8", download_root=f"{BASE}/models/whisper")
+if rivaluta:
+    pass
+elif parziale:
     # Il resto del capitolo non è cambiato: si spostano i tempi del controllo precedente
     # e si riascoltano solo le frasi rifatte.
     def dove(t):
@@ -111,7 +199,7 @@ if parziale:
     for i in frasi:
         a, b, testo_frase = nuovi[i]
         sentito, tempi, crude, el = trascrivi(m, max(0, a - 0.2), b + 0.2)
-        elenco += el
+        elenco += [x for x in el if a <= x[0] < b]  # le parole delle frasi vicine restano quelle di prima
         nuovi_p, _ = confronta(parole(testo_frase), sentito, tempi, crude)
         problemi += nuovi_p
     elenco.sort(key=lambda x: x[0]); problemi.sort(key=lambda p: p["secondi"])

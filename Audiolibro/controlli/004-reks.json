@@ -1,20 +1,5 @@
 {
  "capitolo": "004-reks",
- "somiglianza": 0.9533,
- "problemi": [
-  {
-   "tempo": "0:02",
-   "secondi": 2.0,
-   "tipo": "diverso",
-   "testo": "pause2 capitolo quarto reks pause2 il capitano basch",
-   "audio": "Capitolo IV. Rex. Il capitano Bash"
-  },
-  {
-   "tempo": "10:55",
-   "secondi": 655.2,
-   "tipo": "in più",
-   "testo": "lo dice penelo dice che mi",
-   "audio": "lo dice Penelo. Sì, non ho detto. Dice che mi"
-  }
- ]
+ "somiglianza": 0.9557,
+ "problemi": []
 }

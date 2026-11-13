@@ -338,7 +338,7 @@ Si liberò lentamente dalla gamba di Vaan, facendo attenzione a non svegliarlo. 
 
 Reks si vestì al buio. La giubba sistemata da Migelo gli stava finalmente bene, e per qualche istante si fermò ad aggiustarne il colletto. Controllò la spilla sul petto: era ancora al suo posto.
 
-Prima di uscire, guardò le tacche incise sulla trave sopra la porta. Vaan era cresciuto parecchio negli ultimi mesi. Al ritorno avrebbe dovuto misurarlo di nuovo, magari usando la sedia per arrivare più in alto.
+Prima di uscire, guardò le tacche incise sulla trave sopra la porta. Vaan era cresciuto parecchio negli ultimi mesi. Al ritorno avrebbe dovuto misurarlo di nuovo.
 
 Si voltò un'ultima volta verso il fratello.
 

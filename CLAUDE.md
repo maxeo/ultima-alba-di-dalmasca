@@ -36,6 +36,22 @@ di questi meccanismi si aggiorna anche questo file.
 - `rifai.sh N --testo` lancia `prepara.js` e `aggiorna.js`, che confronta parola per parola il testo nuovo con
   le frasi della sessione e rifà solo quelle cambiate. `--monta` rimonta e basta: **non** rilegge il capitolo.
 - XTTS può inventare parole su una frase rifatta: dopo ogni rifacimento si guarda il controllo Whisper.
+- `bash` legge `rifai.sh` mentre lo esegue: non si modifica mentre gira (coda del pannello compresa), o almeno
+  si lascia il file della stessa lunghezza, altrimenti chi è a metà rilegge pezzi di riga.
+- `monta()` in `rifai.sh` cancella mp3 e vtt master prima di rimontare: se il rimontaggio fallisce, il capitolo resta
+  senza master (quello pubblicato in `docs/audio` resta) e si rifà con `rifai.sh N --monta`. `tts.sh` manda al
+  server un corpo solo ASCII: da Git Bash `curl` non passa gli accenti in UTF-8 e il server rifiuta la richiesta.
+- XTTS a volte ripete un pezzo di frase o inventa parole fra due pezzi giusti. Dopo ogni montaggio `rifai.sh` (e
+  `genera.sh` dopo un capitolo intero) lancia `taglia.js`: per le frasi con un punto «in più» di Whisper allinea le
+  parole sentite con il testo della frase; se fuori da un unico gruppo di almeno 3 parole in più la frase coincide,
+  taglia il `.flac` della frase nella sessione dalla pausa dopo l'ultima parola giusta alla pausa prima della
+  successiva (o alla pausa finale). Poi rimonta una volta sola (`TAGLI=no`) e Whisper riascolta quelle frasi. Senza
+  pause chiare non taglia. I tagli si annotano in `Audiolibro/audio/tagli.txt`. A mano: `rifai.sh N --taglia`,
+  oppure `node taglia.js <sessione> <nome> --prova` per vedere cosa taglierebbe.
+- Whisper sente male alcuni nomi e scrive i numeri in cifre. `controlla.py` riscrive le cifre in lettere e usa
+  `Audiolibro/whisper-sente.tsv` («sentito<TAB>scritto») per scartare i falsi allarmi, solo dentro un punto già
+  diverso dal testo. Dopo aver aggiunto righe si ricalcola senza riascoltare: `python Audiolibro/controlla.py
+  NNN-nome --rivaluta` (stdlib, niente GPU).
 
 ## Server dell'autore (`Audiolibro/autore/`, porta 8765)
 
@@ -50,6 +66,10 @@ di questi meccanismi si aggiorna anche questo file.
 - La coda appartiene al pannello: i rifacimenti audio passano da lì (un lavoro `modifica` in coda fa
   `rifai.sh --testo`, controllo Whisper e pubblicazione del capitolo), non da `rifai.sh` lanciato a mano mentre
   l'autore lavora.
+- Il pannello mostra i punti del controllo Whisper del capitolo (`controllo` in `GET capitolo/N`, solo se il
+  controllo è più recente dell'mp3), con «▶» per riascoltarli e «Ignora». Gli ignorati stanno in
+  `Audiolibro/audio/autore/controlli-ignorati.json`, per nome di capitolo, con chiave l'hash di tipo, testo e audio:
+  restano ignorati anche se un rimontaggio sposta i tempi.
 - `pubblica.js` completo, per un capitolo con un lavoro ancora aperto, riusa la voce di `docs/capitoli.json`
   **con lo stesso numero**: se i numeri cambiano, quel file va rinumerato prima di accodare i lavori.
 
